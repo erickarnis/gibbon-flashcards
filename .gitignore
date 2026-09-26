@@ -1,0 +1,9 @@
+.DS_Store
+__pycache__/
+.venv/
+*.azw3
+*.epub
+*.mobi
+*.pdf
+dist/
+sources/edition.json
