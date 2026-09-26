@@ -1,0 +1,523 @@
+{
+  "person_id": "paulus-gladiator",
+  "query": "Paulus (gladiator)",
+  "response": {
+    "batchcomplete": true,
+    "continue": {
+      "gsroffset": 5,
+      "continue": "gsroffset||"
+    },
+    "query": {
+      "pages": [
+        {
+          "pageid": 43714933,
+          "ns": 6,
+          "title": "File:Italy from the Alps to Mount Etna (1877) (14590108138).jpg",
+          "index": 5,
+          "imagerepository": "local",
+          "imageinfo": [
+            {
+              "size": 725550,
+              "width": 1412,
+              "height": 2170,
+              "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0a/Italy_from_the_Alps_to_Mount_Etna_%281877%29_%2814590108138%29.jpg/500px-Italy_from_the_Alps_to_Mount_Etna_%281877%29_%2814590108138%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+              "thumbwidth": 400,
+              "thumbheight": 615,
+              "responsiveUrls": {
+                "2": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0a/Italy_from_the_Alps_to_Mount_Etna_%281877%29_%2814590108138%29.jpg/960px-Italy_from_the_Alps_to_Mount_Etna_%281877%29_%2814590108138%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+              },
+              "thumbattribs": {
+                "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0a/Italy_from_the_Alps_to_Mount_Etna_%281877%29_%2814590108138%29.jpg/500px-Italy_from_the_Alps_to_Mount_Etna_%281877%29_%2814590108138%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+                "decoding": "async",
+                "loading": "lazy",
+                "width": 400,
+                "height": 615,
+                "srcset": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0a/Italy_from_the_Alps_to_Mount_Etna_%281877%29_%2814590108138%29.jpg/960px-Italy_from_the_Alps_to_Mount_Etna_%281877%29_%2814590108138%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail 2x"
+              },
+              "url": "https://upload.wikimedia.org/wikipedia/commons/0/0a/Italy_from_the_Alps_to_Mount_Etna_%281877%29_%2814590108138%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+              "descriptionurl": "https://commons.wikimedia.org/wiki/File:Italy_from_the_Alps_to_Mount_Etna_(1877)_(14590108138).jpg",
+              "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=43714933",
+              "extmetadata": {
+                "DateTime": {
+                  "value": "2015-09-27 15:17:09",
+                  "source": "mediawiki-metadata",
+                  "hidden": ""
+                },
+                "ObjectName": {
+                  "value": "Italy from the Alps to Mount Etna (1877) (14590108138)",
+                  "source": "mediawiki-metadata"
+                },
+                "CommonsMetadataExtension": {
+                  "value": 1.2,
+                  "source": "extension",
+                  "hidden": ""
+                },
+                "Categories": {
+                  "value": "Photos uploaded from Flickr by Fæ using a script|Flickr images reviewed by FlickreviewR|Files from Internet Archive Book Images Flickr stream|Files from Flickr's 'The Commons'|Torre degli Asinelli and Torre della Garisenda (Bologna) in art|Italy from the Alps to Mount Etna (1877)",
+                  "source": "commons-categories",
+                  "hidden": ""
+                },
+                "Assessments": {
+                  "value": "",
+                  "source": "commons-categories",
+                  "hidden": ""
+                },
+                "ImageDescription": {
+                  "value": "<br>\n<p><b>Identifier</b>: italyfromalpstom00stie (<a class=\"external text\" href=\"https://commons.wikimedia.org/w/index.php?title=Special%3ASearch&amp;profile=default&amp;fulltext=Search&amp;search=insource%3A%2Fitalyfromalpstom00stie%2F\">find matches</a>)<br>\n<b>Title</b>: <a rel=\"nofollow\" class=\"external text\" href=\"https://www.flickr.com/photos/internetarchivebookimages/tags/bookiditalyfromalpstom00stie\">Italy from the Alps to Mount Etna</a><br>\n<b>Year</b>: <a rel=\"nofollow\" class=\"external text\" href=\"https://www.flickr.com/photos/internetarchivebookimages/tags/bookyear1877\">1877</a> (<a rel=\"nofollow\" class=\"external text\" href=\"https://www.flickr.com/photos/internetarchivebookimages/tags/bookdecade1870\">1870s</a>)<br>\n<b>Authors</b>:  <a rel=\"nofollow\" class=\"external text\" href=\"https://www.flickr.com/photos/internetarchivebookimages/tags/bookauthorStieler__Karl__1842_1885\">Stieler, Karl, 1842-1885</a> <a rel=\"nofollow\" class=\"external text\" href=\"https://www.flickr.com/photos/internetarchivebookimages/tags/bookauthorCavagna_Sangiuliani_di_Gualdana__Antonio__conte__1843_1913__former_owner__IU_R\">Cavagna Sangiuliani di Gualdana, Antonio, conte, 1843-1913, former owner. IU-R</a> <a rel=\"nofollow\" class=\"external text\" href=\"https://www.flickr.com/photos/internetarchivebookimages/tags/bookauthorPaulus__Eduard__1837_1907\">Paulus, Eduard, 1837-1907</a> <a rel=\"nofollow\" class=\"external text\" href=\"https://www.flickr.com/photos/internetarchivebookimages/tags/bookauthorKaden__Woldemar__1838_1907\">Kaden, Woldemar, 1838-1907</a> <a rel=\"nofollow\" class=\"external text\" href=\"https://www.flickr.com/photos/internetarchivebookimages/tags/bookauthorTrollope__Frances_Eleanor__d__1913\">Trollope, Frances Eleanor, d. 1913</a> <a rel=\"nofollow\" class=\"external text\" href=\"https://www.flickr.com/photos/internetarchivebookimages/tags/bookauthorTrollope__Thomas_Adolphus__1810_1892\">Trollope, Thomas Adolphus, 1810-1892</a><br>\n<b>Subjects</b>: <br>\n<b>Publisher</b>:  <a rel=\"nofollow\" class=\"external text\" href=\"https://www.flickr.com/photos/internetarchivebookimages/tags/bookpublisherLondon___Chapman_and_Hall\">London : Chapman and Hall</a><br>\n<b>Contributing Library</b>:  <a rel=\"nofollow\" class=\"external text\" href=\"https://www.flickr.com/photos/internetarchivebookimages/tags/bookcontributorUniversity_of_Illinois_Urbana_Champaign\">University of Illinois Urbana-Champaign</a><br>\n<b>Digitizing Sponsor</b>:  <a rel=\"nofollow\" class=\"external text\" href=\"https://www.flickr.com/photos/internetarchivebookimages/tags/booksponsorUniversity_of_Illinois_Urbana_Champaign\">University of Illinois Urbana-Champaign</a><br>\n<br>\n<b>View Book Page</b>: <a rel=\"nofollow\" class=\"external text\" href=\"https://archive.org/stream/italyfromalpstom00stie/italyfromalpstom00stie#page/n233/mode/1up\">Book Viewer</a><br>\n<b>About This Book</b>: <a rel=\"nofollow\" class=\"external text\" href=\"https://archive.org/details/italyfromalpstom00stie\">Catalog Entry</a><br>\n<b>View All Images</b>: <a rel=\"nofollow\" class=\"external text\" href=\"https://www.flickr.com/photos/internetarchivebookimages/tags/bookiditalyfromalpstom00stie\">All Images From Book</a><br>\nClick here to <a rel=\"nofollow\" class=\"external text\" href=\"https://archive.org/stream/italyfromalpstom00stie/italyfromalpstom00stie#page/n233/mode/1up\"><b>view book online</b></a> to see this illustration in context in a browseable online version of this book.<br>\n<br>\n<b>Text Appearing Before Image:</b><br>\n<i>Apennine,and from the Adriatic to thetowers of Modena ; all thetreasures which Nature andMan have lavished on thissoil, lie beneath our gaze,—the happy fields throughwhich, as far back as twothousand years ago the ViasEmilia led northwards toMilan. As we advance eastward towards the sea, however, the plain grows marshy anddesolate, and close to the sandy shore we come upon a city which surpasses most towns ofcentral Italy in renown, though not in prosperity ;—I mean Ravenna. Who has notpictured to himself the old Gothic King Theodoric ?—here is his tomb. Whose heartdoes not ache to read of the great Dante sadly departing into exile ?—here it was that hefound rest for time and eternity. In Ravenna Thumelicus, the son of the barbarian PrinceHermann, grew up to be a gladiator ; in Ravenna Gaston de Foix fell in one of thebloodiest battles which Europe had yet seen; in Ravenna Byron sought peace andrepose beside the beautiful Countess Guiccioli. Yet these are but a few of the more</i><br>\n<b>Text Appearing After Image:</b><br>\n<i>THE LEANING TOWERS IN BOLOGNA. IN EMILIA. 153 salient memories of the city which for centuries led so stormy an existence, and thenagain for centuries so stagnant and solitary a one! The foundation of her politicalimportance and prosperity was the harbour which Augustus caused to be constructed for -r-</i><br>\n<br>\n<b>Note About Images</b><br>\n</p>\n<i>Please note that these images are extracted from scanned page images that may have been digitally enhanced for readability - coloration and appearance of these illustrations may not perfectly resemble the original work.</i>",
+                  "source": "commons-desc-page"
+                },
+                "DateTimeOriginal": {
+                  "value": "1877",
+                  "source": "commons-desc-page"
+                },
+                "Credit": {
+                  "value": "<p><a rel=\"nofollow\" class=\"external free\" href=\"https://www.flickr.com/photos/internetarchivebookimages/14590108138/\">https://www.flickr.com/photos/internetarchivebookimages/14590108138/</a>\n</p>\n<ul><li>Source book page: <a rel=\"nofollow\" class=\"external free\" href=\"https://archive.org/stream/italyfromalpstom00stie/italyfromalpstom00stie#page/n233/mode/1up\">https://archive.org/stream/italyfromalpstom00stie/italyfromalpstom00stie#page/n233/mode/1up</a></li></ul>",
+                  "source": "commons-desc-page"
+                },
+                "Artist": {
+                  "value": "<a rel=\"nofollow\" class=\"external text\" href=\"https://www.flickr.com/people/126377022@N07\">Internet Archive Book Images</a>",
+                  "source": "commons-desc-page"
+                },
+                "Permission": {
+                  "value": "At the time of upload, the image license was automatically confirmed using the Flickr <a href=\"https://en.wikipedia.org/wiki/API\" class=\"extiw\" title=\"en:API\">API</a>. For more information see <a href=\"//commons.wikimedia.org/wiki/User:F%C3%A6/Flickr_API_detail\" title=\"User:Fæ/Flickr API detail\">Flickr API detail</a>.",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "LicenseShortName": {
+                  "value": "No restrictions",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "UsageTerms": {
+                  "value": "No known copyright restrictions",
+                  "source": "commons-desc-page"
+                },
+                "AttributionRequired": {
+                  "value": "false",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "LicenseUrl": {
+                  "value": "https://www.flickr.com/commons/usage/",
+                  "source": "commons-desc-page"
+                },
+                "Copyrighted": {
+                  "value": "True",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "Restrictions": {
+                  "value": "",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                }
+              }
+            }
+          ]
+        },
+        {
+          "pageid": 44619601,
+          "ns": 6,
+          "title": "File:Italy from the Alps to Mount Etna (1877) (14753580236).jpg",
+          "index": 4,
+          "imagerepository": "local",
+          "imageinfo": [
+            {
+              "size": 1053945,
+              "width": 2542,
+              "height": 1638,
+              "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1b/Italy_from_the_Alps_to_Mount_Etna_%281877%29_%2814753580236%29.jpg/500px-Italy_from_the_Alps_to_Mount_Etna_%281877%29_%2814753580236%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+              "thumbwidth": 400,
+              "thumbheight": 258,
+              "responsiveUrls": {
+                "2": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1b/Italy_from_the_Alps_to_Mount_Etna_%281877%29_%2814753580236%29.jpg/960px-Italy_from_the_Alps_to_Mount_Etna_%281877%29_%2814753580236%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+              },
+              "thumbattribs": {
+                "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1b/Italy_from_the_Alps_to_Mount_Etna_%281877%29_%2814753580236%29.jpg/500px-Italy_from_the_Alps_to_Mount_Etna_%281877%29_%2814753580236%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+                "decoding": "async",
+                "loading": "lazy",
+                "width": 400,
+                "height": 258,
+                "srcset": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1b/Italy_from_the_Alps_to_Mount_Etna_%281877%29_%2814753580236%29.jpg/960px-Italy_from_the_Alps_to_Mount_Etna_%281877%29_%2814753580236%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail 2x"
+              },
+              "url": "https://upload.wikimedia.org/wikipedia/commons/1/1b/Italy_from_the_Alps_to_Mount_Etna_%281877%29_%2814753580236%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+              "descriptionurl": "https://commons.wikimedia.org/wiki/File:Italy_from_the_Alps_to_Mount_Etna_(1877)_(14753580236).jpg",
+              "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=44619601",
+              "extmetadata": {
+                "DateTime": {
+                  "value": "2015-10-30 04:30:39",
+                  "source": "mediawiki-metadata",
+                  "hidden": ""
+                },
+                "ObjectName": {
+                  "value": "Italy from the Alps to Mount Etna (1877) (14753580236)",
+                  "source": "mediawiki-metadata"
+                },
+                "CommonsMetadataExtension": {
+                  "value": 1.2,
+                  "source": "extension",
+                  "hidden": ""
+                },
+                "Categories": {
+                  "value": "Photos uploaded from Flickr by Fæ using a script|Flickr images reviewed by FlickreviewR|Files from Internet Archive Book Images Flickr stream|Files from Flickr's 'The Commons'|Valeggio in art|Italy from the Alps to Mount Etna (1877)",
+                  "source": "commons-categories",
+                  "hidden": ""
+                },
+                "Assessments": {
+                  "value": "",
+                  "source": "commons-categories",
+                  "hidden": ""
+                },
+                "ImageDescription": {
+                  "value": "<br>\n<p><b>Identifier</b>: italyfromalpstom00stie (<a class=\"external text\" href=\"https://commons.wikimedia.org/w/index.php?title=Special%3ASearch&amp;profile=default&amp;fulltext=Search&amp;search=insource%3A%2Fitalyfromalpstom00stie%2F\">find matches</a>)<br>\n<b>Title</b>: <a rel=\"nofollow\" class=\"external text\" href=\"https://www.flickr.com/photos/internetarchivebookimages/tags/bookiditalyfromalpstom00stie\">Italy from the Alps to Mount Etna</a><br>\n<b>Year</b>: <a rel=\"nofollow\" class=\"external text\" href=\"https://www.flickr.com/photos/internetarchivebookimages/tags/bookyear1877\">1877</a> (<a rel=\"nofollow\" class=\"external text\" href=\"https://www.flickr.com/photos/internetarchivebookimages/tags/bookdecade1870\">1870s</a>)<br>\n<b>Authors</b>:  <a rel=\"nofollow\" class=\"external text\" href=\"https://www.flickr.com/photos/internetarchivebookimages/tags/bookauthorStieler__Karl__1842_1885\">Stieler, Karl, 1842-1885</a> <a rel=\"nofollow\" class=\"external text\" href=\"https://www.flickr.com/photos/internetarchivebookimages/tags/bookauthorCavagna_Sangiuliani_di_Gualdana__Antonio__conte__1843_1913__former_owner__IU_R\">Cavagna Sangiuliani di Gualdana, Antonio, conte, 1843-1913, former owner. IU-R</a> <a rel=\"nofollow\" class=\"external text\" href=\"https://www.flickr.com/photos/internetarchivebookimages/tags/bookauthorPaulus__Eduard__1837_1907\">Paulus, Eduard, 1837-1907</a> <a rel=\"nofollow\" class=\"external text\" href=\"https://www.flickr.com/photos/internetarchivebookimages/tags/bookauthorKaden__Woldemar__1838_1907\">Kaden, Woldemar, 1838-1907</a> <a rel=\"nofollow\" class=\"external text\" href=\"https://www.flickr.com/photos/internetarchivebookimages/tags/bookauthorTrollope__Frances_Eleanor__d__1913\">Trollope, Frances Eleanor, d. 1913</a> <a rel=\"nofollow\" class=\"external text\" href=\"https://www.flickr.com/photos/internetarchivebookimages/tags/bookauthorTrollope__Thomas_Adolphus__1810_1892\">Trollope, Thomas Adolphus, 1810-1892</a><br>\n<b>Subjects</b>: <br>\n<b>Publisher</b>:  <a rel=\"nofollow\" class=\"external text\" href=\"https://www.flickr.com/photos/internetarchivebookimages/tags/bookpublisherLondon___Chapman_and_Hall\">London : Chapman and Hall</a><br>\n<b>Contributing Library</b>:  <a rel=\"nofollow\" class=\"external text\" href=\"https://www.flickr.com/photos/internetarchivebookimages/tags/bookcontributorUniversity_of_Illinois_Urbana_Champaign\">University of Illinois Urbana-Champaign</a><br>\n<b>Digitizing Sponsor</b>:  <a rel=\"nofollow\" class=\"external text\" href=\"https://www.flickr.com/photos/internetarchivebookimages/tags/booksponsorUniversity_of_Illinois_Urbana_Champaign\">University of Illinois Urbana-Champaign</a><br>\n<br>\n<b>View Book Page</b>: <a rel=\"nofollow\" class=\"external text\" href=\"https://archive.org/stream/italyfromalpstom00stie/italyfromalpstom00stie#page/n72/mode/1up\">Book Viewer</a><br>\n<b>About This Book</b>: <a rel=\"nofollow\" class=\"external text\" href=\"https://archive.org/details/italyfromalpstom00stie\">Catalog Entry</a><br>\n<b>View All Images</b>: <a rel=\"nofollow\" class=\"external text\" href=\"https://www.flickr.com/photos/internetarchivebookimages/tags/bookiditalyfromalpstom00stie\">All Images From Book</a><br>\nClick here to <a rel=\"nofollow\" class=\"external text\" href=\"https://archive.org/stream/italyfromalpstom00stie/italyfromalpstom00stie#page/n72/mode/1up\"><b>view book online</b></a> to see this illustration in context in a browseable online version of this book.<br>\n<br>\n<b>Text Appearing Before Image:</b><br>\n<i>any-headed public could sit at ease, listeningbreathlessly to the growl of the panther as it crouched beneath the feet of the elephant;or watching the sword of the gladiator as he gave his adversary the coup-de-grace.Ilabet! habet! What a frightful picture is conjured up by these recollections ! We see the blood-thirsty masses, intoxicated with excitement, who once sat upon these marble steps ; nowwatching the games in the strong tension of expectation, now bursting into shouts of VERONA. 43 exultation. Praetors and yEdiles, men in flowing togas, and women with goldenornaments in their hair; and above these, pressed in a closer throng, the wild populaceragged, hungry, rough, but insatiable in their thirst for blood! They cower together,each in himself a beast of prey. Pattern ct circenscs is their threatening watchword.Hecatombs of noble animals have already fallen, the most renowned gladiators of theschools, which existed in Imperial times all over Italy, have already displayed their</i><br>\n<b>Text Appearing After Image:</b><br>\n<i>BRIDGE OF BORGHETTO, NEAR VALEGOIO. prowess in the arena, but still there has not been slaughter enough. Like the shout ofa storming army, like the Evoel of a bacchanalian orgie, a cry goes through the thousandsand thousands of spectators, until the last Herculean champion sinks upon the earth.We shudder ! But when we, as it were, awake, and look around us, everything is silentand empty; the seats deserted, the blood dried up from the earth, and the generationswho exulted here buried beneath the ruins of a thousand years ! Only the artizan whohas fixed his workshop under the shelter of the great arches, hammers with assiduoushand. The little day-theatre erected in the midst of the vast space, looks, with itspainted boards, like a toy put there by a childs hand to serve for the exhibition of itspuppets. No man, save the stranger gazing curiously about him, enters this deadly silentcircle; but the sun with his eternal calm passes slowly through it, gliding from stepto step, and like a g</i><br>\n<br>\n<b>Note About Images</b><br>\n</p>\n<i>Please note that these images are extracted from scanned page images that may have been digitally enhanced for readability - coloration and appearance of these illustrations may not perfectly resemble the original work.</i>",
+                  "source": "commons-desc-page"
+                },
+                "DateTimeOriginal": {
+                  "value": "1877",
+                  "source": "commons-desc-page"
+                },
+                "Credit": {
+                  "value": "<p><a rel=\"nofollow\" class=\"external free\" href=\"https://www.flickr.com/photos/internetarchivebookimages/14753580236/\">https://www.flickr.com/photos/internetarchivebookimages/14753580236/</a>\n</p>\n<ul><li>Source book page: <a rel=\"nofollow\" class=\"external free\" href=\"https://archive.org/stream/italyfromalpstom00stie/italyfromalpstom00stie#page/n72/mode/1up\">https://archive.org/stream/italyfromalpstom00stie/italyfromalpstom00stie#page/n72/mode/1up</a></li></ul>",
+                  "source": "commons-desc-page"
+                },
+                "Artist": {
+                  "value": "<a rel=\"nofollow\" class=\"external text\" href=\"https://www.flickr.com/people/126377022@N07\">Internet Archive Book Images</a>",
+                  "source": "commons-desc-page"
+                },
+                "Permission": {
+                  "value": "At the time of upload, the image license was automatically confirmed using the Flickr <a href=\"https://en.wikipedia.org/wiki/API\" class=\"extiw\" title=\"en:API\">API</a>. For more information see <a href=\"//commons.wikimedia.org/wiki/User:F%C3%A6/Flickr_API_detail\" title=\"User:Fæ/Flickr API detail\">Flickr API detail</a>.",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "LicenseShortName": {
+                  "value": "No restrictions",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "UsageTerms": {
+                  "value": "No known copyright restrictions",
+                  "source": "commons-desc-page"
+                },
+                "AttributionRequired": {
+                  "value": "false",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "LicenseUrl": {
+                  "value": "https://www.flickr.com/commons/usage/",
+                  "source": "commons-desc-page"
+                },
+                "Copyrighted": {
+                  "value": "True",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "Restrictions": {
+                  "value": "",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                }
+              }
+            }
+          ]
+        },
+        {
+          "pageid": 95399088,
+          "ns": 6,
+          "title": "File:Herr Paulus, his rise, his greatness, & his fall (IA herrpaulushisris00besarich).pdf",
+          "index": 1,
+          "imagerepository": "local",
+          "imageinfo": [
+            {
+              "size": 21470171,
+              "width": 735,
+              "height": 1137,
+              "pagecount": 364,
+              "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d9/Herr_Paulus%2C_his_rise%2C_his_greatness%2C_%26_his_fall_%28IA_herrpaulushisris00besarich%29.pdf/page1-500px-Herr_Paulus%2C_his_rise%2C_his_greatness%2C_%26_his_fall_%28IA_herrpaulushisris00besarich%29.pdf.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+              "thumbwidth": 400,
+              "thumbheight": 619,
+              "thumbattribs": {
+                "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d9/Herr_Paulus%2C_his_rise%2C_his_greatness%2C_%26_his_fall_%28IA_herrpaulushisris00besarich%29.pdf/page1-500px-Herr_Paulus%2C_his_rise%2C_his_greatness%2C_%26_his_fall_%28IA_herrpaulushisris00besarich%29.pdf.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+                "decoding": "async",
+                "loading": "lazy",
+                "width": 400,
+                "height": 619
+              },
+              "url": "https://upload.wikimedia.org/wikipedia/commons/d/d9/Herr_Paulus%2C_his_rise%2C_his_greatness%2C_%26_his_fall_%28IA_herrpaulushisris00besarich%29.pdf?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+              "descriptionurl": "https://commons.wikimedia.org/wiki/File:Herr_Paulus,_his_rise,_his_greatness,_%26_his_fall_(IA_herrpaulushisris00besarich).pdf",
+              "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=95399088",
+              "extmetadata": {
+                "DateTime": {
+                  "value": "2020-10-24 08:47:36",
+                  "source": "mediawiki-metadata",
+                  "hidden": ""
+                },
+                "ObjectName": {
+                  "value": "<div class=\"fn\">\nHerr Paulus, his rise, his greatness, &amp; his fall</div>",
+                  "source": "commons-desc-page"
+                },
+                "CommonsMetadataExtension": {
+                  "value": 1.2,
+                  "source": "extension",
+                  "hidden": ""
+                },
+                "Categories": {
+                  "value": "Scans from the Internet Archive/unverified|PD US expired|Scans from the Internet Archive|Books uploaded by Fæ|Books without Wikidata item|California Digital Library|1890 books from London|Herr Paulus",
+                  "source": "commons-categories",
+                  "hidden": ""
+                },
+                "Assessments": {
+                  "value": "",
+                  "source": "commons-categories",
+                  "hidden": ""
+                },
+                "Artist": {
+                  "value": "<div class=\"fn value\">\nBesant, Walter, Sir, 1836-1901</div>",
+                  "source": "commons-desc-page"
+                },
+                "ImageDescription": {
+                  "value": "<div class=\"description\">\n<p>Sadleir, M. 19th cent. fiction\n</p>\n<br>Subjects:</div>",
+                  "source": "commons-desc-page"
+                },
+                "Credit": {
+                  "value": "<dl><dd><a href=\"//archive.org/details/herrpaulushisris00besarich\" class=\"extiw\" title=\"iarchive:herrpaulushisris00besarich\"><bdi class=\"description en\" lang=\"en\" dir=\"ltr\">Internet Archive identifier</bdi>: herrpaulushisris00besarich</a></dd>\n<dd><a rel=\"nofollow\" class=\"external free\" href=\"https://archive.org/download/herrpaulushisris00besarich/herrpaulushisris00besarich.pdf\">https://archive.org/download/herrpaulushisris00besarich/herrpaulushisris00besarich.pdf</a></dd></dl>",
+                  "source": "commons-desc-page"
+                },
+                "LicenseShortName": {
+                  "value": "Public domain",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "UsageTerms": {
+                  "value": "Public domain",
+                  "source": "commons-desc-page"
+                },
+                "AttributionRequired": {
+                  "value": "false",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "Copyrighted": {
+                  "value": "False",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "Restrictions": {
+                  "value": "",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "License": {
+                  "value": "pd",
+                  "source": "commons-templates",
+                  "hidden": ""
+                }
+              }
+            }
+          ]
+        },
+        {
+          "pageid": 172673633,
+          "ns": 6,
+          "title": "File:Ancient Roman stele in the Istanbul Archaeological Museums.jpg",
+          "index": 3,
+          "imagerepository": "local",
+          "imageinfo": [
+            {
+              "size": 2627316,
+              "width": 1793,
+              "height": 3498,
+              "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1d/Ancient_Roman_stele_in_the_Istanbul_Archaeological_Museums.jpg/500px-Ancient_Roman_stele_in_the_Istanbul_Archaeological_Museums.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+              "thumbwidth": 400,
+              "thumbheight": 780,
+              "responsiveUrls": {
+                "2": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1d/Ancient_Roman_stele_in_the_Istanbul_Archaeological_Museums.jpg/960px-Ancient_Roman_stele_in_the_Istanbul_Archaeological_Museums.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+              },
+              "thumbattribs": {
+                "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1d/Ancient_Roman_stele_in_the_Istanbul_Archaeological_Museums.jpg/500px-Ancient_Roman_stele_in_the_Istanbul_Archaeological_Museums.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+                "decoding": "async",
+                "loading": "lazy",
+                "width": 400,
+                "height": 780,
+                "srcset": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1d/Ancient_Roman_stele_in_the_Istanbul_Archaeological_Museums.jpg/960px-Ancient_Roman_stele_in_the_Istanbul_Archaeological_Museums.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail 2x"
+              },
+              "url": "https://upload.wikimedia.org/wikipedia/commons/1/1d/Ancient_Roman_stele_in_the_Istanbul_Archaeological_Museums.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+              "descriptionurl": "https://commons.wikimedia.org/wiki/File:Ancient_Roman_stele_in_the_Istanbul_Archaeological_Museums.jpg",
+              "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=172673633",
+              "extmetadata": {
+                "DateTime": {
+                  "value": "2025-08-15 14:55:46",
+                  "source": "mediawiki-metadata",
+                  "hidden": ""
+                },
+                "ObjectName": {
+                  "value": "Ancient Roman stele in the Istanbul Archaeological Museums",
+                  "source": "mediawiki-metadata"
+                },
+                "CommonsMetadataExtension": {
+                  "value": 1.2,
+                  "source": "extension",
+                  "hidden": ""
+                },
+                "Categories": {
+                  "value": "Self-published work|Gladiator and soldiers Roman steles in the Istanbul Archaeological Museums",
+                  "source": "commons-categories",
+                  "hidden": ""
+                },
+                "Assessments": {
+                  "value": "",
+                  "source": "commons-categories",
+                  "hidden": ""
+                },
+                "ImageDescription": {
+                  "value": "Grave stele of Paulus, Marble, Early 3rd century CE Env 2724(T)",
+                  "source": "commons-desc-page"
+                },
+                "DateTimeOriginal": {
+                  "value": "2023-04-15 10:57:31",
+                  "source": "commons-desc-page"
+                },
+                "Credit": {
+                  "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+                  "source": "commons-desc-page"
+                },
+                "Artist": {
+                  "value": "<a href=\"//commons.wikimedia.org/wiki/User:Yair-haklai\" title=\"User:Yair-haklai\">Yair-haklai</a>",
+                  "source": "commons-desc-page"
+                },
+                "LicenseShortName": {
+                  "value": "CC BY-SA 4.0",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "UsageTerms": {
+                  "value": "Creative Commons Attribution-Share Alike 4.0",
+                  "source": "commons-desc-page"
+                },
+                "AttributionRequired": {
+                  "value": "true",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "LicenseUrl": {
+                  "value": "https://creativecommons.org/licenses/by-sa/4.0",
+                  "source": "commons-desc-page"
+                },
+                "Copyrighted": {
+                  "value": "True",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "Restrictions": {
+                  "value": "",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "License": {
+                  "value": "cc-by-sa-4.0",
+                  "source": "commons-templates",
+                  "hidden": ""
+                }
+              }
+            }
+          ]
+        },
+        {
+          "pageid": 196992141,
+          "ns": 6,
+          "title": "File:Herr Paulus - his rise, his greatness, & his fall (IA herrpaulushisris00besa).pdf",
+          "index": 2,
+          "imagerepository": "local",
+          "imageinfo": [
+            {
+              "size": 22035146,
+              "width": 702,
+              "height": 1050,
+              "pagecount": 332,
+              "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0a/Herr_Paulus_-_his_rise%2C_his_greatness%2C_%26_his_fall_%28IA_herrpaulushisris00besa%29.pdf/page1-500px-Herr_Paulus_-_his_rise%2C_his_greatness%2C_%26_his_fall_%28IA_herrpaulushisris00besa%29.pdf.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+              "thumbwidth": 400,
+              "thumbheight": 598,
+              "thumbattribs": {
+                "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0a/Herr_Paulus_-_his_rise%2C_his_greatness%2C_%26_his_fall_%28IA_herrpaulushisris00besa%29.pdf/page1-500px-Herr_Paulus_-_his_rise%2C_his_greatness%2C_%26_his_fall_%28IA_herrpaulushisris00besa%29.pdf.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+                "decoding": "async",
+                "loading": "lazy",
+                "width": 400,
+                "height": 598
+              },
+              "url": "https://upload.wikimedia.org/wikipedia/commons/0/0a/Herr_Paulus_-_his_rise%2C_his_greatness%2C_%26_his_fall_%28IA_herrpaulushisris00besa%29.pdf?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+              "descriptionurl": "https://commons.wikimedia.org/wiki/File:Herr_Paulus_-_his_rise,_his_greatness,_%26_his_fall_(IA_herrpaulushisris00besa).pdf",
+              "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=196992141",
+              "extmetadata": {
+                "DateTime": {
+                  "value": "2026-08-07 23:49:25",
+                  "source": "mediawiki-metadata",
+                  "hidden": ""
+                },
+                "ObjectName": {
+                  "value": "<div class=\"fn\">\nHerr Paulus : his rise, his greatness, &amp; his fall</div>",
+                  "source": "commons-desc-page"
+                },
+                "CommonsMetadataExtension": {
+                  "value": 1.2,
+                  "source": "extension",
+                  "hidden": ""
+                },
+                "Categories": {
+                  "value": "PD-old-70-expired|Scans from the Internet Archive/unverified|CC-PD-Mark|Scans from the Internet Archive|Books uploaded by Fæ|Books without Wikidata item|IA uploads needing categories|PD-old missing SDC copyright status|Books scanned by Boston Public Library",
+                  "source": "commons-categories",
+                  "hidden": ""
+                },
+                "Assessments": {
+                  "value": "",
+                  "source": "commons-categories",
+                  "hidden": ""
+                },
+                "Artist": {
+                  "value": "<div class=\"fn value\">\nBesant, Walter, Sir, 1836-1901</div>",
+                  "source": "commons-desc-page"
+                },
+                "ImageDescription": {
+                  "value": "<div class=\"description\">\n<p>iv, 316, 32 p. ; 18 cm\n</p>\n<br>Subjects:</div>",
+                  "source": "commons-desc-page"
+                },
+                "Credit": {
+                  "value": "<dl><dd><a href=\"//archive.org/details/herrpaulushisris00besa\" class=\"extiw\" title=\"iarchive:herrpaulushisris00besa\"><bdi class=\"description en\" lang=\"en\" dir=\"ltr\">Internet Archive identifier</bdi>: herrpaulushisris00besa</a></dd>\n<dd><a rel=\"nofollow\" class=\"external free\" href=\"https://archive.org/download/herrpaulushisris00besa/herrpaulushisris00besa.pdf\">https://archive.org/download/herrpaulushisris00besa/herrpaulushisris00besa.pdf</a></dd></dl>\n<ul><li>IA contributor: Boston Public Library</li></ul>",
+                  "source": "commons-desc-page"
+                },
+                "LicenseShortName": {
+                  "value": "Public domain",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "UsageTerms": {
+                  "value": "Public domain",
+                  "source": "commons-desc-page"
+                },
+                "AttributionRequired": {
+                  "value": "false",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "Copyrighted": {
+                  "value": "False",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "Restrictions": {
+                  "value": "",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "License": {
+                  "value": "pd",
+                  "source": "commons-templates",
+                  "hidden": ""
+                }
+              }
+            }
+          ]
+        }
+      ]
+    }
+  }
+}

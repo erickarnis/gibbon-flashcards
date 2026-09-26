@@ -1,0 +1,56 @@
+[
+  {
+    "retired": "gibbon-01-trajan-accession",
+    "retained": "gibbon-01-nerva-death",
+    "original": "01.5",
+    "destination": "01.4"
+  },
+  {
+    "retired": "gibbon-01-pius-accession",
+    "retained": "gibbon-01-hadrian-death",
+    "original": "01.19",
+    "destination": "01.18"
+  },
+  {
+    "retired": "gibbon-01-marcus-accession",
+    "retained": "gibbon-01-pius-death",
+    "original": "01.25",
+    "destination": "01.23"
+  },
+  {
+    "retired": "gibbon-01b-augustus-names",
+    "retained": "gibbon-01-theme-constitution",
+    "original": "01b.17",
+    "destination": "01.35"
+  },
+  {
+    "retired": "gibbon-02-maximinus-accession",
+    "retained": "gibbon-02-alexander-death",
+    "original": "02.35",
+    "destination": "02.33"
+  },
+  {
+    "retired": "gibbon-03-claudius-accession",
+    "retained": "gibbon-02-gallienus-death",
+    "original": "03.1",
+    "destination": "02.66"
+  },
+  {
+    "retired": "gibbon-04-fausta",
+    "retained": "gibbon-04-crispus",
+    "original": "04.13",
+    "destination": "04.12"
+  },
+  {
+    "retired": "gibbon-04-valentinian-accession",
+    "retained": "gibbon-04-jovian-death",
+    "original": "04.65",
+    "destination": "04.64"
+  },
+  {
+    "retired": "gibbon-04-valens-death",
+    "retained": "gibbon-04-adrianople",
+    "original": "04.79",
+    "destination": "04.78"
+  }
+]

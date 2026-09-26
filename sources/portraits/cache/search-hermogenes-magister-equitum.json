@@ -1,0 +1,522 @@
+{
+  "person_id": "hermogenes-magister-equitum",
+  "query": "Hermogenes (magister equitum)",
+  "response": {
+    "batchcomplete": true,
+    "continue": {
+      "gsroffset": 5,
+      "continue": "gsroffset||"
+    },
+    "query": {
+      "pages": [
+        {
+          "pageid": 7406603,
+          "ns": 6,
+          "title": "File:Hermogenes López.jpg",
+          "index": 5,
+          "imagerepository": "local",
+          "imageinfo": [
+            {
+              "size": 493044,
+              "width": 678,
+              "height": 990,
+              "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fe/Hermogenes_L%C3%B3pez.jpg/500px-Hermogenes_L%C3%B3pez.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+              "thumbwidth": 400,
+              "thumbheight": 584,
+              "responsiveUrls": {
+                "2": "https://upload.wikimedia.org/wikipedia/commons/f/fe/Hermogenes_L%C3%B3pez.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled"
+              },
+              "thumbattribs": {
+                "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fe/Hermogenes_L%C3%B3pez.jpg/500px-Hermogenes_L%C3%B3pez.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+                "decoding": "async",
+                "loading": "lazy",
+                "width": 400,
+                "height": 584,
+                "srcset": "https://upload.wikimedia.org/wikipedia/commons/f/fe/Hermogenes_L%C3%B3pez.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled 2x"
+              },
+              "url": "https://upload.wikimedia.org/wikipedia/commons/f/fe/Hermogenes_L%C3%B3pez.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+              "descriptionurl": "https://commons.wikimedia.org/wiki/File:Hermogenes_L%C3%B3pez.jpg",
+              "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=7406603",
+              "extmetadata": {
+                "DateTime": {
+                  "value": "2009-07-28 03:49:26",
+                  "source": "mediawiki-metadata",
+                  "hidden": ""
+                },
+                "ObjectName": {
+                  "value": "Hermogenes López",
+                  "source": "mediawiki-metadata"
+                },
+                "CommonsMetadataExtension": {
+                  "value": 1.2,
+                  "source": "extension",
+                  "hidden": ""
+                },
+                "Categories": {
+                  "value": "1887 in Venezuela|Hermógenes López|PD Old|Template Unknown (author)|CC-PD-Mark|PD-old missing SDC copyright status|Carabobo in black and white",
+                  "source": "commons-categories",
+                  "hidden": ""
+                },
+                "Assessments": {
+                  "value": "",
+                  "source": "commons-categories",
+                  "hidden": ""
+                },
+                "ImageDescription": {
+                  "value": "Photo of Hermógenes López, Venezuelan soldier and acting president of Venezuela in 1888, appeared in a photojournalism about the heads of state of Venezuela",
+                  "source": "commons-desc-page"
+                },
+                "DateTimeOriginal": {
+                  "value": "circa 1887<div style=\"display: none;\">date QS:P,+1887-00-00T00:00:00Z/9,P1480,Q5727902</div>",
+                  "source": "commons-desc-page"
+                },
+                "Credit": {
+                  "value": "From the magazine “El Cojo Ilustrado”, Caracas, Venezuela, Number 72, 1894.",
+                  "source": "commons-desc-page"
+                },
+                "Artist": {
+                  "value": "Unknown author<span style=\"display: none;\">Unknown author</span>",
+                  "source": "commons-desc-page"
+                },
+                "Permission": {
+                  "value": "PD-Old",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "LicenseShortName": {
+                  "value": "Public domain",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "UsageTerms": {
+                  "value": "Public domain",
+                  "source": "commons-desc-page"
+                },
+                "AttributionRequired": {
+                  "value": "false",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "Copyrighted": {
+                  "value": "False",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "Restrictions": {
+                  "value": "",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "License": {
+                  "value": "pd",
+                  "source": "commons-templates",
+                  "hidden": ""
+                }
+              }
+            }
+          ]
+        },
+        {
+          "pageid": 44541780,
+          "ns": 6,
+          "title": "File:Hermogenes Ebdane.jpg",
+          "index": 1,
+          "imagerepository": "local",
+          "imageinfo": [
+            {
+              "size": 1793633,
+              "width": 2256,
+              "height": 2840,
+              "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c3/Hermogenes_Ebdane.jpg/500px-Hermogenes_Ebdane.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+              "thumbwidth": 400,
+              "thumbheight": 504,
+              "responsiveUrls": {
+                "2": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c3/Hermogenes_Ebdane.jpg/960px-Hermogenes_Ebdane.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+              },
+              "thumbattribs": {
+                "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c3/Hermogenes_Ebdane.jpg/500px-Hermogenes_Ebdane.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+                "decoding": "async",
+                "loading": "lazy",
+                "width": 400,
+                "height": 504,
+                "srcset": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c3/Hermogenes_Ebdane.jpg/960px-Hermogenes_Ebdane.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail 2x"
+              },
+              "url": "https://upload.wikimedia.org/wikipedia/commons/c/c3/Hermogenes_Ebdane.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+              "descriptionurl": "https://commons.wikimedia.org/wiki/File:Hermogenes_Ebdane.jpg",
+              "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=44541780",
+              "extmetadata": {
+                "DateTime": {
+                  "value": "2015-10-27 16:24:21",
+                  "source": "mediawiki-metadata",
+                  "hidden": ""
+                },
+                "ObjectName": {
+                  "value": "Hermogenes Ebdane",
+                  "source": "mediawiki-metadata"
+                },
+                "CommonsMetadataExtension": {
+                  "value": 1.2,
+                  "source": "extension",
+                  "hidden": ""
+                },
+                "Categories": {
+                  "value": "Hermogenes Ebdane|Self-published work",
+                  "source": "commons-categories",
+                  "hidden": ""
+                },
+                "Assessments": {
+                  "value": "",
+                  "source": "commons-categories",
+                  "hidden": ""
+                },
+                "ImageDescription": {
+                  "value": "Incumbent Zambales Governor",
+                  "source": "commons-desc-page"
+                },
+                "DateTimeOriginal": {
+                  "value": "2015-04-18 22:15:59",
+                  "source": "commons-desc-page"
+                },
+                "Credit": {
+                  "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+                  "source": "commons-desc-page"
+                },
+                "Artist": {
+                  "value": "<a href=\"//commons.wikimedia.org/w/index.php?title=User:Mmhuang&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"User:Mmhuang (page does not exist)\">Mmhuang</a>",
+                  "source": "commons-desc-page"
+                },
+                "LicenseShortName": {
+                  "value": "CC BY-SA 4.0",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "UsageTerms": {
+                  "value": "Creative Commons Attribution-Share Alike 4.0",
+                  "source": "commons-desc-page"
+                },
+                "AttributionRequired": {
+                  "value": "true",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "LicenseUrl": {
+                  "value": "https://creativecommons.org/licenses/by-sa/4.0",
+                  "source": "commons-desc-page"
+                },
+                "Copyrighted": {
+                  "value": "True",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "Restrictions": {
+                  "value": "",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "License": {
+                  "value": "cc-by-sa-4.0",
+                  "source": "commons-templates",
+                  "hidden": ""
+                }
+              }
+            }
+          ]
+        },
+        {
+          "pageid": 80210028,
+          "ns": 6,
+          "title": "File:Hermogenes Ebdane 2007 (cropped) 02.jpg",
+          "index": 2,
+          "imagerepository": "local",
+          "imageinfo": [
+            {
+              "size": 43686,
+              "width": 449,
+              "height": 519,
+              "thumburl": "https://upload.wikimedia.org/wikipedia/commons/6/65/Hermogenes_Ebdane_2007_%28cropped%29_02.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+              "thumbwidth": 400,
+              "thumbheight": 462,
+              "thumbattribs": {
+                "src": "https://upload.wikimedia.org/wikipedia/commons/6/65/Hermogenes_Ebdane_2007_%28cropped%29_02.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+                "decoding": "async",
+                "loading": "lazy",
+                "width": 400,
+                "height": 462
+              },
+              "url": "https://upload.wikimedia.org/wikipedia/commons/6/65/Hermogenes_Ebdane_2007_%28cropped%29_02.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+              "descriptionurl": "https://commons.wikimedia.org/wiki/File:Hermogenes_Ebdane_2007_(cropped)_02.jpg",
+              "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=80210028",
+              "extmetadata": {
+                "DateTime": {
+                  "value": "2019-07-06 18:05:40",
+                  "source": "mediawiki-metadata",
+                  "hidden": ""
+                },
+                "ObjectName": {
+                  "value": "Hermogenes Ebdane 2007 (cropped) 02",
+                  "source": "mediawiki-metadata"
+                },
+                "CommonsMetadataExtension": {
+                  "value": 1.2,
+                  "source": "extension",
+                  "hidden": ""
+                },
+                "Categories": {
+                  "value": "Hermogenes Ebdane|PD-PhilippinesGov|Extracted images|Files uploaded by Howhontanozaz",
+                  "source": "commons-categories",
+                  "hidden": ""
+                },
+                "Assessments": {
+                  "value": "",
+                  "source": "commons-categories",
+                  "hidden": ""
+                },
+                "ImageDescription": {
+                  "value": "Annual Report of the Department of Public Works and Highways for C.Y. 2007.",
+                  "source": "commons-desc-page"
+                },
+                "DateTimeOriginal": {
+                  "value": "2008",
+                  "source": "commons-desc-page"
+                },
+                "Credit": {
+                  "value": "<a rel=\"nofollow\" class=\"external text\" href=\"https://web.archive.org/web/20120711102242/http://www.dpwh.gov.ph/about_us/annual_report/pdf/07_annual_report.pdf\">Official Site of DPWH</a>",
+                  "source": "commons-desc-page"
+                },
+                "Artist": {
+                  "value": "Publications &amp; Special Projects Section, Public Information Division, Department of Public Works and Highways",
+                  "source": "commons-desc-page"
+                },
+                "LicenseShortName": {
+                  "value": "Public domain",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "UsageTerms": {
+                  "value": "Public domain",
+                  "source": "commons-desc-page"
+                },
+                "AttributionRequired": {
+                  "value": "false",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "Copyrighted": {
+                  "value": "False",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "Restrictions": {
+                  "value": "",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "License": {
+                  "value": "pd",
+                  "source": "commons-templates",
+                  "hidden": ""
+                }
+              }
+            }
+          ]
+        },
+        {
+          "pageid": 150559863,
+          "ns": 6,
+          "title": "File:Hermogenes Principe 130987 jpgmaior.jpg",
+          "index": 4,
+          "imagerepository": "local",
+          "imageinfo": [
+            {
+              "size": 68658,
+              "width": 354,
+              "height": 472,
+              "thumburl": "https://upload.wikimedia.org/wikipedia/commons/5/58/Hermogenes_Principe_130987_jpgmaior.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+              "thumbwidth": 400,
+              "thumbheight": 533,
+              "thumbattribs": {
+                "src": "https://upload.wikimedia.org/wikipedia/commons/5/58/Hermogenes_Principe_130987_jpgmaior.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+                "decoding": "async",
+                "loading": "lazy",
+                "width": 400,
+                "height": 533
+              },
+              "url": "https://upload.wikimedia.org/wikipedia/commons/5/58/Hermogenes_Principe_130987_jpgmaior.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+              "descriptionurl": "https://commons.wikimedia.org/wiki/File:Hermogenes_Principe_130987_jpgmaior.jpg",
+              "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=150559863",
+              "extmetadata": {
+                "DateTime": {
+                  "value": "2024-07-20 14:38:37",
+                  "source": "mediawiki-metadata",
+                  "hidden": ""
+                },
+                "ObjectName": {
+                  "value": "Hermogenes Principe 130987 jpgmaior",
+                  "source": "mediawiki-metadata"
+                },
+                "CommonsMetadataExtension": {
+                  "value": 1.2,
+                  "source": "extension",
+                  "hidden": ""
+                },
+                "Categories": {
+                  "value": "PD-Brazil-Photo|Hermógenes Príncipe de Oliveira",
+                  "source": "commons-categories",
+                  "hidden": ""
+                },
+                "Assessments": {
+                  "value": "",
+                  "source": "commons-categories",
+                  "hidden": ""
+                },
+                "ImageDescription": {
+                  "value": "Hermógenes Principe de Oliveira (27 abril 1917 -  2 maio 2013) foi um professor universitário, médico pediatra, empresário rural e político brasileiro, deputado estadual e federal pelo estado da Bahia",
+                  "source": "commons-desc-page"
+                },
+                "DateTimeOriginal": {
+                  "value": "1982",
+                  "source": "commons-desc-page"
+                },
+                "Credit": {
+                  "value": "<a rel=\"nofollow\" class=\"external free\" href=\"https://www.camara.leg.br/deputados/130987/biografia\">https://www.camara.leg.br/deputados/130987/biografia</a>",
+                  "source": "commons-desc-page"
+                },
+                "Artist": {
+                  "value": "Câmara dos Deputados do Brasil",
+                  "source": "commons-desc-page"
+                },
+                "LicenseShortName": {
+                  "value": "Public domain",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "UsageTerms": {
+                  "value": "Public domain",
+                  "source": "commons-desc-page"
+                },
+                "AttributionRequired": {
+                  "value": "false",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "Copyrighted": {
+                  "value": "False",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "Restrictions": {
+                  "value": "",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "License": {
+                  "value": "pd",
+                  "source": "commons-templates",
+                  "hidden": ""
+                }
+              }
+            }
+          ]
+        },
+        {
+          "pageid": 150559864,
+          "ns": 6,
+          "title": "File:Hermogenes Principe secretario agricultura.jpg",
+          "index": 3,
+          "imagerepository": "local",
+          "imageinfo": [
+            {
+              "size": 44055,
+              "width": 433,
+              "height": 519,
+              "thumburl": "https://upload.wikimedia.org/wikipedia/commons/8/88/Hermogenes_Principe_secretario_agricultura.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+              "thumbwidth": 400,
+              "thumbheight": 479,
+              "thumbattribs": {
+                "src": "https://upload.wikimedia.org/wikipedia/commons/8/88/Hermogenes_Principe_secretario_agricultura.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+                "decoding": "async",
+                "loading": "lazy",
+                "width": 400,
+                "height": 479
+              },
+              "url": "https://upload.wikimedia.org/wikipedia/commons/8/88/Hermogenes_Principe_secretario_agricultura.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+              "descriptionurl": "https://commons.wikimedia.org/wiki/File:Hermogenes_Principe_secretario_agricultura.jpg",
+              "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=150559864",
+              "extmetadata": {
+                "DateTime": {
+                  "value": "2024-07-20 14:38:38",
+                  "source": "mediawiki-metadata",
+                  "hidden": ""
+                },
+                "ObjectName": {
+                  "value": "Hermogenes Principe secretario agricultura",
+                  "source": "mediawiki-metadata"
+                },
+                "CommonsMetadataExtension": {
+                  "value": 1.2,
+                  "source": "extension",
+                  "hidden": ""
+                },
+                "Categories": {
+                  "value": "PD Brazil Government|Hermógenes Príncipe de Oliveira",
+                  "source": "commons-categories",
+                  "hidden": ""
+                },
+                "Assessments": {
+                  "value": "",
+                  "source": "commons-categories",
+                  "hidden": ""
+                },
+                "ImageDescription": {
+                  "value": "Hermógenes Principe de Oliveira (27 abril 1917 -  2 maio 2013) foi um professor universitário, médico pediatra, empresário rural e político brasileiro, deputado estadual e federal pelo estado da Bahia",
+                  "source": "commons-desc-page"
+                },
+                "DateTimeOriginal": {
+                  "value": "abril de 1958",
+                  "source": "commons-desc-page"
+                },
+                "Credit": {
+                  "value": "<a rel=\"nofollow\" class=\"external free\" href=\"http://www.seagri.ba.gov.br/sites/default/files/Secret%C3%A1rios%20da%20Agricultura%20de%201895%20a%202010.pdf\">http://www.seagri.ba.gov.br/sites/default/files/Secret%C3%A1rios%20da%20Agricultura%20de%201895%20a%202010.pdf</a>",
+                  "source": "commons-desc-page"
+                },
+                "Artist": {
+                  "value": "Seretaria de Agricultura do Estado da Bahia",
+                  "source": "commons-desc-page"
+                },
+                "LicenseShortName": {
+                  "value": "Public domain",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "UsageTerms": {
+                  "value": "Public domain",
+                  "source": "commons-desc-page"
+                },
+                "AttributionRequired": {
+                  "value": "false",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "Copyrighted": {
+                  "value": "False",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "Restrictions": {
+                  "value": "",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "License": {
+                  "value": "pd",
+                  "source": "commons-templates",
+                  "hidden": ""
+                }
+              }
+            }
+          ]
+        }
+      ]
+    }
+  }
+}

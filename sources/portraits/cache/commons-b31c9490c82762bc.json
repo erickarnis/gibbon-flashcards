@@ -1,0 +1,1708 @@
+{
+  "batchcomplete": true,
+  "query": {
+    "normalized": [
+      {
+        "fromencoded": false,
+        "from": "File:Perseus_of_Macedon_coin_cropped.png",
+        "to": "File:Perseus of Macedon coin cropped.png"
+      },
+      {
+        "fromencoded": false,
+        "from": "File:Antimenes_Painter_-_Black-figure_Amphora_with_Ajax_Carrying_the_Dead_Achilles_-_Walters_4817_-_Side_A.jpg",
+        "to": "File:Antimenes Painter - Black-figure Amphora with Ajax Carrying the Dead Achilles - Walters 4817 - Side A.jpg"
+      },
+      {
+        "fromencoded": false,
+        "from": "File:Coleção_Bühler-Brockhaus_(15).jpg",
+        "to": "File:Coleção Bühler-Brockhaus (15).jpg"
+      },
+      {
+        "fromencoded": false,
+        "from": "File:Kadmos_dragon_Louvre_N3157.jpg",
+        "to": "File:Kadmos dragon Louvre N3157.jpg"
+      },
+      {
+        "fromencoded": false,
+        "from": "File:Darius_Painter_-_RVAp_18-17_-_death_of_Hippolytos_-_young_warrior_in_naiskos_-_London_BM_1856-1226-1_-_15.jpg",
+        "to": "File:Darius Painter - RVAp 18-17 - death of Hippolytos - young warrior in naiskos - London BM 1856-1226-1 - 15.jpg"
+      },
+      {
+        "fromencoded": false,
+        "from": "File:Wall_painting_-_Phaidra_and_her_nurse_-_Pompeii_-_London_BM_GR_1856-0625-5_-_02.jpg",
+        "to": "File:Wall painting - Phaidra and her nurse - Pompeii - London BM GR 1856-0625-5 - 02.jpg"
+      }
+    ],
+    "pages": [
+      {
+        "pageid": 1232515,
+        "ns": 6,
+        "title": "File:MarcusAntoniusCVibiusVarus.jpg",
+        "imagerepository": "local",
+        "imageinfo": [
+          {
+            "size": 64316,
+            "width": 500,
+            "height": 253,
+            "thumburl": "https://upload.wikimedia.org/wikipedia/commons/4/4b/MarcusAntoniusCVibiusVarus.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+            "thumbwidth": 1600,
+            "thumbheight": 810,
+            "thumbattribs": {
+              "src": "https://upload.wikimedia.org/wikipedia/commons/4/4b/MarcusAntoniusCVibiusVarus.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+              "decoding": "async",
+              "loading": "lazy",
+              "width": 1600,
+              "height": 810
+            },
+            "url": "https://upload.wikimedia.org/wikipedia/commons/4/4b/MarcusAntoniusCVibiusVarus.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:MarcusAntoniusCVibiusVarus.jpg",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=1232515",
+            "sha1": "7f29828ff9c7268a37273776de2b7cbefce2b740",
+            "extmetadata": {
+              "DateTime": {
+                "value": "2006-10-01 06:08:32",
+                "source": "mediawiki-metadata",
+                "hidden": ""
+              },
+              "ObjectName": {
+                "value": "MarcusAntoniusCVibiusVarus",
+                "source": "mediawiki-metadata"
+              },
+              "CommonsMetadataExtension": {
+                "value": 1.2,
+                "source": "extension",
+                "hidden": ""
+              },
+              "Categories": {
+                "value": "Files with no machine-readable source|Self-published work|PD-self|Assumed own work|Roman Republican silver denari|Cornucopia on Roman coins|42 BC coins|Coins by C. Vibius Varus|Coins of Marcus Antonius|Figures holding Victory on Roman coins",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "Assessments": {
+                "value": "",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "ImageDescription": {
+                "value": "<a href=\"//commons.wikimedia.org/wiki/Marcus_Antonius\" title=\"Marcus Antonius\">Marcus Antonius</a> portrait. Denarius from 42 B.C.",
+                "source": "commons-desc-page"
+              },
+              "DateTimeOriginal": {
+                "value": "1 October 2006 (original upload date)",
+                "source": "commons-desc-page"
+              },
+              "Credit": {
+                "value": "No machine-readable source provided. Own work assumed (based on copyright claims).",
+                "source": "commons-desc-page"
+              },
+              "Artist": {
+                "value": "No machine-readable author provided. <a href=\"//commons.wikimedia.org/w/index.php?title=User:Tripp~commonswiki&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"User:Tripp~commonswiki (page does not exist)\">Tripp~commonswiki</a> assumed (based on copyright claims).",
+                "source": "commons-desc-page"
+              },
+              "LicenseShortName": {
+                "value": "Public domain",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "UsageTerms": {
+                "value": "Public domain",
+                "source": "commons-desc-page"
+              },
+              "AttributionRequired": {
+                "value": "false",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Copyrighted": {
+                "value": "False",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Restrictions": {
+                "value": "",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "License": {
+                "value": "pd",
+                "source": "commons-templates",
+                "hidden": ""
+              }
+            },
+            "mime": "image/jpeg"
+          }
+        ]
+      },
+      {
+        "pageid": 2150665,
+        "ns": 6,
+        "title": "File:Kadmos dragon Louvre N3157.jpg",
+        "imagerepository": "local",
+        "imageinfo": [
+          {
+            "size": 2275044,
+            "width": 1956,
+            "height": 2014,
+            "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f9/Kadmos_dragon_Louvre_N3157.jpg/1920px-Kadmos_dragon_Louvre_N3157.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+            "thumbwidth": 1600,
+            "thumbheight": 1647,
+            "responsiveUrls": {
+              "2": "https://upload.wikimedia.org/wikipedia/commons/f/f9/Kadmos_dragon_Louvre_N3157.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled"
+            },
+            "thumbattribs": {
+              "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f9/Kadmos_dragon_Louvre_N3157.jpg/1920px-Kadmos_dragon_Louvre_N3157.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+              "decoding": "async",
+              "loading": "lazy",
+              "width": 1600,
+              "height": 1647,
+              "srcset": "https://upload.wikimedia.org/wikipedia/commons/f/f9/Kadmos_dragon_Louvre_N3157.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled 2x"
+            },
+            "url": "https://upload.wikimedia.org/wikipedia/commons/f/f9/Kadmos_dragon_Louvre_N3157.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:Kadmos_dragon_Louvre_N3157.jpg",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=2150665",
+            "sha1": "c7819d60597255efa21c3dadcd2e86912aef6508",
+            "extmetadata": {
+              "DateTime": {
+                "value": "2007-06-19 23:04:28",
+                "source": "mediawiki-metadata",
+                "hidden": ""
+              },
+              "ObjectName": {
+                "value": "Kadmos dragon Louvre N3157",
+                "source": "mediawiki-metadata"
+              },
+              "CommonsMetadataExtension": {
+                "value": 1.2,
+                "source": "extension",
+                "hidden": ""
+              },
+              "Categories": {
+                "value": "Taken with Nikon D50|Louvre Museum - Room 651|Python (painter)|Calyx kraters|Artworks without Wikidata item|Self-published work|PD-self|Artworks with known accession number|People with snakes in art|Art from Paestum|340s BC pottery in France|350s BC pottery in France|Snakes in ancient Greek pottery|Apulian red-figure pottery in France|Ancient Greek pottery from Saticula|Cadmus in ancient Greek pottery|Dragons in ancient Greek pottery",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "Assessments": {
+                "value": "",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "Artist": {
+                "value": "<div class=\"fn value\">\nPython</div>",
+                "source": "commons-desc-page"
+              },
+              "ImageDescription": {
+                "value": "Cadmus fighting the dragon. Side A of a red-figured calix-krater  found in Sant'Agata de' Goti (Campania), ca. 350–340 BC. From Paestum.",
+                "source": "commons-desc-page"
+              },
+              "Credit": {
+                "value": "<a href=\"//commons.wikimedia.org/wiki/User:Bibi_Saint-Pol\" title=\"User:Bibi Saint-Pol\">User:Bibi Saint-Pol</a>, own work, 2007-06-15",
+                "source": "commons-desc-page"
+              },
+              "LicenseShortName": {
+                "value": "Public domain",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "UsageTerms": {
+                "value": "Public domain",
+                "source": "commons-desc-page"
+              },
+              "AttributionRequired": {
+                "value": "false",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Copyrighted": {
+                "value": "False",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Restrictions": {
+                "value": "",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "License": {
+                "value": "pd",
+                "source": "commons-templates",
+                "hidden": ""
+              }
+            },
+            "mime": "image/jpeg"
+          }
+        ]
+      },
+      {
+        "pageid": 8962374,
+        "ns": 6,
+        "title": "File:Marius Chiaramonti Inv1488.jpg",
+        "imagerepository": "local",
+        "imageinfo": [
+          {
+            "size": 4201925,
+            "width": 2500,
+            "height": 3400,
+            "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9f/Marius_Chiaramonti_Inv1488.jpg/1920px-Marius_Chiaramonti_Inv1488.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+            "thumbwidth": 1600,
+            "thumbheight": 2176,
+            "responsiveUrls": {
+              "2": "https://upload.wikimedia.org/wikipedia/commons/9/9f/Marius_Chiaramonti_Inv1488.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled"
+            },
+            "thumbattribs": {
+              "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9f/Marius_Chiaramonti_Inv1488.jpg/1920px-Marius_Chiaramonti_Inv1488.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+              "decoding": "async",
+              "loading": "lazy",
+              "width": 1600,
+              "height": 2176,
+              "srcset": "https://upload.wikimedia.org/wikipedia/commons/9/9f/Marius_Chiaramonti_Inv1488.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled 2x"
+            },
+            "url": "https://upload.wikimedia.org/wikipedia/commons/9/9f/Marius_Chiaramonti_Inv1488.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:Marius_Chiaramonti_Inv1488.jpg",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=8962374",
+            "sha1": "e6cecc4d172440bbe8b2830eac746ce09481c97e",
+            "extmetadata": {
+              "DateTime": {
+                "value": "2010-01-11 19:36:27",
+                "source": "mediawiki-metadata",
+                "hidden": ""
+              },
+              "ObjectName": {
+                "value": "Marius Chiaramonti Inv1488",
+                "source": "mediawiki-metadata"
+              },
+              "CommonsMetadataExtension": {
+                "value": 1.2,
+                "source": "extension",
+                "hidden": ""
+              },
+              "Categories": {
+                "value": "Ancient Roman portraits|Taken with Nikon D200|Files with no machine-readable author|Alexander Trippel|Artworks without Wikidata item|Self-published work|Artworks with known accession number|Museo Chiaramonti, Gallery - Compartment 19 (XIX)|Marble objects in the Chiaramonti Museum|Ancient Roman head-portraits in the Chiaramonti Museum (Vatican Museums)|Busts of Gaius Marius|1st-century BC artifacts in the Chiaramonti Museum",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "Assessments": {
+                "value": "",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "ImageDescription": {
+                "value": "So-called \"Marius\". Marble, Roman artwork of the 1st century BC, restored by Alexander Trippel.",
+                "source": "commons-desc-page"
+              },
+              "Credit": {
+                "value": "<a href=\"//commons.wikimedia.org/wiki/User:Jastrow\" title=\"User:Jastrow\">Marie-Lan Nguyen</a> (2009)",
+                "source": "commons-desc-page"
+              },
+              "LicenseShortName": {
+                "value": "CC BY 3.0",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "UsageTerms": {
+                "value": "Creative Commons Attribution 3.0",
+                "source": "commons-desc-page"
+              },
+              "AttributionRequired": {
+                "value": "true",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "LicenseUrl": {
+                "value": "https://creativecommons.org/licenses/by/3.0",
+                "source": "commons-desc-page"
+              },
+              "Copyrighted": {
+                "value": "True",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Restrictions": {
+                "value": "",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "License": {
+                "value": "cc-by-3.0",
+                "source": "commons-templates",
+                "hidden": ""
+              }
+            },
+            "mime": "image/jpeg"
+          }
+        ]
+      },
+      {
+        "pageid": 18846276,
+        "ns": 6,
+        "title": "File:Antimenes Painter - Black-figure Amphora with Ajax Carrying the Dead Achilles - Walters 4817 - Side A.jpg",
+        "imagerepository": "local",
+        "imageinfo": [
+          {
+            "size": 1912668,
+            "width": 1416,
+            "height": 1800,
+            "thumburl": "https://upload.wikimedia.org/wikipedia/commons/b/bf/Antimenes_Painter_-_Black-figure_Amphora_with_Ajax_Carrying_the_Dead_Achilles_-_Walters_4817_-_Side_A.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+            "thumbwidth": 1600,
+            "thumbheight": 2034,
+            "thumbattribs": {
+              "src": "https://upload.wikimedia.org/wikipedia/commons/b/bf/Antimenes_Painter_-_Black-figure_Amphora_with_Ajax_Carrying_the_Dead_Achilles_-_Walters_4817_-_Side_A.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+              "decoding": "async",
+              "loading": "lazy",
+              "width": 1600,
+              "height": 2034
+            },
+            "url": "https://upload.wikimedia.org/wikipedia/commons/b/bf/Antimenes_Painter_-_Black-figure_Amphora_with_Ajax_Carrying_the_Dead_Achilles_-_Walters_4817_-_Side_A.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:Antimenes_Painter_-_Black-figure_Amphora_with_Ajax_Carrying_the_Dead_Achilles_-_Walters_4817_-_Side_A.jpg",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=18846276",
+            "sha1": "66a7c6143fa7a98e4e887469a99bcf7a2680cae5",
+            "extmetadata": {
+              "DateTime": {
+                "value": "2012-03-26 05:49:07",
+                "source": "mediawiki-metadata",
+                "hidden": ""
+              },
+              "ObjectName": {
+                "value": "<div class=\"fn\">\n<i>Black-figure Amphora with Ajax Carrying the Dead Achilles</i></div>",
+                "source": "commons-desc-page"
+              },
+              "CommonsMetadataExtension": {
+                "value": 1.2,
+                "source": "extension",
+                "hidden": ""
+              },
+              "Categories": {
+                "value": "GFDL|Antimenes Painter|Author died more than 100 years ago public domain images|License migration redundant|Artworks without Wikidata item|Artworks with known accession number|Items with VRTS permission confirmed|Media contributed by the Walters Art Museum|CC-PD-Mark|Media contributed by the Walters Art Museum: needs artist update|Ancient Greek black-figure pottery in the Walters Art Museum|Attic black-figure pottery in the United States|Media contributed by the Walters Art Museum without wikidata item|Ancient Greek Neck amphoras|Ajax carrying the body of Achilles|Ancient Greek amphoras in the United States|520s BC pottery in the United States|530s BC pottery in the United States",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "Assessments": {
+                "value": "",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "Artist": {
+                "value": "<bdi><a href=\"https://en.wikipedia.org/wiki/en:Antimenes_Painter\" class=\"extiw\" title=\"w:en:Antimenes Painter\"><span title=\"ancient Greek Attic artist, vase painter, active between circa 530 and 510 BC\">Antimenes Painter</span></a></bdi>",
+                "source": "commons-desc-page"
+              },
+              "ImageDescription": {
+                "value": "The death of Achilles, which occurred after the events recounted in \"The Iliad,\" was described in another epic poem called \"The Aethiopis\", which has not survived. On the front of this amphora, the dead Achilles is carried from the Trojan battlefield by his comrade, Ajax. In front of Ajax, a woman leads the way and raises her hand to tear at her hair in a gesture of mourning. Two armed warriors follow behind. On the back, two armed horsemen clash on the battlefield, their horses rearing above a fallen warrior trapped beneath them.",
+                "source": "commons-desc-page"
+              },
+              "DateTimeOriginal": {
+                "value": "between 530 and 520 <a href=\"https://en.wikipedia.org/wiki/en:Ante_Christum_Natum\" class=\"extiw\" title=\"w:en:Ante Christum Natum\">BC</a> (<a href=\"https://en.wikipedia.org/wiki/en:Archaic_Greece\" class=\"extiw\" title=\"w:en:Archaic Greece\"><span title=\"period of ancient Greek history\">Archaic Greece</span></a><div style=\"display: none;\">era QS:P2348,Q271834</div>)",
+                "source": "commons-desc-page"
+              },
+              "Credit": {
+                "value": "<a href=\"https://en.wikipedia.org/wiki/en:Walters_Art_Museum\" class=\"extiw\" title=\"w:en:Walters Art Museum\"><span title=\"art museum in Baltimore, Maryland, US\">Walters Art Museum</span></a>: <span typeof=\"mw:File\"><a href=\"https://thewalters.org/\" rel=\"nofollow\"><img src=\"https://thumb.wikimedia.org/wikipedia/commons/thumb/8/81/Nuvola_filesystems_folder_home.svg/20px-Nuvola_filesystems_folder_home.svg.png?utm_source=commons.wikimedia.org&amp;utm_campaign=parser&amp;utm_content=thumbnail\" decoding=\"async\" loading=\"lazy\" width=\"20\" height=\"20\" class=\"mw-file-element\" srcset=\"https://thumb.wikimedia.org/wikipedia/commons/thumb/8/81/Nuvola_filesystems_folder_home.svg/40px-Nuvola_filesystems_folder_home.svg.png?utm_source=commons.wikimedia.org&amp;utm_campaign=parser&amp;utm_content=thumbnail 2x\" data-file-width=\"128\" data-file-height=\"128\"></a></span> <a rel=\"nofollow\" class=\"external text\" href=\"https://thewalters.org/\">Home page</a> <span typeof=\"mw:File\"><a href=\"https://art.thewalters.org/detail/18168\" rel=\"nofollow\"><img src=\"https://thumb.wikimedia.org/wikipedia/commons/thumb/3/35/Information_icon.svg/20px-Information_icon.svg.png?utm_source=commons.wikimedia.org&amp;utm_campaign=parser&amp;utm_content=thumbnail\" decoding=\"async\" loading=\"lazy\" width=\"20\" height=\"20\" class=\"mw-file-element\" srcset=\"https://thumb.wikimedia.org/wikipedia/commons/thumb/3/35/Information_icon.svg/40px-Information_icon.svg.png?utm_source=commons.wikimedia.org&amp;utm_campaign=parser&amp;utm_content=thumbnail 2x\" data-file-width=\"620\" data-file-height=\"620\"></a></span> <a rel=\"nofollow\" class=\"external text\" href=\"https://art.thewalters.org/detail/18168\">Info about artwork</a>",
+                "source": "commons-desc-page"
+              },
+              "Permission": {
+                "value": "<p><span class=\"layouttemplateargs\" style=\"display:none;speak:none;\" title=\"template=PermissionTicket 1%3Dhttps%3A%2F%2Fticket.wikimedia.org%2Fotrs%2Findex.pl%3FAction%3DAgentTicketZoom%26TicketNumber%3D2012021710000834 2%3D2012021710000834\"> </span>\n</p>\n<style data-mw-deduplicate=\"TemplateStyles:r1254222110\">.mw-parser-output .messagebox{margin:4px 0;width:auto;border-collapse:collapse;border:2px solid var(--border-color-progressive,#6485d1);background-color:var(--background-color-neutral-subtle,#fbfcff);color:var(--color-base,#202122);box-sizing:border-box;border-inline-start-width:8px}.mw-parser-output .messagebox.mbox-small{font-size:88%;line-height:1.25em}.mw-parser-output .mbox-warning,.mw-parser-output .mbox-speedy{border:2px solid var(--border-color-error,#b22222);background:var(--background-color-error-subtle,#ffdbdb);border-inline-start-width:8px}.mw-parser-output .mbox-serious,.mw-parser-output .mbox-delete,.mw-parser-output .mbox-stop{border:2px solid var(--border-color-error,#b22222);border-inline-start-width:8px}.mw-parser-output .mbox-issue,.mw-parser-output .mbox-content{border:2px solid #f28500;background:var(--background-color-warning-subtle,#ffe);border-inline-start-width:8px}.mw-parser-output .mbox-query,.mw-parser-output .mbox-style{border:2px solid #f4c430;background:var(--background-color-warning-subtle,#ffe);border-inline-start-width:8px}.mw-parser-output .mbox-shit{border:2px solid #960;border-inline-start-width:8px}.mw-parser-output .mbox-license{border:2px solid #88a;border-inline-start-width:initial}.mw-parser-output .mbox-legal{border:2px solid var(--border-color-notice,#666);background:var(--background-color-base,#fff);border-inline-start-width:8px}.mw-parser-output .mbox-honor{border:2px solid #ca3;background:var(--background-color-warning-subtle,#fcf4db);border-inline-start-width:8px}.mw-parser-output .mbox-growth{border:2px solid #8d4;background:var(--background-color-success-subtle,#d5fdf4);border-inline-start-width:8px}.mw-parser-output .mbox-move{border:2px solid #93c;border-inline-start-width:8px}.mw-parser-output .mbox-protection,.mw-parser-output .mbox-message{border:2px solid var(--border-color-base,#aaa);border-inline-start-width:8px}.mw-parser-output .messagebox .mbox-text{border:none;padding:0.25em 0.9em;width:100%}.mw-parser-output .messagebox .mbox-image{border:none;padding-top:2px;padding-bottom:2px;padding-inline-start:0.9em;padding-inline-end:0;text-align:center}.mw-parser-output .messagebox .mbox-imageright{border:none;padding-top:2px;padding-bottom:2px;padding-inline-start:0;padding-inline-end:0.9em;text-align:center}.mw-parser-output .messagebox .mbox-empty-cell{border:none;padding:0;width:1px}.mw-parser-output .messagebox .mbox-invalid-type{text-align:center}@media(min-width:720px){.mw-parser-output .messagebox{margin:4px 10%}.mw-parser-output .messagebox.mbox-small{clear:right;float:right;margin:4px 0 4px 1em;width:238px}}body.skin--responsive .mw-parser-output table.messagebox img{max-width:none!important}</style><table class=\"plainlinks messagebox mbox-notice layouttemplate\" role=\"presentation\" style=\"margin:0.3em 0;width:100%;\"><tbody><tr><td class=\"mbox-image\"><span typeof=\"mw:File\"><span title=\"VRT Wikimedia\"><img alt=\"VRT Wikimedia\" src=\"https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f0/Permission_logo_2021.svg/120px-Permission_logo_2021.svg.png?utm_source=commons.wikimedia.org&amp;utm_campaign=parser&amp;utm_content=thumbnail\" decoding=\"async\" loading=\"lazy\" width=\"75\" height=\"48\" class=\"mw-file-element\" srcset=\"https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f0/Permission_logo_2021.svg/250px-Permission_logo_2021.svg.png?utm_source=commons.wikimedia.org&amp;utm_campaign=parser&amp;utm_content=thumbnail 2x\" data-file-width=\"935\" data-file-height=\"600\"></span></span></td><td class=\"mbox-text\">This work is <a href=\"https://freedomdefined.org/Definition\" class=\"extiw\" title=\"freedomdefined:Definition\">free</a> and may be used by anyone for any purpose. If you wish to <b><a href=\"//commons.wikimedia.org/wiki/Commons:Reusing_content_outside_Wikimedia\" title=\"Commons:Reusing content outside Wikimedia\">use this content</a></b>, you do not need to request permission as long as you follow any licensing requirements mentioned on this page.\n<p>The Wikimedia Foundation has received an e-mail confirming that the copyright holder has approved publication under the terms mentioned on this page. This correspondence has been <b><span style=\"background:transparent;color:#0f7f1f;font-weight:400;\" title=\"transparent\">reviewed</span></b> by a <a href=\"//commons.wikimedia.org/wiki/Template:PermissionTicket/Users\" title=\"Template:PermissionTicket/Users\">Volunteer Response Team (VRT) member</a> and stored in our <a href=\"//commons.wikimedia.org/wiki/Commons:Volunteer_Response_Team\" title=\"Commons:Volunteer Response Team\">permission archive</a>. The correspondence is available to trusted volunteers as <b><a href=\"https://ticket.wikimedia.org/otrs/index.pl?Action=AgentTicketZoom&amp;TicketNumber=2012021710000834\" class=\"extiw\" title=\"ticket:2012021710000834\">ticket #2012021710000834</a></b>.\n</p><p><small>If you have questions about the archived correspondence, please use the <a href=\"//commons.wikimedia.org/wiki/Commons:Volunteer_Response_Team/Noticeboard\" title=\"Commons:Volunteer Response Team/Noticeboard\">VRT noticeboard</a>.</small>\n<small>Ticket link: <a class=\"external free\" href=\"https://ticket.wikimedia.org/otrs/index.pl?Action=AgentTicketZoom&amp;TicketNumber=2012021710000834\">https://ticket.wikimedia.org/otrs/index.pl?Action=AgentTicketZoom&amp;TicketNumber=2012021710000834</a></small>\n<br><small>Find other files from the same ticket:</small> <span typeof=\"mw:File\"><a href=\"https://wcqs-beta.wmflabs.org/#%23defaultView%3AImageGrid%09%0ASELECT%20%3Fimage%20%20%20%7B%0A%20%20%3Ffile%20wdt%3AP6305%20%222012021710000834%22%20.%0A%20%20%3Ffile%20schema%3Aurl%20%3Fimage.%0A%7D%20%0A\" title=\"SDC query (SPARQL)\" rel=\"nofollow\"><img alt=\"SDC query (SPARQL)\" src=\"https://thumb.wikimedia.org/wikipedia/commons/thumb/7/77/Wikimedia_Commons_Query_Service_Logo.svg/20px-Wikimedia_Commons_Query_Service_Logo.svg.png?utm_source=commons.wikimedia.org&amp;utm_campaign=parser&amp;utm_content=thumbnail\" decoding=\"async\" loading=\"lazy\" width=\"15\" height=\"20\" class=\"mw-file-element\" srcset=\"https://thumb.wikimedia.org/wikipedia/commons/thumb/7/77/Wikimedia_Commons_Query_Service_Logo.svg/40px-Wikimedia_Commons_Query_Service_Logo.svg.png?utm_source=commons.wikimedia.org&amp;utm_campaign=parser&amp;utm_content=thumbnail 2x\" data-file-width=\"512\" data-file-height=\"688\"></a></span>\n</p>\n<span id=\"field-otrs\" title=\"https://ticket.wikimedia.org/otrs/index.pl?Action=AgentTicketZoom&amp;TicketNumber=2012021710000834\"></span></td></tr></tbody></table>",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "LicenseShortName": {
+                "value": "Public domain",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "UsageTerms": {
+                "value": "Public domain",
+                "source": "commons-desc-page"
+              },
+              "AttributionRequired": {
+                "value": "false",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Copyrighted": {
+                "value": "False",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Restrictions": {
+                "value": "",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "License": {
+                "value": "pd",
+                "source": "commons-templates",
+                "hidden": ""
+              }
+            },
+            "mime": "image/jpeg"
+          }
+        ]
+      },
+      {
+        "pageid": 27482705,
+        "ns": 6,
+        "title": "File:Lucius Junius Moderatus Columella.jpg",
+        "imagerepository": "local",
+        "imageinfo": [
+          {
+            "size": 771012,
+            "width": 1500,
+            "height": 1500,
+            "thumburl": "https://upload.wikimedia.org/wikipedia/commons/f/f2/Lucius_Junius_Moderatus_Columella.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+            "thumbwidth": 1600,
+            "thumbheight": 1600,
+            "thumbattribs": {
+              "src": "https://upload.wikimedia.org/wikipedia/commons/f/f2/Lucius_Junius_Moderatus_Columella.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+              "decoding": "async",
+              "loading": "lazy",
+              "width": 1600,
+              "height": 1600
+            },
+            "url": "https://upload.wikimedia.org/wikipedia/commons/f/f2/Lucius_Junius_Moderatus_Columella.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:Lucius_Junius_Moderatus_Columella.jpg",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=27482705",
+            "sha1": "cc5e763643ac269fab91cd2ea9c9cfc3f2a5398b",
+            "extmetadata": {
+              "DateTime": {
+                "value": "2013-07-29 15:24:04",
+                "source": "mediawiki-metadata",
+                "hidden": ""
+              },
+              "ObjectName": {
+                "value": "Lucius Junius Moderatus Columella",
+                "source": "mediawiki-metadata"
+              },
+              "CommonsMetadataExtension": {
+                "value": 1.2,
+                "source": "extension",
+                "hidden": ""
+              },
+              "Categories": {
+                "value": "Jean de Tournes|Author died more than 100 years ago public domain images|Lucius Junius Moderatus Columella|CC-PD-Mark|PD-old missing SDC copyright status",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "Assessments": {
+                "value": "",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "ImageDescription": {
+                "value": "Portrait of Lucius Junius Moderatus Columella from Jean de Tournes, <i>Insignium aliquot virorum icones</i>. Lugduni: Apud Ioan. Tornaesium, 1559",
+                "source": "commons-desc-page"
+              },
+              "DateTimeOriginal": {
+                "value": "2013-07-29 19:17:16",
+                "source": "commons-desc-page"
+              },
+              "Credit": {
+                "value": "Original: Jean de Tournes, <i>Insignium aliquot virorum icones</i>. Lugduni: Apud Ioan. Tornaesium 1559; immediate source: <a rel=\"nofollow\" class=\"external free\" href=\"http://www.villa.culture.fr/accessible/en/uc/01_01_01\">http://www.villa.culture.fr/accessible/en/uc/01_01_01</a>",
+                "source": "commons-desc-page"
+              },
+              "Artist": {
+                "value": "Jean de Tournes",
+                "source": "commons-desc-page"
+              },
+              "LicenseShortName": {
+                "value": "Public domain",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "UsageTerms": {
+                "value": "Public domain",
+                "source": "commons-desc-page"
+              },
+              "AttributionRequired": {
+                "value": "false",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Copyrighted": {
+                "value": "False",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Restrictions": {
+                "value": "",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "License": {
+                "value": "pd",
+                "source": "commons-templates",
+                "hidden": ""
+              }
+            },
+            "mime": "image/jpeg"
+          }
+        ]
+      },
+      {
+        "pageid": 32917418,
+        "ns": 6,
+        "title": "File:Severus II Aureus Joanneum.jpg",
+        "imagerepository": "local",
+        "imageinfo": [
+          {
+            "size": 392570,
+            "width": 1215,
+            "height": 1214,
+            "thumburl": "https://upload.wikimedia.org/wikipedia/commons/7/7b/Severus_II_Aureus_Joanneum.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+            "thumbwidth": 1600,
+            "thumbheight": 1599,
+            "thumbattribs": {
+              "src": "https://upload.wikimedia.org/wikipedia/commons/7/7b/Severus_II_Aureus_Joanneum.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+              "decoding": "async",
+              "loading": "lazy",
+              "width": 1600,
+              "height": 1599
+            },
+            "url": "https://upload.wikimedia.org/wikipedia/commons/7/7b/Severus_II_Aureus_Joanneum.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:Severus_II_Aureus_Joanneum.jpg",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=32917418",
+            "sha1": "615b4393928eb9a34b3adb13f46f9db269f0298f",
+            "extmetadata": {
+              "DateTime": {
+                "value": "2014-05-22 18:09:35",
+                "source": "mediawiki-metadata",
+                "hidden": ""
+              },
+              "ObjectName": {
+                "value": "Severus II Aureus Joanneum",
+                "source": "mediawiki-metadata"
+              },
+              "CommonsMetadataExtension": {
+                "value": 1.2,
+                "source": "extension",
+                "hidden": ""
+              },
+              "Categories": {
+                "value": "Taken with Nikon D100|Aureus|Obverses of coins|Items with VRTS permission confirmed|Images with extracted images|306 coins|Coins on white background|Coins of Severus II|Coins of Nicomedia",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "Assessments": {
+                "value": "",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "ImageDescription": {
+                "value": "Flavius Valerius Severus. Aureus, 306-307 n. Chr., Nicomedia. Avers: SEVERVS AVGVSTVS, Kopf mit Lorbeerkranz.",
+                "source": "commons-desc-page"
+              },
+              "DateTimeOriginal": {
+                "value": "2006-03-06 11:37:28",
+                "source": "commons-desc-page"
+              },
+              "Credit": {
+                "value": "<a rel=\"nofollow\" class=\"external free\" href=\"http://www.museum-joanneum.at/de/presse/projekte_4/semper_victor_politische_programme_auf_muenzen_und_medaillen\">http://www.museum-joanneum.at/de/presse/projekte_4/semper_victor_politische_programme_auf_muenzen_und_medaillen</a>",
+                "source": "commons-desc-page"
+              },
+              "Artist": {
+                "value": "© Münzkabinett, Universalmuseum Joanneum, Graz",
+                "source": "commons-desc-page"
+              },
+              "Permission": {
+                "value": "<p><span class=\"layouttemplateargs\" style=\"display:none;speak:none;\" title=\"template=PermissionTicket 1%3Dhttps%3A%2F%2Fticket.wikimedia.org%2Fotrs%2Findex.pl%3FAction%3DAgentTicketZoom%26TicketNumber%3D2014052210006739 2%3D2014052210006739\"> </span>\n</p>\n<style data-mw-deduplicate=\"TemplateStyles:r1254222110\">.mw-parser-output .messagebox{margin:4px 0;width:auto;border-collapse:collapse;border:2px solid var(--border-color-progressive,#6485d1);background-color:var(--background-color-neutral-subtle,#fbfcff);color:var(--color-base,#202122);box-sizing:border-box;border-inline-start-width:8px}.mw-parser-output .messagebox.mbox-small{font-size:88%;line-height:1.25em}.mw-parser-output .mbox-warning,.mw-parser-output .mbox-speedy{border:2px solid var(--border-color-error,#b22222);background:var(--background-color-error-subtle,#ffdbdb);border-inline-start-width:8px}.mw-parser-output .mbox-serious,.mw-parser-output .mbox-delete,.mw-parser-output .mbox-stop{border:2px solid var(--border-color-error,#b22222);border-inline-start-width:8px}.mw-parser-output .mbox-issue,.mw-parser-output .mbox-content{border:2px solid #f28500;background:var(--background-color-warning-subtle,#ffe);border-inline-start-width:8px}.mw-parser-output .mbox-query,.mw-parser-output .mbox-style{border:2px solid #f4c430;background:var(--background-color-warning-subtle,#ffe);border-inline-start-width:8px}.mw-parser-output .mbox-shit{border:2px solid #960;border-inline-start-width:8px}.mw-parser-output .mbox-license{border:2px solid #88a;border-inline-start-width:initial}.mw-parser-output .mbox-legal{border:2px solid var(--border-color-notice,#666);background:var(--background-color-base,#fff);border-inline-start-width:8px}.mw-parser-output .mbox-honor{border:2px solid #ca3;background:var(--background-color-warning-subtle,#fcf4db);border-inline-start-width:8px}.mw-parser-output .mbox-growth{border:2px solid #8d4;background:var(--background-color-success-subtle,#d5fdf4);border-inline-start-width:8px}.mw-parser-output .mbox-move{border:2px solid #93c;border-inline-start-width:8px}.mw-parser-output .mbox-protection,.mw-parser-output .mbox-message{border:2px solid var(--border-color-base,#aaa);border-inline-start-width:8px}.mw-parser-output .messagebox .mbox-text{border:none;padding:0.25em 0.9em;width:100%}.mw-parser-output .messagebox .mbox-image{border:none;padding-top:2px;padding-bottom:2px;padding-inline-start:0.9em;padding-inline-end:0;text-align:center}.mw-parser-output .messagebox .mbox-imageright{border:none;padding-top:2px;padding-bottom:2px;padding-inline-start:0;padding-inline-end:0.9em;text-align:center}.mw-parser-output .messagebox .mbox-empty-cell{border:none;padding:0;width:1px}.mw-parser-output .messagebox .mbox-invalid-type{text-align:center}@media(min-width:720px){.mw-parser-output .messagebox{margin:4px 10%}.mw-parser-output .messagebox.mbox-small{clear:right;float:right;margin:4px 0 4px 1em;width:238px}}body.skin--responsive .mw-parser-output table.messagebox img{max-width:none!important}</style><table class=\"plainlinks messagebox mbox-notice layouttemplate\" role=\"presentation\" style=\"margin:0.3em 0;width:100%;\"><tbody><tr><td class=\"mbox-image\"><span typeof=\"mw:File\"><span title=\"VRT Wikimedia\"><img alt=\"VRT Wikimedia\" src=\"https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/Permission_logo_2021.svg/120px-Permission_logo_2021.svg.png?utm_source=commons.wikimedia.org&amp;utm_campaign=parser&amp;utm_content=thumbnail\" decoding=\"async\" loading=\"lazy\" width=\"75\" height=\"48\" class=\"mw-file-element\" srcset=\"https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/Permission_logo_2021.svg/250px-Permission_logo_2021.svg.png?utm_source=commons.wikimedia.org&amp;utm_campaign=parser&amp;utm_content=thumbnail 2x\" data-file-width=\"935\" data-file-height=\"600\"></span></span></td><td class=\"mbox-text\">This work is <a href=\"https://freedomdefined.org/Definition\" class=\"extiw\" title=\"freedomdefined:Definition\">free</a> and may be used by anyone for any purpose. If you wish to <b><a href=\"//commons.wikimedia.org/wiki/Commons:Reusing_content_outside_Wikimedia\" title=\"Commons:Reusing content outside Wikimedia\">use this content</a></b>, you do not need to request permission as long as you follow any licensing requirements mentioned on this page.\n<p>The Wikimedia Foundation has received an e-mail confirming that the copyright holder has approved publication under the terms mentioned on this page. This correspondence has been <b><span style=\"background:transparent;color:#0f7f1f;font-weight:400;\" title=\"transparent\">reviewed</span></b> by a <a href=\"//commons.wikimedia.org/wiki/Template:PermissionTicket/Users\" title=\"Template:PermissionTicket/Users\">Volunteer Response Team (VRT) member</a> and stored in our <a href=\"//commons.wikimedia.org/wiki/Commons:Volunteer_Response_Team\" title=\"Commons:Volunteer Response Team\">permission archive</a>. The correspondence is available to trusted volunteers as <b><a href=\"https://ticket.wikimedia.org/otrs/index.pl?Action=AgentTicketZoom&amp;TicketNumber=2014052210006739\" class=\"extiw\" title=\"ticket:2014052210006739\">ticket #2014052210006739</a></b>.\n</p><p><small>If you have questions about the archived correspondence, please use the <a href=\"//commons.wikimedia.org/wiki/Commons:Volunteer_Response_Team/Noticeboard\" title=\"Commons:Volunteer Response Team/Noticeboard\">VRT noticeboard</a>.</small>\n<small>Ticket link: <a class=\"external free\" href=\"https://ticket.wikimedia.org/otrs/index.pl?Action=AgentTicketZoom&amp;TicketNumber=2014052210006739\">https://ticket.wikimedia.org/otrs/index.pl?Action=AgentTicketZoom&amp;TicketNumber=2014052210006739</a></small>\n<br><small>Find other files from the same ticket:</small> <span typeof=\"mw:File\"><a href=\"https://wcqs-beta.wmflabs.org/#%23defaultView%3AImageGrid%09%0ASELECT%20%3Fimage%20%20%20%7B%0A%20%20%3Ffile%20wdt%3AP6305%20%222014052210006739%22%20.%0A%20%20%3Ffile%20schema%3Aurl%20%3Fimage.%0A%7D%20%0A\" title=\"SDC query (SPARQL)\" rel=\"nofollow\"><img alt=\"SDC query (SPARQL)\" src=\"https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Wikimedia_Commons_Query_Service_Logo.svg/20px-Wikimedia_Commons_Query_Service_Logo.svg.png?utm_source=commons.wikimedia.org&amp;utm_campaign=parser&amp;utm_content=thumbnail\" decoding=\"async\" loading=\"lazy\" width=\"15\" height=\"20\" class=\"mw-file-element\" srcset=\"https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Wikimedia_Commons_Query_Service_Logo.svg/40px-Wikimedia_Commons_Query_Service_Logo.svg.png?utm_source=commons.wikimedia.org&amp;utm_campaign=parser&amp;utm_content=thumbnail 2x\" data-file-width=\"512\" data-file-height=\"688\"></a></span>\n</p>\n<span id=\"field-otrs\" title=\"https://ticket.wikimedia.org/otrs/index.pl?Action=AgentTicketZoom&amp;TicketNumber=2014052210006739\"></span></td></tr></tbody></table>",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "LicenseShortName": {
+                "value": "CC BY-SA 3.0 at",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "UsageTerms": {
+                "value": "Creative Commons Attribution-Share Alike 3.0 at",
+                "source": "commons-desc-page"
+              },
+              "AttributionRequired": {
+                "value": "true",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Attribution": {
+                "value": "© Münzkabinett, Universalmuseum Joanneum, Graz",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "LicenseUrl": {
+                "value": "https://creativecommons.org/licenses/by-sa/3.0/at/deed.en",
+                "source": "commons-desc-page"
+              },
+              "Copyrighted": {
+                "value": "True",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Restrictions": {
+                "value": "",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "License": {
+                "value": "cc-by-sa-3.0-at",
+                "source": "commons-templates",
+                "hidden": ""
+              }
+            },
+            "mime": "image/jpeg"
+          }
+        ]
+      },
+      {
+        "pageid": 32922403,
+        "ns": 6,
+        "title": "File:Aureus Volusianus (obverse).jpg",
+        "imagerepository": "local",
+        "imageinfo": [
+          {
+            "size": 27999,
+            "width": 352,
+            "height": 352,
+            "thumburl": "https://upload.wikimedia.org/wikipedia/commons/c/cb/Aureus_Volusianus_%28obverse%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+            "thumbwidth": 1600,
+            "thumbheight": 1600,
+            "thumbattribs": {
+              "src": "https://upload.wikimedia.org/wikipedia/commons/c/cb/Aureus_Volusianus_%28obverse%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+              "decoding": "async",
+              "loading": "lazy",
+              "width": 1600,
+              "height": 1600
+            },
+            "url": "https://upload.wikimedia.org/wikipedia/commons/c/cb/Aureus_Volusianus_%28obverse%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:Aureus_Volusianus_(obverse).jpg",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=32922403",
+            "sha1": "3d8c9e9cb923f3e15b4318ce518cc875b66a7a8f",
+            "extmetadata": {
+              "DateTime": {
+                "value": "2014-05-22 23:31:06",
+                "source": "mediawiki-metadata",
+                "hidden": ""
+              },
+              "ObjectName": {
+                "value": "Aureus Volusianus (obverse)",
+                "source": "mediawiki-metadata"
+              },
+              "CommonsMetadataExtension": {
+                "value": 1.2,
+                "source": "extension",
+                "hidden": ""
+              },
+              "Categories": {
+                "value": "Aureus|Obverses of coins|Items with VRTS permission confirmed|Extracted images|Coins on white background|Coins of Volusianus",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "Assessments": {
+                "value": "",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "ImageDescription": {
+                "value": "Volusianus, 251-253, Aureus 251-253, AV 3.50 g. IMP CAE C VIB VOLVSIANO AVG Laureate, draped and cuirassed bust r. Calicó 3358 (this coin). C –. RIC 156.",
+                "source": "commons-desc-page"
+              },
+              "DateTimeOriginal": {
+                "value": "2014-05-22 22:37:01",
+                "source": "commons-desc-page"
+              },
+              "Credit": {
+                "value": "<a rel=\"nofollow\" class=\"external free\" href=\"http://www.acsearch.info/record.html?id=135740\">http://www.acsearch.info/record.html?id=135740</a>",
+                "source": "commons-desc-page"
+              },
+              "Artist": {
+                "value": "<a rel=\"nofollow\" class=\"external text\" href=\"http://www.arsclassicacoins.com\">Numismatica Ars Classica NAC AG</a>",
+                "source": "commons-desc-page"
+              },
+              "Permission": {
+                "value": "<p><span class=\"layouttemplateargs\" style=\"display:none;speak:none;\" title=\"template=PermissionTicket 1%3Dhttps%3A%2F%2Fticket.wikimedia.org%2Fotrs%2Findex.pl%3FAction%3DAgentTicketZoom%26TicketNumber%3D2014052210006739 2%3D2014052210006739\"> </span>\n</p>\n<style data-mw-deduplicate=\"TemplateStyles:r1254222110\">.mw-parser-output .messagebox{margin:4px 0;width:auto;border-collapse:collapse;border:2px solid var(--border-color-progressive,#6485d1);background-color:var(--background-color-neutral-subtle,#fbfcff);color:var(--color-base,#202122);box-sizing:border-box;border-inline-start-width:8px}.mw-parser-output .messagebox.mbox-small{font-size:88%;line-height:1.25em}.mw-parser-output .mbox-warning,.mw-parser-output .mbox-speedy{border:2px solid var(--border-color-error,#b22222);background:var(--background-color-error-subtle,#ffdbdb);border-inline-start-width:8px}.mw-parser-output .mbox-serious,.mw-parser-output .mbox-delete,.mw-parser-output .mbox-stop{border:2px solid var(--border-color-error,#b22222);border-inline-start-width:8px}.mw-parser-output .mbox-issue,.mw-parser-output .mbox-content{border:2px solid #f28500;background:var(--background-color-warning-subtle,#ffe);border-inline-start-width:8px}.mw-parser-output .mbox-query,.mw-parser-output .mbox-style{border:2px solid #f4c430;background:var(--background-color-warning-subtle,#ffe);border-inline-start-width:8px}.mw-parser-output .mbox-shit{border:2px solid #960;border-inline-start-width:8px}.mw-parser-output .mbox-license{border:2px solid #88a;border-inline-start-width:initial}.mw-parser-output .mbox-legal{border:2px solid var(--border-color-notice,#666);background:var(--background-color-base,#fff);border-inline-start-width:8px}.mw-parser-output .mbox-honor{border:2px solid #ca3;background:var(--background-color-warning-subtle,#fcf4db);border-inline-start-width:8px}.mw-parser-output .mbox-growth{border:2px solid #8d4;background:var(--background-color-success-subtle,#d5fdf4);border-inline-start-width:8px}.mw-parser-output .mbox-move{border:2px solid #93c;border-inline-start-width:8px}.mw-parser-output .mbox-protection,.mw-parser-output .mbox-message{border:2px solid var(--border-color-base,#aaa);border-inline-start-width:8px}.mw-parser-output .messagebox .mbox-text{border:none;padding:0.25em 0.9em;width:100%}.mw-parser-output .messagebox .mbox-image{border:none;padding-top:2px;padding-bottom:2px;padding-inline-start:0.9em;padding-inline-end:0;text-align:center}.mw-parser-output .messagebox .mbox-imageright{border:none;padding-top:2px;padding-bottom:2px;padding-inline-start:0;padding-inline-end:0.9em;text-align:center}.mw-parser-output .messagebox .mbox-empty-cell{border:none;padding:0;width:1px}.mw-parser-output .messagebox .mbox-invalid-type{text-align:center}@media(min-width:720px){.mw-parser-output .messagebox{margin:4px 10%}.mw-parser-output .messagebox.mbox-small{clear:right;float:right;margin:4px 0 4px 1em;width:238px}}body.skin--responsive .mw-parser-output table.messagebox img{max-width:none!important}</style><table class=\"plainlinks messagebox mbox-notice layouttemplate\" role=\"presentation\" style=\"margin:0.3em 0;width:100%;\"><tbody><tr><td class=\"mbox-image\"><span typeof=\"mw:File\"><span title=\"VRT Wikimedia\"><img alt=\"VRT Wikimedia\" src=\"https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/Permission_logo_2021.svg/120px-Permission_logo_2021.svg.png?utm_source=commons.wikimedia.org&amp;utm_campaign=parser&amp;utm_content=thumbnail\" decoding=\"async\" loading=\"lazy\" width=\"75\" height=\"48\" class=\"mw-file-element\" srcset=\"https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/Permission_logo_2021.svg/250px-Permission_logo_2021.svg.png?utm_source=commons.wikimedia.org&amp;utm_campaign=parser&amp;utm_content=thumbnail 2x\" data-file-width=\"935\" data-file-height=\"600\"></span></span></td><td class=\"mbox-text\">This work is <a href=\"https://freedomdefined.org/Definition\" class=\"extiw\" title=\"freedomdefined:Definition\">free</a> and may be used by anyone for any purpose. If you wish to <b><a href=\"//commons.wikimedia.org/wiki/Commons:Reusing_content_outside_Wikimedia\" title=\"Commons:Reusing content outside Wikimedia\">use this content</a></b>, you do not need to request permission as long as you follow any licensing requirements mentioned on this page.\n<p>The Wikimedia Foundation has received an e-mail confirming that the copyright holder has approved publication under the terms mentioned on this page. This correspondence has been <b><span style=\"background:transparent;color:#0f7f1f;font-weight:400;\" title=\"transparent\">reviewed</span></b> by a <a href=\"//commons.wikimedia.org/wiki/Template:PermissionTicket/Users\" title=\"Template:PermissionTicket/Users\">Volunteer Response Team (VRT) member</a> and stored in our <a href=\"//commons.wikimedia.org/wiki/Commons:Volunteer_Response_Team\" title=\"Commons:Volunteer Response Team\">permission archive</a>. The correspondence is available to trusted volunteers as <b><a href=\"https://ticket.wikimedia.org/otrs/index.pl?Action=AgentTicketZoom&amp;TicketNumber=2014052210006739\" class=\"extiw\" title=\"ticket:2014052210006739\">ticket #2014052210006739</a></b>.\n</p><p><small>If you have questions about the archived correspondence, please use the <a href=\"//commons.wikimedia.org/wiki/Commons:Volunteer_Response_Team/Noticeboard\" title=\"Commons:Volunteer Response Team/Noticeboard\">VRT noticeboard</a>.</small>\n<small>Ticket link: <a class=\"external free\" href=\"https://ticket.wikimedia.org/otrs/index.pl?Action=AgentTicketZoom&amp;TicketNumber=2014052210006739\">https://ticket.wikimedia.org/otrs/index.pl?Action=AgentTicketZoom&amp;TicketNumber=2014052210006739</a></small>\n<br><small>Find other files from the same ticket:</small> <span typeof=\"mw:File\"><a href=\"https://wcqs-beta.wmflabs.org/#%23defaultView%3AImageGrid%09%0ASELECT%20%3Fimage%20%20%20%7B%0A%20%20%3Ffile%20wdt%3AP6305%20%222014052210006739%22%20.%0A%20%20%3Ffile%20schema%3Aurl%20%3Fimage.%0A%7D%20%0A\" title=\"SDC query (SPARQL)\" rel=\"nofollow\"><img alt=\"SDC query (SPARQL)\" src=\"https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Wikimedia_Commons_Query_Service_Logo.svg/20px-Wikimedia_Commons_Query_Service_Logo.svg.png?utm_source=commons.wikimedia.org&amp;utm_campaign=parser&amp;utm_content=thumbnail\" decoding=\"async\" loading=\"lazy\" width=\"15\" height=\"20\" class=\"mw-file-element\" srcset=\"https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Wikimedia_Commons_Query_Service_Logo.svg/40px-Wikimedia_Commons_Query_Service_Logo.svg.png?utm_source=commons.wikimedia.org&amp;utm_campaign=parser&amp;utm_content=thumbnail 2x\" data-file-width=\"512\" data-file-height=\"688\"></a></span>\n</p>\n<span id=\"field-otrs\" title=\"https://ticket.wikimedia.org/otrs/index.pl?Action=AgentTicketZoom&amp;TicketNumber=2014052210006739\"></span></td></tr></tbody></table>",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "LicenseShortName": {
+                "value": "CC BY-SA 3.0 ch",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "UsageTerms": {
+                "value": "Creative Commons Attribution-Share Alike 3.0 ch",
+                "source": "commons-desc-page"
+              },
+              "AttributionRequired": {
+                "value": "true",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "LicenseUrl": {
+                "value": "https://creativecommons.org/licenses/by-sa/3.0/ch/deed.en",
+                "source": "commons-desc-page"
+              },
+              "Copyrighted": {
+                "value": "True",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Restrictions": {
+                "value": "",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "License": {
+                "value": "cc-by-sa-3.0-ch",
+                "source": "commons-templates",
+                "hidden": ""
+              }
+            },
+            "mime": "image/jpeg"
+          }
+        ]
+      },
+      {
+        "pageid": 52132097,
+        "ns": 6,
+        "title": "File:Burrhus, Nero's Tutor, Prostrating Himself before his Sovereign Lord (Otto Wallgren) - Nationalmuseum - 19020.tif",
+        "imagerepository": "local",
+        "imageinfo": [
+          {
+            "size": 34781636,
+            "width": 3025,
+            "height": 3829,
+            "pagecount": 1,
+            "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a8/Burrhus%2C_Nero%27s_Tutor%2C_Prostrating_Himself_before_his_Sovereign_Lord_%28Otto_Wallgren%29_-_Nationalmuseum_-_19020.tif/lossy-page1-1920px-Burrhus%2C_Nero%27s_Tutor%2C_Prostrating_Himself_before_his_Sovereign_Lord_%28Otto_Wallgren%29_-_Nationalmuseum_-_19020.tif.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+            "thumbwidth": 1600,
+            "thumbheight": 2025,
+            "thumbattribs": {
+              "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a8/Burrhus%2C_Nero%27s_Tutor%2C_Prostrating_Himself_before_his_Sovereign_Lord_%28Otto_Wallgren%29_-_Nationalmuseum_-_19020.tif/lossy-page1-1920px-Burrhus%2C_Nero%27s_Tutor%2C_Prostrating_Himself_before_his_Sovereign_Lord_%28Otto_Wallgren%29_-_Nationalmuseum_-_19020.tif.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+              "decoding": "async",
+              "loading": "lazy",
+              "width": 1600,
+              "height": 2025
+            },
+            "url": "https://upload.wikimedia.org/wikipedia/commons/a/a8/Burrhus%2C_Nero%27s_Tutor%2C_Prostrating_Himself_before_his_Sovereign_Lord_%28Otto_Wallgren%29_-_Nationalmuseum_-_19020.tif?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:Burrhus,_Nero%27s_Tutor,_Prostrating_Himself_before_his_Sovereign_Lord_(Otto_Wallgren)_-_Nationalmuseum_-_19020.tif",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=52132097",
+            "sha1": "cf89ecffc1c0495de67db9416dff57b889a3b493",
+            "extmetadata": {
+              "DateTime": {
+                "value": "2016-10-08 07:31:10",
+                "source": "mediawiki-metadata",
+                "hidden": ""
+              },
+              "ObjectName": {
+                "value": "Burrhus, Nero's Tutor, Prostrating Himself before his Sovereign Lord",
+                "source": "commons-desc-page"
+              },
+              "CommonsMetadataExtension": {
+                "value": 1.2,
+                "source": "extension",
+                "hidden": ""
+              },
+              "Categories": {
+                "value": "Paintings in the Nationalmuseum Stockholm|PD-Art (PD-old-auto)|Artworks with Wikidata item|Artworks with known accession number|PD-old-100|Content made available through Wikimedia Sverige partnerships|CC-PD-Mark|Images from the Nationalmuseum Stockholm|Artworks with Wikidata item missing medium|Media contributed by Nationalmuseum Stockholm: 2016-10|Artworks with Wikidata item missing genre|Sextus Afranius Burrus|Licensed-PD-Art missing SDC copyright license|Artworks digital representation of 2D work|Nero in paintings|Media contributed by Nationalmuseum Stockholm: improve categories|Media contributed by Nationalmuseum Stockholm: add artist cat and commonscat to artist on wikidata",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "Assessments": {
+                "value": "",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "Artist": {
+                "value": "<bdi><a href=\"https://www.wikidata.org/wiki/Q16650564\" class=\"extiw\" title=\"d:Q16650564\"><span title=\"Swedish painter (1795–1857)\">Otto Wallgren</span></a></bdi>",
+                "source": "commons-desc-page"
+              },
+              "DateTimeOriginal": {
+                "value": "1816<div style=\"display: none;\">date QS:P571,+1816-00-00T00:00:00Z/9</div>",
+                "source": "commons-desc-page"
+              },
+              "Credit": {
+                "value": "<a rel=\"nofollow\" class=\"external text\" href=\"http://collection.nationalmuseum.se/eMuseumPlus?service=ExternalInterface&amp;module=collection&amp;objectId=19020&amp;viewType=detailView\">  Erik Cornelius / Nationalmuseum</a>",
+                "source": "commons-desc-page"
+              },
+              "Permission": {
+                "value": "<p>The author died in 1857, so this work is in the <b><a href=\"https://en.wikipedia.org/wiki/public_domain\" class=\"extiw\" title=\"en:public domain\">public domain</a></b> in its country of origin and other countries and areas where the <a href=\"https://en.wikipedia.org/wiki/List_of_countries%27_copyright_lengths\" class=\"extiw\" title=\"w:List of countries' copyright lengths\">copyright term</a> is the author's <b>life plus 100 years or fewer</b>.\n</p>\n<hr><span typeof=\"mw:File\"><span><img src=\"https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6e/Dialog-warning.svg/40px-Dialog-warning.svg.png?utm_source=commons.wikimedia.org&amp;utm_campaign=parser&amp;utm_content=thumbnail\" decoding=\"async\" loading=\"lazy\" width=\"25\" height=\"25\" class=\"mw-file-element\" srcset=\"https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6e/Dialog-warning.svg/60px-Dialog-warning.svg.png?utm_source=commons.wikimedia.org&amp;utm_campaign=parser&amp;utm_content=thumbnail 2x\" data-file-width=\"48\" data-file-height=\"48\"></span></span> <small>You must also include a <a href=\"//commons.wikimedia.org/wiki/Commons:Copyright_tags/Country-specific_tags#United_States_of_America\" title=\"Commons:Copyright tags/Country-specific tags\">United States public domain tag</a> to indicate why this work is in the public domain in the United States.<div class=\"navigation-not-searchable\"></div></small>",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "LicenseShortName": {
+                "value": "Public domain",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "UsageTerms": {
+                "value": "Public domain",
+                "source": "commons-desc-page"
+              },
+              "AttributionRequired": {
+                "value": "false",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Copyrighted": {
+                "value": "False",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Restrictions": {
+                "value": "",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "License": {
+                "value": "pd",
+                "source": "commons-templates",
+                "hidden": ""
+              }
+            },
+            "mime": "image/tiff"
+          }
+        ]
+      },
+      {
+        "pageid": 69475691,
+        "ns": 6,
+        "title": "File:Dinar of Shapur I, ca. 260-272.jpg",
+        "imagerepository": "local",
+        "imageinfo": [
+          {
+            "size": 131412,
+            "width": 800,
+            "height": 387,
+            "thumburl": "https://upload.wikimedia.org/wikipedia/commons/a/ab/Dinar_of_Shapur_I%2C_ca._260-272.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+            "thumbwidth": 1600,
+            "thumbheight": 774,
+            "thumbattribs": {
+              "src": "https://upload.wikimedia.org/wikipedia/commons/a/ab/Dinar_of_Shapur_I%2C_ca._260-272.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+              "decoding": "async",
+              "loading": "lazy",
+              "width": 1600,
+              "height": 774
+            },
+            "url": "https://upload.wikimedia.org/wikipedia/commons/a/ab/Dinar_of_Shapur_I%2C_ca._260-272.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:Dinar_of_Shapur_I,_ca._260-272.jpg",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=69475691",
+            "sha1": "00cd00ef84e0a56ec184149f91fe9c19f6947afe",
+            "extmetadata": {
+              "DateTime": {
+                "value": "2019-02-25 17:26:58",
+                "source": "mediawiki-metadata",
+                "hidden": ""
+              },
+              "ObjectName": {
+                "value": "Dinar of Shapur I, ca. 260-272",
+                "source": "mediawiki-metadata"
+              },
+              "CommonsMetadataExtension": {
+                "value": 1.2,
+                "source": "extension",
+                "hidden": ""
+              },
+              "Categories": {
+                "value": "GFDL|Ctesiphon|License migration not eligible|Self-published work|CNG coins|Items with VRTS permission confirmed|260s coins|Template Unknown (author)|Coins on white background|260s works in Iran|Fire temples on coins|Sassanid gold coins|Coins of Shapur I|Pahlavi-alphabet inscriptions|Korymbos (headgear)|Crenellated crowns on Sassanid coins",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "Assessments": {
+                "value": "",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "ImageDescription": {
+                "value": "Dinar de Sapor I cunhado em Ctesifonte ca. 260-272<br>SASANIAN KINGS. Šābuhr (Shahpur) I. AD 240-272. AV Dinar (22mm, 7.38 g, 3h). Mint I (“Ctesiphon”). Phase 2, circa AD 260-272. mzdysn bgy šhpwhry MRK’n MRK’ ’yr’n MNW ctry MN yzd’n in Pahlavi, bust right, wearing diadem and mural crown with korymbos / nwr’zy in Pahlavi to right, šhpwhry in Pahlavi to left,, fire altar; flanked by two attendants wearing mural crowns; pellets to right of altar shaft. SNS type IIc/1b, style P, group b; Göbl type I/1; Saeedi AV4 var. (no pellets on rev.); Sunrise 739 var. (same). EF, slight die rust on obverse, minor double strike on reverse.",
+                "source": "commons-desc-page"
+              },
+              "DateTimeOriginal": {
+                "value": "2018-05-27",
+                "source": "commons-desc-page"
+              },
+              "Credit": {
+                "value": "<a rel=\"nofollow\" class=\"external text\" href=\"https://www.cngcoins.com/Coin.aspx?CoinID=349744\">CNG</a>",
+                "source": "commons-desc-page"
+              },
+              "Artist": {
+                "value": "Unknown author<span style=\"display: none;\">Unknown author</span>",
+                "source": "commons-desc-page"
+              },
+              "LicenseShortName": {
+                "value": "CC BY-SA 2.5",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "UsageTerms": {
+                "value": "Creative Commons Attribution-Share Alike 2.5",
+                "source": "commons-desc-page"
+              },
+              "AttributionRequired": {
+                "value": "true",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Attribution": {
+                "value": "Classical Numismatic Group, Inc. <a rel=\"nofollow\" class=\"external free\" href=\"http://www.cngcoins.com\">http://www.cngcoins.com</a>",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "LicenseUrl": {
+                "value": "https://creativecommons.org/licenses/by-sa/2.5",
+                "source": "commons-desc-page"
+              },
+              "Copyrighted": {
+                "value": "True",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Restrictions": {
+                "value": "",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "License": {
+                "value": "cc-by-sa-2.5",
+                "source": "commons-templates",
+                "hidden": ""
+              }
+            },
+            "mime": "image/jpeg"
+          }
+        ]
+      },
+      {
+        "pageid": 84784268,
+        "ns": 6,
+        "title": "File:Sextus Julius Africanus Julius aphricanus (titel op object) Liber Chronicarum (serietitel), RP-P-2016-49-79-4.jpg",
+        "imagerepository": "local",
+        "imageinfo": [
+          {
+            "size": 249300,
+            "width": 1044,
+            "height": 1488,
+            "thumburl": "https://upload.wikimedia.org/wikipedia/commons/6/67/Sextus_Julius_Africanus_Julius_aphricanus_%28titel_op_object%29_Liber_Chronicarum_%28serietitel%29%2C_RP-P-2016-49-79-4.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+            "thumbwidth": 1600,
+            "thumbheight": 2280,
+            "thumbattribs": {
+              "src": "https://upload.wikimedia.org/wikipedia/commons/6/67/Sextus_Julius_Africanus_Julius_aphricanus_%28titel_op_object%29_Liber_Chronicarum_%28serietitel%29%2C_RP-P-2016-49-79-4.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+              "decoding": "async",
+              "loading": "lazy",
+              "width": 1600,
+              "height": 2280
+            },
+            "url": "https://upload.wikimedia.org/wikipedia/commons/6/67/Sextus_Julius_Africanus_Julius_aphricanus_%28titel_op_object%29_Liber_Chronicarum_%28serietitel%29%2C_RP-P-2016-49-79-4.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:Sextus_Julius_Africanus_Julius_aphricanus_(titel_op_object)_Liber_Chronicarum_(serietitel),_RP-P-2016-49-79-4.jpg",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=84784268",
+            "sha1": "75cbc3b997292170b5176a51f34ce0e234d2ad56",
+            "extmetadata": {
+              "DateTime": {
+                "value": "2019-12-10 11:59:16",
+                "source": "mediawiki-metadata",
+                "hidden": ""
+              },
+              "ObjectName": {
+                "value": "Sextus Julius Africanus Julius aphricanus (titel op object) Liber Chronicarum (serietitel), RP-P-2016-49-79-4",
+                "source": "mediawiki-metadata"
+              },
+              "CommonsMetadataExtension": {
+                "value": 1.2,
+                "source": "extension",
+                "hidden": ""
+              },
+              "Categories": {
+                "value": "CC-Zero|Liber Chronicarum, Rijksmuseum Amsterdam|Album met voorstellingen uit de Neurenbergkroniek van Schedel|Sextus Julius Africanus",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "Assessments": {
+                "value": "",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "ImageDescription": {
+                "value": "<br><br><big><b>Identificatie</b></big><br><b>Titel(s): </b>Sextus Julius Africanus. Julius aphrican[us] (titel op object). Liber Chronicarum (serietitel)<br><b>Objecttype:</b> prent boekillustratie albumblad <br><b>Objectnummer:</b> RP-P-2016-49-79-4<br><b>Opschriften / Merken:</b> opschrift, rechtsonder, geschreven met pen: ‘47’<br><b>Omschrijving:</b> Een bloemkelk met een lezende man. De tekst identificeert hem als Sextus Julius Africanus, reiziger en historicus. De prent maakt deel uit van een album.<br><br><big><b>Vervaardiging</b></big><br><b>Vervaardiger:</b> prentmaker: Michel Wolgemut (atelier van), prentmaker: Wilhelm Pleydenwurff (atelier van)<br><b>Plaats vervaardiging:</b> Neurenberg<br><b>Datering:</b> 1493<br><b>Fysieke kenmerken:</b> houtsnede geplakt op albumblad; tekst in boekdruk; verso met tekst in boekdruk<br><b>Materiaal:</b> papier <br><b>Techniek:</b> boekdruk / houtsnede / plakken<br><b>Afmetingen:</b> prent: h 80 mm × b 55 mm<br><br><big><b>Toelichting</b></big><br>De houtsnede wordt herhaaldelijk gebruikt als boekillustratie in de Liber Chronicarum (of Neurenbergkroniek) van Hartmann Schedel, verschenen in het Latijn en Duits in 1493. Zie de Latijnse uitgave, folio 118r.<br><br><big><b>Onderwerp</b></big><br><b>Wat: </b>mannelijke personen uit de klassieke geschiedenis<br><br><big><b>Verwerving en rechten</b></big><br><b>Verwerving:</b> onbekend 1874<br><b>Copyright:</b> Publiek domein",
+                "source": "commons-desc-page"
+              },
+              "DateTimeOriginal": {
+                "value": "1493",
+                "source": "commons-desc-page"
+              },
+              "Credit": {
+                "value": "<a rel=\"nofollow\" class=\"external free\" href=\"http://hdl.handle.net/10934/RM0001.COLLECT.614603\">http://hdl.handle.net/10934/RM0001.COLLECT.614603</a>",
+                "source": "commons-desc-page"
+              },
+              "Artist": {
+                "value": "Rijksmuseum",
+                "source": "commons-desc-page"
+              },
+              "LicenseShortName": {
+                "value": "CC0",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "UsageTerms": {
+                "value": "Creative Commons Zero, Public Domain Dedication",
+                "source": "commons-desc-page"
+              },
+              "AttributionRequired": {
+                "value": "false",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "LicenseUrl": {
+                "value": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+                "source": "commons-desc-page"
+              },
+              "Copyrighted": {
+                "value": "True",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Restrictions": {
+                "value": "",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "License": {
+                "value": "cc0",
+                "source": "commons-templates",
+                "hidden": ""
+              }
+            },
+            "mime": "image/jpeg"
+          }
+        ]
+      },
+      {
+        "pageid": 91882265,
+        "ns": 6,
+        "title": "File:Wall painting - Phaidra and her nurse - Pompeii - London BM GR 1856-0625-5 - 02.jpg",
+        "imagerepository": "local",
+        "imageinfo": [
+          {
+            "size": 22667330,
+            "width": 5472,
+            "height": 3648,
+            "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/70/Wall_painting_-_Phaidra_and_her_nurse_-_Pompeii_-_London_BM_GR_1856-0625-5_-_02.jpg/1920px-Wall_painting_-_Phaidra_and_her_nurse_-_Pompeii_-_London_BM_GR_1856-0625-5_-_02.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+            "thumbwidth": 1600,
+            "thumbheight": 1067,
+            "responsiveUrls": {
+              "2": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/70/Wall_painting_-_Phaidra_and_her_nurse_-_Pompeii_-_London_BM_GR_1856-0625-5_-_02.jpg/3840px-Wall_painting_-_Phaidra_and_her_nurse_-_Pompeii_-_London_BM_GR_1856-0625-5_-_02.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+            },
+            "thumbattribs": {
+              "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/70/Wall_painting_-_Phaidra_and_her_nurse_-_Pompeii_-_London_BM_GR_1856-0625-5_-_02.jpg/1920px-Wall_painting_-_Phaidra_and_her_nurse_-_Pompeii_-_London_BM_GR_1856-0625-5_-_02.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+              "decoding": "async",
+              "loading": "lazy",
+              "width": 1600,
+              "height": 1067,
+              "srcset": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/70/Wall_painting_-_Phaidra_and_her_nurse_-_Pompeii_-_London_BM_GR_1856-0625-5_-_02.jpg/3840px-Wall_painting_-_Phaidra_and_her_nurse_-_Pompeii_-_London_BM_GR_1856-0625-5_-_02.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail 2x"
+            },
+            "url": "https://upload.wikimedia.org/wikipedia/commons/7/70/Wall_painting_-_Phaidra_and_her_nurse_-_Pompeii_-_London_BM_GR_1856-0625-5_-_02.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:Wall_painting_-_Phaidra_and_her_nurse_-_Pompeii_-_London_BM_GR_1856-0625-5_-_02.jpg",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=91882265",
+            "sha1": "63e0f1755e2fe3577719cbe69c51a74f361c6737",
+            "extmetadata": {
+              "DateTime": {
+                "value": "2020-07-04 12:08:44",
+                "source": "mediawiki-metadata",
+                "hidden": ""
+              },
+              "ObjectName": {
+                "value": "Wall painting - Phaidra and her nurse - Pompeii - London BM GR 1856-0625-5 - 02",
+                "source": "mediawiki-metadata"
+              },
+              "CommonsMetadataExtension": {
+                "value": 1.2,
+                "source": "extension",
+                "hidden": ""
+              },
+              "Categories": {
+                "value": "Self-published work|Room 70, British Museum|Ancient Roman frescos from Pompeii in the British Museum",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "Assessments": {
+                "value": "",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "ImageDescription": {
+                "value": "- object type: wall painting (fresco), fragment\n<p>- description: mistress seatend and maid: Phaidra discussing with her nurse?\n- period / date: third style of pompeian wall painting, ca. 20-60 AD\n- height: 21,5 cm\n- width: 28,5 cm\n- findspot: probably Pompeji (Féjerváry collection)\n- museum / inventory number: London, British Museum GR 1856,0625.5 \n- bibliography: <a rel=\"nofollow\" class=\"external free\" href=\"https://www.britishmuseum.org/collection/object/G_1856-0625-5\">https://www.britishmuseum.org/collection/object/G_1856-0625-5</a>\n</p>\n- Please note: The above museum permits photography of its exhibits for private, educational, scientific, non-commercial purposes. If you intend to use the photo for any commercial aim, please contact the museum and ask for permission.",
+                "source": "commons-desc-page"
+              },
+              "DateTimeOriginal": {
+                "value": "2018-07-12 15:15:42",
+                "source": "commons-desc-page"
+              },
+              "Credit": {
+                "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+                "source": "commons-desc-page"
+              },
+              "Artist": {
+                "value": "<a href=\"//commons.wikimedia.org/wiki/User:ArchaiOptix\" title=\"User:ArchaiOptix\">ArchaiOptix</a>",
+                "source": "commons-desc-page"
+              },
+              "LicenseShortName": {
+                "value": "CC BY-SA 4.0",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "UsageTerms": {
+                "value": "Creative Commons Attribution-Share Alike 4.0",
+                "source": "commons-desc-page"
+              },
+              "AttributionRequired": {
+                "value": "true",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "LicenseUrl": {
+                "value": "https://creativecommons.org/licenses/by-sa/4.0",
+                "source": "commons-desc-page"
+              },
+              "Copyrighted": {
+                "value": "True",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Restrictions": {
+                "value": "",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "License": {
+                "value": "cc-by-sa-4.0",
+                "source": "commons-templates",
+                "hidden": ""
+              }
+            },
+            "mime": "image/jpeg"
+          }
+        ]
+      },
+      {
+        "pageid": 112205033,
+        "ns": 6,
+        "title": "File:Coleção Bühler-Brockhaus (15).jpg",
+        "imagerepository": "local",
+        "imageinfo": [
+          {
+            "size": 4845867,
+            "width": 4114,
+            "height": 3440,
+            "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4c/Cole%C3%A7%C3%A3o_B%C3%BChler-Brockhaus_%2815%29.jpg/1920px-Cole%C3%A7%C3%A3o_B%C3%BChler-Brockhaus_%2815%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+            "thumbwidth": 1600,
+            "thumbheight": 1338,
+            "responsiveUrls": {
+              "2": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4c/Cole%C3%A7%C3%A3o_B%C3%BChler-Brockhaus_%2815%29.jpg/3840px-Cole%C3%A7%C3%A3o_B%C3%BChler-Brockhaus_%2815%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+            },
+            "thumbattribs": {
+              "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4c/Cole%C3%A7%C3%A3o_B%C3%BChler-Brockhaus_%2815%29.jpg/1920px-Cole%C3%A7%C3%A3o_B%C3%BChler-Brockhaus_%2815%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+              "decoding": "async",
+              "loading": "lazy",
+              "width": 1600,
+              "height": 1338,
+              "srcset": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4c/Cole%C3%A7%C3%A3o_B%C3%BChler-Brockhaus_%2815%29.jpg/3840px-Cole%C3%A7%C3%A3o_B%C3%BChler-Brockhaus_%2815%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail 2x"
+            },
+            "url": "https://upload.wikimedia.org/wikipedia/commons/4/4c/Cole%C3%A7%C3%A3o_B%C3%BChler-Brockhaus_%2815%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:Cole%C3%A7%C3%A3o_B%C3%BChler-Brockhaus_(15).jpg",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=112205033",
+            "sha1": "28376e487949740b904de28276d10bd1b7d58934",
+            "extmetadata": {
+              "DateTime": {
+                "value": "2021-11-01 09:13:25",
+                "source": "mediawiki-metadata",
+                "hidden": ""
+              },
+              "ObjectName": {
+                "value": "Coleção Bühler-Brockhaus (15)",
+                "source": "mediawiki-metadata"
+              },
+              "CommonsMetadataExtension": {
+                "value": 1.2,
+                "source": "extension",
+                "hidden": ""
+              },
+              "Categories": {
+                "value": "Hippodamia (daughter of Oenomaus)|Pelops|Pothos|Self-published work|Portugal photographs taken on 2021-10-31|Marriage in Greek mythology|Marriage in Ancient Roman art|Ancient Roman mosaics in D. Diogo de Sousa Museum|Roman antiquities in the Coleção Bühler-Brockhaus",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "Assessments": {
+                "value": "",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "ImageDescription": {
+                "value": "D. Diogo de Sousa Museum in Braga Portugal.",
+                "source": "commons-desc-page"
+              },
+              "DateTimeOriginal": {
+                "value": "2021-10-31 11:00:12",
+                "source": "commons-desc-page"
+              },
+              "Credit": {
+                "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+                "source": "commons-desc-page"
+              },
+              "Artist": {
+                "value": "<a href=\"//commons.wikimedia.org/wiki/User:Joseolgon\" title=\"User:Joseolgon\">Joseolgon</a>",
+                "source": "commons-desc-page"
+              },
+              "LicenseShortName": {
+                "value": "CC BY-SA 4.0",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "UsageTerms": {
+                "value": "Creative Commons Attribution-Share Alike 4.0",
+                "source": "commons-desc-page"
+              },
+              "AttributionRequired": {
+                "value": "true",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "LicenseUrl": {
+                "value": "https://creativecommons.org/licenses/by-sa/4.0",
+                "source": "commons-desc-page"
+              },
+              "Copyrighted": {
+                "value": "True",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Restrictions": {
+                "value": "",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "License": {
+                "value": "cc-by-sa-4.0",
+                "source": "commons-templates",
+                "hidden": ""
+              }
+            },
+            "mime": "image/jpeg"
+          }
+        ]
+      },
+      {
+        "pageid": 113241241,
+        "ns": 6,
+        "title": "File:Perseus of Macedon coin cropped.png",
+        "imagerepository": "local",
+        "imageinfo": [
+          {
+            "size": 276418,
+            "width": 395,
+            "height": 388,
+            "thumburl": "https://upload.wikimedia.org/wikipedia/commons/f/fc/Perseus_of_Macedon_coin_cropped.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+            "thumbwidth": 1600,
+            "thumbheight": 1572,
+            "thumbattribs": {
+              "src": "https://upload.wikimedia.org/wikipedia/commons/f/fc/Perseus_of_Macedon_coin_cropped.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+              "decoding": "async",
+              "loading": "lazy",
+              "width": 1600,
+              "height": 1572
+            },
+            "url": "https://upload.wikimedia.org/wikipedia/commons/f/fc/Perseus_of_Macedon_coin_cropped.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:Perseus_of_Macedon_coin_cropped.png",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=113241241",
+            "sha1": "39eb6bccd7e04d6d7d2ccda4c684ccea99093133",
+            "extmetadata": {
+              "DateTime": {
+                "value": "2021-12-10 20:05:31",
+                "source": "mediawiki-metadata",
+                "hidden": ""
+              },
+              "ObjectName": {
+                "value": "Perseus of Macedon coin cropped",
+                "source": "mediawiki-metadata"
+              },
+              "CommonsMetadataExtension": {
+                "value": 1.2,
+                "source": "extension",
+                "hidden": ""
+              },
+              "Categories": {
+                "value": "GFDL|License migration not eligible|Self-published work|CNG coins|Items with VRTS permission confirmed|Coins of Perseus of Macedon",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "Assessments": {
+                "value": "",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "ImageDescription": {
+                "value": "KINGS of MACEDON. Perseus. 179-168 BC. AR Tetradrachm (31.5mm, 16.70 g, 12h). Attic standard. Pella or Amphipolis mint; Au–, mintmaster. Struck circa 173-171 BC. Diademed head right / Eagle standing right on thunderbolt; AY (mintmaster’s) monogram above, HP monogram to right, AN between legs; all within oak wreath; below, plow right. Mamroth, Perseus 15; Jameson 1013; McClean 3675; Rhousopoulos 1203. Good VF, lightly toned, slight bend in flan.",
+                "source": "commons-desc-page"
+              },
+              "DateTimeOriginal": {
+                "value": "2nd century BC (coin)",
+                "source": "commons-desc-page"
+              },
+              "Credit": {
+                "value": "<a rel=\"nofollow\" class=\"external text\" href=\"https://www.cngcoins.com/Coin.aspx?CoinID=303108\">CNG Coins</a>",
+                "source": "commons-desc-page"
+              },
+              "Artist": {
+                "value": "CNG Coins",
+                "source": "commons-desc-page"
+              },
+              "LicenseShortName": {
+                "value": "CC BY-SA 2.5",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "UsageTerms": {
+                "value": "Creative Commons Attribution-Share Alike 2.5",
+                "source": "commons-desc-page"
+              },
+              "AttributionRequired": {
+                "value": "true",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Attribution": {
+                "value": "Classical Numismatic Group, Inc. <a rel=\"nofollow\" class=\"external free\" href=\"http://www.cngcoins.com\">http://www.cngcoins.com</a>",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "LicenseUrl": {
+                "value": "https://creativecommons.org/licenses/by-sa/2.5",
+                "source": "commons-desc-page"
+              },
+              "Copyrighted": {
+                "value": "True",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Restrictions": {
+                "value": "",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "License": {
+                "value": "cc-by-sa-2.5",
+                "source": "commons-templates",
+                "hidden": ""
+              }
+            },
+            "mime": "image/png"
+          }
+        ]
+      },
+      {
+        "pageid": 126110683,
+        "ns": 6,
+        "title": "File:Follis of Fausta (obverse).png",
+        "imagerepository": "local",
+        "imageinfo": [
+          {
+            "size": 235390,
+            "width": 392,
+            "height": 390,
+            "thumburl": "https://upload.wikimedia.org/wikipedia/commons/2/20/Follis_of_Fausta_%28obverse%29.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+            "thumbwidth": 1600,
+            "thumbheight": 1592,
+            "thumbattribs": {
+              "src": "https://upload.wikimedia.org/wikipedia/commons/2/20/Follis_of_Fausta_%28obverse%29.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+              "decoding": "async",
+              "loading": "lazy",
+              "width": 1600,
+              "height": 1592
+            },
+            "url": "https://upload.wikimedia.org/wikipedia/commons/2/20/Follis_of_Fausta_%28obverse%29.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:Follis_of_Fausta_(obverse).png",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=126110683",
+            "sha1": "7a7f07fb5b1b24234a128bca0117724d778e29a6",
+            "extmetadata": {
+              "DateTime": {
+                "value": "2022-11-29 21:11:52",
+                "source": "mediawiki-metadata",
+                "hidden": ""
+              },
+              "ObjectName": {
+                "value": "Follis of Fausta (obverse)",
+                "source": "mediawiki-metadata"
+              },
+              "CommonsMetadataExtension": {
+                "value": 1.2,
+                "source": "extension",
+                "hidden": ""
+              },
+              "Categories": {
+                "value": "GFDL|License migration not eligible|Self-published work|CNG coins|Items with VRTS permission confirmed|Extracted images|Coins of Fausta",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "Assessments": {
+                "value": "",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "ImageDescription": {
+                "value": "<b>Fausta.</b> Augusta, AD 324-326. Æ Follis (19mm, 3.55 g, 6h). Sirmium mint. Struck AD 324-325. Draped bust right / Fausta (or Salus) standing facing, head left, holding two children in her arms; SIRM. RIC VII 55; LRBC 810. Choice EF, with original silvering. Finely engraved reverse scene. Rare, the only follis issue for Fausta at Sirmium",
+                "source": "commons-desc-page"
+              },
+              "DateTimeOriginal": {
+                "value": "0324",
+                "source": "commons-desc-page"
+              },
+              "Credit": {
+                "value": "<a rel=\"nofollow\" class=\"external free\" href=\"https://www.cngcoins.com/Coin.aspx?CoinID=358161#\">https://www.cngcoins.com/Coin.aspx?CoinID=358161#</a>",
+                "source": "commons-desc-page"
+              },
+              "Artist": {
+                "value": "CNG",
+                "source": "commons-desc-page"
+              },
+              "LicenseShortName": {
+                "value": "CC BY-SA 2.5",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "UsageTerms": {
+                "value": "Creative Commons Attribution-Share Alike 2.5",
+                "source": "commons-desc-page"
+              },
+              "AttributionRequired": {
+                "value": "true",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Attribution": {
+                "value": "Classical Numismatic Group, Inc. <a rel=\"nofollow\" class=\"external free\" href=\"http://www.cngcoins.com\">http://www.cngcoins.com</a>",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "LicenseUrl": {
+                "value": "https://creativecommons.org/licenses/by-sa/2.5",
+                "source": "commons-desc-page"
+              },
+              "Copyrighted": {
+                "value": "True",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Restrictions": {
+                "value": "",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "License": {
+                "value": "cc-by-sa-2.5",
+                "source": "commons-templates",
+                "hidden": ""
+              }
+            },
+            "mime": "image/png"
+          }
+        ]
+      },
+      {
+        "pageid": 133207559,
+        "ns": 6,
+        "title": "File:Darius Painter - RVAp 18-17 - death of Hippolytos - young warrior in naiskos - London BM 1856-1226-1 - 15.jpg",
+        "imagerepository": "local",
+        "imageinfo": [
+          {
+            "size": 21480841,
+            "width": 5372,
+            "height": 5824,
+            "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b5/Darius_Painter_-_RVAp_18-17_-_death_of_Hippolytos_-_young_warrior_in_naiskos_-_London_BM_1856-1226-1_-_15.jpg/1920px-Darius_Painter_-_RVAp_18-17_-_death_of_Hippolytos_-_young_warrior_in_naiskos_-_London_BM_1856-1226-1_-_15.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+            "thumbwidth": 1600,
+            "thumbheight": 1735,
+            "responsiveUrls": {
+              "2": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b5/Darius_Painter_-_RVAp_18-17_-_death_of_Hippolytos_-_young_warrior_in_naiskos_-_London_BM_1856-1226-1_-_15.jpg/3840px-Darius_Painter_-_RVAp_18-17_-_death_of_Hippolytos_-_young_warrior_in_naiskos_-_London_BM_1856-1226-1_-_15.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+            },
+            "thumbattribs": {
+              "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b5/Darius_Painter_-_RVAp_18-17_-_death_of_Hippolytos_-_young_warrior_in_naiskos_-_London_BM_1856-1226-1_-_15.jpg/1920px-Darius_Painter_-_RVAp_18-17_-_death_of_Hippolytos_-_young_warrior_in_naiskos_-_London_BM_1856-1226-1_-_15.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+              "decoding": "async",
+              "loading": "lazy",
+              "width": 1600,
+              "height": 1735,
+              "srcset": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b5/Darius_Painter_-_RVAp_18-17_-_death_of_Hippolytos_-_young_warrior_in_naiskos_-_London_BM_1856-1226-1_-_15.jpg/3840px-Darius_Painter_-_RVAp_18-17_-_death_of_Hippolytos_-_young_warrior_in_naiskos_-_London_BM_1856-1226-1_-_15.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail 2x"
+            },
+            "url": "https://upload.wikimedia.org/wikipedia/commons/b/b5/Darius_Painter_-_RVAp_18-17_-_death_of_Hippolytos_-_young_warrior_in_naiskos_-_London_BM_1856-1226-1_-_15.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:Darius_Painter_-_RVAp_18-17_-_death_of_Hippolytos_-_young_warrior_in_naiskos_-_London_BM_1856-1226-1_-_15.jpg",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=133207559",
+            "sha1": "c2aef41f3cd5eb69a34b5a41b53def05d8103602",
+            "extmetadata": {
+              "DateTime": {
+                "value": "2023-06-17 08:46:16",
+                "source": "mediawiki-metadata",
+                "hidden": ""
+              },
+              "ObjectName": {
+                "value": "Darius Painter - RVAp 18-17 - death of Hippolytos - young warrior in naiskos - London BM 1856-1226-1 - 15",
+                "source": "mediawiki-metadata"
+              },
+              "CommonsMetadataExtension": {
+                "value": 1.2,
+                "source": "extension",
+                "hidden": ""
+              },
+              "Categories": {
+                "value": "Self-published work|Volute krater, British Museum, Reg.Nr. 1856,1226.1",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "Assessments": {
+                "value": "",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "ImageDescription": {
+                "value": "object type / vase shape: Apulian red figure volute-krater\n<p>- description neck A: female head wearing Phrygian cap in floral ornament\n- neck B: female head in floral ornament\n- body A: above: young Pan with syrinx, Apollon with bow seated, Athena with helmet, spear and shield, Aphrodite seated, Eros, Poseidon with trident seated\n- below: tree-stump, old paidagogos, Hippolytos driving quadriga, Lyssa with snakes and torch in front of the horses\n- body B: (statue of) young warrior with pilos and 2 spears in naiskos; around 2 women and 2 youths with offerings\n- painter: Darius Painter (early work), Hecuba subgroup\n- period / date: late classical, ca. 340(-320) BC\n- material: pottery (clay)\n- height: 107.8 cm\n- findspot: Ruvo\t\n- museum / inventory number: London, British Museum 1856,1226.1 / cat. vases F 279\n- bibliography: Arthur Dale Trendall, Alexander Cambitoglou, The red-figured vases of Apulia volume I and II, Oxford 1978, cat. 18/17\n- <a rel=\"nofollow\" class=\"external free\" href=\"https://www.britishmuseum.org/collection/object/G_1856-1226-1\">https://www.britishmuseum.org/collection/object/G_1856-1226-1</a>\n</p>\n- Please note: Some museums permit photography of their exhibits for private, educational, scientific, non-commercial purposes only. If you intend to use the photo for commercial aims, I would recommend you to contact the museum.",
+                "source": "commons-desc-page"
+              },
+              "DateTimeOriginal": {
+                "value": "2022-08-24 12:46:32",
+                "source": "commons-desc-page"
+              },
+              "Credit": {
+                "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+                "source": "commons-desc-page"
+              },
+              "Artist": {
+                "value": "<a href=\"//commons.wikimedia.org/wiki/User:ArchaiOptix\" title=\"User:ArchaiOptix\">ArchaiOptix</a>",
+                "source": "commons-desc-page"
+              },
+              "LicenseShortName": {
+                "value": "CC BY-SA 4.0",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "UsageTerms": {
+                "value": "Creative Commons Attribution-Share Alike 4.0",
+                "source": "commons-desc-page"
+              },
+              "AttributionRequired": {
+                "value": "true",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "LicenseUrl": {
+                "value": "https://creativecommons.org/licenses/by-sa/4.0",
+                "source": "commons-desc-page"
+              },
+              "Copyrighted": {
+                "value": "True",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Restrictions": {
+                "value": "",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "License": {
+                "value": "cc-by-sa-4.0",
+                "source": "commons-templates",
+                "hidden": ""
+              }
+            },
+            "mime": "image/jpeg"
+          }
+        ]
+      },
+      {
+        "pageid": 143548234,
+        "ns": 6,
+        "title": "File:Felix II Pontificum.jpg",
+        "imagerepository": "local",
+        "imageinfo": [
+          {
+            "size": 483242,
+            "width": 1112,
+            "height": 1708,
+            "thumburl": "https://upload.wikimedia.org/wikipedia/commons/d/de/Felix_II_Pontificum.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+            "thumbwidth": 1600,
+            "thumbheight": 2458,
+            "thumbattribs": {
+              "src": "https://upload.wikimedia.org/wikipedia/commons/d/de/Felix_II_Pontificum.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+              "decoding": "async",
+              "loading": "lazy",
+              "width": 1600,
+              "height": 2458
+            },
+            "url": "https://upload.wikimedia.org/wikipedia/commons/d/de/Felix_II_Pontificum.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:Felix_II_Pontificum.jpg",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=143548234",
+            "sha1": "2dc03e038ccaeffdf263daa6b979d0df42a1c84d",
+            "extmetadata": {
+              "DateTime": {
+                "value": "2024-01-05 12:52:42",
+                "source": "mediawiki-metadata",
+                "hidden": ""
+              },
+              "ObjectName": {
+                "value": "Felix II Pontificum",
+                "source": "mediawiki-metadata"
+              },
+              "CommonsMetadataExtension": {
+                "value": 1.2,
+                "source": "extension",
+                "hidden": ""
+              },
+              "Categories": {
+                "value": "Author died more than 70 years ago public domain images|CC-PD-Mark|16th-century engraved portraits of men at half length|Pontificum Romanorum effigies|PD-old missing SDC copyright status|Portraits of Felix II (antipope)",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "Assessments": {
+                "value": "",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "ImageDescription": {
+                "value": "Portrait of Felix II, in the Pontificum Romanorum Effigies",
+                "source": "commons-desc-page"
+              },
+              "DateTimeOriginal": {
+                "value": "2014-08-06",
+                "source": "commons-desc-page"
+              },
+              "Credit": {
+                "value": "<a rel=\"nofollow\" class=\"external free\" href=\"https://archive.org/details/bub_gb_JCha5exl0RoC/page/n95/mode/2up\">https://archive.org/details/bub_gb_JCha5exl0RoC/page/n95/mode/2up</a>",
+                "source": "commons-desc-page"
+              },
+              "Artist": {
+                "value": "Giovanni Battista Cavalieri",
+                "source": "commons-desc-page"
+              },
+              "LicenseShortName": {
+                "value": "Public domain",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "UsageTerms": {
+                "value": "Public domain",
+                "source": "commons-desc-page"
+              },
+              "AttributionRequired": {
+                "value": "false",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Copyrighted": {
+                "value": "False",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Restrictions": {
+                "value": "",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "License": {
+                "value": "pd",
+                "source": "commons-templates",
+                "hidden": ""
+              }
+            },
+            "mime": "image/jpeg"
+          }
+        ]
+      }
+    ]
+  }
+}

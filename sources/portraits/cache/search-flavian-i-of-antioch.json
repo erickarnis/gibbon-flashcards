@@ -1,0 +1,504 @@
+{
+  "person_id": "flavian-i-of-antioch",
+  "query": "Flavian I of Antioch",
+  "response": {
+    "batchcomplete": true,
+    "continue": {
+      "gsroffset": 5,
+      "continue": "gsroffset||"
+    },
+    "query": {
+      "pages": [
+        {
+          "pageid": 15462932,
+          "ns": 6,
+          "title": "File:Lorenzo Lotto - Madonna and Child with St Ignatius of Antioch and St Onophrius - WGA13663.jpg",
+          "index": 2,
+          "imagerepository": "local",
+          "imageinfo": [
+            {
+              "size": 111252,
+              "width": 1030,
+              "height": 824,
+              "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c6/Lorenzo_Lotto_-_Madonna_and_Child_with_St_Ignatius_of_Antioch_and_St_Onophrius_-_WGA13663.jpg/500px-Lorenzo_Lotto_-_Madonna_and_Child_with_St_Ignatius_of_Antioch_and_St_Onophrius_-_WGA13663.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+              "thumbwidth": 400,
+              "thumbheight": 320,
+              "responsiveUrls": {
+                "2": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c6/Lorenzo_Lotto_-_Madonna_and_Child_with_St_Ignatius_of_Antioch_and_St_Onophrius_-_WGA13663.jpg/960px-Lorenzo_Lotto_-_Madonna_and_Child_with_St_Ignatius_of_Antioch_and_St_Onophrius_-_WGA13663.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+              },
+              "thumbattribs": {
+                "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c6/Lorenzo_Lotto_-_Madonna_and_Child_with_St_Ignatius_of_Antioch_and_St_Onophrius_-_WGA13663.jpg/500px-Lorenzo_Lotto_-_Madonna_and_Child_with_St_Ignatius_of_Antioch_and_St_Onophrius_-_WGA13663.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+                "decoding": "async",
+                "loading": "lazy",
+                "width": 400,
+                "height": 320,
+                "srcset": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c6/Lorenzo_Lotto_-_Madonna_and_Child_with_St_Ignatius_of_Antioch_and_St_Onophrius_-_WGA13663.jpg/960px-Lorenzo_Lotto_-_Madonna_and_Child_with_St_Ignatius_of_Antioch_and_St_Onophrius_-_WGA13663.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail 2x"
+              },
+              "url": "https://upload.wikimedia.org/wikipedia/commons/c/c6/Lorenzo_Lotto_-_Madonna_and_Child_with_St_Ignatius_of_Antioch_and_St_Onophrius_-_WGA13663.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+              "descriptionurl": "https://commons.wikimedia.org/wiki/File:Lorenzo_Lotto_-_Madonna_and_Child_with_St_Ignatius_of_Antioch_and_St_Onophrius_-_WGA13663.jpg",
+              "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=15462932",
+              "extmetadata": {
+                "DateTime": {
+                  "value": "2011-06-10 03:55:41",
+                  "source": "mediawiki-metadata",
+                  "hidden": ""
+                },
+                "ObjectName": {
+                  "value": "<div class=\"fn\">\n<div style=\"font-weight:bold;display:inline-block;\">Madonna and Child with St Ignatius of Antioch and St Onophrius</div></div>",
+                  "source": "commons-desc-page"
+                },
+                "CommonsMetadataExtension": {
+                  "value": 1.2,
+                  "source": "extension",
+                  "hidden": ""
+                },
+                "Categories": {
+                  "value": "1508 paintings|Images from Web Gallery of Art|PD-old-100-expired|PD-Art (PD-old-auto-expired)|Artworks with Wikidata item|Artworks with known accession number|CC-PD-Mark|WGA form: painting|Artworks with accession number from Wikidata|Paintings of Madonna and Child with Saints|Paintings of Madonna and Child in the Galleria Borghese (Rome)|PD-Art missing SDC copyright status|PD-old missing SDC copyright status|Artworks digital representation of 2D work|WGA type: religious|WGA School: Italian|WGA time period: 1501-1550|Madonna and Child between Saint Florian and Saint Onuphrius by Lorenzo Lotto (Galleria Borghese)",
+                  "source": "commons-categories",
+                  "hidden": ""
+                },
+                "Assessments": {
+                  "value": "",
+                  "source": "commons-categories",
+                  "hidden": ""
+                },
+                "Artist": {
+                  "value": "<bdi><a href=\"https://en.wikipedia.org/wiki/en:Lorenzo_Lotto\" class=\"extiw\" title=\"w:en:Lorenzo Lotto\"><span title=\"Italian painter (1480–1556)\">Lorenzo Lotto</span></a></bdi>",
+                  "source": "commons-desc-page"
+                },
+                "ImageDescription": {
+                  "value": "<div class=\"description\">\n<a href=\"https://en.wikipedia.org/wiki/en:Sacra_conversazione\" class=\"extiw\" title=\"w:en:Sacra conversazione\"><span title=\"artistic theme\">sacra conversazione</span></a> <span class=\"mw-valign-text-top noprint\" typeof=\"mw:File/Frameless\"><a href=\"https://www.wikidata.org/wiki/Q3842569#P921\" title=\"Edit this at Wikidata\"><img alt=\"Edit this at Wikidata\" src=\"https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8a/OOjs_UI_icon_edit-ltr-progressive.svg/20px-OOjs_UI_icon_edit-ltr-progressive.svg.png?utm_source=commons.wikimedia.org&amp;utm_campaign=parser&amp;utm_content=thumbnail\" decoding=\"async\" loading=\"lazy\" width=\"10\" height=\"10\" class=\"mw-file-element\" data-file-width=\"20\" data-file-height=\"20\"></a></span></div>",
+                  "source": "commons-desc-page"
+                },
+                "DateTimeOriginal": {
+                  "value": "1508<div style=\"display: none;\">date QS:P571,+1508-00-00T00:00:00Z/9</div>",
+                  "source": "commons-desc-page"
+                },
+                "Credit": {
+                  "value": "<a href=\"https://en.wikipedia.org/wiki/en:Web_Gallery_of_Art\" class=\"extiw\" title=\"w:en:Web Gallery of Art\"><span title=\"virtual art gallery for European fine art created before 1900\">Web Gallery of Art</span></a>:  <span typeof=\"mw:File\"><a href=\"http://www.wga.hu/art/l/lotto/1507-10/05madonn.jpg\" rel=\"nofollow\"><img src=\"https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6f/Inkscape.svg/20px-Inkscape.svg.png?utm_source=commons.wikimedia.org&amp;utm_campaign=parser&amp;utm_content=thumbnail\" decoding=\"async\" loading=\"lazy\" width=\"20\" height=\"20\" class=\"mw-file-element\" srcset=\"https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6f/Inkscape.svg/40px-Inkscape.svg.png?utm_source=commons.wikimedia.org&amp;utm_campaign=parser&amp;utm_content=thumbnail 2x\" data-file-width=\"60\" data-file-height=\"60\"></a></span> <a rel=\"nofollow\" class=\"external text\" href=\"http://www.wga.hu/art/l/lotto/1507-10/05madonn.jpg\">Image</a> <span typeof=\"mw:File\"><a href=\"http://www.wga.hu/html/l/lotto/1507-10/05madonn.html\" rel=\"nofollow\"><img src=\"https://thumb.wikimedia.org/wikipedia/commons/thumb/3/35/Information_icon.svg/20px-Information_icon.svg.png?utm_source=commons.wikimedia.org&amp;utm_campaign=parser&amp;utm_content=thumbnail\" decoding=\"async\" loading=\"lazy\" width=\"20\" height=\"20\" class=\"mw-file-element\" srcset=\"https://thumb.wikimedia.org/wikipedia/commons/thumb/3/35/Information_icon.svg/40px-Information_icon.svg.png?utm_source=commons.wikimedia.org&amp;utm_campaign=parser&amp;utm_content=thumbnail 2x\" data-file-width=\"620\" data-file-height=\"620\"></a></span> <a rel=\"nofollow\" class=\"external text\" href=\"http://www.wga.hu/html/l/lotto/1507-10/05madonn.html\">Info about artwork</a><div style=\"display: none;\">wga QS:P11807,\"l/lotto/1507-10/05madonn\"</div>",
+                  "source": "commons-desc-page"
+                },
+                "LicenseShortName": {
+                  "value": "Public domain",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "UsageTerms": {
+                  "value": "Public domain",
+                  "source": "commons-desc-page"
+                },
+                "AttributionRequired": {
+                  "value": "false",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "Copyrighted": {
+                  "value": "False",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "Restrictions": {
+                  "value": "",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "License": {
+                  "value": "pd",
+                  "source": "commons-templates",
+                  "hidden": ""
+                }
+              }
+            }
+          ]
+        },
+        {
+          "pageid": 15462934,
+          "ns": 6,
+          "title": "File:Lorenzo Lotto - Madonna and Child with St Ignatius of Antioch and St Onophrius (detail) - WGA13664.jpg",
+          "index": 1,
+          "imagerepository": "local",
+          "imageinfo": [
+            {
+              "size": 214793,
+              "width": 1166,
+              "height": 1000,
+              "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/db/Lorenzo_Lotto_-_Madonna_and_Child_with_St_Ignatius_of_Antioch_and_St_Onophrius_%28detail%29_-_WGA13664.jpg/500px-Lorenzo_Lotto_-_Madonna_and_Child_with_St_Ignatius_of_Antioch_and_St_Onophrius_%28detail%29_-_WGA13664.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+              "thumbwidth": 400,
+              "thumbheight": 343,
+              "responsiveUrls": {
+                "2": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/db/Lorenzo_Lotto_-_Madonna_and_Child_with_St_Ignatius_of_Antioch_and_St_Onophrius_%28detail%29_-_WGA13664.jpg/960px-Lorenzo_Lotto_-_Madonna_and_Child_with_St_Ignatius_of_Antioch_and_St_Onophrius_%28detail%29_-_WGA13664.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+              },
+              "thumbattribs": {
+                "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/db/Lorenzo_Lotto_-_Madonna_and_Child_with_St_Ignatius_of_Antioch_and_St_Onophrius_%28detail%29_-_WGA13664.jpg/500px-Lorenzo_Lotto_-_Madonna_and_Child_with_St_Ignatius_of_Antioch_and_St_Onophrius_%28detail%29_-_WGA13664.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+                "decoding": "async",
+                "loading": "lazy",
+                "width": 400,
+                "height": 343,
+                "srcset": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/db/Lorenzo_Lotto_-_Madonna_and_Child_with_St_Ignatius_of_Antioch_and_St_Onophrius_%28detail%29_-_WGA13664.jpg/960px-Lorenzo_Lotto_-_Madonna_and_Child_with_St_Ignatius_of_Antioch_and_St_Onophrius_%28detail%29_-_WGA13664.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail 2x"
+              },
+              "url": "https://upload.wikimedia.org/wikipedia/commons/d/db/Lorenzo_Lotto_-_Madonna_and_Child_with_St_Ignatius_of_Antioch_and_St_Onophrius_%28detail%29_-_WGA13664.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+              "descriptionurl": "https://commons.wikimedia.org/wiki/File:Lorenzo_Lotto_-_Madonna_and_Child_with_St_Ignatius_of_Antioch_and_St_Onophrius_(detail)_-_WGA13664.jpg",
+              "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=15462934",
+              "extmetadata": {
+                "DateTime": {
+                  "value": "2011-06-10 03:55:57",
+                  "source": "mediawiki-metadata",
+                  "hidden": ""
+                },
+                "ObjectName": {
+                  "value": "<div class=\"fn\">\n<div style=\"font-size:0.9em;display:inline-block;\">German:  <div style=\"display:inline-block\" dir=\"ltr\" lang=\"de\"><i>Madonna mit einem Hl. Bischof und Hl. Onuphrius <span class=\"mw-valign-text-top noprint\" typeof=\"mw:File/Frameless\"><a href=\"https://www.wikidata.org/wiki/Q3842569#P1476\" title=\"Edit this at Wikidata\"><img alt=\"Edit this at Wikidata\" src=\"https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8a/OOjs_UI_icon_edit-ltr-progressive.svg/20px-OOjs_UI_icon_edit-ltr-progressive.svg.png?utm_source=commons.wikimedia.org&amp;utm_campaign=parser&amp;utm_content=thumbnail\" decoding=\"async\" loading=\"lazy\" width=\"10\" height=\"10\" class=\"mw-file-element\" data-file-width=\"20\" data-file-height=\"20\"></a></span></i></div></div><br><div style=\"font-weight:bold;display:inline-block;\"><div style=\"display:inline-block\" dir=\"ltr\" lang=\"en\"><i>Madonna with Child between Sts. Flavian and Onuphrius</i></div></div><div style=\"display: none;\">title QS:P1476,de:\"Madonna mit einem Hl. Bischof und Hl. Onuphrius <span class=\"mw-valign-text-top noprint\" typeof=\"mw:File/Frameless\"><a href=\"https://www.wikidata.org/wiki/Q3842569#P1476\" title=\"Edit this at Wikidata\"><img alt=\"Edit this at Wikidata\" src=\"https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8a/OOjs_UI_icon_edit-ltr-progressive.svg/20px-OOjs_UI_icon_edit-ltr-progressive.svg.png?utm_source=commons.wikimedia.org&amp;utm_campaign=parser&amp;utm_content=thumbnail\" decoding=\"async\" loading=\"lazy\" width=\"10\" height=\"10\" class=\"mw-file-element\" data-file-width=\"20\" data-file-height=\"20\"></a></span>\"</div><div style=\"display: none;\">label QS:Lde,\"Madonna mit einem Hl. Bischof und Hl. Onuphrius <span class=\"mw-valign-text-top noprint\" typeof=\"mw:File/Frameless\"><a href=\"https://www.wikidata.org/wiki/Q3842569#P1476\" title=\"Edit this at Wikidata\"><img alt=\"Edit this at Wikidata\" src=\"https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8a/OOjs_UI_icon_edit-ltr-progressive.svg/20px-OOjs_UI_icon_edit-ltr-progressive.svg.png?utm_source=commons.wikimedia.org&amp;utm_campaign=parser&amp;utm_content=thumbnail\" decoding=\"async\" loading=\"lazy\" width=\"10\" height=\"10\" class=\"mw-file-element\" data-file-width=\"20\" data-file-height=\"20\"></a></span>\"</div><div style=\"display: none;\">label QS:Lit,\"Madonna col Bambino tra i santi Flaviano e Onofrio\"</div><div style=\"display: none;\">label QS:Lfr,\"Vierge à l'Enfant avec les saints Ignace d'Antioche et Onuphre\"</div><div style=\"display: none;\">label QS:Larz,\"مادونا والطفل بين القديسين. فلافيان واونوفريوس\"</div><div style=\"display: none;\">label QS:Lml,\"മഡോണ ആന്റ് ചൈൽഡ് ബിറ്റ്വീൻ സെയിന്റ് ഫ്ലേവിയൻ ആന്റ് ഒനുഫ്രിയസ്\"</div><div style=\"display: none;\">label QS:Lnl,\"Madonna with Child between Sts. Flavian and Onuphrius\"</div><div style=\"display: none;\">label QS:Len,\"Madonna with Child between Sts. Flavian and Onuphrius\"</div><div style=\"display: none;\">label QS:Lzh,\"聖母、聖子以及聖弗拉維亞諾與聖奧諾弗里奧\"</div><div style=\"display: none;\">label QS:Lru,\"Мадонна с младенцем между святыми Флавианом и Онуфрием\"</div></div>",
+                  "source": "commons-desc-page"
+                },
+                "CommonsMetadataExtension": {
+                  "value": 1.2,
+                  "source": "extension",
+                  "hidden": ""
+                },
+                "Categories": {
+                  "value": "Images from Web Gallery of Art|PD-old-100-expired|PD-Art (PD-old-auto-expired)|Artworks with Wikidata item|Artworks with known accession number|1500s paintings of Madonna and Child|1508 paintings from Italy|CC-PD-Mark|WGA form: painting|Artworks with accession number from Wikidata|1508 paintings in Italy|16th-century oil on panel paintings in Italy|1508 paintings of people|Paintings of Madonna and Child with Saints|Paintings of Madonna and Child in the Galleria Borghese (Rome)|PD-Art missing SDC copyright status|PD-old missing SDC copyright status|Artworks digital representation of 2D work|WGA type: religious|WGA School: Italian|WGA time period: 1501-1550|Details of paintings by Lorenzo Lotto|Ignatius of Antioch in paintings|Madonna and Child between Saint Florian and Saint Onuphrius by Lorenzo Lotto (Galleria Borghese)",
+                  "source": "commons-categories",
+                  "hidden": ""
+                },
+                "Assessments": {
+                  "value": "",
+                  "source": "commons-categories",
+                  "hidden": ""
+                },
+                "Artist": {
+                  "value": "<bdi><a href=\"https://en.wikipedia.org/wiki/en:Lorenzo_Lotto\" class=\"extiw\" title=\"w:en:Lorenzo Lotto\"><span title=\"Italian painter (1480–1556)\">Lorenzo Lotto</span></a></bdi>",
+                  "source": "commons-desc-page"
+                },
+                "ImageDescription": {
+                  "value": "<div class=\"description\">\ndetail</div>",
+                  "source": "commons-desc-page"
+                },
+                "DateTimeOriginal": {
+                  "value": "1506 <span class=\"mw-valign-text-top noprint\" typeof=\"mw:File/Frameless\"><a href=\"https://www.wikidata.org/wiki/Q3842569#P571\" title=\"Edit this at Wikidata\"><img alt=\"Edit this at Wikidata\" src=\"https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8a/OOjs_UI_icon_edit-ltr-progressive.svg/20px-OOjs_UI_icon_edit-ltr-progressive.svg.png?utm_source=commons.wikimedia.org&amp;utm_campaign=parser&amp;utm_content=thumbnail\" decoding=\"async\" loading=\"lazy\" width=\"10\" height=\"10\" class=\"mw-file-element\" data-file-width=\"20\" data-file-height=\"20\"></a></span>",
+                  "source": "commons-desc-page"
+                },
+                "Credit": {
+                  "value": "<a href=\"https://en.wikipedia.org/wiki/en:Web_Gallery_of_Art\" class=\"extiw\" title=\"w:en:Web Gallery of Art\"><span title=\"virtual art gallery for European fine art created before 1900\">Web Gallery of Art</span></a>:  <span typeof=\"mw:File\"><a href=\"http://www.wga.hu/art/l/lotto/1507-10/05madonx.jpg\" rel=\"nofollow\"><img src=\"https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6f/Inkscape.svg/20px-Inkscape.svg.png?utm_source=commons.wikimedia.org&amp;utm_campaign=parser&amp;utm_content=thumbnail\" decoding=\"async\" loading=\"lazy\" width=\"20\" height=\"20\" class=\"mw-file-element\" srcset=\"https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6f/Inkscape.svg/40px-Inkscape.svg.png?utm_source=commons.wikimedia.org&amp;utm_campaign=parser&amp;utm_content=thumbnail 2x\" data-file-width=\"60\" data-file-height=\"60\"></a></span> <a rel=\"nofollow\" class=\"external text\" href=\"http://www.wga.hu/art/l/lotto/1507-10/05madonx.jpg\">Image</a> <span typeof=\"mw:File\"><a href=\"http://www.wga.hu/html/l/lotto/1507-10/05madonx.html\" rel=\"nofollow\"><img src=\"https://thumb.wikimedia.org/wikipedia/commons/thumb/3/35/Information_icon.svg/20px-Information_icon.svg.png?utm_source=commons.wikimedia.org&amp;utm_campaign=parser&amp;utm_content=thumbnail\" decoding=\"async\" loading=\"lazy\" width=\"20\" height=\"20\" class=\"mw-file-element\" srcset=\"https://thumb.wikimedia.org/wikipedia/commons/thumb/3/35/Information_icon.svg/40px-Information_icon.svg.png?utm_source=commons.wikimedia.org&amp;utm_campaign=parser&amp;utm_content=thumbnail 2x\" data-file-width=\"620\" data-file-height=\"620\"></a></span> <a rel=\"nofollow\" class=\"external text\" href=\"http://www.wga.hu/html/l/lotto/1507-10/05madonx.html\">Info about artwork</a><div style=\"display: none;\">wga QS:P11807,\"l/lotto/1507-10/05madonx\"</div>",
+                  "source": "commons-desc-page"
+                },
+                "LicenseShortName": {
+                  "value": "Public domain",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "UsageTerms": {
+                  "value": "Public domain",
+                  "source": "commons-desc-page"
+                },
+                "AttributionRequired": {
+                  "value": "false",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "Copyrighted": {
+                  "value": "False",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "Restrictions": {
+                  "value": "",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "License": {
+                  "value": "pd",
+                  "source": "commons-templates",
+                  "hidden": ""
+                }
+              }
+            }
+          ]
+        },
+        {
+          "pageid": 95476209,
+          "ns": 6,
+          "title": "File:The homilies of S. John Chrysostom, Archbishop of Constantinople, on the statues, or to the people of Antioch (IA homiliesofsjohnc00johnrich).pdf",
+          "index": 3,
+          "imagerepository": "local",
+          "imageinfo": [
+            {
+              "size": 25869645,
+              "width": 762,
+              "height": 1270,
+              "pagecount": 450,
+              "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/63/The_homilies_of_S._John_Chrysostom%2C_Archbishop_of_Constantinople%2C_on_the_statues%2C_or_to_the_people_of_Antioch_%28IA_homiliesofsjohnc00johnrich%29.pdf/page1-500px-The_homilies_of_S._John_Chrysostom%2C_Archbishop_of_Constantinople%2C_on_the_statues%2C_or_to_the_people_of_Antioch_%28IA_homiliesofsjohnc00johnrich%29.pdf.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+              "thumbwidth": 400,
+              "thumbheight": 667,
+              "thumbattribs": {
+                "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/63/The_homilies_of_S._John_Chrysostom%2C_Archbishop_of_Constantinople%2C_on_the_statues%2C_or_to_the_people_of_Antioch_%28IA_homiliesofsjohnc00johnrich%29.pdf/page1-500px-The_homilies_of_S._John_Chrysostom%2C_Archbishop_of_Constantinople%2C_on_the_statues%2C_or_to_the_people_of_Antioch_%28IA_homiliesofsjohnc00johnrich%29.pdf.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+                "decoding": "async",
+                "loading": "lazy",
+                "width": 400,
+                "height": 667
+              },
+              "url": "https://upload.wikimedia.org/wikipedia/commons/6/63/The_homilies_of_S._John_Chrysostom%2C_Archbishop_of_Constantinople%2C_on_the_statues%2C_or_to_the_people_of_Antioch_%28IA_homiliesofsjohnc00johnrich%29.pdf?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+              "descriptionurl": "https://commons.wikimedia.org/wiki/File:The_homilies_of_S._John_Chrysostom,_Archbishop_of_Constantinople,_on_the_statues,_or_to_the_people_of_Antioch_(IA_homiliesofsjohnc00johnrich).pdf",
+              "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=95476209",
+              "extmetadata": {
+                "DateTime": {
+                  "value": "2020-10-26 04:52:29",
+                  "source": "mediawiki-metadata",
+                  "hidden": ""
+                },
+                "ObjectName": {
+                  "value": "<div class=\"fn\">\nThe homilies of S. John Chrysostom, Archbishop of Constantinople, on the statues, or to the people of Antioch</div>",
+                  "source": "commons-desc-page"
+                },
+                "CommonsMetadataExtension": {
+                  "value": 1.2,
+                  "source": "extension",
+                  "hidden": ""
+                },
+                "Categories": {
+                  "value": "Scans from the Internet Archive/unverified|PD US expired|Scans from the Internet Archive|Books uploaded by Fæ|Books without Wikidata item|California Digital Library",
+                  "source": "commons-categories",
+                  "hidden": ""
+                },
+                "Assessments": {
+                  "value": "",
+                  "source": "commons-categories",
+                  "hidden": ""
+                },
+                "Artist": {
+                  "value": "<div class=\"fn value\">\nJohn Chrysostom, Saint, d. 407</div>",
+                  "source": "commons-desc-page"
+                },
+                "ImageDescription": {
+                  "value": "<div class=\"description\">\nSubjects: Bible; Antioch (Turkey)</div>",
+                  "source": "commons-desc-page"
+                },
+                "Credit": {
+                  "value": "<dl><dd><a href=\"//archive.org/details/homiliesofsjohnc00johnrich\" class=\"extiw\" title=\"iarchive:homiliesofsjohnc00johnrich\"><bdi class=\"description en\" lang=\"en\" dir=\"ltr\">Internet Archive identifier</bdi>: homiliesofsjohnc00johnrich</a></dd>\n<dd><a rel=\"nofollow\" class=\"external free\" href=\"https://archive.org/download/homiliesofsjohnc00johnrich/homiliesofsjohnc00johnrich.pdf\">https://archive.org/download/homiliesofsjohnc00johnrich/homiliesofsjohnc00johnrich.pdf</a></dd></dl>",
+                  "source": "commons-desc-page"
+                },
+                "LicenseShortName": {
+                  "value": "Public domain",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "UsageTerms": {
+                  "value": "Public domain",
+                  "source": "commons-desc-page"
+                },
+                "AttributionRequired": {
+                  "value": "false",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "Copyrighted": {
+                  "value": "False",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "Restrictions": {
+                  "value": "",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "License": {
+                  "value": "pd",
+                  "source": "commons-templates",
+                  "hidden": ""
+                }
+              }
+            }
+          ]
+        },
+        {
+          "pageid": 98168229,
+          "ns": 6,
+          "title": "File:The homilies of S. John Chrysostom, Archbishop of Constantinople, on the statues, or, to the people of Antioch (IA cu31924079583443).pdf",
+          "index": 4,
+          "imagerepository": "local",
+          "imageinfo": [
+            {
+              "size": 14021481,
+              "width": 766,
+              "height": 1250,
+              "pagecount": 492,
+              "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ed/The_homilies_of_S._John_Chrysostom%2C_Archbishop_of_Constantinople%2C_on_the_statues%2C_or%2C_to_the_people_of_Antioch_%28IA_cu31924079583443%29.pdf/page1-500px-The_homilies_of_S._John_Chrysostom%2C_Archbishop_of_Constantinople%2C_on_the_statues%2C_or%2C_to_the_people_of_Antioch_%28IA_cu31924079583443%29.pdf.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+              "thumbwidth": 400,
+              "thumbheight": 653,
+              "thumbattribs": {
+                "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ed/The_homilies_of_S._John_Chrysostom%2C_Archbishop_of_Constantinople%2C_on_the_statues%2C_or%2C_to_the_people_of_Antioch_%28IA_cu31924079583443%29.pdf/page1-500px-The_homilies_of_S._John_Chrysostom%2C_Archbishop_of_Constantinople%2C_on_the_statues%2C_or%2C_to_the_people_of_Antioch_%28IA_cu31924079583443%29.pdf.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+                "decoding": "async",
+                "loading": "lazy",
+                "width": 400,
+                "height": 653
+              },
+              "url": "https://upload.wikimedia.org/wikipedia/commons/e/ed/The_homilies_of_S._John_Chrysostom%2C_Archbishop_of_Constantinople%2C_on_the_statues%2C_or%2C_to_the_people_of_Antioch_%28IA_cu31924079583443%29.pdf?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+              "descriptionurl": "https://commons.wikimedia.org/wiki/File:The_homilies_of_S._John_Chrysostom,_Archbishop_of_Constantinople,_on_the_statues,_or,_to_the_people_of_Antioch_(IA_cu31924079583443).pdf",
+              "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=98168229",
+              "extmetadata": {
+                "DateTime": {
+                  "value": "2020-12-28 14:53:11",
+                  "source": "mediawiki-metadata",
+                  "hidden": ""
+                },
+                "ObjectName": {
+                  "value": "<div class=\"fn\">\nThe homilies of S. John Chrysostom, Archbishop of Constantinople, on the statues, or, to the people of Antioch</div>",
+                  "source": "commons-desc-page"
+                },
+                "CommonsMetadataExtension": {
+                  "value": 1.2,
+                  "source": "extension",
+                  "hidden": ""
+                },
+                "Categories": {
+                  "value": "PD-old-100-expired|Scans from the Internet Archive/unverified|CC-PD-Mark|Scans from the Internet Archive|Books uploaded by Fæ|Books without Wikidata item|Scans from Cornell University Library|PD-old missing SDC copyright status",
+                  "source": "commons-categories",
+                  "hidden": ""
+                },
+                "Assessments": {
+                  "value": "",
+                  "source": "commons-categories",
+                  "hidden": ""
+                },
+                "Artist": {
+                  "value": "<div class=\"fn value\">\nJohn Chrysostom, Saint, d. 407</div>",
+                  "source": "commons-desc-page"
+                },
+                "ImageDescription": {
+                  "value": "<div class=\"description\">\n<dl><dd>The metadata below describe the original scanning. Follow the \"All Files: HTTP\" link in the \"View the book\" box to the left to find XML files that contain more metadata about the original images and the derived formats (OCR results, PDF etc.). See also the <a rel=\"nofollow\" class=\"external text\" href=\"https://archive.org/about/faqs.php#140\">What is the directory structure for the texts?</a> FAQ for information about file content and naming conventions.</dd>\n<dd>Translated by E. Budge</dd></dl>\n<br>Subjects: Bible</div>",
+                  "source": "commons-desc-page"
+                },
+                "Credit": {
+                  "value": "<dl><dd><a href=\"//archive.org/details/cu31924079583443\" class=\"extiw\" title=\"iarchive:cu31924079583443\"><bdi class=\"description en\" lang=\"en\" dir=\"ltr\">Internet Archive identifier</bdi>: cu31924079583443</a></dd>\n<dd><a rel=\"nofollow\" class=\"external free\" href=\"https://archive.org/download/cu31924079583443/cu31924079583443.pdf\">https://archive.org/download/cu31924079583443/cu31924079583443.pdf</a></dd></dl>",
+                  "source": "commons-desc-page"
+                },
+                "LicenseShortName": {
+                  "value": "Public domain",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "UsageTerms": {
+                  "value": "Public domain",
+                  "source": "commons-desc-page"
+                },
+                "AttributionRequired": {
+                  "value": "false",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "Copyrighted": {
+                  "value": "False",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "Restrictions": {
+                  "value": "",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "License": {
+                  "value": "pd",
+                  "source": "commons-templates",
+                  "hidden": ""
+                }
+              }
+            }
+          ]
+        },
+        {
+          "pageid": 104248352,
+          "ns": 6,
+          "title": "File:The History of England from the Accession of James II, (Vol. I) (IA dli.granth.40707).pdf",
+          "index": 5,
+          "imagerepository": "local",
+          "imageinfo": [
+            {
+              "size": 37013860,
+              "width": 750,
+              "height": 1241,
+              "pagecount": 688,
+              "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/84/The_History_of_England_from_the_Accession_of_James_II%2C_%28Vol._I%29_%28IA_dli.granth.40707%29.pdf/page1-500px-The_History_of_England_from_the_Accession_of_James_II%2C_%28Vol._I%29_%28IA_dli.granth.40707%29.pdf.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+              "thumbwidth": 400,
+              "thumbheight": 662,
+              "thumbattribs": {
+                "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/84/The_History_of_England_from_the_Accession_of_James_II%2C_%28Vol._I%29_%28IA_dli.granth.40707%29.pdf/page1-500px-The_History_of_England_from_the_Accession_of_James_II%2C_%28Vol._I%29_%28IA_dli.granth.40707%29.pdf.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+                "decoding": "async",
+                "loading": "lazy",
+                "width": 400,
+                "height": 662
+              },
+              "url": "https://upload.wikimedia.org/wikipedia/commons/8/84/The_History_of_England_from_the_Accession_of_James_II%2C_%28Vol._I%29_%28IA_dli.granth.40707%29.pdf?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+              "descriptionurl": "https://commons.wikimedia.org/wiki/File:The_History_of_England_from_the_Accession_of_James_II,_(Vol._I)_(IA_dli.granth.40707).pdf",
+              "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=104248352",
+              "extmetadata": {
+                "DateTime": {
+                  "value": "2021-04-24 02:25:02",
+                  "source": "mediawiki-metadata",
+                  "hidden": ""
+                },
+                "ObjectName": {
+                  "value": "<div class=\"fn\">\nThe History of England from the Accession of James II, (Vol. I)</div>",
+                  "source": "commons-desc-page"
+                },
+                "CommonsMetadataExtension": {
+                  "value": 1.2,
+                  "source": "extension",
+                  "hidden": ""
+                },
+                "Categories": {
+                  "value": "PD-old-100-expired|Scans from the Internet Archive/unverified|CC-PD-Mark|Scans from the Internet Archive|Books uploaded by Fæ|Books without Wikidata item|The history of England, from the accession of James the Second|Bharat Ek Khoj|PD-old missing SDC copyright status",
+                  "source": "commons-categories",
+                  "hidden": ""
+                },
+                "Assessments": {
+                  "value": "",
+                  "source": "commons-categories",
+                  "hidden": ""
+                },
+                "Artist": {
+                  "value": "<div class=\"fn value\">\nMacaulay, Thomas Babington</div>",
+                  "source": "commons-desc-page"
+                },
+                "ImageDescription": {
+                  "value": "<div class=\"description\">\n<dl><dd><p>Source: Asiatic Society of Mumbai<br>Identifier: BK_00029931<br>Digitization Sponsor: Government of Maharashtra</p></dd>\n<dd>Original Source: &lt;a href=\"<a rel=\"nofollow\" class=\"external free\" href=\"https://granthsanjeevani.com/jspui/handle/123456789/40707\">https://granthsanjeevani.com/jspui/handle/123456789/40707</a>\" rel=\"nofollow\"&gt;Item 40707&lt;/a&gt;</dd></dl>\n<br>Subjects: Book;  History  of  Europe; Granth Sanjeevani</div>",
+                  "source": "commons-desc-page"
+                },
+                "Credit": {
+                  "value": "<dl><dd><a href=\"//archive.org/details/dli.granth.40707\" class=\"extiw\" title=\"iarchive:dli.granth.40707\"><bdi class=\"description en\" lang=\"en\" dir=\"ltr\">Internet Archive identifier</bdi>: dli.granth.40707</a></dd>\n<dd><a rel=\"nofollow\" class=\"external free\" href=\"https://archive.org/download/dli.granth.40707/40707.pdf\">https://archive.org/download/dli.granth.40707/40707.pdf</a></dd></dl>",
+                  "source": "commons-desc-page"
+                },
+                "LicenseShortName": {
+                  "value": "Public domain",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "UsageTerms": {
+                  "value": "Public domain",
+                  "source": "commons-desc-page"
+                },
+                "AttributionRequired": {
+                  "value": "false",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "Copyrighted": {
+                  "value": "False",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "Restrictions": {
+                  "value": "",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "License": {
+                  "value": "pd",
+                  "source": "commons-templates",
+                  "hidden": ""
+                }
+              }
+            }
+          ]
+        }
+      ]
+    }
+  }
+}

@@ -2,7 +2,7 @@
 
 ## Purpose and scope
 
-Help Eric remember the emperors, the succession of events, and Gibbon's narrative and themes. Mueller's abridgment is the starting point. The opening batch covers Nerva through Marcus Aurelius; later batches should follow the reading.
+Help Eric remember the emperors, the succession of events, and Gibbon's narrative and themes. Mueller's abridgment is the starting point. The requested scope is now **Volumes I–II, Chapters I–XXVI**, through Theodosius's Gothic settlement. Preserve the reader’s settled historical decisions. The reader has authorised revision of the full collection, including the opening batch from Nerva through Marcus Aurelius. Memorable quotations are a priority alongside the historical narrative.
 
 Keep the collection sustainable across many emperors. Use a small, variable number of cards per ruler; the current 4–8 is a working example, not a quota. Preserve distinctive people, episodes, and figures instead of reducing each emperor to accession and death dates.
 

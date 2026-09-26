@@ -1,0 +1,513 @@
+{
+  "person_id": "eusebius-of-nicomedia",
+  "query": "Eusebius of Nicomedia",
+  "response": {
+    "batchcomplete": true,
+    "continue": {
+      "gsroffset": 5,
+      "continue": "gsroffset||"
+    },
+    "query": {
+      "pages": [
+        {
+          "pageid": 15319966,
+          "ns": 6,
+          "title": "File:Ecclesiastical History of Eusebius Pamphilus, 1842.djvu",
+          "index": 3,
+          "imagerepository": "local",
+          "imageinfo": [
+            {
+              "size": 13746608,
+              "width": 2028,
+              "height": 3470,
+              "pagecount": 480,
+              "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/18/Ecclesiastical_History_of_Eusebius_Pamphilus%2C_1842.djvu/page1-500px-Ecclesiastical_History_of_Eusebius_Pamphilus%2C_1842.djvu.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+              "thumbwidth": 400,
+              "thumbheight": 684,
+              "responsiveUrls": {
+                "2": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/18/Ecclesiastical_History_of_Eusebius_Pamphilus%2C_1842.djvu/page1-960px-Ecclesiastical_History_of_Eusebius_Pamphilus%2C_1842.djvu.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+              },
+              "thumbattribs": {
+                "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/18/Ecclesiastical_History_of_Eusebius_Pamphilus%2C_1842.djvu/page1-500px-Ecclesiastical_History_of_Eusebius_Pamphilus%2C_1842.djvu.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+                "decoding": "async",
+                "loading": "lazy",
+                "width": 400,
+                "height": 684,
+                "srcset": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/18/Ecclesiastical_History_of_Eusebius_Pamphilus%2C_1842.djvu/page1-960px-Ecclesiastical_History_of_Eusebius_Pamphilus%2C_1842.djvu.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail 2x"
+              },
+              "url": "https://upload.wikimedia.org/wikipedia/commons/1/18/Ecclesiastical_History_of_Eusebius_Pamphilus%2C_1842.djvu?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+              "descriptionurl": "https://commons.wikimedia.org/wiki/File:Ecclesiastical_History_of_Eusebius_Pamphilus,_1842.djvu",
+              "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=15319966",
+              "extmetadata": {
+                "DateTime": {
+                  "value": "2011-05-27 13:58:19",
+                  "source": "mediawiki-metadata",
+                  "hidden": ""
+                },
+                "ObjectName": {
+                  "value": "Ecclesiastical History of Eusebius Pamphilus, Bishop of Caesarea, in Palestine, in Ten Books",
+                  "source": "commons-desc-page"
+                },
+                "CommonsMetadataExtension": {
+                  "value": 1.2,
+                  "source": "extension",
+                  "hidden": ""
+                },
+                "Categories": {
+                  "value": "Ecclesiastical History (Eusebius)|DjVu files in English|Images with extracted images|PD US expired|Books without Wikidata item",
+                  "source": "commons-categories",
+                  "hidden": ""
+                },
+                "Assessments": {
+                  "value": "",
+                  "source": "commons-categories",
+                  "hidden": ""
+                },
+                "Artist": {
+                  "value": "<bdi><a href=\"https://en.wikipedia.org/wiki/en:Eusebius\" class=\"extiw\" title=\"w:en:Eusebius\"><span title=\"Greek Christian scholar, c. 260–c. 339\">Eusebius of Caesarea</span></a></bdi>",
+                  "source": "commons-desc-page"
+                },
+                "Credit": {
+                  "value": "<a rel=\"nofollow\" class=\"external free\" href=\"http://ia600202.us.archive.org/7/items/ecclesiasticalh00euse/ecclesiasticalh00euse.djvu\">http://ia600202.us.archive.org/7/items/ecclesiasticalh00euse/ecclesiasticalh00euse.djvu</a>",
+                  "source": "commons-desc-page"
+                },
+                "Permission": {
+                  "value": "Public domain works must be out of copyright in both the United States and in the source country of the work in order to be hosted on the Commons. If the work is not a U.S. work, the file <b>must</b> have an additional <a href=\"//commons.wikimedia.org/wiki/Commons:Copyright_tags\" title=\"Commons:Copyright tags\">copyright tag</a> indicating the copyright status in the source country.<br><b>Note:</b> This tag should <i>not</i> be used for sound recordings.<span style=\"display:none;\"><span class=\"licensetpl_short\">PD-1923</span><span class=\"licensetpl_long\"><a href=\"//commons.wikimedia.org/wiki/Public_domain\" class=\"mw-redirect\" title=\"Public domain\">Public domain</a> in the United States</span><span class=\"licensetpl_link\">//commons.wikimedia.org/wiki/File:Ecclesiastical_History_of_Eusebius_Pamphilus,_1842.djvu</span></span>",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "LicenseShortName": {
+                  "value": "Public domain",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "UsageTerms": {
+                  "value": "Public domain",
+                  "source": "commons-desc-page"
+                },
+                "AttributionRequired": {
+                  "value": "false",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "Copyrighted": {
+                  "value": "False",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "Restrictions": {
+                  "value": "",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "License": {
+                  "value": "pd",
+                  "source": "commons-templates",
+                  "hidden": ""
+                }
+              }
+            }
+          ]
+        },
+        {
+          "pageid": 20576621,
+          "ns": 6,
+          "title": "File:Basus, Eusebius, Eutichius, and Basilides at Nicomedia (Menologion of Basil II).jpg",
+          "index": 1,
+          "imagerepository": "local",
+          "imageinfo": [
+            {
+              "size": 209630,
+              "width": 712,
+              "height": 505,
+              "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/94/Basus%2C_Eusebius%2C_Eutichius%2C_and_Basilides_at_Nicomedia_%28Menologion_of_Basil_II%29.jpg/500px-Basus%2C_Eusebius%2C_Eutichius%2C_and_Basilides_at_Nicomedia_%28Menologion_of_Basil_II%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+              "thumbwidth": 400,
+              "thumbheight": 284,
+              "responsiveUrls": {
+                "2": "https://upload.wikimedia.org/wikipedia/commons/9/94/Basus%2C_Eusebius%2C_Eutichius%2C_and_Basilides_at_Nicomedia_%28Menologion_of_Basil_II%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled"
+              },
+              "thumbattribs": {
+                "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/94/Basus%2C_Eusebius%2C_Eutichius%2C_and_Basilides_at_Nicomedia_%28Menologion_of_Basil_II%29.jpg/500px-Basus%2C_Eusebius%2C_Eutichius%2C_and_Basilides_at_Nicomedia_%28Menologion_of_Basil_II%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+                "decoding": "async",
+                "loading": "lazy",
+                "width": 400,
+                "height": 284,
+                "srcset": "https://upload.wikimedia.org/wikipedia/commons/9/94/Basus%2C_Eusebius%2C_Eutichius%2C_and_Basilides_at_Nicomedia_%28Menologion_of_Basil_II%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled 2x"
+              },
+              "url": "https://upload.wikimedia.org/wikipedia/commons/9/94/Basus%2C_Eusebius%2C_Eutichius%2C_and_Basilides_at_Nicomedia_%28Menologion_of_Basil_II%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+              "descriptionurl": "https://commons.wikimedia.org/wiki/File:Basus,_Eusebius,_Eutichius,_and_Basilides_at_Nicomedia_(Menologion_of_Basil_II).jpg",
+              "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=20576621",
+              "extmetadata": {
+                "DateTime": {
+                  "value": "2026-02-06 09:45:16",
+                  "source": "mediawiki-metadata",
+                  "hidden": ""
+                },
+                "ObjectName": {
+                  "value": "Basus, Eusebius, Eutichius, and Basilides at Nicomedia (Menologion of Basil II)",
+                  "source": "mediawiki-metadata"
+                },
+                "CommonsMetadataExtension": {
+                  "value": 1.2,
+                  "source": "extension",
+                  "hidden": ""
+                },
+                "Categories": {
+                  "value": "Menologion of Basil II|Eastern Orthodox saints|Eusebius (given name)|Torture in art|PD-old-100-expired|PD-Art (PD-old-100-expired)|Files, uploaded by Shakko from various sources|CC-PD-Mark|Basilides (given name)|Basus (given name)|Eutichius (given name)|Saints of Nicomedia|Menologion of Basil II - tortures",
+                  "source": "commons-categories",
+                  "hidden": ""
+                },
+                "Assessments": {
+                  "value": "",
+                  "source": "commons-categories",
+                  "hidden": ""
+                },
+                "ImageDescription": {
+                  "value": "<p>Мученики Васс, Евсевий, Евтихий и Василид\n</p><p>Константинополь. 985 г.\nМиниатюра Минология Василия II.\n</p>\nВатиканская библиотека. Рим.",
+                  "source": "commons-desc-page"
+                },
+                "DateTimeOriginal": {
+                  "value": "0985",
+                  "source": "commons-desc-page"
+                },
+                "Credit": {
+                  "value": "<a rel=\"nofollow\" class=\"external free\" href=\"http://days.pravoslavie.ru/Images/ii1166&amp;3974.htm\">http://days.pravoslavie.ru/Images/ii1166&amp;3974.htm</a>",
+                  "source": "commons-desc-page"
+                },
+                "Artist": {
+                  "value": "<table cellspacing=\"8\" cellpadding=\"0\" style=\"width:100%; clear:both; margin:0.5em auto; border:1px solid #aaa; background:#DAA520;\">\n<tbody><tr>\n<td><span typeof=\"mw:File\"><a href=\"//commons.wikimedia.org/wiki/File:Menologion_of_Basil_007.jpg\" class=\"mw-file-description\"><img src=\"https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/Menologion_of_Basil_007.jpg/120px-Menologion_of_Basil_007.jpg?utm_source=commons.wikimedia.org&amp;utm_campaign=parser&amp;utm_content=thumbnail\" decoding=\"async\" loading=\"lazy\" width=\"100\" height=\"67\" class=\"mw-file-element\" srcset=\"https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/Menologion_of_Basil_007.jpg/250px-Menologion_of_Basil_007.jpg?utm_source=commons.wikimedia.org&amp;utm_campaign=parser&amp;utm_content=thumbnail 2x\" data-file-width=\"1949\" data-file-height=\"1297\"></a></span>\n</td>\n<td><i>Authors of <a href=\"//commons.wikimedia.org/wiki/Menologion_of_Basil_II\" title=\"Menologion of Basil II\">Menologion of Basil II</a> (circa 985 AC, Constantinople), Byzantine manuscript illuminators<a rel=\"nofollow\" class=\"external autonumber\" href=\"https://www.jstor.org/stable/1291164?seq=3\">[1]</a>:</i><br>\n<p><b>Pantoleon with Georgios, Michael the Younger, Michael of Blachernae, Symeon, Symeon of Blachernae, Menas, and Nestor</b> <br><br>\n(<a rel=\"nofollow\" class=\"external text\" href=\"http://digi.vatlib.it/view/MSS_Vat.gr.1613/0187?sid=a7590df9b8aca22111c8359533716419&amp;zoomlevel=4\">Online on Vatican site</a>)\n</p>\n</td></tr></tbody></table>",
+                  "source": "commons-desc-page"
+                },
+                "LicenseShortName": {
+                  "value": "Public domain",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "UsageTerms": {
+                  "value": "Public domain",
+                  "source": "commons-desc-page"
+                },
+                "AttributionRequired": {
+                  "value": "false",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "Copyrighted": {
+                  "value": "False",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "Restrictions": {
+                  "value": "",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "License": {
+                  "value": "pd",
+                  "source": "commons-templates",
+                  "hidden": ""
+                }
+              }
+            }
+          ]
+        },
+        {
+          "pageid": 98633235,
+          "ns": 6,
+          "title": "File:The ecclesiastical history of Eusebius Pamphilus, bishop of Cesarea, in Palestine (IA ecclesiasticalhi00euse).pdf",
+          "index": 5,
+          "imagerepository": "local",
+          "imageinfo": [
+            {
+              "size": 40215414,
+              "width": 656,
+              "height": 1216,
+              "pagecount": 564,
+              "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a2/The_ecclesiastical_history_of_Eusebius_Pamphilus%2C_bishop_of_Cesarea%2C_in_Palestine_%28IA_ecclesiasticalhi00euse%29.pdf/page1-500px-The_ecclesiastical_history_of_Eusebius_Pamphilus%2C_bishop_of_Cesarea%2C_in_Palestine_%28IA_ecclesiasticalhi00euse%29.pdf.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+              "thumbwidth": 400,
+              "thumbheight": 741,
+              "thumbattribs": {
+                "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a2/The_ecclesiastical_history_of_Eusebius_Pamphilus%2C_bishop_of_Cesarea%2C_in_Palestine_%28IA_ecclesiasticalhi00euse%29.pdf/page1-500px-The_ecclesiastical_history_of_Eusebius_Pamphilus%2C_bishop_of_Cesarea%2C_in_Palestine_%28IA_ecclesiasticalhi00euse%29.pdf.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+                "decoding": "async",
+                "loading": "lazy",
+                "width": 400,
+                "height": 741
+              },
+              "url": "https://upload.wikimedia.org/wikipedia/commons/a/a2/The_ecclesiastical_history_of_Eusebius_Pamphilus%2C_bishop_of_Cesarea%2C_in_Palestine_%28IA_ecclesiasticalhi00euse%29.pdf?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+              "descriptionurl": "https://commons.wikimedia.org/wiki/File:The_ecclesiastical_history_of_Eusebius_Pamphilus,_bishop_of_Cesarea,_in_Palestine_(IA_ecclesiasticalhi00euse).pdf",
+              "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=98633235",
+              "extmetadata": {
+                "DateTime": {
+                  "value": "2021-01-07 23:26:29",
+                  "source": "mediawiki-metadata",
+                  "hidden": ""
+                },
+                "ObjectName": {
+                  "value": "<div class=\"fn\">\nThe ecclesiastical history of Eusebius Pamphilus, bishop of Cesarea, in Palestine</div>",
+                  "source": "commons-desc-page"
+                },
+                "CommonsMetadataExtension": {
+                  "value": 1.2,
+                  "source": "extension",
+                  "hidden": ""
+                },
+                "Categories": {
+                  "value": "Books from New York (state)|PD-old-100-expired|Scans from the Internet Archive/unverified|CC-PD-Mark|Scans from the Internet Archive|Books uploaded by Fæ|Books without Wikidata item|Old books from American Libraries|PD-old missing SDC copyright status",
+                  "source": "commons-categories",
+                  "hidden": ""
+                },
+                "Assessments": {
+                  "value": "",
+                  "source": "commons-categories",
+                  "hidden": ""
+                },
+                "Artist": {
+                  "value": "<div class=\"fn value\">\n<dl><dd>Eusebius, of Caesarea, Bishop of Caesarea, ca. 260-ca. 340</dd>\n<dd>Boyle, Isaac</dd>\n<dd>Crusé, Christian Frederic, 1794-1864</dd></dl></div>",
+                  "source": "commons-desc-page"
+                },
+                "ImageDescription": {
+                  "value": "<div class=\"description\">\nSubjects: Council of Nicaea 325)</div>",
+                  "source": "commons-desc-page"
+                },
+                "Credit": {
+                  "value": "<dl><dd><a href=\"//archive.org/details/ecclesiasticalhi00euse\" class=\"extiw\" title=\"iarchive:ecclesiasticalhi00euse\"><bdi class=\"description en\" lang=\"en\" dir=\"ltr\">Internet Archive identifier</bdi>: ecclesiasticalhi00euse</a></dd>\n<dd><a rel=\"nofollow\" class=\"external free\" href=\"https://archive.org/download/ecclesiasticalhi00euse/ecclesiasticalhi00euse.pdf\">https://archive.org/download/ecclesiasticalhi00euse/ecclesiasticalhi00euse.pdf</a></dd></dl>\n<ul><li>IA contributor: Wellesley College Library</li></ul>",
+                  "source": "commons-desc-page"
+                },
+                "LicenseShortName": {
+                  "value": "Public domain",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "UsageTerms": {
+                  "value": "Public domain",
+                  "source": "commons-desc-page"
+                },
+                "AttributionRequired": {
+                  "value": "false",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "Copyrighted": {
+                  "value": "False",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "Restrictions": {
+                  "value": "",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "License": {
+                  "value": "pd",
+                  "source": "commons-templates",
+                  "hidden": ""
+                }
+              }
+            }
+          ]
+        },
+        {
+          "pageid": 98633398,
+          "ns": 6,
+          "title": "File:The ecclesiastical history of Eusebius Pamphilus... (IA ecclesiasticalhi1850euse).pdf",
+          "index": 4,
+          "imagerepository": "local",
+          "imageinfo": [
+            {
+              "size": 38333643,
+              "width": 604,
+              "height": 1022,
+              "pagecount": 560,
+              "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/42/The_ecclesiastical_history_of_Eusebius_Pamphilus..._%28IA_ecclesiasticalhi1850euse%29.pdf/page1-500px-The_ecclesiastical_history_of_Eusebius_Pamphilus..._%28IA_ecclesiasticalhi1850euse%29.pdf.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+              "thumbwidth": 400,
+              "thumbheight": 677,
+              "thumbattribs": {
+                "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/42/The_ecclesiastical_history_of_Eusebius_Pamphilus..._%28IA_ecclesiasticalhi1850euse%29.pdf/page1-500px-The_ecclesiastical_history_of_Eusebius_Pamphilus..._%28IA_ecclesiasticalhi1850euse%29.pdf.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+                "decoding": "async",
+                "loading": "lazy",
+                "width": 400,
+                "height": 677
+              },
+              "url": "https://upload.wikimedia.org/wikipedia/commons/4/42/The_ecclesiastical_history_of_Eusebius_Pamphilus..._%28IA_ecclesiasticalhi1850euse%29.pdf?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+              "descriptionurl": "https://commons.wikimedia.org/wiki/File:The_ecclesiastical_history_of_Eusebius_Pamphilus..._(IA_ecclesiasticalhi1850euse).pdf",
+              "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=98633398",
+              "extmetadata": {
+                "DateTime": {
+                  "value": "2021-01-07 23:33:21",
+                  "source": "mediawiki-metadata",
+                  "hidden": ""
+                },
+                "ObjectName": {
+                  "value": "<div class=\"fn\">\nThe ecclesiastical history of Eusebius Pamphilus...</div>",
+                  "source": "commons-desc-page"
+                },
+                "CommonsMetadataExtension": {
+                  "value": 1.2,
+                  "source": "extension",
+                  "hidden": ""
+                },
+                "Categories": {
+                  "value": "Books from New York (state)|PD-old-100-expired|Scans from the Internet Archive/unverified|CC-PD-Mark|Scans from the Internet Archive|Books uploaded by Fæ|Books without Wikidata item|Old books from American Libraries|PD-old missing SDC copyright status",
+                  "source": "commons-categories",
+                  "hidden": ""
+                },
+                "Assessments": {
+                  "value": "",
+                  "source": "commons-categories",
+                  "hidden": ""
+                },
+                "Artist": {
+                  "value": "<div class=\"fn value\">\n<dl><dd>Eusebius, of Caesarea, Bishop of Caesarea, ca. 260-ca. 340</dd>\n<dd>Crusé, Christian Frederic, 1794-1864, tr</dd>\n<dd>Boyle, Isaac</dd></dl></div>",
+                  "source": "commons-desc-page"
+                },
+                "ImageDescription": {
+                  "value": "<div class=\"description\">\n<dl><dd>Damaged: Writing and Highlighting. 11/11/99</dd>\n<dd>1</dd></dl>\n<br>Subjects: Church history</div>",
+                  "source": "commons-desc-page"
+                },
+                "Credit": {
+                  "value": "<dl><dd><a href=\"//archive.org/details/ecclesiasticalhi1850euse\" class=\"extiw\" title=\"iarchive:ecclesiasticalhi1850euse\"><bdi class=\"description en\" lang=\"en\" dir=\"ltr\">Internet Archive identifier</bdi>: ecclesiasticalhi1850euse</a></dd>\n<dd><a rel=\"nofollow\" class=\"external free\" href=\"https://archive.org/download/ecclesiasticalhi1850euse/ecclesiasticalhi1850euse.pdf\">https://archive.org/download/ecclesiasticalhi1850euse/ecclesiasticalhi1850euse.pdf</a></dd></dl>\n<ul><li>IA contributor: Harold B. Lee Library</li>\n<li>IA digitizing sponsor: Brigham Young University</li></ul>",
+                  "source": "commons-desc-page"
+                },
+                "LicenseShortName": {
+                  "value": "Public domain",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "UsageTerms": {
+                  "value": "Public domain",
+                  "source": "commons-desc-page"
+                },
+                "AttributionRequired": {
+                  "value": "false",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "Copyrighted": {
+                  "value": "False",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "Restrictions": {
+                  "value": "",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "License": {
+                  "value": "pd",
+                  "source": "commons-templates",
+                  "hidden": ""
+                }
+              }
+            }
+          ]
+        },
+        {
+          "pageid": 106556190,
+          "ns": 6,
+          "title": "File:Different 'Arian' Creeds and Homoousianism.png",
+          "index": 2,
+          "imagerepository": "local",
+          "imageinfo": [
+            {
+              "size": 168530,
+              "width": 2438,
+              "height": 1214,
+              "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d8/Different_%27Arian%27_Creeds_and_Homoousianism.png/500px-Different_%27Arian%27_Creeds_and_Homoousianism.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+              "thumbwidth": 400,
+              "thumbheight": 199,
+              "responsiveUrls": {
+                "2": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d8/Different_%27Arian%27_Creeds_and_Homoousianism.png/960px-Different_%27Arian%27_Creeds_and_Homoousianism.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+              },
+              "thumbattribs": {
+                "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d8/Different_%27Arian%27_Creeds_and_Homoousianism.png/500px-Different_%27Arian%27_Creeds_and_Homoousianism.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+                "decoding": "async",
+                "loading": "lazy",
+                "width": 400,
+                "height": 199,
+                "srcset": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d8/Different_%27Arian%27_Creeds_and_Homoousianism.png/960px-Different_%27Arian%27_Creeds_and_Homoousianism.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail 2x"
+              },
+              "url": "https://upload.wikimedia.org/wikipedia/commons/d/d8/Different_%27Arian%27_Creeds_and_Homoousianism.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+              "descriptionurl": "https://commons.wikimedia.org/wiki/File:Different_%27Arian%27_Creeds_and_Homoousianism.png",
+              "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=106556190",
+              "extmetadata": {
+                "DateTime": {
+                  "value": "2021-06-14 00:01:16",
+                  "source": "mediawiki-metadata",
+                  "hidden": ""
+                },
+                "ObjectName": {
+                  "value": "Different 'Arian' Creeds and Homoousianism",
+                  "source": "mediawiki-metadata"
+                },
+                "CommonsMetadataExtension": {
+                  "value": 1.2,
+                  "source": "extension",
+                  "hidden": ""
+                },
+                "Categories": {
+                  "value": "First Council of Nicea|Arius|Ulfilas|Christology|Arianism|Self-published work",
+                  "source": "commons-categories",
+                  "hidden": ""
+                },
+                "Assessments": {
+                  "value": "",
+                  "source": "commons-categories",
+                  "hidden": ""
+                },
+                "ImageDescription": {
+                  "value": "Ce schéma est un annexe au mémoire \"هونيريك و مشروع الكنيسة الأورثوذكسية في إفريقيا من خلال دراسة ويكتور الويتي\" et les détails et références à chaque credo y sont inclus.\nCe schéma est à utiliser avec précaution puisqu'il ne s'agit que d'une recherche de master et non d'une personne spécialiste en théologie ou christologie ou encore l'arianisme.",
+                  "source": "commons-desc-page"
+                },
+                "DateTimeOriginal": {
+                  "value": "2021-05-14",
+                  "source": "commons-desc-page"
+                },
+                "Credit": {
+                  "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+                  "source": "commons-desc-page"
+                },
+                "Artist": {
+                  "value": "<a href=\"//commons.wikimedia.org/wiki/User:Slifer621\" title=\"User:Slifer621\">Meriam Cherif</a>",
+                  "source": "commons-desc-page"
+                },
+                "LicenseShortName": {
+                  "value": "CC BY-SA 4.0",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "UsageTerms": {
+                  "value": "Creative Commons Attribution-Share Alike 4.0",
+                  "source": "commons-desc-page"
+                },
+                "AttributionRequired": {
+                  "value": "true",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "LicenseUrl": {
+                  "value": "https://creativecommons.org/licenses/by-sa/4.0",
+                  "source": "commons-desc-page"
+                },
+                "Copyrighted": {
+                  "value": "True",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "Restrictions": {
+                  "value": "",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "License": {
+                  "value": "cc-by-sa-4.0",
+                  "source": "commons-templates",
+                  "hidden": ""
+                }
+              }
+            }
+          ]
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,505 @@
+{
+  "person_id": "titus-julius-priscus",
+  "query": "Titus Julius Priscus",
+  "response": {
+    "batchcomplete": true,
+    "continue": {
+      "gsroffset": 5,
+      "continue": "gsroffset||"
+    },
+    "query": {
+      "pages": [
+        {
+          "pageid": 24913383,
+          "ns": 6,
+          "title": "File:Titus Julius Priscus.jpg",
+          "index": 1,
+          "imagerepository": "local",
+          "imageinfo": [
+            {
+              "size": 521858,
+              "width": 1200,
+              "height": 1600,
+              "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/87/Titus_Julius_Priscus.jpg/500px-Titus_Julius_Priscus.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+              "thumbwidth": 400,
+              "thumbheight": 533,
+              "responsiveUrls": {
+                "2": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/87/Titus_Julius_Priscus.jpg/960px-Titus_Julius_Priscus.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+              },
+              "thumbattribs": {
+                "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/87/Titus_Julius_Priscus.jpg/500px-Titus_Julius_Priscus.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+                "decoding": "async",
+                "loading": "lazy",
+                "width": 400,
+                "height": 533,
+                "srcset": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/87/Titus_Julius_Priscus.jpg/960px-Titus_Julius_Priscus.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail 2x"
+              },
+              "url": "https://upload.wikimedia.org/wikipedia/commons/8/87/Titus_Julius_Priscus.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+              "descriptionurl": "https://commons.wikimedia.org/wiki/File:Titus_Julius_Priscus.jpg",
+              "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=24913383",
+              "extmetadata": {
+                "DateTime": {
+                  "value": "2013-02-28 18:43:14",
+                  "source": "mediawiki-metadata",
+                  "hidden": ""
+                },
+                "ObjectName": {
+                  "value": "Titus Julius Priscus",
+                  "source": "mediawiki-metadata"
+                },
+                "CommonsMetadataExtension": {
+                  "value": 1.2,
+                  "source": "extension",
+                  "hidden": ""
+                },
+                "Categories": {
+                  "value": "Taken with Samsung SGH-D600|Self-published work|Plovdiv lapidarium|Titus Julius Priscus",
+                  "source": "commons-categories",
+                  "hidden": ""
+                },
+                "Assessments": {
+                  "value": "",
+                  "source": "commons-categories",
+                  "hidden": ""
+                },
+                "ImageDescription": {
+                  "value": "Надпис на Юлий Приск от Филипопол",
+                  "source": "commons-desc-page"
+                },
+                "DateTimeOriginal": {
+                  "value": "2009-02-03 19:15:42",
+                  "source": "commons-desc-page"
+                },
+                "Credit": {
+                  "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+                  "source": "commons-desc-page"
+                },
+                "Artist": {
+                  "value": "<a href=\"//commons.wikimedia.org/w/index.php?title=User:Nenko_Nenov&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"User:Nenko Nenov (page does not exist)\">Nenko Nenov</a>",
+                  "source": "commons-desc-page"
+                },
+                "LicenseShortName": {
+                  "value": "CC BY-SA 3.0",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "UsageTerms": {
+                  "value": "Creative Commons Attribution-Share Alike 3.0",
+                  "source": "commons-desc-page"
+                },
+                "AttributionRequired": {
+                  "value": "true",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "LicenseUrl": {
+                  "value": "https://creativecommons.org/licenses/by-sa/3.0",
+                  "source": "commons-desc-page"
+                },
+                "Copyrighted": {
+                  "value": "True",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "Restrictions": {
+                  "value": "",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "License": {
+                  "value": "cc-by-sa-3.0",
+                  "source": "commons-templates",
+                  "hidden": ""
+                }
+              }
+            }
+          ]
+        },
+        {
+          "pageid": 95444560,
+          "ns": 6,
+          "title": "File:History of Julius Caesar (IA historyofjuliusc01napoiala).pdf",
+          "index": 2,
+          "imagerepository": "local",
+          "imageinfo": [
+            {
+              "size": 26651904,
+              "width": 577,
+              "height": 977,
+              "pagecount": 498,
+              "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7a/History_of_Julius_Caesar_%28IA_historyofjuliusc01napoiala%29.pdf/page1-500px-History_of_Julius_Caesar_%28IA_historyofjuliusc01napoiala%29.pdf.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+              "thumbwidth": 400,
+              "thumbheight": 677,
+              "thumbattribs": {
+                "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7a/History_of_Julius_Caesar_%28IA_historyofjuliusc01napoiala%29.pdf/page1-500px-History_of_Julius_Caesar_%28IA_historyofjuliusc01napoiala%29.pdf.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+                "decoding": "async",
+                "loading": "lazy",
+                "width": 400,
+                "height": 677
+              },
+              "url": "https://upload.wikimedia.org/wikipedia/commons/7/7a/History_of_Julius_Caesar_%28IA_historyofjuliusc01napoiala%29.pdf?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+              "descriptionurl": "https://commons.wikimedia.org/wiki/File:History_of_Julius_Caesar_(IA_historyofjuliusc01napoiala).pdf",
+              "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=95444560",
+              "extmetadata": {
+                "DateTime": {
+                  "value": "2020-10-25 11:43:00",
+                  "source": "mediawiki-metadata",
+                  "hidden": ""
+                },
+                "ObjectName": {
+                  "value": "<div class=\"fn\">\nHistory of Julius Caesar</div>",
+                  "source": "commons-desc-page"
+                },
+                "CommonsMetadataExtension": {
+                  "value": 1.2,
+                  "source": "extension",
+                  "hidden": ""
+                },
+                "Categories": {
+                  "value": "Julius Caesar|Books from New York (state)|Scans from the Internet Archive/unverified|PD US expired|Scans from the Internet Archive|Books uploaded by Fæ|Books without Wikidata item|California Digital Library",
+                  "source": "commons-categories",
+                  "hidden": ""
+                },
+                "Assessments": {
+                  "value": "",
+                  "source": "commons-categories",
+                  "hidden": ""
+                },
+                "Artist": {
+                  "value": "<div class=\"fn value\">\nNapoleon III, Emperor of the French, 1808-1873</div>",
+                  "source": "commons-desc-page"
+                },
+                "ImageDescription": {
+                  "value": "<div class=\"description\">\nSubjects: Caesar, Julius; Rome -- History Republic, 265-30 B.C</div>",
+                  "source": "commons-desc-page"
+                },
+                "Credit": {
+                  "value": "<dl><dd><a href=\"//archive.org/details/historyofjuliusc01napoiala\" class=\"extiw\" title=\"iarchive:historyofjuliusc01napoiala\"><bdi class=\"description en\" lang=\"en\" dir=\"ltr\">Internet Archive identifier</bdi>: historyofjuliusc01napoiala</a></dd>\n<dd><a rel=\"nofollow\" class=\"external free\" href=\"https://archive.org/download/historyofjuliusc01napoiala/historyofjuliusc01napoiala.pdf\">https://archive.org/download/historyofjuliusc01napoiala/historyofjuliusc01napoiala.pdf</a></dd></dl>",
+                  "source": "commons-desc-page"
+                },
+                "LicenseShortName": {
+                  "value": "Public domain",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "UsageTerms": {
+                  "value": "Public domain",
+                  "source": "commons-desc-page"
+                },
+                "AttributionRequired": {
+                  "value": "false",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "Copyrighted": {
+                  "value": "False",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "Restrictions": {
+                  "value": "",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "License": {
+                  "value": "pd",
+                  "source": "commons-templates",
+                  "hidden": ""
+                }
+              }
+            }
+          ]
+        },
+        {
+          "pageid": 97863266,
+          "ns": 6,
+          "title": "File:History of Julius Cæsar (IA cu31924024861001).pdf",
+          "index": 4,
+          "imagerepository": "local",
+          "imageinfo": [
+            {
+              "size": 12172691,
+              "width": 870,
+              "height": 1410,
+              "pagecount": 368,
+              "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/ab/History_of_Julius_C%C3%A6sar_%28IA_cu31924024861001%29.pdf/page1-500px-History_of_Julius_C%C3%A6sar_%28IA_cu31924024861001%29.pdf.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+              "thumbwidth": 400,
+              "thumbheight": 648,
+              "thumbattribs": {
+                "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/ab/History_of_Julius_C%C3%A6sar_%28IA_cu31924024861001%29.pdf/page1-500px-History_of_Julius_C%C3%A6sar_%28IA_cu31924024861001%29.pdf.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+                "decoding": "async",
+                "loading": "lazy",
+                "width": 400,
+                "height": 648
+              },
+              "url": "https://upload.wikimedia.org/wikipedia/commons/a/ab/History_of_Julius_C%C3%A6sar_%28IA_cu31924024861001%29.pdf?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+              "descriptionurl": "https://commons.wikimedia.org/wiki/File:History_of_Julius_C%C3%A6sar_(IA_cu31924024861001).pdf",
+              "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=97863266",
+              "extmetadata": {
+                "DateTime": {
+                  "value": "2020-12-20 15:26:27",
+                  "source": "mediawiki-metadata",
+                  "hidden": ""
+                },
+                "ObjectName": {
+                  "value": "<div class=\"fn\">\nHistory of Julius Cæsar</div>",
+                  "source": "commons-desc-page"
+                },
+                "CommonsMetadataExtension": {
+                  "value": 1.2,
+                  "source": "extension",
+                  "hidden": ""
+                },
+                "Categories": {
+                  "value": "Julius Caesar|Books from New York (state)|PD-old-100-expired|Scans from the Internet Archive/unverified|CC-PD-Mark|Scans from the Internet Archive|Books uploaded by Fæ|Books without Wikidata item|Scans from Cornell University Library|Books from the United States PDF files",
+                  "source": "commons-categories",
+                  "hidden": ""
+                },
+                "Assessments": {
+                  "value": "",
+                  "source": "commons-categories",
+                  "hidden": ""
+                },
+                "Artist": {
+                  "value": "<div class=\"fn value\">\nNapoleon III, Emperor of the French, 1808-1873</div>",
+                  "source": "commons-desc-page"
+                },
+                "ImageDescription": {
+                  "value": "<div class=\"description\">\n<p>The metadata below describe the original scanning. Follow the \"All Files: HTTP\" link in the \"View the book\" box to the left to find XML files that contain more metadata about the original images and the derived formats (OCR results, PDF etc.). See also the <a rel=\"nofollow\" class=\"external text\" href=\"https://archive.org/about/faqs.php#140\">What is the directory structure for the texts?</a> FAQ for information about file content and naming conventions.\n</p>\n<br>Subjects: Caesar, Julius</div>",
+                  "source": "commons-desc-page"
+                },
+                "Credit": {
+                  "value": "<dl><dd><a href=\"//archive.org/details/cu31924024861001\" class=\"extiw\" title=\"iarchive:cu31924024861001\"><bdi class=\"description en\" lang=\"en\" dir=\"ltr\">Internet Archive identifier</bdi>: cu31924024861001</a></dd>\n<dd><a rel=\"nofollow\" class=\"external free\" href=\"https://archive.org/download/cu31924024861001/cu31924024861001.pdf\">https://archive.org/download/cu31924024861001/cu31924024861001.pdf</a></dd></dl>",
+                  "source": "commons-desc-page"
+                },
+                "LicenseShortName": {
+                  "value": "Public domain",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "UsageTerms": {
+                  "value": "Public domain",
+                  "source": "commons-desc-page"
+                },
+                "AttributionRequired": {
+                  "value": "false",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "Copyrighted": {
+                  "value": "False",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "Restrictions": {
+                  "value": "",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "License": {
+                  "value": "pd",
+                  "source": "commons-templates",
+                  "hidden": ""
+                }
+              }
+            }
+          ]
+        },
+        {
+          "pageid": 98222136,
+          "ns": 6,
+          "title": "File:History of Julius Caesar (IA cu31924091752794).pdf",
+          "index": 5,
+          "imagerepository": "local",
+          "imageinfo": [
+            {
+              "size": 13095210,
+              "width": 808,
+              "height": 1333,
+              "pagecount": 500,
+              "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c6/History_of_Julius_Caesar_%28IA_cu31924091752794%29.pdf/page1-500px-History_of_Julius_Caesar_%28IA_cu31924091752794%29.pdf.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+              "thumbwidth": 400,
+              "thumbheight": 660,
+              "thumbattribs": {
+                "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c6/History_of_Julius_Caesar_%28IA_cu31924091752794%29.pdf/page1-500px-History_of_Julius_Caesar_%28IA_cu31924091752794%29.pdf.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+                "decoding": "async",
+                "loading": "lazy",
+                "width": 400,
+                "height": 660
+              },
+              "url": "https://upload.wikimedia.org/wikipedia/commons/c/c6/History_of_Julius_Caesar_%28IA_cu31924091752794%29.pdf?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+              "descriptionurl": "https://commons.wikimedia.org/wiki/File:History_of_Julius_Caesar_(IA_cu31924091752794).pdf",
+              "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=98222136",
+              "extmetadata": {
+                "DateTime": {
+                  "value": "2020-12-29 23:11:30",
+                  "source": "mediawiki-metadata",
+                  "hidden": ""
+                },
+                "ObjectName": {
+                  "value": "<div class=\"fn\">\nHistory of Julius Caesar</div>",
+                  "source": "commons-desc-page"
+                },
+                "CommonsMetadataExtension": {
+                  "value": 1.2,
+                  "source": "extension",
+                  "hidden": ""
+                },
+                "Categories": {
+                  "value": "Julius Caesar|Books from New York (state)|PD-old-100-expired|Scans from the Internet Archive/unverified|CC-PD-Mark|Scans from the Internet Archive|Books uploaded by Fæ|Books without Wikidata item|Scans from Cornell University Library|Books from the United States PDF files|PD-old missing SDC copyright status",
+                  "source": "commons-categories",
+                  "hidden": ""
+                },
+                "Assessments": {
+                  "value": "",
+                  "source": "commons-categories",
+                  "hidden": ""
+                },
+                "Artist": {
+                  "value": "<div class=\"fn value\">\nNapoleon III, Emperor of the French, 1808-1873</div>",
+                  "source": "commons-desc-page"
+                },
+                "ImageDescription": {
+                  "value": "<div class=\"description\">\n<p>The metadata below describe the original scanning. Follow the \"All Files: HTTP\" link in the \"View the book\" box to the left to find XML files that contain more metadata about the original images and the derived formats (OCR results, PDF etc.). See also the <a rel=\"nofollow\" class=\"external text\" href=\"https://archive.org/about/faqs.php#140\">What is the directory structure for the texts?</a> FAQ for information about file content and naming conventions.\n</p>\n<br>Subjects: Caesar, Julius</div>",
+                  "source": "commons-desc-page"
+                },
+                "Credit": {
+                  "value": "<dl><dd><a href=\"//archive.org/details/cu31924091752794\" class=\"extiw\" title=\"iarchive:cu31924091752794\"><bdi class=\"description en\" lang=\"en\" dir=\"ltr\">Internet Archive identifier</bdi>: cu31924091752794</a></dd>\n<dd><a rel=\"nofollow\" class=\"external free\" href=\"https://archive.org/download/cu31924091752794/cu31924091752794.pdf\">https://archive.org/download/cu31924091752794/cu31924091752794.pdf</a></dd></dl>",
+                  "source": "commons-desc-page"
+                },
+                "LicenseShortName": {
+                  "value": "Public domain",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "UsageTerms": {
+                  "value": "Public domain",
+                  "source": "commons-desc-page"
+                },
+                "AttributionRequired": {
+                  "value": "false",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "Copyrighted": {
+                  "value": "False",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "Restrictions": {
+                  "value": "",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "License": {
+                  "value": "pd",
+                  "source": "commons-templates",
+                  "hidden": ""
+                }
+              }
+            }
+          ]
+        },
+        {
+          "pageid": 98405063,
+          "ns": 6,
+          "title": "File:History of Julius Caesar. - (IA historyofjuliusc0000napo).pdf",
+          "index": 3,
+          "imagerepository": "local",
+          "imageinfo": [
+            {
+              "size": 25180310,
+              "width": 1008,
+              "height": 1666,
+              "pagecount": 498,
+              "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0f/History_of_Julius_Caesar._-_%28IA_historyofjuliusc0000napo%29.pdf/page1-500px-History_of_Julius_Caesar._-_%28IA_historyofjuliusc0000napo%29.pdf.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+              "thumbwidth": 400,
+              "thumbheight": 661,
+              "responsiveUrls": {
+                "2": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0f/History_of_Julius_Caesar._-_%28IA_historyofjuliusc0000napo%29.pdf/page1-960px-History_of_Julius_Caesar._-_%28IA_historyofjuliusc0000napo%29.pdf.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+              },
+              "thumbattribs": {
+                "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0f/History_of_Julius_Caesar._-_%28IA_historyofjuliusc0000napo%29.pdf/page1-500px-History_of_Julius_Caesar._-_%28IA_historyofjuliusc0000napo%29.pdf.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+                "decoding": "async",
+                "loading": "lazy",
+                "width": 400,
+                "height": 661,
+                "srcset": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0f/History_of_Julius_Caesar._-_%28IA_historyofjuliusc0000napo%29.pdf/page1-960px-History_of_Julius_Caesar._-_%28IA_historyofjuliusc0000napo%29.pdf.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail 2x"
+              },
+              "url": "https://upload.wikimedia.org/wikipedia/commons/0/0f/History_of_Julius_Caesar._-_%28IA_historyofjuliusc0000napo%29.pdf?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+              "descriptionurl": "https://commons.wikimedia.org/wiki/File:History_of_Julius_Caesar._-_(IA_historyofjuliusc0000napo).pdf",
+              "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=98405063",
+              "extmetadata": {
+                "DateTime": {
+                  "value": "2021-01-02 06:40:09",
+                  "source": "mediawiki-metadata",
+                  "hidden": ""
+                },
+                "ObjectName": {
+                  "value": "<div class=\"fn\">\nHistory of Julius Caesar. --</div>",
+                  "source": "commons-desc-page"
+                },
+                "CommonsMetadataExtension": {
+                  "value": 1.2,
+                  "source": "extension",
+                  "hidden": ""
+                },
+                "Categories": {
+                  "value": "Julius Caesar|Books from New York (state)|PD-old-100-expired|Scans from the Internet Archive/unverified|CC-PD-Mark|Scans from the Internet Archive|Books uploaded by Fæ|Books without Wikidata item|Scans from Trent University Library|PD-old missing SDC copyright status",
+                  "source": "commons-categories",
+                  "hidden": ""
+                },
+                "Assessments": {
+                  "value": "",
+                  "source": "commons-categories",
+                  "hidden": ""
+                },
+                "Artist": {
+                  "value": "<div class=\"fn value\">\nNapoleon III, Emperor of the French, 1808-1873</div>",
+                  "source": "commons-desc-page"
+                },
+                "ImageDescription": {
+                  "value": "<div class=\"description\">\n<dl><dd>2 v</dd>\n<dd>Includes bibliographical references</dd></dl>\n<br>Subjects: Caesar, Julius; Heads of state -- Rome -- Biography; Rome -- History -- Republic, 265-30 B.C</div>",
+                  "source": "commons-desc-page"
+                },
+                "Credit": {
+                  "value": "<dl><dd><a href=\"//archive.org/details/historyofjuliusc0000napo\" class=\"extiw\" title=\"iarchive:historyofjuliusc0000napo\"><bdi class=\"description en\" lang=\"en\" dir=\"ltr\">Internet Archive identifier</bdi>: historyofjuliusc0000napo</a></dd>\n<dd><a rel=\"nofollow\" class=\"external free\" href=\"https://archive.org/download/historyofjuliusc0000napo/historyofjuliusc0000napo.pdf\">https://archive.org/download/historyofjuliusc0000napo/historyofjuliusc0000napo.pdf</a></dd></dl>\n<ul><li>IA contributor: Internet Archive</li>\n<li>IA digitizing sponsor: Kahle/Austin Foundation</li></ul>",
+                  "source": "commons-desc-page"
+                },
+                "LicenseShortName": {
+                  "value": "Public domain",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "UsageTerms": {
+                  "value": "Public domain",
+                  "source": "commons-desc-page"
+                },
+                "AttributionRequired": {
+                  "value": "false",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "Copyrighted": {
+                  "value": "False",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "Restrictions": {
+                  "value": "",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "License": {
+                  "value": "pd",
+                  "source": "commons-templates",
+                  "hidden": ""
+                }
+              }
+            }
+          ]
+        }
+      ]
+    }
+  }
+}

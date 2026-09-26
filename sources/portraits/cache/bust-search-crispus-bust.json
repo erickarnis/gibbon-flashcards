@@ -1,0 +1,535 @@
+{
+  "batchcomplete": true,
+  "continue": {
+    "gsroffset": 5,
+    "continue": "gsroffset||"
+  },
+  "query": {
+    "pages": [
+      {
+        "pageid": 343322,
+        "ns": 6,
+        "title": "File:Solidus-Crispus-sirmium RIC -.jpg",
+        "index": 3,
+        "imagerepository": "local",
+        "imageinfo": [
+          {
+            "size": 85414,
+            "width": 500,
+            "height": 231,
+            "thumburl": "https://upload.wikimedia.org/wikipedia/commons/6/6c/Solidus-Crispus-sirmium_RIC_-.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+            "thumbwidth": 960,
+            "thumbheight": 444,
+            "thumbattribs": {
+              "src": "https://upload.wikimedia.org/wikipedia/commons/6/6c/Solidus-Crispus-sirmium_RIC_-.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+              "decoding": "async",
+              "loading": "lazy",
+              "width": 960,
+              "height": 444
+            },
+            "url": "https://upload.wikimedia.org/wikipedia/commons/6/6c/Solidus-Crispus-sirmium_RIC_-.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:Solidus-Crispus-sirmium_RIC_-.jpg",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=343322",
+            "extmetadata": {
+              "DateTime": {
+                "value": "2005-09-28 01:02:40",
+                "source": "mediawiki-metadata",
+                "hidden": ""
+              },
+              "ObjectName": {
+                "value": "Solidus-Crispus-sirmium RIC -",
+                "source": "mediawiki-metadata"
+              },
+              "CommonsMetadataExtension": {
+                "value": 1.2,
+                "source": "extension",
+                "hidden": ""
+              },
+              "Categories": {
+                "value": "Prisoners|GFDL|Solidus|Files with no machine-readable author|Files with no machine-readable source|License migration completed|Coins of Sirmium|Media missing infobox template|Self-published work|CNG coins|Items with VRTS permission confirmed|323 coins|Coins on white background|Media missing infobox template (personal templates)|Victory on Roman coins|Coins of Crispus",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "Assessments": {
+                "value": "",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "LicenseShortName": {
+                "value": "CC BY-SA 3.0",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "UsageTerms": {
+                "value": "Creative Commons Attribution-Share Alike 3.0",
+                "source": "commons-desc-page"
+              },
+              "AttributionRequired": {
+                "value": "true",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Attribution": {
+                "value": "Classical Numismatic Group, Inc. <a rel=\"nofollow\" class=\"external free\" href=\"http://www.cngcoins.com\">http://www.cngcoins.com</a>",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "LicenseUrl": {
+                "value": "http://creativecommons.org/licenses/by-sa/3.0/",
+                "source": "commons-desc-page"
+              },
+              "Copyrighted": {
+                "value": "True",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Restrictions": {
+                "value": "",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "License": {
+                "value": "cc-by-sa-3.0",
+                "source": "commons-templates",
+                "hidden": ""
+              }
+            }
+          }
+        ]
+      },
+      {
+        "pageid": 12032983,
+        "ns": 6,
+        "title": "File:Crispus RIC VII 20 - 732147.jpg",
+        "index": 2,
+        "imagerepository": "local",
+        "imageinfo": [
+          {
+            "size": 45092,
+            "width": 500,
+            "height": 239,
+            "thumburl": "https://upload.wikimedia.org/wikipedia/commons/0/02/Crispus_RIC_VII_20_-_732147.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+            "thumbwidth": 960,
+            "thumbheight": 459,
+            "thumbattribs": {
+              "src": "https://upload.wikimedia.org/wikipedia/commons/0/02/Crispus_RIC_VII_20_-_732147.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+              "decoding": "async",
+              "loading": "lazy",
+              "width": 960,
+              "height": 459
+            },
+            "url": "https://upload.wikimedia.org/wikipedia/commons/0/02/Crispus_RIC_VII_20_-_732147.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:Crispus_RIC_VII_20_-_732147.jpg",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=12032983",
+            "extmetadata": {
+              "DateTime": {
+                "value": "2010-11-12 15:33:20",
+                "source": "mediawiki-metadata",
+                "hidden": ""
+              },
+              "ObjectName": {
+                "value": "Crispus RIC VII 20 - 732147",
+                "source": "mediawiki-metadata"
+              },
+              "CommonsMetadataExtension": {
+                "value": 1.2,
+                "source": "extension",
+                "hidden": ""
+              },
+              "Categories": {
+                "value": "GFDL|Follis|License migration not eligible|Ancient coins of Thessalonica|Self-published work|CNG coins|Items with VRTS permission confirmed|317 coins|Weapons on coins|Princeps Iuventutis|Coins of Crispus",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "Assessments": {
+                "value": "",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "ImageDescription": {
+                "value": "CRISPUS, Caesar. 317-326 AD.\n<dl><dd>Æ Follis (21mm, 3.52 gm). Thessalonica mint. Struck 317-318 AD.\n<dl><dd><dl><dd>CRISPVS NOBILISSIMVS CAES, laureate, draped and cuirassed bust right.</dd>\n<dd>PRINCIPIA IVVENTVTIS, Crispus standing right, holding spear and shield; •TS•Є•.</dd></dl></dd></dl></dd>\n<dd>RIC VII 20, Cohen 109.</dd>\n<dd>VF, dark brown patina, weak reverse strike. Rare.</dd></dl>",
+                "source": "commons-desc-page"
+              },
+              "DateTimeOriginal": {
+                "value": "12 November 2010 (upload date)",
+                "source": "commons-desc-page"
+              },
+              "Credit": {
+                "value": "<a rel=\"nofollow\" class=\"external free\" href=\"http://www.cngcoins.com/Coin.aspx?CoinID=22797\">http://www.cngcoins.com/Coin.aspx?CoinID=22797</a>",
+                "source": "commons-desc-page"
+              },
+              "Artist": {
+                "value": "Classical Numismatic Group",
+                "source": "commons-desc-page"
+              },
+              "Permission": {
+                "value": "You may select the license of your choice.",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "LicenseShortName": {
+                "value": "CC BY-SA 2.5",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "UsageTerms": {
+                "value": "Creative Commons Attribution-Share Alike 2.5",
+                "source": "commons-desc-page"
+              },
+              "AttributionRequired": {
+                "value": "true",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Attribution": {
+                "value": "Classical Numismatic Group, Inc. <a rel=\"nofollow\" class=\"external free\" href=\"http://www.cngcoins.com\">http://www.cngcoins.com</a>",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "LicenseUrl": {
+                "value": "https://creativecommons.org/licenses/by-sa/2.5",
+                "source": "commons-desc-page"
+              },
+              "Copyrighted": {
+                "value": "True",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Restrictions": {
+                "value": "",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "License": {
+                "value": "cc-by-sa-2.5",
+                "source": "commons-templates",
+                "hidden": ""
+              }
+            }
+          }
+        ]
+      },
+      {
+        "pageid": 12142639,
+        "ns": 6,
+        "title": "File:CONSTANTINUS E CRISPUS - RIC VII 14 - 141222.jpg",
+        "index": 4,
+        "imagerepository": "local",
+        "imageinfo": [
+          {
+            "size": 119695,
+            "width": 800,
+            "height": 377,
+            "thumburl": "https://upload.wikimedia.org/wikipedia/commons/6/61/CONSTANTINUS_E_CRISPUS_-_RIC_VII_14_-_141222.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+            "thumbwidth": 960,
+            "thumbheight": 452,
+            "thumbattribs": {
+              "src": "https://upload.wikimedia.org/wikipedia/commons/6/61/CONSTANTINUS_E_CRISPUS_-_RIC_VII_14_-_141222.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+              "decoding": "async",
+              "loading": "lazy",
+              "width": 960,
+              "height": 452
+            },
+            "url": "https://upload.wikimedia.org/wikipedia/commons/6/61/CONSTANTINUS_E_CRISPUS_-_RIC_VII_14_-_141222.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:CONSTANTINUS_E_CRISPUS_-_RIC_VII_14_-_141222.jpg",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=12142639",
+            "extmetadata": {
+              "DateTime": {
+                "value": "2010-11-25 05:34:56",
+                "source": "mediawiki-metadata",
+                "hidden": ""
+              },
+              "ObjectName": {
+                "value": "CONSTANTINUS E CRISPUS - RIC VII 14 - 141222",
+                "source": "mediawiki-metadata"
+              },
+              "CommonsMetadataExtension": {
+                "value": 1.2,
+                "source": "extension",
+                "hidden": ""
+              },
+              "Categories": {
+                "value": "GFDL|License migration not eligible|Coins of Sirmium|Self-published work|CNG coins|Items with VRTS permission confirmed|320 coins|Miliarense|Coins of Constantinus I Magnus|Coins of Constantine II|Coins of Crispus|Confronting heads on Roman coins",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "Assessments": {
+                "value": "",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "ImageDescription": {
+                "value": "Constantine I, with Crispus and Constantine II, as Caesars. AD 307-337. \n<dl><dd>AR Miliarense (23mm, 3.92 g). Sirmium mint. Struck AD 320.\n<dl><dd><dl><dd>CONSTANTINUS MAX AUG, bare head of Constantine I right</dd>\n<dd>CRISPUS ET CONSTANTINUS [...], confronted busts of Crispus and Constantine II; SIRM.</dd></dl></dd></dl></dd>\n<dd>RIC VII 14; Gnecchi pl. 29, 8; Bastien, Donativa p. 76, note 11; RSC 3.</dd>\n<dd>Near VF, surfaces rough, minor lamination flaws. Very rare.</dd></dl>",
+                "source": "commons-desc-page"
+              },
+              "DateTimeOriginal": {
+                "value": "2010-11-25",
+                "source": "commons-desc-page"
+              },
+              "Credit": {
+                "value": "<a rel=\"nofollow\" class=\"external free\" href=\"http://www.cngcoins.com/Coin.aspx?CoinID=88206\">http://www.cngcoins.com/Coin.aspx?CoinID=88206</a>",
+                "source": "commons-desc-page"
+              },
+              "Artist": {
+                "value": "CNG",
+                "source": "commons-desc-page"
+              },
+              "Permission": {
+                "value": "You may select the license of your choice.",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "LicenseShortName": {
+                "value": "CC BY-SA 2.5",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "UsageTerms": {
+                "value": "Creative Commons Attribution-Share Alike 2.5",
+                "source": "commons-desc-page"
+              },
+              "AttributionRequired": {
+                "value": "true",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Attribution": {
+                "value": "Classical Numismatic Group, Inc. <a rel=\"nofollow\" class=\"external free\" href=\"http://www.cngcoins.com\">http://www.cngcoins.com</a>",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "LicenseUrl": {
+                "value": "https://creativecommons.org/licenses/by-sa/2.5",
+                "source": "commons-desc-page"
+              },
+              "Copyrighted": {
+                "value": "True",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Restrictions": {
+                "value": "",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "License": {
+                "value": "cc-by-sa-2.5",
+                "source": "commons-templates",
+                "hidden": ""
+              }
+            }
+          }
+        ]
+      },
+      {
+        "pageid": 76246954,
+        "ns": 6,
+        "title": "File:PUBLIC-33848B, Roman nummus Crispus laureate bust with spear left. Camp gate. (FindID 799879).jpg",
+        "index": 5,
+        "imagerepository": "local",
+        "imageinfo": [
+          {
+            "size": 459461,
+            "width": 3545,
+            "height": 2317,
+            "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/af/PUBLIC-33848B%2C_Roman_nummus_Crispus_laureate_bust_with_spear_left._Camp_gate._%28FindID_799879%29.jpg/960px-PUBLIC-33848B%2C_Roman_nummus_Crispus_laureate_bust_with_spear_left._Camp_gate._%28FindID_799879%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+            "thumbwidth": 960,
+            "thumbheight": 627,
+            "responsiveUrls": {
+              "2": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/af/PUBLIC-33848B%2C_Roman_nummus_Crispus_laureate_bust_with_spear_left._Camp_gate._%28FindID_799879%29.jpg/1920px-PUBLIC-33848B%2C_Roman_nummus_Crispus_laureate_bust_with_spear_left._Camp_gate._%28FindID_799879%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+            },
+            "thumbattribs": {
+              "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/af/PUBLIC-33848B%2C_Roman_nummus_Crispus_laureate_bust_with_spear_left._Camp_gate._%28FindID_799879%29.jpg/960px-PUBLIC-33848B%2C_Roman_nummus_Crispus_laureate_bust_with_spear_left._Camp_gate._%28FindID_799879%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+              "decoding": "async",
+              "loading": "lazy",
+              "width": 960,
+              "height": 627,
+              "srcset": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/af/PUBLIC-33848B%2C_Roman_nummus_Crispus_laureate_bust_with_spear_left._Camp_gate._%28FindID_799879%29.jpg/1920px-PUBLIC-33848B%2C_Roman_nummus_Crispus_laureate_bust_with_spear_left._Camp_gate._%28FindID_799879%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail 2x"
+            },
+            "url": "https://upload.wikimedia.org/wikipedia/commons/a/af/PUBLIC-33848B%2C_Roman_nummus_Crispus_laureate_bust_with_spear_left._Camp_gate._%28FindID_799879%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:PUBLIC-33848B,_Roman_nummus_Crispus_laureate_bust_with_spear_left._Camp_gate._(FindID_799879).jpg",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=76246954",
+            "extmetadata": {
+              "DateTime": {
+                "value": "2019-01-31 22:04:18",
+                "source": "mediawiki-metadata",
+                "hidden": ""
+              },
+              "ObjectName": {
+                "value": "<div class=\"fn\">\nPUBLIC-33848B: Roman nummus Crispus laureate bust with spear left. Camp gate.</div>",
+                "source": "commons-desc-page"
+              },
+              "CommonsMetadataExtension": {
+                "value": 1.2,
+                "source": "extension",
+                "hidden": ""
+              },
+              "Categories": {
+                "value": "Portable Antiquities Scheme|Images uploaded by Fæ|Portable Antiquities Scheme, PUBLIC",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "Assessments": {
+                "value": "",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "Artist": {
+                "value": "<div class=\"fn value\">\nAll rights reserved, David Roberts, 2016-08-16 17:13:02</div>",
+                "source": "commons-desc-page"
+              },
+              "ImageDescription": {
+                "value": "<span>An encrusted copper-alloy nummus of Crispus (</span>AD<span> 317- 326), dating to </span>AD<span> 318-319 (Reece Period 16),CRISPVS NOB CAES; laureate and cuirassed bust left with spear pointing forward, shield on left arm. VIRTVS AVGG; open camp gate (no door) with four turrets. Mint of Rome. RIC VII, p. 316, no. 191. The recorded specimen in Vienna is from Officina S; this coin appears to be from Officina P. The British Museum has no example of this type for Crispus at all.</span>",
+                "source": "commons-desc-page"
+              },
+              "DateTimeOriginal": {
+                "value": "between 317 and 330",
+                "source": "commons-desc-page"
+              },
+              "Credit": {
+                "value": "<a rel=\"nofollow\" class=\"external free\" href=\"https://finds.org.uk/database/ajax/download/id/579040\">https://finds.org.uk/database/ajax/download/id/579040</a><br>Catalog: <a rel=\"nofollow\" class=\"external free\" href=\"https://finds.org.uk/database/images/image/id/579040/recordtype/artefacts\">https://finds.org.uk/database/images/image/id/579040/recordtype/artefacts</a> <bdi lang=\"en\" dir=\"ltr\" title=\"archived on 31 January 2019 at the Wayback Machine\"><a rel=\"nofollow\" class=\"external text\" href=\"https://web.archive.org/web/20190131220358/https%3A//finds.org.uk/database/images/image/id/579040/recordtype/artefacts\">archive copy</a> at the <span lang=\"en\" dir=\"ltr\"><a href=\"https://en.wikipedia.org/wiki/Wayback_Machine\" class=\"extiw\" title=\"en:Wayback Machine\"><span lang=\"en\" dir=\"ltr\">Wayback Machine</span></a></span></bdi><br>Artefact: <a rel=\"nofollow\" class=\"external free\" href=\"https://finds.org.uk/database/artefacts/record/id/799879\">https://finds.org.uk/database/artefacts/record/id/799879</a>",
+                "source": "commons-desc-page"
+              },
+              "Permission": {
+                "value": "Attribution License version 2.0 (verified 27 November 2020)",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "LicenseShortName": {
+                "value": "CC BY 2.0",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "UsageTerms": {
+                "value": "Creative Commons Attribution 2.0",
+                "source": "commons-desc-page"
+              },
+              "AttributionRequired": {
+                "value": "true",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "LicenseUrl": {
+                "value": "https://creativecommons.org/licenses/by/2.0",
+                "source": "commons-desc-page"
+              },
+              "Copyrighted": {
+                "value": "True",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Restrictions": {
+                "value": "",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "License": {
+                "value": "cc-by-2.0",
+                "source": "commons-templates",
+                "hidden": ""
+              }
+            }
+          }
+        ]
+      },
+      {
+        "pageid": 120342176,
+        "ns": 6,
+        "title": "File:Crispus brother of Gothicus and Quintillius.jpeg",
+        "index": 1,
+        "imagerepository": "local",
+        "imageinfo": [
+          {
+            "size": 49431,
+            "width": 697,
+            "height": 1000,
+            "thumburl": "https://upload.wikimedia.org/wikipedia/commons/d/db/Crispus_brother_of_Gothicus_and_Quintillius.jpeg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+            "thumbwidth": 960,
+            "thumbheight": 1377,
+            "thumbattribs": {
+              "src": "https://upload.wikimedia.org/wikipedia/commons/d/db/Crispus_brother_of_Gothicus_and_Quintillius.jpeg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+              "decoding": "async",
+              "loading": "lazy",
+              "width": 960,
+              "height": 1377
+            },
+            "url": "https://upload.wikimedia.org/wikipedia/commons/d/db/Crispus_brother_of_Gothicus_and_Quintillius.jpeg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:Crispus_brother_of_Gothicus_and_Quintillius.jpeg",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=120342176",
+            "extmetadata": {
+              "DateTime": {
+                "value": "2022-07-11 20:21:50",
+                "source": "mediawiki-metadata",
+                "hidden": ""
+              },
+              "ObjectName": {
+                "value": "Crispus brother of Gothicus and Quintillius",
+                "source": "mediawiki-metadata"
+              },
+              "CommonsMetadataExtension": {
+                "value": 1.2,
+                "source": "extension",
+                "hidden": ""
+              },
+              "Categories": {
+                "value": "Jacopo Strada|Claudius Crispus|PD-old-100-expired|CC-PD-Mark|PD-old missing SDC copyright status",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "Assessments": {
+                "value": "",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "ImageDescription": {
+                "value": "Drawing of a bust",
+                "source": "commons-desc-page"
+              },
+              "DateTimeOriginal": {
+                "value": "Before 1600s",
+                "source": "commons-desc-page"
+              },
+              "Credit": {
+                "value": "<a rel=\"nofollow\" class=\"external free\" href=\"https://www.europeana.eu/sv/item/669/item_MFXYTZBP2PAAPP4CPWYSDZ2RGDPPZA2R\">https://www.europeana.eu/sv/item/669/item_MFXYTZBP2PAAPP4CPWYSDZ2RGDPPZA2R</a>",
+                "source": "commons-desc-page"
+              },
+              "Artist": {
+                "value": "Jacopo Strada",
+                "source": "commons-desc-page"
+              },
+              "LicenseShortName": {
+                "value": "Public domain",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "UsageTerms": {
+                "value": "Public domain",
+                "source": "commons-desc-page"
+              },
+              "AttributionRequired": {
+                "value": "false",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Copyrighted": {
+                "value": "False",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Restrictions": {
+                "value": "",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "License": {
+                "value": "pd",
+                "source": "commons-templates",
+                "hidden": ""
+              }
+            }
+          }
+        ]
+      }
+    ]
+  }
+}

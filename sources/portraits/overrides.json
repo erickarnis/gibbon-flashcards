@@ -1,0 +1,286 @@
+{
+  "nerva": {
+    "selected_file": "File:Nerva head, Rome, Vatican Museums, Pius-Clementine Museum, 96-98 CE.jpg",
+    "selection_note": "Ancient portrait head; preferred to the default coin for a clear face."
+  },
+  "hadrian": {
+    "selected_file": "File:Bust Hadrian Musei Capitolini MC817 cropped.jpg",
+    "selection_note": "Ancient portrait bust with a tight face crop."
+  },
+  "marcus-aurelius": {
+    "selected_file": "File:Marcus Aurelius Glyptothek München (3x4 cropped).jpg",
+    "selection_note": "Mature portrait, preferred to the default youthful portrait for recognition."
+  },
+  "tiberius-claudius-pompeianus": {
+    "selected_file": "File:Ritratto di pompeiano, generale e genero di marco aurelio, 170-180 dc ca.jpg",
+    "selection_note": "Attributed individual portrait, preferred to a crowded narrative relief."
+  },
+  "julius-martialis": {
+    "selected_file": null,
+    "status": "no_portrait_found",
+    "selection_note": "Rejected article redirect to Caracalla: the emperor is not his assassin."
+  },
+  "marcus-claudius-marcellus-consul-51-bc": {
+    "selected_file": null,
+    "status": "no_portrait_found",
+    "selection_note": "Rejected Spolia Opima portrait: it depicts an earlier namesake, not Cicero's contemporary."
+  },
+  "quintus-aemilius-laetus": {
+    "selected_file": null,
+    "status": "no_portrait_found",
+    "selection_note": "Rejected death scene of Commodus: no identified portrait of Laetus."
+  },
+  "cniva": {
+    "selected_file": "File:Gothic king Cniva and Emperor Decius at the battle of Abritus.jpg",
+    "selection_note": "Modern imagined battle illustration by Rowyn flowerdew (2025). Cniva is the standing figure behind Decius; this is not evidence of his appearance."
+  },
+  "diodorus-of-tarsus": {
+    "selected_file": null,
+    "status": "no_portrait_found",
+    "selection_note": "Rejected image of Jesus from article navigation."
+  },
+  "lysippos": {
+    "selected_file": null,
+    "status": "no_portrait_found",
+    "selection_note": "Rejected inscribed statue base: not a depiction of Lysippos."
+  },
+  "salutius": {
+    "selected_file": null,
+    "status": "no_portrait_found",
+    "selection_note": "Rejected inscription: not a portrait."
+  },
+  "ermanaric": {
+    "selected_file": null,
+    "status": "no_portrait_found",
+    "selection_note": "Rejected archaeological map: not a portrait."
+  },
+  "marcellinus-magister-officiorum": {
+    "selected_file": null,
+    "status": "no_portrait_found",
+    "selection_note": "Rejected coin of Magnentius: not Marcellinus."
+  },
+  "valentinian-i": {
+    "selected_file": "File:INC-3035-a Солид. Валентиниан I. Ок. 367—375 гг. (аверс).png",
+    "selection_note": "Explicitly identified coin obverse of Valentinian I; rejected default file named for Valens."
+  },
+  "paul-i-of-constantinople": {
+    "selected_file": "File:Agios Pavlos Omologetes Dionysiou.jpg",
+    "selection_note": "Later traditional religious portrait."
+  },
+  "flavia-domitilla-wife-of-clemens": {
+    "selected_file": "File:Andrea di Bonaiuto. St. Agnes and St. Domitilla. 1365. Galleria dell'Accademia, Florence..jpg",
+    "selection_note": "Later religious group image of Agnes and Domitilla; Domitilla traditions conflate identities."
+  },
+  "lucian": {
+    "selected_file": "File:Lucian of Samosata.png",
+    "selection_note": "Later imagined portrait."
+  },
+  "muhammad": {
+    "selected_file": "File:Portrait of the Prophet Muhammad riding the buraq steed - Google Art Project.jpg",
+    "selection_note": "Later religious depiction, not a lifetime likeness."
+  },
+  "scipio-africanus": {
+    "selected_file": "File:Medieval Portrait of Scipio Africanus (Philadelphia Museum of Art).jpg",
+    "selection_note": "Later portrait explicitly identified as Scipio. Rejected default bust labelled Sulla; ancient Scipio identifications are disputed."
+  },
+  "severus-ii": {
+    "selected_file": "File:Severus II Aureus Joanneum.jpg",
+    "selection_note": "Alternative ancient coin; default image metadata contradicted its title."
+  },
+  "volusianus": {
+    "selected_file": "File:Aureus Volusianus (obverse).jpg",
+    "selection_note": "Identified contemporary coin preferred to the tentatively attributed bust."
+  },
+  "mark-antony": {
+    "selected_file": "File:Marble bust of Mark Antony (Vatican Museums).jpg",
+    "selection_note": "Posthumous Roman marble bust traditionally identified as Mark Antony; identification is uncertain.",
+    "depiction_override": "Ancient object; uncertain identity",
+    "likeness_note": "Posthumous Roman marble bust traditionally identified as Mark Antony; identification is uncertain."
+  },
+  "titus-julius-priscus": {
+    "selected_file": null,
+    "status": "no_portrait_found",
+    "selection_note": "Rejected inscription, which is not a portrait. Gibbon conflates two Priscus identities."
+  },
+  "shapur-i": {
+    "selected_file": "File:Shapur I Statue (2) by Hadi Karimi.jpg",
+    "selection_note": "Close photograph of the upper part of the colossal ancient statue of Shapur I, preferred to the coin."
+  },
+  "gaius-marius": {
+    "selected_file": "File:Marius Chiaramonti Inv1488.jpg",
+    "selection_note": "Ancient bust traditionally identified as Marius; attribution is uncertain."
+  },
+  "columella": {
+    "selected_file": "File:Lucius Junius Moderatus Columella.jpg",
+    "selection_note": "Later imagined portrait found in a supplementary Commons search."
+  },
+  "fausta": {
+    "selected_file": "File:P1070865 Louvre tête de Fausta Ma4881 rwk.JPG",
+    "selection_note": "Possible portrait of Fausta, Louvre Ma4881; identification is uncertain.",
+    "depiction_override": "Ancient object; uncertain identity",
+    "likeness_note": "Possible portrait of Fausta, Louvre Ma4881; identification is uncertain."
+  },
+  "sextus-afranius-burrus": {
+    "selected_file": "File:Burrhus, Nero's Tutor, Prostrating Himself before his Sovereign Lord (Otto Wallgren) - Nationalmuseum - 19020.tif",
+    "selection_note": "Later imagined narrative scene by Otto Wallgren, rather than an ancient likeness."
+  },
+  "sextus-julius-africanus": {
+    "selected_file": "File:Sextus Julius Africanus Julius aphricanus (titel op object) Liber Chronicarum (serietitel), RP-P-2016-49-79-4.jpg",
+    "selection_note": "Imagined woodcut in the Nuremberg Chronicle; no lifetime likeness."
+  },
+  "antipope-felix-ii": {
+    "selected_file": "File:Felix II Pontificum.jpg",
+    "selection_note": "Imagined sixteenth-century portrait by Giovanni Battista Cavalieri."
+  },
+  "herod-the-great": {
+    "selected_file": "File:HerodtheGreat2.jpg",
+    "selection_note": "Later imagined engraved portrait. Source includes an incomplete US public-domain tagging notice; recheck before publication."
+  },
+  "zosimus": {
+    "selected_file": null,
+    "status": "no_portrait_found",
+    "resolved_title": "Zosimus (historian)",
+    "article_url": "https://en.wikipedia.org/wiki/Zosimus_(historian)",
+    "selection_note": "Resolved to the Byzantine historian, not the pope or alchemist. Biography has no portrait."
+  },
+  "dagalaifus": {
+    "selected_file": null,
+    "status": "no_portrait_found",
+    "selection_note": "Roman officer and consul of AD 366; not his fifth-century namesake. No suitable portrait identified."
+  },
+  "khosrov-ii-of-armenia": {
+    "selected_file": "File:Khosrov II of Armenia killed by Anak.jpg",
+    "selection_note": "Imagined 1827 narrative scene: Khosrov is the fallen king, not the standing attacker. No verified likeness."
+  },
+  "count-theodosius": {
+    "selected_file": "File:Theodosius the Elder fights the insurrectionists in Africa, 373 or 374.png",
+    "selection_note": "Later imagined scene by Josep Serra i Porsón, circa 1870; not a lifetime likeness."
+  },
+  "pap-of-armenia": {
+    "selected_file": "File:General (Sparapet) Mushegh Mamikonian (right), the King Pap and Armenian cavalry soldiers. Miniature from the 16th century..jpg",
+    "selection_note": "Sixteenth-century miniature of Pap with Mushegh Mamikonian and Armenian cavalry; a later narrative representation."
+  },
+  "dorotheus-of-nicomedia": {
+    "selected_file": "File:Martyr_de_saint_Gorgon.jpg",
+    "selection_note": "Shared fourteenth-century depiction of the martyrdom of Gorgonius and Dorotheus of Nicomedia; an imagined religious scene, not a lifetime likeness."
+  },
+  "galba": {
+    "selected_file": "File:Portrait of Galba (1st cent. A.D.) at the Archaeological Museum of Corinth (1-10-2020).jpg",
+    "selection_note": "Portrait head identified as Galba, Corinth Archaeological Museum, inv. T-291."
+  },
+  "vitellius": {
+    "selected_file": "File:Tunis Bardo Buste 8.jpg",
+    "selection_note": "Ancient bust identified as Vitellius in the Bardo Museum; attribution per source."
+  },
+  "julia-maesa": {
+    "selected_file": "File:Head of Julia Meza.jpg",
+    "selection_note": "Silver portrait head identified as Julia Maesa, National History Museum, Sofia; attribution per source."
+  },
+  "gordian-i": {
+    "selected_file": "File:Gordian I Musei Capitolini MC475.jpg",
+    "selection_note": "Ancient portrait head on a modern bust, Capitoline Museums MC475; traditionally identified as Gordian I, but the identity is uncertain.",
+    "depiction_override": "Ancient object; uncertain identity",
+    "likeness_note": "Ancient portrait head on a modern bust, Capitoline Museums MC475; traditionally identified as Gordian I, but the identity is uncertain."
+  },
+  "charlemagne": {
+    "selected_file": "File:Bust of Charlemagne.png",
+    "selection_note": "Reliquary bust made around 1350, centuries after Charlemagne; a later imagined depiction.",
+    "depiction_override": "Later imagined or traditional depiction"
+  },
+  "claudius-gothicus": {
+    "selected_file": "File:5305 - Brescia - S. Giulia - Ritratto di Claudio II il Gotico - Foto Giovanni Dall'Orto, 25 Giu 2011.jpg",
+    "selection_note": "Bronze portrait head in Brescia traditionally attributed to Claudius II; the identification is disputed, including attribution to Aurelian.",
+    "depiction_override": "Ancient object; uncertain identity",
+    "likeness_note": "Bronze portrait head in Brescia traditionally attributed to Claudius II; the identification is disputed, including attribution to Aurelian."
+  },
+  "maximinus-daza": {
+    "selected_file": "File:Bust of Maximinus II.png",
+    "selection_note": "Sculptural portrait attributed to Maximinus II by the source; identification is not secure.",
+    "depiction_override": "Ancient object; uncertain identity",
+    "likeness_note": "Sculptural portrait attributed to Maximinus II by the source; identification is not secure."
+  },
+  "julian-emperor": {
+    "selected_file": "File:Chalcedony bust of Julian (1).png",
+    "selection_note": "Chalcedony portrait attributed to Julian; the identification is scholarly interpretation, not secure.",
+    "depiction_override": "Ancient object; uncertain identity",
+    "likeness_note": "Chalcedony portrait attributed to Julian; the identification is scholarly interpretation, not secure."
+  },
+  "sulla": {
+    "selected_file": "File:Bust of Sulla (Ny Carlsberg Glyptotek, Copenhagen) 1.jpg",
+    "selection_note": "Ancient portrait traditionally identified as Sulla; identification is uncertain.",
+    "depiction_override": "Ancient object; uncertain identity",
+    "likeness_note": "Ancient portrait traditionally identified as Sulla; identification is uncertain."
+  },
+  "marcus-junius-brutus": {
+    "selected_file": "File:Portrait Brutus Massimo.jpg",
+    "selection_note": "So-called Brutus, a Roman marble portrait dated 30–15 BC; the identification is uncertain.",
+    "depiction_override": "Ancient object; uncertain identity",
+    "likeness_note": "So-called Brutus, a Roman marble portrait dated 30–15 BC; the identification is uncertain."
+  },
+  "julius-caesar": {
+    "source_provider": "external",
+    "selected_file": "https://cdn.britannica.com/11/196711-050-FA58D50D/Julius-Caesar-marble-sculpture-Andrea-di-Pietro.jpg",
+    "status": "downloaded",
+    "file_page_url": "https://cdn.britannica.com/11/196711-050-FA58D50D/Julius-Caesar-marble-sculpture-Andrea-di-Pietro.jpg",
+    "original_url": "https://cdn.britannica.com/11/196711-050-FA58D50D/Julius-Caesar-marble-sculpture-Andrea-di-Pietro.jpg",
+    "download_url": "https://cdn.britannica.com/11/196711-050-FA58D50D/Julius-Caesar-marble-sculpture-Andrea-di-Pietro.jpg",
+    "original_width": 1168,
+    "original_height": 1600,
+    "mime": "image/jpeg",
+    "commons_sha1": null,
+    "image_description": "Julius Caesar by Andrea di Pietro di Marco Ferrucci, circa 1512–14, Metropolitan Museum of Art, object 14.40.676. Renaissance depiction, not an ancient portrait. Museum record: https://www.metmuseum.org/art/collection/search/192717",
+    "selection_note": "Exact Britannica CDN image requested by the reader on 2026-09-26.",
+    "depiction_override": "Later imagined or traditional depiction",
+    "artist": "Sculptor: Andrea di Pietro di Marco Ferrucci. Photographer not verified for the supplied CDN file.",
+    "credit": "Image supplied through Encyclopaedia Britannica CDN; exact photographic credit not verified.",
+    "attribution_text": "",
+    "permission_text": "No publication permission or open licence verified for this exact CDN file. The Met offers public-domain images of this object at https://www.metmuseum.org/art/collection/search/192717 ; this does not independently establish the rights of the exact Britannica-hosted file.",
+    "license": "Reuse not verified",
+    "license_url": "",
+    "usage_terms": "Check image-specific rights before public reuse.",
+    "copyrighted": "Not determined",
+    "attribution_required": "Not determined",
+    "restrictions": "Local personal collection. Public reuse rights for this exact file have not been verified; check the image rights holder before publication.",
+    "metadata_date": "2026-09-26",
+    "metadata_raw": {
+      "source": "User-supplied Britannica image URL",
+      "rights_status": "Unverified for exact CDN image"
+    },
+    "likeness_note": "",
+    "quality_note": "",
+    "download_resolution_note": ""
+  },
+  "alexander-the-great": {
+    "source_provider": "external",
+    "selected_file": "https://cdn.britannica.com/58/159658-050-70DB8771/Alexander-the-Great-marble-bust-British-Museum.jpg",
+    "status": "downloaded",
+    "file_page_url": "https://cdn.britannica.com/58/159658-050-70DB8771/Alexander-the-Great-marble-bust-British-Museum.jpg",
+    "original_url": "https://cdn.britannica.com/58/159658-050-70DB8771/Alexander-the-Great-marble-bust-British-Museum.jpg",
+    "download_url": "https://cdn.britannica.com/58/159658-050-70DB8771/Alexander-the-Great-marble-bust-British-Museum.jpg",
+    "original_width": 1600,
+    "original_height": 1200,
+    "mime": "image/jpeg",
+    "commons_sha1": null,
+    "image_description": "Marble portrait of Alexander the Great, British Museum; image chosen by the reader.",
+    "selection_note": "Exact Britannica CDN image requested by the reader on 2026-09-26.",
+    "depiction_override": "Ancient object; attribution per source",
+    "artist": "",
+    "credit": "Image supplied through Encyclopaedia Britannica CDN; exact photographic credit not verified.",
+    "attribution_text": "",
+    "permission_text": "No publication permission or open licence verified for this exact CDN file.",
+    "license": "Reuse not verified",
+    "license_url": "",
+    "usage_terms": "Check image-specific rights before public reuse.",
+    "copyrighted": "Not determined",
+    "attribution_required": "Not determined",
+    "restrictions": "Local personal collection. Public reuse rights for this exact file have not been verified; check the image rights holder before publication.",
+    "metadata_date": "2026-09-26",
+    "metadata_raw": {
+      "source": "User-supplied Britannica image URL",
+      "rights_status": "Unverified for exact CDN image"
+    },
+    "likeness_note": "",
+    "quality_note": "",
+    "download_resolution_note": ""
+  }
+}

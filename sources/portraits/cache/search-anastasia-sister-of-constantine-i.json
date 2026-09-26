@@ -1,0 +1,587 @@
+{
+  "person_id": "anastasia-sister-of-constantine-i",
+  "query": "Anastasia (sister of Constantine I)",
+  "response": {
+    "batchcomplete": true,
+    "continue": {
+      "gsroffset": 5,
+      "continue": "gsroffset||"
+    },
+    "query": {
+      "pages": [
+        {
+          "pageid": 111647,
+          "ns": 6,
+          "title": "File:Verona Italy San Anastasia DSC08245 v2.JPG",
+          "index": 1,
+          "imagerepository": "local",
+          "imageinfo": [
+            {
+              "size": 432820,
+              "width": 980,
+              "height": 1396,
+              "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c6/Verona_Italy_San_Anastasia_DSC08245_v2.JPG/500px-Verona_Italy_San_Anastasia_DSC08245_v2.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+              "thumbwidth": 400,
+              "thumbheight": 570,
+              "responsiveUrls": {
+                "2": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c6/Verona_Italy_San_Anastasia_DSC08245_v2.JPG/960px-Verona_Italy_San_Anastasia_DSC08245_v2.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+              },
+              "thumbattribs": {
+                "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c6/Verona_Italy_San_Anastasia_DSC08245_v2.JPG/500px-Verona_Italy_San_Anastasia_DSC08245_v2.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+                "decoding": "async",
+                "loading": "lazy",
+                "width": 400,
+                "height": 570,
+                "srcset": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c6/Verona_Italy_San_Anastasia_DSC08245_v2.JPG/960px-Verona_Italy_San_Anastasia_DSC08245_v2.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail 2x"
+              },
+              "url": "https://upload.wikimedia.org/wikipedia/commons/c/c6/Verona_Italy_San_Anastasia_DSC08245_v2.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+              "descriptionurl": "https://commons.wikimedia.org/wiki/File:Verona_Italy_San_Anastasia_DSC08245_v2.JPG",
+              "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=111647",
+              "extmetadata": {
+                "DateTime": {
+                  "value": "2005-04-17 06:17:18",
+                  "source": "mediawiki-metadata",
+                  "hidden": ""
+                },
+                "ObjectName": {
+                  "value": "Verona Italy San Anastasia DSC08245 v2",
+                  "source": "mediawiki-metadata"
+                },
+                "CommonsMetadataExtension": {
+                  "value": 1.2,
+                  "source": "extension",
+                  "hidden": ""
+                },
+                "Categories": {
+                  "value": "GFDL|License migration completed|Photographs and images by David Monniaux|Formerly featured pictures on Wikimedia Commons|Files with coordinates missing SDC location of creation|Santa Anastasia (Verona) - Stoup by Gabriele Caliari",
+                  "source": "commons-categories",
+                  "hidden": ""
+                },
+                "Assessments": {
+                  "value": "",
+                  "source": "commons-categories",
+                  "hidden": ""
+                },
+                "GPSLatitude": {
+                  "value": "45.445278",
+                  "source": "commons-desc-page"
+                },
+                "GPSLongitude": {
+                  "value": "11.000278",
+                  "source": "commons-desc-page"
+                },
+                "GPSMapDatum": {
+                  "value": "WGS-84",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "ImageDescription": {
+                  "value": "Santa Anastasia church, <a href=\"//commons.wikimedia.org/wiki/Verona\" title=\"Verona\">Verona</a>, <a href=\"//commons.wikimedia.org/wiki/Italy\" class=\"mw-redirect\" title=\"Italy\">Italy</a>\n<p>Detail of a pillar left of the entrance\n</p>\nContrast-enhanced version of <a href=\"//commons.wikimedia.org/wiki/File:Verona_Italy_San_Anastasia_DSC08245.JPG\" title=\"File:Verona Italy San Anastasia DSC08245.JPG\">Image:Verona Italy San Anastasia DSC08245.JPG</a>.",
+                  "source": "commons-desc-page"
+                },
+                "DateTimeOriginal": {
+                  "value": "2004",
+                  "source": "commons-desc-page"
+                },
+                "Credit": {
+                  "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+                  "source": "commons-desc-page"
+                },
+                "Artist": {
+                  "value": "<a href=\"//commons.wikimedia.org/wiki/User:David.Monniaux\" title=\"User:David.Monniaux\">David Monniaux</a>",
+                  "source": "commons-desc-page"
+                },
+                "LicenseShortName": {
+                  "value": "CC BY-SA 3.0",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "UsageTerms": {
+                  "value": "Creative Commons Attribution-Share Alike 3.0",
+                  "source": "commons-desc-page"
+                },
+                "AttributionRequired": {
+                  "value": "true",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "LicenseUrl": {
+                  "value": "http://creativecommons.org/licenses/by-sa/3.0/",
+                  "source": "commons-desc-page"
+                },
+                "Copyrighted": {
+                  "value": "True",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "Restrictions": {
+                  "value": "",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "License": {
+                  "value": "cc-by-sa-3.0",
+                  "source": "commons-templates",
+                  "hidden": ""
+                }
+              }
+            }
+          ]
+        },
+        {
+          "pageid": 27287143,
+          "ns": 6,
+          "title": "File:Grand Duchess Anastasia Nikolaevna Crisco edit letters removed.jpg",
+          "index": 4,
+          "imagerepository": "local",
+          "imageinfo": [
+            {
+              "size": 8700469,
+              "width": 3655,
+              "height": 5264,
+              "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/25/Grand_Duchess_Anastasia_Nikolaevna_Crisco_edit_letters_removed.jpg/500px-Grand_Duchess_Anastasia_Nikolaevna_Crisco_edit_letters_removed.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+              "thumbwidth": 400,
+              "thumbheight": 576,
+              "responsiveUrls": {
+                "2": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/25/Grand_Duchess_Anastasia_Nikolaevna_Crisco_edit_letters_removed.jpg/960px-Grand_Duchess_Anastasia_Nikolaevna_Crisco_edit_letters_removed.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+              },
+              "thumbattribs": {
+                "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/25/Grand_Duchess_Anastasia_Nikolaevna_Crisco_edit_letters_removed.jpg/500px-Grand_Duchess_Anastasia_Nikolaevna_Crisco_edit_letters_removed.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+                "decoding": "async",
+                "loading": "lazy",
+                "width": 400,
+                "height": 576,
+                "srcset": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/25/Grand_Duchess_Anastasia_Nikolaevna_Crisco_edit_letters_removed.jpg/960px-Grand_Duchess_Anastasia_Nikolaevna_Crisco_edit_letters_removed.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail 2x"
+              },
+              "url": "https://upload.wikimedia.org/wikipedia/commons/2/25/Grand_Duchess_Anastasia_Nikolaevna_Crisco_edit_letters_removed.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+              "descriptionurl": "https://commons.wikimedia.org/wiki/File:Grand_Duchess_Anastasia_Nikolaevna_Crisco_edit_letters_removed.jpg",
+              "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=27287143",
+              "extmetadata": {
+                "DateTime": {
+                  "value": "2013-07-18 01:01:47",
+                  "source": "mediawiki-metadata",
+                  "hidden": ""
+                },
+                "ObjectName": {
+                  "value": "Grand Duchess Anastasia Nikolaevna Crisco edit letters removed",
+                  "source": "mediawiki-metadata"
+                },
+                "CommonsMetadataExtension": {
+                  "value": 1.2,
+                  "source": "extension",
+                  "hidden": ""
+                },
+                "Categories": {
+                  "value": "Images from the Library of Congress|PD-Bain|Boasson and Eggler|Featured pictures on Wikipedia, English|Library of Congress-no known copyright restrictions|Anastasia Nikolaevna of Russia in 1914|Files with Assessments template missing SDC Commons no value quality assessment|Restorations by Chris Woodrich featured on the English Wikipedia|Anastasia Nikolaevna of Russia in photographs",
+                  "source": "commons-categories",
+                  "hidden": ""
+                },
+                "Assessments": {
+                  "value": "",
+                  "source": "commons-categories",
+                  "hidden": ""
+                },
+                "ImageDescription": {
+                  "value": "Grand Duchess Anastasia Nikolaevna of Russia; restoration completed by Crisco 1492 (uploader)",
+                  "source": "commons-desc-page"
+                },
+                "DateTimeOriginal": {
+                  "value": "Photograph: [no date recorded on caption card] (before 1918<div style=\"display: none;\">date QS:P,+1918-00-00T00:00:00Z/7,P1326,+1918-00-00T00:00:00Z/9</div>)<br>Restoration: 2013-07-16",
+                  "source": "commons-desc-page"
+                },
+                "Credit": {
+                  "value": "This image  is available from the United States <a href=\"//commons.wikimedia.org/wiki/Library_of_Congress\" title=\"Library of Congress\">Library of Congress</a>'s <a rel=\"nofollow\" class=\"external text\" href=\"//www.loc.gov/rr/print/\">Prints and Photographs division</a><br> under the digital ID <a rel=\"nofollow\" class=\"external text\" href=\"https://hdl.loc.gov/loc.pnp/ggbain.38336\">ggbain.38336</a>.<br><small>This tag does not indicate the copyright status of the attached work. <span style=\"white-space:nowrap\">A normal <a href=\"//commons.wikimedia.org/wiki/Special:MyLanguage/Commons:Copyright_tags\" title=\"Special:MyLanguage/Commons:Copyright tags\">copyright tag</a> is still required.</span> <span style=\"white-space:nowrap\">See <a href=\"//commons.wikimedia.org/wiki/Special:MyLanguage/Commons:Licensing\" title=\"Special:MyLanguage/Commons:Licensing\">Commons:Licensing</a>.</span></small>",
+                  "source": "commons-desc-page"
+                },
+                "Artist": {
+                  "value": "Boissonnas et Eggler, St. Petersburg, Nevsky 24. – Bain News Service, publisher.",
+                  "source": "commons-desc-page"
+                },
+                "LicenseShortName": {
+                  "value": "Public domain",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "UsageTerms": {
+                  "value": "Public domain",
+                  "source": "commons-desc-page"
+                },
+                "AttributionRequired": {
+                  "value": "false",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "Copyrighted": {
+                  "value": "False",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "Restrictions": {
+                  "value": "",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "License": {
+                  "value": "pd",
+                  "source": "commons-templates",
+                  "hidden": ""
+                }
+              }
+            }
+          ]
+        },
+        {
+          "pageid": 47594869,
+          "ns": 6,
+          "title": "File:Santa Anastasia (Verona) - Interior.jpg",
+          "index": 3,
+          "imagerepository": "local",
+          "imageinfo": [
+            {
+              "size": 29642542,
+              "width": 7360,
+              "height": 4912,
+              "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/13/Santa_Anastasia_%28Verona%29_-_Interior.jpg/500px-Santa_Anastasia_%28Verona%29_-_Interior.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+              "thumbwidth": 400,
+              "thumbheight": 267,
+              "responsiveUrls": {
+                "2": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/13/Santa_Anastasia_%28Verona%29_-_Interior.jpg/960px-Santa_Anastasia_%28Verona%29_-_Interior.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+              },
+              "thumbattribs": {
+                "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/13/Santa_Anastasia_%28Verona%29_-_Interior.jpg/500px-Santa_Anastasia_%28Verona%29_-_Interior.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+                "decoding": "async",
+                "loading": "lazy",
+                "width": 400,
+                "height": 267,
+                "srcset": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/13/Santa_Anastasia_%28Verona%29_-_Interior.jpg/960px-Santa_Anastasia_%28Verona%29_-_Interior.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail 2x"
+              },
+              "url": "https://upload.wikimedia.org/wikipedia/commons/1/13/Santa_Anastasia_%28Verona%29_-_Interior.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+              "descriptionurl": "https://commons.wikimedia.org/wiki/File:Santa_Anastasia_(Verona)_-_Interior.jpg",
+              "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=47594869",
+              "extmetadata": {
+                "DateTime": {
+                  "value": "2016-03-18 08:39:55",
+                  "source": "mediawiki-metadata",
+                  "hidden": ""
+                },
+                "ObjectName": {
+                  "value": "Santa Anastasia (Verona) - Interior",
+                  "source": "mediawiki-metadata"
+                },
+                "CommonsMetadataExtension": {
+                  "value": 1.2,
+                  "source": "extension",
+                  "hidden": ""
+                },
+                "Categories": {
+                  "value": "Self-published work|Images by Archaeodontosaurus Verona|Italy photographs taken on 2015-05-14|Santa Anastasia (Verona) - Interior nave|Files with coordinates missing SDC location of creation|Santa Anastasia (Verona) - Interior floor|May 2015 in Verona|Images by Archaeodontosaurus Eglises and Temples",
+                  "source": "commons-categories",
+                  "hidden": ""
+                },
+                "Assessments": {
+                  "value": "valued",
+                  "source": "commons-categories",
+                  "hidden": ""
+                },
+                "GPSLatitude": {
+                  "value": "45.445002",
+                  "source": "commons-desc-page"
+                },
+                "GPSLongitude": {
+                  "value": "10.999471",
+                  "source": "commons-desc-page"
+                },
+                "GPSMapDatum": {
+                  "value": "WGS-84",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "ImageDescription": {
+                  "value": "<a href=\"https://en.wikipedia.org/wiki/Sant%27Anastasia_(Verona)\" class=\"extiw\" title=\"en:Sant'Anastasia (Verona)\">Basilica Santa Anastasia</a>.",
+                  "source": "commons-desc-page"
+                },
+                "DateTimeOriginal": {
+                  "value": "Taken on 14 May 2015",
+                  "source": "commons-desc-page"
+                },
+                "Credit": {
+                  "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+                  "source": "commons-desc-page"
+                },
+                "Artist": {
+                  "value": "<a href=\"//commons.wikimedia.org/wiki/User:Archaeodontosaurus\" title=\"User:Archaeodontosaurus\">Didier Descouens</a>",
+                  "source": "commons-desc-page"
+                },
+                "Permission": {
+                  "value": "I, the copyright holder of this work, hereby publish it under the following license:",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "LicenseShortName": {
+                  "value": "CC BY-SA 4.0",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "UsageTerms": {
+                  "value": "Creative Commons Attribution-Share Alike 4.0",
+                  "source": "commons-desc-page"
+                },
+                "AttributionRequired": {
+                  "value": "true",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "LicenseUrl": {
+                  "value": "https://creativecommons.org/licenses/by-sa/4.0",
+                  "source": "commons-desc-page"
+                },
+                "Copyrighted": {
+                  "value": "True",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "Restrictions": {
+                  "value": "",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "License": {
+                  "value": "cc-by-sa-4.0",
+                  "source": "commons-templates",
+                  "hidden": ""
+                }
+              }
+            }
+          ]
+        },
+        {
+          "pageid": 48361516,
+          "ns": 6,
+          "title": "File:Santa Anastasia (Verona) - Cappella Giusti - Entrance.jpg",
+          "index": 5,
+          "imagerepository": "local",
+          "imageinfo": [
+            {
+              "size": 13535054,
+              "width": 6328,
+              "height": 3832,
+              "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a4/Santa_Anastasia_%28Verona%29_-_Cappella_Giusti_-_Entrance.jpg/500px-Santa_Anastasia_%28Verona%29_-_Cappella_Giusti_-_Entrance.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+              "thumbwidth": 400,
+              "thumbheight": 242,
+              "responsiveUrls": {
+                "2": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a4/Santa_Anastasia_%28Verona%29_-_Cappella_Giusti_-_Entrance.jpg/960px-Santa_Anastasia_%28Verona%29_-_Cappella_Giusti_-_Entrance.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+              },
+              "thumbattribs": {
+                "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a4/Santa_Anastasia_%28Verona%29_-_Cappella_Giusti_-_Entrance.jpg/500px-Santa_Anastasia_%28Verona%29_-_Cappella_Giusti_-_Entrance.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+                "decoding": "async",
+                "loading": "lazy",
+                "width": 400,
+                "height": 242,
+                "srcset": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a4/Santa_Anastasia_%28Verona%29_-_Cappella_Giusti_-_Entrance.jpg/960px-Santa_Anastasia_%28Verona%29_-_Cappella_Giusti_-_Entrance.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail 2x"
+              },
+              "url": "https://upload.wikimedia.org/wikipedia/commons/a/a4/Santa_Anastasia_%28Verona%29_-_Cappella_Giusti_-_Entrance.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+              "descriptionurl": "https://commons.wikimedia.org/wiki/File:Santa_Anastasia_(Verona)_-_Cappella_Giusti_-_Entrance.jpg",
+              "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=48361516",
+              "extmetadata": {
+                "DateTime": {
+                  "value": "2016-04-25 07:46:22",
+                  "source": "mediawiki-metadata",
+                  "hidden": ""
+                },
+                "ObjectName": {
+                  "value": "Santa Anastasia (Verona) - Cappella Giusti - Entrance",
+                  "source": "mediawiki-metadata"
+                },
+                "CommonsMetadataExtension": {
+                  "value": 1.2,
+                  "source": "extension",
+                  "hidden": ""
+                },
+                "Categories": {
+                  "value": "Self-published work|Images by Archaeodontosaurus Verona|Paintings without Wikidata item|Italy photographs taken on 2015-05-14|Files with coordinates missing SDC location of creation|Santa Anastasia (Verona) - Cappella Giusti|Santa Anastasia (Verona) - Left transept|May 2015 in Verona|Images by Archaeodontosaurus Eglises and Temples",
+                  "source": "commons-categories",
+                  "hidden": ""
+                },
+                "Assessments": {
+                  "value": "valued",
+                  "source": "commons-categories",
+                  "hidden": ""
+                },
+                "GPSLatitude": {
+                  "value": "45.445002",
+                  "source": "commons-desc-page"
+                },
+                "GPSLongitude": {
+                  "value": "10.999471",
+                  "source": "commons-desc-page"
+                },
+                "GPSMapDatum": {
+                  "value": "WGS-84",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "DateTimeOriginal": {
+                  "value": "Taken on 14 May 2015",
+                  "source": "commons-desc-page"
+                },
+                "Credit": {
+                  "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+                  "source": "commons-desc-page"
+                },
+                "Artist": {
+                  "value": "<a href=\"//commons.wikimedia.org/wiki/User:Archaeodontosaurus\" title=\"User:Archaeodontosaurus\">Didier Descouens</a>",
+                  "source": "commons-desc-page"
+                },
+                "Permission": {
+                  "value": "I, the copyright holder of this work, hereby publish it under the following license:",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "LicenseShortName": {
+                  "value": "CC BY-SA 4.0",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "UsageTerms": {
+                  "value": "Creative Commons Attribution-Share Alike 4.0",
+                  "source": "commons-desc-page"
+                },
+                "AttributionRequired": {
+                  "value": "true",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "LicenseUrl": {
+                  "value": "https://creativecommons.org/licenses/by-sa/4.0",
+                  "source": "commons-desc-page"
+                },
+                "Copyrighted": {
+                  "value": "True",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "Restrictions": {
+                  "value": "",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "License": {
+                  "value": "cc-by-sa-4.0",
+                  "source": "commons-templates",
+                  "hidden": ""
+                }
+              }
+            }
+          ]
+        },
+        {
+          "pageid": 48498662,
+          "ns": 6,
+          "title": "File:Santa Anastasia (Verona) - Monument to Cortesia Serego.jpg",
+          "index": 2,
+          "imagerepository": "local",
+          "imageinfo": [
+            {
+              "size": 27542415,
+              "width": 4571,
+              "height": 6463,
+              "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/14/Santa_Anastasia_%28Verona%29_-_Monument_to_Cortesia_Serego.jpg/500px-Santa_Anastasia_%28Verona%29_-_Monument_to_Cortesia_Serego.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+              "thumbwidth": 400,
+              "thumbheight": 566,
+              "responsiveUrls": {
+                "2": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/14/Santa_Anastasia_%28Verona%29_-_Monument_to_Cortesia_Serego.jpg/960px-Santa_Anastasia_%28Verona%29_-_Monument_to_Cortesia_Serego.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+              },
+              "thumbattribs": {
+                "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/14/Santa_Anastasia_%28Verona%29_-_Monument_to_Cortesia_Serego.jpg/500px-Santa_Anastasia_%28Verona%29_-_Monument_to_Cortesia_Serego.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+                "decoding": "async",
+                "loading": "lazy",
+                "width": 400,
+                "height": 566,
+                "srcset": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/14/Santa_Anastasia_%28Verona%29_-_Monument_to_Cortesia_Serego.jpg/960px-Santa_Anastasia_%28Verona%29_-_Monument_to_Cortesia_Serego.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail 2x"
+              },
+              "url": "https://upload.wikimedia.org/wikipedia/commons/1/14/Santa_Anastasia_%28Verona%29_-_Monument_to_Cortesia_Serego.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+              "descriptionurl": "https://commons.wikimedia.org/wiki/File:Santa_Anastasia_(Verona)_-_Monument_to_Cortesia_Serego.jpg",
+              "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=48498662",
+              "extmetadata": {
+                "DateTime": {
+                  "value": "2016-05-02 06:27:59",
+                  "source": "mediawiki-metadata",
+                  "hidden": ""
+                },
+                "ObjectName": {
+                  "value": "Santa Anastasia (Verona) - Monument to Cortesia Serego",
+                  "source": "mediawiki-metadata"
+                },
+                "CommonsMetadataExtension": {
+                  "value": 1.2,
+                  "source": "extension",
+                  "hidden": ""
+                },
+                "Categories": {
+                  "value": "Self-published work|Images by Archaeodontosaurus Verona|Paintings without Wikidata item|Photographs taken on 2015-05-14|Santa Anastasia (Verona) - Monument to Cortesia Serego|May 2015 in Verona|Images by Archaeodontosaurus Eglises and Temples",
+                  "source": "commons-categories",
+                  "hidden": ""
+                },
+                "Assessments": {
+                  "value": "valued",
+                  "source": "commons-categories",
+                  "hidden": ""
+                },
+                "DateTimeOriginal": {
+                  "value": "Taken on 14 May 2015",
+                  "source": "commons-desc-page"
+                },
+                "Credit": {
+                  "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+                  "source": "commons-desc-page"
+                },
+                "Artist": {
+                  "value": "<a href=\"//commons.wikimedia.org/wiki/User:Archaeodontosaurus\" title=\"User:Archaeodontosaurus\">Didier Descouens</a>",
+                  "source": "commons-desc-page"
+                },
+                "Permission": {
+                  "value": "I, the copyright holder of this work, hereby publish it under the following license:",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "LicenseShortName": {
+                  "value": "CC BY-SA 4.0",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "UsageTerms": {
+                  "value": "Creative Commons Attribution-Share Alike 4.0",
+                  "source": "commons-desc-page"
+                },
+                "AttributionRequired": {
+                  "value": "true",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "LicenseUrl": {
+                  "value": "https://creativecommons.org/licenses/by-sa/4.0",
+                  "source": "commons-desc-page"
+                },
+                "Copyrighted": {
+                  "value": "True",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "Restrictions": {
+                  "value": "",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "License": {
+                  "value": "cc-by-sa-4.0",
+                  "source": "commons-templates",
+                  "hidden": ""
+                }
+              }
+            }
+          ]
+        }
+      ]
+    }
+  }
+}

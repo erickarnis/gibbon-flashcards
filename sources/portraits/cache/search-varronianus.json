@@ -1,0 +1,490 @@
+{
+  "person_id": "varronianus",
+  "query": "Varronianus",
+  "response": {
+    "batchcomplete": true,
+    "continue": {
+      "gsroffset": 5,
+      "continue": "gsroffset||"
+    },
+    "query": {
+      "pages": [
+        {
+          "pageid": 91604945,
+          "ns": 6,
+          "title": "File:Varronianus- a critical and historical introduction to the philological study of the Latin language (IA varronianuscriti00don).pdf",
+          "index": 1,
+          "imagerepository": "local",
+          "imageinfo": [
+            {
+              "size": 15927051,
+              "width": 641,
+              "height": 1045,
+              "pagecount": 326,
+              "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f7/Varronianus-_a_critical_and_historical_introduction_to_the_philological_study_of_the_Latin_language_%28IA_varronianuscriti00don%29.pdf/page1-500px-Varronianus-_a_critical_and_historical_introduction_to_the_philological_study_of_the_Latin_language_%28IA_varronianuscriti00don%29.pdf.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+              "thumbwidth": 400,
+              "thumbheight": 652,
+              "thumbattribs": {
+                "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f7/Varronianus-_a_critical_and_historical_introduction_to_the_philological_study_of_the_Latin_language_%28IA_varronianuscriti00don%29.pdf/page1-500px-Varronianus-_a_critical_and_historical_introduction_to_the_philological_study_of_the_Latin_language_%28IA_varronianuscriti00don%29.pdf.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+                "decoding": "async",
+                "loading": "lazy",
+                "width": 400,
+                "height": 652
+              },
+              "url": "https://upload.wikimedia.org/wikipedia/commons/f/f7/Varronianus-_a_critical_and_historical_introduction_to_the_philological_study_of_the_Latin_language_%28IA_varronianuscriti00don%29.pdf?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+              "descriptionurl": "https://commons.wikimedia.org/wiki/File:Varronianus-_a_critical_and_historical_introduction_to_the_philological_study_of_the_Latin_language_(IA_varronianuscriti00don).pdf",
+              "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=91604945",
+              "extmetadata": {
+                "DateTime": {
+                  "value": "2020-06-26 18:57:19",
+                  "source": "mediawiki-metadata",
+                  "hidden": ""
+                },
+                "ObjectName": {
+                  "value": "<div class=\"fn\">\nVarronianus: a critical and historical introduction to the philological study of the Latin language</div>",
+                  "source": "commons-desc-page"
+                },
+                "CommonsMetadataExtension": {
+                  "value": 1.2,
+                  "source": "extension",
+                  "hidden": ""
+                },
+                "Categories": {
+                  "value": "John William Donaldson|Scans from the Internet Archive/unverified|PD US expired|Scans from the Internet Archive|Books uploaded by Fæ|Books without Wikidata item|Books in the Library of Congress",
+                  "source": "commons-categories",
+                  "hidden": ""
+                },
+                "Assessments": {
+                  "value": "",
+                  "source": "commons-categories",
+                  "hidden": ""
+                },
+                "Artist": {
+                  "value": "<div class=\"fn value\">\nDonaldson, John William, 1811-1861</div>",
+                  "source": "commons-desc-page"
+                },
+                "ImageDescription": {
+                  "value": "<div class=\"description\">\nSubjects: Latin language; Italic languages and dialects; Ethnology</div>",
+                  "source": "commons-desc-page"
+                },
+                "Credit": {
+                  "value": "<dl><dd><a href=\"//archive.org/details/varronianuscriti00don\" class=\"extiw\" title=\"iarchive:varronianuscriti00don\"><bdi class=\"description en\" lang=\"en\" dir=\"ltr\">Internet Archive identifier</bdi>: varronianuscriti00don</a></dd>\n<dd><a rel=\"nofollow\" class=\"external free\" href=\"https://archive.org/download/varronianuscriti00don/varronianuscriti00don.pdf\">https://archive.org/download/varronianuscriti00don/varronianuscriti00don.pdf</a></dd></dl>",
+                  "source": "commons-desc-page"
+                },
+                "LicenseShortName": {
+                  "value": "Public domain",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "UsageTerms": {
+                  "value": "Public domain",
+                  "source": "commons-desc-page"
+                },
+                "AttributionRequired": {
+                  "value": "false",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "Copyrighted": {
+                  "value": "False",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "Restrictions": {
+                  "value": "",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "License": {
+                  "value": "pd",
+                  "source": "commons-templates",
+                  "hidden": ""
+                }
+              }
+            }
+          ]
+        },
+        {
+          "pageid": 91752698,
+          "ns": 6,
+          "title": "File:Varronianus- a critical and historical introduction to the ethnography of ancient Italy and to the philological study of the Latin language (IA varronianuscriti00dona).pdf",
+          "index": 5,
+          "imagerepository": "local",
+          "imageinfo": [
+            {
+              "size": 50503009,
+              "width": 743,
+              "height": 1262,
+              "pagecount": 614,
+              "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/de/Varronianus-_a_critical_and_historical_introduction_to_the_ethnography_of_ancient_Italy_and_to_the_philological_study_of_the_Latin_language_%28IA_varronianuscriti00dona%29.pdf/page1-500px-thumbnail.pdf.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+              "thumbwidth": 400,
+              "thumbheight": 679,
+              "thumbattribs": {
+                "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/de/Varronianus-_a_critical_and_historical_introduction_to_the_ethnography_of_ancient_Italy_and_to_the_philological_study_of_the_Latin_language_%28IA_varronianuscriti00dona%29.pdf/page1-500px-thumbnail.pdf.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+                "decoding": "async",
+                "loading": "lazy",
+                "width": 400,
+                "height": 679
+              },
+              "url": "https://upload.wikimedia.org/wikipedia/commons/d/de/Varronianus-_a_critical_and_historical_introduction_to_the_ethnography_of_ancient_Italy_and_to_the_philological_study_of_the_Latin_language_%28IA_varronianuscriti00dona%29.pdf?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+              "descriptionurl": "https://commons.wikimedia.org/wiki/File:Varronianus-_a_critical_and_historical_introduction_to_the_ethnography_of_ancient_Italy_and_to_the_philological_study_of_the_Latin_language_(IA_varronianuscriti00dona).pdf",
+              "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=91752698",
+              "extmetadata": {
+                "DateTime": {
+                  "value": "2020-06-30 15:51:28",
+                  "source": "mediawiki-metadata",
+                  "hidden": ""
+                },
+                "ObjectName": {
+                  "value": "<div class=\"fn\">\nVarronianus: a critical and historical introduction to the ethnography of ancient Italy and to the philological study of the Latin language</div>",
+                  "source": "commons-desc-page"
+                },
+                "CommonsMetadataExtension": {
+                  "value": 1.2,
+                  "source": "extension",
+                  "hidden": ""
+                },
+                "Categories": {
+                  "value": "John William Donaldson|Scans from the Internet Archive/unverified|PD US expired|Scans from the Internet Archive|Books uploaded by Fæ|Books without Wikidata item|Books in the Library of Congress",
+                  "source": "commons-categories",
+                  "hidden": ""
+                },
+                "Assessments": {
+                  "value": "",
+                  "source": "commons-categories",
+                  "hidden": ""
+                },
+                "Artist": {
+                  "value": "<div class=\"fn value\">\nDonaldson, John William, 1811-1861</div>",
+                  "source": "commons-desc-page"
+                },
+                "ImageDescription": {
+                  "value": "<div class=\"description\">\n<p>Published originally with title: Varronianus: a critical and historical introduction to the philological study of the Latin language\n</p>\n<br>Subjects: Latin language; Italic languages and dialects; Ethnology</div>",
+                  "source": "commons-desc-page"
+                },
+                "Credit": {
+                  "value": "<dl><dd><a href=\"//archive.org/details/varronianuscriti00dona\" class=\"extiw\" title=\"iarchive:varronianuscriti00dona\"><bdi class=\"description en\" lang=\"en\" dir=\"ltr\">Internet Archive identifier</bdi>: varronianuscriti00dona</a></dd>\n<dd><a rel=\"nofollow\" class=\"external free\" href=\"https://archive.org/download/varronianuscriti00dona/varronianuscriti00dona.pdf\">https://archive.org/download/varronianuscriti00dona/varronianuscriti00dona.pdf</a></dd></dl>",
+                  "source": "commons-desc-page"
+                },
+                "LicenseShortName": {
+                  "value": "Public domain",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "UsageTerms": {
+                  "value": "Public domain",
+                  "source": "commons-desc-page"
+                },
+                "AttributionRequired": {
+                  "value": "false",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "Copyrighted": {
+                  "value": "False",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "Restrictions": {
+                  "value": "",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "License": {
+                  "value": "pd",
+                  "source": "commons-templates",
+                  "hidden": ""
+                }
+              }
+            }
+          ]
+        },
+        {
+          "pageid": 97016237,
+          "ns": 6,
+          "title": "File:Varronianus- a critical and historical introduction to the ethnography of ancient Italy and to the philological study of the Latin language (IA varronianuscriti00donaiala).pdf",
+          "index": 3,
+          "imagerepository": "local",
+          "imageinfo": [
+            {
+              "size": 35499639,
+              "width": 814,
+              "height": 1333,
+              "pagecount": 614,
+              "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5b/Varronianus-_a_critical_and_historical_introduction_to_the_ethnography_of_ancient_Italy_and_to_the_philological_study_of_the_Latin_language_%28IA_varronianuscriti00donaiala%29.pdf/page1-500px-thumbnail.pdf.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+              "thumbwidth": 400,
+              "thumbheight": 655,
+              "thumbattribs": {
+                "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5b/Varronianus-_a_critical_and_historical_introduction_to_the_ethnography_of_ancient_Italy_and_to_the_philological_study_of_the_Latin_language_%28IA_varronianuscriti00donaiala%29.pdf/page1-500px-thumbnail.pdf.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+                "decoding": "async",
+                "loading": "lazy",
+                "width": 400,
+                "height": 655
+              },
+              "url": "https://upload.wikimedia.org/wikipedia/commons/5/5b/Varronianus-_a_critical_and_historical_introduction_to_the_ethnography_of_ancient_Italy_and_to_the_philological_study_of_the_Latin_language_%28IA_varronianuscriti00donaiala%29.pdf?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+              "descriptionurl": "https://commons.wikimedia.org/wiki/File:Varronianus-_a_critical_and_historical_introduction_to_the_ethnography_of_ancient_Italy_and_to_the_philological_study_of_the_Latin_language_(IA_varronianuscriti00donaiala).pdf",
+              "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=97016237",
+              "extmetadata": {
+                "DateTime": {
+                  "value": "2020-11-27 05:15:15",
+                  "source": "mediawiki-metadata",
+                  "hidden": ""
+                },
+                "ObjectName": {
+                  "value": "<div class=\"fn\">\nVarronianus: a critical and historical introduction to the ethnography of ancient Italy and to the philological study of the Latin language</div>",
+                  "source": "commons-desc-page"
+                },
+                "CommonsMetadataExtension": {
+                  "value": 1.2,
+                  "source": "extension",
+                  "hidden": ""
+                },
+                "Categories": {
+                  "value": "John William Donaldson|Scans from the Internet Archive/unverified|PD US expired|Scans from the Internet Archive|Books uploaded by Fæ|Books without Wikidata item|California Digital Library|PD-US missing SDC copyright status",
+                  "source": "commons-categories",
+                  "hidden": ""
+                },
+                "Assessments": {
+                  "value": "",
+                  "source": "commons-categories",
+                  "hidden": ""
+                },
+                "Artist": {
+                  "value": "<div class=\"fn value\">\nDonaldson, John William, 1811-1861</div>",
+                  "source": "commons-desc-page"
+                },
+                "ImageDescription": {
+                  "value": "<div class=\"description\">\nSubjects: Latin language -- History; Italic languages and dialects; Ethnology -- Italy</div>",
+                  "source": "commons-desc-page"
+                },
+                "Credit": {
+                  "value": "<dl><dd><a href=\"//archive.org/details/varronianuscriti00donaiala\" class=\"extiw\" title=\"iarchive:varronianuscriti00donaiala\"><bdi class=\"description en\" lang=\"en\" dir=\"ltr\">Internet Archive identifier</bdi>: varronianuscriti00donaiala</a></dd>\n<dd><a rel=\"nofollow\" class=\"external free\" href=\"https://archive.org/download/varronianuscriti00donaiala/varronianuscriti00donaiala.pdf\">https://archive.org/download/varronianuscriti00donaiala/varronianuscriti00donaiala.pdf</a></dd></dl>",
+                  "source": "commons-desc-page"
+                },
+                "LicenseShortName": {
+                  "value": "Public domain",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "UsageTerms": {
+                  "value": "Public domain",
+                  "source": "commons-desc-page"
+                },
+                "AttributionRequired": {
+                  "value": "false",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "Copyrighted": {
+                  "value": "False",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "Restrictions": {
+                  "value": "",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "License": {
+                  "value": "pd",
+                  "source": "commons-templates",
+                  "hidden": ""
+                }
+              }
+            }
+          ]
+        },
+        {
+          "pageid": 97016286,
+          "ns": 6,
+          "title": "File:Varronianus- a critical and historical introduction to the ethnography of ancient Italy and to the philological study of the Latin language (IA varronianuscriti00donarich).pdf",
+          "index": 2,
+          "imagerepository": "local",
+          "imageinfo": [
+            {
+              "size": 36651830,
+              "width": 772,
+              "height": 1241,
+              "pagecount": 512,
+              "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/bc/Varronianus-_a_critical_and_historical_introduction_to_the_ethnography_of_ancient_Italy_and_to_the_philological_study_of_the_Latin_language_%28IA_varronianuscriti00donarich%29.pdf/page1-500px-thumbnail.pdf.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+              "thumbwidth": 400,
+              "thumbheight": 643,
+              "thumbattribs": {
+                "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/bc/Varronianus-_a_critical_and_historical_introduction_to_the_ethnography_of_ancient_Italy_and_to_the_philological_study_of_the_Latin_language_%28IA_varronianuscriti00donarich%29.pdf/page1-500px-thumbnail.pdf.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+                "decoding": "async",
+                "loading": "lazy",
+                "width": 400,
+                "height": 643
+              },
+              "url": "https://upload.wikimedia.org/wikipedia/commons/b/bc/Varronianus-_a_critical_and_historical_introduction_to_the_ethnography_of_ancient_Italy_and_to_the_philological_study_of_the_Latin_language_%28IA_varronianuscriti00donarich%29.pdf?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+              "descriptionurl": "https://commons.wikimedia.org/wiki/File:Varronianus-_a_critical_and_historical_introduction_to_the_ethnography_of_ancient_Italy_and_to_the_philological_study_of_the_Latin_language_(IA_varronianuscriti00donarich).pdf",
+              "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=97016286",
+              "extmetadata": {
+                "DateTime": {
+                  "value": "2020-11-27 05:16:07",
+                  "source": "mediawiki-metadata",
+                  "hidden": ""
+                },
+                "ObjectName": {
+                  "value": "<div class=\"fn\">\nVarronianus: a critical and historical introduction to the ethnography of ancient Italy and to the philological study of the Latin language</div>",
+                  "source": "commons-desc-page"
+                },
+                "CommonsMetadataExtension": {
+                  "value": 1.2,
+                  "source": "extension",
+                  "hidden": ""
+                },
+                "Categories": {
+                  "value": "John William Donaldson|Scans from the Internet Archive/unverified|PD US expired|Scans from the Internet Archive|Books published in London|Books uploaded by Fæ|Books without Wikidata item|California Digital Library",
+                  "source": "commons-categories",
+                  "hidden": ""
+                },
+                "Assessments": {
+                  "value": "",
+                  "source": "commons-categories",
+                  "hidden": ""
+                },
+                "Artist": {
+                  "value": "<div class=\"fn value\">\nDonaldson, John William, 1811-1861</div>",
+                  "source": "commons-desc-page"
+                },
+                "ImageDescription": {
+                  "value": "<div class=\"description\">\nSubjects: Latin language -- History; Italic languages and dialects; Ethnology -- Italy</div>",
+                  "source": "commons-desc-page"
+                },
+                "Credit": {
+                  "value": "<dl><dd><a href=\"//archive.org/details/varronianuscriti00donarich\" class=\"extiw\" title=\"iarchive:varronianuscriti00donarich\"><bdi class=\"description en\" lang=\"en\" dir=\"ltr\">Internet Archive identifier</bdi>: varronianuscriti00donarich</a></dd>\n<dd><a rel=\"nofollow\" class=\"external free\" href=\"https://archive.org/download/varronianuscriti00donarich/varronianuscriti00donarich.pdf\">https://archive.org/download/varronianuscriti00donarich/varronianuscriti00donarich.pdf</a></dd></dl>",
+                  "source": "commons-desc-page"
+                },
+                "LicenseShortName": {
+                  "value": "Public domain",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "UsageTerms": {
+                  "value": "Public domain",
+                  "source": "commons-desc-page"
+                },
+                "AttributionRequired": {
+                  "value": "false",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "Copyrighted": {
+                  "value": "False",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "Restrictions": {
+                  "value": "",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "License": {
+                  "value": "pd",
+                  "source": "commons-templates",
+                  "hidden": ""
+                }
+              }
+            }
+          ]
+        },
+        {
+          "pageid": 97740408,
+          "ns": 6,
+          "title": "File:Varronianus- a critical and historical introduction to the ethnography of ancient Italy and to the philological study of the Latin language (IA cu31924021611466).pdf",
+          "index": 4,
+          "imagerepository": "local",
+          "imageinfo": [
+            {
+              "size": 14830323,
+              "width": 758,
+              "height": 1218,
+              "pagecount": 529,
+              "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/70/Varronianus-_a_critical_and_historical_introduction_to_the_ethnography_of_ancient_Italy_and_to_the_philological_study_of_the_Latin_language_%28IA_cu31924021611466%29.pdf/page1-500px-thumbnail.pdf.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+              "thumbwidth": 400,
+              "thumbheight": 643,
+              "thumbattribs": {
+                "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/70/Varronianus-_a_critical_and_historical_introduction_to_the_ethnography_of_ancient_Italy_and_to_the_philological_study_of_the_Latin_language_%28IA_cu31924021611466%29.pdf/page1-500px-thumbnail.pdf.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+                "decoding": "async",
+                "loading": "lazy",
+                "width": 400,
+                "height": 643
+              },
+              "url": "https://upload.wikimedia.org/wikipedia/commons/7/70/Varronianus-_a_critical_and_historical_introduction_to_the_ethnography_of_ancient_Italy_and_to_the_philological_study_of_the_Latin_language_%28IA_cu31924021611466%29.pdf?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+              "descriptionurl": "https://commons.wikimedia.org/wiki/File:Varronianus-_a_critical_and_historical_introduction_to_the_ethnography_of_ancient_Italy_and_to_the_philological_study_of_the_Latin_language_(IA_cu31924021611466).pdf",
+              "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=97740408",
+              "extmetadata": {
+                "DateTime": {
+                  "value": "2020-12-18 06:12:32",
+                  "source": "mediawiki-metadata",
+                  "hidden": ""
+                },
+                "ObjectName": {
+                  "value": "<div class=\"fn\">\nVarronianus: a critical and historical introduction to the ethnography of ancient Italy and to the philological study of the Latin language</div>",
+                  "source": "commons-desc-page"
+                },
+                "CommonsMetadataExtension": {
+                  "value": 1.2,
+                  "source": "extension",
+                  "hidden": ""
+                },
+                "Categories": {
+                  "value": "PD-old-100-expired|John William Donaldson|Scans from the Internet Archive/unverified|CC-PD-Mark|Scans from the Internet Archive|Books published in London|Books uploaded by Fæ|Books without Wikidata item|Scans from Cornell University Library|PD-old missing SDC copyright status",
+                  "source": "commons-categories",
+                  "hidden": ""
+                },
+                "Assessments": {
+                  "value": "",
+                  "source": "commons-categories",
+                  "hidden": ""
+                },
+                "Artist": {
+                  "value": "<div class=\"fn value\">\nDonaldson, John William, 1811-1861</div>",
+                  "source": "commons-desc-page"
+                },
+                "ImageDescription": {
+                  "value": "<div class=\"description\">\n<dl><dd>The metadata below describe the original scanning. Follow the \"All Files: HTTP\" link in the \"View the book\" box to the left to find XML files that contain more metadata about the original images and the derived formats (OCR results, PDF etc.). See also the <a rel=\"nofollow\" class=\"external text\" href=\"https://archive.org/about/faqs.php#140\">What is the directory structure for the texts?</a> FAQ for information about file content and naming conventions.</dd>\n<dd>Published originally with title: Varronianus: a critical and historical introduction to the philological study of the Latin language</dd></dl>\n<br>Subjects: Latin language; Italic languages and dialects; Ethnology</div>",
+                  "source": "commons-desc-page"
+                },
+                "Credit": {
+                  "value": "<dl><dd><a href=\"//archive.org/details/cu31924021611466\" class=\"extiw\" title=\"iarchive:cu31924021611466\"><bdi class=\"description en\" lang=\"en\" dir=\"ltr\">Internet Archive identifier</bdi>: cu31924021611466</a></dd>\n<dd><a rel=\"nofollow\" class=\"external free\" href=\"https://archive.org/download/cu31924021611466/cu31924021611466.pdf\">https://archive.org/download/cu31924021611466/cu31924021611466.pdf</a></dd></dl>",
+                  "source": "commons-desc-page"
+                },
+                "LicenseShortName": {
+                  "value": "Public domain",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "UsageTerms": {
+                  "value": "Public domain",
+                  "source": "commons-desc-page"
+                },
+                "AttributionRequired": {
+                  "value": "false",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "Copyrighted": {
+                  "value": "False",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "Restrictions": {
+                  "value": "",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "License": {
+                  "value": "pd",
+                  "source": "commons-templates",
+                  "hidden": ""
+                }
+              }
+            }
+          ]
+        }
+      ]
+    }
+  }
+}

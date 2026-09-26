@@ -1,0 +1,550 @@
+{
+  "person_id": "julius-constantius",
+  "query": "Julius Constantius",
+  "response": {
+    "batchcomplete": true,
+    "continue": {
+      "gsroffset": 5,
+      "continue": "gsroffset||"
+    },
+    "query": {
+      "pages": [
+        {
+          "pageid": 5715964,
+          "ns": 6,
+          "title": "File:Bust of Constantius II (Mary Harrsch).jpg",
+          "index": 1,
+          "imagerepository": "local",
+          "imageinfo": [
+            {
+              "size": 62851,
+              "width": 564,
+              "height": 800,
+              "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/30/Bust_of_Constantius_II_%28Mary_Harrsch%29.jpg/500px-Bust_of_Constantius_II_%28Mary_Harrsch%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+              "thumbwidth": 400,
+              "thumbheight": 567,
+              "responsiveUrls": {
+                "2": "https://upload.wikimedia.org/wikipedia/commons/3/30/Bust_of_Constantius_II_%28Mary_Harrsch%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled"
+              },
+              "thumbattribs": {
+                "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/30/Bust_of_Constantius_II_%28Mary_Harrsch%29.jpg/500px-Bust_of_Constantius_II_%28Mary_Harrsch%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+                "decoding": "async",
+                "loading": "lazy",
+                "width": 400,
+                "height": 567,
+                "srcset": "https://upload.wikimedia.org/wikipedia/commons/3/30/Bust_of_Constantius_II_%28Mary_Harrsch%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled 2x"
+              },
+              "url": "https://upload.wikimedia.org/wikipedia/commons/3/30/Bust_of_Constantius_II_%28Mary_Harrsch%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+              "descriptionurl": "https://commons.wikimedia.org/wiki/File:Bust_of_Constantius_II_(Mary_Harrsch).jpg",
+              "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=5715964",
+              "extmetadata": {
+                "DateTime": {
+                  "value": "2023-06-15 17:07:45",
+                  "source": "mediawiki-metadata",
+                  "hidden": ""
+                },
+                "ObjectName": {
+                  "value": "Bust of Constantius II (Mary Harrsch)",
+                  "source": "mediawiki-metadata"
+                },
+                "CommonsMetadataExtension": {
+                  "value": 1.2,
+                  "source": "extension",
+                  "hidden": ""
+                },
+                "Categories": {
+                  "value": "Pannonia|Constantius II|Flickr images reviewed by FlickreviewR|Files with derivative versions|Photographs by Mary Harrsch|Busts of Constantius II|Flickr images missing SDC source of file|Ancient Roman busts in the United States|Roman Art in the University of Pennsylvania Museum|Flickr images missing SDC Flickr photo ID|Flickr images missing SDC published in",
+                  "source": "commons-categories",
+                  "hidden": ""
+                },
+                "Assessments": {
+                  "value": "",
+                  "source": "commons-categories",
+                  "hidden": ""
+                },
+                "ImageDescription": {
+                  "value": "A bust of the Roman Emperor <a href=\"https://en.wikipedia.org/wiki/Constantius_II\" class=\"extiw\" title=\"en:Constantius II\">Constantius II</a> from Syria. This object is today located in the collection of the University of Pennsylvania's Museum of Archaeology. Constantius II was the second of Constantine I's three sons and ruled the Roman Empire, sometimes in co-rulership with his 2 brothers, between 337 and 361 AD.",
+                  "source": "commons-desc-page"
+                },
+                "DateTimeOriginal": {
+                  "value": "2005-09-17",
+                  "source": "commons-desc-page"
+                },
+                "Credit": {
+                  "value": "<a rel=\"nofollow\" class=\"external free\" href=\"https://www.flickr.com/photos/44124324682@N01/58193791/in/set-31666/\">https://www.flickr.com/photos/44124324682@N01/58193791/in/set-31666/</a>",
+                  "source": "commons-desc-page"
+                },
+                "Artist": {
+                  "value": "<a rel=\"nofollow\" class=\"external text\" href=\"https://www.flickr.com/people/44124324682@N01/\">Mary Harrsch</a>",
+                  "source": "commons-desc-page"
+                },
+                "LicenseShortName": {
+                  "value": "CC BY-SA 2.0",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "UsageTerms": {
+                  "value": "Creative Commons Attribution-Share Alike 2.0",
+                  "source": "commons-desc-page"
+                },
+                "AttributionRequired": {
+                  "value": "true",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "LicenseUrl": {
+                  "value": "https://creativecommons.org/licenses/by-sa/2.0",
+                  "source": "commons-desc-page"
+                },
+                "Copyrighted": {
+                  "value": "True",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "Restrictions": {
+                  "value": "",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "License": {
+                  "value": "cc-by-sa-2.0",
+                  "source": "commons-templates",
+                  "hidden": ""
+                }
+              }
+            }
+          ]
+        },
+        {
+          "pageid": 125834053,
+          "ns": 6,
+          "title": "File:Medallion of Constantius II (obverse).png",
+          "index": 5,
+          "imagerepository": "local",
+          "imageinfo": [
+            {
+              "size": 2128265,
+              "width": 1116,
+              "height": 1063,
+              "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0a/Medallion_of_Constantius_II_%28obverse%29.png/500px-Medallion_of_Constantius_II_%28obverse%29.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+              "thumbwidth": 400,
+              "thumbheight": 381,
+              "responsiveUrls": {
+                "2": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0a/Medallion_of_Constantius_II_%28obverse%29.png/960px-Medallion_of_Constantius_II_%28obverse%29.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+              },
+              "thumbattribs": {
+                "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0a/Medallion_of_Constantius_II_%28obverse%29.png/500px-Medallion_of_Constantius_II_%28obverse%29.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+                "decoding": "async",
+                "loading": "lazy",
+                "width": 400,
+                "height": 381,
+                "srcset": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0a/Medallion_of_Constantius_II_%28obverse%29.png/960px-Medallion_of_Constantius_II_%28obverse%29.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail 2x"
+              },
+              "url": "https://upload.wikimedia.org/wikipedia/commons/0/0a/Medallion_of_Constantius_II_%28obverse%29.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+              "descriptionurl": "https://commons.wikimedia.org/wiki/File:Medallion_of_Constantius_II_(obverse).png",
+              "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=125834053",
+              "extmetadata": {
+                "DateTime": {
+                  "value": "2022-11-23 03:03:37",
+                  "source": "mediawiki-metadata",
+                  "hidden": ""
+                },
+                "ObjectName": {
+                  "value": "Medallion of Constantius II (obverse)",
+                  "source": "mediawiki-metadata"
+                },
+                "CommonsMetadataExtension": {
+                  "value": 1.2,
+                  "source": "extension",
+                  "hidden": ""
+                },
+                "Categories": {
+                  "value": "Roman medallion|Medals of Constantius II|Constantius II on coins",
+                  "source": "commons-categories",
+                  "hidden": ""
+                },
+                "Assessments": {
+                  "value": "",
+                  "source": "commons-categories",
+                  "hidden": ""
+                },
+                "ImageDescription": {
+                  "value": "<b>Constantius II. 337-361 AD.</b> Gold medallion, two solidi, 8.55g (6h). Thessalonica, 350-5 AD. Obv: FL IVL CONSTAN - TIVS PERP AVG Pearl-diademed, draped, cuirassed bust left, seen from front. Rx: GLORIA - R - OMANORVM Roma and Constantinopolis enthroned, the one helmeted facing, the other, turreted and with right foot on prow, turned left towards her; each holding globe surmounted by Victory who is crowning her, and scepter; .TES. In exergue. RIC 143 (R5). Gnecchi 20 (citing our specimen and two others). Cohen 131 (500 Fr.). Beautiful medallion of wonderful style with an unusually oriented bust on the obverse depicting the emperor facing yet somehow effortlessly turning his head to the left. EF.",
+                  "source": "commons-desc-page"
+                },
+                "DateTimeOriginal": {
+                  "value": "0350",
+                  "source": "commons-desc-page"
+                },
+                "Credit": {
+                  "value": "<a rel=\"nofollow\" class=\"external text\" href=\"https://coins.ha.com/itm/ancients/roman-imperial/ancients-constantius-ii-337-361-ad-gold-medallion-two-solidi-855g-6h-thessalonica-350-5-ad-obv-fl-ivl-constan-tivs/a/3011-448.s\">Heritage Auctions</a>",
+                  "source": "commons-desc-page"
+                },
+                "Artist": {
+                  "value": "Heritage Auctions",
+                  "source": "commons-desc-page"
+                },
+                "LicenseShortName": {
+                  "value": "CC BY-SA 4.0",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "UsageTerms": {
+                  "value": "Creative Commons Attribution-Share Alike 4.0",
+                  "source": "commons-desc-page"
+                },
+                "AttributionRequired": {
+                  "value": "true",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "LicenseUrl": {
+                  "value": "https://creativecommons.org/licenses/by-sa/4.0",
+                  "source": "commons-desc-page"
+                },
+                "Copyrighted": {
+                  "value": "True",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "Restrictions": {
+                  "value": "",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "License": {
+                  "value": "cc-by-sa-4.0",
+                  "source": "commons-templates",
+                  "hidden": ""
+                }
+              }
+            }
+          ]
+        },
+        {
+          "pageid": 125866141,
+          "ns": 6,
+          "title": "File:The triumph of Constantius II.jpg",
+          "index": 4,
+          "imagerepository": "local",
+          "imageinfo": [
+            {
+              "size": 1452244,
+              "width": 2527,
+              "height": 2516,
+              "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/71/The_triumph_of_Constantius_II.jpg/500px-The_triumph_of_Constantius_II.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+              "thumbwidth": 400,
+              "thumbheight": 398,
+              "responsiveUrls": {
+                "2": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/71/The_triumph_of_Constantius_II.jpg/960px-The_triumph_of_Constantius_II.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+              },
+              "thumbattribs": {
+                "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/71/The_triumph_of_Constantius_II.jpg/500px-The_triumph_of_Constantius_II.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+                "decoding": "async",
+                "loading": "lazy",
+                "width": 400,
+                "height": 398,
+                "srcset": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/71/The_triumph_of_Constantius_II.jpg/960px-The_triumph_of_Constantius_II.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail 2x"
+              },
+              "url": "https://upload.wikimedia.org/wikipedia/commons/7/71/The_triumph_of_Constantius_II.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+              "descriptionurl": "https://commons.wikimedia.org/wiki/File:The_triumph_of_Constantius_II.jpg",
+              "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=125866141",
+              "extmetadata": {
+                "DateTime": {
+                  "value": "2022-11-23 21:58:17",
+                  "source": "mediawiki-metadata",
+                  "hidden": ""
+                },
+                "ObjectName": {
+                  "value": "The triumph of Constantius II",
+                  "source": "mediawiki-metadata"
+                },
+                "CommonsMetadataExtension": {
+                  "value": 1.2,
+                  "source": "extension",
+                  "hidden": ""
+                },
+                "Categories": {
+                  "value": "Constantius II|Kerch missorium|Images with extracted images",
+                  "source": "commons-categories",
+                  "hidden": ""
+                },
+                "Assessments": {
+                  "value": "",
+                  "source": "commons-categories",
+                  "hidden": ""
+                },
+                "ImageDescription": {
+                  "value": "Created: Eastern Mediterranean. 4th century\n<p>Found: Bosporan Necropolis, vault on the Gordikov estate. Near Kerch, the Сrypt in the North-Eastern Slope of Mount Mithridates, 1891\n</p>\nThis silver dish was a diplomatic gift from the Byzantine Emperor to a representative of the Bosporan government. In this fine example of the early Byzantine art traditional Classical themes are combined with a new artistic style. The vessel shows a composition typical of Roman coins: the Emperor on horseback is piercing the enemy with a spear. The rider was usually accompanied by one or several warriors and Nike crowning the winner. In contrast to the Classical composition showing the final scene of a battle, here we see the scene of triumph: Emperor Constantius II sits on a horse, triumphantly raising his spear. To emphasize the Emperor's highest rank and divine power, the artist used special pictorial devices including, for example, the distortion of proportions. The images were produced by a chisel. Part of the ornamentation is nielloed. The outer surface is gilded and a loop is soldered onto it.",
+                  "source": "commons-desc-page"
+                },
+                "DateTimeOriginal": {
+                  "value": "4<sup>th</sup> century<div style=\"display: none;\">date QS:P,+350-00-00T00:00:00Z/7</div>",
+                  "source": "commons-desc-page"
+                },
+                "Credit": {
+                  "value": "<a rel=\"nofollow\" class=\"external text\" href=\"https://www.hermitagemuseum.org/wps/portal/hermitage/digital-collection/!ut/p/z1/pVJdb4IwFP0rvviILaVFeOyY4twYkw2VvpiCqFUsKo0u_vqVZVmiRrdlfWlve-7N-ShgYAyY5Hsx50qUkhe6Tpg9CSm1TcuD_dAj95CG0QuJvGcfmhiMPgHwyqIQsN_0fwMcQhGkmHZwTLoIYvun_iFggBVyXm-bTExB4nJr6hCCDM7TzMBO7hgpTi3DNjF0EYe4beU1OpNqoxYgWfG1qCa5bMJDuVtVjXLW4DvVhIi09CFb8LwsyrnIeFHfixnPVKVfXYJcDM_5XxJkt-3pnwq81K8TQLvAC7TCDVcLQ8hZCcbQbDVeuJBKyHkFxshpm67mwk6n-V1fs_HdgefgEPmOeQ4IHx7bmu4b6YXh0EMe_gLcIJxowe1rgu0AgdFe5AcQy3K31h_otZ448oLJIO5EureOKvljWL0Lmy5t1jaJ5XbLqA62lCp_V2D8v2Q36zhepcfZEymWdtQ73gV56gQV_QCYiT-L/\">Hermitage Museum</a>",
+                  "source": "commons-desc-page"
+                },
+                "Artist": {
+                  "value": "Hermitage Museum",
+                  "source": "commons-desc-page"
+                },
+                "Permission": {
+                  "value": "<a rel=\"nofollow\" class=\"external free\" href=\"https://www.hermitagemuseum.org/wps/portal/hermitage/about/image_usage_policy?lng=es\">https://www.hermitagemuseum.org/wps/portal/hermitage/about/image_usage_policy?lng=es</a>",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "LicenseShortName": {
+                  "value": "CC BY-SA 4.0",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "UsageTerms": {
+                  "value": "Creative Commons Attribution-Share Alike 4.0",
+                  "source": "commons-desc-page"
+                },
+                "AttributionRequired": {
+                  "value": "true",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "LicenseUrl": {
+                  "value": "https://creativecommons.org/licenses/by-sa/4.0",
+                  "source": "commons-desc-page"
+                },
+                "Copyrighted": {
+                  "value": "True",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "Restrictions": {
+                  "value": "",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "License": {
+                  "value": "cc-by-sa-4.0",
+                  "source": "commons-templates",
+                  "hidden": ""
+                }
+              }
+            }
+          ]
+        },
+        {
+          "pageid": 125866357,
+          "ns": 6,
+          "title": "File:The triumph of Constantius II (detail).png",
+          "index": 3,
+          "imagerepository": "local",
+          "imageinfo": [
+            {
+              "size": 2637612,
+              "width": 907,
+              "height": 1191,
+              "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/04/The_triumph_of_Constantius_II_%28detail%29.png/500px-The_triumph_of_Constantius_II_%28detail%29.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+              "thumbwidth": 400,
+              "thumbheight": 525,
+              "responsiveUrls": {
+                "2": "https://upload.wikimedia.org/wikipedia/commons/0/04/The_triumph_of_Constantius_II_%28detail%29.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled"
+              },
+              "thumbattribs": {
+                "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/04/The_triumph_of_Constantius_II_%28detail%29.png/500px-The_triumph_of_Constantius_II_%28detail%29.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+                "decoding": "async",
+                "loading": "lazy",
+                "width": 400,
+                "height": 525,
+                "srcset": "https://upload.wikimedia.org/wikipedia/commons/0/04/The_triumph_of_Constantius_II_%28detail%29.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled 2x"
+              },
+              "url": "https://upload.wikimedia.org/wikipedia/commons/0/04/The_triumph_of_Constantius_II_%28detail%29.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+              "descriptionurl": "https://commons.wikimedia.org/wiki/File:The_triumph_of_Constantius_II_(detail).png",
+              "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=125866357",
+              "extmetadata": {
+                "DateTime": {
+                  "value": "2022-11-23 21:49:19",
+                  "source": "mediawiki-metadata",
+                  "hidden": ""
+                },
+                "ObjectName": {
+                  "value": "The triumph of Constantius II (detail)",
+                  "source": "mediawiki-metadata"
+                },
+                "CommonsMetadataExtension": {
+                  "value": 1.2,
+                  "source": "extension",
+                  "hidden": ""
+                },
+                "Categories": {
+                  "value": "Constantius II|Kerch missorium|Images with extracted images",
+                  "source": "commons-categories",
+                  "hidden": ""
+                },
+                "Assessments": {
+                  "value": "",
+                  "source": "commons-categories",
+                  "hidden": ""
+                },
+                "ImageDescription": {
+                  "value": "Detail of Constantius II in the Kerch missorium",
+                  "source": "commons-desc-page"
+                },
+                "DateTimeOriginal": {
+                  "value": "4<sup>th</sup> century<div style=\"display: none;\">date QS:P,+350-00-00T00:00:00Z/7</div>",
+                  "source": "commons-desc-page"
+                },
+                "Credit": {
+                  "value": "<span typeof=\"mw:File\"><a href=\"//commons.wikimedia.org/wiki/File:The_triumph_of_Constantius_II.jpg\" class=\"mw-file-description\"><img src=\"https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/The_triumph_of_Constantius_II.jpg/120px-The_triumph_of_Constantius_II.jpg?utm_source=commons.wikimedia.org&amp;utm_campaign=parser&amp;utm_content=thumbnail\" decoding=\"async\" loading=\"lazy\" width=\"100\" height=\"100\" class=\"mw-file-element\" srcset=\"https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/The_triumph_of_Constantius_II.jpg/250px-The_triumph_of_Constantius_II.jpg?utm_source=commons.wikimedia.org&amp;utm_campaign=parser&amp;utm_content=thumbnail 2x\" data-file-width=\"2527\" data-file-height=\"2516\"></a></span>",
+                  "source": "commons-desc-page"
+                },
+                "Artist": {
+                  "value": "Own work",
+                  "source": "commons-desc-page"
+                },
+                "LicenseShortName": {
+                  "value": "CC BY-SA 4.0",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "UsageTerms": {
+                  "value": "Creative Commons Attribution-Share Alike 4.0",
+                  "source": "commons-desc-page"
+                },
+                "AttributionRequired": {
+                  "value": "true",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "LicenseUrl": {
+                  "value": "https://creativecommons.org/licenses/by-sa/4.0",
+                  "source": "commons-desc-page"
+                },
+                "Copyrighted": {
+                  "value": "True",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "Restrictions": {
+                  "value": "",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "License": {
+                  "value": "cc-by-sa-4.0",
+                  "source": "commons-templates",
+                  "hidden": ""
+                }
+              }
+            }
+          ]
+        },
+        {
+          "pageid": 171505241,
+          "ns": 6,
+          "title": "File:Flavius Julius Constantius - Siliqua.jpg",
+          "index": 2,
+          "imagerepository": "local",
+          "imageinfo": [
+            {
+              "size": 4303042,
+              "width": 3413,
+              "height": 3370,
+              "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b3/Flavius_Julius_Constantius_-_Siliqua.jpg/500px-Flavius_Julius_Constantius_-_Siliqua.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+              "thumbwidth": 400,
+              "thumbheight": 395,
+              "responsiveUrls": {
+                "2": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b3/Flavius_Julius_Constantius_-_Siliqua.jpg/960px-Flavius_Julius_Constantius_-_Siliqua.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+              },
+              "thumbattribs": {
+                "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b3/Flavius_Julius_Constantius_-_Siliqua.jpg/500px-Flavius_Julius_Constantius_-_Siliqua.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+                "decoding": "async",
+                "loading": "lazy",
+                "width": 400,
+                "height": 395,
+                "srcset": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b3/Flavius_Julius_Constantius_-_Siliqua.jpg/960px-Flavius_Julius_Constantius_-_Siliqua.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail 2x"
+              },
+              "url": "https://upload.wikimedia.org/wikipedia/commons/b/b3/Flavius_Julius_Constantius_-_Siliqua.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+              "descriptionurl": "https://commons.wikimedia.org/wiki/File:Flavius_Julius_Constantius_-_Siliqua.jpg",
+              "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=171505241",
+              "extmetadata": {
+                "DateTime": {
+                  "value": "2025-08-04 00:30:04",
+                  "source": "mediawiki-metadata",
+                  "hidden": ""
+                },
+                "ObjectName": {
+                  "value": "Flavius Julius Constantius - Siliqua",
+                  "source": "mediawiki-metadata"
+                },
+                "CommonsMetadataExtension": {
+                  "value": 1.2,
+                  "source": "extension",
+                  "hidden": ""
+                },
+                "Categories": {
+                  "value": "Self-published work|Siliquas of Constantius II",
+                  "source": "commons-categories",
+                  "hidden": ""
+                },
+                "Assessments": {
+                  "value": "",
+                  "source": "commons-categories",
+                  "hidden": ""
+                },
+                "ImageDescription": {
+                  "value": "Photo courtesy of the Matthew C. Materio Collection",
+                  "source": "commons-desc-page"
+                },
+                "DateTimeOriginal": {
+                  "value": "2025-08-03",
+                  "source": "commons-desc-page"
+                },
+                "Credit": {
+                  "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+                  "source": "commons-desc-page"
+                },
+                "Artist": {
+                  "value": "<a href=\"//commons.wikimedia.org/w/index.php?title=User:Moose1983&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"User:Moose1983 (page does not exist)\">Moose1983</a>",
+                  "source": "commons-desc-page"
+                },
+                "LicenseShortName": {
+                  "value": "CC BY 4.0",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "UsageTerms": {
+                  "value": "Creative Commons Attribution 4.0",
+                  "source": "commons-desc-page"
+                },
+                "AttributionRequired": {
+                  "value": "true",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "LicenseUrl": {
+                  "value": "https://creativecommons.org/licenses/by/4.0",
+                  "source": "commons-desc-page"
+                },
+                "Copyrighted": {
+                  "value": "True",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "Restrictions": {
+                  "value": "",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "License": {
+                  "value": "cc-by-4.0",
+                  "source": "commons-templates",
+                  "hidden": ""
+                }
+              }
+            }
+          ]
+        }
+      ]
+    }
+  }
+}

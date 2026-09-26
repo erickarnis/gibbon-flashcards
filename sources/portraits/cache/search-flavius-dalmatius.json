@@ -1,0 +1,573 @@
+{
+  "person_id": "flavius-dalmatius",
+  "query": "Flavius Dalmatius",
+  "response": {
+    "batchcomplete": true,
+    "continue": {
+      "gsroffset": 5,
+      "continue": "gsroffset||"
+    },
+    "query": {
+      "pages": [
+        {
+          "pageid": 8833453,
+          "ns": 6,
+          "title": "File:Impero Romano da maggio a settembre 337.png",
+          "index": 2,
+          "imagerepository": "local",
+          "imageinfo": [
+            {
+              "size": 70724,
+              "width": 688,
+              "height": 474,
+              "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ef/Impero_Romano_da_maggio_a_settembre_337.png/500px-Impero_Romano_da_maggio_a_settembre_337.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+              "thumbwidth": 400,
+              "thumbheight": 276,
+              "responsiveUrls": {
+                "2": "https://upload.wikimedia.org/wikipedia/commons/e/ef/Impero_Romano_da_maggio_a_settembre_337.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled"
+              },
+              "thumbattribs": {
+                "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ef/Impero_Romano_da_maggio_a_settembre_337.png/500px-Impero_Romano_da_maggio_a_settembre_337.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+                "decoding": "async",
+                "loading": "lazy",
+                "width": 400,
+                "height": 276,
+                "srcset": "https://upload.wikimedia.org/wikipedia/commons/e/ef/Impero_Romano_da_maggio_a_settembre_337.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled 2x"
+              },
+              "url": "https://upload.wikimedia.org/wikipedia/commons/e/ef/Impero_Romano_da_maggio_a_settembre_337.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+              "descriptionurl": "https://commons.wikimedia.org/wiki/File:Impero_Romano_da_maggio_a_settembre_337.png",
+              "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=8833453",
+              "extmetadata": {
+                "DateTime": {
+                  "value": "2009-12-26 08:29:31",
+                  "source": "mediawiki-metadata",
+                  "hidden": ""
+                },
+                "ObjectName": {
+                  "value": "Impero Romano da maggio a settembre 337",
+                  "source": "mediawiki-metadata"
+                },
+                "CommonsMetadataExtension": {
+                  "value": 1.2,
+                  "source": "extension",
+                  "hidden": ""
+                },
+                "Categories": {
+                  "value": "Constantius II|Constans|Map images that should use vector graphics|PNG that should use vector graphics|Maps showing 4th-century history|Dalmatius|Maps of the Roman Empire in 337 AD",
+                  "source": "commons-categories",
+                  "hidden": ""
+                },
+                "Assessments": {
+                  "value": "",
+                  "source": "commons-categories",
+                  "hidden": ""
+                },
+                "ImageDescription": {
+                  "value": "Suddivisione dell'impero romano dal 22 maggio 337 (morte di <a href=\"https://it.wikipedia.org/wiki/Costantino_I\" class=\"extiw\" title=\"it:Costantino I\">Costantino I</a>) al 9 settembre dello stesso anno (proclamazione degli augusti).\n<ul><li><a href=\"https://it.wikipedia.org/wiki/Costantino_II\" class=\"extiw\" title=\"it:Costantino II\"><span style=\"color:#c46c5c\">Costantino II</span></a></li>\n<li><a href=\"https://it.wikipedia.org/wiki/Costante_I\" class=\"extiw\" title=\"it:Costante I\"><span style=\"color:#9edf44\">Costante I</span></a></li>\n<li><a href=\"https://it.wikipedia.org/wiki/Flavio_Dalmazio_(cesare)\" class=\"extiw\" title=\"it:Flavio Dalmazio (cesare)\"><span style=\"color:#e1e342\">Flavio Dalmazio</span></a></li>\n<li><a href=\"https://it.wikipedia.org/wiki/Costanzo_II\" class=\"extiw\" title=\"it:Costanzo II\"><span style=\"color:#9c649c\">Costanzo II</span></a></li></ul>\nPer modificare questa immagine, si prega di modificare prima  <a href=\"https://it.wikipedia.org/wiki/Immagine:Impero_Romano_da_maggio_a_settembre_337.svg\" class=\"extiw\" title=\"it:Immagine:Impero Romano da maggio a settembre 337.svg\">60px</a>",
+                  "source": "commons-desc-page"
+                },
+                "DateTimeOriginal": {
+                  "value": "23 August 2007 (original upload date)",
+                  "source": "commons-desc-page"
+                },
+                "Credit": {
+                  "value": "Page 40 of Division of Empire: The Reign of the Sons of Constantine by William Lewis (2024). \"As a result, Constantine II had Gaul, Spain, Britain, and Mauritania Tingitania; Constans had Italy, Africa, and Pannonia; and Constantius had the east. The only decision that had to be taken was the distribution of Dalmatius’ former territory. The solution was simply to allocate each of the two dioceses to the nearest adjacent territory, so Moesia went to Constans and Thrace went to Constantius.\"",
+                  "source": "commons-desc-page"
+                },
+                "Artist": {
+                  "value": "The original uploader was <a href=\"https://en.wikipedia.org/wiki/it:User:Panairjdde\" class=\"extiw\" title=\"w:it:User:Panairjdde\">Panairjdde</a> at <a href=\"https://en.wikipedia.org/wiki/it:\" class=\"extiw\" title=\"w:it:\">Italian Wikipedia</a>.",
+                  "source": "commons-desc-page"
+                },
+                "Permission": {
+                  "value": "CC-SA-1.0.",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "LicenseShortName": {
+                  "value": "CC SA 1.0",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "UsageTerms": {
+                  "value": "Creative Commons ShareAlike 1.0 Generic",
+                  "source": "commons-desc-page"
+                },
+                "AttributionRequired": {
+                  "value": "false",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "LicenseUrl": {
+                  "value": "http://creativecommons.org/licenses/sa/1.0/",
+                  "source": "commons-desc-page"
+                },
+                "Copyrighted": {
+                  "value": "True",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "Restrictions": {
+                  "value": "",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "License": {
+                  "value": "cc-sa-1.0",
+                  "source": "commons-templates",
+                  "hidden": ""
+                }
+              }
+            }
+          ]
+        },
+        {
+          "pageid": 16133964,
+          "ns": 6,
+          "title": "File:DELMATIUS RIC VII 142-2410628.jpg",
+          "index": 1,
+          "imagerepository": "local",
+          "imageinfo": [
+            {
+              "size": 173638,
+              "width": 800,
+              "height": 357,
+              "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/92/DELMATIUS_RIC_VII_142-2410628.jpg/500px-DELMATIUS_RIC_VII_142-2410628.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+              "thumbwidth": 400,
+              "thumbheight": 179,
+              "responsiveUrls": {
+                "2": "https://upload.wikimedia.org/wikipedia/commons/9/92/DELMATIUS_RIC_VII_142-2410628.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled"
+              },
+              "thumbattribs": {
+                "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/92/DELMATIUS_RIC_VII_142-2410628.jpg/500px-DELMATIUS_RIC_VII_142-2410628.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+                "decoding": "async",
+                "loading": "lazy",
+                "width": 400,
+                "height": 179,
+                "srcset": "https://upload.wikimedia.org/wikipedia/commons/9/92/DELMATIUS_RIC_VII_142-2410628.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled 2x"
+              },
+              "url": "https://upload.wikimedia.org/wikipedia/commons/9/92/DELMATIUS_RIC_VII_142-2410628.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+              "descriptionurl": "https://commons.wikimedia.org/wiki/File:DELMATIUS_RIC_VII_142-2410628.jpg",
+              "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=16133964",
+              "extmetadata": {
+                "DateTime": {
+                  "value": "2011-08-17 16:25:22",
+                  "source": "mediawiki-metadata",
+                  "hidden": ""
+                },
+                "ObjectName": {
+                  "value": "DELMATIUS RIC VII 142-2410628",
+                  "source": "mediawiki-metadata"
+                },
+                "CommonsMetadataExtension": {
+                  "value": 1.2,
+                  "source": "extension",
+                  "hidden": ""
+                },
+                "Categories": {
+                  "value": "GFDL|Follis|License migration not eligible|Coins of Aquileia|Self-published work|CNG coins|Items with VRTS permission confirmed|Images with extracted images|Laurel wreaths on coins|Spears on coins|336 coins|Soldiers on coins|Shields on Roman coins|Coins of Dalmatius",
+                  "source": "commons-categories",
+                  "hidden": ""
+                },
+                "Assessments": {
+                  "value": "",
+                  "source": "commons-categories",
+                  "hidden": ""
+                },
+                "ImageDescription": {
+                  "value": "Delmatius. Caesar, AD 336-337. \n<dl><dd>Æ Follis (18mm, 1.22 g, 11h). Aquileia mint, 2nd officina.\n<dl><dd><dl><dd>FL DELMA-TIUS NOB C, Laureate, draped, and cuirassed bust right</dd>\n<dd>GLOR-IA EXERC-ITUS, Signum between two soldiers, each holding spear and shield; AQS.</dd></dl></dd></dl></dd>\n<dd>RIC VII 142.</dd></dl>",
+                  "source": "commons-desc-page"
+                },
+                "DateTimeOriginal": {
+                  "value": "2011-08-17",
+                  "source": "commons-desc-page"
+                },
+                "Credit": {
+                  "value": "<a rel=\"nofollow\" class=\"external free\" href=\"http://www.cngcoins.com/Coin.aspx?CoinID=172869\">http://www.cngcoins.com/Coin.aspx?CoinID=172869</a>",
+                  "source": "commons-desc-page"
+                },
+                "Artist": {
+                  "value": "CNG",
+                  "source": "commons-desc-page"
+                },
+                "Permission": {
+                  "value": "You may select the license of your choice.",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "LicenseShortName": {
+                  "value": "CC BY-SA 2.5",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "UsageTerms": {
+                  "value": "Creative Commons Attribution-Share Alike 2.5",
+                  "source": "commons-desc-page"
+                },
+                "AttributionRequired": {
+                  "value": "true",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "Attribution": {
+                  "value": "Classical Numismatic Group, Inc. <a rel=\"nofollow\" class=\"external free\" href=\"http://www.cngcoins.com\">http://www.cngcoins.com</a>",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "LicenseUrl": {
+                  "value": "https://creativecommons.org/licenses/by-sa/2.5",
+                  "source": "commons-desc-page"
+                },
+                "Copyrighted": {
+                  "value": "True",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "Restrictions": {
+                  "value": "",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "License": {
+                  "value": "cc-by-sa-2.5",
+                  "source": "commons-templates",
+                  "hidden": ""
+                }
+              }
+            }
+          ]
+        },
+        {
+          "pageid": 44734013,
+          "ns": 6,
+          "title": "File:Flavius - Skoklosters slott - 99741.tif",
+          "index": 4,
+          "imagerepository": "local",
+          "imageinfo": [
+            {
+              "size": 47729918,
+              "width": 3554,
+              "height": 4474,
+              "pagecount": 2,
+              "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/55/Flavius_-_Skoklosters_slott_-_99741.tif/lossy-page1-500px-Flavius_-_Skoklosters_slott_-_99741.tif.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+              "thumbwidth": 400,
+              "thumbheight": 504,
+              "responsiveUrls": {
+                "2": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/55/Flavius_-_Skoklosters_slott_-_99741.tif/lossy-page1-960px-Flavius_-_Skoklosters_slott_-_99741.tif.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+              },
+              "thumbattribs": {
+                "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/55/Flavius_-_Skoklosters_slott_-_99741.tif/lossy-page1-500px-Flavius_-_Skoklosters_slott_-_99741.tif.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+                "decoding": "async",
+                "loading": "lazy",
+                "width": 400,
+                "height": 504,
+                "srcset": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/55/Flavius_-_Skoklosters_slott_-_99741.tif/lossy-page1-960px-Flavius_-_Skoklosters_slott_-_99741.tif.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail 2x"
+              },
+              "url": "https://upload.wikimedia.org/wikipedia/commons/5/55/Flavius_-_Skoklosters_slott_-_99741.tif?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+              "descriptionurl": "https://commons.wikimedia.org/wiki/File:Flavius_-_Skoklosters_slott_-_99741.tif",
+              "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=44734013",
+              "extmetadata": {
+                "DateTime": {
+                  "value": "2015-11-03 02:34:08",
+                  "source": "mediawiki-metadata",
+                  "hidden": ""
+                },
+                "ObjectName": {
+                  "value": "<div class=\"fn\">\n<div style=\"font-weight:bold;display:inline-block;\">Porträtt, man</div></div>",
+                  "source": "commons-desc-page"
+                },
+                "CommonsMetadataExtension": {
+                  "value": 1.2,
+                  "source": "extension",
+                  "hidden": ""
+                },
+                "Categories": {
+                  "value": "Prints|Copper engravings|Author died more than 100 years ago public domain images|Images from Livrustkammaren och Skoklosters slott med Stiftelsen Hallwylska museet|Artworks without Wikidata item|PD-1996|Artworks with known accession number|PD Sweden|Items with VRTS permission confirmed|Content made available through Wikimedia Sverige partnerships|CC-PD-Mark|Images from Skoklosters slott|Media contributed by LSH: 2015-11|Broken parts|Media contributed by LSH: unmatched creator|Photographs by Jens Mohr|Domitianus in art",
+                  "source": "commons-categories",
+                  "hidden": ""
+                },
+                "Assessments": {
+                  "value": "",
+                  "source": "commons-categories",
+                  "hidden": ""
+                },
+                "Artist": {
+                  "value": "<div class=\"fn value\">\n<a href=\"//commons.wikimedia.org/wiki/Creator:Jens_Mohr\" title=\"Creator:Jens Mohr\">Jens Mohr</a></div>",
+                  "source": "commons-desc-page"
+                },
+                "ImageDescription": {
+                  "value": "<div class=\"description\">\n<div style=\"font-size:86%; background-color:#e0e0ee; padding: 0.3em; border:1px solid #aaa;\"><i><b>Note: </b> For documentary purposes the original description has been retained. Factual corrections and alternative descriptions are encouraged separately from the original description.</i></div>Flavius<br>\n<b>Nyckelord</b>: Trasiga, Föremålsbild, Kejsare, Kopparstick</div>",
+                  "source": "commons-desc-page"
+                },
+                "DateTimeOriginal": {
+                  "value": "from 1600 until 1629<div style=\"display: none;\">date QS:P571,+1650-00-00T00:00:00Z/7,P580,+1600-00-00T00:00:00Z/9,P582,+1629-00-00T00:00:00Z/9</div>",
+                  "source": "commons-desc-page"
+                },
+                "Credit": {
+                  "value": "<a rel=\"nofollow\" class=\"external text\" href=\"http://emuseumplus.lsh.se/eMuseumPlus?service=ExternalInterface&amp;module=literature&amp;objectId=99741&amp;viewType=detailView\"> LSH 99741</a> (sm_dig13938)",
+                  "source": "commons-desc-page"
+                },
+                "Permission": {
+                  "value": "For background information, see the explanations on <a href=\"https://en.wikipedia.org/wiki/Wikipedia:Non-U.S._copyrights\" class=\"extiw\" title=\"w:Wikipedia:Non-U.S. copyrights\">Non-U.S. copyrights</a>.<br><b>Note:</b> This tag should <i>not</i> be used for sound recordings.",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "LicenseShortName": {
+                  "value": "Public domain",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "UsageTerms": {
+                  "value": "Public domain",
+                  "source": "commons-desc-page"
+                },
+                "AttributionRequired": {
+                  "value": "false",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "Copyrighted": {
+                  "value": "False",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "Restrictions": {
+                  "value": "",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "License": {
+                  "value": "pd",
+                  "source": "commons-templates",
+                  "hidden": ""
+                }
+              }
+            }
+          ]
+        },
+        {
+          "pageid": 59904349,
+          "ns": 6,
+          "title": "File:Delmatius Coin Abverse.jpg",
+          "index": 3,
+          "imagerepository": "local",
+          "imageinfo": [
+            {
+              "size": 80315,
+              "width": 403,
+              "height": 355,
+              "thumburl": "https://upload.wikimedia.org/wikipedia/commons/a/ad/Delmatius_Coin_Abverse.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+              "thumbwidth": 400,
+              "thumbheight": 352,
+              "thumbattribs": {
+                "src": "https://upload.wikimedia.org/wikipedia/commons/a/ad/Delmatius_Coin_Abverse.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+                "decoding": "async",
+                "loading": "lazy",
+                "width": 400,
+                "height": 352
+              },
+              "url": "https://upload.wikimedia.org/wikipedia/commons/a/ad/Delmatius_Coin_Abverse.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+              "descriptionurl": "https://commons.wikimedia.org/wiki/File:Delmatius_Coin_Abverse.jpg",
+              "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=59904349",
+              "extmetadata": {
+                "DateTime": {
+                  "value": "2017-06-13 20:47:41",
+                  "source": "mediawiki-metadata",
+                  "hidden": ""
+                },
+                "ObjectName": {
+                  "value": "Delmatius Coin Abverse",
+                  "source": "mediawiki-metadata"
+                },
+                "CommonsMetadataExtension": {
+                  "value": 1.2,
+                  "source": "extension",
+                  "hidden": ""
+                },
+                "Categories": {
+                  "value": "GFDL|License migration not eligible|Self-published work|CNG coins|Items with VRTS permission confirmed|Images with extracted images|Extracted images|Files with PermissionTicket template but without P6305 SDC statement|Coins of Dalmatius",
+                  "source": "commons-categories",
+                  "hidden": ""
+                },
+                "Assessments": {
+                  "value": "",
+                  "source": "commons-categories",
+                  "hidden": ""
+                },
+                "ImageDescription": {
+                  "value": "Roman Emperor's  Delmatius coin, abverse. Based on the file DELMATIUS RIC VII 142-2410628.jpg (cropped)",
+                  "source": "commons-desc-page"
+                },
+                "DateTimeOriginal": {
+                  "value": "2010-09-07 15:36:28",
+                  "source": "commons-desc-page"
+                },
+                "Credit": {
+                  "value": "This image has been <b>extracted</b> from another file",
+                  "source": "commons-desc-page"
+                },
+                "Artist": {
+                  "value": "<a href=\"//commons.wikimedia.org/wiki/User:Leokand\" title=\"User:Leokand\">Leokand</a>",
+                  "source": "commons-desc-page"
+                },
+                "AuthorCount": {
+                  "value": 2,
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "LicenseShortName": {
+                  "value": "CC BY-SA 2.5",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "UsageTerms": {
+                  "value": "Creative Commons Attribution-Share Alike 2.5",
+                  "source": "commons-desc-page"
+                },
+                "AttributionRequired": {
+                  "value": "true",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "Attribution": {
+                  "value": "Classical Numismatic Group, Inc. <a rel=\"nofollow\" class=\"external free\" href=\"http://www.cngcoins.com\">http://www.cngcoins.com</a>",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "LicenseUrl": {
+                  "value": "https://creativecommons.org/licenses/by-sa/2.5",
+                  "source": "commons-desc-page"
+                },
+                "Copyrighted": {
+                  "value": "True",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "Restrictions": {
+                  "value": "",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "License": {
+                  "value": "cc-by-sa-2.5",
+                  "source": "commons-templates",
+                  "hidden": ""
+                }
+              }
+            }
+          ]
+        },
+        {
+          "pageid": 148427966,
+          "ns": 6,
+          "title": "File:Delmatius, RIC VII 141.jpg",
+          "index": 5,
+          "imagerepository": "local",
+          "imageinfo": [
+            {
+              "size": 785727,
+              "width": 3031,
+              "height": 1434,
+              "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/87/Delmatius%2C_RIC_VII_141.jpg/500px-Delmatius%2C_RIC_VII_141.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+              "thumbwidth": 400,
+              "thumbheight": 189,
+              "responsiveUrls": {
+                "2": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/87/Delmatius%2C_RIC_VII_141.jpg/960px-Delmatius%2C_RIC_VII_141.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+              },
+              "thumbattribs": {
+                "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/87/Delmatius%2C_RIC_VII_141.jpg/500px-Delmatius%2C_RIC_VII_141.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+                "decoding": "async",
+                "loading": "lazy",
+                "width": 400,
+                "height": 189,
+                "srcset": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/87/Delmatius%2C_RIC_VII_141.jpg/960px-Delmatius%2C_RIC_VII_141.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail 2x"
+              },
+              "url": "https://upload.wikimedia.org/wikipedia/commons/8/87/Delmatius%2C_RIC_VII_141.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+              "descriptionurl": "https://commons.wikimedia.org/wiki/File:Delmatius,_RIC_VII_141.jpg",
+              "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=148427966",
+              "extmetadata": {
+                "DateTime": {
+                  "value": "2024-05-17 03:27:20",
+                  "source": "mediawiki-metadata",
+                  "hidden": ""
+                },
+                "ObjectName": {
+                  "value": "Delmatius, RIC VII 141",
+                  "source": "mediawiki-metadata"
+                },
+                "CommonsMetadataExtension": {
+                  "value": 1.2,
+                  "source": "extension",
+                  "hidden": ""
+                },
+                "Categories": {
+                  "value": "GFDL|License migration not eligible|Self-published work|CNG coins|Items with VRTS permission confirmed|Coins of Dalmatius",
+                  "source": "commons-categories",
+                  "hidden": ""
+                },
+                "Assessments": {
+                  "value": "",
+                  "source": "commons-categories",
+                  "hidden": ""
+                },
+                "ImageDescription": {
+                  "value": "Delmatius. Caesar, AD 335-337. Æ Follis. Constantinople mint, 10th officina. Struck AD 336-337. Laureate, draped, and cuirassed bust right / Two soldiers, each holding spear and resting on shield, standing facing to either side of standard; CONSI. RIC VII 141. Green patina, toned silvering, minor roughness, areas of weak strike. Good VF.",
+                  "source": "commons-desc-page"
+                },
+                "DateTimeOriginal": {
+                  "value": "0336",
+                  "source": "commons-desc-page"
+                },
+                "Credit": {
+                  "value": "<a rel=\"nofollow\" class=\"external free\" href=\"https://www.coinarchives.com/a/lotviewer.php?LotID=2369094&amp;AucID=5810&amp;Lot=784&amp;Val=cb33550df5f5428f3dc4a26681ab3f8f\">https://www.coinarchives.com/a/lotviewer.php?LotID=2369094&amp;AucID=5810&amp;Lot=784&amp;Val=cb33550df5f5428f3dc4a26681ab3f8f</a>",
+                  "source": "commons-desc-page"
+                },
+                "Artist": {
+                  "value": "CNG",
+                  "source": "commons-desc-page"
+                },
+                "LicenseShortName": {
+                  "value": "CC BY-SA 2.5",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "UsageTerms": {
+                  "value": "Creative Commons Attribution-Share Alike 2.5",
+                  "source": "commons-desc-page"
+                },
+                "AttributionRequired": {
+                  "value": "true",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "Attribution": {
+                  "value": "Classical Numismatic Group, Inc. <a rel=\"nofollow\" class=\"external free\" href=\"http://www.cngcoins.com\">http://www.cngcoins.com</a>",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "LicenseUrl": {
+                  "value": "https://creativecommons.org/licenses/by-sa/2.5",
+                  "source": "commons-desc-page"
+                },
+                "Copyrighted": {
+                  "value": "True",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "Restrictions": {
+                  "value": "",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "License": {
+                  "value": "cc-by-sa-2.5",
+                  "source": "commons-templates",
+                  "hidden": ""
+                }
+              }
+            }
+          ]
+        }
+      ]
+    }
+  }
+}

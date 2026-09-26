@@ -1,0 +1,500 @@
+{
+  "person_id": "eclectus-chamberlain",
+  "query": "Eclectus (chamberlain)",
+  "response": {
+    "batchcomplete": true,
+    "continue": {
+      "gsroffset": 5,
+      "continue": "gsroffset||"
+    },
+    "query": {
+      "pages": [
+        {
+          "pageid": 15107560,
+          "ns": 6,
+          "title": "File:Dictionary of Greek and Roman Biography and Mythology (1870) - Volume 2.djvu",
+          "index": 3,
+          "imagerepository": "local",
+          "imageinfo": [
+            {
+              "size": 92536773,
+              "width": 2430,
+              "height": 4270,
+              "pagecount": 1240,
+              "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/ae/Dictionary_of_Greek_and_Roman_Biography_and_Mythology_%281870%29_-_Volume_2.djvu/page1-500px-Dictionary_of_Greek_and_Roman_Biography_and_Mythology_%281870%29_-_Volume_2.djvu.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+              "thumbwidth": 400,
+              "thumbheight": 703,
+              "responsiveUrls": {
+                "2": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/ae/Dictionary_of_Greek_and_Roman_Biography_and_Mythology_%281870%29_-_Volume_2.djvu/page1-960px-Dictionary_of_Greek_and_Roman_Biography_and_Mythology_%281870%29_-_Volume_2.djvu.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+              },
+              "thumbattribs": {
+                "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/ae/Dictionary_of_Greek_and_Roman_Biography_and_Mythology_%281870%29_-_Volume_2.djvu/page1-500px-Dictionary_of_Greek_and_Roman_Biography_and_Mythology_%281870%29_-_Volume_2.djvu.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+                "decoding": "async",
+                "loading": "lazy",
+                "width": 400,
+                "height": 703,
+                "srcset": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/ae/Dictionary_of_Greek_and_Roman_Biography_and_Mythology_%281870%29_-_Volume_2.djvu/page1-960px-Dictionary_of_Greek_and_Roman_Biography_and_Mythology_%281870%29_-_Volume_2.djvu.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail 2x"
+              },
+              "url": "https://upload.wikimedia.org/wikipedia/commons/a/ae/Dictionary_of_Greek_and_Roman_Biography_and_Mythology_%281870%29_-_Volume_2.djvu?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+              "descriptionurl": "https://commons.wikimedia.org/wiki/File:Dictionary_of_Greek_and_Roman_Biography_and_Mythology_(1870)_-_Volume_2.djvu",
+              "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=15107560",
+              "extmetadata": {
+                "DateTime": {
+                  "value": "2011-05-04 00:28:21",
+                  "source": "mediawiki-metadata",
+                  "hidden": ""
+                },
+                "ObjectName": {
+                  "value": "<i>Dictionary of Greek and Roman Biography and Mythology</i>",
+                  "source": "commons-desc-page"
+                },
+                "CommonsMetadataExtension": {
+                  "value": 1.2,
+                  "source": "extension",
+                  "hidden": ""
+                },
+                "Categories": {
+                  "value": "The Dictionary of Greek and Roman Biography and Mythology|Files with no machine-readable author|1870 books|PD-old-100-expired|Scans from the Internet Archive/unverified|CC-PD-Mark|Scans from the Internet Archive|Books without Wikidata item|PD-old missing SDC copyright status",
+                  "source": "commons-categories",
+                  "hidden": ""
+                },
+                "Assessments": {
+                  "value": "",
+                  "source": "commons-categories",
+                  "hidden": ""
+                },
+                "Credit": {
+                  "value": "<a href=\"//archive.org/details/dictionaryofgree02smituoft\" class=\"extiw\" title=\"iarchive:dictionaryofgree02smituoft\"><bdi class=\"description en\" lang=\"en\" dir=\"ltr\">Internet Archive identifier</bdi>: dictionaryofgree02smituoft</a>",
+                  "source": "commons-desc-page"
+                },
+                "Permission": {
+                  "value": "<table class=\"licensetpl\" style=\"display:none\">\n<tbody><tr>\n<td><span class=\"licensetpl_short\">Public domain</span><span class=\"licensetpl_long\">Public domain</span><span class=\"licensetpl_link_req\">false</span><span class=\"licensetpl_attr_req\">false</span>\n</td></tr></tbody></table>\n<table style=\"width: 100%; clear: both; margin: 0.5em auto; background-color: var(--background-color-progressive-subtle, #f7f8ff); color: var(--color-base, #202122); border: var(--border-subtle, 2px solid #8888aa); border-spacing: 8px; padding: 0px;\" dir=\"ltr\" class=\"layouttemplate\" lang=\"en\">\n<tbody><tr>\n<td><span typeof=\"mw:File\"><span title=\"Public domain\"><img alt=\"Public domain\" src=\"https://thumb.wikimedia.org/wikipedia/commons/thumb/6/62/PD-icon.svg/120px-PD-icon.svg.png?utm_source=commons.wikimedia.org&amp;utm_campaign=parser&amp;utm_content=thumbnail\" decoding=\"async\" loading=\"lazy\" width=\"64\" height=\"64\" class=\"mw-file-element\" srcset=\"https://thumb.wikimedia.org/wikipedia/commons/thumb/6/62/PD-icon.svg/250px-PD-icon.svg.png?utm_source=commons.wikimedia.org&amp;utm_campaign=parser&amp;utm_content=thumbnail 2x\" data-file-width=\"196\" data-file-height=\"196\"></span></span>\n</td>\n<td>\n<p>This work is in the <b><a href=\"https://en.wikipedia.org/wiki/public_domain\" class=\"extiw\" title=\"en:public domain\">public domain</a></b> in its country of origin and other countries and areas where the <a href=\"https://en.wikipedia.org/wiki/List_of_countries%27_copyright_lengths\" class=\"extiw\" title=\"w:List of countries' copyright lengths\">copyright term</a> is the author's <b>life plus 100 years or fewer</b>.\n</p>\n<hr>\n<p>This work is in the <b><a href=\"https://en.wikipedia.org/wiki/public_domain\" class=\"extiw\" title=\"en:public domain\">public domain</a></b> in the <a href=\"https://en.wikipedia.org/wiki/United_States\" class=\"extiw\" title=\"en:United States\">United States</a> because it was <a href=\"//commons.wikimedia.org/wiki/Commons:Publication\" title=\"Commons:Publication\">published</a> (or registered with the <a href=\"https://en.wikipedia.org/wiki/United_States_Copyright_Office\" class=\"extiw\" title=\"en:United States Copyright Office\">U.S. Copyright Office</a>) before January 1, 1931.\n</p>\n</td></tr>\n<tr>\n<td colspan=\"2\" style=\"text-align:center;font-size:x-small;line-height:140%;\"><a href=\"https://creativecommons.org/publicdomain/mark/1.0/deed.en\" class=\"extiw\" title=\"ccorg:publicdomain/mark/1.0/deed.en\">This file has been identified as being free of known restrictions under copyright law, including all related and neighboring rights.</a>\n</td></tr></tbody></table><span class=\"licensetpl_link\" style=\"display:none;\">https://creativecommons.org/publicdomain/mark/1.0/</span><span class=\"licensetpl_short\" style=\"display:none;\">PDM</span><span class=\"licensetpl_long\" style=\"display:none;\">Creative Commons Public Domain Mark 1.0</span><span class=\"licensetpl_link_req\" style=\"display:none;\">false</span><span class=\"licensetpl_attr_req\" style=\"display:none;\">false</span>",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "LicenseShortName": {
+                  "value": "Public domain",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "UsageTerms": {
+                  "value": "Public domain",
+                  "source": "commons-desc-page"
+                },
+                "AttributionRequired": {
+                  "value": "false",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "Copyrighted": {
+                  "value": "False",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "Restrictions": {
+                  "value": "",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "License": {
+                  "value": "pd",
+                  "source": "commons-templates",
+                  "hidden": ""
+                }
+              }
+            }
+          ]
+        },
+        {
+          "pageid": 92105719,
+          "ns": 6,
+          "title": "File:The Avicultural magazine (IA aviculturalm618991900avic).pdf",
+          "index": 4,
+          "imagerepository": "local",
+          "imageinfo": [
+            {
+              "size": 19798013,
+              "width": 775,
+              "height": 1247,
+              "pagecount": 320,
+              "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/31/The_Avicultural_magazine_%28IA_aviculturalm618991900avic%29.pdf/page1-500px-The_Avicultural_magazine_%28IA_aviculturalm618991900avic%29.pdf.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+              "thumbwidth": 400,
+              "thumbheight": 644,
+              "thumbattribs": {
+                "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/31/The_Avicultural_magazine_%28IA_aviculturalm618991900avic%29.pdf/page1-500px-The_Avicultural_magazine_%28IA_aviculturalm618991900avic%29.pdf.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+                "decoding": "async",
+                "loading": "lazy",
+                "width": 400,
+                "height": 644
+              },
+              "url": "https://upload.wikimedia.org/wikipedia/commons/3/31/The_Avicultural_magazine_%28IA_aviculturalm618991900avic%29.pdf?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+              "descriptionurl": "https://commons.wikimedia.org/wiki/File:The_Avicultural_magazine_(IA_aviculturalm618991900avic).pdf",
+              "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=92105719",
+              "extmetadata": {
+                "DateTime": {
+                  "value": "2020-07-11 03:18:35",
+                  "source": "mediawiki-metadata",
+                  "hidden": ""
+                },
+                "ObjectName": {
+                  "value": "<div class=\"fn\">\nThe Avicultural magazine</div>",
+                  "source": "commons-desc-page"
+                },
+                "CommonsMetadataExtension": {
+                  "value": 1.2,
+                  "source": "extension",
+                  "hidden": ""
+                },
+                "Categories": {
+                  "value": "Scans from the Internet Archive/unverified|PD US expired|Files from the Biodiversity Heritage Library|Scans from the Internet Archive|Books uploaded by Fæ|Books without Wikidata item|Books from the Biodiversity Heritage Library",
+                  "source": "commons-categories",
+                  "hidden": ""
+                },
+                "Assessments": {
+                  "value": "",
+                  "source": "commons-categories",
+                  "hidden": ""
+                },
+                "Artist": {
+                  "value": "<div class=\"fn value\">\nAvicultural Society</div>",
+                  "source": "commons-desc-page"
+                },
+                "ImageDescription": {
+                  "value": "<div class=\"description\">\n<dl><dd>Old vol. enumeration resumed with v. 52</dd>\n<dd>Journal of the Avicultural Society</dd>\n<dd>Nov. 1894-1930</dd>\n<dd>extracted picklist</dd></dl>\n<br>Subjects: Birds; Cage birds</div>",
+                  "source": "commons-desc-page"
+                },
+                "Credit": {
+                  "value": "<dl><dd><a href=\"//archive.org/details/aviculturalm618991900avic\" class=\"extiw\" title=\"iarchive:aviculturalm618991900avic\"><bdi class=\"description en\" lang=\"en\" dir=\"ltr\">Internet Archive identifier</bdi>: aviculturalm618991900avic</a></dd>\n<dd><a rel=\"nofollow\" class=\"external free\" href=\"https://archive.org/download/aviculturalm618991900avic/aviculturalm618991900avic.pdf\">https://archive.org/download/aviculturalm618991900avic/aviculturalm618991900avic.pdf</a></dd></dl>",
+                  "source": "commons-desc-page"
+                },
+                "LicenseShortName": {
+                  "value": "Public domain",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "UsageTerms": {
+                  "value": "Public domain",
+                  "source": "commons-desc-page"
+                },
+                "AttributionRequired": {
+                  "value": "false",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "Copyrighted": {
+                  "value": "False",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "Restrictions": {
+                  "value": "",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "License": {
+                  "value": "pd",
+                  "source": "commons-templates",
+                  "hidden": ""
+                }
+              }
+            }
+          ]
+        },
+        {
+          "pageid": 92658517,
+          "ns": 6,
+          "title": "File:Dictionary of Greek and Roman biography and mythology (IA b29350281 0002).pdf",
+          "index": 1,
+          "imagerepository": "local",
+          "imageinfo": [
+            {
+              "size": 151994925,
+              "width": 1285,
+              "height": 2085,
+              "pagecount": 1260,
+              "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a7/Dictionary_of_Greek_and_Roman_biography_and_mythology_%28IA_b29350281_0002%29.pdf/page1-500px-Dictionary_of_Greek_and_Roman_biography_and_mythology_%28IA_b29350281_0002%29.pdf.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+              "thumbwidth": 400,
+              "thumbheight": 649,
+              "responsiveUrls": {
+                "2": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a7/Dictionary_of_Greek_and_Roman_biography_and_mythology_%28IA_b29350281_0002%29.pdf/page1-960px-Dictionary_of_Greek_and_Roman_biography_and_mythology_%28IA_b29350281_0002%29.pdf.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+              },
+              "thumbattribs": {
+                "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a7/Dictionary_of_Greek_and_Roman_biography_and_mythology_%28IA_b29350281_0002%29.pdf/page1-500px-Dictionary_of_Greek_and_Roman_biography_and_mythology_%28IA_b29350281_0002%29.pdf.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+                "decoding": "async",
+                "loading": "lazy",
+                "width": 400,
+                "height": 649,
+                "srcset": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a7/Dictionary_of_Greek_and_Roman_biography_and_mythology_%28IA_b29350281_0002%29.pdf/page1-960px-Dictionary_of_Greek_and_Roman_biography_and_mythology_%28IA_b29350281_0002%29.pdf.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail 2x"
+              },
+              "url": "https://upload.wikimedia.org/wikipedia/commons/a/a7/Dictionary_of_Greek_and_Roman_biography_and_mythology_%28IA_b29350281_0002%29.pdf?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+              "descriptionurl": "https://commons.wikimedia.org/wiki/File:Dictionary_of_Greek_and_Roman_biography_and_mythology_(IA_b29350281_0002).pdf",
+              "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=92658517",
+              "extmetadata": {
+                "DateTime": {
+                  "value": "2020-07-27 22:33:21",
+                  "source": "mediawiki-metadata",
+                  "hidden": ""
+                },
+                "ObjectName": {
+                  "value": "<div class=\"fn\">\nDictionary of Greek and Roman biography and mythology</div>",
+                  "source": "commons-desc-page"
+                },
+                "CommonsMetadataExtension": {
+                  "value": 1.2,
+                  "source": "extension",
+                  "hidden": ""
+                },
+                "Categories": {
+                  "value": "William Smith (lexicographer)|The Dictionary of Greek and Roman Biography and Mythology|1844 books|PD-old-100-expired|Scans from the Internet Archive/unverified|CC-PD-Mark|Scans from the Internet Archive|Books published in London|Books uploaded by Fæ|Books without Wikidata item|Medical Heritage Library|Books with over 1000 pages uploaded by Fæ",
+                  "source": "commons-categories",
+                  "hidden": ""
+                },
+                "Assessments": {
+                  "value": "",
+                  "source": "commons-categories",
+                  "hidden": ""
+                },
+                "Artist": {
+                  "value": "<div class=\"fn value\">\nSmith, William, 1813-1893. n 00036173</div>",
+                  "source": "commons-desc-page"
+                },
+                "ImageDescription": {
+                  "value": "<div class=\"description\">\n<p>v. 1. Abaeus-Dysponteus.--v. 2. Earinus-Nyx.--v. 3. Oarses-Zygia\n</p>\n<br>Subjects: Biography; Mythology; Biography; Classical dictionaries</div>",
+                  "source": "commons-desc-page"
+                },
+                "Credit": {
+                  "value": "<dl><dd><a href=\"//archive.org/details/b29350281_0002\" class=\"extiw\" title=\"iarchive:b29350281 0002\"><bdi class=\"description en\" lang=\"en\" dir=\"ltr\">Internet Archive identifier</bdi>: b29350281_0002</a></dd>\n<dd><a rel=\"nofollow\" class=\"external free\" href=\"https://archive.org/download/b29350281_0002/b29350281_0002.pdf\">https://archive.org/download/b29350281_0002/b29350281_0002.pdf</a></dd></dl>",
+                  "source": "commons-desc-page"
+                },
+                "Permission": {
+                  "value": "<a rel=\"nofollow\" class=\"external text\" href=\"https://creativecommons.org/publicdomain/mark/1.0/\">PDM</a> This work is available under the Creative Commons, Public Domain Mark",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "LicenseShortName": {
+                  "value": "Public domain",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "UsageTerms": {
+                  "value": "Public domain",
+                  "source": "commons-desc-page"
+                },
+                "AttributionRequired": {
+                  "value": "false",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "Copyrighted": {
+                  "value": "False",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "Restrictions": {
+                  "value": "",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "License": {
+                  "value": "pd",
+                  "source": "commons-templates",
+                  "hidden": ""
+                }
+              }
+            }
+          ]
+        },
+        {
+          "pageid": 103779127,
+          "ns": 6,
+          "title": "File:The History of the Roman Emperors, from Augustus to Constantine, in Ten Volumes, Vol. VIII (IA dli.granth.17742).pdf",
+          "index": 5,
+          "imagerepository": "local",
+          "imageinfo": [
+            {
+              "size": 25461346,
+              "width": 750,
+              "height": 1087,
+              "pagecount": 458,
+              "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/44/The_History_of_the_Roman_Emperors%2C_from_Augustus_to_Constantine%2C_in_Ten_Volumes%2C_Vol._VIII_%28IA_dli.granth.17742%29.pdf/page1-500px-The_History_of_the_Roman_Emperors%2C_from_Augustus_to_Constantine%2C_in_Ten_Volumes%2C_Vol._VIII_%28IA_dli.granth.17742%29.pdf.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+              "thumbwidth": 400,
+              "thumbheight": 580,
+              "thumbattribs": {
+                "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/44/The_History_of_the_Roman_Emperors%2C_from_Augustus_to_Constantine%2C_in_Ten_Volumes%2C_Vol._VIII_%28IA_dli.granth.17742%29.pdf/page1-500px-The_History_of_the_Roman_Emperors%2C_from_Augustus_to_Constantine%2C_in_Ten_Volumes%2C_Vol._VIII_%28IA_dli.granth.17742%29.pdf.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+                "decoding": "async",
+                "loading": "lazy",
+                "width": 400,
+                "height": 580
+              },
+              "url": "https://upload.wikimedia.org/wikipedia/commons/4/44/The_History_of_the_Roman_Emperors%2C_from_Augustus_to_Constantine%2C_in_Ten_Volumes%2C_Vol._VIII_%28IA_dli.granth.17742%29.pdf?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+              "descriptionurl": "https://commons.wikimedia.org/wiki/File:The_History_of_the_Roman_Emperors,_from_Augustus_to_Constantine,_in_Ten_Volumes,_Vol._VIII_(IA_dli.granth.17742).pdf",
+              "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=103779127",
+              "extmetadata": {
+                "DateTime": {
+                  "value": "2021-04-16 23:32:42",
+                  "source": "mediawiki-metadata",
+                  "hidden": ""
+                },
+                "ObjectName": {
+                  "value": "<div class=\"fn\">\nThe History of the Roman Emperors, from Augustus to Constantine, in Ten Volumes, Vol. VIII</div>",
+                  "source": "commons-desc-page"
+                },
+                "CommonsMetadataExtension": {
+                  "value": 1.2,
+                  "source": "extension",
+                  "hidden": ""
+                },
+                "Categories": {
+                  "value": "PD-old-100-expired|Jean-Baptiste Louis Crévier|Scans from the Internet Archive/unverified|CC-PD-Mark|Scans from the Internet Archive|Books uploaded by Fæ|Books without Wikidata item|Bharat Ek Khoj|PD-old missing SDC copyright status",
+                  "source": "commons-categories",
+                  "hidden": ""
+                },
+                "Assessments": {
+                  "value": "",
+                  "source": "commons-categories",
+                  "hidden": ""
+                },
+                "Artist": {
+                  "value": "<div class=\"fn value\">\n<dl><dd>Crevier, John Baptist Lewis</dd>\n<dd>Mill, John (Tr.)</dd></dl></div>",
+                  "source": "commons-desc-page"
+                },
+                "ImageDescription": {
+                  "value": "<div class=\"description\">\n<dl><dd><p>Source: Asiatic Society of Mumbai<br>Pages/Folios: xvi, 426p.<br>Identifier: BK_00037191<br>Digitization Sponsor: Government of Maharashtra</p></dd>\n<dd>Original Source: &lt;a href=\"<a rel=\"nofollow\" class=\"external free\" href=\"https://granthsanjeevani.com/jspui/handle/123456789/17742\">https://granthsanjeevani.com/jspui/handle/123456789/17742</a>\" rel=\"nofollow\"&gt;Item 17742&lt;/a&gt;</dd></dl>\n<br>Subjects: Book; History of Ancient World; Granth Sanjeevani</div>",
+                  "source": "commons-desc-page"
+                },
+                "Credit": {
+                  "value": "<dl><dd><a href=\"//archive.org/details/dli.granth.17742\" class=\"extiw\" title=\"iarchive:dli.granth.17742\"><bdi class=\"description en\" lang=\"en\" dir=\"ltr\">Internet Archive identifier</bdi>: dli.granth.17742</a></dd>\n<dd><a rel=\"nofollow\" class=\"external free\" href=\"https://archive.org/download/dli.granth.17742/17742.pdf\">https://archive.org/download/dli.granth.17742/17742.pdf</a></dd></dl>",
+                  "source": "commons-desc-page"
+                },
+                "LicenseShortName": {
+                  "value": "Public domain",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "UsageTerms": {
+                  "value": "Public domain",
+                  "source": "commons-desc-page"
+                },
+                "AttributionRequired": {
+                  "value": "false",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "Copyrighted": {
+                  "value": "False",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "Restrictions": {
+                  "value": "",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "License": {
+                  "value": "pd",
+                  "source": "commons-templates",
+                  "hidden": ""
+                }
+              }
+            }
+          ]
+        },
+        {
+          "pageid": 198339552,
+          "ns": 6,
+          "title": "File:Dictionary of Greek and Roman biography and mythology (IA dictionaryofgree02smituoft).pdf",
+          "index": 2,
+          "imagerepository": "local",
+          "imageinfo": [
+            {
+              "size": 216885160,
+              "width": 727,
+              "height": 1279,
+              "pagecount": 1240,
+              "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a0/Dictionary_of_Greek_and_Roman_biography_and_mythology_%28IA_dictionaryofgree02smituoft%29.pdf/page1-500px-Dictionary_of_Greek_and_Roman_biography_and_mythology_%28IA_dictionaryofgree02smituoft%29.pdf.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+              "thumbwidth": 400,
+              "thumbheight": 704,
+              "thumbattribs": {
+                "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a0/Dictionary_of_Greek_and_Roman_biography_and_mythology_%28IA_dictionaryofgree02smituoft%29.pdf/page1-500px-Dictionary_of_Greek_and_Roman_biography_and_mythology_%28IA_dictionaryofgree02smituoft%29.pdf.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+                "decoding": "async",
+                "loading": "lazy",
+                "width": 400,
+                "height": 704
+              },
+              "url": "https://upload.wikimedia.org/wikipedia/commons/a/a0/Dictionary_of_Greek_and_Roman_biography_and_mythology_%28IA_dictionaryofgree02smituoft%29.pdf?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+              "descriptionurl": "https://commons.wikimedia.org/wiki/File:Dictionary_of_Greek_and_Roman_biography_and_mythology_(IA_dictionaryofgree02smituoft).pdf",
+              "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=198339552",
+              "extmetadata": {
+                "DateTime": {
+                  "value": "2026-08-28 12:50:40",
+                  "source": "mediawiki-metadata",
+                  "hidden": ""
+                },
+                "ObjectName": {
+                  "value": "<div class=\"fn\">\nDictionary of Greek and Roman biography and mythology</div>",
+                  "source": "commons-desc-page"
+                },
+                "CommonsMetadataExtension": {
+                  "value": 1.2,
+                  "source": "extension",
+                  "hidden": ""
+                },
+                "Categories": {
+                  "value": "PD-old-100-expired|Scans from the Internet Archive/unverified|CC-PD-Mark|Scans from the Internet Archive|Books uploaded by Fæ|Books without Wikidata item|IA uploads needing categories|Scans from University of Toronto|PD-old missing SDC copyright status",
+                  "source": "commons-categories",
+                  "hidden": ""
+                },
+                "Assessments": {
+                  "value": "",
+                  "source": "commons-categories",
+                  "hidden": ""
+                },
+                "Artist": {
+                  "value": "<div class=\"fn value\">\nSmith, William, Sir, 1813-1893</div>",
+                  "source": "commons-desc-page"
+                },
+                "ImageDescription": {
+                  "value": "<div class=\"description\">\n<p>26\n</p>\n<br>Subjects: Classical dictionaries; Mythology, Classical</div>",
+                  "source": "commons-desc-page"
+                },
+                "Credit": {
+                  "value": "<dl><dd><a href=\"//archive.org/details/dictionaryofgree02smituoft\" class=\"extiw\" title=\"iarchive:dictionaryofgree02smituoft\"><bdi class=\"description en\" lang=\"en\" dir=\"ltr\">Internet Archive identifier</bdi>: dictionaryofgree02smituoft</a></dd>\n<dd><a rel=\"nofollow\" class=\"external free\" href=\"https://archive.org/download/dictionaryofgree02smituoft/dictionaryofgree02smituoft.pdf\">https://archive.org/download/dictionaryofgree02smituoft/dictionaryofgree02smituoft.pdf</a></dd></dl>\n<ul><li>IA contributor: Robarts - University of Toronto</li>\n<li>IA digitizing sponsor: MSN</li></ul>",
+                  "source": "commons-desc-page"
+                },
+                "LicenseShortName": {
+                  "value": "Public domain",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "UsageTerms": {
+                  "value": "Public domain",
+                  "source": "commons-desc-page"
+                },
+                "AttributionRequired": {
+                  "value": "false",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "Copyrighted": {
+                  "value": "False",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "Restrictions": {
+                  "value": "",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "License": {
+                  "value": "pd",
+                  "source": "commons-templates",
+                  "hidden": ""
+                }
+              }
+            }
+          ]
+        }
+      ]
+    }
+  }
+}

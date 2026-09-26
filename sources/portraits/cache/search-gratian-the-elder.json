@@ -1,0 +1,552 @@
+{
+  "person_id": "gratian-the-elder",
+  "query": "Gratian the Elder",
+  "response": {
+    "batchcomplete": true,
+    "continue": {
+      "gsroffset": 5,
+      "continue": "gsroffset||"
+    },
+    "query": {
+      "pages": [
+        {
+          "pageid": 8854382,
+          "ns": 6,
+          "title": "File:Gratianus.jpg",
+          "index": 1,
+          "imagerepository": "local",
+          "imageinfo": [
+            {
+              "size": 67506,
+              "width": 394,
+              "height": 391,
+              "thumburl": "https://upload.wikimedia.org/wikipedia/commons/9/91/Gratianus.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+              "thumbwidth": 400,
+              "thumbheight": 397,
+              "thumbattribs": {
+                "src": "https://upload.wikimedia.org/wikipedia/commons/9/91/Gratianus.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+                "decoding": "async",
+                "loading": "lazy",
+                "width": 400,
+                "height": 397
+              },
+              "url": "https://upload.wikimedia.org/wikipedia/commons/9/91/Gratianus.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+              "descriptionurl": "https://commons.wikimedia.org/wiki/File:Gratianus.jpg",
+              "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=8854382",
+              "extmetadata": {
+                "DateTime": {
+                  "value": "2009-12-29 07:38:23",
+                  "source": "mediawiki-metadata",
+                  "hidden": ""
+                },
+                "ObjectName": {
+                  "value": "Gratianus",
+                  "source": "mediawiki-metadata"
+                },
+                "CommonsMetadataExtension": {
+                  "value": 1.2,
+                  "source": "extension",
+                  "hidden": ""
+                },
+                "Categories": {
+                  "value": "PD Old|CC-PD-Mark|PD-old missing SDC copyright status|Promptuarii Iconum Insigniorum (Ancient Rome)|Gratianus in art",
+                  "source": "commons-categories",
+                  "hidden": ""
+                },
+                "Assessments": {
+                  "value": "",
+                  "source": "commons-categories",
+                  "hidden": ""
+                },
+                "ImageDescription": {
+                  "value": "The Roman emperor Gratian was the son of the emperor Valentinian the Great. Gratian's father made Gratian his co-emperor in  367. Gratian died in 383, during the uprising led by Magnus Maximus.",
+                  "source": "commons-desc-page"
+                },
+                "DateTimeOriginal": {
+                  "value": "1553",
+                  "source": "commons-desc-page"
+                },
+                "Credit": {
+                  "value": "\"Promptuarii Iconum Insigniorum\"",
+                  "source": "commons-desc-page"
+                },
+                "Artist": {
+                  "value": "Published by Guillaume Rouille (1518?-1589)",
+                  "source": "commons-desc-page"
+                },
+                "Permission": {
+                  "value": "<table class=\"licensetpl\" style=\"display:none\">\n<tbody><tr>\n<td><span class=\"licensetpl_short\">Public domain</span><span class=\"licensetpl_long\">Public domain</span><span class=\"licensetpl_link_req\">false</span><span class=\"licensetpl_attr_req\">false</span>\n</td></tr></tbody></table>\n<table style=\"width: 100%; clear: both; margin: 0.5em auto; background-color: var(--background-color-progressive-subtle, #f7f8ff); color: var(--color-base, #202122); border: var(--border-subtle, 2px solid #8888aa); border-spacing: 8px; padding: 0px;\" dir=\"ltr\" class=\"layouttemplate\" lang=\"en\">\n<tbody><tr>\n<td rowspan=\"2\"><span typeof=\"mw:File\"><span title=\"Public domain\"><img alt=\"Public domain\" src=\"https://thumb.wikimedia.org/wikipedia/commons/thumb/6/62/PD-icon.svg/120px-PD-icon.svg.png?utm_source=commons.wikimedia.org&amp;utm_campaign=parser&amp;utm_content=thumbnail\" decoding=\"async\" loading=\"lazy\" width=\"64\" height=\"64\" class=\"mw-file-element\" srcset=\"https://thumb.wikimedia.org/wikipedia/commons/thumb/6/62/PD-icon.svg/250px-PD-icon.svg.png?utm_source=commons.wikimedia.org&amp;utm_campaign=parser&amp;utm_content=thumbnail 2x\" data-file-width=\"196\" data-file-height=\"196\"></span></span>\n</td>\n<td>\n<p>This work is in the <b><a href=\"https://en.wikipedia.org/wiki/public_domain\" class=\"extiw\" title=\"en:public domain\">public domain</a></b> in its country of origin and other countries and areas where the <a href=\"https://en.wikipedia.org/wiki/List_of_countries%27_copyright_lengths\" class=\"extiw\" title=\"w:List of countries' copyright lengths\">copyright term</a> is the author's <b>life plus 70 years or fewer</b>.\n</p>\n<hr>\n<span typeof=\"mw:File\"><span><img src=\"https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6e/Dialog-warning.svg/40px-Dialog-warning.svg.png?utm_source=commons.wikimedia.org&amp;utm_campaign=parser&amp;utm_content=thumbnail\" decoding=\"async\" loading=\"lazy\" width=\"25\" height=\"25\" class=\"mw-file-element\" srcset=\"https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6e/Dialog-warning.svg/60px-Dialog-warning.svg.png?utm_source=commons.wikimedia.org&amp;utm_campaign=parser&amp;utm_content=thumbnail 2x\" data-file-width=\"48\" data-file-height=\"48\"></span></span> <small>You must also include a <a href=\"//commons.wikimedia.org/wiki/Commons:Copyright_tags/Country-specific_tags#United_States_of_America\" title=\"Commons:Copyright tags/Country-specific tags\">United States public domain tag</a> to indicate why this work is in the public domain in the United States.<div class=\"navigation-not-searchable\"> Note that a few countries have copyright terms longer than 70 years: Mexico has 100 years, Jamaica has 95 years, Colombia has 80 years, and Guatemala and Samoa have 75 years. This image may <i>not</i> be in the public domain in these countries, which moreover do <i>not</i> implement the <a href=\"https://en.wikipedia.org/wiki/rule_of_the_shorter_term\" class=\"extiw\" title=\"w:rule of the shorter term\">rule of the shorter term</a>. Honduras has a general copyright term of 75 years, but it <i>does</i> implement the rule of the shorter term. Copyright may extend on works created by French who died for France in <a href=\"https://en.wikipedia.org/wiki/World_War_II\" class=\"extiw\" title=\"w:World War II\">World War II</a> (<a href=\"//commons.wikimedia.org/wiki/Commons:Copyright_rules_by_territory/France\" title=\"Commons:Copyright rules by territory/France\">more information</a>), Russians who served in <a href=\"https://en.wikipedia.org/wiki/Eastern_Front_(World_War_II)\" class=\"extiw\" title=\"w:Eastern Front (World War II)\">the Eastern Front of World War II</a> (known as the Great Patriotic War in Russia) and posthumously <a href=\"https://en.wikipedia.org/wiki/Rehabilitation_(Soviet)\" class=\"extiw\" title=\"w:Rehabilitation (Soviet)\">rehabilitated</a> victims of Soviet repressions (<a href=\"//commons.wikimedia.org/wiki/Template:PD-Russia\" title=\"Template:PD-Russia\">more information</a>).</div></small>\n</td></tr>\n<tr>\n<td colspan=\"2\" style=\"text-align:center;font-size:x-small;line-height:140%;\"><a href=\"https://creativecommons.org/publicdomain/mark/1.0/deed.en\" class=\"extiw\" title=\"ccorg:publicdomain/mark/1.0/deed.en\">This file has been identified as being free of known restrictions under copyright law, including all related and neighboring rights.</a>\n</td></tr></tbody></table><span class=\"licensetpl_link\" style=\"display:none;\">https://creativecommons.org/publicdomain/mark/1.0/</span><span class=\"licensetpl_short\" style=\"display:none;\">PDM</span><span class=\"licensetpl_long\" style=\"display:none;\">Creative Commons Public Domain Mark 1.0</span><span class=\"licensetpl_link_req\" style=\"display:none;\">false</span><span class=\"licensetpl_attr_req\" style=\"display:none;\">false</span>",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "LicenseShortName": {
+                  "value": "Public domain",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "UsageTerms": {
+                  "value": "Public domain",
+                  "source": "commons-desc-page"
+                },
+                "AttributionRequired": {
+                  "value": "false",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "Copyrighted": {
+                  "value": "False",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "Restrictions": {
+                  "value": "",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "License": {
+                  "value": "pd",
+                  "source": "commons-templates",
+                  "hidden": ""
+                }
+              }
+            }
+          ]
+        },
+        {
+          "pageid": 15339252,
+          "ns": 6,
+          "title": "File:Gratian Solidus.jpg",
+          "index": 3,
+          "imagerepository": "local",
+          "imageinfo": [
+            {
+              "size": 81411,
+              "width": 599,
+              "height": 588,
+              "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f4/Gratian_Solidus.jpg/500px-Gratian_Solidus.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+              "thumbwidth": 400,
+              "thumbheight": 393,
+              "responsiveUrls": {
+                "2": "https://upload.wikimedia.org/wikipedia/commons/f/f4/Gratian_Solidus.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled"
+              },
+              "thumbattribs": {
+                "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f4/Gratian_Solidus.jpg/500px-Gratian_Solidus.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+                "decoding": "async",
+                "loading": "lazy",
+                "width": 400,
+                "height": 393,
+                "srcset": "https://upload.wikimedia.org/wikipedia/commons/f/f4/Gratian_Solidus.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled 2x"
+              },
+              "url": "https://upload.wikimedia.org/wikipedia/commons/f/f4/Gratian_Solidus.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+              "descriptionurl": "https://commons.wikimedia.org/wiki/File:Gratian_Solidus.jpg",
+              "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=15339252",
+              "extmetadata": {
+                "DateTime": {
+                  "value": "2011-05-29 12:02:02",
+                  "source": "mediawiki-metadata",
+                  "hidden": ""
+                },
+                "ObjectName": {
+                  "value": "Gratian Solidus",
+                  "source": "mediawiki-metadata"
+                },
+                "CommonsMetadataExtension": {
+                  "value": 1.2,
+                  "source": "extension",
+                  "hidden": ""
+                },
+                "Categories": {
+                  "value": "Letocetum|Gratianus|Self-published work|Solidi of Gratian|Gratian on coins",
+                  "source": "commons-categories",
+                  "hidden": ""
+                },
+                "Assessments": {
+                  "value": "",
+                  "source": "commons-categories",
+                  "hidden": ""
+                },
+                "ImageDescription": {
+                  "value": "Gratian Solidus",
+                  "source": "commons-desc-page"
+                },
+                "DateTimeOriginal": {
+                  "value": "2011-05-28",
+                  "source": "commons-desc-page"
+                },
+                "Credit": {
+                  "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+                  "source": "commons-desc-page"
+                },
+                "Artist": {
+                  "value": "<a href=\"//commons.wikimedia.org/w/index.php?title=User:Rasielsuarez&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"User:Rasielsuarez (page does not exist)\">Rasiel Suarez</a>",
+                  "source": "commons-desc-page"
+                },
+                "LicenseShortName": {
+                  "value": "CC BY-SA 3.0",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "UsageTerms": {
+                  "value": "Creative Commons Attribution-Share Alike 3.0",
+                  "source": "commons-desc-page"
+                },
+                "AttributionRequired": {
+                  "value": "true",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "LicenseUrl": {
+                  "value": "https://creativecommons.org/licenses/by-sa/3.0",
+                  "source": "commons-desc-page"
+                },
+                "Copyrighted": {
+                  "value": "True",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "Restrictions": {
+                  "value": "",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "License": {
+                  "value": "cc-by-sa-3.0",
+                  "source": "commons-templates",
+                  "hidden": ""
+                }
+              }
+            }
+          ]
+        },
+        {
+          "pageid": 55364146,
+          "ns": 6,
+          "title": "File:Roman coin, siliqua of Gratian - (FindID 90905).jpg",
+          "index": 4,
+          "imagerepository": "local",
+          "imageinfo": [
+            {
+              "size": 126877,
+              "width": 1692,
+              "height": 735,
+              "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e8/Roman_coin%2C_siliqua_of_Gratian_-_%28FindID_90905%29.jpg/500px-Roman_coin%2C_siliqua_of_Gratian_-_%28FindID_90905%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+              "thumbwidth": 400,
+              "thumbheight": 174,
+              "responsiveUrls": {
+                "2": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e8/Roman_coin%2C_siliqua_of_Gratian_-_%28FindID_90905%29.jpg/960px-Roman_coin%2C_siliqua_of_Gratian_-_%28FindID_90905%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+              },
+              "thumbattribs": {
+                "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e8/Roman_coin%2C_siliqua_of_Gratian_-_%28FindID_90905%29.jpg/500px-Roman_coin%2C_siliqua_of_Gratian_-_%28FindID_90905%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+                "decoding": "async",
+                "loading": "lazy",
+                "width": 400,
+                "height": 174,
+                "srcset": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e8/Roman_coin%2C_siliqua_of_Gratian_-_%28FindID_90905%29.jpg/960px-Roman_coin%2C_siliqua_of_Gratian_-_%28FindID_90905%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail 2x"
+              },
+              "url": "https://upload.wikimedia.org/wikipedia/commons/e/e8/Roman_coin%2C_siliqua_of_Gratian_-_%28FindID_90905%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+              "descriptionurl": "https://commons.wikimedia.org/wiki/File:Roman_coin,_siliqua_of_Gratian_-_(FindID_90905).jpg",
+              "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=55364146",
+              "extmetadata": {
+                "DateTime": {
+                  "value": "2017-01-25 22:45:45",
+                  "source": "mediawiki-metadata",
+                  "hidden": ""
+                },
+                "ObjectName": {
+                  "value": "<div class=\"fn\">\nRoman coin: siliqua of Gratian</div>",
+                  "source": "commons-desc-page"
+                },
+                "CommonsMetadataExtension": {
+                  "value": 1.2,
+                  "source": "extension",
+                  "hidden": ""
+                },
+                "Categories": {
+                  "value": "Portable Antiquities Scheme|Images uploaded by Fæ|Portable Antiquities Scheme, BERK|Gratian on coins|Siliquas of Gratian",
+                  "source": "commons-categories",
+                  "hidden": ""
+                },
+                "Assessments": {
+                  "value": "",
+                  "source": "commons-categories",
+                  "hidden": ""
+                },
+                "Artist": {
+                  "value": "<div class=\"fn value\">\nWest Berkshire, Kate Sutton, 2005-11-10 16:31:48</div>",
+                  "source": "commons-desc-page"
+                },
+                "ImageDescription": {
+                  "value": "A Roman silver clipped siliqua of Gratian (367-83), VIRTVS ROMANORVM, Trier, 378-83.  RIC IX 58a.\n<pre>   Dimensions: Diameter 16.29mm; Thickness 1.30mm Diameter; Weight 1.86g\n   \n</pre>\n Sear, D R Roman Coins and Their Values Seaby [pages: 349 ref: 4144]",
+                  "source": "commons-desc-page"
+                },
+                "DateTimeOriginal": {
+                  "value": "between 378 and 388",
+                  "source": "commons-desc-page"
+                },
+                "Credit": {
+                  "value": "<a rel=\"nofollow\" class=\"external free\" href=\"https://finds.org.uk/database/ajax/download/id/82423\">https://finds.org.uk/database/ajax/download/id/82423</a><br>Catalog: <a rel=\"nofollow\" class=\"external free\" href=\"https://finds.org.uk/database/images/image/id/82423\">https://finds.org.uk/database/images/image/id/82423</a><br>Artefact: <a rel=\"nofollow\" class=\"external free\" href=\"https://finds.org.uk/database/artefacts/record/id/90905\">https://finds.org.uk/database/artefacts/record/id/90905</a>",
+                  "source": "commons-desc-page"
+                },
+                "Permission": {
+                  "value": "Attribution-ShareAlike License",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "LicenseShortName": {
+                  "value": "CC BY-SA 2.0",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "UsageTerms": {
+                  "value": "Creative Commons Attribution-Share Alike 2.0",
+                  "source": "commons-desc-page"
+                },
+                "AttributionRequired": {
+                  "value": "true",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "Attribution": {
+                  "value": "The Portable Antiquities Scheme/ The Trustees of the British Museum",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "LicenseUrl": {
+                  "value": "https://creativecommons.org/licenses/by-sa/2.0",
+                  "source": "commons-desc-page"
+                },
+                "Copyrighted": {
+                  "value": "True",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "Restrictions": {
+                  "value": "",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "License": {
+                  "value": "cc-by-sa-2.0",
+                  "source": "commons-templates",
+                  "hidden": ""
+                }
+              }
+            }
+          ]
+        },
+        {
+          "pageid": 93353782,
+          "ns": 6,
+          "title": "File:Gratian Siliqua.jpg",
+          "index": 2,
+          "imagerepository": "local",
+          "imageinfo": [
+            {
+              "size": 156261,
+              "width": 720,
+              "height": 651,
+              "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/94/Gratian_Siliqua.jpg/500px-Gratian_Siliqua.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+              "thumbwidth": 400,
+              "thumbheight": 362,
+              "responsiveUrls": {
+                "2": "https://upload.wikimedia.org/wikipedia/commons/9/94/Gratian_Siliqua.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled"
+              },
+              "thumbattribs": {
+                "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/94/Gratian_Siliqua.jpg/500px-Gratian_Siliqua.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+                "decoding": "async",
+                "loading": "lazy",
+                "width": 400,
+                "height": 362,
+                "srcset": "https://upload.wikimedia.org/wikipedia/commons/9/94/Gratian_Siliqua.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled 2x"
+              },
+              "url": "https://upload.wikimedia.org/wikipedia/commons/9/94/Gratian_Siliqua.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+              "descriptionurl": "https://commons.wikimedia.org/wiki/File:Gratian_Siliqua.jpg",
+              "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=93353782",
+              "extmetadata": {
+                "DateTime": {
+                  "value": "2020-08-21 01:57:50",
+                  "source": "mediawiki-metadata",
+                  "hidden": ""
+                },
+                "ObjectName": {
+                  "value": "Gratian Siliqua",
+                  "source": "mediawiki-metadata"
+                },
+                "CommonsMetadataExtension": {
+                  "value": 1.2,
+                  "source": "extension",
+                  "hidden": ""
+                },
+                "Categories": {
+                  "value": "CC-Zero|Gratianus|Self-published work|Gratian on coins|Siliquas of Gratian",
+                  "source": "commons-categories",
+                  "hidden": ""
+                },
+                "Assessments": {
+                  "value": "",
+                  "source": "commons-categories",
+                  "hidden": ""
+                },
+                "ImageDescription": {
+                  "value": "AR siliqua. \n<p>Pearl-diademed, draped, and cuirassed bust of Gratian right.\nDN GRATI[A] NVS PF AVG.\nReverse: Roma with head left, seated facing on throne, holding globus and scepter; AQPS.\nVIR TVSRO MANORVM\nAQPS\n</p>\n1.76g, 17.15mm (max diameter). RIC-28a.",
+                  "source": "commons-desc-page"
+                },
+                "DateTimeOriginal": {
+                  "value": "AD 378-383",
+                  "source": "commons-desc-page"
+                },
+                "Credit": {
+                  "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+                  "source": "commons-desc-page"
+                },
+                "Artist": {
+                  "value": "<a href=\"//commons.wikimedia.org/wiki/User:Velatrix\" title=\"User:Velatrix\">Velatrix</a>",
+                  "source": "commons-desc-page"
+                },
+                "LicenseShortName": {
+                  "value": "CC0",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "UsageTerms": {
+                  "value": "Creative Commons Zero, Public Domain Dedication",
+                  "source": "commons-desc-page"
+                },
+                "AttributionRequired": {
+                  "value": "false",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "LicenseUrl": {
+                  "value": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+                  "source": "commons-desc-page"
+                },
+                "Copyrighted": {
+                  "value": "True",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "Restrictions": {
+                  "value": "",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "License": {
+                  "value": "cc0",
+                  "source": "commons-templates",
+                  "hidden": ""
+                }
+              }
+            }
+          ]
+        },
+        {
+          "pageid": 116388119,
+          "ns": 6,
+          "title": "File:Gold Solidus of Gratian, Antioch.jpg",
+          "index": 5,
+          "imagerepository": "local",
+          "imageinfo": [
+            {
+              "size": 2178027,
+              "width": 2701,
+              "height": 2707,
+              "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fc/Gold_Solidus_of_Gratian%2C_Antioch.jpg/500px-Gold_Solidus_of_Gratian%2C_Antioch.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+              "thumbwidth": 400,
+              "thumbheight": 401,
+              "responsiveUrls": {
+                "2": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fc/Gold_Solidus_of_Gratian%2C_Antioch.jpg/960px-Gold_Solidus_of_Gratian%2C_Antioch.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+              },
+              "thumbattribs": {
+                "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fc/Gold_Solidus_of_Gratian%2C_Antioch.jpg/500px-Gold_Solidus_of_Gratian%2C_Antioch.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+                "decoding": "async",
+                "loading": "lazy",
+                "width": 400,
+                "height": 401,
+                "srcset": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fc/Gold_Solidus_of_Gratian%2C_Antioch.jpg/960px-Gold_Solidus_of_Gratian%2C_Antioch.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail 2x"
+              },
+              "url": "https://upload.wikimedia.org/wikipedia/commons/f/fc/Gold_Solidus_of_Gratian%2C_Antioch.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+              "descriptionurl": "https://commons.wikimedia.org/wiki/File:Gold_Solidus_of_Gratian,_Antioch.jpg",
+              "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=116388119",
+              "extmetadata": {
+                "DateTime": {
+                  "value": "2022-03-24 18:58:35",
+                  "source": "mediawiki-metadata",
+                  "hidden": ""
+                },
+                "ObjectName": {
+                  "value": "Gold Solidus of Gratian, Antioch",
+                  "source": "mediawiki-metadata"
+                },
+                "CommonsMetadataExtension": {
+                  "value": 1.2,
+                  "source": "extension",
+                  "hidden": ""
+                },
+                "Categories": {
+                  "value": "CC-Zero|Solidi of Gratian|Gratian on coins",
+                  "source": "commons-categories",
+                  "hidden": ""
+                },
+                "Assessments": {
+                  "value": "",
+                  "source": "commons-categories",
+                  "hidden": ""
+                },
+                "ImageDescription": {
+                  "value": "D N VALENS - PER F AVG",
+                  "source": "commons-desc-page"
+                },
+                "DateTimeOriginal": {
+                  "value": "between 367 and 375",
+                  "source": "commons-desc-page"
+                },
+                "Credit": {
+                  "value": "<a rel=\"nofollow\" class=\"external free\" href=\"http://numismatics.org/collection/1944.100.25922\">http://numismatics.org/collection/1944.100.25922</a>",
+                  "source": "commons-desc-page"
+                },
+                "Artist": {
+                  "value": "ANS",
+                  "source": "commons-desc-page"
+                },
+                "LicenseShortName": {
+                  "value": "CC0",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "UsageTerms": {
+                  "value": "Creative Commons Zero, Public Domain Dedication",
+                  "source": "commons-desc-page"
+                },
+                "AttributionRequired": {
+                  "value": "false",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "LicenseUrl": {
+                  "value": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+                  "source": "commons-desc-page"
+                },
+                "Copyrighted": {
+                  "value": "True",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "Restrictions": {
+                  "value": "",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "License": {
+                  "value": "cc0",
+                  "source": "commons-templates",
+                  "hidden": ""
+                }
+              }
+            }
+          ]
+        }
+      ]
+    }
+  }
+}

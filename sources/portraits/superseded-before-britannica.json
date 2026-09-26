@@ -1,0 +1,330 @@
+[
+  {
+    "id": "julius-caesar",
+    "name": "Julius Caesar",
+    "aliases": [
+      "Julius Caesar",
+      "Caesar"
+    ],
+    "source_mentions": [
+      {
+        "anchor": "L619",
+        "chapter": "II"
+      }
+    ],
+    "identity_note": "",
+    "status": "downloaded",
+    "resolved_title": "Julius Caesar",
+    "article_url": "https://en.wikipedia.org/wiki/Julius_Caesar",
+    "candidates": [
+      "File:(Venice) Pompey the Great, Museo Archeologico Nazionale.jpg",
+      "File:Augustus Bevilacqua Glyptothek Munich 317.jpg",
+      "File:Brutus & L. Plaetorius Cestianus, denarius, 42 BC, RRC 508-3.jpg",
+      "File:Bust of Gaius Iulius Caesar in Naples.jpg",
+      "File:Caesar-Altes-Museum-Berlin.jpg",
+      "File:Cato Volubilis bronze bust.jpg",
+      "File:Cesar Dictator Perpetuo denier Gallica 23528 avers.jpg",
+      "File:Cesar Dictator Perpetuo denier Gallica 23528 revers.jpg",
+      "File:Cicero Denounces Catiline in the Roman Senate by Cesare Maccari.png",
+      "File:Cleopatra and Caesar by Jean-Leon-Gerome.jpg",
+      "File:Commentarii de Bello Gallico.jpg",
+      "File:Denarius of Julius Caesar.jpg",
+      "File:Denderah3 Cleopatra Cesarion.jpg",
+      "File:Gaius Cassius Longinus and Lentulus Spinther. 42 BC. AR Denarius.jpg",
+      "File:Gaius Iulius Caesar (Vatican Museum).jpg",
+      "File:Gaius Julius Caesar, denarius, 44 BC, RRC 480-10.jpg",
+      "File:Gaius Julius Caesar, denarius, 44 BC, RRC 480-3.jpg",
+      "File:Giulio-cesare-enhanced 1-800x1450.jpg",
+      "File:Iulius Caesar denarius 44 BC 851830.jpg",
+      "File:Jcaesar-pt1.ogg",
+      "File:Jcaesar-pt2.ogg",
+      "File:Jcaesar-pt3.ogg",
+      "File:Jean-Léon Gérôme - The Death of Caesar - Walters 37884.jpg",
+      "File:Julii Caesaris quae exstant.tif",
+      "File:Julius Caesar's crematorium.jpg",
+      "File:Julius Caesar & C. Cossutius Maridianus, denarius, 44 BC, RRC 480-19.jpg",
+      "File:Julius Caesar Coustou Louvre.png",
+      "File:Lionel Royer - Vercingetorix Throwing down His Weapons at the feet of Julius Caesar.jpg",
+      "File:Marc Antony's Oration at Caesar's Funeral by George Edward Robertson.jpg",
+      "File:Porta palatina, statue.jpg",
+      "File:Portrait head of Julius Caesar (1st cent. A.D.) at the Archaeological Museum of Corinth on 10 January 2020.jpg",
+      "File:Portrait of Julius Caesar (1st cent. B.C.) at the Archaeological Museum of Sparta on 15 May 2019.jpg",
+      "File:Q. Pompeius Rufus, denarius, 54 BC, RRC 434-1 (Sulla only).jpg",
+      "File:RSC 0022 - transparent background.png",
+      "File:Retrato de Julio César (26724093101) (cropped).jpg",
+      "File:Rimini083.jpg",
+      "File:Roman Wall painting from the House of Giuseppe II, Pompeii, 1st century AD, death of Sophonisba, but more likely Cleopatra VII of Egypt consuming poison.jpg",
+      "File:Roman families 4 Nov 08.png",
+      "File:Venus and Cupid from the House of Marcus Fabius Rufus at Pompeii, most likely a depiction of Cleopatra VII.jpg"
+    ],
+    "selected_file": "File:Retrato_de_Julio_César_(26724093101)_(cropped).jpg",
+    "file_page_url": "https://commons.wikimedia.org/wiki/File:Retrato_de_Julio_C%C3%A9sar_(26724093101)_(cropped).jpg",
+    "original_url": "https://upload.wikimedia.org/wikipedia/commons/6/62/Retrato_de_Julio_C%C3%A9sar_%2826724093101%29_%28cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+    "original_width": 1752,
+    "original_height": 2379,
+    "commons_sha1": "7740696bf17d76b558a7d803e5c4c51e1df587d2",
+    "mime": "image/jpeg",
+    "download_url": "https://upload.wikimedia.org/wikipedia/commons/6/62/Retrato_de_Julio_C%C3%A9sar_%2826724093101%29_%28cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "image_description": "Portrait of Julius Caesar",
+    "artist": "Ángel M. Felicísimo from Mérida, España",
+    "credit": "Retrato de Julio César",
+    "license": "Public domain",
+    "license_url": "",
+    "usage_terms": "Public domain",
+    "copyrighted": "False",
+    "attribution_required": "false",
+    "restrictions": "",
+    "metadata_date": "2026-09-26",
+    "metadata_raw": {
+      "DateTime": {
+        "value": "2022-05-27 03:13:06",
+        "source": "mediawiki-metadata",
+        "hidden": ""
+      },
+      "ObjectName": {
+        "value": "Retrato de Julio César (26724093101) (cropped)",
+        "source": "mediawiki-metadata"
+      },
+      "CommonsMetadataExtension": {
+        "value": 1.2,
+        "source": "extension",
+        "hidden": ""
+      },
+      "Categories": {
+        "value": "Tusculum portrait|PD-old-100-expired|PD-Art (PD-old-100-expired)|Artworks with Wikidata item|Images with extracted images|Extracted images|CC-PD-Mark|Artworks with Wikidata item missing genre|Artworks main subject type unknown type of work|Artworks main subject 3D work|Photographs by Ángel M. Felicísimo|Cleopatra y la fascinación de Egipto",
+        "source": "commons-categories",
+        "hidden": ""
+      },
+      "Assessments": {
+        "value": "",
+        "source": "commons-categories",
+        "hidden": ""
+      },
+      "ImageDescription": {
+        "value": "Portrait of Julius Caesar <span class=\"mw-valign-text-top noprint\" typeof=\"mw:File/Frameless\"><a href=\"//commons.wikimedia.org/wiki/File:Retrato_de_Julio_C%C3%A9sar_(26724093101)_(cropped).jpg#ooui-php-4\" title=\"Edit this at Structured Data on Commons\"><img alt=\"Edit this at Structured Data on Commons\" src=\"https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8a/OOjs_UI_icon_edit-ltr-progressive.svg/20px-OOjs_UI_icon_edit-ltr-progressive.svg.png?utm_source=commons.wikimedia.org&amp;utm_campaign=parser&amp;utm_content=thumbnail\" decoding=\"async\" loading=\"lazy\" width=\"10\" height=\"10\" class=\"mw-file-element\" data-file-width=\"20\" data-file-height=\"20\"></a></span>",
+        "source": "commons-desc-page"
+      },
+      "Credit": {
+        "value": "<a rel=\"nofollow\" class=\"external text\" href=\"https://www.flickr.com/photos/elgolem/26724093101/\">Retrato de Julio César</a>",
+        "source": "commons-desc-page"
+      },
+      "Artist": {
+        "value": "<a rel=\"nofollow\" class=\"external text\" href=\"https://www.flickr.com/people/8146925@N08\">Ángel M. Felicísimo</a> from Mérida, España",
+        "source": "commons-desc-page"
+      },
+      "LicenseShortName": {
+        "value": "Public domain",
+        "source": "commons-desc-page",
+        "hidden": ""
+      },
+      "UsageTerms": {
+        "value": "Public domain",
+        "source": "commons-desc-page"
+      },
+      "AttributionRequired": {
+        "value": "false",
+        "source": "commons-desc-page",
+        "hidden": ""
+      },
+      "Copyrighted": {
+        "value": "False",
+        "source": "commons-desc-page",
+        "hidden": ""
+      },
+      "Restrictions": {
+        "value": "",
+        "source": "commons-desc-page",
+        "hidden": ""
+      },
+      "License": {
+        "value": "pd",
+        "source": "commons-templates",
+        "hidden": ""
+      }
+    },
+    "attribution_text": "",
+    "permission_text": "",
+    "local_path": "images/people/julius-caesar.jpg",
+    "bytes": 611664,
+    "sha256": "3ba2cbda218b7dfaf09baadd7112df10e286a4170d729bdde8e621d4c9602b7e",
+    "width": 1752,
+    "height": 2379,
+    "actual_format": "JPEG",
+    "depiction_kind": "Ancient object; attribution per source",
+    "reuse_notes": "Source records public domain / dedication; keep provenance and check territorial or non-copyright restrictions before publication.",
+    "credit_note": ""
+  },
+  {
+    "id": "alexander-the-great",
+    "name": "Alexander the Great",
+    "aliases": [
+      "Alexander"
+    ],
+    "source_mentions": [
+      {
+        "anchor": "L568",
+        "chapter": "I"
+      },
+      {
+        "anchor": "L599",
+        "chapter": "II"
+      },
+      {
+        "anchor": "L698",
+        "chapter": "III"
+      }
+    ],
+    "identity_note": "",
+    "status": "downloaded",
+    "resolved_title": "Alexander the Great",
+    "article_url": "https://en.wikipedia.org/wiki/Alexander_the_Great",
+    "candidates": [
+      "File:2persian gate wall.JPG",
+      "File:ACMA 1331 Alexander 2.JPG",
+      "File:Alexander-Empire 323bc.jpg",
+      "File:Alexander-lysippus1-1.jpg",
+      "File:AlexanderCameo.JPG",
+      "File:AlexanderConquestsInIndia.jpg",
+      "File:Alexander Mosaic detail of Alexander the Great (3x4 cropped).jpg",
+      "File:Alexander Sarcophagus Battle of Issus.jpg",
+      "File:Alexander and Hephaestion.jpg",
+      "File:Alexander attacks the citadel on the Indus by Andre Castaigne (1898-1899).jpg",
+      "File:Alexander cuts the Gordian Knot.jpg",
+      "File:Alexander romance. Armenian illuminated manuscript of XIV century (Venice, San Lazzaro, 424) (1).jpg",
+      "File:Alexander the Great Ny Carlsberg Glyptotek IN574 n1.jpg",
+      "File:Alexander the Great conquering the air.jpg",
+      "File:Archaeological Site of Pella by Joy of Museums (cropped).jpg",
+      "File:Asia 323bc.jpg",
+      "File:Babylonian astronomical diary recording the death of Alexander the Great (British Museum).jpg",
+      "File:Battle granicus.gif",
+      "File:Battle granicus.png",
+      "File:Battle issus decisive.png",
+      "File:Battle of Chaeronea, 338 BC.png",
+      "File:Byzantine Greek Alexander Manuscript Cataphract (cropped).JPG",
+      "File:Charles Le Brun - Entry of Alexander into Babylon.JPG",
+      "File:Coin olympias mus theski.JPG",
+      "File:Dedication of Alexander the Great to Athena Polias at Priene.jpg",
+      "File:Detail of fresco depicting Alexander the Great.jpg",
+      "File:Diadochi EN.png",
+      "File:Gandhara Buddha (tnm).jpeg",
+      "File:KINGS of MACEDON Alexander III the Great 336-323 BC.jpg",
+      "File:Khalili Collection Aramaic Documents manuscript Bactria.jpg",
+      "File:Khalili Collection Hajj and Arts of Pilgrimage mss-0771 CROP.jpg",
+      "File:Lion hunt mosaic from Pella.jpg",
+      "File:MacedonEmpire.jpg",
+      "File:Marriage of Alexander and Statira as Ares and Aphrodite, fresco, ca. 69 d. C., copy after Aetion. Antiquarim, Pompeii.jpg",
+      "File:Mid-nineteenth century reconstruction of Alexander's catafalque based on the description by Diodorus.jpg",
+      "File:Name of Alexander the Great in Hieroglyphs circa 330 BCE.jpg",
+      "File:Pausanius assassinates Philip during the procession into the theatre by Andre Castaigne (1898-1899).jpg",
+      "File:Philip II of Macedon Ny Carlsberg Glyptotek IN2263.jpg",
+      "File:Roman - Medallion with Alexander the Great - Walters 591 - Obverse.jpg",
+      "File:Stag hunt mosaic, Pella.jpg",
+      "File:Submerge2.JPG",
+      "File:The Macedonian phalanx counter-attacks during the battle of the carts.jpg",
+      "File:The Victory of Alexander over Porus LACMA M.2000.179.13.jpg",
+      "File:The killing of Cleitus by Andre Castaigne (1898-1899) reduced.jpg",
+      "File:The phalanx attacking the centre in the battle of the Hydaspes by Andre Castaigne (1898-1899).jpg",
+      "File:Valenciennes, Pierre-Henri de - Alexander at the Tomb of Cyrus the Great - 1796.jpg"
+    ],
+    "selected_file": "File:Alexander_Mosaic_detail_of_Alexander_the_Great_(3x4_cropped).jpg",
+    "file_page_url": "https://commons.wikimedia.org/wiki/File:Alexander_Mosaic_detail_of_Alexander_the_Great_(3x4_cropped).jpg",
+    "original_url": "https://upload.wikimedia.org/wikipedia/commons/4/49/Alexander_Mosaic_detail_of_Alexander_the_Great_%283x4_cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+    "original_width": 1753,
+    "original_height": 2337,
+    "commons_sha1": "1485d5fabd674f9b9582058fe0e833ff69be407f",
+    "mime": "image/jpeg",
+    "download_url": "https://upload.wikimedia.org/wikipedia/commons/4/49/Alexander_Mosaic_detail_of_Alexander_the_Great_%283x4_cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "image_description": "Alexander Mosaic (detail), House of the Faun, Pompeii",
+    "artist": "Unknown authorUnknown author",
+    "credit": "This image has been extracted from another file",
+    "license": "Public domain",
+    "license_url": "",
+    "usage_terms": "Public domain",
+    "copyrighted": "False",
+    "attribution_required": "false",
+    "restrictions": "",
+    "metadata_date": "2026-09-26",
+    "metadata_raw": {
+      "DateTime": {
+        "value": "2026-01-30 15:14:07",
+        "source": "mediawiki-metadata",
+        "hidden": ""
+      },
+      "ObjectName": {
+        "value": "Alexander Mosaic detail of Alexander the Great (3x4 cropped)",
+        "source": "mediawiki-metadata"
+      },
+      "CommonsMetadataExtension": {
+        "value": 1.2,
+        "source": "extension",
+        "hidden": ""
+      },
+      "Categories": {
+        "value": "PD-Art (PD-anon-expired)|Extracted images|Template Unknown (author)|PD-Art missing SDC copyright status|Battle of Issus mosaic (from Pompeii) - Details|Mosaics of Alexander the Great",
+        "source": "commons-categories",
+        "hidden": ""
+      },
+      "Assessments": {
+        "value": "",
+        "source": "commons-categories",
+        "hidden": ""
+      },
+      "ImageDescription": {
+        "value": "<a href=\"https://en.wikipedia.org/wiki/en:Alexander_Mosaic\" class=\"extiw\" title=\"w:en:Alexander Mosaic\"><span title=\"Roman mosaic of Pompeii\">Alexander Mosaic</span></a> (detail), <a href=\"https://en.wikipedia.org/wiki/en:House_of_the_Faun\" class=\"extiw\" title=\"w:en:House of the Faun\"><span title=\"Roman domus in Pompeii, perhaps the largest in the city at the time of its destruction\">House of the Faun</span></a>, <a href=\"https://en.wikipedia.org/wiki/en:Pompeii\" class=\"extiw\" title=\"w:en:Pompeii\"><span title=\"ancient Roman city near modern Naples, Italy\">Pompeii</span></a>",
+        "source": "commons-desc-page"
+      },
+      "DateTimeOriginal": {
+        "value": "circa 100 <a href=\"https://en.wikipedia.org/wiki/en:Ante_Christum_Natum\" class=\"extiw\" title=\"w:en:Ante Christum Natum\">BC</a>",
+        "source": "commons-desc-page"
+      },
+      "Credit": {
+        "value": "This image has been <b>extracted</b> from another file",
+        "source": "commons-desc-page"
+      },
+      "Artist": {
+        "value": "Unknown author<span style=\"display: none;\">Unknown author</span>",
+        "source": "commons-desc-page"
+      },
+      "LicenseShortName": {
+        "value": "Public domain",
+        "source": "commons-desc-page",
+        "hidden": ""
+      },
+      "UsageTerms": {
+        "value": "Public domain",
+        "source": "commons-desc-page"
+      },
+      "AttributionRequired": {
+        "value": "false",
+        "source": "commons-desc-page",
+        "hidden": ""
+      },
+      "Copyrighted": {
+        "value": "False",
+        "source": "commons-desc-page",
+        "hidden": ""
+      },
+      "Restrictions": {
+        "value": "",
+        "source": "commons-desc-page",
+        "hidden": ""
+      },
+      "License": {
+        "value": "pd",
+        "source": "commons-templates",
+        "hidden": ""
+      }
+    },
+    "attribution_text": "",
+    "permission_text": "",
+    "local_path": "images/people/alexander-the-great.jpg",
+    "bytes": 2010556,
+    "sha256": "25aa083463953729488a7927694ea461e92fcad93dd7c23a03fb77387e35f523",
+    "width": 1753,
+    "height": 2337,
+    "actual_format": "JPEG",
+    "depiction_kind": "Ancient object; attribution per source",
+    "reuse_notes": "Source records public domain / dedication; keep provenance and check territorial or non-copyright restrictions before publication.",
+    "credit_note": ""
+  }
+]

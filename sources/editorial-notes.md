@@ -2,6 +2,8 @@
 
 The source is the reader's Mueller abridgment, identified in `edition.json`. Saved passages retain that edition's actual text, including its errors and judgments. Line references are extraction anchors, not printed page numbers. Source comparisons and editorial rationale belong here; compatible historical details are integrated directly into the cards.
 
+Opening-card numbers in the earlier notes below refer to the original 40-card draft. Current cards have stable link anchors; [the revision record](revision-2026-09-26.md) identifies mergers and subsequent changes.
+
 ## Reader decisions
 
 1. **Hadrian's accession:** retain uncertainty in the answer. His accession in 117 is secure; the authenticity of the deathbed adoption is not. Gibbon, III, L718; [Herbert W. Benario, DIR: Hadrian](https://roman-emperors.sites.luc.edu/hadrian.htm).
@@ -13,7 +15,9 @@ The source is the reader's Mueller abridgment, identified in `edition.json`. Sav
 
 Plotina's identity is checked against the [Oxford Classical Dictionary](https://academic.oup.com/edited-volume/61673/chapter-abstract/549704046). The setting and ritual meaning of Terminus's refusal follow [Livy 1.55](https://cmuntz.hosted.uark.edu/texts/livy/book-1-part-2.html): omens prevented deconsecration of his shrine. It is presented as a legend, with no invented precise historical date. Gibbon's own version is preserved at L570.
 
-Additional quotations are checked verbatim against the supplied edition. Card 1 uses Gibbon's reflection on conspiracies against Caligula, Nero, and Domitian, including the overthrow that opened Nerva's reign. Card 31 quotes the first clause of Gibbon's sentence, retaining its semicolon; the omitted continuation concerns the imperial promotion discussed on the same card. Literary excerpts do not create new factual claims or erase the approved qualifications.
+Additional quotations are checked verbatim against the supplied edition. Card 1 uses Gibbon's reflection on conspiracies against Caligula, Nero, and Domitian, including the overthrow that opened Nerva's reign. The revised Commodus-education card now uses Gibbon’s complete epigram about the limited power of instruction. Literary excerpts do not create new factual claims or erase the approved qualifications.
+
+7. **Full-deck revision authorised:** the reader requested all proposed changes, additional cards as needed, self-contained questions and answers, and the most famous and interesting quotations on cards. The resulting changes are recorded in [the revision record](revision-2026-09-26.md). This authorises content revision, not Anki packaging.
 
 ## Chronology
 

@@ -1,0 +1,2367 @@
+{
+  "batchcomplete": true,
+  "query": {
+    "redirects": [
+      {
+        "from": "Tiberius Claudius Marinus Pacatianus",
+        "to": "Pacatian"
+      },
+      {
+        "from": "Timesitheus",
+        "to": "Gaius Furius Sabinius Aquila Timesitheus"
+      },
+      {
+        "from": "Vitalianus (praetorian prefect)",
+        "to": "Vitalian (praetorian prefect)"
+      }
+    ],
+    "pages": [
+      {
+        "ns": 0,
+        "title": "Lucius Priscus",
+        "missing": true
+      },
+      {
+        "pageid": 1557,
+        "ns": 0,
+        "title": "Agrippina the Younger",
+        "original": {
+          "source": "https://upload.wikimedia.org/wikipedia/commons/d/db/Rome_Agrippina_Minor.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original",
+          "width": 526,
+          "height": 677
+        },
+        "pageimage": "Rome_Agrippina_Minor.jpg",
+        "images": [
+          {
+            "ns": 6,
+            "title": "File:CLAUDIUS & AGRIPPINA RIC I 81-2510311.jpg"
+          },
+          {
+            "ns": 6,
+            "title": "File:Caligula sestertius RIC 33 680999.jpg"
+          },
+          {
+            "ns": 6,
+            "title": "File:Domizio enobarbo, padre di nerone, busto di restauro, inv. 2222.JPG"
+          },
+          {
+            "ns": 6,
+            "title": "File:Gustav Wertheimer - Der Schiffbruch der Agrippina.jpg"
+          },
+          {
+            "ns": 6,
+            "title": "File:Messalinaandbritannicus.jpg"
+          },
+          {
+            "ns": 6,
+            "title": "File:Nero-and-agrippina-antonio-rizzi.jpg"
+          },
+          {
+            "ns": 6,
+            "title": "File:Nero Agrippina aureus 54.png"
+          },
+          {
+            "ns": 6,
+            "title": "File:Nerón ante el cadáver de su madre, Agripina la Menor (Museo del Prado).jpg"
+          },
+          {
+            "ns": 6,
+            "title": "File:Nerón y Agripina.jpg"
+          },
+          {
+            "ns": 6,
+            "title": "File:OOjs UI icon edit-ltr-progressive.svg"
+          },
+          {
+            "ns": 6,
+            "title": "File:Question book-new.svg"
+          },
+          {
+            "ns": 6,
+            "title": "File:Rome Agrippina Minor.jpg"
+          }
+        ],
+        "pageprops": {
+          "defaultsort": "Agrippina the Younger",
+          "page_image_free": "Rome_Agrippina_Minor.jpg",
+          "wikibase-shortdesc": "Roman empress from AD 49 to 54",
+          "wikibase_item": "Q154732"
+        }
+      },
+      {
+        "pageid": 1600,
+        "ns": 0,
+        "title": "Severus Alexander",
+        "original": {
+          "source": "https://upload.wikimedia.org/wikipedia/commons/1/1d/Alexander_Severus_Musei_Capitolini_MC471.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original",
+          "width": 1950,
+          "height": 2600
+        },
+        "pageimage": "Alexander_Severus_Musei_Capitolini_MC471.jpg",
+        "images": [
+          {
+            "ns": 6,
+            "title": "File:(Toulouse) Portrait de Sévère Alexandre – Musée-Saint-Raymond Ra 69.jpg"
+          },
+          {
+            "ns": 6,
+            "title": "File:Alexander Severus Musei Capitolini MC471.jpg"
+          },
+          {
+            "ns": 6,
+            "title": "File:Commons-logo.svg"
+          },
+          {
+            "ns": 6,
+            "title": "File:INC-1846-a Ауреус Север Александр ок. 222 г. (аверс).png"
+          },
+          {
+            "ns": 6,
+            "title": "File:INC-1855-a Ауреус Север Александр ок. 228 г. (аверс).png"
+          },
+          {
+            "ns": 6,
+            "title": "File:Julia mammea01 pushkin.jpg"
+          },
+          {
+            "ns": 6,
+            "title": "File:OOjs UI icon edit-ltr-progressive.svg"
+          },
+          {
+            "ns": 6,
+            "title": "File:Orbiana Denarius.jpg"
+          },
+          {
+            "ns": 6,
+            "title": "File:Portland Vase BM Gem4036 n5.jpg"
+          },
+          {
+            "ns": 6,
+            "title": "File:Severus Alexander Ny Carlsberg Glyptotek IN1283.jpg"
+          },
+          {
+            "ns": 6,
+            "title": "File:Wikisource-logo.svg"
+          }
+        ],
+        "pageprops": {
+          "nomediaviewercarousel": "",
+          "page_image_free": "Alexander_Severus_Musei_Capitolini_MC471.jpg",
+          "wikibase-shortdesc": "Roman emperor from 222 to 235",
+          "wikibase_item": "Q1769"
+        }
+      },
+      {
+        "pageid": 5314,
+        "ns": 0,
+        "title": "Charlemagne",
+        "original": {
+          "source": "https://upload.wikimedia.org/wikipedia/commons/f/fb/Charlemagne_denier_Mayence_812_814.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original",
+          "width": 2070,
+          "height": 2070
+        },
+        "pageimage": "Charlemagne_denier_Mayence_812_814.jpg",
+        "images": [
+          {
+            "ns": 6,
+            "title": "File:046CupolaSPietro.jpg"
+          },
+          {
+            "ns": 6,
+            "title": "File:771 CE, Europe.svg"
+          },
+          {
+            "ns": 6,
+            "title": "File:AachenerDomSarg.jpg"
+          },
+          {
+            "ns": 6,
+            "title": "File:Aachener Dom BW 2016-07-09 13-49-15.jpg"
+          },
+          {
+            "ns": 6,
+            "title": "File:Aix dom int vue cote.jpg"
+          },
+          {
+            "ns": 6,
+            "title": "File:Bust of Charlemagne.png"
+          },
+          {
+            "ns": 6,
+            "title": "File:Charlemagne and Pope Adrian I.jpg"
+          },
+          {
+            "ns": 6,
+            "title": "File:Charlemagne autograph.svg"
+          },
+          {
+            "ns": 6,
+            "title": "File:Charlemagne c 800.jpg"
+          },
+          {
+            "ns": 6,
+            "title": "File:Charlemagne coin.JPG"
+          },
+          {
+            "ns": 6,
+            "title": "File:Charlemagne denier Mayence 812 814.jpg"
+          },
+          {
+            "ns": 6,
+            "title": "File:Charlemagne et Louis le Pieux.jpg"
+          },
+          {
+            "ns": 6,
+            "title": "File:Charlemagne – Triclinium Leoninum.jpg"
+          },
+          {
+            "ns": 6,
+            "title": "File:Charles Marville, Hôtel Carnavalet, statue of Charlemagne, ca. 1853–70 (cropped).jpg"
+          },
+          {
+            "ns": 6,
+            "title": "File:Commons-logo.svg"
+          },
+          {
+            "ns": 6,
+            "title": "File:Couronnement de Louis Ier le Pieux.jpg"
+          },
+          {
+            "ns": 6,
+            "title": "File:Denier Chinon 954, obverse.jpg"
+          },
+          {
+            "ns": 6,
+            "title": "File:Europe 814.svg"
+          },
+          {
+            "ns": 6,
+            "title": "File:Flag of Vatican City (2023–present).svg"
+          },
+          {
+            "ns": 6,
+            "title": "File:Flag of the Vatican City.svg"
+          },
+          {
+            "ns": 6,
+            "title": "File:Francia 714.png"
+          },
+          {
+            "ns": 6,
+            "title": "File:Frankish Empire 481 to 814-en.svg"
+          },
+          {
+            "ns": 6,
+            "title": "File:Grimoald III solidus 74000878.jpg"
+          },
+          {
+            "ns": 6,
+            "title": "File:Italy 1000 AD alt1.svg"
+          },
+          {
+            "ns": 6,
+            "title": "File:Karel Leo.jpg"
+          },
+          {
+            "ns": 6,
+            "title": "File:Karldergrossesignatur.svg"
+          },
+          {
+            "ns": 6,
+            "title": "File:Ludwik I Pobożny.jpg"
+          },
+          {
+            "ns": 6,
+            "title": "File:Manfred III of Saluzzo as Charlemagne.jpg"
+          },
+          {
+            "ns": 6,
+            "title": "File:OOjs UI icon edit-ltr-progressive.svg"
+          },
+          {
+            "ns": 6,
+            "title": "File:Pending-protection-shackle.svg"
+          },
+          {
+            "ns": 6,
+            "title": "File:Regione mosana, karlsschrein, reliquiario a cassa di carlomagno, 1182-1215, 06.jpg"
+          },
+          {
+            "ns": 6,
+            "title": "File:Shroud of Charlemagne manufactured in Constantinople 814.jpg"
+          },
+          {
+            "ns": 6,
+            "title": "File:Steuben - Bataille de Poitiers.png"
+          },
+          {
+            "ns": 6,
+            "title": "File:Symbol category class.svg"
+          },
+          {
+            "ns": 6,
+            "title": "File:Symbol support vote.svg"
+          },
+          {
+            "ns": 6,
+            "title": "File:Vertrag von Verdun en.svg"
+          },
+          {
+            "ns": 6,
+            "title": "File:Wikibooks-logo.svg"
+          },
+          {
+            "ns": 6,
+            "title": "File:Wikiquote-logo.svg"
+          },
+          {
+            "ns": 6,
+            "title": "File:Wikisource-logo.svg"
+          },
+          {
+            "ns": 6,
+            "title": "File:Wikiversity logo 2017.svg"
+          },
+          {
+            "ns": 6,
+            "title": "File:Wiktionary-logo-en-v2.svg"
+          },
+          {
+            "ns": 6,
+            "title": "File:Woodcut illustration of Irene, Empress of the East, and Charlemagne - Penn Provenance Project.jpg"
+          }
+        ],
+        "pageprops": {
+          "page_image_free": "Charlemagne_denier_Mayence_812_814.jpg",
+          "wikibase-badge-Q17437798": "",
+          "wikibase-shortdesc": "Carolingian emperor from 800 to 814",
+          "wikibase_item": "Q3044"
+        }
+      },
+      {
+        "pageid": 5823,
+        "ns": 0,
+        "title": "Confucius",
+        "original": {
+          "source": "https://upload.wikimedia.org/wikipedia/commons/d/d5/Confucius%2C_fresco_from_a_Western_Han_tomb_of_Dongping_County%2C_Shandong_province%2C_China.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original",
+          "width": 450,
+          "height": 338
+        },
+        "pageimage": "Confucius,_fresco_from_a_Western_Han_tomb_of_Dongping_County,_Shandong_province,_China.jpg",
+        "images": [
+          {
+            "ns": 6,
+            "title": "File:20130918-嘉定孔庙-2.jpg"
+          },
+          {
+            "ns": 6,
+            "title": "File:Commons-logo.svg"
+          },
+          {
+            "ns": 6,
+            "title": "File:Confucius, fresco from a Western Han tomb of Dongping County, Shandong province, China.jpg"
+          },
+          {
+            "ns": 6,
+            "title": "File:Confucius and Laozi, fresco from a Western Han tomb of Dongping County, Shandong province, China.jpg"
+          },
+          {
+            "ns": 6,
+            "title": "File:Confuciustombqufu.jpg"
+          },
+          {
+            "ns": 6,
+            "title": "File:First Entrance Gate of the Temple of Confucius, Ching-hai.jpg"
+          },
+          {
+            "ns": 6,
+            "title": "File:Flag of the People's Republic of China.svg"
+          },
+          {
+            "ns": 6,
+            "title": "File:Global thinking.svg"
+          },
+          {
+            "ns": 6,
+            "title": "File:Journey of Confucius.png"
+          },
+          {
+            "ns": 6,
+            "title": "File:Kǒngzǐ Shīlùn Manuscript from Shanghai Museum 1.jpg"
+          },
+          {
+            "ns": 6,
+            "title": "File:LifeAndWorksOfConfucius1687.jpg"
+          },
+          {
+            "ns": 6,
+            "title": "File:Louvre Conseil Etat Confucius.jpg"
+          },
+          {
+            "ns": 6,
+            "title": "File:OOjs UI icon edit-ltr-progressive.svg"
+          },
+          {
+            "ns": 6,
+            "title": "File:P vip.svg"
+          },
+          {
+            "ns": 6,
+            "title": "File:People icon.svg"
+          },
+          {
+            "ns": 6,
+            "title": "File:Rongo Analects 02.jpg"
+          },
+          {
+            "ns": 6,
+            "title": "File:Semi-protection-shackle.svg"
+          },
+          {
+            "ns": 6,
+            "title": "File:Socrates.png"
+          },
+          {
+            "ns": 6,
+            "title": "File:Speaker Icon.svg"
+          },
+          {
+            "ns": 6,
+            "title": "File:Symbol category class.svg"
+          },
+          {
+            "ns": 6,
+            "title": "File:Symbol portal class.svg"
+          },
+          {
+            "ns": 6,
+            "title": "File:The Classic of Filial Piety (開宗明義章 畫).jpg"
+          },
+          {
+            "ns": 6,
+            "title": "File:Wikibooks-logo.svg"
+          },
+          {
+            "ns": 6,
+            "title": "File:Wikiquote-logo.svg"
+          },
+          {
+            "ns": 6,
+            "title": "File:Wikisource-logo.svg"
+          },
+          {
+            "ns": 6,
+            "title": "File:Wiktionary-logo-en-v2.svg"
+          },
+          {
+            "ns": 6,
+            "title": "File:孔子聖蹟圖.png"
+          },
+          {
+            "ns": 6,
+            "title": "File:木鐸 --- Confucian wooden-clapper bell.svg"
+          },
+          {
+            "ns": 6,
+            "title": "File:珡-seal.svg"
+          },
+          {
+            "ns": 6,
+            "title": "File:琴-seal.svg"
+          }
+        ],
+        "pageprops": {
+          "page_image_free": "Confucius,_fresco_from_a_Western_Han_tomb_of_Dongping_County,_Shandong_province,_China.jpg",
+          "wikibase-shortdesc": "Chinese philosopher (c. 551 – c. 479 BCE)",
+          "wikibase_item": "Q4604"
+        }
+      },
+      {
+        "pageid": 13574,
+        "ns": 0,
+        "title": "Herodotus",
+        "original": {
+          "source": "https://upload.wikimedia.org/wikipedia/commons/6/6d/Marble_bust_of_Herodotos_MET_DT11742_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original",
+          "width": 2232,
+          "height": 2978
+        },
+        "pageimage": "Marble_bust_of_Herodotos_MET_DT11742_(cropped).jpg",
+        "images": [
+          {
+            "ns": 6,
+            "title": "File:Commons-logo.svg"
+          },
+          {
+            "ns": 6,
+            "title": "File:Global thinking.svg"
+          },
+          {
+            "ns": 6,
+            "title": "File:HERODOTUS(1897) p2.387 THE WORLD ACCORDING TO HERDOTUS.jpg"
+          },
+          {
+            "ns": 6,
+            "title": "File:Herodotusstatue.JPG"
+          },
+          {
+            "ns": 6,
+            "title": "File:Marble bust of Herodotos MET DT11742 (cropped).jpg"
+          },
+          {
+            "ns": 6,
+            "title": "File:OOjs UI icon edit-ltr-progressive.svg"
+          },
+          {
+            "ns": 6,
+            "title": "File:Speaker Icon.svg"
+          },
+          {
+            "ns": 6,
+            "title": "File:Symbol category class.svg"
+          },
+          {
+            "ns": 6,
+            "title": "File:Symbol portal class.svg"
+          },
+          {
+            "ns": 6,
+            "title": "File:Wiki letter w.svg"
+          },
+          {
+            "ns": 6,
+            "title": "File:Wikiquote-logo.svg"
+          },
+          {
+            "ns": 6,
+            "title": "File:Wikisource-logo.svg"
+          }
+        ],
+        "pageprops": {
+          "page_image_free": "Marble_bust_of_Herodotos_MET_DT11742_(cropped).jpg",
+          "wikibase-shortdesc": "Greek historian and geographer (c. 484–c. 425 BC)",
+          "wikibase_item": "Q26825"
+        }
+      },
+      {
+        "pageid": 13959,
+        "ns": 0,
+        "title": "Hannibal",
+        "original": {
+          "source": "https://upload.wikimedia.org/wikipedia/commons/b/b4/Hannibal_Barca_bust_from_Capua_photo.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original",
+          "width": 1157,
+          "height": 1400
+        },
+        "pageimage": "Hannibal_Barca_bust_from_Capua_photo.jpg",
+        "images": [
+          {
+            "ns": 6,
+            "title": "File:1868, Mugeres célebres de España y Portugal, Himilce, AB195 0021 (cropped).jpg"
+          },
+          {
+            "ns": 6,
+            "title": "File:Artaxias and Hannibal Barca.png"
+          },
+          {
+            "ns": 6,
+            "title": "File:Battle Trebia-numbers.svg"
+          },
+          {
+            "ns": 6,
+            "title": "File:Battle cannae destruction.svg"
+          },
+          {
+            "ns": 6,
+            "title": "File:Battle of lake trasimene.gif"
+          },
+          {
+            "ns": 6,
+            "title": "File:Benjamin West (1738-1820) - The Oath of Hannibal - RCIN 405417 - Royal Collection.jpg"
+          },
+          {
+            "ns": 6,
+            "title": "File:Buste Hannibal Barca.jpg"
+          },
+          {
+            "ns": 6,
+            "title": "File:Campagna africana di Scipione 202 aC.png"
+          },
+          {
+            "ns": 6,
+            "title": "File:Carthage, quarter shekel, 237-209 BC, SNG BM Spain 102.jpg"
+          },
+          {
+            "ns": 6,
+            "title": "File:Commons-logo.svg"
+          },
+          {
+            "ns": 6,
+            "title": "File:HANİBALIN MEZARI-GEBZE (2).jpg"
+          },
+          {
+            "ns": 6,
+            "title": "File:Hannibal's Travels during the Second Punic War.png"
+          },
+          {
+            "ns": 6,
+            "title": "File:Hannibal Barca bust from Capua photo.jpg"
+          },
+          {
+            "ns": 6,
+            "title": "File:Hannibal Slodtz Louvre MR2093.jpg"
+          },
+          {
+            "ns": 6,
+            "title": "File:Hannibal as a child, accompanied by a Roman soldier.jpg"
+          },
+          {
+            "ns": 6,
+            "title": "File:Hannibal in Italy by Jacopo Ripanda - Sala di Annibale - Palazzo dei Conservatori - Musei Capitolini - Rome 2016 (2).jpg"
+          },
+          {
+            "ns": 6,
+            "title": "File:Heinrich Leutemann - Hannibals Übergang über die Alpen (cropped).jpg"
+          },
+          {
+            "ns": 6,
+            "title": "File:Joseph Mallord William Turner 081.jpg"
+          },
+          {
+            "ns": 6,
+            "title": "File:Mommsen p265.jpg"
+          },
+          {
+            "ns": 6,
+            "title": "File:Museum of Antiquities Hannibal.JPG"
+          },
+          {
+            "ns": 6,
+            "title": "File:OOjs UI icon edit-ltr-progressive.svg"
+          },
+          {
+            "ns": 6,
+            "title": "File:Question book-new.svg"
+          },
+          {
+            "ns": 6,
+            "title": "File:ScipioAfricanusSulla.jpg"
+          },
+          {
+            "ns": 6,
+            "title": "File:Slaget ved Zama - Cornelis Cort, 1567.jpg"
+          },
+          {
+            "ns": 6,
+            "title": "File:The Victorious Hannibal Seeing Italy from the Alps for the First Time.png"
+          },
+          {
+            "ns": 6,
+            "title": "File:Wikiquote-logo.svg"
+          },
+          {
+            "ns": 6,
+            "title": "File:Wikisource-logo.svg"
+          },
+          {
+            "ns": 6,
+            "title": "File:Énée et Didon, Guérin.jpg"
+          }
+        ],
+        "pageprops": {
+          "page_image_free": "Hannibal_Barca_bust_from_Capua_photo.jpg",
+          "wikibase-shortdesc": "Carthaginian general and statesman (247–183/181 BC)",
+          "wikibase_item": "Q36456"
+        }
+      },
+      {
+        "pageid": 14227,
+        "ns": 0,
+        "title": "Elagabalus",
+        "original": {
+          "source": "https://upload.wikimedia.org/wikipedia/commons/0/02/Marble_bust_of_Roman_emperor_Elagabalus%2C_ca._221_AD%2C_Capitoline_Museums_%2820814003112%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original",
+          "width": 3079,
+          "height": 4787
+        },
+        "pageimage": "Marble_bust_of_Roman_emperor_Elagabalus,_ca._221_AD,_Capitoline_Museums_(20814003112).jpg",
+        "images": [
+          {
+            "ns": 6,
+            "title": "File:Aquilia Severa coin obverse.png"
+          },
+          {
+            "ns": 6,
+            "title": "File:Baetylus (sacred stone).jpg"
+          },
+          {
+            "ns": 6,
+            "title": "File:Baetylus (sacred stone) on four-horse chariot.jpg"
+          },
+          {
+            "ns": 6,
+            "title": "File:Commons-logo.svg"
+          },
+          {
+            "ns": 6,
+            "title": "File:Elagabalus Denarius Fortuna.jpg"
+          },
+          {
+            "ns": 6,
+            "title": "File:Elagabalus Forchtenstein.jpg"
+          },
+          {
+            "ns": 6,
+            "title": "File:Elagabalus aureus - obverse only.png"
+          },
+          {
+            "ns": 6,
+            "title": "File:Esquilino - Sessorium 1120325.JPG"
+          },
+          {
+            "ns": 6,
+            "title": "File:INC-1854-r Ауреус Элагабал ок. 218-219 гг. (реверс).png"
+          },
+          {
+            "ns": 6,
+            "title": "File:INC-2961-a Ауреус. Элагабал. Ок. 218—219 гг. (аверс).png"
+          },
+          {
+            "ns": 6,
+            "title": "File:INC-2961-r Ауреус. Элагабал. Ок. 218—219 гг. (реверс).png"
+          },
+          {
+            "ns": 6,
+            "title": "File:Julia Maesa antoninianus 2.png"
+          },
+          {
+            "ns": 6,
+            "title": "File:L'agonie (1902) Elagabalus conduisant un char a seize chevaux blancs, ou, sur un autel de pierreries, reposait le cone de pierre noire.jpg"
+          },
+          {
+            "ns": 6,
+            "title": "File:Marble bust of Roman emperor Elagabalus, ca. 221 AD, Capitoline Museums (20814003112).jpg"
+          },
+          {
+            "ns": 6,
+            "title": "File:Medal of Elagabalus.jpg"
+          },
+          {
+            "ns": 6,
+            "title": "File:Napoli, museo archeologico (18330093110).jpg"
+          },
+          {
+            "ns": 6,
+            "title": "File:OOjs UI icon edit-ltr-progressive.svg"
+          },
+          {
+            "ns": 6,
+            "title": "File:Orto s Croce e mura 1120340.JPG"
+          },
+          {
+            "ns": 6,
+            "title": "File:Perge - Julia Soemias 2.jpg"
+          },
+          {
+            "ns": 6,
+            "title": "File:Semi-protection-shackle.svg"
+          },
+          {
+            "ns": 6,
+            "title": "File:The Roses of Heliogabalus.jpg"
+          },
+          {
+            "ns": 6,
+            "title": "File:Wikiquote-logo.svg"
+          }
+        ],
+        "pageprops": {
+          "nomediaviewercarousel": "",
+          "page_image_free": "Marble_bust_of_Roman_emperor_Elagabalus,_ca._221_AD,_Capitoline_Museums_(20814003112).jpg",
+          "wikibase-shortdesc": "Roman emperor from 218 to 222",
+          "wikibase_item": "Q1762"
+        }
+      },
+      {
+        "pageid": 44406,
+        "ns": 0,
+        "title": "Zoroaster",
+        "original": {
+          "source": "https://upload.wikimedia.org/wikipedia/commons/c/cd/Yazd%2C_Templo_del_Fuego_%282000%29_02_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original",
+          "width": 479,
+          "height": 716
+        },
+        "pageimage": "Yazd,_Templo_del_Fuego_(2000)_02_(cropped).jpg",
+        "images": [
+          {
+            "ns": 6,
+            "title": "File:2010 Appellate courthouse statues 1&2.jpg"
+          },
+          {
+            "ns": 6,
+            "title": "File:Ambox important.svg"
+          },
+          {
+            "ns": 6,
+            "title": "File:CIMRM 44-Mithraic pater (Dura Europos) B.jpg"
+          },
+          {
+            "ns": 6,
+            "title": "File:ClavisArtis.MS.Verginelli-Rota.V1.003r.jpg"
+          },
+          {
+            "ns": 6,
+            "title": "File:Commons-logo.svg"
+          },
+          {
+            "ns": 6,
+            "title": "File:Faravahar.svg"
+          },
+          {
+            "ns": 6,
+            "title": "File:Iranianhistory-tekyemoaven.jpg"
+          },
+          {
+            "ns": 6,
+            "title": "File:Manichaean Diagram of the Universe (Detail 12).jpg"
+          },
+          {
+            "ns": 6,
+            "title": "File:OOjs UI icon edit-ltr-progressive.svg"
+          },
+          {
+            "ns": 6,
+            "title": "File:P history.svg"
+          },
+          {
+            "ns": 6,
+            "title": "File:P religion world.svg"
+          },
+          {
+            "ns": 6,
+            "title": "File:Persia past and present; a book of travel and research, with more than two hundred illustrations and a map (1906) (14577344417).jpg"
+          },
+          {
+            "ns": 6,
+            "title": "File:Question book-new.svg"
+          },
+          {
+            "ns": 6,
+            "title": "File:Quill and ink.svg"
+          },
+          {
+            "ns": 6,
+            "title": "File:Sanzio 01 Zoroaster Ptolmey.jpg"
+          },
+          {
+            "ns": 6,
+            "title": "File:Speaker Icon.svg"
+          },
+          {
+            "ns": 6,
+            "title": "File:Symbol category class.svg"
+          },
+          {
+            "ns": 6,
+            "title": "File:Wikiquote-logo.svg"
+          },
+          {
+            "ns": 6,
+            "title": "File:Wikisource-logo.svg"
+          },
+          {
+            "ns": 6,
+            "title": "File:Yazd, Templo del Fuego (2000) 02 (cropped).jpg"
+          },
+          {
+            "ns": 6,
+            "title": "File:Zoroaster 1.jpg"
+          },
+          {
+            "ns": 6,
+            "title": "File:ZoroastrianismSymbolWhite.PNG"
+          }
+        ],
+        "pageprops": {
+          "page_image_free": "Yazd,_Templo_del_Fuego_(2000)_02_(cropped).jpg",
+          "wikibase-shortdesc": "Iranian prophet and spiritual founder of Zoroastrianism",
+          "wikibase_item": "Q35811"
+        }
+      },
+      {
+        "pageid": 48227,
+        "ns": 0,
+        "title": "Torquato Tasso",
+        "original": {
+          "source": "https://upload.wikimedia.org/wikipedia/commons/6/6c/Torquato_Tasso%2C_aged_22%2C_by_Jacopo_da_Ponte%2C_called_Jacopo_Bassano_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original",
+          "width": 638,
+          "height": 940
+        },
+        "pageimage": "Torquato_Tasso,_aged_22,_by_Jacopo_da_Ponte,_called_Jacopo_Bassano_(cropped).jpg",
+        "images": [
+          {
+            "ns": 6,
+            "title": "File:16th-century unknown painters - Portrait of Torquato Tasso - WGA23945.jpg"
+          },
+          {
+            "ns": 6,
+            "title": "File:Castello ferrara.jpg"
+          },
+          {
+            "ns": 6,
+            "title": "File:Commons-logo.svg"
+          },
+          {
+            "ns": 6,
+            "title": "File:Daniele da Volterra (formerly attributed to Girolamo da Carpi) - Portrait of a Gentleman.jpg"
+          },
+          {
+            "ns": 6,
+            "title": "File:DelacroixTasso.jpg"
+          },
+          {
+            "ns": 6,
+            "title": "File:Edit-clear.svg"
+          },
+          {
+            "ns": 6,
+            "title": "File:OOjs UI icon edit-ltr-progressive.svg"
+          },
+          {
+            "ns": 6,
+            "title": "File:Semi-protection-shackle.svg"
+          },
+          {
+            "ns": 6,
+            "title": "File:Signatur Torquato Tasso.PNG"
+          },
+          {
+            "ns": 6,
+            "title": "File:Sorrent.Torquato Tasso.jpg"
+          },
+          {
+            "ns": 6,
+            "title": "File:Speaker Icon.svg"
+          },
+          {
+            "ns": 6,
+            "title": "File:Torquato Tasso, aged 22, by Jacopo da Ponte, called Jacopo Bassano (cropped).jpg"
+          },
+          {
+            "ns": 6,
+            "title": "File:Trastevere - sant'Onofrio - chiostro esterno 3108-10.JPG"
+          },
+          {
+            "ns": 6,
+            "title": "File:Wikiquote-logo.svg"
+          },
+          {
+            "ns": 6,
+            "title": "File:Wikisource-logo.svg"
+          }
+        ],
+        "pageprops": {
+          "defaultsort": "Tasso, Torquato",
+          "page_image_free": "Torquato_Tasso,_aged_22,_by_Jacopo_da_Ponte,_called_Jacopo_Bassano_(cropped).jpg",
+          "wikibase-shortdesc": "Italian poet (1544–1595)",
+          "wikibase_item": "Q168962"
+        }
+      },
+      {
+        "pageid": 51831,
+        "ns": 0,
+        "title": "Valerian (emperor)",
+        "original": {
+          "source": "https://upload.wikimedia.org/wikipedia/commons/8/81/Valerianus_Ny_Carlsberg_Glyptotek_IN3387.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original",
+          "width": 4000,
+          "height": 5000
+        },
+        "pageimage": "Valerianus_Ny_Carlsberg_Glyptotek_IN3387.jpg",
+        "images": [
+          {
+            "ns": 6,
+            "title": "File:Cameo Shapur Valerianus Bab360 CdM Paris.jpg"
+          },
+          {
+            "ns": 6,
+            "title": "File:Commons-logo.svg"
+          },
+          {
+            "ns": 6,
+            "title": "File:HumiliationValerianusHolbein.jpg"
+          },
+          {
+            "ns": 6,
+            "title": "File:Naghsh-e rostam, Irán, 2016-09-24, DD 12.jpg"
+          },
+          {
+            "ns": 6,
+            "title": "File:OOjs UI icon edit-ltr-progressive.svg"
+          },
+          {
+            "ns": 6,
+            "title": "File:Radiate of Valerian (YORYM 2001 787) obverse.jpg"
+          },
+          {
+            "ns": 6,
+            "title": "File:Valerianus Ny Carlsberg Glyptotek IN3387.jpg"
+          },
+          {
+            "ns": 6,
+            "title": "File:Vexilloid of the Roman Empire.svg"
+          },
+          {
+            "ns": 6,
+            "title": "File:Wikisource-logo.svg"
+          }
+        ],
+        "pageprops": {
+          "nomediaviewercarousel": "",
+          "page_image_free": "Valerianus_Ny_Carlsberg_Glyptotek_IN3387.jpg",
+          "wikibase-shortdesc": "Roman emperor from 253 to 260",
+          "wikibase_item": "Q46750"
+        }
+      },
+      {
+        "pageid": 75147,
+        "ns": 0,
+        "title": "Decius",
+        "original": {
+          "source": "https://upload.wikimedia.org/wikipedia/commons/7/79/Bust_of_Decius_%28loan_from_Capitoline_Museums%29_-_Glyptothek_-_Munich_-_Germany_2017.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original",
+          "width": 3456,
+          "height": 4608
+        },
+        "pageimage": "Bust_of_Decius_(loan_from_Capitoline_Museums)_-_Glyptothek_-_Munich_-_Germany_2017.jpg",
+        "images": [
+          {
+            "ns": 6,
+            "title": "File:Battle of Abritus.jpg"
+          },
+          {
+            "ns": 6,
+            "title": "File:Bust of Decius (loan from Capitoline Museums) - Glyptothek - Munich - Germany 2017.jpg"
+          },
+          {
+            "ns": 6,
+            "title": "File:Busto del emperador Decio encontrado en Sarmizegetusa (3).jpg"
+          },
+          {
+            "ns": 6,
+            "title": "File:Commons-logo.svg"
+          },
+          {
+            "ns": 6,
+            "title": "File:Decius dressed as Hercules.jpg"
+          },
+          {
+            "ns": 6,
+            "title": "File:Herennius Etruscus Coin .jpg"
+          },
+          {
+            "ns": 6,
+            "title": "File:INC-3020-a Ауреус. Траян Деций. Ок. 249—251 гг. (аверс).png"
+          },
+          {
+            "ns": 6,
+            "title": "File:OOjs UI icon edit-ltr-progressive.svg"
+          },
+          {
+            "ns": 6,
+            "title": "File:Symbol category class.svg"
+          },
+          {
+            "ns": 6,
+            "title": "File:Trajan Decius Ant.jpg"
+          },
+          {
+            "ns": 6,
+            "title": "File:Wikidata-logo.svg"
+          },
+          {
+            "ns": 6,
+            "title": "File:Wikisource-logo.svg"
+          }
+        ],
+        "pageprops": {
+          "defaultsort": "Decius",
+          "nomediaviewercarousel": "",
+          "page_image_free": "Bust_of_Decius_(loan_from_Capitoline_Museums)_-_Glyptothek_-_Munich_-_Germany_2017.jpg",
+          "wikibase-shortdesc": "Roman emperor from 249 to 251",
+          "wikibase_item": "Q1830"
+        }
+      },
+      {
+        "pageid": 140714,
+        "ns": 0,
+        "title": "Gordian III",
+        "original": {
+          "source": "https://upload.wikimedia.org/wikipedia/commons/e/ec/Bust_Gordianus_III_Louvre_Ma1063.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original",
+          "width": 2500,
+          "height": 3750
+        },
+        "pageimage": "Bust_Gordianus_III_Louvre_Ma1063.jpg",
+        "images": [
+          {
+            "ns": 6,
+            "title": "File:Bust Gordianus III Louvre Ma1063.jpg"
+          },
+          {
+            "ns": 6,
+            "title": "File:Commons-logo.svg"
+          },
+          {
+            "ns": 6,
+            "title": "File:Gordian III Antoninianus Virtus 1.jpg"
+          },
+          {
+            "ns": 6,
+            "title": "File:INC-2057-a Ауреус. Гордиан III. Ок. 239 г. (аверс).png"
+          },
+          {
+            "ns": 6,
+            "title": "File:OOjs UI icon edit-ltr-progressive.svg"
+          },
+          {
+            "ns": 6,
+            "title": "File:Vexilloid of the Roman Empire.svg"
+          },
+          {
+            "ns": 6,
+            "title": "File:Wikisource-logo.svg"
+          }
+        ],
+        "pageprops": {
+          "defaultsort": "Gordian 03",
+          "nomediaviewercarousel": "",
+          "page_image_free": "Bust_Gordianus_III_Louvre_Ma1063.jpg",
+          "wikibase-shortdesc": "Roman emperor from 238 to 244",
+          "wikibase_item": "Q1812"
+        }
+      },
+      {
+        "pageid": 140716,
+        "ns": 0,
+        "title": "Gordian I",
+        "original": {
+          "source": "https://upload.wikimedia.org/wikipedia/commons/d/d0/Gordian1cng80000719_%28obverse%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original",
+          "width": 341,
+          "height": 332
+        },
+        "pageimage": "Gordian1cng80000719_(obverse).jpg",
+        "images": [
+          {
+            "ns": 6,
+            "title": "File:Commons-logo.svg"
+          },
+          {
+            "ns": 6,
+            "title": "File:Gordian1cng80000719 (obverse).jpg"
+          },
+          {
+            "ns": 6,
+            "title": "File:Gordian I Musei Capitolini MC475.jpg"
+          },
+          {
+            "ns": 6,
+            "title": "File:OOjs UI icon edit-ltr-progressive.svg"
+          },
+          {
+            "ns": 6,
+            "title": "File:Tunis Bardo Buste 2.jpg"
+          },
+          {
+            "ns": 6,
+            "title": "File:Vexilloid of the Roman Empire.svg"
+          },
+          {
+            "ns": 6,
+            "title": "File:Wikisource-logo.svg"
+          }
+        ],
+        "pageprops": {
+          "defaultsort": "Gordian 01",
+          "nomediaviewercarousel": "",
+          "page_image_free": "Gordian1cng80000719_(obverse).jpg",
+          "wikibase-shortdesc": "Roman emperor in 238",
+          "wikibase_item": "Q1782"
+        }
+      },
+      {
+        "pageid": 140718,
+        "ns": 0,
+        "title": "Gordian II",
+        "original": {
+          "source": "https://upload.wikimedia.org/wikipedia/commons/4/4e/Gordiano_II_-_ritratto_da_sesterzio.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original",
+          "width": 373,
+          "height": 385
+        },
+        "pageimage": "Gordiano_II_-_ritratto_da_sesterzio.jpg",
+        "images": [
+          {
+            "ns": 6,
+            "title": "File:Commons-logo.svg"
+          },
+          {
+            "ns": 6,
+            "title": "File:Gordiano II - ritratto da sesterzio.jpg"
+          },
+          {
+            "ns": 6,
+            "title": "File:OOjs UI icon edit-ltr-progressive.svg"
+          },
+          {
+            "ns": 6,
+            "title": "File:Vexilloid of the Roman Empire.svg"
+          }
+        ],
+        "pageprops": {
+          "defaultsort": "Gordian 02",
+          "nomediaviewercarousel": "",
+          "page_image_free": "Gordiano_II_-_ritratto_da_sesterzio.jpg",
+          "wikibase-shortdesc": "Roman emperor in 238",
+          "wikibase_item": "Q1803"
+        }
+      },
+      {
+        "pageid": 144163,
+        "ns": 0,
+        "title": "Philip the Arab",
+        "original": {
+          "source": "https://upload.wikimedia.org/wikipedia/commons/b/b5/Portrait_of_Philip_the_Arab._Saint-Petersburg%2C_The_State_Hermitage_Museum_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original",
+          "width": 1284,
+          "height": 1588
+        },
+        "pageimage": "Portrait_of_Philip_the_Arab._Saint-Petersburg,_The_State_Hermitage_Museum_(cropped).jpg",
+        "images": [
+          {
+            "ns": 6,
+            "title": "File:Commons-logo.svg"
+          },
+          {
+            "ns": 6,
+            "title": "File:Naghsh-e rostam, Irán, 2016-09-24, DD 12.jpg"
+          },
+          {
+            "ns": 6,
+            "title": "File:OOjs UI icon edit-ltr-progressive.svg"
+          },
+          {
+            "ns": 6,
+            "title": "File:Otacilia Severa-l4Scythica.jpg"
+          },
+          {
+            "ns": 6,
+            "title": "File:Philippus I. - Münzkabinett, Berlin - 5484489.jpg"
+          },
+          {
+            "ns": 6,
+            "title": "File:Philippus I. - Münzkabinett, Berlin - 5511369 (obverse).jpg"
+          },
+          {
+            "ns": 6,
+            "title": "File:Portrait head possibly of Empress Otacilia Severa, wife of Emperor Philip the Arab 250-300 CE MH.jpg"
+          },
+          {
+            "ns": 6,
+            "title": "File:Portrait of Philip the Arab. Saint-Petersburg, The State Hermitage Museum (cropped).jpg"
+          }
+        ],
+        "pageprops": {
+          "defaultsort": "Philip the Arab",
+          "nomediaviewercarousel": "",
+          "page_image_free": "Portrait_of_Philip_the_Arab._Saint-Petersburg,_The_State_Hermitage_Museum_(cropped).jpg",
+          "wikibase-shortdesc": "Roman emperor from 244 to 249",
+          "wikibase_item": "Q1817"
+        }
+      },
+      {
+        "pageid": 146213,
+        "ns": 0,
+        "title": "Trebonianus Gallus",
+        "original": {
+          "source": "https://upload.wikimedia.org/wikipedia/commons/d/d0/Bronze_statue_of_the_emperor_Trebonianus_Gallus_%28detail%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original",
+          "width": 3000,
+          "height": 4000
+        },
+        "pageimage": "Bronze_statue_of_the_emperor_Trebonianus_Gallus_(detail).jpg",
+        "images": [
+          {
+            "ns": 6,
+            "title": "File:Antakya Archaeology Museum Emperor Trebonianus Gallus bust sept 2019 6079.jpg"
+          },
+          {
+            "ns": 6,
+            "title": "File:Archeologico di Firenze, ritratto di treboniano gallo 02.JPG"
+          },
+          {
+            "ns": 6,
+            "title": "File:Bronze statue of the emperor Trebonianus Gallus (detail).jpg"
+          },
+          {
+            "ns": 6,
+            "title": "File:Bronze statue of the emperor Trebonianus Gallus (side) (head).jpg"
+          },
+          {
+            "ns": 6,
+            "title": "File:Commons-logo.svg"
+          },
+          {
+            "ns": 6,
+            "title": "File:MMA bronze 03.jpg"
+          },
+          {
+            "ns": 6,
+            "title": "File:Medaglione di treboniano gallo, 252 dc, recto, bronzo e oricalco.JPG"
+          },
+          {
+            "ns": 6,
+            "title": "File:Medaglione di treboniano gallo e volusiano, 261-253, recto con loro busti laurati, corazzati e affrontati.JPG"
+          },
+          {
+            "ns": 6,
+            "title": "File:OOjs UI icon edit-ltr-progressive.svg"
+          },
+          {
+            "ns": 6,
+            "title": "File:Rare aureus of Trebonianus Gallus (obverse).jpg"
+          },
+          {
+            "ns": 6,
+            "title": "File:Sestertius of Trebonianus Gallus, 251 (obverse).jpg"
+          }
+        ],
+        "pageprops": {
+          "defaultsort": "Gallus, Trebonianus",
+          "nomediaviewercarousel": "",
+          "page_image_free": "Bronze_statue_of_the_emperor_Trebonianus_Gallus_(detail).jpg",
+          "wikibase-shortdesc": "Roman emperor from 251 to 253",
+          "wikibase_item": "Q171023"
+        }
+      },
+      {
+        "pageid": 146215,
+        "ns": 0,
+        "title": "Aemilianus",
+        "original": {
+          "source": "https://upload.wikimedia.org/wikipedia/commons/9/9f/Aemilianus_RIC_IV_20_%28obverse%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original",
+          "width": 794,
+          "height": 693
+        },
+        "pageimage": "Aemilianus_RIC_IV_20_(obverse).jpg",
+        "images": [
+          {
+            "ns": 6,
+            "title": "File:Aemilianus RIC IV 20 (obverse).jpg"
+          },
+          {
+            "ns": 6,
+            "title": "File:Antoninianus-Cornelia Supra-RIC 0030.jpg"
+          },
+          {
+            "ns": 6,
+            "title": "File:Antoninianus Aemilianus-RIC 0015.jpg"
+          },
+          {
+            "ns": 6,
+            "title": "File:Commons-logo.svg"
+          },
+          {
+            "ns": 6,
+            "title": "File:Map of Roman roads in Italy.png"
+          },
+          {
+            "ns": 6,
+            "title": "File:OOjs UI icon edit-ltr-progressive.svg"
+          }
+        ],
+        "pageprops": {
+          "defaultsort": "Aemilianus",
+          "nomediaviewercarousel": "",
+          "page_image_free": "Aemilianus_RIC_IV_20_(obverse).jpg",
+          "wikibase-shortdesc": "Roman emperor in 253 AD",
+          "wikibase_item": "Q177980"
+        }
+      },
+      {
+        "pageid": 147751,
+        "ns": 0,
+        "title": "Hostilian",
+        "original": {
+          "source": "https://upload.wikimedia.org/wikipedia/commons/3/3f/Sestertius_Hostilian-s2771_%28obverse%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original",
+          "width": 367,
+          "height": 366
+        },
+        "pageimage": "Sestertius_Hostilian-s2771_(obverse).jpg",
+        "images": [
+          {
+            "ns": 6,
+            "title": "File:Commons-logo.svg"
+          },
+          {
+            "ns": 6,
+            "title": "File:INC-2038-a Ауреус. Гостилиан. Ок. 251 г. (аверс).png"
+          },
+          {
+            "ns": 6,
+            "title": "File:OOjs UI icon edit-ltr-progressive.svg"
+          },
+          {
+            "ns": 6,
+            "title": "File:Sestertius Hostilian-s2771 (obverse).jpg"
+          },
+          {
+            "ns": 6,
+            "title": "File:Symbol support vote.svg"
+          }
+        ],
+        "pageprops": {
+          "nomediaviewercarousel": "",
+          "page_image_free": "Sestertius_Hostilian-s2771_(obverse).jpg",
+          "wikibase-badge-Q17437798": "",
+          "wikibase-shortdesc": "Roman emperor in 251",
+          "wikibase_item": "Q46837"
+        }
+      },
+      {
+        "pageid": 242216,
+        "ns": 0,
+        "title": "Publius Quinctilius Varus",
+        "original": {
+          "source": "https://upload.wikimedia.org/wikipedia/commons/0/0d/Varus_-_Antiquitates_Germanic%C3%A6_-_Tacitus_%26_Hooft.tiff?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original",
+          "width": 3184,
+          "height": 5300
+        },
+        "pageimage": "Varus_-_Antiquitates_Germanicæ_-_Tacitus_&_Hooft.tiff",
+        "images": [
+          {
+            "ns": 6,
+            "title": "File:Commons-logo.svg"
+          },
+          {
+            "ns": 6,
+            "title": "File:Gegenstempel Varus.jpg"
+          },
+          {
+            "ns": 6,
+            "title": "File:OOjs UI icon edit-ltr-progressive.svg"
+          },
+          {
+            "ns": 6,
+            "title": "File:Question book-new.svg"
+          },
+          {
+            "ns": 6,
+            "title": "File:Varus - Antiquitates Germanicæ - Tacitus & Hooft.tiff"
+          },
+          {
+            "ns": 6,
+            "title": "File:Zentralbibliothek Solothurn - Schlachtszene - aa0219.tif"
+          }
+        ],
+        "pageprops": {
+          "defaultsort": "Quinctilius Varus, Publius",
+          "page_image_free": "Varus_-_Antiquitates_Germanicæ_-_Tacitus_&_Hooft.tiff",
+          "wikibase-shortdesc": "Roman general and politician",
+          "wikibase_item": "Q214765"
+        }
+      },
+      {
+        "pageid": 377410,
+        "ns": 0,
+        "title": "Julia Maesa",
+        "original": {
+          "source": "https://upload.wikimedia.org/wikipedia/commons/a/a4/Julia_Maesa_antoninianus_2.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original",
+          "width": 250,
+          "height": 230
+        },
+        "pageimage": "Julia_Maesa_antoninianus_2.png",
+        "images": [
+          {
+            "ns": 6,
+            "title": "File:Alexander Severus Musei Capitolini MC471.jpg"
+          },
+          {
+            "ns": 6,
+            "title": "File:Aureus Macrinus-RIC 0079 (cropped).jpg"
+          },
+          {
+            "ns": 6,
+            "title": "File:Bust of Elagabalus - Palazzo Nuovo - Musei Capitolini - Rome 2016 (2).jpg"
+          },
+          {
+            "ns": 6,
+            "title": "File:Caracalla MAN Napoli Inv6033 n01.jpg"
+          },
+          {
+            "ns": 6,
+            "title": "File:Extended-protection-shackle.svg"
+          },
+          {
+            "ns": 6,
+            "title": "File:Head of Julia Meza.jpg"
+          },
+          {
+            "ns": 6,
+            "title": "File:Julia Domna Glyptothek Munich 354.jpg"
+          },
+          {
+            "ns": 6,
+            "title": "File:Julia Maesa antoninianus 2.png"
+          },
+          {
+            "ns": 6,
+            "title": "File:Julia Maesa obversee.png"
+          },
+          {
+            "ns": 6,
+            "title": "File:Julia mammea02 pushkin.jpg"
+          },
+          {
+            "ns": 6,
+            "title": "File:OOjs UI icon edit-ltr-progressive.svg"
+          },
+          {
+            "ns": 6,
+            "title": "File:Perge - Julia Soemias 2.jpg"
+          },
+          {
+            "ns": 6,
+            "title": "File:Septimius Severus Glyptothek Munich 357.jpg"
+          },
+          {
+            "ns": 6,
+            "title": "File:Symbol support vote.svg"
+          }
+        ],
+        "pageprops": {
+          "defaultsort": "Maesa, Julia",
+          "page_image_free": "Julia_Maesa_antoninianus_2.png",
+          "wikibase-badge-Q17437798": "",
+          "wikibase-shortdesc": "3rd-century Severan dynasty Roman Imperial Augusta",
+          "wikibase_item": "Q231258"
+        }
+      },
+      {
+        "pageid": 377412,
+        "ns": 0,
+        "title": "Julia Soaemias",
+        "original": {
+          "source": "https://upload.wikimedia.org/wikipedia/commons/0/05/Perge_-_Julia_Soemias_2.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original",
+          "width": 1200,
+          "height": 1600
+        },
+        "pageimage": "Perge_-_Julia_Soemias_2.jpg",
+        "images": [
+          {
+            "ns": 6,
+            "title": "File:Commons-logo.svg"
+          },
+          {
+            "ns": 6,
+            "title": "File:Elagabalus Denarius Fortuna Head.png"
+          },
+          {
+            "ns": 6,
+            "title": "File:OOjs UI icon edit-ltr-progressive.svg"
+          },
+          {
+            "ns": 6,
+            "title": "File:Perge - Julia Soaemias 1.jpg"
+          },
+          {
+            "ns": 6,
+            "title": "File:Perge - Julia Soemias 2.jpg"
+          }
+        ],
+        "pageprops": {
+          "defaultsort": "Julia Soaemias",
+          "page_image_free": "Perge_-_Julia_Soemias_2.jpg",
+          "wikibase-shortdesc": "Mother of Roman emperor Elagabalus (180–222)",
+          "wikibase_item": "Q232380"
+        }
+      },
+      {
+        "pageid": 377415,
+        "ns": 0,
+        "title": "Julia Avita Mamaea",
+        "original": {
+          "source": "https://upload.wikimedia.org/wikipedia/commons/5/5a/Julia_Avita_Mamaea_Louvre_Ma3552.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original",
+          "width": 2400,
+          "height": 3600
+        },
+        "pageimage": "Julia_Avita_Mamaea_Louvre_Ma3552.jpg",
+        "images": [
+          {
+            "ns": 6,
+            "title": "File:Alexander Severus Musei Capitolini MC471.jpg"
+          },
+          {
+            "ns": 6,
+            "title": "File:Commons-logo.svg"
+          },
+          {
+            "ns": 6,
+            "title": "File:Julia Avita Mamaea Louvre Ma3552.jpg"
+          },
+          {
+            "ns": 6,
+            "title": "File:Julia Maesa antoninianus 2.png"
+          },
+          {
+            "ns": 6,
+            "title": "File:Julia mamaea.jpg"
+          },
+          {
+            "ns": 6,
+            "title": "File:Julia mammea02 pushkin.jpg"
+          },
+          {
+            "ns": 6,
+            "title": "File:OOjs UI icon edit-ltr-progressive.svg"
+          },
+          {
+            "ns": 6,
+            "title": "File:Sarcophagus with scenes from the life of Achilles (inv. MC 218).jpg"
+          }
+        ],
+        "pageprops": {
+          "defaultsort": "Mamaea, Julia Avita",
+          "page_image_free": "Julia_Avita_Mamaea_Louvre_Ma3552.jpg",
+          "wikibase-shortdesc": "Mother of Roman emperor Alexander Severus (died 235)",
+          "wikibase_item": "Q235090"
+        }
+      },
+      {
+        "pageid": 383486,
+        "ns": 0,
+        "title": "Balbinus",
+        "original": {
+          "source": "https://upload.wikimedia.org/wikipedia/commons/1/1e/Balbinus_Hermitage.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original",
+          "width": 1704,
+          "height": 2632
+        },
+        "pageimage": "Balbinus_Hermitage.jpg",
+        "images": [
+          {
+            "ns": 6,
+            "title": "File:BalbinusSest.jpg"
+          },
+          {
+            "ns": 6,
+            "title": "File:Balbinus Hermitage.jpg"
+          },
+          {
+            "ns": 6,
+            "title": "File:Balbinus statue Piraeus.jpg"
+          },
+          {
+            "ns": 6,
+            "title": "File:Commons-logo.svg"
+          },
+          {
+            "ns": 6,
+            "title": "File:Marble head of Roman Emperor Balbinus.jpg"
+          },
+          {
+            "ns": 6,
+            "title": "File:OOjs UI icon edit-ltr-progressive.svg"
+          },
+          {
+            "ns": 6,
+            "title": "File:Vexilloid of the Roman Empire.svg"
+          }
+        ],
+        "pageprops": {
+          "nomediaviewercarousel": "",
+          "page_image_free": "Balbinus_Hermitage.jpg",
+          "wikibase-shortdesc": "Roman emperor in 238",
+          "wikibase_item": "Q1805"
+        }
+      },
+      {
+        "pageid": 383487,
+        "ns": 0,
+        "title": "Pupienus",
+        "original": {
+          "source": "https://upload.wikimedia.org/wikipedia/commons/7/79/Pupienus_Musei_Capitolini_MC477.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original",
+          "width": 1750,
+          "height": 2650
+        },
+        "pageimage": "Pupienus_Musei_Capitolini_MC477.jpg",
+        "images": [
+          {
+            "ns": 6,
+            "title": "File:Commons-logo.svg"
+          },
+          {
+            "ns": 6,
+            "title": "File:Gnome-mime-sound-openclipart.svg"
+          },
+          {
+            "ns": 6,
+            "title": "File:OOjs UI icon edit-ltr-progressive.svg"
+          },
+          {
+            "ns": 6,
+            "title": "File:PUPIENUS-RIC IV 1-87001056 (obverse).jpg"
+          },
+          {
+            "ns": 6,
+            "title": "File:Pupienus.ogg"
+          },
+          {
+            "ns": 6,
+            "title": "File:Pupienus2.jpg"
+          },
+          {
+            "ns": 6,
+            "title": "File:Pupienus Musei Capitolini MC477.jpg"
+          },
+          {
+            "ns": 6,
+            "title": "File:Vexilloid of the Roman Empire.svg"
+          }
+        ],
+        "pageprops": {
+          "defaultsort": "Pupienus",
+          "nomediaviewercarousel": "",
+          "page_image_free": "Pupienus_Musei_Capitolini_MC477.jpg",
+          "wikibase-shortdesc": "Roman emperor in 238",
+          "wikibase_item": "Q1797"
+        }
+      },
+      {
+        "pageid": 384896,
+        "ns": 0,
+        "title": "Sextus Afranius Burrus",
+        "images": [
+          {
+            "ns": 6,
+            "title": "File:Julius Caesar.jpg"
+          }
+        ],
+        "pageprops": {
+          "defaultsort": "Burrus, Sextus Afranius",
+          "wikibase-shortdesc": "Prefect of the Roman Praetorian Guard (AD 1–62)",
+          "wikibase_item": "Q453916"
+        }
+      },
+      {
+        "pageid": 476545,
+        "ns": 0,
+        "title": "Pacatian",
+        "original": {
+          "source": "https://upload.wikimedia.org/wikipedia/commons/c/c9/Antoninianus-Pacatianus-1001-RIC_0006cf.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original",
+          "width": 500,
+          "height": 235
+        },
+        "pageimage": "Antoninianus-Pacatianus-1001-RIC_0006cf.jpg",
+        "images": [
+          {
+            "ns": 6,
+            "title": "File:Antoninianus-Pacatianus-1001-RIC 0006cf.jpg"
+          },
+          {
+            "ns": 6,
+            "title": "File:Commons-logo.svg"
+          },
+          {
+            "ns": 6,
+            "title": "File:Julius Caesar.jpg"
+          },
+          {
+            "ns": 6,
+            "title": "File:OOjs UI icon edit-ltr-progressive.svg"
+          }
+        ],
+        "pageprops": {
+          "nomediaviewercarousel": "",
+          "page_image_free": "Antoninianus-Pacatianus-1001-RIC_0006cf.jpg",
+          "wikibase-shortdesc": "Usurper of the Roman Empire (died c. 248)",
+          "wikibase_item": "Q263444"
+        }
+      },
+      {
+        "pageid": 566485,
+        "ns": 0,
+        "title": "Veleda",
+        "original": {
+          "source": "https://upload.wikimedia.org/wikipedia/commons/0/0b/Augustins_-_Velleda_-_Laurent_Marqueste_2004_1_431.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original",
+          "width": 4151,
+          "height": 4050
+        },
+        "pageimage": "Augustins_-_Velleda_-_Laurent_Marqueste_2004_1_431.jpg",
+        "images": [
+          {
+            "ns": 6,
+            "title": "File:Augustins - Velleda - Laurent Marqueste 2004 1 431.jpg"
+          },
+          {
+            "ns": 6,
+            "title": "File:Finds from a priestess' grave.jpg"
+          },
+          {
+            "ns": 6,
+            "title": "File:Germania, 1882 \"Veleda, profetisa de los germanos\". (4358472779).jpg"
+          },
+          {
+            "ns": 6,
+            "title": "File:OOjs UI icon edit-ltr-progressive.svg"
+          },
+          {
+            "ns": 6,
+            "title": "File:Symbol category class.svg"
+          },
+          {
+            "ns": 6,
+            "title": "File:Velleda.jpg"
+          }
+        ],
+        "pageprops": {
+          "page_image_free": "Augustins_-_Velleda_-_Laurent_Marqueste_2004_1_431.jpg",
+          "wikibase-shortdesc": "1st century seeress of the Bructeri, a Germanic people",
+          "wikibase_item": "Q267711"
+        }
+      },
+      {
+        "pageid": 724734,
+        "ns": 0,
+        "title": "Cniva",
+        "original": {
+          "source": "https://upload.wikimedia.org/wikipedia/commons/5/5e/GothicInvasions250-251-en.svg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original",
+          "width": 1030,
+          "height": 1076
+        },
+        "pageimage": "GothicInvasions250-251-en.svg",
+        "images": [
+          {
+            "ns": 6,
+            "title": "File:GothicInvasions250-251-en.svg"
+          }
+        ],
+        "pageprops": {
+          "page_image_free": "GothicInvasions250-251-en.svg",
+          "wikibase-shortdesc": "Mid-3rd century Gothic king",
+          "wikibase_item": "Q558526"
+        }
+      },
+      {
+        "pageid": 791531,
+        "ns": 0,
+        "title": "Volusianus",
+        "original": {
+          "source": "https://upload.wikimedia.org/wikipedia/commons/b/b1/Buste_de_Volusianus%2C_MBA.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original",
+          "width": 1474,
+          "height": 2048
+        },
+        "pageimage": "Buste_de_Volusianus,_MBA.jpg",
+        "images": [
+          {
+            "ns": 6,
+            "title": "File:Aureus Volusianus (obverse).jpg"
+          },
+          {
+            "ns": 6,
+            "title": "File:Buste de Volusianus, MBA.jpg"
+          },
+          {
+            "ns": 6,
+            "title": "File:Commons-logo.svg"
+          },
+          {
+            "ns": 6,
+            "title": "File:OOjs UI icon edit-ltr-progressive.svg"
+          },
+          {
+            "ns": 6,
+            "title": "File:Symbol support vote.svg"
+          },
+          {
+            "ns": 6,
+            "title": "File:Vexilloid of the Roman Empire.svg"
+          }
+        ],
+        "pageprops": {
+          "defaultsort": "Volusianus",
+          "nomediaviewercarousel": "",
+          "page_image_free": "Buste_de_Volusianus,_MBA.jpg",
+          "wikibase-badge-Q17437798": "",
+          "wikibase-shortdesc": "Roman emperor from 251 to 253",
+          "wikibase_item": "Q202222"
+        }
+      },
+      {
+        "pageid": 800012,
+        "ns": 0,
+        "title": "Cyrus the Great",
+        "original": {
+          "source": "https://upload.wikimedia.org/wikipedia/commons/5/57/Cyrus_II_%28The_Great%29_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original",
+          "width": 920,
+          "height": 1480
+        },
+        "pageimage": "Cyrus_II_(The_Great)_(cropped).jpg",
+        "images": [
+          {
+            "ns": 6,
+            "title": "File:Achaemenid soldiers against Scythians.jpg"
+          },
+          {
+            "ns": 6,
+            "title": "File:Ancient near east 540 bc.svg"
+          },
+          {
+            "ns": 6,
+            "title": "File:Bust of Cyrus from Duesternstrasse 43-51, Hamburg.jpg"
+          },
+          {
+            "ns": 6,
+            "title": "File:Commons-logo.svg"
+          },
+          {
+            "ns": 6,
+            "title": "File:Coresh St 1.JPG"
+          },
+          {
+            "ns": 6,
+            "title": "File:Cyrus Cylinder.jpg"
+          },
+          {
+            "ns": 6,
+            "title": "File:Cyrus II (The Great) (cropped).jpg"
+          },
+          {
+            "ns": 6,
+            "title": "File:Cyrus II le Grand et les Hébreux.jpg"
+          },
+          {
+            "ns": 6,
+            "title": "File:Cyrus The Great Monument-NE to SW view (1)-Cropped.jpg"
+          },
+          {
+            "ns": 6,
+            "title": "File:Cyrus stele in Pasagardae.jpg"
+          },
+          {
+            "ns": 6,
+            "title": "File:Cyrus the Great with General Harpagus (18th century).jpg"
+          },
+          {
+            "ns": 6,
+            "title": "File:Darius In Parse.JPG"
+          },
+          {
+            "ns": 6,
+            "title": "File:Defeat of Croesus 546 BCE.jpg"
+          },
+          {
+            "ns": 6,
+            "title": "File:I am Cyrus, Achaemenid King - Pasargady01.jpg"
+          },
+          {
+            "ns": 6,
+            "title": "File:Jean Charles Nicaise Perrin - Cyrus and Astyages - WGA17209.jpg"
+          },
+          {
+            "ns": 6,
+            "title": "File:KINGS of LYDIA. Time of Cyrus to Darios I. Circa 545-520 BC.jpg"
+          },
+          {
+            "ns": 6,
+            "title": "File:Kroisos stake Louvre G197.jpg"
+          },
+          {
+            "ns": 6,
+            "title": "File:OOjs UI icon edit-ltr-progressive.svg"
+          },
+          {
+            "ns": 6,
+            "title": "File:OldPersian-KU.svg"
+          },
+          {
+            "ns": 6,
+            "title": "File:OldPersian-RU.svg"
+          },
+          {
+            "ns": 6,
+            "title": "File:OldPersian-SHA.svg"
+          },
+          {
+            "ns": 6,
+            "title": "File:OldPersian-U.svg"
+          },
+          {
+            "ns": 6,
+            "title": "File:Olympic Park Cyrus-2.png"
+          },
+          {
+            "ns": 6,
+            "title": "File:Painting of Cyrus the Great in battle.png"
+          },
+          {
+            "ns": 6,
+            "title": "File:Pasargad Tomb Cyrus3.jpg"
+          },
+          {
+            "ns": 6,
+            "title": "File:Queen Tomyris and the head of Cyrus the Great.jpg"
+          },
+          {
+            "ns": 6,
+            "title": "File:Rembrandt Harmensz. van Rijn (Dutch - Daniel and Cyrus before the Idol Bel - Google Art Project.jpg"
+          },
+          {
+            "ns": 6,
+            "title": "File:Standard of Cyrus the Great.svg"
+          },
+          {
+            "ns": 6,
+            "title": "File:Symbol category class.svg"
+          },
+          {
+            "ns": 6,
+            "title": "File:Wikiquote-logo.svg"
+          },
+          {
+            "ns": 6,
+            "title": "File:Wikisource-logo.svg"
+          },
+          {
+            "ns": 6,
+            "title": "File:Wiktionary-logo-en-v2.svg"
+          }
+        ],
+        "pageprops": {
+          "defaultsort": "Cyrus the Great",
+          "page_image_free": "Cyrus_II_(The_Great)_(cropped).jpg",
+          "wikibase-shortdesc": "Founder of the Achaemenid Empire",
+          "wikibase_item": "Q8423"
+        }
+      },
+      {
+        "pageid": 841099,
+        "ns": 0,
+        "title": "Ardashir I",
+        "original": {
+          "source": "https://upload.wikimedia.org/wikipedia/commons/e/e0/Dinar_of_Ardashir_I_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original",
+          "width": 504,
+          "height": 506
+        },
+        "pageimage": "Dinar_of_Ardashir_I_(cropped).jpg",
+        "images": [
+          {
+            "ns": 6,
+            "title": "File:Ardaschiri coin 3.jpg"
+          },
+          {
+            "ns": 6,
+            "title": "File:ArdashirPahlaviName.png"
+          },
+          {
+            "ns": 6,
+            "title": "File:Ardashir Babakan's Palace in FiruzAbad.JPG"
+          },
+          {
+            "ns": 6,
+            "title": "File:Ardashir and His Dastur (Councillor), from the Great Mongol Shahnama.jpg"
+          },
+          {
+            "ns": 6,
+            "title": "File:Ardashir i's relief at Firuzabad, Fars, Iran.JPG"
+          },
+          {
+            "ns": 6,
+            "title": "File:Ardeshir Babakan and Ahuramazda Photo From Sahand Ace.jpg"
+          },
+          {
+            "ns": 6,
+            "title": "File:Coin of Ardashir I (phase 3), Hamadan mint.jpg"
+          },
+          {
+            "ns": 6,
+            "title": "File:Commons-logo.svg"
+          },
+          {
+            "ns": 6,
+            "title": "File:Dinar of Ardashir I (cropped).jpg"
+          },
+          {
+            "ns": 6,
+            "title": "File:Ghal'eh Dokhtar2.jpg"
+          },
+          {
+            "ns": 6,
+            "title": "File:Irnp105-Grobowce Naqsh-E Rustam.jpg"
+          },
+          {
+            "ns": 6,
+            "title": "File:KINGS of PERSIS. Vādfradād (Autophradates) I. 3rd century BC.jpg"
+          },
+          {
+            "ns": 6,
+            "title": "File:Khan Takhti AP.JPG"
+          },
+          {
+            "ns": 6,
+            "title": "File:OOjs UI icon edit-ltr-progressive.svg"
+          },
+          {
+            "ns": 6,
+            "title": "File:SASANIAN KINGS. Ardashir I. As King of Persis, AD 205-6-223-4.jpg"
+          },
+          {
+            "ns": 6,
+            "title": "File:Sasanian province of Pars.png"
+          },
+          {
+            "ns": 6,
+            "title": "File:Silver coin of Ardashir I, struck at the Hamadan mint.jpg"
+          },
+          {
+            "ns": 6,
+            "title": "File:Text document with page number icon.svg"
+          },
+          {
+            "ns": 6,
+            "title": "File:Wikisource-logo.svg"
+          }
+        ],
+        "pageprops": {
+          "defaultsort": "Ardashir 01",
+          "page_image_free": "Dinar_of_Ardashir_I_(cropped).jpg",
+          "wikibase-shortdesc": "Founder and Shahanshah of the Sasanian Empire from 180 to 242",
+          "wikibase_item": "Q371319"
+        }
+      },
+      {
+        "pageid": 6429853,
+        "ns": 0,
+        "title": "Gaius Julius Verus Maximus",
+        "original": {
+          "source": "https://upload.wikimedia.org/wikipedia/commons/d/db/Maximus_Ny_Carlsberg_Glyptotek_IN823.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original",
+          "width": 4005,
+          "height": 6000
+        },
+        "pageimage": "Maximus_Ny_Carlsberg_Glyptotek_IN823.jpg",
+        "images": [
+          {
+            "ns": 6,
+            "title": "File:Julius Caesar.jpg"
+          },
+          {
+            "ns": 6,
+            "title": "File:Maximus Ny Carlsberg Glyptotek IN823.jpg"
+          }
+        ],
+        "pageprops": {
+          "defaultsort": "Maximus, Gaius Iulius Verus",
+          "page_image_free": "Maximus_Ny_Carlsberg_Glyptotek_IN823.jpg",
+          "wikibase-shortdesc": "Son of Roman Emperor Maximinus Thrax (died 238)",
+          "wikibase_item": "Q518890"
+        }
+      },
+      {
+        "pageid": 9480370,
+        "ns": 0,
+        "title": "Titus Julius Priscus",
+        "original": {
+          "source": "https://upload.wikimedia.org/wikipedia/commons/8/87/Titus_Julius_Priscus.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original",
+          "width": 1200,
+          "height": 1600
+        },
+        "pageimage": "Titus_Julius_Priscus.jpg",
+        "images": [
+          {
+            "ns": 6,
+            "title": "File:Julius Caesar.jpg"
+          },
+          {
+            "ns": 6,
+            "title": "File:Titus Julius Priscus.jpg"
+          }
+        ],
+        "pageprops": {
+          "defaultsort": "Julius Priscus, Titus",
+          "page_image_free": "Titus_Julius_Priscus.jpg",
+          "wikibase-shortdesc": "Roman imperial usurper (died c. 251)",
+          "wikibase_item": "Q887217"
+        }
+      },
+      {
+        "pageid": 12144634,
+        "ns": 0,
+        "title": "Gaius Furius Sabinius Aquila Timesitheus",
+        "images": [
+          {
+            "ns": 6,
+            "title": "File:Vexilloid of the Roman Empire.svg"
+          }
+        ],
+        "pageprops": {
+          "defaultsort": "Timesitheus, Gaius Furius Sabinius Aquila",
+          "wikibase-shortdesc": "Roman official, soldier and praetorian prefect (190-243)",
+          "wikibase_item": "Q534464"
+        }
+      },
+      {
+        "pageid": 19473234,
+        "ns": 0,
+        "title": "Gannys",
+        "images": [
+          {
+            "ns": 6,
+            "title": "File:Roman Military banner.svg"
+          }
+        ],
+        "pageprops": {
+          "defaultsort": "Gannys",
+          "wikibase-shortdesc": "Roman general and tutor of emperor Elagabalus (died 218)",
+          "wikibase_item": "Q332519"
+        }
+      },
+      {
+        "pageid": 28030743,
+        "ns": 0,
+        "title": "Maximinus Thrax",
+        "original": {
+          "source": "https://upload.wikimedia.org/wikipedia/commons/4/4f/Maximinus_Thrax_Musei_Capitolini_MC473.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original",
+          "width": 1800,
+          "height": 2400
+        },
+        "pageimage": "Maximinus_Thrax_Musei_Capitolini_MC473.jpg",
+        "images": [
+          {
+            "ns": 6,
+            "title": "File:Carska palata Sirmijum1.JPG"
+          },
+          {
+            "ns": 6,
+            "title": "File:Commons-logo.svg"
+          },
+          {
+            "ns": 6,
+            "title": "File:Maximinus Thrax.jpg"
+          },
+          {
+            "ns": 6,
+            "title": "File:Maximinus Thrax Musei Capitolini MC473.jpg"
+          },
+          {
+            "ns": 6,
+            "title": "File:Maximinus Thrax Ny Carlsberg Glyptotek IN818.jpg"
+          },
+          {
+            "ns": 6,
+            "title": "File:OOjs UI icon edit-ltr-progressive.svg"
+          }
+        ],
+        "pageprops": {
+          "defaultsort": "Maximinus Thrax",
+          "nomediaviewercarousel": "",
+          "page_image_free": "Maximinus_Thrax_Musei_Capitolini_MC473.jpg",
+          "wikibase-shortdesc": "Roman emperor from 235 to 238",
+          "wikibase_item": "Q1777"
+        }
+      },
+      {
+        "pageid": 33592446,
+        "ns": 0,
+        "title": "Vitalian (praetorian prefect)",
+        "pageprops": {
+          "wikibase_item": "Q7936845"
+        }
+      },
+      {
+        "pageid": 33598578,
+        "ns": 0,
+        "title": "Capelianus",
+        "pageprops": {
+          "wikibase-shortdesc": "3rd century Roman commander and governor",
+          "wikibase_item": "Q708268"
+        }
+      },
+      {
+        "pageid": 33642554,
+        "ns": 0,
+        "title": "Scipio Africanus",
+        "original": {
+          "source": "https://upload.wikimedia.org/wikipedia/commons/a/a6/Bust_of_Sulla_%28loan_from_Ny_Carlsberg_Glyptotek%29_-_Glyptothek_-_Munich_-_Germany_2017.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original",
+          "width": 3456,
+          "height": 5184
+        },
+        "pageimage": "Bust_of_Sulla_(loan_from_Ny_Carlsberg_Glyptotek)_-_Glyptothek_-_Munich_-_Germany_2017.jpg",
+        "images": [
+          {
+            "ns": 6,
+            "title": "File:Bust of Sulla (loan from Ny Carlsberg Glyptotek) - Glyptothek - Munich - Germany 2017.jpg"
+          },
+          {
+            "ns": 6,
+            "title": "File:Commons-logo.svg"
+          },
+          {
+            "ns": 6,
+            "title": "File:Continence of Scipio mg 0095.jpg"
+          },
+          {
+            "ns": 6,
+            "title": "File:Dc-hannibal-coin.png"
+          },
+          {
+            "ns": 6,
+            "title": "File:Escipión africano.JPG"
+          },
+          {
+            "ns": 6,
+            "title": "File:FR Carskie Siolo, Galeria Camerona, 2013.08.10, fot. I. Nowicka (11) corr2.jpg"
+          },
+          {
+            "ns": 6,
+            "title": "File:Hasdrubal coin.jpg"
+          },
+          {
+            "ns": 6,
+            "title": "File:Iberia 210-206BC-it.png"
+          },
+          {
+            "ns": 6,
+            "title": "File:Jean-Pierre Granger Antiochus.JPG"
+          },
+          {
+            "ns": 6,
+            "title": "File:Medieval Portrait of Scipio Africanus (Philadelphia Museum of Art).jpg"
+          },
+          {
+            "ns": 6,
+            "title": "File:OOjs UI icon edit-ltr-progressive.svg"
+          },
+          {
+            "ns": 6,
+            "title": "File:Publius Scipio's Invasion of Africa, 204–201 BC.png"
+          },
+          {
+            "ns": 6,
+            "title": "File:Question book-new.svg"
+          },
+          {
+            "ns": 6,
+            "title": "File:Sepolcro degli Scipioni 001 Entrata.jpg"
+          },
+          {
+            "ns": 6,
+            "title": "File:Wikiquote-logo.svg"
+          },
+          {
+            "ns": 6,
+            "title": "File:Wikisource-logo.svg"
+          }
+        ],
+        "pageprops": {
+          "defaultsort": "Scipio Africanus",
+          "page_image_free": "Bust_of_Sulla_(loan_from_Ny_Carlsberg_Glyptotek)_-_Glyptothek_-_Munich_-_Germany_2017.jpg",
+          "wikibase-shortdesc": "Roman general and politician (236/235 – c. 183 BC)",
+          "wikibase_item": "Q2253"
+        }
+      }
+    ]
+  },
+  "limits": {
+    "images": 500
+  }
+}

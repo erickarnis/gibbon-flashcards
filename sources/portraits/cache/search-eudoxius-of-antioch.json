@@ -1,0 +1,490 @@
+{
+  "person_id": "eudoxius-of-antioch",
+  "query": "Eudoxius of Antioch",
+  "response": {
+    "batchcomplete": true,
+    "continue": {
+      "gsroffset": 5,
+      "continue": "gsroffset||"
+    },
+    "query": {
+      "pages": [
+        {
+          "pageid": 95069561,
+          "ns": 6,
+          "title": "File:A dictionary of Christian biography and literature to the end of the sixth century A.D., with an account of the principal sects and heresies; (IA dictionaryofchri00wacerich).pdf",
+          "index": 5,
+          "imagerepository": "local",
+          "imageinfo": [
+            {
+              "size": 93443886,
+              "width": 691,
+              "height": 1108,
+              "pagecount": 1050,
+              "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/73/A_dictionary_of_Christian_biography_and_literature_to_the_end_of_the_sixth_century_A.D.%2C_with_an_account_of_the_principal_sects_and_heresies%3B_%28IA_dictionaryofchri00wacerich%29.pdf/page1-500px-thumbnail.pdf.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+              "thumbwidth": 400,
+              "thumbheight": 641,
+              "thumbattribs": {
+                "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/73/A_dictionary_of_Christian_biography_and_literature_to_the_end_of_the_sixth_century_A.D.%2C_with_an_account_of_the_principal_sects_and_heresies%3B_%28IA_dictionaryofchri00wacerich%29.pdf/page1-500px-thumbnail.pdf.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+                "decoding": "async",
+                "loading": "lazy",
+                "width": 400,
+                "height": 641
+              },
+              "url": "https://upload.wikimedia.org/wikipedia/commons/7/73/A_dictionary_of_Christian_biography_and_literature_to_the_end_of_the_sixth_century_A.D.%2C_with_an_account_of_the_principal_sects_and_heresies%3B_%28IA_dictionaryofchri00wacerich%29.pdf?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+              "descriptionurl": "https://commons.wikimedia.org/wiki/File:A_dictionary_of_Christian_biography_and_literature_to_the_end_of_the_sixth_century_A.D.,_with_an_account_of_the_principal_sects_and_heresies;_(IA_dictionaryofchri00wacerich).pdf",
+              "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=95069561",
+              "extmetadata": {
+                "DateTime": {
+                  "value": "2020-10-14 20:44:00",
+                  "source": "mediawiki-metadata",
+                  "hidden": ""
+                },
+                "ObjectName": {
+                  "value": "<div class=\"fn\">\nA dictionary of Christian biography and literature to the end of the sixth century A.D., with an account of the principal sects and heresies;</div>",
+                  "source": "commons-desc-page"
+                },
+                "CommonsMetadataExtension": {
+                  "value": 1.2,
+                  "source": "extension",
+                  "hidden": ""
+                },
+                "Categories": {
+                  "value": "Scans from the Internet Archive/unverified|PD US expired|Scans from the Internet Archive|Books uploaded by Fæ|Books without Wikidata item|California Digital Library|Books published in Boston",
+                  "source": "commons-categories",
+                  "hidden": ""
+                },
+                "Assessments": {
+                  "value": "",
+                  "source": "commons-categories",
+                  "hidden": ""
+                },
+                "Artist": {
+                  "value": "<div class=\"fn value\">\nWace, Henry, 1836-1924</div>",
+                  "source": "commons-desc-page"
+                },
+                "ImageDescription": {
+                  "value": "<div class=\"description\">\nSubjects: Fathers of the church -- Dictionaries; Heresy -- Dictionaries</div>",
+                  "source": "commons-desc-page"
+                },
+                "Credit": {
+                  "value": "<dl><dd><a href=\"//archive.org/details/dictionaryofchri00wacerich\" class=\"extiw\" title=\"iarchive:dictionaryofchri00wacerich\"><bdi class=\"description en\" lang=\"en\" dir=\"ltr\">Internet Archive identifier</bdi>: dictionaryofchri00wacerich</a></dd>\n<dd><a rel=\"nofollow\" class=\"external free\" href=\"https://archive.org/download/dictionaryofchri00wacerich/dictionaryofchri00wacerich.pdf\">https://archive.org/download/dictionaryofchri00wacerich/dictionaryofchri00wacerich.pdf</a></dd></dl>",
+                  "source": "commons-desc-page"
+                },
+                "LicenseShortName": {
+                  "value": "Public domain",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "UsageTerms": {
+                  "value": "Public domain",
+                  "source": "commons-desc-page"
+                },
+                "AttributionRequired": {
+                  "value": "false",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "Copyrighted": {
+                  "value": "False",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "Restrictions": {
+                  "value": "",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "License": {
+                  "value": "pd",
+                  "source": "commons-templates",
+                  "hidden": ""
+                }
+              }
+            }
+          ]
+        },
+        {
+          "pageid": 95759916,
+          "ns": 6,
+          "title": "File:Martyrologia; or, records of religious persecution - being a new and comprehensive book of Martyrs, of ancient and modern times (IA martyrologiaorre02foxeiala).pdf",
+          "index": 1,
+          "imagerepository": "local",
+          "imageinfo": [
+            {
+              "size": 64401050,
+              "width": 827,
+              "height": 1333,
+              "pagecount": 640,
+              "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/58/Martyrologia%3B_or%2C_records_of_religious_persecution_-_being_a_new_and_comprehensive_book_of_Martyrs%2C_of_ancient_and_modern_times_%28IA_martyrologiaorre02foxeiala%29.pdf/page1-500px-thumbnail.pdf.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+              "thumbwidth": 400,
+              "thumbheight": 645,
+              "thumbattribs": {
+                "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/58/Martyrologia%3B_or%2C_records_of_religious_persecution_-_being_a_new_and_comprehensive_book_of_Martyrs%2C_of_ancient_and_modern_times_%28IA_martyrologiaorre02foxeiala%29.pdf/page1-500px-thumbnail.pdf.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+                "decoding": "async",
+                "loading": "lazy",
+                "width": 400,
+                "height": 645
+              },
+              "url": "https://upload.wikimedia.org/wikipedia/commons/5/58/Martyrologia%3B_or%2C_records_of_religious_persecution_-_being_a_new_and_comprehensive_book_of_Martyrs%2C_of_ancient_and_modern_times_%28IA_martyrologiaorre02foxeiala%29.pdf?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+              "descriptionurl": "https://commons.wikimedia.org/wiki/File:Martyrologia;_or,_records_of_religious_persecution_-_being_a_new_and_comprehensive_book_of_Martyrs,_of_ancient_and_modern_times_(IA_martyrologiaorre02foxeiala).pdf",
+              "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=95759916",
+              "extmetadata": {
+                "DateTime": {
+                  "value": "2020-11-03 04:24:11",
+                  "source": "mediawiki-metadata",
+                  "hidden": ""
+                },
+                "ObjectName": {
+                  "value": "<div class=\"fn\">\nMartyrologia; or, records of religious persecution : being a new and comprehensive book of Martyrs, of ancient and modern times</div>",
+                  "source": "commons-desc-page"
+                },
+                "CommonsMetadataExtension": {
+                  "value": 1.2,
+                  "source": "extension",
+                  "hidden": ""
+                },
+                "Categories": {
+                  "value": "Foxe's Book of Martyrs|Scans from the Internet Archive/unverified|PD US expired|Scans from the Internet Archive|Books published in London|Books uploaded by Fæ|Books without Wikidata item|California Digital Library",
+                  "source": "commons-categories",
+                  "hidden": ""
+                },
+                "Assessments": {
+                  "value": "",
+                  "source": "commons-categories",
+                  "hidden": ""
+                },
+                "Artist": {
+                  "value": "<div class=\"fn value\">\nFoxe, John, 1516-1587</div>",
+                  "source": "commons-desc-page"
+                },
+                "ImageDescription": {
+                  "value": "<div class=\"description\">\nSubjects:</div>",
+                  "source": "commons-desc-page"
+                },
+                "Credit": {
+                  "value": "<dl><dd><a href=\"//archive.org/details/martyrologiaorre02foxeiala\" class=\"extiw\" title=\"iarchive:martyrologiaorre02foxeiala\"><bdi class=\"description en\" lang=\"en\" dir=\"ltr\">Internet Archive identifier</bdi>: martyrologiaorre02foxeiala</a></dd>\n<dd><a rel=\"nofollow\" class=\"external free\" href=\"https://archive.org/download/martyrologiaorre02foxeiala/martyrologiaorre02foxeiala.pdf\">https://archive.org/download/martyrologiaorre02foxeiala/martyrologiaorre02foxeiala.pdf</a></dd></dl>",
+                  "source": "commons-desc-page"
+                },
+                "LicenseShortName": {
+                  "value": "Public domain",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "UsageTerms": {
+                  "value": "Public domain",
+                  "source": "commons-desc-page"
+                },
+                "AttributionRequired": {
+                  "value": "false",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "Copyrighted": {
+                  "value": "False",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "Restrictions": {
+                  "value": "",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "License": {
+                  "value": "pd",
+                  "source": "commons-templates",
+                  "hidden": ""
+                }
+              }
+            }
+          ]
+        },
+        {
+          "pageid": 97975118,
+          "ns": 6,
+          "title": "File:A history of the church from the Edict of Milan, A.D. 313, to the Council of Chalcedon, A.D. 451 (IA cu31924029227174).pdf",
+          "index": 2,
+          "imagerepository": "local",
+          "imageinfo": [
+            {
+              "size": 13052932,
+              "width": 650,
+              "height": 1060,
+              "pagecount": 476,
+              "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0b/A_history_of_the_church_from_the_Edict_of_Milan%2C_A.D._313%2C_to_the_Council_of_Chalcedon%2C_A.D._451_%28IA_cu31924029227174%29.pdf/page1-500px-A_history_of_the_church_from_the_Edict_of_Milan%2C_A.D._313%2C_to_the_Council_of_Chalcedon%2C_A.D._451_%28IA_cu31924029227174%29.pdf.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+              "thumbwidth": 400,
+              "thumbheight": 652,
+              "thumbattribs": {
+                "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0b/A_history_of_the_church_from_the_Edict_of_Milan%2C_A.D._313%2C_to_the_Council_of_Chalcedon%2C_A.D._451_%28IA_cu31924029227174%29.pdf/page1-500px-A_history_of_the_church_from_the_Edict_of_Milan%2C_A.D._313%2C_to_the_Council_of_Chalcedon%2C_A.D._451_%28IA_cu31924029227174%29.pdf.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+                "decoding": "async",
+                "loading": "lazy",
+                "width": 400,
+                "height": 652
+              },
+              "url": "https://upload.wikimedia.org/wikipedia/commons/0/0b/A_history_of_the_church_from_the_Edict_of_Milan%2C_A.D._313%2C_to_the_Council_of_Chalcedon%2C_A.D._451_%28IA_cu31924029227174%29.pdf?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+              "descriptionurl": "https://commons.wikimedia.org/wiki/File:A_history_of_the_church_from_the_Edict_of_Milan,_A.D._313,_to_the_Council_of_Chalcedon,_A.D._451_(IA_cu31924029227174).pdf",
+              "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=97975118",
+              "extmetadata": {
+                "DateTime": {
+                  "value": "2020-12-23 06:54:24",
+                  "source": "mediawiki-metadata",
+                  "hidden": ""
+                },
+                "ObjectName": {
+                  "value": "<div class=\"fn\">\nA history of the church from the Edict of Milan, A.D. 313, to the Council of Chalcedon, A.D. 451</div>",
+                  "source": "commons-desc-page"
+                },
+                "CommonsMetadataExtension": {
+                  "value": 1.2,
+                  "source": "extension",
+                  "hidden": ""
+                },
+                "Categories": {
+                  "value": "PD-old-100-expired|Scans from the Internet Archive/unverified|CC-PD-Mark|Scans from the Internet Archive|Books uploaded by Fæ|Books without Wikidata item|Scans from Cornell University Library|Books about churches",
+                  "source": "commons-categories",
+                  "hidden": ""
+                },
+                "Assessments": {
+                  "value": "",
+                  "source": "commons-categories",
+                  "hidden": ""
+                },
+                "Artist": {
+                  "value": "<div class=\"fn value\">\nBright, William, 1824-1901</div>",
+                  "source": "commons-desc-page"
+                },
+                "ImageDescription": {
+                  "value": "<div class=\"description\">\n<p>The metadata below describe the original scanning. Follow the \"All Files: HTTP\" link in the \"View the book\" box to the left to find XML files that contain more metadata about the original images and the derived formats (OCR results, PDF etc.). See also the <a rel=\"nofollow\" class=\"external text\" href=\"https://archive.org/about/faqs.php#140\">What is the directory structure for the texts?</a> FAQ for information about file content and naming conventions.\n</p>\n<br>Subjects: Church history</div>",
+                  "source": "commons-desc-page"
+                },
+                "Credit": {
+                  "value": "<dl><dd><a href=\"//archive.org/details/cu31924029227174\" class=\"extiw\" title=\"iarchive:cu31924029227174\"><bdi class=\"description en\" lang=\"en\" dir=\"ltr\">Internet Archive identifier</bdi>: cu31924029227174</a></dd>\n<dd><a rel=\"nofollow\" class=\"external free\" href=\"https://archive.org/download/cu31924029227174/cu31924029227174.pdf\">https://archive.org/download/cu31924029227174/cu31924029227174.pdf</a></dd></dl>",
+                  "source": "commons-desc-page"
+                },
+                "LicenseShortName": {
+                  "value": "Public domain",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "UsageTerms": {
+                  "value": "Public domain",
+                  "source": "commons-desc-page"
+                },
+                "AttributionRequired": {
+                  "value": "false",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "Copyrighted": {
+                  "value": "False",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "Restrictions": {
+                  "value": "",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "License": {
+                  "value": "pd",
+                  "source": "commons-templates",
+                  "hidden": ""
+                }
+              }
+            }
+          ]
+        },
+        {
+          "pageid": 98245119,
+          "ns": 6,
+          "title": "File:Lives of the Fathers - sketches of church history in biography (IA cu31924092342207).pdf",
+          "index": 3,
+          "imagerepository": "local",
+          "imageinfo": [
+            {
+              "size": 20718139,
+              "width": 741,
+              "height": 1314,
+              "pagecount": 758,
+              "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/38/Lives_of_the_Fathers_-_sketches_of_church_history_in_biography_%28IA_cu31924092342207%29.pdf/page1-500px-Lives_of_the_Fathers_-_sketches_of_church_history_in_biography_%28IA_cu31924092342207%29.pdf.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+              "thumbwidth": 400,
+              "thumbheight": 709,
+              "thumbattribs": {
+                "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/38/Lives_of_the_Fathers_-_sketches_of_church_history_in_biography_%28IA_cu31924092342207%29.pdf/page1-500px-Lives_of_the_Fathers_-_sketches_of_church_history_in_biography_%28IA_cu31924092342207%29.pdf.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+                "decoding": "async",
+                "loading": "lazy",
+                "width": 400,
+                "height": 709
+              },
+              "url": "https://upload.wikimedia.org/wikipedia/commons/3/38/Lives_of_the_Fathers_-_sketches_of_church_history_in_biography_%28IA_cu31924092342207%29.pdf?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+              "descriptionurl": "https://commons.wikimedia.org/wiki/File:Lives_of_the_Fathers_-_sketches_of_church_history_in_biography_(IA_cu31924092342207).pdf",
+              "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=98245119",
+              "extmetadata": {
+                "DateTime": {
+                  "value": "2020-12-30 07:46:41",
+                  "source": "mediawiki-metadata",
+                  "hidden": ""
+                },
+                "ObjectName": {
+                  "value": "<div class=\"fn\">\nLives of the Fathers : sketches of church history in biography</div>",
+                  "source": "commons-desc-page"
+                },
+                "CommonsMetadataExtension": {
+                  "value": 1.2,
+                  "source": "extension",
+                  "hidden": ""
+                },
+                "Categories": {
+                  "value": "PD-old-100-expired|Scans from the Internet Archive/unverified|CC-PD-Mark|Scans from the Internet Archive|Books uploaded by Fæ|Books without Wikidata item|Scans from Cornell University Library|Books published in Edinburgh|PD-old missing SDC copyright status|Books by William Farrar",
+                  "source": "commons-categories",
+                  "hidden": ""
+                },
+                "Assessments": {
+                  "value": "",
+                  "source": "commons-categories",
+                  "hidden": ""
+                },
+                "Artist": {
+                  "value": "<div class=\"fn value\">\nFarrar, Frederic William, 1831-1903</div>",
+                  "source": "commons-desc-page"
+                },
+                "ImageDescription": {
+                  "value": "<div class=\"description\">\n<dl><dd>The metadata below describe the original scanning. Follow the \"All Files: HTTP\" link in the \"View the book\" box to the left to find XML files that contain more metadata about the original images and the derived formats (OCR results, PDF etc.). See also the <a rel=\"nofollow\" class=\"external text\" href=\"https://archive.org/about/faqs.php#140\">What is the directory structure for the texts?</a> FAQ for information about file content and naming conventions.</dd>\n<dd>Includes index at end of v. 2</dd>\n<dd>Includes publisher's advertisements: [2] p. at end of v. 1</dd>\n<dd>Includes bibliographical references</dd></dl>\n<br>Subjects: Fathers of the church; Church history</div>",
+                  "source": "commons-desc-page"
+                },
+                "Credit": {
+                  "value": "<dl><dd><a href=\"//archive.org/details/cu31924092342207\" class=\"extiw\" title=\"iarchive:cu31924092342207\"><bdi class=\"description en\" lang=\"en\" dir=\"ltr\">Internet Archive identifier</bdi>: cu31924092342207</a></dd>\n<dd><a rel=\"nofollow\" class=\"external free\" href=\"https://archive.org/download/cu31924092342207/cu31924092342207.pdf\">https://archive.org/download/cu31924092342207/cu31924092342207.pdf</a></dd></dl>",
+                  "source": "commons-desc-page"
+                },
+                "LicenseShortName": {
+                  "value": "Public domain",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "UsageTerms": {
+                  "value": "Public domain",
+                  "source": "commons-desc-page"
+                },
+                "AttributionRequired": {
+                  "value": "false",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "Copyrighted": {
+                  "value": "False",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "Restrictions": {
+                  "value": "",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "License": {
+                  "value": "pd",
+                  "source": "commons-templates",
+                  "hidden": ""
+                }
+              }
+            }
+          ]
+        },
+        {
+          "pageid": 198343725,
+          "ns": 6,
+          "title": "File:Dictionary of sects, heresies, ecclesiastical parties, and schools of religious thought (IA dictionaryofsect00blunuoft).pdf",
+          "index": 4,
+          "imagerepository": "local",
+          "imageinfo": [
+            {
+              "size": 103715524,
+              "width": 933,
+              "height": 1500,
+              "pagecount": 666,
+              "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/39/Dictionary_of_sects%2C_heresies%2C_ecclesiastical_parties%2C_and_schools_of_religious_thought_%28IA_dictionaryofsect00blunuoft%29.pdf/page1-500px-Dictionary_of_sects%2C_heresies%2C_ecclesiastical_parties%2C_and_schools_of_religious_thought_%28IA_dictionaryofsect00blunuoft%29.pdf.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+              "thumbwidth": 400,
+              "thumbheight": 643,
+              "thumbattribs": {
+                "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/39/Dictionary_of_sects%2C_heresies%2C_ecclesiastical_parties%2C_and_schools_of_religious_thought_%28IA_dictionaryofsect00blunuoft%29.pdf/page1-500px-Dictionary_of_sects%2C_heresies%2C_ecclesiastical_parties%2C_and_schools_of_religious_thought_%28IA_dictionaryofsect00blunuoft%29.pdf.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+                "decoding": "async",
+                "loading": "lazy",
+                "width": 400,
+                "height": 643
+              },
+              "url": "https://upload.wikimedia.org/wikipedia/commons/3/39/Dictionary_of_sects%2C_heresies%2C_ecclesiastical_parties%2C_and_schools_of_religious_thought_%28IA_dictionaryofsect00blunuoft%29.pdf?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+              "descriptionurl": "https://commons.wikimedia.org/wiki/File:Dictionary_of_sects,_heresies,_ecclesiastical_parties,_and_schools_of_religious_thought_(IA_dictionaryofsect00blunuoft).pdf",
+              "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=198343725",
+              "extmetadata": {
+                "DateTime": {
+                  "value": "2026-08-28 15:03:58",
+                  "source": "mediawiki-metadata",
+                  "hidden": ""
+                },
+                "ObjectName": {
+                  "value": "<div class=\"fn\">\nDictionary of sects, heresies, ecclesiastical parties, and schools of religious thought</div>",
+                  "source": "commons-desc-page"
+                },
+                "CommonsMetadataExtension": {
+                  "value": 1.2,
+                  "source": "extension",
+                  "hidden": ""
+                },
+                "Categories": {
+                  "value": "PD-old-100-expired|Scans from the Internet Archive/unverified|CC-PD-Mark|Scans from the Internet Archive|Books uploaded by Fæ|Books without Wikidata item|IA uploads needing categories|Scans from University of Toronto|PD-old missing SDC copyright status",
+                  "source": "commons-categories",
+                  "hidden": ""
+                },
+                "Assessments": {
+                  "value": "",
+                  "source": "commons-categories",
+                  "hidden": ""
+                },
+                "Artist": {
+                  "value": "<div class=\"fn value\">\nBlunt, John Henry, 1823-1884</div>",
+                  "source": "commons-desc-page"
+                },
+                "ImageDescription": {
+                  "value": "<div class=\"description\">\n<p>26\n</p>\n<br>Subjects: Religion -- Dictionaries</div>",
+                  "source": "commons-desc-page"
+                },
+                "Credit": {
+                  "value": "<dl><dd><a href=\"//archive.org/details/dictionaryofsect00blunuoft\" class=\"extiw\" title=\"iarchive:dictionaryofsect00blunuoft\"><bdi class=\"description en\" lang=\"en\" dir=\"ltr\">Internet Archive identifier</bdi>: dictionaryofsect00blunuoft</a></dd>\n<dd><a rel=\"nofollow\" class=\"external free\" href=\"https://archive.org/download/dictionaryofsect00blunuoft/dictionaryofsect00blunuoft.pdf\">https://archive.org/download/dictionaryofsect00blunuoft/dictionaryofsect00blunuoft.pdf</a></dd></dl>\n<ul><li>IA contributor: Robarts - University of Toronto</li>\n<li>IA digitizing sponsor: MSN</li></ul>",
+                  "source": "commons-desc-page"
+                },
+                "LicenseShortName": {
+                  "value": "Public domain",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "UsageTerms": {
+                  "value": "Public domain",
+                  "source": "commons-desc-page"
+                },
+                "AttributionRequired": {
+                  "value": "false",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "Copyrighted": {
+                  "value": "False",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "Restrictions": {
+                  "value": "",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "License": {
+                  "value": "pd",
+                  "source": "commons-templates",
+                  "hidden": ""
+                }
+              }
+            }
+          ]
+        }
+      ]
+    }
+  }
+}

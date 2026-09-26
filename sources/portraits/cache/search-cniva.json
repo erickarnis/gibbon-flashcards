@@ -1,0 +1,545 @@
+{
+  "person_id": "cniva",
+  "query": "Cniva",
+  "response": {
+    "batchcomplete": true,
+    "continue": {
+      "gsroffset": 5,
+      "continue": "gsroffset||"
+    },
+    "query": {
+      "pages": [
+        {
+          "pageid": 23470452,
+          "ns": 6,
+          "title": "File:GothicInvasions250-251-en.svg",
+          "index": 2,
+          "imagerepository": "local",
+          "imageinfo": [
+            {
+              "size": 242923,
+              "width": 1030,
+              "height": 1076,
+              "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5e/GothicInvasions250-251-en.svg/500px-GothicInvasions250-251-en.svg.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+              "thumbwidth": 400,
+              "thumbheight": 418,
+              "responsiveUrls": {
+                "2": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5e/GothicInvasions250-251-en.svg/960px-GothicInvasions250-251-en.svg.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+              },
+              "thumbattribs": {
+                "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5e/GothicInvasions250-251-en.svg/500px-GothicInvasions250-251-en.svg.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+                "decoding": "async",
+                "loading": "lazy",
+                "width": 400,
+                "height": 418,
+                "srcset": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5e/GothicInvasions250-251-en.svg/960px-GothicInvasions250-251-en.svg.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail 2x"
+              },
+              "url": "https://upload.wikimedia.org/wikipedia/commons/5/5e/GothicInvasions250-251-en.svg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+              "descriptionurl": "https://commons.wikimedia.org/wiki/File:GothicInvasions250-251-en.svg",
+              "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=23470452",
+              "extmetadata": {
+                "DateTime": {
+                  "value": "2012-12-31 20:53:14",
+                  "source": "mediawiki-metadata",
+                  "hidden": ""
+                },
+                "ObjectName": {
+                  "value": "GothicInvasions250-251-en",
+                  "source": "mediawiki-metadata"
+                },
+                "CommonsMetadataExtension": {
+                  "value": 1.2,
+                  "source": "extension",
+                  "hidden": ""
+                },
+                "Categories": {
+                  "value": "Greece in the 3rd century|Carpi people|Maps of Roman Dacia|250|Self-published work|Maps showing 3rd-century history|Maps of Dacian tribes|Maps showing 251|Maps of the history of the ancient Balkans|Military maps of the Roman Empire|Maps of the Gothic War (248–253)",
+                  "source": "commons-categories",
+                  "hidden": ""
+                },
+                "Assessments": {
+                  "value": "",
+                  "source": "commons-categories",
+                  "hidden": ""
+                },
+                "ImageDescription": {
+                  "value": "Gothic invasion in the Balkans, 250-251 AD, and the battle of Abritus",
+                  "source": "commons-desc-page"
+                },
+                "DateTimeOriginal": {
+                  "value": "2012-12-31 12:13:49",
+                  "source": "commons-desc-page"
+                },
+                "Credit": {
+                  "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+                  "source": "commons-desc-page"
+                },
+                "Artist": {
+                  "value": "<a href=\"//commons.wikimedia.org/wiki/User:Dipa1965\" title=\"User:Dipa1965\">Dipa1965</a>",
+                  "source": "commons-desc-page"
+                },
+                "LicenseShortName": {
+                  "value": "CC BY-SA 3.0",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "UsageTerms": {
+                  "value": "Creative Commons Attribution-Share Alike 3.0",
+                  "source": "commons-desc-page"
+                },
+                "AttributionRequired": {
+                  "value": "true",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "LicenseUrl": {
+                  "value": "https://creativecommons.org/licenses/by-sa/3.0",
+                  "source": "commons-desc-page"
+                },
+                "Copyrighted": {
+                  "value": "True",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "Restrictions": {
+                  "value": "",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "License": {
+                  "value": "cc-by-sa-3.0",
+                  "source": "commons-templates",
+                  "hidden": ""
+                }
+              }
+            }
+          ]
+        },
+        {
+          "pageid": 28070082,
+          "ns": 6,
+          "title": "File:Invasione 249-251.png",
+          "index": 5,
+          "imagerepository": "local",
+          "imageinfo": [
+            {
+              "size": 464629,
+              "width": 1223,
+              "height": 751,
+              "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/29/Invasione_249-251.png/500px-Invasione_249-251.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+              "thumbwidth": 400,
+              "thumbheight": 246,
+              "responsiveUrls": {
+                "2": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/29/Invasione_249-251.png/960px-Invasione_249-251.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+              },
+              "thumbattribs": {
+                "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/29/Invasione_249-251.png/500px-Invasione_249-251.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+                "decoding": "async",
+                "loading": "lazy",
+                "width": 400,
+                "height": 246,
+                "srcset": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/29/Invasione_249-251.png/960px-Invasione_249-251.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail 2x"
+              },
+              "url": "https://upload.wikimedia.org/wikipedia/commons/2/29/Invasione_249-251.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+              "descriptionurl": "https://commons.wikimedia.org/wiki/File:Invasione_249-251.png",
+              "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=28070082",
+              "extmetadata": {
+                "DateTime": {
+                  "value": "2013-09-05 07:36:05",
+                  "source": "mediawiki-metadata",
+                  "hidden": ""
+                },
+                "ObjectName": {
+                  "value": "Invasione 249-251",
+                  "source": "mediawiki-metadata"
+                },
+                "CommonsMetadataExtension": {
+                  "value": 1.2,
+                  "source": "extension",
+                  "hidden": ""
+                },
+                "Categories": {
+                  "value": "Decius|Maps of Roman Dacia|249|250|Moesia Inferior|Moesia Superior|Self-published work|Maps showing 3rd-century history|Maps showing 251|Maps of the history of the ancient Balkans|Military maps of the Roman Empire|Maps of the Gothic War (248–253)",
+                  "source": "commons-categories",
+                  "hidden": ""
+                },
+                "Assessments": {
+                  "value": "",
+                  "source": "commons-categories",
+                  "hidden": ""
+                },
+                "ImageDescription": {
+                  "value": "Invasioni barbariche del 249-251 da parte di Cniva re dei Goti",
+                  "source": "commons-desc-page"
+                },
+                "DateTimeOriginal": {
+                  "value": "2013-09-05 09:28:39",
+                  "source": "commons-desc-page"
+                },
+                "Credit": {
+                  "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+                  "source": "commons-desc-page"
+                },
+                "Artist": {
+                  "value": "<p><a href=\"//commons.wikimedia.org/wiki/User:Cristiano64\" title=\"User:Cristiano64\">Cristiano64</a>\n</p>\nThe original uploader was <a href=\"https://en.wikipedia.org/wiki/it:User:Cristiano64\" class=\"extiw\" title=\"w:it:User:Cristiano64\">Cristiano64</a> at <a href=\"https://en.wikipedia.org/wiki/it:\" class=\"extiw\" title=\"w:it:\">Italian Wikipedia</a>.",
+                  "source": "commons-desc-page"
+                },
+                "LicenseShortName": {
+                  "value": "CC BY-SA 3.0",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "UsageTerms": {
+                  "value": "Creative Commons Attribution-Share Alike 3.0",
+                  "source": "commons-desc-page"
+                },
+                "AttributionRequired": {
+                  "value": "true",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "LicenseUrl": {
+                  "value": "https://creativecommons.org/licenses/by-sa/3.0",
+                  "source": "commons-desc-page"
+                },
+                "Copyrighted": {
+                  "value": "True",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "Restrictions": {
+                  "value": "",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "License": {
+                  "value": "cc-by-sa-3.0",
+                  "source": "commons-templates",
+                  "hidden": ""
+                }
+              }
+            }
+          ]
+        },
+        {
+          "pageid": 39176880,
+          "ns": 6,
+          "title": "File:GothicInvasions250-251-pt.svg",
+          "index": 3,
+          "imagerepository": "local",
+          "imageinfo": [
+            {
+              "size": 243121,
+              "width": 1030,
+              "height": 1076,
+              "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a4/GothicInvasions250-251-pt.svg/500px-GothicInvasions250-251-pt.svg.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+              "thumbwidth": 400,
+              "thumbheight": 418,
+              "responsiveUrls": {
+                "2": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a4/GothicInvasions250-251-pt.svg/960px-GothicInvasions250-251-pt.svg.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+              },
+              "thumbattribs": {
+                "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a4/GothicInvasions250-251-pt.svg/500px-GothicInvasions250-251-pt.svg.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+                "decoding": "async",
+                "loading": "lazy",
+                "width": 400,
+                "height": 418,
+                "srcset": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a4/GothicInvasions250-251-pt.svg/960px-GothicInvasions250-251-pt.svg.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail 2x"
+              },
+              "url": "https://upload.wikimedia.org/wikipedia/commons/a/a4/GothicInvasions250-251-pt.svg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+              "descriptionurl": "https://commons.wikimedia.org/wiki/File:GothicInvasions250-251-pt.svg",
+              "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=39176880",
+              "extmetadata": {
+                "DateTime": {
+                  "value": "2015-03-24 02:11:35",
+                  "source": "mediawiki-metadata",
+                  "hidden": ""
+                },
+                "ObjectName": {
+                  "value": "GothicInvasions250-251-pt",
+                  "source": "mediawiki-metadata"
+                },
+                "CommonsMetadataExtension": {
+                  "value": 1.2,
+                  "source": "extension",
+                  "hidden": ""
+                },
+                "Categories": {
+                  "value": "Greece in the 3rd century|Carpi people|Maps of Roman Dacia|250|Maps showing 3rd-century history|Maps of Dacian tribes|Derivative versions|Maps showing 251|Maps of the history of the ancient Balkans|Military maps of the Roman Empire|Maps of the Gothic War (248–253)",
+                  "source": "commons-categories",
+                  "hidden": ""
+                },
+                "Assessments": {
+                  "value": "",
+                  "source": "commons-categories",
+                  "hidden": ""
+                },
+                "ImageDescription": {
+                  "value": "Invasões góticas de 250-251",
+                  "source": "commons-desc-page"
+                },
+                "DateTimeOriginal": {
+                  "value": "2015-03-23",
+                  "source": "commons-desc-page"
+                },
+                "Credit": {
+                  "value": "This file was derived from:  <a href=\"//commons.wikimedia.org/wiki/File:GothicInvasions250-251-en.svg\" title=\"File:GothicInvasions250-251-en.svg\">GothicInvasions250-251-en.svg</a>: <span typeof=\"mw:File\"><a href=\"//commons.wikimedia.org/wiki/File:GothicInvasions250-251-en.svg\" class=\"mw-file-description\"><img src=\"https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5e/GothicInvasions250-251-en.svg/60px-GothicInvasions250-251-en.svg.png?utm_source=commons.wikimedia.org&amp;utm_campaign=parser&amp;utm_content=thumbnail\" decoding=\"async\" loading=\"lazy\" width=\"50\" height=\"52\" class=\"mw-file-element\" srcset=\"https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5e/GothicInvasions250-251-en.svg/120px-GothicInvasions250-251-en.svg.png?utm_source=commons.wikimedia.org&amp;utm_campaign=parser&amp;utm_content=thumbnail 2x\" data-file-width=\"1030\" data-file-height=\"1076\"></a></span><br>",
+                  "source": "commons-desc-page"
+                },
+                "Artist": {
+                  "value": "<a href=\"//commons.wikimedia.org/wiki/User:Dipa1965\" title=\"User:Dipa1965\">Dipa1965</a> (<a href=\"//commons.wikimedia.org/wiki/User_talk:Dipa1965\" title=\"User talk:Dipa1965\">talk</a><span style=\"white-space:nowrap\"> <span style=\"font-weight:bold;\">·</span></span> <a href=\"//commons.wikimedia.org/wiki/Special:Contributions/Dipa1965\" title=\"Special:Contributions/Dipa1965\">contribs</a>)",
+                  "source": "commons-desc-page"
+                },
+                "LicenseShortName": {
+                  "value": "CC BY 3.0",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "UsageTerms": {
+                  "value": "Creative Commons Attribution 3.0",
+                  "source": "commons-desc-page"
+                },
+                "AttributionRequired": {
+                  "value": "true",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "LicenseUrl": {
+                  "value": "https://creativecommons.org/licenses/by/3.0",
+                  "source": "commons-desc-page"
+                },
+                "Copyrighted": {
+                  "value": "True",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "Restrictions": {
+                  "value": "",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "License": {
+                  "value": "cc-by-3.0",
+                  "source": "commons-templates",
+                  "hidden": ""
+                }
+              }
+            }
+          ]
+        },
+        {
+          "pageid": 41981817,
+          "ns": 6,
+          "title": "File:GothicInvasions250-251-es.svg",
+          "index": 4,
+          "imagerepository": "local",
+          "imageinfo": [
+            {
+              "size": 412885,
+              "width": 1030,
+              "height": 1076,
+              "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f4/GothicInvasions250-251-es.svg/500px-GothicInvasions250-251-es.svg.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+              "thumbwidth": 400,
+              "thumbheight": 418,
+              "responsiveUrls": {
+                "2": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f4/GothicInvasions250-251-es.svg/960px-GothicInvasions250-251-es.svg.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+              },
+              "thumbattribs": {
+                "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f4/GothicInvasions250-251-es.svg/500px-GothicInvasions250-251-es.svg.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+                "decoding": "async",
+                "loading": "lazy",
+                "width": 400,
+                "height": 418,
+                "srcset": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f4/GothicInvasions250-251-es.svg/960px-GothicInvasions250-251-es.svg.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail 2x"
+              },
+              "url": "https://upload.wikimedia.org/wikipedia/commons/f/f4/GothicInvasions250-251-es.svg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+              "descriptionurl": "https://commons.wikimedia.org/wiki/File:GothicInvasions250-251-es.svg",
+              "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=41981817",
+              "extmetadata": {
+                "DateTime": {
+                  "value": "2019-09-20 21:40:01",
+                  "source": "mediawiki-metadata",
+                  "hidden": ""
+                },
+                "ObjectName": {
+                  "value": "GothicInvasions250-251-es",
+                  "source": "mediawiki-metadata"
+                },
+                "CommonsMetadataExtension": {
+                  "value": 1.2,
+                  "source": "extension",
+                  "hidden": ""
+                },
+                "Categories": {
+                  "value": "Greece in the 3rd century|Carpi people|Maps of Roman Dacia|250|Self-published work|Maps showing 3rd-century history|Spanish-language SVG maps showing history|Maps of Dacian tribes|Maps showing 251|Maps of the history of the ancient Balkans|Military maps of the Roman Empire|Maps of the Gothic War (248–253)",
+                  "source": "commons-categories",
+                  "hidden": ""
+                },
+                "Assessments": {
+                  "value": "",
+                  "source": "commons-categories",
+                  "hidden": ""
+                },
+                "ImageDescription": {
+                  "value": "Invasiones godas del 250-251.",
+                  "source": "commons-desc-page"
+                },
+                "DateTimeOriginal": {
+                  "value": "2015-07-31",
+                  "source": "commons-desc-page"
+                },
+                "Credit": {
+                  "value": "<a href=\"//commons.wikimedia.org/wiki/File:GothicInvasions250-251-pt.svg\" title=\"File:GothicInvasions250-251-pt.svg\">GothicInvasions250-251-pt.svg</a>",
+                  "source": "commons-desc-page"
+                },
+                "Artist": {
+                  "value": "<ul><li><a href=\"//commons.wikimedia.org/wiki/File:GothicInvasions250-251-pt.svg\" title=\"File:GothicInvasions250-251-pt.svg\">GothicInvasions250-251-pt.svg</a>: <a href=\"//commons.wikimedia.org/wiki/User:Dipa1965\" title=\"User:Dipa1965\">Dipa1965</a> (<a href=\"//commons.wikimedia.org/wiki/User_talk:Dipa1965\" title=\"User talk:Dipa1965\">talk</a><span style=\"white-space:nowrap\"> <span style=\"font-weight:bold;\">·</span></span> <a href=\"//commons.wikimedia.org/wiki/Special:Contributions/Dipa1965\" title=\"Special:Contributions/Dipa1965\">contribs</a>)</li>\n<li>derivative work: <a href=\"//commons.wikimedia.org/wiki/User:Rowanwindwhistler\" title=\"User:Rowanwindwhistler\">rowanwindwhistler</a> (<a href=\"//commons.wikimedia.org/wiki/User_talk:Rowanwindwhistler\" title=\"User talk:Rowanwindwhistler\">talk</a>)</li></ul>",
+                  "source": "commons-desc-page"
+                },
+                "LicenseShortName": {
+                  "value": "CC BY-SA 4.0",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "UsageTerms": {
+                  "value": "Creative Commons Attribution-Share Alike 4.0",
+                  "source": "commons-desc-page"
+                },
+                "AttributionRequired": {
+                  "value": "true",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "LicenseUrl": {
+                  "value": "https://creativecommons.org/licenses/by-sa/4.0",
+                  "source": "commons-desc-page"
+                },
+                "Copyrighted": {
+                  "value": "True",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "Restrictions": {
+                  "value": "",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "License": {
+                  "value": "cc-by-sa-4.0",
+                  "source": "commons-templates",
+                  "hidden": ""
+                }
+              }
+            }
+          ]
+        },
+        {
+          "pageid": 182916066,
+          "ns": 6,
+          "title": "File:Gothic king Cniva and Emperor Decius at the battle of Abritus.jpg",
+          "index": 1,
+          "imagerepository": "local",
+          "imageinfo": [
+            {
+              "size": 4535851,
+              "width": 2821,
+              "height": 3941,
+              "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6a/Gothic_king_Cniva_and_Emperor_Decius_at_the_battle_of_Abritus.jpg/500px-Gothic_king_Cniva_and_Emperor_Decius_at_the_battle_of_Abritus.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+              "thumbwidth": 400,
+              "thumbheight": 559,
+              "responsiveUrls": {
+                "2": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6a/Gothic_king_Cniva_and_Emperor_Decius_at_the_battle_of_Abritus.jpg/960px-Gothic_king_Cniva_and_Emperor_Decius_at_the_battle_of_Abritus.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+              },
+              "thumbattribs": {
+                "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6a/Gothic_king_Cniva_and_Emperor_Decius_at_the_battle_of_Abritus.jpg/500px-Gothic_king_Cniva_and_Emperor_Decius_at_the_battle_of_Abritus.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+                "decoding": "async",
+                "loading": "lazy",
+                "width": 400,
+                "height": 559,
+                "srcset": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6a/Gothic_king_Cniva_and_Emperor_Decius_at_the_battle_of_Abritus.jpg/960px-Gothic_king_Cniva_and_Emperor_Decius_at_the_battle_of_Abritus.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail 2x"
+              },
+              "url": "https://upload.wikimedia.org/wikipedia/commons/6/6a/Gothic_king_Cniva_and_Emperor_Decius_at_the_battle_of_Abritus.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+              "descriptionurl": "https://commons.wikimedia.org/wiki/File:Gothic_king_Cniva_and_Emperor_Decius_at_the_battle_of_Abritus.jpg",
+              "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=182916066",
+              "extmetadata": {
+                "DateTime": {
+                  "value": "2026-02-01 23:13:35",
+                  "source": "mediawiki-metadata",
+                  "hidden": ""
+                },
+                "ObjectName": {
+                  "value": "Gothic king Cniva and Emperor Decius at the battle of Abritus",
+                  "source": "mediawiki-metadata"
+                },
+                "CommonsMetadataExtension": {
+                  "value": 1.2,
+                  "source": "extension",
+                  "hidden": ""
+                },
+                "Categories": {
+                  "value": "CC-Zero|Roman Empire|Decius|Crisis of the Third Century|Late Roman army|Self-published work|Gothic War (248–253)|Battle of Abritus|Decius in art",
+                  "source": "commons-categories",
+                  "hidden": ""
+                },
+                "Assessments": {
+                  "value": "",
+                  "source": "commons-categories",
+                  "hidden": ""
+                },
+                "ImageDescription": {
+                  "value": "Illustration of Gothic king Cniva and Emperor Decius at the battle of Abritus by pigeonduckthing",
+                  "source": "commons-desc-page"
+                },
+                "DateTimeOriginal": {
+                  "value": "2025-12-08 09:56:29",
+                  "source": "commons-desc-page"
+                },
+                "Credit": {
+                  "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+                  "source": "commons-desc-page"
+                },
+                "Artist": {
+                  "value": "<a href=\"//commons.wikimedia.org/wiki/User:Rowyn_flowerdew\" title=\"User:Rowyn flowerdew\">Rowyn flowerdew</a>",
+                  "source": "commons-desc-page"
+                },
+                "LicenseShortName": {
+                  "value": "CC0",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "UsageTerms": {
+                  "value": "Creative Commons Zero, Public Domain Dedication",
+                  "source": "commons-desc-page"
+                },
+                "AttributionRequired": {
+                  "value": "false",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "LicenseUrl": {
+                  "value": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+                  "source": "commons-desc-page"
+                },
+                "Copyrighted": {
+                  "value": "True",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "Restrictions": {
+                  "value": "",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "License": {
+                  "value": "cc0",
+                  "source": "commons-templates",
+                  "hidden": ""
+                }
+              }
+            }
+          ]
+        }
+      ]
+    }
+  }
+}

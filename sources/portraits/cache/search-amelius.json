@@ -1,0 +1,559 @@
+{
+  "person_id": "amelius",
+  "query": "Amelius",
+  "response": {
+    "batchcomplete": true,
+    "continue": {
+      "gsroffset": 5,
+      "continue": "gsroffset||"
+    },
+    "query": {
+      "pages": [
+        {
+          "pageid": 74366792,
+          "ns": 6,
+          "title": "File:Amelius Lockwood, 1st Baron Lambourne, grave.jpg",
+          "index": 1,
+          "imagerepository": "local",
+          "imageinfo": [
+            {
+              "size": 1321841,
+              "width": 1512,
+              "height": 2016,
+              "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8b/Amelius_Lockwood%2C_1st_Baron_Lambourne%2C_grave.jpg/500px-Amelius_Lockwood%2C_1st_Baron_Lambourne%2C_grave.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+              "thumbwidth": 400,
+              "thumbheight": 533,
+              "responsiveUrls": {
+                "2": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8b/Amelius_Lockwood%2C_1st_Baron_Lambourne%2C_grave.jpg/960px-Amelius_Lockwood%2C_1st_Baron_Lambourne%2C_grave.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+              },
+              "thumbattribs": {
+                "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8b/Amelius_Lockwood%2C_1st_Baron_Lambourne%2C_grave.jpg/500px-Amelius_Lockwood%2C_1st_Baron_Lambourne%2C_grave.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+                "decoding": "async",
+                "loading": "lazy",
+                "width": 400,
+                "height": 533,
+                "srcset": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8b/Amelius_Lockwood%2C_1st_Baron_Lambourne%2C_grave.jpg/960px-Amelius_Lockwood%2C_1st_Baron_Lambourne%2C_grave.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail 2x"
+              },
+              "url": "https://upload.wikimedia.org/wikipedia/commons/8/8b/Amelius_Lockwood%2C_1st_Baron_Lambourne%2C_grave.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+              "descriptionurl": "https://commons.wikimedia.org/wiki/File:Amelius_Lockwood,_1st_Baron_Lambourne,_grave.jpg",
+              "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=74366792",
+              "extmetadata": {
+                "DateTime": {
+                  "value": "2018-11-13 16:30:43",
+                  "source": "mediawiki-metadata",
+                  "hidden": ""
+                },
+                "ObjectName": {
+                  "value": "Amelius Lockwood, 1st Baron Lambourne, grave",
+                  "source": "mediawiki-metadata"
+                },
+                "CommonsMetadataExtension": {
+                  "value": 1.2,
+                  "source": "extension",
+                  "hidden": ""
+                },
+                "Categories": {
+                  "value": "Amelius (given name)|Self-published work|Gravestones in Essex",
+                  "source": "commons-categories",
+                  "hidden": ""
+                },
+                "Assessments": {
+                  "value": "",
+                  "source": "commons-categories",
+                  "hidden": ""
+                },
+                "ImageDescription": {
+                  "value": "The grave of Amelius Lockwood, 1st Baron Lambourne, in the churchyard of St Mary and All Saints, <a href=\"//commons.wikimedia.org/w/index.php?title=Lambourne&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"Lambourne (page does not exist)\">Lambourne</a>, Essex",
+                  "source": "commons-desc-page"
+                },
+                "DateTimeOriginal": {
+                  "value": "2018-11-07",
+                  "source": "commons-desc-page"
+                },
+                "Credit": {
+                  "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+                  "source": "commons-desc-page"
+                },
+                "Artist": {
+                  "value": "<a href=\"//commons.wikimedia.org/w/index.php?title=User:Tedster007&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"User:Tedster007 (page does not exist)\">Tedster007</a>",
+                  "source": "commons-desc-page"
+                },
+                "LicenseShortName": {
+                  "value": "CC BY-SA 4.0",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "UsageTerms": {
+                  "value": "Creative Commons Attribution-Share Alike 4.0",
+                  "source": "commons-desc-page"
+                },
+                "AttributionRequired": {
+                  "value": "true",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "LicenseUrl": {
+                  "value": "https://creativecommons.org/licenses/by-sa/4.0",
+                  "source": "commons-desc-page"
+                },
+                "Copyrighted": {
+                  "value": "True",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "Restrictions": {
+                  "value": "",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "License": {
+                  "value": "cc-by-sa-4.0",
+                  "source": "commons-templates",
+                  "hidden": ""
+                }
+              }
+            }
+          ]
+        },
+        {
+          "pageid": 83386135,
+          "ns": 6,
+          "title": "File:Amelius van Oenemapark Heerenveen-centrum.jpg",
+          "index": 3,
+          "imagerepository": "local",
+          "imageinfo": [
+            {
+              "size": 972615,
+              "width": 1920,
+              "height": 1080,
+              "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5f/Amelius_van_Oenemapark_Heerenveen-centrum.jpg/500px-Amelius_van_Oenemapark_Heerenveen-centrum.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+              "thumbwidth": 400,
+              "thumbheight": 225,
+              "responsiveUrls": {
+                "2": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5f/Amelius_van_Oenemapark_Heerenveen-centrum.jpg/960px-Amelius_van_Oenemapark_Heerenveen-centrum.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+              },
+              "thumbattribs": {
+                "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5f/Amelius_van_Oenemapark_Heerenveen-centrum.jpg/500px-Amelius_van_Oenemapark_Heerenveen-centrum.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+                "decoding": "async",
+                "loading": "lazy",
+                "width": 400,
+                "height": 225,
+                "srcset": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5f/Amelius_van_Oenemapark_Heerenveen-centrum.jpg/960px-Amelius_van_Oenemapark_Heerenveen-centrum.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail 2x"
+              },
+              "url": "https://upload.wikimedia.org/wikipedia/commons/5/5f/Amelius_van_Oenemapark_Heerenveen-centrum.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+              "descriptionurl": "https://commons.wikimedia.org/wiki/File:Amelius_van_Oenemapark_Heerenveen-centrum.jpg",
+              "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=83386135",
+              "extmetadata": {
+                "DateTime": {
+                  "value": "2019-10-26 10:17:34",
+                  "source": "mediawiki-metadata",
+                  "hidden": ""
+                },
+                "ObjectName": {
+                  "value": "Amelius van Oenemapark Heerenveen-centrum",
+                  "source": "mediawiki-metadata"
+                },
+                "CommonsMetadataExtension": {
+                  "value": 1.2,
+                  "source": "extension",
+                  "hidden": ""
+                },
+                "Categories": {
+                  "value": "Amelius van Oenemapark|Self-published work",
+                  "source": "commons-categories",
+                  "hidden": ""
+                },
+                "Assessments": {
+                  "value": "",
+                  "source": "commons-categories",
+                  "hidden": ""
+                },
+                "ImageDescription": {
+                  "value": "Amelius van Oenemapark in de plaats Heerenveen",
+                  "source": "commons-desc-page"
+                },
+                "DateTimeOriginal": {
+                  "value": "2019-10-16 19:17:04",
+                  "source": "commons-desc-page"
+                },
+                "Credit": {
+                  "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+                  "source": "commons-desc-page"
+                },
+                "Artist": {
+                  "value": "<a href=\"//commons.wikimedia.org/wiki/User:Condor3d\" title=\"User:Condor3d\">Condor3d</a>",
+                  "source": "commons-desc-page"
+                },
+                "LicenseShortName": {
+                  "value": "CC BY 4.0",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "UsageTerms": {
+                  "value": "Creative Commons Attribution 4.0",
+                  "source": "commons-desc-page"
+                },
+                "AttributionRequired": {
+                  "value": "true",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "LicenseUrl": {
+                  "value": "https://creativecommons.org/licenses/by/4.0",
+                  "source": "commons-desc-page"
+                },
+                "Copyrighted": {
+                  "value": "True",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "Restrictions": {
+                  "value": "",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "License": {
+                  "value": "cc-by-4.0",
+                  "source": "commons-templates",
+                  "hidden": ""
+                }
+              }
+            }
+          ]
+        },
+        {
+          "pageid": 84161897,
+          "ns": 6,
+          "title": "File:Amelius en Amicus, RP-P-1950-317B.jpg",
+          "index": 4,
+          "imagerepository": "local",
+          "imageinfo": [
+            {
+              "size": 4758532,
+              "width": 4891,
+              "height": 4618,
+              "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6d/Amelius_en_Amicus%2C_RP-P-1950-317B.jpg/500px-Amelius_en_Amicus%2C_RP-P-1950-317B.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+              "thumbwidth": 400,
+              "thumbheight": 378,
+              "responsiveUrls": {
+                "2": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6d/Amelius_en_Amicus%2C_RP-P-1950-317B.jpg/960px-Amelius_en_Amicus%2C_RP-P-1950-317B.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+              },
+              "thumbattribs": {
+                "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6d/Amelius_en_Amicus%2C_RP-P-1950-317B.jpg/500px-Amelius_en_Amicus%2C_RP-P-1950-317B.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+                "decoding": "async",
+                "loading": "lazy",
+                "width": 400,
+                "height": 378,
+                "srcset": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6d/Amelius_en_Amicus%2C_RP-P-1950-317B.jpg/960px-Amelius_en_Amicus%2C_RP-P-1950-317B.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail 2x"
+              },
+              "url": "https://upload.wikimedia.org/wikipedia/commons/6/6d/Amelius_en_Amicus%2C_RP-P-1950-317B.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+              "descriptionurl": "https://commons.wikimedia.org/wiki/File:Amelius_en_Amicus,_RP-P-1950-317B.jpg",
+              "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=84161897",
+              "extmetadata": {
+                "DateTime": {
+                  "value": "2026-04-19 11:51:35",
+                  "source": "mediawiki-metadata",
+                  "hidden": ""
+                },
+                "ObjectName": {
+                  "value": "Amelius en Amicus, RP-P-1950-317B",
+                  "source": "mediawiki-metadata"
+                },
+                "CommonsMetadataExtension": {
+                  "value": 1.2,
+                  "source": "extension",
+                  "hidden": ""
+                },
+                "Categories": {
+                  "value": "CC-Zero|15th-century woodcuts in the Rijksmuseum Amsterdam|Liber Chronicarum, text pages|Amelius",
+                  "source": "commons-categories",
+                  "hidden": ""
+                },
+                "Assessments": {
+                  "value": "",
+                  "source": "commons-categories",
+                  "hidden": ""
+                },
+                "ImageDescription": {
+                  "value": "<br><br><big><b>Identificatie</b></big><br><b>Titel(s): </b>Amelius en Amicus<br><b>Objecttype:</b> prent boekillustratie <br><b>Objectnummer:</b> RP-P-1950-317. B<br><b>Opschriften / Merken:</b> verzamelaarsmerk, verso midden, gestempeld: Lugt 2228<br><b>Omschrijving:</b> Twee naakte kinderen zittend op de grond. Boven hen staan de namen Amelius en Amicus. Op een los blad de bijbehorende tekst uit het boek.<br><br><big><b>Vervaardiging</b></big><br><b>Vervaardiger:</b> prentmaker: anoniem<br><b>Plaats vervaardiging:</b> Duitsland<br><b>Datering:</b> 1486 - 1493<br><b>Fysieke kenmerken:</b> houtsnede<br><b>Materiaal:</b> papier <br><b>Techniek:</b> houtsnede<br><b>Afmetingen:</b> blad: h 61 mm (prent) × b 65 mm (prent) × h 61 mm (tekst) × b 160 mm (tekst)<br><br><big><b>Toelichting</b></big><br>Mogelijk uit Schedels Weltchronik, 1493.<br><br><big><b>Onderwerp</b></big><br><b>Wat: </b>child<br><br><big><b>Verwerving en rechten</b></big><br><b>Verwerving:</b> onbekend<br><b>Copyright:</b> Publiek domein",
+                  "source": "commons-desc-page"
+                },
+                "DateTimeOriginal": {
+                  "value": "between 1486 and 1493<div style=\"display: none;\">date QS:P,+1450-00-00T00:00:00Z/7,P1319,+1486-00-00T00:00:00Z/9,P1326,+1493-00-00T00:00:00Z/9</div>",
+                  "source": "commons-desc-page"
+                },
+                "Credit": {
+                  "value": "<a rel=\"nofollow\" class=\"external free\" href=\"http://hdl.handle.net/10934/RM0001.COLLECT.30350\">http://hdl.handle.net/10934/RM0001.COLLECT.30350</a>",
+                  "source": "commons-desc-page"
+                },
+                "Artist": {
+                  "value": "Rijksmuseum",
+                  "source": "commons-desc-page"
+                },
+                "LicenseShortName": {
+                  "value": "CC0",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "UsageTerms": {
+                  "value": "Creative Commons Zero, Public Domain Dedication",
+                  "source": "commons-desc-page"
+                },
+                "AttributionRequired": {
+                  "value": "false",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "LicenseUrl": {
+                  "value": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+                  "source": "commons-desc-page"
+                },
+                "Copyrighted": {
+                  "value": "True",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "Restrictions": {
+                  "value": "",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "License": {
+                  "value": "cc0",
+                  "source": "commons-templates",
+                  "hidden": ""
+                }
+              }
+            }
+          ]
+        },
+        {
+          "pageid": 84821352,
+          "ns": 6,
+          "title": "File:Amelius en Amicus Amelius Amicus (titel op object) Liber Chronicarum (serietitel), RP-P-2016-49-96-1.jpg",
+          "index": 2,
+          "imagerepository": "local",
+          "imageinfo": [
+            {
+              "size": 218071,
+              "width": 1089,
+              "height": 945,
+              "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d1/Amelius_en_Amicus_Amelius_Amicus_%28titel_op_object%29_Liber_Chronicarum_%28serietitel%29%2C_RP-P-2016-49-96-1.jpg/500px-Amelius_en_Amicus_Amelius_Amicus_%28titel_op_object%29_Liber_Chronicarum_%28serietitel%29%2C_RP-P-2016-49-96-1.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+              "thumbwidth": 400,
+              "thumbheight": 347,
+              "responsiveUrls": {
+                "2": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d1/Amelius_en_Amicus_Amelius_Amicus_%28titel_op_object%29_Liber_Chronicarum_%28serietitel%29%2C_RP-P-2016-49-96-1.jpg/960px-Amelius_en_Amicus_Amelius_Amicus_%28titel_op_object%29_Liber_Chronicarum_%28serietitel%29%2C_RP-P-2016-49-96-1.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+              },
+              "thumbattribs": {
+                "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d1/Amelius_en_Amicus_Amelius_Amicus_%28titel_op_object%29_Liber_Chronicarum_%28serietitel%29%2C_RP-P-2016-49-96-1.jpg/500px-Amelius_en_Amicus_Amelius_Amicus_%28titel_op_object%29_Liber_Chronicarum_%28serietitel%29%2C_RP-P-2016-49-96-1.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+                "decoding": "async",
+                "loading": "lazy",
+                "width": 400,
+                "height": 347,
+                "srcset": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d1/Amelius_en_Amicus_Amelius_Amicus_%28titel_op_object%29_Liber_Chronicarum_%28serietitel%29%2C_RP-P-2016-49-96-1.jpg/960px-Amelius_en_Amicus_Amelius_Amicus_%28titel_op_object%29_Liber_Chronicarum_%28serietitel%29%2C_RP-P-2016-49-96-1.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail 2x"
+              },
+              "url": "https://upload.wikimedia.org/wikipedia/commons/d/d1/Amelius_en_Amicus_Amelius_Amicus_%28titel_op_object%29_Liber_Chronicarum_%28serietitel%29%2C_RP-P-2016-49-96-1.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+              "descriptionurl": "https://commons.wikimedia.org/wiki/File:Amelius_en_Amicus_Amelius_Amicus_(titel_op_object)_Liber_Chronicarum_(serietitel),_RP-P-2016-49-96-1.jpg",
+              "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=84821352",
+              "extmetadata": {
+                "DateTime": {
+                  "value": "2026-04-19 09:46:56",
+                  "source": "mediawiki-metadata",
+                  "hidden": ""
+                },
+                "ObjectName": {
+                  "value": "Amelius en Amicus Amelius Amicus (titel op object) Liber Chronicarum (serietitel), RP-P-2016-49-96-1",
+                  "source": "mediawiki-metadata"
+                },
+                "CommonsMetadataExtension": {
+                  "value": 1.2,
+                  "source": "extension",
+                  "hidden": ""
+                },
+                "Categories": {
+                  "value": "CC-Zero|Liber Chronicarum, scholars|Amelius",
+                  "source": "commons-categories",
+                  "hidden": ""
+                },
+                "Assessments": {
+                  "value": "",
+                  "source": "commons-categories",
+                  "hidden": ""
+                },
+                "ImageDescription": {
+                  "value": "<br><br><big><b>Identificatie</b></big><br><b>Titel(s): </b>Amelius en Amicus. Amelius / Amicus (titel op object). Liber Chronicarum (serietitel)<br><b>Objecttype:</b> prent boekillustratie albumblad <br><b>Objectnummer:</b> RP-P-2016-49-96-1<br><b>Omschrijving:</b> Een landschap met twee kinderen genaamd Amelius en Amicus. De prent maakt deel uit van een album.<br><br><big><b>Vervaardiging</b></big><br><b>Vervaardiger:</b> prentmaker: Michel Wolgemut (atelier van), prentmaker: Wilhelm Pleydenwurff (atelier van)<br><b>Plaats vervaardiging:</b> Neurenberg<br><b>Datering:</b> 1493<br><b>Fysieke kenmerken:</b> houtsnede geplakt op albumblad; tekst in boekdruk; verso met tekst in boekdruk<br><b>Materiaal:</b> papier <br><b>Techniek:</b> boekdruk / houtsnede / plakken<br><b>Afmetingen:</b> prent: h 57 mm × b 67 mm<br><br><big><b>Toelichting</b></big><br>De houtsnede wordt gebruikt als boekillustratie in de Liber Chronicarum (of Neurenbergkroniek) van Hartmann Schedel, verschenen in het Latijn en Duits in 1493. Zie de Latijnse uitgave, folio 164v.<br><br><big><b>Onderwerp</b></big><br><b>Wat: </b>het menselijk leven en de leeftijden (jong, volwassen, oud, etc.)<br><br><big><b>Verwerving en rechten</b></big><br><b>Verwerving:</b> onbekend 1874<br><b>Copyright:</b> Publiek domein",
+                  "source": "commons-desc-page"
+                },
+                "DateTimeOriginal": {
+                  "value": "1493",
+                  "source": "commons-desc-page"
+                },
+                "Credit": {
+                  "value": "<a rel=\"nofollow\" class=\"external free\" href=\"http://hdl.handle.net/10934/RM0001.COLLECT.616779\">http://hdl.handle.net/10934/RM0001.COLLECT.616779</a>",
+                  "source": "commons-desc-page"
+                },
+                "Artist": {
+                  "value": "Rijksmuseum",
+                  "source": "commons-desc-page"
+                },
+                "LicenseShortName": {
+                  "value": "CC0",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "UsageTerms": {
+                  "value": "Creative Commons Zero, Public Domain Dedication",
+                  "source": "commons-desc-page"
+                },
+                "AttributionRequired": {
+                  "value": "false",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "LicenseUrl": {
+                  "value": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+                  "source": "commons-desc-page"
+                },
+                "Copyrighted": {
+                  "value": "True",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "Restrictions": {
+                  "value": "",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "License": {
+                  "value": "cc0",
+                  "source": "commons-templates",
+                  "hidden": ""
+                }
+              }
+            }
+          ]
+        },
+        {
+          "pageid": 168744832,
+          "ns": 6,
+          "title": "File:Memorial to Lord Amelius Beauclerk.jpg",
+          "index": 5,
+          "imagerepository": "local",
+          "imageinfo": [
+            {
+              "size": 2497398,
+              "width": 3113,
+              "height": 3569,
+              "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0b/Memorial_to_Lord_Amelius_Beauclerk.jpg/500px-Memorial_to_Lord_Amelius_Beauclerk.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+              "thumbwidth": 400,
+              "thumbheight": 459,
+              "responsiveUrls": {
+                "2": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0b/Memorial_to_Lord_Amelius_Beauclerk.jpg/960px-Memorial_to_Lord_Amelius_Beauclerk.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+              },
+              "thumbattribs": {
+                "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0b/Memorial_to_Lord_Amelius_Beauclerk.jpg/500px-Memorial_to_Lord_Amelius_Beauclerk.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+                "decoding": "async",
+                "loading": "lazy",
+                "width": 400,
+                "height": 459,
+                "srcset": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0b/Memorial_to_Lord_Amelius_Beauclerk.jpg/960px-Memorial_to_Lord_Amelius_Beauclerk.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail 2x"
+              },
+              "url": "https://upload.wikimedia.org/wikipedia/commons/0/0b/Memorial_to_Lord_Amelius_Beauclerk.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+              "descriptionurl": "https://commons.wikimedia.org/wiki/File:Memorial_to_Lord_Amelius_Beauclerk.jpg",
+              "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=168744832",
+              "extmetadata": {
+                "DateTime": {
+                  "value": "2025-06-28 15:22:17",
+                  "source": "mediawiki-metadata",
+                  "hidden": ""
+                },
+                "ObjectName": {
+                  "value": "Memorial to Lord Amelius Beauclerk",
+                  "source": "mediawiki-metadata"
+                },
+                "CommonsMetadataExtension": {
+                  "value": 1.2,
+                  "source": "extension",
+                  "hidden": ""
+                },
+                "Categories": {
+                  "value": "PD US|PD-UK|Author died more than 100 years ago public domain images|Artworks without Wikidata item|Self-published work|CC-PD-Mark|Objects with inscriptions (language unspecified)|Files with coordinates missing SDC location of creation (51° N, 1° W)|Beauclerk arms|St Mary, Winchfield (interior)",
+                  "source": "commons-categories",
+                  "hidden": ""
+                },
+                "Assessments": {
+                  "value": "",
+                  "source": "commons-categories",
+                  "hidden": ""
+                },
+                "GPSLatitude": {
+                  "value": "51.276400",
+                  "source": "commons-desc-page"
+                },
+                "GPSLongitude": {
+                  "value": "-0.900391",
+                  "source": "commons-desc-page"
+                },
+                "GPSMapDatum": {
+                  "value": "WGS-84",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "ImageDescription": {
+                  "value": "Memorial to Lord Amelius Beauclerk (1771-1846) <span class=\"mw-valign-text-top noprint\" typeof=\"mw:File/Frameless\"><a href=\"//commons.wikimedia.org/wiki/File:Memorial_to_Lord_Amelius_Beauclerk.jpg#ooui-php-4\" title=\"Edit this at Structured Data on Commons\"><img alt=\"Edit this at Structured Data on Commons\" src=\"https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8a/OOjs_UI_icon_edit-ltr-progressive.svg/20px-OOjs_UI_icon_edit-ltr-progressive.svg.png?utm_source=commons.wikimedia.org&amp;utm_campaign=parser&amp;utm_content=thumbnail\" decoding=\"async\" loading=\"lazy\" width=\"10\" height=\"10\" class=\"mw-file-element\" data-file-width=\"20\" data-file-height=\"20\"></a></span>",
+                  "source": "commons-desc-page"
+                },
+                "DateTimeOriginal": {
+                  "value": "2025-06-21",
+                  "source": "commons-desc-page"
+                },
+                "Credit": {
+                  "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+                  "source": "commons-desc-page"
+                },
+                "Artist": {
+                  "value": "<a href=\"//commons.wikimedia.org/wiki/User:Martinvl\" title=\"User:Martinvl\">MartinVl</a>",
+                  "source": "commons-desc-page"
+                },
+                "Permission": {
+                  "value": "I, the copyright holder of this work, hereby publish it under the following license:",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "LicenseShortName": {
+                  "value": "Public domain",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "UsageTerms": {
+                  "value": "Public domain",
+                  "source": "commons-desc-page"
+                },
+                "AttributionRequired": {
+                  "value": "false",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "Copyrighted": {
+                  "value": "False",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "Restrictions": {
+                  "value": "",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "License": {
+                  "value": "pd",
+                  "source": "commons-templates",
+                  "hidden": ""
+                }
+              }
+            }
+          ]
+        }
+      ]
+    }
+  }
+}

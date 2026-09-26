@@ -7,6 +7,7 @@ Nerva to Marcus Aurelius. All dates are AD.
 ### 1. Nerva — accession
 
 <!-- ID: gibbon-01-nerva-accession -->
+<a id="gibbon-01-nerva-accession"></a>
 
 **Q:** When, and after what overthrow, did Nerva become emperor?
 
@@ -21,6 +22,7 @@ Nerva to Marcus Aurelius. All dates are AD.
 ### 2. Nerva — authority without strength
 
 <!-- ID: gibbon-01-nerva-guards -->
+<a id="gibbon-01-nerva-guards"></a>
 
 **Q:** What humiliation exposed Nerva's weakness before the Praetorian Guard in AD 97?
 
@@ -33,12 +35,13 @@ Nerva to Marcus Aurelius. All dates are AD.
 ### 3. Nerva — the decisive adoption
 
 <!-- ID: gibbon-01-nerva-trajan -->
+<a id="gibbon-01-nerva-trajan"></a>
 
 **Q:** Whom did Nerva adopt as his successor, when, and what strength did the choice supply?
 
 **A:** **Trajan, in AD 97**: an experienced commander on the Rhine, whose military standing could sustain the authority which Nerva's mildness could not command.
 
-**More:** Trajan stood outside Nerva's family. Adopted in **97**, he succeeded to the throne in **98**.
+**More:** Trajan stood outside Nerva's family.
 
 **Sources:** [Gibbon, Ch. III, L716](sources/mueller-opening.md#L716); [imperial table, L4983](sources/mueller-opening.md#L4983); [DIR: Trajan, Early Life and Career](https://roman-emperors.sites.luc.edu/trajan.htm).
 
@@ -47,46 +50,35 @@ Nerva to Marcus Aurelius. All dates are AD.
 ### 4. Nerva — the end
 
 <!-- ID: gibbon-01-nerva-death -->
+<a id="gibbon-01-nerva-death"></a>
 
 **Q:** When and how did Nerva's reign end, and who succeeded him?
 
 **A:** He **died in AD 98, several weeks after a stroke**, leaving the empire to **Trajan**, his adopted heir.
 
-**Sources:** [Imperial table, L4981](sources/mueller-opening.md#L4981); [DIR: Nerva, Death and Deification](https://roman-emperors.sites.luc.edu/nerva.htm).
+**Sources:** [Imperial table, L4981](sources/mueller-opening.md#L4981); [DIR: Nerva, Death and Deification](https://roman-emperors.sites.luc.edu/nerva.htm); [Gibbon, Ch. III, L716](sources/mueller-opening.md#L716); [imperial table, L4983](sources/mueller-opening.md#L4983); [DIR: Trajan, Early Life and Career](https://roman-emperors.sites.luc.edu/trajan.htm).
 
 <!-- Tags: emperor::nerva kind::exit source::supplement -->
 
 ## Trajan
 
-### 5. Trajan — accession
-
-<!-- ID: gibbon-01-trajan-accession -->
-
-**Q:** When and by what succession did Trajan become emperor?
-
-**A:** **AD 98**, on **Nerva's death**, as his adopted and designated successor. The adoption had taken place in **97**.
-
-**Sources:** [Gibbon, Ch. III, L716](sources/mueller-opening.md#L716); [imperial table, L4983](sources/mueller-opening.md#L4983); [DIR: Trajan, Early Life and Career](https://roman-emperors.sites.luc.edu/trajan.htm).
-
-<!-- Tags: emperor::trajan kind::accession -->
-
-### 6. Trajan — Dacia
+### 5. Trajan — Dacia
 
 <!-- ID: gibbon-01-trajan-dacia -->
+<a id="gibbon-01-trajan-dacia"></a>
 
 **Q:** What conquest did Trajan achieve in AD 101–106, and who led the resistance?
 
 **A:** He conquered **Dacia, beyond the Danube**, overcoming its king **Decebalus** and making the conquered territory a Roman province.
 
-**More:** The struggle lasted five years, with a short suspension of hostilities. Decebalus exhausted the resources of courage and policy before his defeat.
-
 **Sources:** [Gibbon, Ch. I, L566](sources/mueller-opening.md#L566).
 
 <!-- Tags: emperor::trajan kind::achievement kind::figure -->
 
-### 7. Trajan — a history in marble
+### 6. Trajan — a history in marble
 
 <!-- ID: gibbon-01-trajan-column -->
+<a id="gibbon-01-trajan-column"></a>
 
 **Q:** What did Trajan's Column commemorate, and why does Gibbon dwell on it?
 
@@ -100,9 +92,10 @@ Nerva to Marcus Aurelius. All dates are AD.
 
 <!-- Tags: emperor::trajan kind::monument kind::anecdote -->
 
-### 8. Trajan — the eastern advance
+### 7. Trajan — the eastern advance
 
 <!-- ID: gibbon-01-trajan-east -->
+<a id="gibbon-01-trajan-east"></a>
 
 **Q:** Against which eastern power did Trajan advance, and what distant water marked the reach of his ambition?
 
@@ -116,9 +109,10 @@ Nerva to Marcus Aurelius. All dates are AD.
 
 <!-- Tags: emperor::trajan kind::achievement kind::geography -->
 
-### 9. Trajan — the dangerous model
+### 8. Trajan — the dangerous model
 
 <!-- ID: gibbon-01-trajan-alexander -->
+<a id="gibbon-01-trajan-alexander"></a>
 
 **Q:** Whom did Trajan seek to emulate in the East, and what fault does Gibbon find in that ambition?
 
@@ -130,9 +124,10 @@ Nerva to Marcus Aurelius. All dates are AD.
 
 <!-- Tags: emperor::trajan kind::theme kind::character -->
 
-### 10. Trajan — the end
+### 9. Trajan — the end
 
 <!-- ID: gibbon-01-trajan-death -->
+<a id="gibbon-01-trajan-death"></a>
 
 **Q:** When and how did Trajan's reign end, and who followed him?
 
@@ -142,9 +137,10 @@ Nerva to Marcus Aurelius. All dates are AD.
 
 <!-- Tags: emperor::trajan kind::exit source::supplement -->
 
-### 11. Trajan — the measure of later emperors
+### 10. Trajan — the measure of later emperors
 
 <!-- ID: gibbon-01-trajan-acclamation -->
+<a id="gibbon-01-trajan-acclamation"></a>
 
 **Q:** What wish for later emperors shows Trajan's lasting reputation in Gibbon's account?
 
@@ -158,23 +154,23 @@ Nerva to Marcus Aurelius. All dates are AD.
 
 ## Hadrian
 
-### 12. Hadrian — accession and its uncertainty
+### 11. Hadrian — accession and its uncertainty
 
 <!-- ID: gibbon-01-hadrian-accession -->
+<a id="gibbon-01-hadrian-accession"></a>
 
 **Q:** When and how did Hadrian become emperor, and what remains uncertain about his claim?
 
 **A:** In **AD 117**, after Trajan's death, he gained the support of **Plotina, Trajan's widow, and the Syrian army**, followed by senatorial recognition. Whether Trajan had truly adopted him on his deathbed remains **uncertain**.
 
-**More:** Plotina may have secured Trajan's consent, or announced an adoption he had never made.
-
 **Sources:** [Gibbon, Ch. III, L718](sources/mueller-opening.md#L718); [Oxford Classical Dictionary: Plotina](https://academic.oup.com/edited-volume/61673/chapter-abstract/549704046); [DIR: Hadrian, Relationship to Trajan, Marriage, and Adoption](https://roman-emperors.sites.luc.edu/hadrian.htm).
 
 <!-- Tags: emperor::hadrian kind::accession source::disputed -->
 
-### 13. Hadrian — the god who retreated
+### 12. Hadrian — the god who retreated
 
 <!-- ID: gibbon-01-hadrian-terminus -->
+<a id="gibbon-01-hadrian-terminus"></a>
 
 **Q:** What reversal of Trajan's policy prompts Gibbon's joke about the boundary god Terminus?
 
@@ -188,9 +184,10 @@ Nerva to Marcus Aurelius. All dates are AD.
 
 <!-- Tags: emperor::hadrian kind::policy kind::anecdote -->
 
-### 14. Hadrian — the travelling ruler
+### 13. Hadrian — the travelling ruler
 
 <!-- ID: gibbon-01-hadrian-travel -->
+<a id="gibbon-01-hadrian-travel"></a>
 
 **Q:** How did Hadrian's manner of governing connect the emperor to his distant provinces?
 
@@ -202,9 +199,10 @@ Nerva to Marcus Aurelius. All dates are AD.
 
 <!-- Tags: emperor::hadrian kind::achievement -->
 
-### 15. Hadrian — a frontier in stone
+### 14. Hadrian — a frontier in stone
 
 <!-- ID: gibbon-01-hadrian-wall -->
+<a id="gibbon-01-hadrian-wall"></a>
 
 **Q:** Which British frontier work began under Hadrian in AD 122, and what imperial policy does it illustrate?
 
@@ -214,15 +212,14 @@ Nerva to Marcus Aurelius. All dates are AD.
 
 <!-- Tags: emperor::hadrian kind::monument source::supplement -->
 
-### 16. Hadrian — the divided character
+### 15. Hadrian — the divided character
 
 <!-- ID: gibbon-01-hadrian-character -->
+<a id="gibbon-01-hadrian-character"></a>
 
 **Q:** Which conflicting qualities prevent Gibbon's portrait of Hadrian from becoming simple praise?
 
 **A:** His **ability, curiosity, and public diligence** were crossed by **vanity, jealousy, and cruelty**. His talents could serve the empire; his passions could make their possessor dangerous.
-
-**More:** Gibbon also names Antinous as Hadrian's beloved, while describing the passions that influenced his choice of an heir.
 
 **Gibbon:** “an excellent prince, a ridiculous sophist, and a jealous tyrant”
 
@@ -230,9 +227,10 @@ Nerva to Marcus Aurelius. All dates are AD.
 
 <!-- Tags: emperor::hadrian kind::character -->
 
-### 17. Hadrian — two generations of succession
+### 16. Hadrian — two generations of succession
 
 <!-- ID: gibbon-01-hadrian-succession -->
+<a id="gibbon-01-hadrian-succession"></a>
 
 **Q:** After his first chosen heir died, how did Hadrian arrange the next two generations of succession?
 
@@ -244,9 +242,10 @@ Nerva to Marcus Aurelius. All dates are AD.
 
 <!-- Tags: emperor::hadrian emperor::antoninus_pius kind::succession -->
 
-### 18. Hadrian — the end
+### 17. Hadrian — the end
 
 <!-- ID: gibbon-01-hadrian-death -->
+<a id="gibbon-01-hadrian-death"></a>
 
 **Q:** When and how did Hadrian's reign end, and who succeeded him?
 
@@ -254,89 +253,82 @@ Nerva to Marcus Aurelius. All dates are AD.
 
 **More:** A hostile Senate hesitated over divine honours; Pius secured them for his adoptive father.
 
-**Sources:** [Gibbon, Ch. III, L718](sources/mueller-opening.md#L718); [imperial table, L4985](sources/mueller-opening.md#L4985); [DIR: Hadrian, last years](https://roman-emperors.sites.luc.edu/hadrian.htm).
+**Sources:** [Gibbon, Ch. III, L718](sources/mueller-opening.md#L718); [imperial table, L4985](sources/mueller-opening.md#L4985); [DIR: Hadrian, last years](https://roman-emperors.sites.luc.edu/hadrian.htm); [Gibbon, Ch. III, L720](sources/mueller-opening.md#L720); [Gibbon, Ch. III, L722](sources/mueller-opening.md#L722); [imperial table, L4987](sources/mueller-opening.md#L4987); [DIR: Antoninus Pius, Career Under Hadrian](https://roman-emperors.sites.luc.edu/tonypis.htm).
 
 <!-- Tags: emperor::hadrian kind::exit source::supplement -->
 
 ## Antoninus Pius
 
-### 19. Antoninus Pius — accession
-
-<!-- ID: gibbon-01-pius-accession -->
-
-**Q:** When and by what succession did Antoninus Pius become emperor?
-
-**A:** **AD 138**, on **Hadrian's death**, as the successor Hadrian had adopted after the death of his earlier heir, Aelius Verus.
-
-**More:** Pius and Marcus ruled successively for **42 years, AD 138–180**.
-
-**Gibbon:** “Their united reigns are possibly the only period of history in which the happiness of a great people was the sole object of government.”
-
-**Sources:** [Gibbon, Ch. III, L720](sources/mueller-opening.md#L720); [Gibbon, Ch. III, L722](sources/mueller-opening.md#L722); [imperial table, L4987](sources/mueller-opening.md#L4987); [DIR: Antoninus Pius, Career Under Hadrian](https://roman-emperors.sites.luc.edu/tonypis.htm).
-
-<!-- Tags: emperor::antoninus_pius kind::accession -->
-
-### 20. Antoninus Pius — filial duty
+### 18. Antoninus Pius — filial duty
 
 <!-- ID: gibbon-01-pius-hadrian -->
+<a id="gibbon-01-pius-hadrian"></a>
 
 **Q:** What act toward Hadrian's memory displays the filial duty associated with Antoninus's name, Pius?
 
 **A:** He overcame senatorial resistance to secure **Hadrian's deification**. His adoptive father's dubious reputation was sheltered by the son's dutiful persistence.
 
-**Gibbon:** “The senate doubted whether they should pronounce him a god or a tyrant”
+**Gibbon:** “The senate doubted whether they should pronounce him a god or a tyrant; and the honors decreed to his memory were granted to the prayers of the pious Antoninus.”
 
-**Sources:** [Gibbon, Ch. III, L718](sources/mueller-opening.md#L718); [DIR: Antoninus Pius, Imperial Reign](https://roman-emperors.sites.luc.edu/tonypis.htm).
+**Sources:** [Gibbon, Ch. III, L718](sources/mueller-opening.md#L718); [DIR: Antoninus Pius, Imperial Reign](https://roman-emperors.sites.luc.edu/tonypis.htm); [Gibbon, Ch. III, L718](sources/mueller-volumes-1-2.md#L718).
 
 <!-- Tags: emperor::antoninus_pius kind::anecdote kind::character -->
 
-### 21. Antoninus Pius — the happy difficulty for historians
+### 19. Antoninus Pius — the happy difficulty for historians
 
 <!-- ID: gibbon-01-pius-history -->
+<a id="gibbon-01-pius-history"></a>
 
 **Q:** Why does Gibbon treat the scarcity of dramatic events under Antoninus Pius as a distinction?
 
 **A:** A reign of **justice, order, and comparative peace** gives the historian fewer calamities to record. The prince's success becomes the historian's want of material.
 
-**More:** Gibbon calls Pius a **second Numa**, after Rome's legendary peace-loving king.
+**More:** Gibbon calls Pius a **second Numa**, after Rome's legendary peace-loving king. Pius and **Marcus Aurelius** ruled successively for **42 years, 138–180**.
 
-**Gibbon:** “His reign is marked by the rare advantage of furnishing very few materials for history; which is, indeed, little more than the register of the crimes, follies, and misfortunes of mankind.”
+**Gibbon:** “His reign is marked by the rare advantage of furnishing very few materials for history; which is, indeed, little more than the register of the crimes, follies, and misfortunes of mankind. … Their united reigns are possibly the only period of history in which the happiness of a great people was the sole object of government.”
 
-**Sources:** [Gibbon, Ch. III, L724](sources/mueller-opening.md#L724); [DIR: Antoninus Pius, frontier wars](https://roman-emperors.sites.luc.edu/tonypis.htm).
+**Sources:** [Gibbon, Ch. III, L724](sources/mueller-opening.md#L724); [DIR: Antoninus Pius, frontier wars](https://roman-emperors.sites.luc.edu/tonypis.htm); [Gibbon, Ch. III, L722](sources/mueller-volumes-1-2.md#L722).
 
 <!-- Tags: emperor::antoninus_pius kind::theme kind::character -->
 
-### 22. Antoninus Pius — law and the enslaved
+### 20. Antoninus Pius — law and the enslaved
 
 <!-- ID: gibbon-01-pius-law -->
+<a id="gibbon-01-pius-law"></a>
 
 **Q:** What protection for enslaved people does Gibbon associate with Hadrian and the Antonines?
 
 **A:** They **limited a master's private power of life and death** and allowed relief from intolerable cruelty through public authority. The law offered a restraint on bondage's abuses, without abolishing bondage itself.
 
-**More:** An enslaved person subjected to intolerable cruelty could obtain release or transfer to a less cruel master.
+**More:** Under Antoninus Pius, an owner guilty of intolerable cruelty could be compelled to sell the enslaved person to another master.
 
 **Gibbon:** “an unhappy condition of men who endured the weight, without sharing the benefits, of society.”
 
-**Sources:** [Gibbon, Ch. II, L625](sources/mueller-opening.md#L625).
+**Sources:** [Gibbon, Ch. II, L625](sources/mueller-opening.md#L625); [Justinian, Institutes 1.8.2](https://amesfoundation.law.harvard.edu/digital/CJCiv/JInst.pdf#page=6).
 
 <!-- Tags: emperor::antoninus_pius emperor::hadrian kind::achievement kind::law -->
 
-### 23. Antoninus Pius — the end
+### 21. Antoninus Pius — the end
 
 <!-- ID: gibbon-01-pius-death -->
+<a id="gibbon-01-pius-death"></a>
 
 **Q:** When and how did Antoninus Pius's reign end, and who followed him?
 
-**A:** He **died of a fever in AD 161**, at **Lorium**. **Marcus Aurelius** succeeded him and associated **Lucius Verus** in equal imperial rank.
+**A:** He **died of a fever in AD 161**, at **Lorium**. **Marcus Aurelius** succeeded him and shared imperial rank with his adoptive brother **Lucius Verus**, his colleague until **169**.
 
-**Sources:** [Imperial table, L4987](sources/mueller-opening.md#L4987); [Gibbon, Ch. III, L720](sources/mueller-opening.md#L720); [Historia Augusta, Antoninus Pius 12.4–7](https://penelope.uchicago.edu/Thayer/E/Roman/Texts/Historia_Augusta/Antoninus_Pius%2A.html#12); [DIR: Marcus Aurelius, accession](https://roman-emperors.sites.luc.edu/marcaur.htm).
+**More:** Verus was the son of Hadrian's first chosen heir, Aelius Verus.
+
+**Gibbon:** “Among the many vices of this younger Verus, he possessed one virtue: a dutiful reverence for his wiser colleague, to whom he willingly abandoned the ruder cares of empire.”
+
+**Sources:** [Imperial table, L4987](sources/mueller-opening.md#L4987); [Gibbon, Ch. III, L720](sources/mueller-opening.md#L720); [Historia Augusta, Antoninus Pius 12.4–7](https://penelope.uchicago.edu/Thayer/E/Roman/Texts/Historia_Augusta/Antoninus_Pius%2A.html#12); [DIR: Marcus Aurelius, accession](https://roman-emperors.sites.luc.edu/marcaur.htm); [Gibbon, Ch. III, L722](sources/mueller-opening.md#L722); [imperial table, L4989](sources/mueller-opening.md#L4989).
 
 <!-- Tags: emperor::antoninus_pius kind::exit source::supplement -->
 
-### 24. Antoninus Pius — the last watchword
+### 22. Antoninus Pius — the last watchword
 
 <!-- ID: gibbon-01-pius-equanimity -->
+<a id="gibbon-01-pius-equanimity"></a>
 
 **Q:** What final watchword is attributed to the dying Antoninus Pius?
 
@@ -348,25 +340,10 @@ Nerva to Marcus Aurelius. All dates are AD.
 
 ## Marcus Aurelius
 
-### 25. Marcus Aurelius — accession and colleague
-
-<!-- ID: gibbon-01-marcus-accession -->
-
-**Q:** When and how did Marcus Aurelius become emperor, and with whom did he share the throne?
-
-**A:** In **AD 161**, on the death of his adoptive father **Antoninus Pius**. He shared imperial rank with his adoptive brother **Lucius Verus**, who remained his colleague until **169**.
-
-**More:** Verus was the son of Hadrian's first chosen heir, Aelius Verus.
-
-**Gibbon:** “Among the many vices of this younger Verus, he possessed one virtue: a dutiful reverence for his wiser colleague, to whom he willingly abandoned the ruder cares of empire.”
-
-**Sources:** [Gibbon, Ch. III, L720](sources/mueller-opening.md#L720); [Gibbon, Ch. III, L722](sources/mueller-opening.md#L722); [imperial table, L4989](sources/mueller-opening.md#L4989).
-
-<!-- Tags: emperor::marcus_aurelius emperor::lucius_verus kind::accession -->
-
-### 26. Marcus Aurelius — philosophy in the camp
+### 23. Marcus Aurelius — philosophy in the camp
 
 <!-- ID: gibbon-01-marcus-stoicism -->
+<a id="gibbon-01-marcus-stoicism"></a>
 
 **Q:** What philosophy shaped Marcus Aurelius, and in what surviving work did he practise it?
 
@@ -380,9 +357,10 @@ Nerva to Marcus Aurelius. All dates are AD.
 
 <!-- Tags: emperor::marcus_aurelius kind::character kind::work -->
 
-### 27. Marcus Aurelius — the two fronts
+### 24. Marcus Aurelius — the two fronts
 
 <!-- ID: gibbon-01-marcus-wars -->
+<a id="gibbon-01-marcus-wars"></a>
 
 **Q:** Which two great military theatres disturbed Marcus Aurelius's reign?
 
@@ -394,9 +372,10 @@ Nerva to Marcus Aurelius. All dates are AD.
 
 <!-- Tags: emperor::marcus_aurelius kind::achievement kind::geography -->
 
-### 28. Marcus Aurelius — the enemy within the empire
+### 25. Marcus Aurelius — the enemy within the empire
 
 <!-- ID: gibbon-01-marcus-plague -->
+<a id="gibbon-01-marcus-plague"></a>
 
 **Q:** What epidemic added to the strains of Marcus Aurelius's wars?
 
@@ -406,9 +385,10 @@ Nerva to Marcus Aurelius. All dates are AD.
 
 <!-- Tags: emperor::marcus_aurelius kind::event source::supplement -->
 
-### 29. Marcus Aurelius — a lost pardon
+### 26. Marcus Aurelius — a lost pardon
 
 <!-- ID: gibbon-01-marcus-cassius -->
+<a id="gibbon-01-marcus-cassius"></a>
 
 **Q:** What does Gibbon's story of the rebel general Avidius Cassius reveal about Marcus Aurelius's response to rebellion?
 
@@ -420,9 +400,10 @@ Nerva to Marcus Aurelius. All dates are AD.
 
 <!-- Tags: emperor::marcus_aurelius kind::anecdote source::correction -->
 
-### 30. Marcus Aurelius — the end
+### 27. Marcus Aurelius — the end
 
 <!-- ID: gibbon-01-marcus-death -->
+<a id="gibbon-01-marcus-death"></a>
 
 **Q:** When and how did Marcus Aurelius's reign end, and who inherited sole power?
 
@@ -432,9 +413,10 @@ Nerva to Marcus Aurelius. All dates are AD.
 
 <!-- Tags: emperor::marcus_aurelius kind::exit source::supplement -->
 
-### 31. Marcus Aurelius — preparing Commodus
+### 28. Marcus Aurelius — preparing Commodus
 
 <!-- ID: gibbon-01-marcus-commodus -->
+<a id="gibbon-01-marcus-commodus"></a>
 
 **Q:** When did Marcus make Commodus co-emperor, and why does Gibbon regard the succession as a grave failure?
 
@@ -442,15 +424,16 @@ Nerva to Marcus Aurelius. All dates are AD.
 
 **More:** Marcus had summoned men of virtue and learning to educate Commodus; their lessons yielded to the whispers of favourites. Commodus became sole emperor in **180**.
 
-**Gibbon:** “The distasteful lesson of a grave philosopher was, in a moment, obliterated by the whisper of a profligate favorite;”
+**Gibbon:** “But the power of instruction is seldom of much efficacy, except in those happy dispositions where it is almost superfluous.”
 
-**Sources:** [Gibbon, Ch. IV, L759](sources/mueller-opening.md#L759); [DIR: Marcus Aurelius, Family](https://roman-emperors.sites.luc.edu/marcaur.htm).
+**Sources:** [Gibbon, Ch. IV, L759](sources/mueller-opening.md#L759); [DIR: Marcus Aurelius, Family](https://roman-emperors.sites.luc.edu/marcaur.htm); [Gibbon, Ch. IV, L759](sources/mueller-volumes-1-2.md#L759).
 
 <!-- Tags: emperor::marcus_aurelius emperor::commodus kind::succession source::correction -->
 
-### 32. Marcus Aurelius — the emperor at the household shrine
+### 29. Marcus Aurelius — the emperor at the household shrine
 
 <!-- ID: gibbon-01-marcus-household -->
+<a id="gibbon-01-marcus-household"></a>
 
 **Q:** What domestic honour illustrates Marcus Aurelius's posthumous reputation in Gibbon's account?
 
@@ -462,9 +445,10 @@ Nerva to Marcus Aurelius. All dates are AD.
 
 ## The thread of the history
 
-### 33. The opening succession
+### 30. The opening succession
 
 <!-- ID: gibbon-01-theme-sequence -->
+<a id="gibbon-01-theme-sequence"></a>
 
 **Q:** Put Gibbon's five opening emperors in order, from Domitian's successor to Commodus's father.
 
@@ -476,37 +460,42 @@ Nerva to Marcus Aurelius. All dates are AD.
 
 <!-- Tags: kind::sequence kind::theme -->
 
-### 34. Why prosperity comes first
+### 31. Why prosperity comes first
 
 <!-- ID: gibbon-01-theme-baseline -->
+<a id="gibbon-01-theme-baseline"></a>
 
 **Q:** Which period does Gibbon present as mankind's happiest, and what purpose does it serve at the beginning of a history of decline?
 
 **A:** **AD 96–180**, from Domitian's death to Commodus's sole accession. It establishes the **prosperous height from which the subsequent decline can be measured**.
 
-**Sources:** [Gibbon, Ch. I, L558](sources/mueller-opening.md#L558); [Gibbon, Ch. III, L728](sources/mueller-opening.md#L728); [imperial table, L4981](sources/mueller-opening.md#L4981).
+**Gibbon:** “If a man were called to fix the period in the history of the world during which the condition of the human race was most happy and prosperous, he would, without hesitation, name that which elapsed from the death of Domitian to the accession of Commodus.”
+
+**Sources:** [Gibbon, Ch. I, L558](sources/mueller-opening.md#L558); [Gibbon, Ch. III, L728](sources/mueller-opening.md#L728); [imperial table, L4981](sources/mueller-opening.md#L4981); [Gibbon, Ch. III, L728](sources/mueller-volumes-1-2.md#L728).
 
 <!-- Tags: kind::theme kind::chronology source::correction -->
 
-### 35. The constitution behind the names
+### 32. The constitution behind the names
 
 <!-- ID: gibbon-01-theme-constitution -->
+<a id="gibbon-01-theme-constitution"></a>
 
 **Q:** How does Gibbon define the imperial constitution preserved by the better emperors?
 
 **A:** **“an absolute monarchy disguised by the forms of a commonwealth.”** Republican offices and senatorial dignity remained; the emperor held the decisive power.
 
-**More:** Old names and ceremonies reconciled the Romans to authority that their ancestors would have called kingship.
+**More:** Augustus read Caesar's assassination as a warning against the appearance of kingship. Old names and ceremonies reconciled the Romans to personal rule.
 
-**Gibbon:** “The masters of the Roman world surrounded their throne with darkness, concealed their irresistible strength, and humbly professed themselves the accountable ministers of the senate, whose supreme decrees they dictated and obeyed.”
+**Gibbon:** “The masters of the Roman world surrounded their throne with darkness, concealed their irresistible strength, and humbly professed themselves the accountable ministers of the senate, whose supreme decrees they dictated and obeyed. … Augustus was sensible that mankind is governed by names; nor was he deceived in his expectation that the senate and people would submit to slavery, provided they were respectfully assured that they still enjoyed their ancient freedom.”
 
-**Sources:** [Gibbon, Ch. III, L694](sources/mueller-opening.md#L694); [Gibbon, Ch. III, L704](sources/mueller-opening.md#L704).
+**Sources:** [Gibbon, Ch. III, L694](sources/mueller-opening.md#L694); [Gibbon, Ch. III, L704](sources/mueller-opening.md#L704); [Gibbon, Ch. III, L704](sources/mueller-volumes-1-2.md#L704).
 
 <!-- Tags: kind::theme kind::constitution -->
 
-### 36. Virtue is not a constitution
+### 33. Virtue is not a constitution
 
 <!-- ID: gibbon-01-theme-fragility -->
+<a id="gibbon-01-theme-fragility"></a>
 
 **Q:** Why, in Gibbon's argument, could excellent emperors give Rome happiness without giving it security against tyranny?
 
@@ -518,11 +507,12 @@ Nerva to Marcus Aurelius. All dates are AD.
 
 <!-- Tags: kind::theme kind::constitution -->
 
-### 37. Adoption — Gibbon's lesson and its limit
+### 34. Adoption — Gibbon's lesson and its limit
 
 <!-- ID: gibbon-01-theme-adoption -->
+<a id="gibbon-01-theme-adoption"></a>
 
-**Q:** What lesson does Gibbon draw from adoption before Commodus, and what qualification prevents it becoming a simple tale of merit defeating heredity?
+**Q:** How far does Gibbon's praise of adoption make Roman succession a choice of merit over family?
 
 **A:** Gibbon praises **choosing a worthy successor over family affection**. Yet the preceding rulers lacked surviving biological sons, and **family connections still shaped their choices**; they had not all rejected living sons for strangers of superior merit.
 
@@ -532,23 +522,25 @@ Nerva to Marcus Aurelius. All dates are AD.
 
 <!-- Tags: kind::theme kind::succession source::qualification -->
 
-### 38. Religion — three spectators
+### 35. Religion — three spectators
 
 <!-- ID: gibbon-01-theme-religion -->
+<a id="gibbon-01-theme-religion"></a>
 
 **Q:** In Gibbon's celebrated threefold contrast, how did the people, the philosopher, and the magistrate regard the empire's religions?
 
 **A:** The people considered them **equally true**; the philosopher, **equally false**; the magistrate, **equally useful**.
 
-**Gibbon:** “all considered by the people as equally true; by the philosopher, as equally false; and by the magistrate, as equally useful.”
+**Gibbon:** “The various modes of worship which prevailed in the Roman world were all considered by the people as equally true; by the philosopher, as equally false; and by the magistrate, as equally useful.”
 
-**Sources:** [Gibbon, Ch. II, L601](sources/mueller-opening.md#L601).
+**Sources:** [Gibbon, Ch. II, L601](sources/mueller-opening.md#L601); [Gibbon, Ch. II, L601](sources/mueller-volumes-1-2.md#L601).
 
 <!-- Tags: kind::theme kind::religion -->
 
-### 39. The weakness concealed by peace
+### 36. The weakness concealed by peace
 
 <!-- ID: gibbon-01-theme-civic-decline -->
+<a id="gibbon-01-theme-civic-decline"></a>
 
 **Q:** How can prosperity and long peace themselves prepare decline in Gibbon's opening argument?
 
@@ -556,15 +548,16 @@ Nerva to Marcus Aurelius. All dates are AD.
 
 **More:** The soldier retained his personal bravery while the citizen lost the habit of political independence.
 
-**Gibbon:** “a slow and secret poison into the vitals of the empire”
+**Gibbon:** “This long peace, and the uniform government of the Romans, introduced a slow and secret poison into the vitals of the empire.”
 
-**Sources:** [Gibbon, Ch. II, L649](sources/mueller-opening.md#L649).
+**Sources:** [Gibbon, Ch. II, L649](sources/mueller-opening.md#L649); [Gibbon, Ch. II, L649](sources/mueller-volumes-1-2.md#L649).
 
 <!-- Tags: kind::theme kind::causation -->
 
-### 40. One empire, two principal languages
+### 37. One empire, two principal languages
 
 <!-- ID: gibbon-01-theme-languages -->
+<a id="gibbon-01-theme-languages"></a>
 
 **Q:** What broad linguistic division already lay within the united Roman world described by Gibbon?
 

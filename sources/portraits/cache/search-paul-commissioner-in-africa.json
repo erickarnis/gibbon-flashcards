@@ -1,0 +1,530 @@
+{
+  "person_id": "paul-commissioner-in-africa",
+  "query": "Paul (commissioner in Africa)",
+  "response": {
+    "batchcomplete": true,
+    "continue": {
+      "gsroffset": 5,
+      "continue": "gsroffset||"
+    },
+    "query": {
+      "pages": [
+        {
+          "pageid": 5436190,
+          "ns": 6,
+          "title": "File:Bundesarchiv Bild 183-R05765, Paul Emil von Lettow-Vorbeck.jpg",
+          "index": 4,
+          "imagerepository": "local",
+          "imageinfo": [
+            {
+              "size": 206121,
+              "width": 508,
+              "height": 800,
+              "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e5/Bundesarchiv_Bild_183-R05765%2C_Paul_Emil_von_Lettow-Vorbeck.jpg/500px-Bundesarchiv_Bild_183-R05765%2C_Paul_Emil_von_Lettow-Vorbeck.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+              "thumbwidth": 400,
+              "thumbheight": 630,
+              "responsiveUrls": {
+                "2": "https://upload.wikimedia.org/wikipedia/commons/e/e5/Bundesarchiv_Bild_183-R05765%2C_Paul_Emil_von_Lettow-Vorbeck.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled"
+              },
+              "thumbattribs": {
+                "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e5/Bundesarchiv_Bild_183-R05765%2C_Paul_Emil_von_Lettow-Vorbeck.jpg/500px-Bundesarchiv_Bild_183-R05765%2C_Paul_Emil_von_Lettow-Vorbeck.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+                "decoding": "async",
+                "loading": "lazy",
+                "width": 400,
+                "height": 630,
+                "srcset": "https://upload.wikimedia.org/wikipedia/commons/e/e5/Bundesarchiv_Bild_183-R05765%2C_Paul_Emil_von_Lettow-Vorbeck.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled 2x"
+              },
+              "url": "https://upload.wikimedia.org/wikipedia/commons/e/e5/Bundesarchiv_Bild_183-R05765%2C_Paul_Emil_von_Lettow-Vorbeck.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+              "descriptionurl": "https://commons.wikimedia.org/wiki/File:Bundesarchiv_Bild_183-R05765,_Paul_Emil_von_Lettow-Vorbeck.jpg",
+              "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=5436190",
+              "extmetadata": {
+                "DateTime": {
+                  "value": "2019-07-19 11:25:04",
+                  "source": "mediawiki-metadata",
+                  "hidden": ""
+                },
+                "ObjectName": {
+                  "value": "<div class=\"fn\">\n<div class=\"language de\" style=\"display:inline;font-weight:bold;\">Paul Emil von Lettow-Vorbeck</div> <abbr class=\"BArchtooltips\" title=\"Short title assigned by the archive\"><span typeof=\"mw:File\"><span><img src=\"https://thumb.wikimedia.org/wikipedia/commons/thumb/5/53/Info_non-talk.svg/20px-Info_non-talk.svg.png?utm_source=commons.wikimedia.org&amp;utm_campaign=parser&amp;utm_content=thumbnail\" decoding=\"async\" loading=\"lazy\" width=\"15\" height=\"15\" class=\"mw-file-element\" srcset=\"https://thumb.wikimedia.org/wikipedia/commons/thumb/5/53/Info_non-talk.svg/40px-Info_non-talk.svg.png?utm_source=commons.wikimedia.org&amp;utm_campaign=parser&amp;utm_content=thumbnail 2x\" data-file-width=\"62\" data-file-height=\"62\"></span></span></abbr></div>",
+                  "source": "commons-desc-page"
+                },
+                "CommonsMetadataExtension": {
+                  "value": 1.2,
+                  "source": "extension",
+                  "hidden": ""
+                },
+                "Categories": {
+                  "value": "Paul Emil von Lettow-Vorbeck|Schutztruppe of German East Africa|Images from the German Federal Archive|Template Unknown (author)|Military peaked caps of the German Kaiserreich",
+                  "source": "commons-categories",
+                  "hidden": ""
+                },
+                "Assessments": {
+                  "value": "",
+                  "source": "commons-categories",
+                  "hidden": ""
+                },
+                "Artist": {
+                  "value": "<div class=\"fn value\">\nUnknown author<span style=\"display: none;\">Unknown author</span></div>",
+                  "source": "commons-desc-page"
+                },
+                "ImageDescription": {
+                  "value": "<div class=\"description\">\n<div style=\"background:var(--background-color-neutral, #eaecf0); color:inherit; font-size:86%; direction:ltr;\">For documentary purposes the German Federal Archive often retained the <b>original image captions</b>, which may be <b>erroneous, biased, obsolete or politically extreme</b>. <abbr class=\"BArchtooltips\" title=\"Files from the inventories “Bild 101 Propagandakompanien der Wehrmacht” and “Bild 183 ADN” may have particularly biased or politically extreme descriptions.\"><span typeof=\"mw:File\"><span><img src=\"https://thumb.wikimedia.org/wikipedia/commons/thumb/5/53/Info_non-talk.svg/20px-Info_non-talk.svg.png?utm_source=commons.wikimedia.org&amp;utm_campaign=parser&amp;utm_content=thumbnail\" decoding=\"async\" loading=\"lazy\" width=\"15\" height=\"15\" class=\"mw-file-element\" srcset=\"https://thumb.wikimedia.org/wikipedia/commons/thumb/5/53/Info_non-talk.svg/40px-Info_non-talk.svg.png?utm_source=commons.wikimedia.org&amp;utm_campaign=parser&amp;utm_content=thumbnail 2x\" data-file-width=\"62\" data-file-height=\"62\"></span></span></abbr></div><div class=\"language de\">Oberstleutnant v. Lettow-Vorbeck</div></div>",
+                  "source": "commons-desc-page"
+                },
+                "DateTimeOriginal": {
+                  "value": "1913<div style=\"display: none;\">date QS:P571,+1913-00-00T00:00:00Z/9</div>",
+                  "source": "commons-desc-page"
+                },
+                "Credit": {
+                  "value": "<table style=\"width:100%; clear: both; text-align: center; margin: 0.5em auto; background-color: var(--background-color-interactive-subtle, #f9f9f9); color: inherit; border: 2px solid var(--border-color-muted, #e0e0e0);\" dir=\"ltr\" lang=\"en\" class=\"layouttemplate partnershiptemplate\" role=\"presentation\">\n<tbody><tr>\n<td style=\"width:100px;\"><span typeof=\"mw:File\"><a href=\"//commons.wikimedia.org/wiki/Commons:Bundesarchiv/en\" title=\"Logo Bundesarchiv\"><img alt=\"Logo Bundesarchiv\" src=\"https://thumb.wikimedia.org/wikipedia/commons/thumb/4/41/Bundesarchiv-Logo-ohne-Wappen.svg/120px-Bundesarchiv-Logo-ohne-Wappen.svg.png?utm_source=commons.wikimedia.org&amp;utm_campaign=parser&amp;utm_content=thumbnail\" decoding=\"async\" loading=\"lazy\" width=\"100\" height=\"83\" class=\"mw-file-element\" srcset=\"https://thumb.wikimedia.org/wikipedia/commons/thumb/4/41/Bundesarchiv-Logo-ohne-Wappen.svg/250px-Bundesarchiv-Logo-ohne-Wappen.svg.png?utm_source=commons.wikimedia.org&amp;utm_campaign=parser&amp;utm_content=thumbnail 2x\" data-file-width=\"240\" data-file-height=\"200\"></a></span>\n</td>\n<td>This image was provided to Wikimedia Commons by the <a rel=\"nofollow\" class=\"external text\" href=\"http://www.bundesarchiv.de/\">German Federal Archive</a> (Deutsches Bundesarchiv) as part of a <a href=\"//commons.wikimedia.org/wiki/Commons:Bundesarchiv\" title=\"Commons:Bundesarchiv\">cooperation project</a>. The German Federal Archive guarantees an authentic representation only using the originals (negative and/or positive), resp. the digitalization of the originals as provided by the <a rel=\"nofollow\" class=\"external text\" href=\"http://www.bild.bundesarchiv.de\">Digital Image Archive</a>.\n</td></tr></tbody></table>",
+                  "source": "commons-desc-page"
+                },
+                "LicenseShortName": {
+                  "value": "CC BY-SA 3.0 de",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "UsageTerms": {
+                  "value": "Creative Commons Attribution-Share Alike 3.0 de",
+                  "source": "commons-desc-page"
+                },
+                "AttributionRequired": {
+                  "value": "true",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "Attribution": {
+                  "value": "Bundesarchiv, Bild 183-R05765 / CC-BY-SA 3.0",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "LicenseUrl": {
+                  "value": "https://creativecommons.org/licenses/by-sa/3.0/de/deed.en",
+                  "source": "commons-desc-page"
+                },
+                "Copyrighted": {
+                  "value": "True",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "Restrictions": {
+                  "value": "",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "License": {
+                  "value": "cc-by-sa-3.0-de",
+                  "source": "commons-templates",
+                  "hidden": ""
+                }
+              }
+            }
+          ]
+        },
+        {
+          "pageid": 22585461,
+          "ns": 6,
+          "title": "File:Paul Emil von Lettow-Vorbeck.jpg",
+          "index": 3,
+          "imagerepository": "local",
+          "imageinfo": [
+            {
+              "size": 48355,
+              "width": 415,
+              "height": 534,
+              "thumburl": "https://upload.wikimedia.org/wikipedia/commons/0/06/Paul_Emil_von_Lettow-Vorbeck.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+              "thumbwidth": 400,
+              "thumbheight": 515,
+              "thumbattribs": {
+                "src": "https://upload.wikimedia.org/wikipedia/commons/0/06/Paul_Emil_von_Lettow-Vorbeck.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+                "decoding": "async",
+                "loading": "lazy",
+                "width": 400,
+                "height": 515
+              },
+              "url": "https://upload.wikimedia.org/wikipedia/commons/0/06/Paul_Emil_von_Lettow-Vorbeck.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+              "descriptionurl": "https://commons.wikimedia.org/wiki/File:Paul_Emil_von_Lettow-Vorbeck.jpg",
+              "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=22585461",
+              "extmetadata": {
+                "DateTime": {
+                  "value": "2012-11-07 21:07:13",
+                  "source": "mediawiki-metadata",
+                  "hidden": ""
+                },
+                "ObjectName": {
+                  "value": "<div class=\"fn\">\n<div class=\"language de\" style=\"display:inline;font-weight:bold;\">Deutsch- Ostafrika, Paul Emil von Lettow-Vorbeck</div> <abbr class=\"BArchtooltips\" title=\"Short title assigned by the archive\"><span typeof=\"mw:File\"><span><img src=\"https://thumb.wikimedia.org/wikipedia/commons/thumb/5/53/Info_non-talk.svg/20px-Info_non-talk.svg.png?utm_source=commons.wikimedia.org&amp;utm_campaign=parser&amp;utm_content=thumbnail\" decoding=\"async\" loading=\"lazy\" width=\"15\" height=\"15\" class=\"mw-file-element\" srcset=\"https://thumb.wikimedia.org/wikipedia/commons/thumb/5/53/Info_non-talk.svg/40px-Info_non-talk.svg.png?utm_source=commons.wikimedia.org&amp;utm_campaign=parser&amp;utm_content=thumbnail 2x\" data-file-width=\"62\" data-file-height=\"62\"></span></span></abbr></div>",
+                  "source": "commons-desc-page"
+                },
+                "CommonsMetadataExtension": {
+                  "value": 1.2,
+                  "source": "extension",
+                  "hidden": ""
+                },
+                "Categories": {
+                  "value": "Pith helmets in Germany|Paul Emil von Lettow-Vorbeck|German East Africa|Images from the German Federal Archive|Photographs by Walther Dobbertin",
+                  "source": "commons-categories",
+                  "hidden": ""
+                },
+                "Assessments": {
+                  "value": "",
+                  "source": "commons-categories",
+                  "hidden": ""
+                },
+                "Artist": {
+                  "value": "<bdi><a href=\"https://en.wikipedia.org/wiki/en:Walther_Dobbertin\" class=\"extiw\" title=\"w:en:Walther Dobbertin\"><span title=\"German photographer, publisher and author (1882–1961)\">Walther Dobbertin</span></a></bdi>",
+                  "source": "commons-desc-page"
+                },
+                "ImageDescription": {
+                  "value": "<div class=\"description\">\n<div style=\"background:var(--background-color-neutral, #eaecf0); color:inherit; font-size:86%; direction:ltr;\">For documentary purposes the German Federal Archive often retained the <b>original image captions</b>, which may be <b>erroneous, biased, obsolete or politically extreme</b>. <abbr class=\"BArchtooltips\" title=\"Files from the inventories “Bild 101 Propagandakompanien der Wehrmacht” and “Bild 183 ADN” may have particularly biased or politically extreme descriptions.\"><span typeof=\"mw:File\"><span><img src=\"https://thumb.wikimedia.org/wikipedia/commons/thumb/5/53/Info_non-talk.svg/20px-Info_non-talk.svg.png?utm_source=commons.wikimedia.org&amp;utm_campaign=parser&amp;utm_content=thumbnail\" decoding=\"async\" loading=\"lazy\" width=\"15\" height=\"15\" class=\"mw-file-element\" srcset=\"https://thumb.wikimedia.org/wikipedia/commons/thumb/5/53/Info_non-talk.svg/40px-Info_non-talk.svg.png?utm_source=commons.wikimedia.org&amp;utm_campaign=parser&amp;utm_content=thumbnail 2x\" data-file-width=\"62\" data-file-height=\"62\"></span></span></abbr></div><div class=\"language de\">von Lettow-Vorbeck</div></div>",
+                  "source": "commons-desc-page"
+                },
+                "DateTimeOriginal": {
+                  "value": "circa between 1914 and 1918<div style=\"display: none;\">date QS:P571,+1914-00-00T00:00:00Z/8,P1319,+1914-00-00T00:00:00Z/9,P1326,+1918-00-00T00:00:00Z/9</div>",
+                  "source": "commons-desc-page"
+                },
+                "Credit": {
+                  "value": "<table style=\"width:100%; clear: both; text-align: center; margin: 0.5em auto; background-color: var(--background-color-interactive-subtle, #f9f9f9); color: inherit; border: 2px solid var(--border-color-muted, #e0e0e0);\" dir=\"ltr\" lang=\"en\" class=\"layouttemplate partnershiptemplate\" role=\"presentation\">\n<tbody><tr>\n<td style=\"width:100px;\"><span typeof=\"mw:File\"><a href=\"//commons.wikimedia.org/wiki/Commons:Bundesarchiv/en\" title=\"Logo Bundesarchiv\"><img alt=\"Logo Bundesarchiv\" src=\"https://thumb.wikimedia.org/wikipedia/commons/thumb/4/41/Bundesarchiv-Logo-ohne-Wappen.svg/120px-Bundesarchiv-Logo-ohne-Wappen.svg.png?utm_source=commons.wikimedia.org&amp;utm_campaign=parser&amp;utm_content=thumbnail\" decoding=\"async\" loading=\"lazy\" width=\"100\" height=\"83\" class=\"mw-file-element\" srcset=\"https://thumb.wikimedia.org/wikipedia/commons/thumb/4/41/Bundesarchiv-Logo-ohne-Wappen.svg/250px-Bundesarchiv-Logo-ohne-Wappen.svg.png?utm_source=commons.wikimedia.org&amp;utm_campaign=parser&amp;utm_content=thumbnail 2x\" data-file-width=\"240\" data-file-height=\"200\"></a></span>\n</td>\n<td>This image was provided to Wikimedia Commons by the <a rel=\"nofollow\" class=\"external text\" href=\"http://www.bundesarchiv.de/\">German Federal Archive</a> (Deutsches Bundesarchiv) as part of a <a href=\"//commons.wikimedia.org/wiki/Commons:Bundesarchiv\" title=\"Commons:Bundesarchiv\">cooperation project</a>. The German Federal Archive guarantees an authentic representation only using the originals (negative and/or positive), resp. the digitalization of the originals as provided by the <a rel=\"nofollow\" class=\"external text\" href=\"http://www.bild.bundesarchiv.de\">Digital Image Archive</a>.\n</td></tr></tbody></table>",
+                  "source": "commons-desc-page"
+                },
+                "LicenseShortName": {
+                  "value": "CC BY-SA 3.0 de",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "UsageTerms": {
+                  "value": "Creative Commons Attribution-Share Alike 3.0 de",
+                  "source": "commons-desc-page"
+                },
+                "AttributionRequired": {
+                  "value": "true",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "Attribution": {
+                  "value": "Bundesarchiv, Bild 105-DOA0967 / Walther Dobbertin / CC-BY-SA 3.0",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "LicenseUrl": {
+                  "value": "https://creativecommons.org/licenses/by-sa/3.0/de/deed.en",
+                  "source": "commons-desc-page"
+                },
+                "Copyrighted": {
+                  "value": "True",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "Restrictions": {
+                  "value": "",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "License": {
+                  "value": "cc-by-sa-3.0-de",
+                  "source": "commons-templates",
+                  "hidden": ""
+                }
+              }
+            }
+          ]
+        },
+        {
+          "pageid": 75618996,
+          "ns": 6,
+          "title": "File:Africa and the American Negro.pdf",
+          "index": 5,
+          "imagerepository": "local",
+          "imageinfo": [
+            {
+              "size": 11460059,
+              "width": 845,
+              "height": 1308,
+              "pagecount": 304,
+              "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d1/Africa_and_the_American_Negro.pdf/page1-500px-Africa_and_the_American_Negro.pdf.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+              "thumbwidth": 400,
+              "thumbheight": 619,
+              "thumbattribs": {
+                "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d1/Africa_and_the_American_Negro.pdf/page1-500px-Africa_and_the_American_Negro.pdf.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+                "decoding": "async",
+                "loading": "lazy",
+                "width": 400,
+                "height": 619
+              },
+              "url": "https://upload.wikimedia.org/wikipedia/commons/d/d1/Africa_and_the_American_Negro.pdf?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+              "descriptionurl": "https://commons.wikimedia.org/wiki/File:Africa_and_the_American_Negro.pdf",
+              "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=75618996",
+              "extmetadata": {
+                "DateTime": {
+                  "value": "2019-01-06 00:22:13",
+                  "source": "mediawiki-metadata",
+                  "hidden": ""
+                },
+                "ObjectName": {
+                  "value": "Africa and the American Negro",
+                  "source": "mediawiki-metadata"
+                },
+                "CommonsMetadataExtension": {
+                  "value": 1.2,
+                  "source": "extension",
+                  "hidden": ""
+                },
+                "Categories": {
+                  "value": "Africa and the American Negro|Images with extracted images|PD US expired|Negro (text)",
+                  "source": "commons-categories",
+                  "hidden": ""
+                },
+                "Assessments": {
+                  "value": "",
+                  "source": "commons-categories",
+                  "hidden": ""
+                },
+                "ImageDescription": {
+                  "value": "Africa and the American Negro",
+                  "source": "commons-desc-page"
+                },
+                "DateTimeOriginal": {
+                  "value": "1896",
+                  "source": "commons-desc-page"
+                },
+                "Credit": {
+                  "value": "Africa and the American Negro <a rel=\"nofollow\" class=\"external free\" href=\"https://books.google.com.na/books?id=X_BJAAAAMAAJ'\">https://books.google.com.na/books?id=X_BJAAAAMAAJ'</a>",
+                  "source": "commons-desc-page"
+                },
+                "Artist": {
+                  "value": "edited by Prof. J. W. B. Bowen, Ph.D., D.D., Secretary of the Congress",
+                  "source": "commons-desc-page"
+                },
+                "LicenseShortName": {
+                  "value": "Public domain",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "UsageTerms": {
+                  "value": "Public domain",
+                  "source": "commons-desc-page"
+                },
+                "AttributionRequired": {
+                  "value": "false",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "Copyrighted": {
+                  "value": "False",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "Restrictions": {
+                  "value": "",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "License": {
+                  "value": "pd",
+                  "source": "commons-templates",
+                  "hidden": ""
+                }
+              }
+            }
+          ]
+        },
+        {
+          "pageid": 176635424,
+          "ns": 6,
+          "title": "File:Gardening In East Africa by A. J. Jex-Blake.djvu",
+          "index": 2,
+          "imagerepository": "local",
+          "imageinfo": [
+            {
+              "size": 65894888,
+              "width": 1000,
+              "height": 1500,
+              "pagecount": 382,
+              "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2a/Gardening_In_East_Africa_by_A._J._Jex-Blake.djvu/page1-500px-Gardening_In_East_Africa_by_A._J._Jex-Blake.djvu.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+              "thumbwidth": 400,
+              "thumbheight": 600,
+              "responsiveUrls": {
+                "2": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2a/Gardening_In_East_Africa_by_A._J._Jex-Blake.djvu/page1-960px-Gardening_In_East_Africa_by_A._J._Jex-Blake.djvu.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+              },
+              "thumbattribs": {
+                "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2a/Gardening_In_East_Africa_by_A._J._Jex-Blake.djvu/page1-500px-Gardening_In_East_Africa_by_A._J._Jex-Blake.djvu.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+                "decoding": "async",
+                "loading": "lazy",
+                "width": 400,
+                "height": 600,
+                "srcset": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2a/Gardening_In_East_Africa_by_A._J._Jex-Blake.djvu/page1-960px-Gardening_In_East_Africa_by_A._J._Jex-Blake.djvu.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail 2x"
+              },
+              "url": "https://upload.wikimedia.org/wikipedia/commons/2/2a/Gardening_In_East_Africa_by_A._J._Jex-Blake.djvu?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+              "descriptionurl": "https://commons.wikimedia.org/wiki/File:Gardening_In_East_Africa_by_A._J._Jex-Blake.djvu",
+              "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=176635424",
+              "extmetadata": {
+                "DateTime": {
+                  "value": "2025-10-13 04:59:16",
+                  "source": "mediawiki-metadata",
+                  "hidden": ""
+                },
+                "ObjectName": {
+                  "value": "<div class=\"fn\">\nGardening In East Africa</div>",
+                  "source": "commons-desc-page"
+                },
+                "CommonsMetadataExtension": {
+                  "value": 1.2,
+                  "source": "extension",
+                  "hidden": ""
+                },
+                "Categories": {
+                  "value": "PD US|1934 books|DjVu files in English|PD Old|Uploaded with IA Upload|PD-scan (PD-old-70)|CC-PD-Mark|Books without Wikidata item|PD-old missing SDC copyright status|PD-US missing SDC copyright status|Embracing Openness in African Libraries through open licensing digitisation in Nigeria, Kenya, and Ghana",
+                  "source": "commons-categories",
+                  "hidden": ""
+                },
+                "Assessments": {
+                  "value": "",
+                  "source": "commons-categories",
+                  "hidden": ""
+                },
+                "Artist": {
+                  "value": "<div class=\"fn value\">\nA. J. Jex-Blake</div>",
+                  "source": "commons-desc-page"
+                },
+                "Credit": {
+                  "value": "<a rel=\"nofollow\" class=\"external free\" href=\"https://archive.org/details/lbg.635.tex.0985/mode/2up\">https://archive.org/details/lbg.635.tex.0985/mode/2up</a>",
+                  "source": "commons-desc-page"
+                },
+                "LicenseShortName": {
+                  "value": "Public domain",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "UsageTerms": {
+                  "value": "Public domain",
+                  "source": "commons-desc-page"
+                },
+                "AttributionRequired": {
+                  "value": "false",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "Copyrighted": {
+                  "value": "False",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "Restrictions": {
+                  "value": "",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "License": {
+                  "value": "pd",
+                  "source": "commons-templates",
+                  "hidden": ""
+                }
+              }
+            }
+          ]
+        },
+        {
+          "pageid": 176806829,
+          "ns": 6,
+          "title": "File:Gardening in East Africa by A. J. Jex-Blake.pdf",
+          "index": 1,
+          "imagerepository": "local",
+          "imageinfo": [
+            {
+              "size": 32265923,
+              "width": 1237,
+              "height": 2050,
+              "pagecount": 380,
+              "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7a/Gardening_in_East_Africa_by_A._J._Jex-Blake.pdf/page1-500px-Gardening_in_East_Africa_by_A._J._Jex-Blake.pdf.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+              "thumbwidth": 400,
+              "thumbheight": 663,
+              "responsiveUrls": {
+                "2": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7a/Gardening_in_East_Africa_by_A._J._Jex-Blake.pdf/page1-960px-Gardening_in_East_Africa_by_A._J._Jex-Blake.pdf.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+              },
+              "thumbattribs": {
+                "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7a/Gardening_in_East_Africa_by_A._J._Jex-Blake.pdf/page1-500px-Gardening_in_East_Africa_by_A._J._Jex-Blake.pdf.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+                "decoding": "async",
+                "loading": "lazy",
+                "width": 400,
+                "height": 663,
+                "srcset": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7a/Gardening_in_East_Africa_by_A._J._Jex-Blake.pdf/page1-960px-Gardening_in_East_Africa_by_A._J._Jex-Blake.pdf.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail 2x"
+              },
+              "url": "https://upload.wikimedia.org/wikipedia/commons/7/7a/Gardening_in_East_Africa_by_A._J._Jex-Blake.pdf?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+              "descriptionurl": "https://commons.wikimedia.org/wiki/File:Gardening_in_East_Africa_by_A._J._Jex-Blake.pdf",
+              "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=176806829",
+              "extmetadata": {
+                "DateTime": {
+                  "value": "2025-10-16 12:56:27",
+                  "source": "mediawiki-metadata",
+                  "hidden": ""
+                },
+                "ObjectName": {
+                  "value": "Gardening in East Africa by A. J. Jex-Blake",
+                  "source": "mediawiki-metadata"
+                },
+                "CommonsMetadataExtension": {
+                  "value": 1.2,
+                  "source": "extension",
+                  "hidden": ""
+                },
+                "Categories": {
+                  "value": "PD US|Author died more than 70 years ago public domain images|CC-PD-Mark|PD-old missing SDC copyright status|PD-US missing SDC copyright status|Embracing Openness in African Libraries through open licensing digitisation in Nigeria, Kenya, and Ghana",
+                  "source": "commons-categories",
+                  "hidden": ""
+                },
+                "Assessments": {
+                  "value": "",
+                  "source": "commons-categories",
+                  "hidden": ""
+                },
+                "ImageDescription": {
+                  "value": "Gardening in East Africa is an early 20th-century practical guide written to help settlers and residents of East Africa, adapt European gardening methods to tropical highland conditions.",
+                  "source": "commons-desc-page"
+                },
+                "DateTimeOriginal": {
+                  "value": "1934",
+                  "source": "commons-desc-page"
+                },
+                "Credit": {
+                  "value": "<a rel=\"nofollow\" class=\"external free\" href=\"https://archive.org/details/lbg.635.tex.0985/mode/2up\">https://archive.org/details/lbg.635.tex.0985/mode/2up</a>",
+                  "source": "commons-desc-page"
+                },
+                "Artist": {
+                  "value": "A. J. Jex-Blake",
+                  "source": "commons-desc-page"
+                },
+                "LicenseShortName": {
+                  "value": "Public domain",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "UsageTerms": {
+                  "value": "Public domain",
+                  "source": "commons-desc-page"
+                },
+                "AttributionRequired": {
+                  "value": "false",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "Copyrighted": {
+                  "value": "False",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "Restrictions": {
+                  "value": "",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "License": {
+                  "value": "pd",
+                  "source": "commons-templates",
+                  "hidden": ""
+                }
+              }
+            }
+          ]
+        }
+      ]
+    }
+  }
+}

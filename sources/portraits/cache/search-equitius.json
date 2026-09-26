@@ -1,0 +1,564 @@
+{
+  "person_id": "equitius",
+  "query": "Equitius",
+  "response": {
+    "batchcomplete": true,
+    "continue": {
+      "gsroffset": 5,
+      "continue": "gsroffset||"
+    },
+    "query": {
+      "pages": [
+        {
+          "pageid": 27263845,
+          "ns": 6,
+          "title": "File:L'Aquila gonfalone.jpg",
+          "index": 1,
+          "imagerepository": "local",
+          "imageinfo": [
+            {
+              "size": 1121986,
+              "width": 843,
+              "height": 1194,
+              "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f9/L%27Aquila_gonfalone.jpg/500px-L%27Aquila_gonfalone.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+              "thumbwidth": 400,
+              "thumbheight": 567,
+              "responsiveUrls": {
+                "2": "https://upload.wikimedia.org/wikipedia/commons/f/f9/L%27Aquila_gonfalone.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled"
+              },
+              "thumbattribs": {
+                "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f9/L%27Aquila_gonfalone.jpg/500px-L%27Aquila_gonfalone.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+                "decoding": "async",
+                "loading": "lazy",
+                "width": 400,
+                "height": 567,
+                "srcset": "https://upload.wikimedia.org/wikipedia/commons/f/f9/L%27Aquila_gonfalone.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled 2x"
+              },
+              "url": "https://upload.wikimedia.org/wikipedia/commons/f/f9/L%27Aquila_gonfalone.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+              "descriptionurl": "https://commons.wikimedia.org/wiki/File:L%27Aquila_gonfalone.jpg",
+              "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=27263845",
+              "extmetadata": {
+                "DateTime": {
+                  "value": "2013-07-15 13:06:39",
+                  "source": "mediawiki-metadata",
+                  "hidden": ""
+                },
+                "ObjectName": {
+                  "value": "Banner of L’Aquila (Italy), Giovanni Paolo Cardone",
+                  "source": "commons-desc-page"
+                },
+                "CommonsMetadataExtension": {
+                  "value": 1.2,
+                  "source": "extension",
+                  "hidden": ""
+                },
+                "Categories": {
+                  "value": "Giovan Paolo Cardone|Self-published work|PD-Art (PD-old-100)|PD-self|Artworks with Wikidata item|CC-PD-Mark|Religious standards in Italy|Artworks with Wikidata item missing author|Artworks digital representation of 2D work|Gonfalons of L'Aquila",
+                  "source": "commons-categories",
+                  "hidden": ""
+                },
+                "Assessments": {
+                  "value": "",
+                  "source": "commons-categories",
+                  "hidden": ""
+                },
+                "Artist": {
+                  "value": "<bdi><a href=\"https://www.wikidata.org/wiki/Q3106949\" class=\"extiw\" title=\"d:Q3106949\"><span title=\"Italian painter (1569-1586)\">Giovan Paolo Cardone</span></a></bdi>",
+                  "source": "commons-desc-page"
+                },
+                "ImageDescription": {
+                  "value": "<div class=\"description\">\n<a href=\"https://en.wikipedia.org/wiki/en:Resurrection_of_Jesus\" class=\"extiw\" title=\"w:en:Resurrection of Jesus\"><span title=\"event in the Christian faith, Gospel episode represented in the cycle of the Passion of Christ Central teaching of Christianity; Luke 24:1-11\">Resurrection of Jesus</span></a> <span class=\"mw-valign-text-top noprint\" typeof=\"mw:File/Frameless\"><a href=\"https://www.wikidata.org/wiki/Q19060309#P180\" title=\"Edit this at Wikidata\"><img alt=\"Edit this at Wikidata\" src=\"https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8a/OOjs_UI_icon_edit-ltr-progressive.svg/20px-OOjs_UI_icon_edit-ltr-progressive.svg.png?utm_source=commons.wikimedia.org&amp;utm_campaign=parser&amp;utm_content=thumbnail\" decoding=\"async\" loading=\"lazy\" width=\"10\" height=\"10\" class=\"mw-file-element\" data-file-width=\"20\" data-file-height=\"20\"></a></span></div>",
+                  "source": "commons-desc-page"
+                },
+                "DateTimeOriginal": {
+                  "value": "31 December 1579<div style=\"display: none;\">date QS:P571,+1579-12-31T00:00:00Z/11</div>",
+                  "source": "commons-desc-page"
+                },
+                "Credit": {
+                  "value": "<a class=\"external autonumber\" data-mw-original-href=\"http://it.wikipedia.org/wiki/Giovan_Paolo_Cardone\" href=\"https://it.wikipedia.org/wiki/Giovan_Paolo_Cardone\">[1]</a>",
+                  "source": "commons-desc-page"
+                },
+                "LicenseShortName": {
+                  "value": "Public domain",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "UsageTerms": {
+                  "value": "Public domain",
+                  "source": "commons-desc-page"
+                },
+                "AttributionRequired": {
+                  "value": "false",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "Copyrighted": {
+                  "value": "False",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "Restrictions": {
+                  "value": "",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "License": {
+                  "value": "pd",
+                  "source": "commons-templates",
+                  "hidden": ""
+                }
+              }
+            }
+          ]
+        },
+        {
+          "pageid": 35180368,
+          "ns": 6,
+          "title": "File:Thermopolium di Equitius 1.JPG",
+          "index": 2,
+          "imagerepository": "local",
+          "imageinfo": [
+            {
+              "size": 576471,
+              "width": 2048,
+              "height": 1536,
+              "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/58/Thermopolium_di_Equitius_1.JPG/500px-Thermopolium_di_Equitius_1.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+              "thumbwidth": 400,
+              "thumbheight": 300,
+              "responsiveUrls": {
+                "2": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/58/Thermopolium_di_Equitius_1.JPG/960px-Thermopolium_di_Equitius_1.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+              },
+              "thumbattribs": {
+                "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/58/Thermopolium_di_Equitius_1.JPG/500px-Thermopolium_di_Equitius_1.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+                "decoding": "async",
+                "loading": "lazy",
+                "width": 400,
+                "height": 300,
+                "srcset": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/58/Thermopolium_di_Equitius_1.JPG/960px-Thermopolium_di_Equitius_1.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail 2x"
+              },
+              "url": "https://upload.wikimedia.org/wikipedia/commons/5/58/Thermopolium_di_Equitius_1.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+              "descriptionurl": "https://commons.wikimedia.org/wiki/File:Thermopolium_di_Equitius_1.JPG",
+              "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=35180368",
+              "extmetadata": {
+                "DateTime": {
+                  "value": "2014-09-06 13:33:32",
+                  "source": "mediawiki-metadata",
+                  "hidden": ""
+                },
+                "ObjectName": {
+                  "value": "Thermopolium di Equitius 1",
+                  "source": "mediawiki-metadata"
+                },
+                "CommonsMetadataExtension": {
+                  "value": 1.2,
+                  "source": "extension",
+                  "hidden": ""
+                },
+                "Categories": {
+                  "value": "Taken with Nikon Coolpix 5600|Thermopolium of Equitius (I.14.15)|Self-published work|Italian MiBAC disclaimer warning|Images from Wiki Loves Monuments 2014|Cultural heritage monuments in Italy with known IDs|Images from Wiki Loves Monuments 2014 in Italy|Uploaded via Campaign:wlm-it|Images from Wiki Loves Monuments 2014 in Italy needing check|Italy photographs taken on 2013-09-13|Images from Wiki Loves Monuments missing SDC location of creation|Cultural heritage monuments in Italy missing SDC location of creation|2013 in Pompeii",
+                  "source": "commons-categories",
+                  "hidden": ""
+                },
+                "Assessments": {
+                  "value": "",
+                  "source": "commons-categories",
+                  "hidden": ""
+                },
+                "ImageDescription": {
+                  "value": "Thermopolium di Equitius - MIBACT",
+                  "source": "commons-desc-page"
+                },
+                "DateTimeOriginal": {
+                  "value": "2013-09-13 11:27:05",
+                  "source": "commons-desc-page"
+                },
+                "Credit": {
+                  "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+                  "source": "commons-desc-page"
+                },
+                "Artist": {
+                  "value": "<a href=\"//commons.wikimedia.org/wiki/User:Mentnafunangann\" class=\"mw-redirect\" title=\"User:Mentnafunangann\">Mentnafunangann</a>",
+                  "source": "commons-desc-page"
+                },
+                "LicenseShortName": {
+                  "value": "CC BY-SA 3.0",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "UsageTerms": {
+                  "value": "Creative Commons Attribution-Share Alike 3.0",
+                  "source": "commons-desc-page"
+                },
+                "AttributionRequired": {
+                  "value": "true",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "LicenseUrl": {
+                  "value": "https://creativecommons.org/licenses/by-sa/3.0",
+                  "source": "commons-desc-page"
+                },
+                "Copyrighted": {
+                  "value": "True",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "Restrictions": {
+                  "value": "ita-mibac",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "License": {
+                  "value": "cc-by-sa-3.0",
+                  "source": "commons-templates",
+                  "hidden": ""
+                }
+              }
+            }
+          ]
+        },
+        {
+          "pageid": 55904139,
+          "ns": 6,
+          "title": "File:Roman coin, copper alloy radiate of Probus (Obverse and reverse). (FindID 182424).jpg",
+          "index": 5,
+          "imagerepository": "local",
+          "imageinfo": [
+            {
+              "size": 870078,
+              "width": 1699,
+              "height": 843,
+              "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ec/Roman_coin%2C_copper_alloy_radiate_of_Probus_%28Obverse_and_reverse%29._%28FindID_182424%29.jpg/500px-Roman_coin%2C_copper_alloy_radiate_of_Probus_%28Obverse_and_reverse%29._%28FindID_182424%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+              "thumbwidth": 400,
+              "thumbheight": 198,
+              "responsiveUrls": {
+                "2": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ec/Roman_coin%2C_copper_alloy_radiate_of_Probus_%28Obverse_and_reverse%29._%28FindID_182424%29.jpg/960px-Roman_coin%2C_copper_alloy_radiate_of_Probus_%28Obverse_and_reverse%29._%28FindID_182424%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+              },
+              "thumbattribs": {
+                "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ec/Roman_coin%2C_copper_alloy_radiate_of_Probus_%28Obverse_and_reverse%29._%28FindID_182424%29.jpg/500px-Roman_coin%2C_copper_alloy_radiate_of_Probus_%28Obverse_and_reverse%29._%28FindID_182424%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+                "decoding": "async",
+                "loading": "lazy",
+                "width": 400,
+                "height": 198,
+                "srcset": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ec/Roman_coin%2C_copper_alloy_radiate_of_Probus_%28Obverse_and_reverse%29._%28FindID_182424%29.jpg/960px-Roman_coin%2C_copper_alloy_radiate_of_Probus_%28Obverse_and_reverse%29._%28FindID_182424%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail 2x"
+              },
+              "url": "https://upload.wikimedia.org/wikipedia/commons/e/ec/Roman_coin%2C_copper_alloy_radiate_of_Probus_%28Obverse_and_reverse%29._%28FindID_182424%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+              "descriptionurl": "https://commons.wikimedia.org/wiki/File:Roman_coin,_copper_alloy_radiate_of_Probus_(Obverse_and_reverse)._(FindID_182424).jpg",
+              "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=55904139",
+              "extmetadata": {
+                "DateTime": {
+                  "value": "2017-02-05 13:04:18",
+                  "source": "mediawiki-metadata",
+                  "hidden": ""
+                },
+                "ObjectName": {
+                  "value": "<div class=\"fn\">\nRoman coin: copper alloy radiate of Probus (Obverse and reverse).</div>",
+                  "source": "commons-desc-page"
+                },
+                "CommonsMetadataExtension": {
+                  "value": 1.2,
+                  "source": "extension",
+                  "hidden": ""
+                },
+                "Categories": {
+                  "value": "Portable Antiquities Scheme|Images uploaded by Fæ|Portable Antiquities Scheme, WAW|Photographs by Angie Bolton|Files with coordinates missing SDC location of creation (52° N, 2° W)|Radiates in the Portable Antiquities Scheme|Both sides of coins of Probus",
+                  "source": "commons-categories",
+                  "hidden": ""
+                },
+                "Assessments": {
+                  "value": "",
+                  "source": "commons-categories",
+                  "hidden": ""
+                },
+                "GPSLatitude": {
+                  "value": "52.299700",
+                  "source": "commons-desc-page"
+                },
+                "GPSLongitude": {
+                  "value": "-1.947610",
+                  "source": "commons-desc-page"
+                },
+                "GPSMapDatum": {
+                  "value": "WGS-84",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "Artist": {
+                  "value": "<div class=\"fn value\">\nBirmingham Museums Trust, Angie Bolton, 2007-06-06 16:04:15</div>",
+                  "source": "commons-desc-page"
+                },
+                "ImageDescription": {
+                  "value": "Roman coin: copper alloy radiate of Probus minted in Antioch between 276 and 282 AD. SOLI INVICTO reverse. RIC911.",
+                  "source": "commons-desc-page"
+                },
+                "DateTimeOriginal": {
+                  "value": "between 275 and 296",
+                  "source": "commons-desc-page"
+                },
+                "Credit": {
+                  "value": "<a rel=\"nofollow\" class=\"external free\" href=\"https://finds.org.uk/database/ajax/download/id/140680\">https://finds.org.uk/database/ajax/download/id/140680</a><br>Catalog: <a rel=\"nofollow\" class=\"external free\" href=\"https://finds.org.uk/database/images/image/id/140680\">https://finds.org.uk/database/images/image/id/140680</a><br>Artefact: <a rel=\"nofollow\" class=\"external free\" href=\"https://finds.org.uk/database/artefacts/record/id/182424\">https://finds.org.uk/database/artefacts/record/id/182424</a>",
+                  "source": "commons-desc-page"
+                },
+                "Permission": {
+                  "value": "Attribution-ShareAlike License",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "LicenseShortName": {
+                  "value": "CC BY-SA 2.0",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "UsageTerms": {
+                  "value": "Creative Commons Attribution-Share Alike 2.0",
+                  "source": "commons-desc-page"
+                },
+                "AttributionRequired": {
+                  "value": "true",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "Attribution": {
+                  "value": "The Portable Antiquities Scheme/ The Trustees of the British Museum",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "LicenseUrl": {
+                  "value": "https://creativecommons.org/licenses/by-sa/2.0",
+                  "source": "commons-desc-page"
+                },
+                "Copyrighted": {
+                  "value": "True",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "Restrictions": {
+                  "value": "",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "License": {
+                  "value": "cc-by-sa-2.0",
+                  "source": "commons-templates",
+                  "hidden": ""
+                }
+              }
+            }
+          ]
+        },
+        {
+          "pageid": 82484277,
+          "ns": 6,
+          "title": "File:Probus Marcus Aurelius.jpg",
+          "index": 4,
+          "imagerepository": "local",
+          "imageinfo": [
+            {
+              "size": 553732,
+              "width": 2700,
+              "height": 3783,
+              "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/80/Probus_Marcus_Aurelius.jpg/500px-Probus_Marcus_Aurelius.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+              "thumbwidth": 400,
+              "thumbheight": 560,
+              "responsiveUrls": {
+                "2": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/80/Probus_Marcus_Aurelius.jpg/960px-Probus_Marcus_Aurelius.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+              },
+              "thumbattribs": {
+                "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/80/Probus_Marcus_Aurelius.jpg/500px-Probus_Marcus_Aurelius.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+                "decoding": "async",
+                "loading": "lazy",
+                "width": 400,
+                "height": 560,
+                "srcset": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/80/Probus_Marcus_Aurelius.jpg/960px-Probus_Marcus_Aurelius.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail 2x"
+              },
+              "url": "https://upload.wikimedia.org/wikipedia/commons/8/80/Probus_Marcus_Aurelius.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+              "descriptionurl": "https://commons.wikimedia.org/wiki/File:Probus_Marcus_Aurelius.jpg",
+              "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=82484277",
+              "extmetadata": {
+                "DateTime": {
+                  "value": "2019-09-24 09:13:50",
+                  "source": "mediawiki-metadata",
+                  "hidden": ""
+                },
+                "ObjectName": {
+                  "value": "Probus Marcus Aurelius",
+                  "source": "mediawiki-metadata"
+                },
+                "CommonsMetadataExtension": {
+                  "value": 1.2,
+                  "source": "extension",
+                  "hidden": ""
+                },
+                "Categories": {
+                  "value": "CC-Zero|Artworks without Wikidata item|Media from Biblioteca comunale di Trento|Self-published work|Artworks with known accession number|Engravings of people|Portraits from Biblioteca comunale di Trento|Romanorum Imperatorum Effigies|Probus in art",
+                  "source": "commons-categories",
+                  "hidden": ""
+                },
+                "Assessments": {
+                  "value": "",
+                  "source": "commons-categories",
+                  "hidden": ""
+                },
+                "Artist": {
+                  "value": "<bdi><a href=\"https://en.wikipedia.org/wiki/en:Giovanni_Battista_de%27_Cavalieri\" class=\"extiw\" title=\"w:en:Giovanni Battista de' Cavalieri\"><span title=\"Italian engraver\">Giovanni Battista de'Cavalieri</span></a></bdi>",
+                  "source": "commons-desc-page"
+                },
+                "ImageDescription": {
+                  "value": "Calcografia in Giovanni Battista Cavalieri &amp; Thomas Treterus, Romanorum imperatorum effigies, Roma, Vincenzo Accolti, 1583.",
+                  "source": "commons-desc-page"
+                },
+                "DateTimeOriginal": {
+                  "value": "1583<div style=\"display: none;\">date QS:P571,+1583-00-00T00:00:00Z/9</div>",
+                  "source": "commons-desc-page"
+                },
+                "Credit": {
+                  "value": "<table cellpadding=\"0\" cellspacing=\"0\" style=\"width:100%;background:#fff;border:0px;border-left:8px solid #f80; vertical-align:top\">\n<tbody><tr>\n<td style=\"padding:2px 6px\">\n<p>This file was uploaded by <a rel=\"nofollow\" class=\"external text\" href=\"http://www.bibcom.trento.it/\">Biblioteca comunale di Trento</a>.\n</p>\n</td></tr></tbody></table>",
+                  "source": "commons-desc-page"
+                },
+                "LicenseShortName": {
+                  "value": "CC0",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "UsageTerms": {
+                  "value": "Creative Commons Zero, Public Domain Dedication",
+                  "source": "commons-desc-page"
+                },
+                "AttributionRequired": {
+                  "value": "false",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "LicenseUrl": {
+                  "value": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+                  "source": "commons-desc-page"
+                },
+                "Copyrighted": {
+                  "value": "True",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "Restrictions": {
+                  "value": "",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "License": {
+                  "value": "cc0",
+                  "source": "commons-templates",
+                  "hidden": ""
+                }
+              }
+            }
+          ]
+        },
+        {
+          "pageid": 98114106,
+          "ns": 6,
+          "title": "File:Probus aurelianianus.jpg",
+          "index": 3,
+          "imagerepository": "local",
+          "imageinfo": [
+            {
+              "size": 273743,
+              "width": 1024,
+              "height": 1024,
+              "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f7/Probus_aurelianianus.jpg/500px-Probus_aurelianianus.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+              "thumbwidth": 400,
+              "thumbheight": 400,
+              "responsiveUrls": {
+                "2": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f7/Probus_aurelianianus.jpg/960px-Probus_aurelianianus.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+              },
+              "thumbattribs": {
+                "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f7/Probus_aurelianianus.jpg/500px-Probus_aurelianianus.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+                "decoding": "async",
+                "loading": "lazy",
+                "width": 400,
+                "height": 400,
+                "srcset": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f7/Probus_aurelianianus.jpg/960px-Probus_aurelianianus.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail 2x"
+              },
+              "url": "https://upload.wikimedia.org/wikipedia/commons/f/f7/Probus_aurelianianus.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+              "descriptionurl": "https://commons.wikimedia.org/wiki/File:Probus_aurelianianus.jpg",
+              "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=98114106",
+              "extmetadata": {
+                "DateTime": {
+                  "value": "2020-12-27 04:34:17",
+                  "source": "mediawiki-metadata",
+                  "hidden": ""
+                },
+                "ObjectName": {
+                  "value": "Probus aurelianianus",
+                  "source": "mediawiki-metadata"
+                },
+                "CommonsMetadataExtension": {
+                  "value": 1.2,
+                  "source": "extension",
+                  "hidden": ""
+                },
+                "Categories": {
+                  "value": "CC-Zero|Antoninianus|Self-published work|Radiant crowns on Roman coins and medals|Coins of Probus",
+                  "source": "commons-categories",
+                  "hidden": ""
+                },
+                "Assessments": {
+                  "value": "",
+                  "source": "commons-categories",
+                  "hidden": ""
+                },
+                "ImageDescription": {
+                  "value": "An aurelianianus of Roman Emperor Probus",
+                  "source": "commons-desc-page"
+                },
+                "DateTimeOriginal": {
+                  "value": "AD 278-279",
+                  "source": "commons-desc-page"
+                },
+                "Credit": {
+                  "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+                  "source": "commons-desc-page"
+                },
+                "Artist": {
+                  "value": "<a href=\"//commons.wikimedia.org/wiki/User:Velatrix\" title=\"User:Velatrix\">Velatrix</a>",
+                  "source": "commons-desc-page"
+                },
+                "LicenseShortName": {
+                  "value": "CC0",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "UsageTerms": {
+                  "value": "Creative Commons Zero, Public Domain Dedication",
+                  "source": "commons-desc-page"
+                },
+                "AttributionRequired": {
+                  "value": "false",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "LicenseUrl": {
+                  "value": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+                  "source": "commons-desc-page"
+                },
+                "Copyrighted": {
+                  "value": "True",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "Restrictions": {
+                  "value": "",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "License": {
+                  "value": "cc0",
+                  "source": "commons-templates",
+                  "hidden": ""
+                }
+              }
+            }
+          ]
+        }
+      ]
+    }
+  }
+}

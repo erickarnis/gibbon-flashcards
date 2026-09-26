@@ -1,0 +1,547 @@
+{
+  "person_id": "sextus-julius-africanus",
+  "query": "Sextus Julius Africanus",
+  "response": {
+    "batchcomplete": true,
+    "continue": {
+      "gsroffset": 5,
+      "continue": "gsroffset||"
+    },
+    "query": {
+      "pages": [
+        {
+          "pageid": 84784268,
+          "ns": 6,
+          "title": "File:Sextus Julius Africanus Julius aphricanus (titel op object) Liber Chronicarum (serietitel), RP-P-2016-49-79-4.jpg",
+          "index": 2,
+          "imagerepository": "local",
+          "imageinfo": [
+            {
+              "size": 249300,
+              "width": 1044,
+              "height": 1488,
+              "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/67/Sextus_Julius_Africanus_Julius_aphricanus_%28titel_op_object%29_Liber_Chronicarum_%28serietitel%29%2C_RP-P-2016-49-79-4.jpg/500px-Sextus_Julius_Africanus_Julius_aphricanus_%28titel_op_object%29_Liber_Chronicarum_%28serietitel%29%2C_RP-P-2016-49-79-4.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+              "thumbwidth": 400,
+              "thumbheight": 570,
+              "responsiveUrls": {
+                "2": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/67/Sextus_Julius_Africanus_Julius_aphricanus_%28titel_op_object%29_Liber_Chronicarum_%28serietitel%29%2C_RP-P-2016-49-79-4.jpg/960px-Sextus_Julius_Africanus_Julius_aphricanus_%28titel_op_object%29_Liber_Chronicarum_%28serietitel%29%2C_RP-P-2016-49-79-4.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+              },
+              "thumbattribs": {
+                "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/67/Sextus_Julius_Africanus_Julius_aphricanus_%28titel_op_object%29_Liber_Chronicarum_%28serietitel%29%2C_RP-P-2016-49-79-4.jpg/500px-Sextus_Julius_Africanus_Julius_aphricanus_%28titel_op_object%29_Liber_Chronicarum_%28serietitel%29%2C_RP-P-2016-49-79-4.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+                "decoding": "async",
+                "loading": "lazy",
+                "width": 400,
+                "height": 570,
+                "srcset": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/67/Sextus_Julius_Africanus_Julius_aphricanus_%28titel_op_object%29_Liber_Chronicarum_%28serietitel%29%2C_RP-P-2016-49-79-4.jpg/960px-Sextus_Julius_Africanus_Julius_aphricanus_%28titel_op_object%29_Liber_Chronicarum_%28serietitel%29%2C_RP-P-2016-49-79-4.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail 2x"
+              },
+              "url": "https://upload.wikimedia.org/wikipedia/commons/6/67/Sextus_Julius_Africanus_Julius_aphricanus_%28titel_op_object%29_Liber_Chronicarum_%28serietitel%29%2C_RP-P-2016-49-79-4.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+              "descriptionurl": "https://commons.wikimedia.org/wiki/File:Sextus_Julius_Africanus_Julius_aphricanus_(titel_op_object)_Liber_Chronicarum_(serietitel),_RP-P-2016-49-79-4.jpg",
+              "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=84784268",
+              "extmetadata": {
+                "DateTime": {
+                  "value": "2019-12-10 11:59:16",
+                  "source": "mediawiki-metadata",
+                  "hidden": ""
+                },
+                "ObjectName": {
+                  "value": "Sextus Julius Africanus Julius aphricanus (titel op object) Liber Chronicarum (serietitel), RP-P-2016-49-79-4",
+                  "source": "mediawiki-metadata"
+                },
+                "CommonsMetadataExtension": {
+                  "value": 1.2,
+                  "source": "extension",
+                  "hidden": ""
+                },
+                "Categories": {
+                  "value": "CC-Zero|Liber Chronicarum, Rijksmuseum Amsterdam|Album met voorstellingen uit de Neurenbergkroniek van Schedel|Sextus Julius Africanus",
+                  "source": "commons-categories",
+                  "hidden": ""
+                },
+                "Assessments": {
+                  "value": "",
+                  "source": "commons-categories",
+                  "hidden": ""
+                },
+                "ImageDescription": {
+                  "value": "<br><br><big><b>Identificatie</b></big><br><b>Titel(s): </b>Sextus Julius Africanus. Julius aphrican[us] (titel op object). Liber Chronicarum (serietitel)<br><b>Objecttype:</b> prent boekillustratie albumblad <br><b>Objectnummer:</b> RP-P-2016-49-79-4<br><b>Opschriften / Merken:</b> opschrift, rechtsonder, geschreven met pen: ‘47’<br><b>Omschrijving:</b> Een bloemkelk met een lezende man. De tekst identificeert hem als Sextus Julius Africanus, reiziger en historicus. De prent maakt deel uit van een album.<br><br><big><b>Vervaardiging</b></big><br><b>Vervaardiger:</b> prentmaker: Michel Wolgemut (atelier van), prentmaker: Wilhelm Pleydenwurff (atelier van)<br><b>Plaats vervaardiging:</b> Neurenberg<br><b>Datering:</b> 1493<br><b>Fysieke kenmerken:</b> houtsnede geplakt op albumblad; tekst in boekdruk; verso met tekst in boekdruk<br><b>Materiaal:</b> papier <br><b>Techniek:</b> boekdruk / houtsnede / plakken<br><b>Afmetingen:</b> prent: h 80 mm × b 55 mm<br><br><big><b>Toelichting</b></big><br>De houtsnede wordt herhaaldelijk gebruikt als boekillustratie in de Liber Chronicarum (of Neurenbergkroniek) van Hartmann Schedel, verschenen in het Latijn en Duits in 1493. Zie de Latijnse uitgave, folio 118r.<br><br><big><b>Onderwerp</b></big><br><b>Wat: </b>mannelijke personen uit de klassieke geschiedenis<br><br><big><b>Verwerving en rechten</b></big><br><b>Verwerving:</b> onbekend 1874<br><b>Copyright:</b> Publiek domein",
+                  "source": "commons-desc-page"
+                },
+                "DateTimeOriginal": {
+                  "value": "1493",
+                  "source": "commons-desc-page"
+                },
+                "Credit": {
+                  "value": "<a rel=\"nofollow\" class=\"external free\" href=\"http://hdl.handle.net/10934/RM0001.COLLECT.614603\">http://hdl.handle.net/10934/RM0001.COLLECT.614603</a>",
+                  "source": "commons-desc-page"
+                },
+                "Artist": {
+                  "value": "Rijksmuseum",
+                  "source": "commons-desc-page"
+                },
+                "LicenseShortName": {
+                  "value": "CC0",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "UsageTerms": {
+                  "value": "Creative Commons Zero, Public Domain Dedication",
+                  "source": "commons-desc-page"
+                },
+                "AttributionRequired": {
+                  "value": "false",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "LicenseUrl": {
+                  "value": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+                  "source": "commons-desc-page"
+                },
+                "Copyrighted": {
+                  "value": "True",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "Restrictions": {
+                  "value": "",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "License": {
+                  "value": "cc0",
+                  "source": "commons-templates",
+                  "hidden": ""
+                }
+              }
+            }
+          ]
+        },
+        {
+          "pageid": 193514717,
+          "ns": 6,
+          "title": "File:Feuersignalcodes Polybios & Sextus Iulius Africanus.pdf",
+          "index": 4,
+          "imagerepository": "local",
+          "imageinfo": [
+            {
+              "size": 193655,
+              "width": 1752,
+              "height": 1239,
+              "pagecount": 1,
+              "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/09/Feuersignalcodes_Polybios_%26_Sextus_Iulius_Africanus.pdf/page1-500px-Feuersignalcodes_Polybios_%26_Sextus_Iulius_Africanus.pdf.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+              "thumbwidth": 400,
+              "thumbheight": 283,
+              "responsiveUrls": {
+                "2": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/09/Feuersignalcodes_Polybios_%26_Sextus_Iulius_Africanus.pdf/page1-960px-Feuersignalcodes_Polybios_%26_Sextus_Iulius_Africanus.pdf.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+              },
+              "thumbattribs": {
+                "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/09/Feuersignalcodes_Polybios_%26_Sextus_Iulius_Africanus.pdf/page1-500px-Feuersignalcodes_Polybios_%26_Sextus_Iulius_Africanus.pdf.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+                "decoding": "async",
+                "loading": "lazy",
+                "width": 400,
+                "height": 283,
+                "srcset": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/09/Feuersignalcodes_Polybios_%26_Sextus_Iulius_Africanus.pdf/page1-960px-Feuersignalcodes_Polybios_%26_Sextus_Iulius_Africanus.pdf.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail 2x"
+              },
+              "url": "https://upload.wikimedia.org/wikipedia/commons/0/09/Feuersignalcodes_Polybios_%26_Sextus_Iulius_Africanus.pdf?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+              "descriptionurl": "https://commons.wikimedia.org/wiki/File:Feuersignalcodes_Polybios_%26_Sextus_Iulius_Africanus.pdf",
+              "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=193514717",
+              "extmetadata": {
+                "DateTime": {
+                  "value": "2026-06-07 11:58:12",
+                  "source": "mediawiki-metadata",
+                  "hidden": ""
+                },
+                "ObjectName": {
+                  "value": "Feuersignalcodes Polybios & Sextus Iulius Africanus",
+                  "source": "mediawiki-metadata"
+                },
+                "CommonsMetadataExtension": {
+                  "value": 1.2,
+                  "source": "extension",
+                  "hidden": ""
+                },
+                "Categories": {
+                  "value": "Self-published work|Creative Commons Attribution 4.0 missing SDC copyright license|Creative Commons Attribution missing SDC copyright status|Self-published work missing SDC copyright license|Sextus Julius Africanus",
+                  "source": "commons-categories",
+                  "hidden": ""
+                },
+                "Assessments": {
+                  "value": "",
+                  "source": "commons-categories",
+                  "hidden": ""
+                },
+                "ImageDescription": {
+                  "value": "Feuersignalcodes des Polybios und des Sextus Iulius Africanus nach den Beschreibungen von Riepl (Wolfgang Riepl: <i>Das Nachrichtenwesen des Altertums.</i> Teubner, Leipzig 1913, S. 91-93 und 107-108).",
+                  "source": "commons-desc-page"
+                },
+                "DateTimeOriginal": {
+                  "value": "2026-06-07",
+                  "source": "commons-desc-page"
+                },
+                "Credit": {
+                  "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+                  "source": "commons-desc-page"
+                },
+                "Artist": {
+                  "value": "<a href=\"//commons.wikimedia.org/wiki/User:Stuhlfauth_Thomas\" title=\"User:Stuhlfauth Thomas\">Stuhlfauth Thomas</a>",
+                  "source": "commons-desc-page"
+                },
+                "LicenseShortName": {
+                  "value": "CC BY 4.0",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "UsageTerms": {
+                  "value": "Creative Commons Attribution 4.0",
+                  "source": "commons-desc-page"
+                },
+                "AttributionRequired": {
+                  "value": "true",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "LicenseUrl": {
+                  "value": "https://creativecommons.org/licenses/by/4.0",
+                  "source": "commons-desc-page"
+                },
+                "Copyrighted": {
+                  "value": "True",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "Restrictions": {
+                  "value": "",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "License": {
+                  "value": "cc-by-4.0",
+                  "source": "commons-templates",
+                  "hidden": ""
+                }
+              }
+            }
+          ]
+        },
+        {
+          "pageid": 193568830,
+          "ns": 6,
+          "title": "File:Signalcode am Römerturm (Lateinisches Alphabet) JPG.jpg",
+          "index": 5,
+          "imagerepository": "local",
+          "imageinfo": [
+            {
+              "size": 92204,
+              "width": 1208,
+              "height": 593,
+              "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a9/Signalcode_am_R%C3%B6merturm_%28Lateinisches_Alphabet%29_JPG.jpg/500px-Signalcode_am_R%C3%B6merturm_%28Lateinisches_Alphabet%29_JPG.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+              "thumbwidth": 400,
+              "thumbheight": 196,
+              "responsiveUrls": {
+                "2": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a9/Signalcode_am_R%C3%B6merturm_%28Lateinisches_Alphabet%29_JPG.jpg/960px-Signalcode_am_R%C3%B6merturm_%28Lateinisches_Alphabet%29_JPG.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+              },
+              "thumbattribs": {
+                "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a9/Signalcode_am_R%C3%B6merturm_%28Lateinisches_Alphabet%29_JPG.jpg/500px-Signalcode_am_R%C3%B6merturm_%28Lateinisches_Alphabet%29_JPG.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+                "decoding": "async",
+                "loading": "lazy",
+                "width": 400,
+                "height": 196,
+                "srcset": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a9/Signalcode_am_R%C3%B6merturm_%28Lateinisches_Alphabet%29_JPG.jpg/960px-Signalcode_am_R%C3%B6merturm_%28Lateinisches_Alphabet%29_JPG.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail 2x"
+              },
+              "url": "https://upload.wikimedia.org/wikipedia/commons/a/a9/Signalcode_am_R%C3%B6merturm_%28Lateinisches_Alphabet%29_JPG.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+              "descriptionurl": "https://commons.wikimedia.org/wiki/File:Signalcode_am_R%C3%B6merturm_(Lateinisches_Alphabet)_JPG.jpg",
+              "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=193568830",
+              "extmetadata": {
+                "DateTime": {
+                  "value": "2026-06-08 19:59:18",
+                  "source": "mediawiki-metadata",
+                  "hidden": ""
+                },
+                "ObjectName": {
+                  "value": "Signalcode am Römerturm (Lateinisches Alphabet) JPG",
+                  "source": "mediawiki-metadata"
+                },
+                "CommonsMetadataExtension": {
+                  "value": 1.2,
+                  "source": "extension",
+                  "hidden": ""
+                },
+                "Categories": {
+                  "value": "Self-published work|Sextus Julius Africanus",
+                  "source": "commons-categories",
+                  "hidden": ""
+                },
+                "Assessments": {
+                  "value": "",
+                  "source": "commons-categories",
+                  "hidden": ""
+                },
+                "ImageDescription": {
+                  "value": "Adaptation des von Sextus Iulius Africanus beschriebenen Signalcodes unter Verwendung des im römischen Militär verwendeten Lateinischen Alphabets auf das von den Römern nach Vegetius und Darstellungen auf der Trajanssäule an Türmen eingesetzte Signalbalkensystem.",
+                  "source": "commons-desc-page"
+                },
+                "DateTimeOriginal": {
+                  "value": "2026-06-08",
+                  "source": "commons-desc-page"
+                },
+                "Credit": {
+                  "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+                  "source": "commons-desc-page"
+                },
+                "Artist": {
+                  "value": "<a href=\"//commons.wikimedia.org/wiki/User:Stuhlfauth_Thomas\" title=\"User:Stuhlfauth Thomas\">Stuhlfauth Thomas</a>",
+                  "source": "commons-desc-page"
+                },
+                "LicenseShortName": {
+                  "value": "CC BY 4.0",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "UsageTerms": {
+                  "value": "Creative Commons Attribution 4.0",
+                  "source": "commons-desc-page"
+                },
+                "AttributionRequired": {
+                  "value": "true",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "LicenseUrl": {
+                  "value": "https://creativecommons.org/licenses/by/4.0",
+                  "source": "commons-desc-page"
+                },
+                "Copyrighted": {
+                  "value": "True",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "Restrictions": {
+                  "value": "",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "License": {
+                  "value": "cc-by-4.0",
+                  "source": "commons-templates",
+                  "hidden": ""
+                }
+              }
+            }
+          ]
+        },
+        {
+          "pageid": 193840915,
+          "ns": 6,
+          "title": "File:Fire signal codes of Polybius & Sextus Julius Africanus.pdf",
+          "index": 1,
+          "imagerepository": "local",
+          "imageinfo": [
+            {
+              "size": 191825,
+              "width": 1752,
+              "height": 1239,
+              "pagecount": 1,
+              "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/bb/Fire_signal_codes_of_Polybius_%26_Sextus_Julius_Africanus.pdf/page1-500px-Fire_signal_codes_of_Polybius_%26_Sextus_Julius_Africanus.pdf.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+              "thumbwidth": 400,
+              "thumbheight": 283,
+              "responsiveUrls": {
+                "2": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/bb/Fire_signal_codes_of_Polybius_%26_Sextus_Julius_Africanus.pdf/page1-960px-Fire_signal_codes_of_Polybius_%26_Sextus_Julius_Africanus.pdf.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+              },
+              "thumbattribs": {
+                "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/bb/Fire_signal_codes_of_Polybius_%26_Sextus_Julius_Africanus.pdf/page1-500px-Fire_signal_codes_of_Polybius_%26_Sextus_Julius_Africanus.pdf.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+                "decoding": "async",
+                "loading": "lazy",
+                "width": 400,
+                "height": 283,
+                "srcset": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/bb/Fire_signal_codes_of_Polybius_%26_Sextus_Julius_Africanus.pdf/page1-960px-Fire_signal_codes_of_Polybius_%26_Sextus_Julius_Africanus.pdf.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail 2x"
+              },
+              "url": "https://upload.wikimedia.org/wikipedia/commons/b/bb/Fire_signal_codes_of_Polybius_%26_Sextus_Julius_Africanus.pdf?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+              "descriptionurl": "https://commons.wikimedia.org/wiki/File:Fire_signal_codes_of_Polybius_%26_Sextus_Julius_Africanus.pdf",
+              "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=193840915",
+              "extmetadata": {
+                "DateTime": {
+                  "value": "2026-06-14 10:46:31",
+                  "source": "mediawiki-metadata",
+                  "hidden": ""
+                },
+                "ObjectName": {
+                  "value": "Fire signal codes of Polybius & Sextus Julius Africanus",
+                  "source": "mediawiki-metadata"
+                },
+                "CommonsMetadataExtension": {
+                  "value": 1.2,
+                  "source": "extension",
+                  "hidden": ""
+                },
+                "Categories": {
+                  "value": "Polybius|Self-published work|Creative Commons Attribution 4.0 missing SDC copyright license|Creative Commons Attribution missing SDC copyright status|Self-published work missing SDC copyright license|Sextus Julius Africanus",
+                  "source": "commons-categories",
+                  "hidden": ""
+                },
+                "Assessments": {
+                  "value": "",
+                  "source": "commons-categories",
+                  "hidden": ""
+                },
+                "ImageDescription": {
+                  "value": "Fire signal codes of Polybius and Sextus Julius Africanus as reported by Riepl (Wolfgang Riepl: Das Nachrichtenwesen des Altertums, Teubner, Leipzig 1913, p. 91-93 and 107-108).",
+                  "source": "commons-desc-page"
+                },
+                "DateTimeOriginal": {
+                  "value": "2026-06-14",
+                  "source": "commons-desc-page"
+                },
+                "Credit": {
+                  "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+                  "source": "commons-desc-page"
+                },
+                "Artist": {
+                  "value": "<a href=\"//commons.wikimedia.org/wiki/User:Stuhlfauth_Thomas\" title=\"User:Stuhlfauth Thomas\">Stuhlfauth Thomas</a>",
+                  "source": "commons-desc-page"
+                },
+                "LicenseShortName": {
+                  "value": "CC BY 4.0",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "UsageTerms": {
+                  "value": "Creative Commons Attribution 4.0",
+                  "source": "commons-desc-page"
+                },
+                "AttributionRequired": {
+                  "value": "true",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "LicenseUrl": {
+                  "value": "https://creativecommons.org/licenses/by/4.0",
+                  "source": "commons-desc-page"
+                },
+                "Copyrighted": {
+                  "value": "True",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "Restrictions": {
+                  "value": "",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "License": {
+                  "value": "cc-by-4.0",
+                  "source": "commons-templates",
+                  "hidden": ""
+                }
+              }
+            }
+          ]
+        },
+        {
+          "pageid": 194156467,
+          "ns": 6,
+          "title": "File:Signalcode des Sextus Iulius Africanus.jpg",
+          "index": 3,
+          "imagerepository": "local",
+          "imageinfo": [
+            {
+              "size": 61962,
+              "width": 1012,
+              "height": 396,
+              "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4d/Signalcode_des_Sextus_Iulius_Africanus.jpg/500px-Signalcode_des_Sextus_Iulius_Africanus.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+              "thumbwidth": 400,
+              "thumbheight": 157,
+              "responsiveUrls": {
+                "2": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4d/Signalcode_des_Sextus_Iulius_Africanus.jpg/960px-Signalcode_des_Sextus_Iulius_Africanus.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+              },
+              "thumbattribs": {
+                "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4d/Signalcode_des_Sextus_Iulius_Africanus.jpg/500px-Signalcode_des_Sextus_Iulius_Africanus.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+                "decoding": "async",
+                "loading": "lazy",
+                "width": 400,
+                "height": 157,
+                "srcset": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4d/Signalcode_des_Sextus_Iulius_Africanus.jpg/960px-Signalcode_des_Sextus_Iulius_Africanus.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail 2x"
+              },
+              "url": "https://upload.wikimedia.org/wikipedia/commons/4/4d/Signalcode_des_Sextus_Iulius_Africanus.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+              "descriptionurl": "https://commons.wikimedia.org/wiki/File:Signalcode_des_Sextus_Iulius_Africanus.jpg",
+              "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=194156467",
+              "extmetadata": {
+                "DateTime": {
+                  "value": "2026-06-19 18:37:05",
+                  "source": "mediawiki-metadata",
+                  "hidden": ""
+                },
+                "ObjectName": {
+                  "value": "Signalcode des Sextus Iulius Africanus",
+                  "source": "mediawiki-metadata"
+                },
+                "CommonsMetadataExtension": {
+                  "value": 1.2,
+                  "source": "extension",
+                  "hidden": ""
+                },
+                "Categories": {
+                  "value": "Self-published work|Creative Commons Attribution 4.0 missing SDC copyright license|Creative Commons Attribution missing SDC copyright status|Self-published work missing SDC copyright license|Sextus Julius Africanus",
+                  "source": "commons-categories",
+                  "hidden": ""
+                },
+                "Assessments": {
+                  "value": "",
+                  "source": "commons-categories",
+                  "hidden": ""
+                },
+                "ImageDescription": {
+                  "value": "Feuersignalcode (Fanalcode) des Sextus Iulius Africanus",
+                  "source": "commons-desc-page"
+                },
+                "DateTimeOriginal": {
+                  "value": "2026-06-19",
+                  "source": "commons-desc-page"
+                },
+                "Credit": {
+                  "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+                  "source": "commons-desc-page"
+                },
+                "Artist": {
+                  "value": "<a href=\"//commons.wikimedia.org/wiki/User:Stuhlfauth_Thomas\" title=\"User:Stuhlfauth Thomas\">Stuhlfauth Thomas</a>",
+                  "source": "commons-desc-page"
+                },
+                "LicenseShortName": {
+                  "value": "CC BY 4.0",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "UsageTerms": {
+                  "value": "Creative Commons Attribution 4.0",
+                  "source": "commons-desc-page"
+                },
+                "AttributionRequired": {
+                  "value": "true",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "LicenseUrl": {
+                  "value": "https://creativecommons.org/licenses/by/4.0",
+                  "source": "commons-desc-page"
+                },
+                "Copyrighted": {
+                  "value": "True",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "Restrictions": {
+                  "value": "",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "License": {
+                  "value": "cc-by-4.0",
+                  "source": "commons-templates",
+                  "hidden": ""
+                }
+              }
+            }
+          ]
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,511 @@
+{
+  "person_id": "ammonius-saccas",
+  "query": "Ammonius Saccas",
+  "response": {
+    "batchcomplete": true,
+    "continue": {
+      "gsroffset": 5,
+      "continue": "gsroffset||"
+    },
+    "query": {
+      "pages": [
+        {
+          "pageid": 40408968,
+          "ns": 6,
+          "title": "File:Works by the late Horace Hayman Wilson Vol 6.djvu",
+          "index": 4,
+          "imagerepository": "local",
+          "imageinfo": [
+            {
+              "size": 25438174,
+              "width": 2179,
+              "height": 3511,
+              "pagecount": 388,
+              "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f1/Works_by_the_late_Horace_Hayman_Wilson_Vol_6.djvu/page1-500px-Works_by_the_late_Horace_Hayman_Wilson_Vol_6.djvu.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+              "thumbwidth": 400,
+              "thumbheight": 645,
+              "responsiveUrls": {
+                "2": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f1/Works_by_the_late_Horace_Hayman_Wilson_Vol_6.djvu/page1-960px-Works_by_the_late_Horace_Hayman_Wilson_Vol_6.djvu.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+              },
+              "thumbattribs": {
+                "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f1/Works_by_the_late_Horace_Hayman_Wilson_Vol_6.djvu/page1-500px-Works_by_the_late_Horace_Hayman_Wilson_Vol_6.djvu.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+                "decoding": "async",
+                "loading": "lazy",
+                "width": 400,
+                "height": 645,
+                "srcset": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f1/Works_by_the_late_Horace_Hayman_Wilson_Vol_6.djvu/page1-960px-Works_by_the_late_Horace_Hayman_Wilson_Vol_6.djvu.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail 2x"
+              },
+              "url": "https://upload.wikimedia.org/wikipedia/commons/f/f1/Works_by_the_late_Horace_Hayman_Wilson_Vol_6.djvu?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+              "descriptionurl": "https://commons.wikimedia.org/wiki/File:Works_by_the_late_Horace_Hayman_Wilson_Vol_6.djvu",
+              "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=40408968",
+              "extmetadata": {
+                "DateTime": {
+                  "value": "2015-05-24 05:27:58",
+                  "source": "mediawiki-metadata",
+                  "hidden": ""
+                },
+                "ObjectName": {
+                  "value": "<div class=\"fn\">\nWorks by the late Horace Hayman Wilson ..</div>",
+                  "source": "commons-desc-page"
+                },
+                "CommonsMetadataExtension": {
+                  "value": 1.2,
+                  "source": "extension",
+                  "hidden": ""
+                },
+                "Categories": {
+                  "value": "Horace Hayman Wilson|PD-old-70-expired|1862 books|Scans from the Internet Archive/unverified|CC-PD-Mark|Scans from the Internet Archive|Books published in London|Books without Wikidata item",
+                  "source": "commons-categories",
+                  "hidden": ""
+                },
+                "Assessments": {
+                  "value": "",
+                  "source": "commons-categories",
+                  "hidden": ""
+                },
+                "Artist": {
+                  "value": "<div class=\"fn value\">\nWilson, H. H. (Horace Hayman), 1786-1860</div>",
+                  "source": "commons-desc-page"
+                },
+                "ImageDescription": {
+                  "value": "<div class=\"description\">\nIncludes bibliographical references and index</div>",
+                  "source": "commons-desc-page"
+                },
+                "Credit": {
+                  "value": "<a href=\"//archive.org/details/worksbylatehorace06wils\" class=\"extiw\" title=\"iarchive:worksbylatehorace06wils\"><bdi class=\"description en\" lang=\"en\" dir=\"ltr\">Internet Archive identifier</bdi>: worksbylatehorace06wils</a>",
+                  "source": "commons-desc-page"
+                },
+                "LicenseShortName": {
+                  "value": "Public domain",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "UsageTerms": {
+                  "value": "Public domain",
+                  "source": "commons-desc-page"
+                },
+                "AttributionRequired": {
+                  "value": "false",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "Copyrighted": {
+                  "value": "False",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "Restrictions": {
+                  "value": "",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "License": {
+                  "value": "pd",
+                  "source": "commons-templates",
+                  "hidden": ""
+                }
+              }
+            }
+          ]
+        },
+        {
+          "pageid": 63415778,
+          "ns": 6,
+          "title": "File:Egyptian encaustic funerary portrait of a man named Ammonios.jpg",
+          "index": 1,
+          "imagerepository": "local",
+          "imageinfo": [
+            {
+              "size": 53623,
+              "width": 400,
+              "height": 600,
+              "thumburl": "https://upload.wikimedia.org/wikipedia/commons/0/0f/Egyptian_encaustic_funerary_portrait_of_a_man_named_Ammonios.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+              "thumbwidth": 400,
+              "thumbheight": 600,
+              "thumbattribs": {
+                "src": "https://upload.wikimedia.org/wikipedia/commons/0/0f/Egyptian_encaustic_funerary_portrait_of_a_man_named_Ammonios.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+                "decoding": "async",
+                "loading": "lazy",
+                "width": 400,
+                "height": 600
+              },
+              "url": "https://upload.wikimedia.org/wikipedia/commons/0/0f/Egyptian_encaustic_funerary_portrait_of_a_man_named_Ammonios.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+              "descriptionurl": "https://commons.wikimedia.org/wiki/File:Egyptian_encaustic_funerary_portrait_of_a_man_named_Ammonios.jpg",
+              "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=63415778",
+              "extmetadata": {
+                "DateTime": {
+                  "value": "2017-10-16 22:11:29",
+                  "source": "mediawiki-metadata",
+                  "hidden": ""
+                },
+                "ObjectName": {
+                  "value": "Egyptian encaustic funerary portrait of a man named Ammonios",
+                  "source": "mediawiki-metadata"
+                },
+                "CommonsMetadataExtension": {
+                  "value": 1.2,
+                  "source": "extension",
+                  "hidden": ""
+                },
+                "Categories": {
+                  "value": "PD-old-100-expired|PD-Art (PD-old-100-expired)|Template Unknown (author)|CC-PD-Mark|PD-Art missing SDC copyright status|PD-old missing SDC copyright status|Fayum mummy portrait (AM-0M0-R-000E-1)",
+                  "source": "commons-categories",
+                  "hidden": ""
+                },
+                "Assessments": {
+                  "value": "",
+                  "source": "commons-categories",
+                  "hidden": ""
+                },
+                "ImageDescription": {
+                  "value": "Encaustic funerary portrait of an Egyptian man named Ammonios from the city of Antinopolis, dated to between c. 225 and c. 250 AD",
+                  "source": "commons-desc-page"
+                },
+                "DateTimeOriginal": {
+                  "value": "c. 225 - c. 250 AD",
+                  "source": "commons-desc-page"
+                },
+                "Credit": {
+                  "value": "<a rel=\"nofollow\" class=\"external free\" href=\"https://www.allposters.com/-sp/Fayum-Portrait-of-Ammonius-from-Antinoe-Encaustic-Wax-on-Linen-Posters_i1342261_.htm\">https://www.allposters.com/-sp/Fayum-Portrait-of-Ammonius-from-Antinoe-Encaustic-Wax-on-Linen-Posters_i1342261_.htm</a>",
+                  "source": "commons-desc-page"
+                },
+                "Artist": {
+                  "value": "Unknown author<span style=\"display: none;\">Unknown author</span>",
+                  "source": "commons-desc-page"
+                },
+                "LicenseShortName": {
+                  "value": "Public domain",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "UsageTerms": {
+                  "value": "Public domain",
+                  "source": "commons-desc-page"
+                },
+                "AttributionRequired": {
+                  "value": "false",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "Copyrighted": {
+                  "value": "False",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "Restrictions": {
+                  "value": "",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "License": {
+                  "value": "pd",
+                  "source": "commons-templates",
+                  "hidden": ""
+                }
+              }
+            }
+          ]
+        },
+        {
+          "pageid": 76034195,
+          "ns": 6,
+          "title": "File:Geschichte der Philosophie by Albert Schwegler 506.jpg",
+          "index": 2,
+          "imagerepository": "local",
+          "imageinfo": [
+            {
+              "size": 14594674,
+              "width": 3390,
+              "height": 5213,
+              "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/db/Geschichte_der_Philosophie_by_Albert_Schwegler_506.jpg/500px-Geschichte_der_Philosophie_by_Albert_Schwegler_506.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+              "thumbwidth": 400,
+              "thumbheight": 615,
+              "responsiveUrls": {
+                "2": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/db/Geschichte_der_Philosophie_by_Albert_Schwegler_506.jpg/960px-Geschichte_der_Philosophie_by_Albert_Schwegler_506.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+              },
+              "thumbattribs": {
+                "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/db/Geschichte_der_Philosophie_by_Albert_Schwegler_506.jpg/500px-Geschichte_der_Philosophie_by_Albert_Schwegler_506.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+                "decoding": "async",
+                "loading": "lazy",
+                "width": 400,
+                "height": 615,
+                "srcset": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/db/Geschichte_der_Philosophie_by_Albert_Schwegler_506.jpg/960px-Geschichte_der_Philosophie_by_Albert_Schwegler_506.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail 2x"
+              },
+              "url": "https://upload.wikimedia.org/wikipedia/commons/d/db/Geschichte_der_Philosophie_by_Albert_Schwegler_506.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+              "descriptionurl": "https://commons.wikimedia.org/wiki/File:Geschichte_der_Philosophie_by_Albert_Schwegler_506.jpg",
+              "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=76034195",
+              "extmetadata": {
+                "DateTime": {
+                  "value": "2019-01-22 21:46:24",
+                  "source": "mediawiki-metadata",
+                  "hidden": ""
+                },
+                "ObjectName": {
+                  "value": "Geschichte der Philosophie by Albert Schwegler 506",
+                  "source": "mediawiki-metadata"
+                },
+                "CommonsMetadataExtension": {
+                  "value": 1.2,
+                  "source": "extension",
+                  "hidden": ""
+                },
+                "Categories": {
+                  "value": "PD-old-80-expired|CC-PD-Mark|Geschichte der Philosophie im Umriss by Albert Schwegler|PD-old missing SDC copyright status",
+                  "source": "commons-categories",
+                  "hidden": ""
+                },
+                "Assessments": {
+                  "value": "",
+                  "source": "commons-categories",
+                  "hidden": ""
+                },
+                "ImageDescription": {
+                  "value": "Buch: Geschichte der Philosophie im Umriß. Ein Leitfaden zur Übersicht. Neue Ausgabe, durchgesehen und ergänzt von Jakob Stern (Reclams Universal-Bibliothek. Band 2541/2545), Leipzig: Reclam, o. J. [1889].",
+                  "source": "commons-desc-page"
+                },
+                "DateTimeOriginal": {
+                  "value": "2019-01-20 16:26:11",
+                  "source": "commons-desc-page"
+                },
+                "Credit": {
+                  "value": "Geschichte der Philosophie im Umriß",
+                  "source": "commons-desc-page"
+                },
+                "Artist": {
+                  "value": "Albert Schwegler (1819 - 1857)",
+                  "source": "commons-desc-page"
+                },
+                "LicenseShortName": {
+                  "value": "Public domain",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "UsageTerms": {
+                  "value": "Public domain",
+                  "source": "commons-desc-page"
+                },
+                "AttributionRequired": {
+                  "value": "false",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "Copyrighted": {
+                  "value": "False",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "Restrictions": {
+                  "value": "",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "License": {
+                  "value": "pd",
+                  "source": "commons-templates",
+                  "hidden": ""
+                }
+              }
+            }
+          ]
+        },
+        {
+          "pageid": 76034550,
+          "ns": 6,
+          "title": "File:Geschichte der Philosophie by Albert Schwegler 511.jpg",
+          "index": 3,
+          "imagerepository": "local",
+          "imageinfo": [
+            {
+              "size": 15716726,
+              "width": 3422,
+              "height": 5407,
+              "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0e/Geschichte_der_Philosophie_by_Albert_Schwegler_511.jpg/500px-Geschichte_der_Philosophie_by_Albert_Schwegler_511.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+              "thumbwidth": 400,
+              "thumbheight": 632,
+              "responsiveUrls": {
+                "2": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0e/Geschichte_der_Philosophie_by_Albert_Schwegler_511.jpg/960px-Geschichte_der_Philosophie_by_Albert_Schwegler_511.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+              },
+              "thumbattribs": {
+                "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0e/Geschichte_der_Philosophie_by_Albert_Schwegler_511.jpg/500px-Geschichte_der_Philosophie_by_Albert_Schwegler_511.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+                "decoding": "async",
+                "loading": "lazy",
+                "width": 400,
+                "height": 632,
+                "srcset": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0e/Geschichte_der_Philosophie_by_Albert_Schwegler_511.jpg/960px-Geschichte_der_Philosophie_by_Albert_Schwegler_511.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail 2x"
+              },
+              "url": "https://upload.wikimedia.org/wikipedia/commons/0/0e/Geschichte_der_Philosophie_by_Albert_Schwegler_511.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+              "descriptionurl": "https://commons.wikimedia.org/wiki/File:Geschichte_der_Philosophie_by_Albert_Schwegler_511.jpg",
+              "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=76034550",
+              "extmetadata": {
+                "DateTime": {
+                  "value": "2019-01-22 22:01:14",
+                  "source": "mediawiki-metadata",
+                  "hidden": ""
+                },
+                "ObjectName": {
+                  "value": "Geschichte der Philosophie by Albert Schwegler 511",
+                  "source": "mediawiki-metadata"
+                },
+                "CommonsMetadataExtension": {
+                  "value": 1.2,
+                  "source": "extension",
+                  "hidden": ""
+                },
+                "Categories": {
+                  "value": "Pyrrho|PD-old-80-expired|CC-PD-Mark|Geschichte der Philosophie im Umriss by Albert Schwegler|PD-old missing SDC copyright status",
+                  "source": "commons-categories",
+                  "hidden": ""
+                },
+                "Assessments": {
+                  "value": "",
+                  "source": "commons-categories",
+                  "hidden": ""
+                },
+                "ImageDescription": {
+                  "value": "Buch: Geschichte der Philosophie im Umriß. Ein Leitfaden zur Übersicht. Neue Ausgabe, durchgesehen und ergänzt von Jakob Stern (Reclams Universal-Bibliothek. Band 2541/2545), Leipzig: Reclam, o. J. [1889].",
+                  "source": "commons-desc-page"
+                },
+                "DateTimeOriginal": {
+                  "value": "2019-01-20 16:26:38",
+                  "source": "commons-desc-page"
+                },
+                "Credit": {
+                  "value": "Geschichte der Philosophie im Umriß",
+                  "source": "commons-desc-page"
+                },
+                "Artist": {
+                  "value": "Albert Schwegler (1819 - 1857)",
+                  "source": "commons-desc-page"
+                },
+                "LicenseShortName": {
+                  "value": "Public domain",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "UsageTerms": {
+                  "value": "Public domain",
+                  "source": "commons-desc-page"
+                },
+                "AttributionRequired": {
+                  "value": "false",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "Copyrighted": {
+                  "value": "False",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "Restrictions": {
+                  "value": "",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "License": {
+                  "value": "pd",
+                  "source": "commons-templates",
+                  "hidden": ""
+                }
+              }
+            }
+          ]
+        },
+        {
+          "pageid": 92699957,
+          "ns": 6,
+          "title": "File:Geschichte der Medicin (IA geschichtedermed00unse).pdf",
+          "index": 5,
+          "imagerepository": "local",
+          "imageinfo": [
+            {
+              "size": 51514102,
+              "width": 791,
+              "height": 1327,
+              "pagecount": 864,
+              "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8c/Geschichte_der_Medicin_%28IA_geschichtedermed00unse%29.pdf/page1-500px-Geschichte_der_Medicin_%28IA_geschichtedermed00unse%29.pdf.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+              "thumbwidth": 400,
+              "thumbheight": 671,
+              "thumbattribs": {
+                "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8c/Geschichte_der_Medicin_%28IA_geschichtedermed00unse%29.pdf/page1-500px-Geschichte_der_Medicin_%28IA_geschichtedermed00unse%29.pdf.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+                "decoding": "async",
+                "loading": "lazy",
+                "width": 400,
+                "height": 671
+              },
+              "url": "https://upload.wikimedia.org/wikipedia/commons/8/8c/Geschichte_der_Medicin_%28IA_geschichtedermed00unse%29.pdf?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+              "descriptionurl": "https://commons.wikimedia.org/wiki/File:Geschichte_der_Medicin_(IA_geschichtedermed00unse).pdf",
+              "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=92699957",
+              "extmetadata": {
+                "DateTime": {
+                  "value": "2020-07-29 11:08:17",
+                  "source": "mediawiki-metadata",
+                  "hidden": ""
+                },
+                "ObjectName": {
+                  "value": "<div class=\"fn\">\nGeschichte der Medicin</div>",
+                  "source": "commons-desc-page"
+                },
+                "CommonsMetadataExtension": {
+                  "value": 1.2,
+                  "source": "extension",
+                  "hidden": ""
+                },
+                "Categories": {
+                  "value": "PD-old-100-expired|Scans from the Internet Archive/unverified|CC-PD-Mark|Scans from the Internet Archive|Books uploaded by Fæ|Books without Wikidata item|Medical Heritage Library|PD-old missing SDC copyright status|Eduard Morwitz",
+                  "source": "commons-categories",
+                  "hidden": ""
+                },
+                "Assessments": {
+                  "value": "",
+                  "source": "commons-categories",
+                  "hidden": ""
+                },
+                "Artist": {
+                  "value": "<div class=\"fn value\">\nMorwitz, E.(Eduard)</div>",
+                  "source": "commons-desc-page"
+                },
+                "ImageDescription": {
+                  "value": "<div class=\"description\">\n<p>Vol. ii is a chronological bibliography\n</p>\n<br>Subjects: Medicine</div>",
+                  "source": "commons-desc-page"
+                },
+                "Credit": {
+                  "value": "<dl><dd><a href=\"//archive.org/details/geschichtedermed00unse\" class=\"extiw\" title=\"iarchive:geschichtedermed00unse\"><bdi class=\"description en\" lang=\"en\" dir=\"ltr\">Internet Archive identifier</bdi>: geschichtedermed00unse</a></dd>\n<dd><a rel=\"nofollow\" class=\"external free\" href=\"https://archive.org/download/geschichtedermed00unse/geschichtedermed00unse.pdf\">https://archive.org/download/geschichtedermed00unse/geschichtedermed00unse.pdf</a></dd></dl>",
+                  "source": "commons-desc-page"
+                },
+                "LicenseShortName": {
+                  "value": "Public domain",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "UsageTerms": {
+                  "value": "Public domain",
+                  "source": "commons-desc-page"
+                },
+                "AttributionRequired": {
+                  "value": "false",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "Copyrighted": {
+                  "value": "False",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "Restrictions": {
+                  "value": "",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "License": {
+                  "value": "pd",
+                  "source": "commons-templates",
+                  "hidden": ""
+                }
+              }
+            }
+          ]
+        }
+      ]
+    }
+  }
+}

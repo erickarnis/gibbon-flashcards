@@ -1,0 +1,541 @@
+{
+  "person_id": "khosrov-ii-of-armenia",
+  "query": "Khosrov II of Armenia",
+  "response": {
+    "batchcomplete": true,
+    "continue": {
+      "gsroffset": 5,
+      "continue": "gsroffset||"
+    },
+    "query": {
+      "pages": [
+        {
+          "pageid": 40949993,
+          "ns": 6,
+          "title": "File:Khosrov II of Armenia killed by Anak.jpg",
+          "index": 1,
+          "imagerepository": "local",
+          "imageinfo": [
+            {
+              "size": 3393727,
+              "width": 2033,
+              "height": 3217,
+              "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c1/Khosrov_II_of_Armenia_killed_by_Anak.jpg/500px-Khosrov_II_of_Armenia_killed_by_Anak.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+              "thumbwidth": 400,
+              "thumbheight": 633,
+              "responsiveUrls": {
+                "2": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c1/Khosrov_II_of_Armenia_killed_by_Anak.jpg/960px-Khosrov_II_of_Armenia_killed_by_Anak.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+              },
+              "thumbattribs": {
+                "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c1/Khosrov_II_of_Armenia_killed_by_Anak.jpg/500px-Khosrov_II_of_Armenia_killed_by_Anak.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+                "decoding": "async",
+                "loading": "lazy",
+                "width": 400,
+                "height": 633,
+                "srcset": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c1/Khosrov_II_of_Armenia_killed_by_Anak.jpg/960px-Khosrov_II_of_Armenia_killed_by_Anak.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail 2x"
+              },
+              "url": "https://upload.wikimedia.org/wikipedia/commons/c/c1/Khosrov_II_of_Armenia_killed_by_Anak.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+              "descriptionurl": "https://commons.wikimedia.org/wiki/File:Khosrov_II_of_Armenia_killed_by_Anak.jpg",
+              "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=40949993",
+              "extmetadata": {
+                "DateTime": {
+                  "value": "2015-06-13 21:25:51",
+                  "source": "mediawiki-metadata",
+                  "hidden": ""
+                },
+                "ObjectName": {
+                  "value": "Khosrov II of Armenia killed by Anak",
+                  "source": "mediawiki-metadata"
+                },
+                "CommonsMetadataExtension": {
+                  "value": 1.2,
+                  "source": "extension",
+                  "hidden": ""
+                },
+                "Categories": {
+                  "value": "Khosrov II of Armenia|PD Old|CC-PD-Mark|PD-old missing SDC copyright status|The experience of writing of the history of the Kingdom of Armenia",
+                  "source": "commons-categories",
+                  "hidden": ""
+                },
+                "Assessments": {
+                  "value": "",
+                  "source": "commons-categories",
+                  "hidden": ""
+                },
+                "ImageDescription": {
+                  "value": "Царь Армении Хосров II, убитый Анаком.",
+                  "source": "commons-desc-page"
+                },
+                "DateTimeOriginal": {
+                  "value": "1827",
+                  "source": "commons-desc-page"
+                },
+                "Credit": {
+                  "value": "Yakov Arzanov and David Arzanov // «The experience of writing of the hostory of the Kingdom of Armenia» (Яков и Давид Арзановы // «Опыт написания истории Армянского царства»)",
+                  "source": "commons-desc-page"
+                },
+                "Artist": {
+                  "value": "Yakov Arzanov and David Arzanov",
+                  "source": "commons-desc-page"
+                },
+                "LicenseShortName": {
+                  "value": "Public domain",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "UsageTerms": {
+                  "value": "Public domain",
+                  "source": "commons-desc-page"
+                },
+                "AttributionRequired": {
+                  "value": "false",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "Copyrighted": {
+                  "value": "False",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "Restrictions": {
+                  "value": "",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "License": {
+                  "value": "pd",
+                  "source": "commons-templates",
+                  "hidden": ""
+                }
+              }
+            }
+          ]
+        },
+        {
+          "pageid": 47581352,
+          "ns": 6,
+          "title": "File:Sasanid shah Khosrov II (Zaranj), silver, dirham.jpg",
+          "index": 5,
+          "imagerepository": "local",
+          "imageinfo": [
+            {
+              "size": 69054,
+              "width": 634,
+              "height": 575,
+              "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8e/Sasanid_shah_Khosrov_II_%28Zaranj%29%2C_silver%2C_dirham.jpg/500px-Sasanid_shah_Khosrov_II_%28Zaranj%29%2C_silver%2C_dirham.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+              "thumbwidth": 400,
+              "thumbheight": 363,
+              "responsiveUrls": {
+                "2": "https://upload.wikimedia.org/wikipedia/commons/8/8e/Sasanid_shah_Khosrov_II_%28Zaranj%29%2C_silver%2C_dirham.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled"
+              },
+              "thumbattribs": {
+                "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8e/Sasanid_shah_Khosrov_II_%28Zaranj%29%2C_silver%2C_dirham.jpg/500px-Sasanid_shah_Khosrov_II_%28Zaranj%29%2C_silver%2C_dirham.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+                "decoding": "async",
+                "loading": "lazy",
+                "width": 400,
+                "height": 363,
+                "srcset": "https://upload.wikimedia.org/wikipedia/commons/8/8e/Sasanid_shah_Khosrov_II_%28Zaranj%29%2C_silver%2C_dirham.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled 2x"
+              },
+              "url": "https://upload.wikimedia.org/wikipedia/commons/8/8e/Sasanid_shah_Khosrov_II_%28Zaranj%29%2C_silver%2C_dirham.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+              "descriptionurl": "https://commons.wikimedia.org/wiki/File:Sasanid_shah_Khosrov_II_(Zaranj),_silver,_dirham.jpg",
+              "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=47581352",
+              "extmetadata": {
+                "DateTime": {
+                  "value": "2016-03-17 11:23:42",
+                  "source": "mediawiki-metadata",
+                  "hidden": ""
+                },
+                "ObjectName": {
+                  "value": "Sasanid shah Khosrov II (Zaranj), silver, dirham",
+                  "source": "mediawiki-metadata"
+                },
+                "CommonsMetadataExtension": {
+                  "value": 1.2,
+                  "source": "extension",
+                  "hidden": ""
+                },
+                "Categories": {
+                  "value": "Self-published work|Sassanid coins in the Museum of History of Azerbaijan|Coins on black background|Stars on coins|Sassanid drachma|Star with crescent on coins|Coins of Khosrau II|Pahlavi-alphabet inscriptions",
+                  "source": "commons-categories",
+                  "hidden": ""
+                },
+                "Assessments": {
+                  "value": "",
+                  "source": "commons-categories",
+                  "hidden": ""
+                },
+                "ImageDescription": {
+                  "value": "Sasanid shah Khosrov II (Zaranj), silver, dirham",
+                  "source": "commons-desc-page"
+                },
+                "DateTimeOriginal": {
+                  "value": "2016-02-18 13:54:10",
+                  "source": "commons-desc-page"
+                },
+                "Credit": {
+                  "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+                  "source": "commons-desc-page"
+                },
+                "Artist": {
+                  "value": "<a href=\"//commons.wikimedia.org/wiki/User:Interfase\" title=\"User:Interfase\">Interfase</a>",
+                  "source": "commons-desc-page"
+                },
+                "LicenseShortName": {
+                  "value": "CC BY-SA 4.0",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "UsageTerms": {
+                  "value": "Creative Commons Attribution-Share Alike 4.0",
+                  "source": "commons-desc-page"
+                },
+                "AttributionRequired": {
+                  "value": "true",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "LicenseUrl": {
+                  "value": "https://creativecommons.org/licenses/by-sa/4.0",
+                  "source": "commons-desc-page"
+                },
+                "Copyrighted": {
+                  "value": "True",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "Restrictions": {
+                  "value": "",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "License": {
+                  "value": "cc-by-sa-4.0",
+                  "source": "commons-templates",
+                  "hidden": ""
+                }
+              }
+            }
+          ]
+        },
+        {
+          "pageid": 47581353,
+          "ns": 6,
+          "title": "File:Sasanid shah Khosrov II (Rey), silver, dirham.jpg",
+          "index": 4,
+          "imagerepository": "local",
+          "imageinfo": [
+            {
+              "size": 56937,
+              "width": 617,
+              "height": 484,
+              "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fd/Sasanid_shah_Khosrov_II_%28Rey%29%2C_silver%2C_dirham.jpg/500px-Sasanid_shah_Khosrov_II_%28Rey%29%2C_silver%2C_dirham.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+              "thumbwidth": 400,
+              "thumbheight": 314,
+              "responsiveUrls": {
+                "2": "https://upload.wikimedia.org/wikipedia/commons/f/fd/Sasanid_shah_Khosrov_II_%28Rey%29%2C_silver%2C_dirham.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled"
+              },
+              "thumbattribs": {
+                "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fd/Sasanid_shah_Khosrov_II_%28Rey%29%2C_silver%2C_dirham.jpg/500px-Sasanid_shah_Khosrov_II_%28Rey%29%2C_silver%2C_dirham.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+                "decoding": "async",
+                "loading": "lazy",
+                "width": 400,
+                "height": 314,
+                "srcset": "https://upload.wikimedia.org/wikipedia/commons/f/fd/Sasanid_shah_Khosrov_II_%28Rey%29%2C_silver%2C_dirham.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled 2x"
+              },
+              "url": "https://upload.wikimedia.org/wikipedia/commons/f/fd/Sasanid_shah_Khosrov_II_%28Rey%29%2C_silver%2C_dirham.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+              "descriptionurl": "https://commons.wikimedia.org/wiki/File:Sasanid_shah_Khosrov_II_(Rey),_silver,_dirham.jpg",
+              "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=47581353",
+              "extmetadata": {
+                "DateTime": {
+                  "value": "2016-03-17 11:23:42",
+                  "source": "mediawiki-metadata",
+                  "hidden": ""
+                },
+                "ObjectName": {
+                  "value": "Sasanid shah Khosrov II (Rey), silver, dirham",
+                  "source": "mediawiki-metadata"
+                },
+                "CommonsMetadataExtension": {
+                  "value": 1.2,
+                  "source": "extension",
+                  "hidden": ""
+                },
+                "Categories": {
+                  "value": "Self-published work|Art from Ray|Sassanid coins in the Museum of History of Azerbaijan|Coins on black background|Stars on coins|Sassanid drachma|Star with crescent on coins|Coins of Khosrau II|Pahlavi-alphabet inscriptions",
+                  "source": "commons-categories",
+                  "hidden": ""
+                },
+                "Assessments": {
+                  "value": "",
+                  "source": "commons-categories",
+                  "hidden": ""
+                },
+                "ImageDescription": {
+                  "value": "Sasanid shah Khosrov II (Rey), silver, dirham",
+                  "source": "commons-desc-page"
+                },
+                "DateTimeOriginal": {
+                  "value": "2016-02-18 13:54:10",
+                  "source": "commons-desc-page"
+                },
+                "Credit": {
+                  "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+                  "source": "commons-desc-page"
+                },
+                "Artist": {
+                  "value": "<a href=\"//commons.wikimedia.org/wiki/User:Interfase\" title=\"User:Interfase\">Interfase</a>",
+                  "source": "commons-desc-page"
+                },
+                "LicenseShortName": {
+                  "value": "CC BY-SA 4.0",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "UsageTerms": {
+                  "value": "Creative Commons Attribution-Share Alike 4.0",
+                  "source": "commons-desc-page"
+                },
+                "AttributionRequired": {
+                  "value": "true",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "LicenseUrl": {
+                  "value": "https://creativecommons.org/licenses/by-sa/4.0",
+                  "source": "commons-desc-page"
+                },
+                "Copyrighted": {
+                  "value": "True",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "Restrictions": {
+                  "value": "",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "License": {
+                  "value": "cc-by-sa-4.0",
+                  "source": "commons-templates",
+                  "hidden": ""
+                }
+              }
+            }
+          ]
+        },
+        {
+          "pageid": 130830033,
+          "ns": 6,
+          "title": "File:Coin of Tiridates II of Armenia.png",
+          "index": 2,
+          "imagerepository": "local",
+          "imageinfo": [
+            {
+              "size": 657180,
+              "width": 597,
+              "height": 561,
+              "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e7/Coin_of_Tiridates_II_of_Armenia.png/500px-Coin_of_Tiridates_II_of_Armenia.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+              "thumbwidth": 400,
+              "thumbheight": 376,
+              "responsiveUrls": {
+                "2": "https://upload.wikimedia.org/wikipedia/commons/e/e7/Coin_of_Tiridates_II_of_Armenia.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled"
+              },
+              "thumbattribs": {
+                "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e7/Coin_of_Tiridates_II_of_Armenia.png/500px-Coin_of_Tiridates_II_of_Armenia.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+                "decoding": "async",
+                "loading": "lazy",
+                "width": 400,
+                "height": 376,
+                "srcset": "https://upload.wikimedia.org/wikipedia/commons/e/e7/Coin_of_Tiridates_II_of_Armenia.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled 2x"
+              },
+              "url": "https://upload.wikimedia.org/wikipedia/commons/e/e7/Coin_of_Tiridates_II_of_Armenia.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+              "descriptionurl": "https://commons.wikimedia.org/wiki/File:Coin_of_Tiridates_II_of_Armenia.png",
+              "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=130830033",
+              "extmetadata": {
+                "DateTime": {
+                  "value": "2023-04-17 18:24:55",
+                  "source": "mediawiki-metadata",
+                  "hidden": ""
+                },
+                "ObjectName": {
+                  "value": "Coin of Tiridates II of Armenia",
+                  "source": "mediawiki-metadata"
+                },
+                "CommonsMetadataExtension": {
+                  "value": 1.2,
+                  "source": "extension",
+                  "hidden": ""
+                },
+                "Categories": {
+                  "value": "2nd-century people of Armenia|Coins of Tiridates II of Armenia",
+                  "source": "commons-categories",
+                  "hidden": ""
+                },
+                "Assessments": {
+                  "value": "",
+                  "source": "commons-categories",
+                  "hidden": ""
+                },
+                "ImageDescription": {
+                  "value": "Obverse of <a href=\"//commons.wikimedia.org/wiki/File:Coin_of_Tiridates_II_of_Armenia.jpg\" title=\"File:Coin of Tiridates II of Armenia.jpg\">File:Coin of Tiridates II of Armenia.jpg</a> attributed to Khosrov I the Brave of Armenia",
+                  "source": "commons-desc-page"
+                },
+                "DateTimeOriginal": {
+                  "value": "2019-05-25",
+                  "source": "commons-desc-page"
+                },
+                "Credit": {
+                  "value": "<a rel=\"nofollow\" class=\"external free\" href=\"https://leunumismatik.com/en/lot/11/353\">https://leunumismatik.com/en/lot/11/353</a>",
+                  "source": "commons-desc-page"
+                },
+                "Artist": {
+                  "value": "Leu Numismatik",
+                  "source": "commons-desc-page"
+                },
+                "LicenseShortName": {
+                  "value": "CC BY-SA 4.0",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "UsageTerms": {
+                  "value": "Creative Commons Attribution-Share Alike 4.0",
+                  "source": "commons-desc-page"
+                },
+                "AttributionRequired": {
+                  "value": "true",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "LicenseUrl": {
+                  "value": "https://creativecommons.org/licenses/by-sa/4.0",
+                  "source": "commons-desc-page"
+                },
+                "Copyrighted": {
+                  "value": "True",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "Restrictions": {
+                  "value": "",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "License": {
+                  "value": "cc-by-sa-4.0",
+                  "source": "commons-templates",
+                  "hidden": ""
+                }
+              }
+            }
+          ]
+        },
+        {
+          "pageid": 131776721,
+          "ns": 6,
+          "title": "File:Coin of Tiridates II of Armenia.jpg",
+          "index": 3,
+          "imagerepository": "local",
+          "imageinfo": [
+            {
+              "size": 702340,
+              "width": 1200,
+              "height": 561,
+              "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/87/Coin_of_Tiridates_II_of_Armenia.jpg/500px-Coin_of_Tiridates_II_of_Armenia.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+              "thumbwidth": 400,
+              "thumbheight": 187,
+              "responsiveUrls": {
+                "2": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/87/Coin_of_Tiridates_II_of_Armenia.jpg/960px-Coin_of_Tiridates_II_of_Armenia.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+              },
+              "thumbattribs": {
+                "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/87/Coin_of_Tiridates_II_of_Armenia.jpg/500px-Coin_of_Tiridates_II_of_Armenia.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+                "decoding": "async",
+                "loading": "lazy",
+                "width": 400,
+                "height": 187,
+                "srcset": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/87/Coin_of_Tiridates_II_of_Armenia.jpg/960px-Coin_of_Tiridates_II_of_Armenia.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail 2x"
+              },
+              "url": "https://upload.wikimedia.org/wikipedia/commons/8/87/Coin_of_Tiridates_II_of_Armenia.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+              "descriptionurl": "https://commons.wikimedia.org/wiki/File:Coin_of_Tiridates_II_of_Armenia.jpg",
+              "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=131776721",
+              "extmetadata": {
+                "DateTime": {
+                  "value": "2023-05-11 14:30:50",
+                  "source": "mediawiki-metadata",
+                  "hidden": ""
+                },
+                "ObjectName": {
+                  "value": "Coin of Tiridates II of Armenia",
+                  "source": "mediawiki-metadata"
+                },
+                "CommonsMetadataExtension": {
+                  "value": 1.2,
+                  "source": "extension",
+                  "hidden": ""
+                },
+                "Categories": {
+                  "value": "Coins of Tiridates II of Armenia",
+                  "source": "commons-categories",
+                  "hidden": ""
+                },
+                "Assessments": {
+                  "value": "",
+                  "source": "commons-categories",
+                  "hidden": ""
+                },
+                "ImageDescription": {
+                  "value": "Coin of the king of Armenia Khosrov I the Brave, 206-253. AE (Bronze, 23 mm, 5.99 g, 12 h). Bearded head of Khosrov I the Brave to left, wearing four-pointed tiara tied with a diadem; all within laurel wreath. Rev. 𐡌𐡋𐡁𐡏 / 𐡕𐡓𐡃𐡈 / ΛΙΛ ('Xsroe mlk' in Aramaic) in three lines within laurel wreath.\nThe inscriptions on these coins are often garbled and difficult to decipher, but they were likely minted under Khosrov I the Brave. He was the first Armenian king to issue coins since Tigranes VI in 66/7 AD—and, as it turned out, also the last (in Armenian line of Arsacid dynasty). He initially proved to be quite a successful ruler, but met his end in 253 when he was assassinated by Anak..",
+                  "source": "commons-desc-page"
+                },
+                "DateTimeOriginal": {
+                  "value": "2019-05-25",
+                  "source": "commons-desc-page"
+                },
+                "Credit": {
+                  "value": "<a rel=\"nofollow\" class=\"external free\" href=\"https://leunumismatik.com/en/lot/11/353\">https://leunumismatik.com/en/lot/11/353</a>",
+                  "source": "commons-desc-page"
+                },
+                "Artist": {
+                  "value": "Leu Numismatik",
+                  "source": "commons-desc-page"
+                },
+                "LicenseShortName": {
+                  "value": "CC BY-SA 4.0",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "UsageTerms": {
+                  "value": "Creative Commons Attribution-Share Alike 4.0",
+                  "source": "commons-desc-page"
+                },
+                "AttributionRequired": {
+                  "value": "true",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "LicenseUrl": {
+                  "value": "https://creativecommons.org/licenses/by-sa/4.0",
+                  "source": "commons-desc-page"
+                },
+                "Copyrighted": {
+                  "value": "True",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "Restrictions": {
+                  "value": "",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "License": {
+                  "value": "cc-by-sa-4.0",
+                  "source": "commons-templates",
+                  "hidden": ""
+                }
+              }
+            }
+          ]
+        }
+      ]
+    }
+  }
+}

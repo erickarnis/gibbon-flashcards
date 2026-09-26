@@ -1,0 +1,449 @@
+{
+  "batchcomplete": true,
+  "query": {
+    "normalized": [
+      {
+        "fromencoded": false,
+        "from": "File:Aureus_Victorinus_RIC_0094_(obverse).png",
+        "to": "File:Aureus Victorinus RIC 0094 (obverse).png"
+      },
+      {
+        "fromencoded": false,
+        "from": "File:Hairan_I.jpg",
+        "to": "File:Hairan I.jpg"
+      },
+      {
+        "fromencoded": false,
+        "from": "File:Cyprian_von_Karthago2.jpg",
+        "to": "File:Cyprian von Karthago2.jpg"
+      },
+      {
+        "fromencoded": false,
+        "from": "File:Minervina,_wife_of_Constantine_I.png",
+        "to": "File:Minervina, wife of Constantine I.png"
+      },
+      {
+        "fromencoded": false,
+        "from": "File:St_Frumentius.jpg",
+        "to": "File:St Frumentius.jpg"
+      },
+      {
+        "fromencoded": false,
+        "from": "File:AmbroseOfMilan_(cropped).jpg",
+        "to": "File:AmbroseOfMilan (cropped).jpg"
+      },
+      {
+        "fromencoded": false,
+        "from": "File:Donatus_from_Nuremberg_Chronicle.jpg",
+        "to": "File:Donatus from Nuremberg Chronicle.jpg"
+      },
+      {
+        "fromencoded": false,
+        "from": "File:Saint_Remy_baptise_Clovis_détail.jpg",
+        "to": "File:Saint Remy baptise Clovis détail.jpg"
+      },
+      {
+        "fromencoded": false,
+        "from": "File:Charito,_wife_of_Jovian.png",
+        "to": "File:Charito, wife of Jovian.png"
+      },
+      {
+        "fromencoded": false,
+        "from": "File:Severa,_wife_of_Valentinian_I.png",
+        "to": "File:Severa, wife of Valentinian I.png"
+      }
+    ],
+    "pages": [
+      {
+        "pageid": 1787609,
+        "ns": 6,
+        "title": "File:Agathius-Acacius-Acacio-martyrdom.jpg",
+        "imagerepository": "local",
+        "imageinfo": [
+          {
+            "size": 38380,
+            "width": 309,
+            "height": 400,
+            "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/03/Agathius-Acacius-Acacio-martyrdom.jpg/250px-Agathius-Acacius-Acacio-martyrdom.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+            "thumbwidth": 250,
+            "thumbheight": 324,
+            "responsiveUrls": {
+              "2": "https://upload.wikimedia.org/wikipedia/commons/0/03/Agathius-Acacius-Acacio-martyrdom.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled"
+            },
+            "thumbattribs": {
+              "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/03/Agathius-Acacius-Acacio-martyrdom.jpg/250px-Agathius-Acacius-Acacio-martyrdom.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+              "decoding": "async",
+              "loading": "lazy",
+              "width": 250,
+              "height": 324,
+              "srcset": "https://upload.wikimedia.org/wikipedia/commons/0/03/Agathius-Acacius-Acacio-martyrdom.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled 2x"
+            },
+            "url": "https://upload.wikimedia.org/wikipedia/commons/0/03/Agathius-Acacius-Acacio-martyrdom.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:Agathius-Acacius-Acacio-martyrdom.jpg",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=1787609"
+          }
+        ]
+      },
+      {
+        "pageid": 3049728,
+        "ns": 6,
+        "title": "File:StPakhom.jpg",
+        "imagerepository": "local",
+        "imageinfo": [
+          {
+            "size": 34481,
+            "width": 273,
+            "height": 400,
+            "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/39/StPakhom.jpg/250px-StPakhom.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+            "thumbwidth": 250,
+            "thumbheight": 366,
+            "responsiveUrls": {
+              "2": "https://upload.wikimedia.org/wikipedia/commons/3/39/StPakhom.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled"
+            },
+            "thumbattribs": {
+              "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/39/StPakhom.jpg/250px-StPakhom.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+              "decoding": "async",
+              "loading": "lazy",
+              "width": 250,
+              "height": 366,
+              "srcset": "https://upload.wikimedia.org/wikipedia/commons/3/39/StPakhom.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled 2x"
+            },
+            "url": "https://upload.wikimedia.org/wikipedia/commons/3/39/StPakhom.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:StPakhom.jpg",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=3049728"
+          }
+        ]
+      },
+      {
+        "pageid": 9073643,
+        "ns": 6,
+        "title": "File:St Frumentius.jpg",
+        "imagerepository": "local",
+        "imageinfo": [
+          {
+            "size": 21313,
+            "width": 285,
+            "height": 368,
+            "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/47/St_Frumentius.jpg/250px-St_Frumentius.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+            "thumbwidth": 250,
+            "thumbheight": 323,
+            "responsiveUrls": {
+              "2": "https://upload.wikimedia.org/wikipedia/commons/4/47/St_Frumentius.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled"
+            },
+            "thumbattribs": {
+              "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/47/St_Frumentius.jpg/250px-St_Frumentius.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+              "decoding": "async",
+              "loading": "lazy",
+              "width": 250,
+              "height": 323,
+              "srcset": "https://upload.wikimedia.org/wikipedia/commons/4/47/St_Frumentius.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled 2x"
+            },
+            "url": "https://upload.wikimedia.org/wikipedia/commons/4/47/St_Frumentius.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:St_Frumentius.jpg",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=9073643"
+          }
+        ]
+      },
+      {
+        "pageid": 11628083,
+        "ns": 6,
+        "title": "File:Cyprian von Karthago2.jpg",
+        "imagerepository": "local",
+        "imageinfo": [
+          {
+            "size": 66324,
+            "width": 258,
+            "height": 327,
+            "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/ae/Cyprian_von_Karthago2.jpg/250px-Cyprian_von_Karthago2.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+            "thumbwidth": 250,
+            "thumbheight": 317,
+            "responsiveUrls": {
+              "2": "https://upload.wikimedia.org/wikipedia/commons/a/ae/Cyprian_von_Karthago2.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled"
+            },
+            "thumbattribs": {
+              "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/ae/Cyprian_von_Karthago2.jpg/250px-Cyprian_von_Karthago2.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+              "decoding": "async",
+              "loading": "lazy",
+              "width": 250,
+              "height": 317,
+              "srcset": "https://upload.wikimedia.org/wikipedia/commons/a/ae/Cyprian_von_Karthago2.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled 2x"
+            },
+            "url": "https://upload.wikimedia.org/wikipedia/commons/a/ae/Cyprian_von_Karthago2.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:Cyprian_von_Karthago2.jpg",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=11628083"
+          }
+        ]
+      },
+      {
+        "pageid": 43888242,
+        "ns": 6,
+        "title": "File:Hairan I.jpg",
+        "imagerepository": "local",
+        "imageinfo": [
+          {
+            "size": 31755,
+            "width": 276,
+            "height": 260,
+            "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/cc/Hairan_I.jpg/250px-Hairan_I.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+            "thumbwidth": 250,
+            "thumbheight": 236,
+            "responsiveUrls": {
+              "2": "https://upload.wikimedia.org/wikipedia/commons/c/cc/Hairan_I.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled"
+            },
+            "thumbattribs": {
+              "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/cc/Hairan_I.jpg/250px-Hairan_I.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+              "decoding": "async",
+              "loading": "lazy",
+              "width": 250,
+              "height": 236,
+              "srcset": "https://upload.wikimedia.org/wikipedia/commons/c/cc/Hairan_I.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled 2x"
+            },
+            "url": "https://upload.wikimedia.org/wikipedia/commons/c/cc/Hairan_I.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:Hairan_I.jpg",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=43888242"
+          }
+        ]
+      },
+      {
+        "pageid": 49664545,
+        "ns": 6,
+        "title": "File:Saint Remy baptise Clovis détail.jpg",
+        "imagerepository": "local",
+        "imageinfo": [
+          {
+            "size": 66883,
+            "width": 276,
+            "height": 625,
+            "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/41/Saint_Remy_baptise_Clovis_d%C3%A9tail.jpg/250px-Saint_Remy_baptise_Clovis_d%C3%A9tail.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+            "thumbwidth": 250,
+            "thumbheight": 566,
+            "responsiveUrls": {
+              "2": "https://upload.wikimedia.org/wikipedia/commons/4/41/Saint_Remy_baptise_Clovis_d%C3%A9tail.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled"
+            },
+            "thumbattribs": {
+              "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/41/Saint_Remy_baptise_Clovis_d%C3%A9tail.jpg/250px-Saint_Remy_baptise_Clovis_d%C3%A9tail.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+              "decoding": "async",
+              "loading": "lazy",
+              "width": 250,
+              "height": 566,
+              "srcset": "https://upload.wikimedia.org/wikipedia/commons/4/41/Saint_Remy_baptise_Clovis_d%C3%A9tail.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled 2x"
+            },
+            "url": "https://upload.wikimedia.org/wikipedia/commons/4/41/Saint_Remy_baptise_Clovis_d%C3%A9tail.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:Saint_Remy_baptise_Clovis_d%C3%A9tail.jpg",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=49664545"
+          }
+        ]
+      },
+      {
+        "pageid": 55338701,
+        "ns": 6,
+        "title": "File:Aureus Victorinus RIC 0094 (obverse).png",
+        "imagerepository": "local",
+        "imageinfo": [
+          {
+            "size": 165059,
+            "width": 292,
+            "height": 282,
+            "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e6/Aureus_Victorinus_RIC_0094_%28obverse%29.png/250px-Aureus_Victorinus_RIC_0094_%28obverse%29.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+            "thumbwidth": 250,
+            "thumbheight": 241,
+            "responsiveUrls": {
+              "2": "https://upload.wikimedia.org/wikipedia/commons/e/e6/Aureus_Victorinus_RIC_0094_%28obverse%29.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled"
+            },
+            "thumbattribs": {
+              "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e6/Aureus_Victorinus_RIC_0094_%28obverse%29.png/250px-Aureus_Victorinus_RIC_0094_%28obverse%29.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+              "decoding": "async",
+              "loading": "lazy",
+              "width": 250,
+              "height": 241,
+              "srcset": "https://upload.wikimedia.org/wikipedia/commons/e/e6/Aureus_Victorinus_RIC_0094_%28obverse%29.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled 2x"
+            },
+            "url": "https://upload.wikimedia.org/wikipedia/commons/e/e6/Aureus_Victorinus_RIC_0094_%28obverse%29.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:Aureus_Victorinus_RIC_0094_(obverse).png",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=55338701"
+          }
+        ]
+      },
+      {
+        "pageid": 82640138,
+        "ns": 6,
+        "title": "File:Donatus from Nuremberg Chronicle.jpg",
+        "imagerepository": "local",
+        "imageinfo": [
+          {
+            "size": 95693,
+            "width": 257,
+            "height": 252,
+            "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5f/Donatus_from_Nuremberg_Chronicle.jpg/250px-Donatus_from_Nuremberg_Chronicle.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+            "thumbwidth": 250,
+            "thumbheight": 245,
+            "responsiveUrls": {
+              "2": "https://upload.wikimedia.org/wikipedia/commons/5/5f/Donatus_from_Nuremberg_Chronicle.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled"
+            },
+            "thumbattribs": {
+              "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5f/Donatus_from_Nuremberg_Chronicle.jpg/250px-Donatus_from_Nuremberg_Chronicle.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+              "decoding": "async",
+              "loading": "lazy",
+              "width": 250,
+              "height": 245,
+              "srcset": "https://upload.wikimedia.org/wikipedia/commons/5/5f/Donatus_from_Nuremberg_Chronicle.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled 2x"
+            },
+            "url": "https://upload.wikimedia.org/wikipedia/commons/5/5f/Donatus_from_Nuremberg_Chronicle.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:Donatus_from_Nuremberg_Chronicle.jpg",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=82640138"
+          }
+        ]
+      },
+      {
+        "pageid": 85377237,
+        "ns": 6,
+        "title": "File:Medieval Portrait of Scipio Africanus (Philadelphia Museum of Art).jpg",
+        "imagerepository": "local",
+        "imageinfo": [
+          {
+            "size": 25581,
+            "width": 280,
+            "height": 378,
+            "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/73/Medieval_Portrait_of_Scipio_Africanus_%28Philadelphia_Museum_of_Art%29.jpg/250px-Medieval_Portrait_of_Scipio_Africanus_%28Philadelphia_Museum_of_Art%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+            "thumbwidth": 250,
+            "thumbheight": 338,
+            "responsiveUrls": {
+              "2": "https://upload.wikimedia.org/wikipedia/commons/7/73/Medieval_Portrait_of_Scipio_Africanus_%28Philadelphia_Museum_of_Art%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled"
+            },
+            "thumbattribs": {
+              "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/73/Medieval_Portrait_of_Scipio_Africanus_%28Philadelphia_Museum_of_Art%29.jpg/250px-Medieval_Portrait_of_Scipio_Africanus_%28Philadelphia_Museum_of_Art%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+              "decoding": "async",
+              "loading": "lazy",
+              "width": 250,
+              "height": 338,
+              "srcset": "https://upload.wikimedia.org/wikipedia/commons/7/73/Medieval_Portrait_of_Scipio_Africanus_%28Philadelphia_Museum_of_Art%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled 2x"
+            },
+            "url": "https://upload.wikimedia.org/wikipedia/commons/7/73/Medieval_Portrait_of_Scipio_Africanus_%28Philadelphia_Museum_of_Art%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:Medieval_Portrait_of_Scipio_Africanus_(Philadelphia_Museum_of_Art).jpg",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=85377237"
+          }
+        ]
+      },
+      {
+        "pageid": 101915195,
+        "ns": 6,
+        "title": "File:AmbroseOfMilan (cropped).jpg",
+        "imagerepository": "local",
+        "imageinfo": [
+          {
+            "size": 49721,
+            "width": 306,
+            "height": 336,
+            "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/74/AmbroseOfMilan_%28cropped%29.jpg/250px-AmbroseOfMilan_%28cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+            "thumbwidth": 250,
+            "thumbheight": 275,
+            "responsiveUrls": {
+              "2": "https://upload.wikimedia.org/wikipedia/commons/7/74/AmbroseOfMilan_%28cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled"
+            },
+            "thumbattribs": {
+              "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/74/AmbroseOfMilan_%28cropped%29.jpg/250px-AmbroseOfMilan_%28cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+              "decoding": "async",
+              "loading": "lazy",
+              "width": 250,
+              "height": 275,
+              "srcset": "https://upload.wikimedia.org/wikipedia/commons/7/74/AmbroseOfMilan_%28cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled 2x"
+            },
+            "url": "https://upload.wikimedia.org/wikipedia/commons/7/74/AmbroseOfMilan_%28cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:AmbroseOfMilan_(cropped).jpg",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=101915195"
+          }
+        ]
+      },
+      {
+        "pageid": 112599505,
+        "ns": 6,
+        "title": "File:Charito, wife of Jovian.png",
+        "imagerepository": "local",
+        "imageinfo": [
+          {
+            "size": 233978,
+            "width": 271,
+            "height": 348,
+            "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/67/Charito%2C_wife_of_Jovian.png/250px-Charito%2C_wife_of_Jovian.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+            "thumbwidth": 250,
+            "thumbheight": 321,
+            "responsiveUrls": {
+              "2": "https://upload.wikimedia.org/wikipedia/commons/6/67/Charito%2C_wife_of_Jovian.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled"
+            },
+            "thumbattribs": {
+              "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/67/Charito%2C_wife_of_Jovian.png/250px-Charito%2C_wife_of_Jovian.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+              "decoding": "async",
+              "loading": "lazy",
+              "width": 250,
+              "height": 321,
+              "srcset": "https://upload.wikimedia.org/wikipedia/commons/6/67/Charito%2C_wife_of_Jovian.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled 2x"
+            },
+            "url": "https://upload.wikimedia.org/wikipedia/commons/6/67/Charito%2C_wife_of_Jovian.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:Charito,_wife_of_Jovian.png",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=112599505"
+          }
+        ]
+      },
+      {
+        "pageid": 112625750,
+        "ns": 6,
+        "title": "File:Minervina, wife of Constantine I.png",
+        "imagerepository": "local",
+        "imageinfo": [
+          {
+            "size": 183521,
+            "width": 267,
+            "height": 348,
+            "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/ff/Minervina%2C_wife_of_Constantine_I.png/250px-Minervina%2C_wife_of_Constantine_I.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+            "thumbwidth": 250,
+            "thumbheight": 326,
+            "responsiveUrls": {
+              "2": "https://upload.wikimedia.org/wikipedia/commons/f/ff/Minervina%2C_wife_of_Constantine_I.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled"
+            },
+            "thumbattribs": {
+              "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/ff/Minervina%2C_wife_of_Constantine_I.png/250px-Minervina%2C_wife_of_Constantine_I.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+              "decoding": "async",
+              "loading": "lazy",
+              "width": 250,
+              "height": 326,
+              "srcset": "https://upload.wikimedia.org/wikipedia/commons/f/ff/Minervina%2C_wife_of_Constantine_I.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled 2x"
+            },
+            "url": "https://upload.wikimedia.org/wikipedia/commons/f/ff/Minervina%2C_wife_of_Constantine_I.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:Minervina,_wife_of_Constantine_I.png",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=112625750"
+          }
+        ]
+      },
+      {
+        "pageid": 112625753,
+        "ns": 6,
+        "title": "File:Severa, wife of Valentinian I.png",
+        "imagerepository": "local",
+        "imageinfo": [
+          {
+            "size": 181978,
+            "width": 256,
+            "height": 349,
+            "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/79/Severa%2C_wife_of_Valentinian_I.png/250px-Severa%2C_wife_of_Valentinian_I.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+            "thumbwidth": 250,
+            "thumbheight": 341,
+            "responsiveUrls": {
+              "2": "https://upload.wikimedia.org/wikipedia/commons/7/79/Severa%2C_wife_of_Valentinian_I.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled"
+            },
+            "thumbattribs": {
+              "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/79/Severa%2C_wife_of_Valentinian_I.png/250px-Severa%2C_wife_of_Valentinian_I.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+              "decoding": "async",
+              "loading": "lazy",
+              "width": 250,
+              "height": 341,
+              "srcset": "https://upload.wikimedia.org/wikipedia/commons/7/79/Severa%2C_wife_of_Valentinian_I.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled 2x"
+            },
+            "url": "https://upload.wikimedia.org/wikipedia/commons/7/79/Severa%2C_wife_of_Valentinian_I.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:Severa,_wife_of_Valentinian_I.png",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=112625753"
+          }
+        ]
+      }
+    ]
+  }
+}

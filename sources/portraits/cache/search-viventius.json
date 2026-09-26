@@ -1,0 +1,505 @@
+{
+  "person_id": "viventius",
+  "query": "Viventius",
+  "response": {
+    "batchcomplete": true,
+    "continue": {
+      "gsroffset": 5,
+      "continue": "gsroffset||"
+    },
+    "query": {
+      "pages": [
+        {
+          "pageid": 30995418,
+          "ns": 6,
+          "title": "File:Busto reliquia di San Vivenzio.jpg",
+          "index": 4,
+          "imagerepository": "local",
+          "imageinfo": [
+            {
+              "size": 630525,
+              "width": 1284,
+              "height": 1595,
+              "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/60/Busto_reliquia_di_San_Vivenzio.jpg/500px-Busto_reliquia_di_San_Vivenzio.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+              "thumbwidth": 400,
+              "thumbheight": 497,
+              "responsiveUrls": {
+                "2": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/60/Busto_reliquia_di_San_Vivenzio.jpg/960px-Busto_reliquia_di_San_Vivenzio.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+              },
+              "thumbattribs": {
+                "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/60/Busto_reliquia_di_San_Vivenzio.jpg/500px-Busto_reliquia_di_San_Vivenzio.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+                "decoding": "async",
+                "loading": "lazy",
+                "width": 400,
+                "height": 497,
+                "srcset": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/60/Busto_reliquia_di_San_Vivenzio.jpg/960px-Busto_reliquia_di_San_Vivenzio.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail 2x"
+              },
+              "url": "https://upload.wikimedia.org/wikipedia/commons/6/60/Busto_reliquia_di_San_Vivenzio.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+              "descriptionurl": "https://commons.wikimedia.org/wiki/File:Busto_reliquia_di_San_Vivenzio.jpg",
+              "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=30995418",
+              "extmetadata": {
+                "DateTime": {
+                  "value": "2014-02-05 10:00:00",
+                  "source": "mediawiki-metadata",
+                  "hidden": ""
+                },
+                "ObjectName": {
+                  "value": "Busto reliquia di San Vivenzio",
+                  "source": "mediawiki-metadata"
+                },
+                "CommonsMetadataExtension": {
+                  "value": 1.2,
+                  "source": "extension",
+                  "hidden": ""
+                },
+                "Categories": {
+                  "value": "Reliquary busts in Italy|FAL|Viventius of Blera|Silverware in Italy|Santa Maria Assunta in Cielo e San Vivenzio (Blera, Italy)|Template Unknown (author)|Processions in Lazio|Silver busts in Italy|Churches in Blera",
+                  "source": "commons-categories",
+                  "hidden": ""
+                },
+                "Assessments": {
+                  "value": "",
+                  "source": "commons-categories",
+                  "hidden": ""
+                },
+                "ImageDescription": {
+                  "value": "Busto reliquia di San Vivenzio",
+                  "source": "commons-desc-page"
+                },
+                "Credit": {
+                  "value": "Mio Computer",
+                  "source": "commons-desc-page"
+                },
+                "Artist": {
+                  "value": "Unknown author<span style=\"display: none;\">Unknown author</span>",
+                  "source": "commons-desc-page"
+                },
+                "LicenseShortName": {
+                  "value": "FAL",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "UsageTerms": {
+                  "value": "Free Art License",
+                  "source": "commons-desc-page"
+                },
+                "AttributionRequired": {
+                  "value": "true",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "LicenseUrl": {
+                  "value": "http://artlibre.org/licence/lal/en",
+                  "source": "commons-desc-page"
+                },
+                "Copyrighted": {
+                  "value": "True",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "Restrictions": {
+                  "value": "",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                }
+              }
+            }
+          ]
+        },
+        {
+          "pageid": 30995910,
+          "ns": 6,
+          "title": "File:Facciata della Chiesetta di San Vivenzio.JPG",
+          "index": 5,
+          "imagerepository": "local",
+          "imageinfo": [
+            {
+              "size": 3377802,
+              "width": 3216,
+              "height": 2136,
+              "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0f/Facciata_della_Chiesetta_di_San_Vivenzio.JPG/500px-Facciata_della_Chiesetta_di_San_Vivenzio.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+              "thumbwidth": 400,
+              "thumbheight": 266,
+              "responsiveUrls": {
+                "2": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0f/Facciata_della_Chiesetta_di_San_Vivenzio.JPG/960px-Facciata_della_Chiesetta_di_San_Vivenzio.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+              },
+              "thumbattribs": {
+                "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0f/Facciata_della_Chiesetta_di_San_Vivenzio.JPG/500px-Facciata_della_Chiesetta_di_San_Vivenzio.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+                "decoding": "async",
+                "loading": "lazy",
+                "width": 400,
+                "height": 266,
+                "srcset": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0f/Facciata_della_Chiesetta_di_San_Vivenzio.JPG/960px-Facciata_della_Chiesetta_di_San_Vivenzio.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail 2x"
+              },
+              "url": "https://upload.wikimedia.org/wikipedia/commons/0/0f/Facciata_della_Chiesetta_di_San_Vivenzio.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+              "descriptionurl": "https://commons.wikimedia.org/wiki/File:Facciata_della_Chiesetta_di_San_Vivenzio.JPG",
+              "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=30995910",
+              "extmetadata": {
+                "DateTime": {
+                  "value": "2014-02-05 10:43:42",
+                  "source": "mediawiki-metadata",
+                  "hidden": ""
+                },
+                "ObjectName": {
+                  "value": "Facciata della Chiesetta di San Vivenzio",
+                  "source": "mediawiki-metadata"
+                },
+                "CommonsMetadataExtension": {
+                  "value": 1.2,
+                  "source": "extension",
+                  "hidden": ""
+                },
+                "Categories": {
+                  "value": "FAL|Template Unknown (author)|Churches in Blera|Saint Viventius of Blera churches in Italy",
+                  "source": "commons-categories",
+                  "hidden": ""
+                },
+                "Assessments": {
+                  "value": "",
+                  "source": "commons-categories",
+                  "hidden": ""
+                },
+                "ImageDescription": {
+                  "value": "Chiesetta di San Vivenzio - Facciata",
+                  "source": "commons-desc-page"
+                },
+                "Credit": {
+                  "value": "Mio Computer",
+                  "source": "commons-desc-page"
+                },
+                "Artist": {
+                  "value": "Unknown author<span style=\"display: none;\">Unknown author</span>",
+                  "source": "commons-desc-page"
+                },
+                "LicenseShortName": {
+                  "value": "FAL",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "UsageTerms": {
+                  "value": "Free Art License",
+                  "source": "commons-desc-page"
+                },
+                "AttributionRequired": {
+                  "value": "true",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "LicenseUrl": {
+                  "value": "http://artlibre.org/licence/lal/en",
+                  "source": "commons-desc-page"
+                },
+                "Copyrighted": {
+                  "value": "True",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "Restrictions": {
+                  "value": "",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                }
+              }
+            }
+          ]
+        },
+        {
+          "pageid": 30996066,
+          "ns": 6,
+          "title": "File:Grotte di San Vivenzio.JPG",
+          "index": 2,
+          "imagerepository": "local",
+          "imageinfo": [
+            {
+              "size": 3092473,
+              "width": 3216,
+              "height": 2136,
+              "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/68/Grotte_di_San_Vivenzio.JPG/500px-Grotte_di_San_Vivenzio.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+              "thumbwidth": 400,
+              "thumbheight": 266,
+              "responsiveUrls": {
+                "2": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/68/Grotte_di_San_Vivenzio.JPG/960px-Grotte_di_San_Vivenzio.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+              },
+              "thumbattribs": {
+                "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/68/Grotte_di_San_Vivenzio.JPG/500px-Grotte_di_San_Vivenzio.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+                "decoding": "async",
+                "loading": "lazy",
+                "width": 400,
+                "height": 266,
+                "srcset": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/68/Grotte_di_San_Vivenzio.JPG/960px-Grotte_di_San_Vivenzio.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail 2x"
+              },
+              "url": "https://upload.wikimedia.org/wikipedia/commons/6/68/Grotte_di_San_Vivenzio.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+              "descriptionurl": "https://commons.wikimedia.org/wiki/File:Grotte_di_San_Vivenzio.JPG",
+              "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=30996066",
+              "extmetadata": {
+                "DateTime": {
+                  "value": "2014-02-05 10:50:03",
+                  "source": "mediawiki-metadata",
+                  "hidden": ""
+                },
+                "ObjectName": {
+                  "value": "Grotte di San Vivenzio",
+                  "source": "mediawiki-metadata"
+                },
+                "CommonsMetadataExtension": {
+                  "value": 1.2,
+                  "source": "extension",
+                  "hidden": ""
+                },
+                "Categories": {
+                  "value": "FAL|Viventius of Blera|Template Unknown (author)|Crypts in Lazio|Churches in Blera",
+                  "source": "commons-categories",
+                  "hidden": ""
+                },
+                "Assessments": {
+                  "value": "",
+                  "source": "commons-categories",
+                  "hidden": ""
+                },
+                "ImageDescription": {
+                  "value": "Grotte di San Vivenzio al di sotto dell'omonima chiesa",
+                  "source": "commons-desc-page"
+                },
+                "Credit": {
+                  "value": "Mio Computer",
+                  "source": "commons-desc-page"
+                },
+                "Artist": {
+                  "value": "Unknown author<span style=\"display: none;\">Unknown author</span>",
+                  "source": "commons-desc-page"
+                },
+                "LicenseShortName": {
+                  "value": "FAL",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "UsageTerms": {
+                  "value": "Free Art License",
+                  "source": "commons-desc-page"
+                },
+                "AttributionRequired": {
+                  "value": "true",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "LicenseUrl": {
+                  "value": "http://artlibre.org/licence/lal/en",
+                  "source": "commons-desc-page"
+                },
+                "Copyrighted": {
+                  "value": "True",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "Restrictions": {
+                  "value": "",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                }
+              }
+            }
+          ]
+        },
+        {
+          "pageid": 30998606,
+          "ns": 6,
+          "title": "File:Tomba si San Vivenzio.JPG",
+          "index": 3,
+          "imagerepository": "local",
+          "imageinfo": [
+            {
+              "size": 3022232,
+              "width": 2136,
+              "height": 3216,
+              "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/aa/Tomba_si_San_Vivenzio.JPG/500px-Tomba_si_San_Vivenzio.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+              "thumbwidth": 400,
+              "thumbheight": 602,
+              "responsiveUrls": {
+                "2": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/aa/Tomba_si_San_Vivenzio.JPG/960px-Tomba_si_San_Vivenzio.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+              },
+              "thumbattribs": {
+                "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/aa/Tomba_si_San_Vivenzio.JPG/500px-Tomba_si_San_Vivenzio.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+                "decoding": "async",
+                "loading": "lazy",
+                "width": 400,
+                "height": 602,
+                "srcset": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/aa/Tomba_si_San_Vivenzio.JPG/960px-Tomba_si_San_Vivenzio.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail 2x"
+              },
+              "url": "https://upload.wikimedia.org/wikipedia/commons/a/aa/Tomba_si_San_Vivenzio.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+              "descriptionurl": "https://commons.wikimedia.org/wiki/File:Tomba_si_San_Vivenzio.JPG",
+              "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=30998606",
+              "extmetadata": {
+                "DateTime": {
+                  "value": "2014-02-05 14:16:02",
+                  "source": "mediawiki-metadata",
+                  "hidden": ""
+                },
+                "ObjectName": {
+                  "value": "Tomba si San Vivenzio",
+                  "source": "mediawiki-metadata"
+                },
+                "CommonsMetadataExtension": {
+                  "value": 1.2,
+                  "source": "extension",
+                  "hidden": ""
+                },
+                "Categories": {
+                  "value": "FAL|Viventius of Blera|Gravestones in Lazio|Template Unknown (author)|Santa Maria Assunta in Cielo e San Vivenzio (Blera, Italy) - Interior",
+                  "source": "commons-categories",
+                  "hidden": ""
+                },
+                "Assessments": {
+                  "value": "",
+                  "source": "commons-categories",
+                  "hidden": ""
+                },
+                "ImageDescription": {
+                  "value": "Tomba di San Vivenzio nella cripta della Chiesa S. Maria Assunta di Blera",
+                  "source": "commons-desc-page"
+                },
+                "Credit": {
+                  "value": "Mio Computer",
+                  "source": "commons-desc-page"
+                },
+                "Artist": {
+                  "value": "Unknown author<span style=\"display: none;\">Unknown author</span>",
+                  "source": "commons-desc-page"
+                },
+                "LicenseShortName": {
+                  "value": "FAL",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "UsageTerms": {
+                  "value": "Free Art License",
+                  "source": "commons-desc-page"
+                },
+                "AttributionRequired": {
+                  "value": "true",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "LicenseUrl": {
+                  "value": "http://artlibre.org/licence/lal/en",
+                  "source": "commons-desc-page"
+                },
+                "Copyrighted": {
+                  "value": "True",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "Restrictions": {
+                  "value": "",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                }
+              }
+            }
+          ]
+        },
+        {
+          "pageid": 31174143,
+          "ns": 6,
+          "title": "File:San Vivenzio Benedicente.JPG",
+          "index": 1,
+          "imagerepository": "local",
+          "imageinfo": [
+            {
+              "size": 3106666,
+              "width": 2136,
+              "height": 3216,
+              "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0d/San_Vivenzio_Benedicente.JPG/500px-San_Vivenzio_Benedicente.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+              "thumbwidth": 400,
+              "thumbheight": 602,
+              "responsiveUrls": {
+                "2": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0d/San_Vivenzio_Benedicente.JPG/960px-San_Vivenzio_Benedicente.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+              },
+              "thumbattribs": {
+                "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0d/San_Vivenzio_Benedicente.JPG/500px-San_Vivenzio_Benedicente.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+                "decoding": "async",
+                "loading": "lazy",
+                "width": 400,
+                "height": 602,
+                "srcset": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0d/San_Vivenzio_Benedicente.JPG/960px-San_Vivenzio_Benedicente.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail 2x"
+              },
+              "url": "https://upload.wikimedia.org/wikipedia/commons/0/0d/San_Vivenzio_Benedicente.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+              "descriptionurl": "https://commons.wikimedia.org/wiki/File:San_Vivenzio_Benedicente.JPG",
+              "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=31174143",
+              "extmetadata": {
+                "DateTime": {
+                  "value": "2014-02-15 09:30:17",
+                  "source": "mediawiki-metadata",
+                  "hidden": ""
+                },
+                "ObjectName": {
+                  "value": "San Vivenzio Benedicente",
+                  "source": "mediawiki-metadata"
+                },
+                "CommonsMetadataExtension": {
+                  "value": 1.2,
+                  "source": "extension",
+                  "hidden": ""
+                },
+                "Categories": {
+                  "value": "17th-century religious paintings in Italy|CC-Zero|Viventius of Blera|Self-published work|Paintings of Christian saints in Italy|Paintings in the province of Viterbo|Paintings of bishops in Italy|Santa Maria Assunta in Cielo e San Vivenzio (Blera, Italy) - Interior|Art in Blera (Italy)",
+                  "source": "commons-categories",
+                  "hidden": ""
+                },
+                "Assessments": {
+                  "value": "",
+                  "source": "commons-categories",
+                  "hidden": ""
+                },
+                "ImageDescription": {
+                  "value": "San Vivenzio Benedicente",
+                  "source": "commons-desc-page"
+                },
+                "Credit": {
+                  "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+                  "source": "commons-desc-page"
+                },
+                "Artist": {
+                  "value": "<a href=\"//commons.wikimedia.org/w/index.php?title=User:Blera90&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"User:Blera90 (page does not exist)\">Blera90</a>",
+                  "source": "commons-desc-page"
+                },
+                "LicenseShortName": {
+                  "value": "CC0",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "UsageTerms": {
+                  "value": "Creative Commons Zero, Public Domain Dedication",
+                  "source": "commons-desc-page"
+                },
+                "AttributionRequired": {
+                  "value": "false",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "LicenseUrl": {
+                  "value": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+                  "source": "commons-desc-page"
+                },
+                "Copyrighted": {
+                  "value": "True",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "Restrictions": {
+                  "value": "",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "License": {
+                  "value": "cc0",
+                  "source": "commons-templates",
+                  "hidden": ""
+                }
+              }
+            }
+          ]
+        }
+      ]
+    }
+  }
+}

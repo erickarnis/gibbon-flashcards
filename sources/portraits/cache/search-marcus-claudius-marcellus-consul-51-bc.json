@@ -1,0 +1,506 @@
+{
+  "person_id": "marcus-claudius-marcellus-consul-51-bc",
+  "query": "Marcus Claudius Marcellus (consul 51 BC)",
+  "response": {
+    "batchcomplete": true,
+    "continue": {
+      "gsroffset": 5,
+      "continue": "gsroffset||"
+    },
+    "query": {
+      "pages": [
+        {
+          "pageid": 30490268,
+          "ns": 6,
+          "title": "File:Print Marcus Claudius Marcellus Roman Consul Elect Statue Spolia Opima Rome.jpg",
+          "index": 1,
+          "imagerepository": "local",
+          "imageinfo": [
+            {
+              "size": 159938,
+              "width": 790,
+              "height": 1300,
+              "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/49/Print_Marcus_Claudius_Marcellus_Roman_Consul_Elect_Statue_Spolia_Opima_Rome.jpg/500px-Print_Marcus_Claudius_Marcellus_Roman_Consul_Elect_Statue_Spolia_Opima_Rome.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+              "thumbwidth": 400,
+              "thumbheight": 658,
+              "responsiveUrls": {
+                "2": "https://upload.wikimedia.org/wikipedia/commons/4/49/Print_Marcus_Claudius_Marcellus_Roman_Consul_Elect_Statue_Spolia_Opima_Rome.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled"
+              },
+              "thumbattribs": {
+                "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/49/Print_Marcus_Claudius_Marcellus_Roman_Consul_Elect_Statue_Spolia_Opima_Rome.jpg/500px-Print_Marcus_Claudius_Marcellus_Roman_Consul_Elect_Statue_Spolia_Opima_Rome.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+                "decoding": "async",
+                "loading": "lazy",
+                "width": 400,
+                "height": 658,
+                "srcset": "https://upload.wikimedia.org/wikipedia/commons/4/49/Print_Marcus_Claudius_Marcellus_Roman_Consul_Elect_Statue_Spolia_Opima_Rome.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled 2x"
+              },
+              "url": "https://upload.wikimedia.org/wikipedia/commons/4/49/Print_Marcus_Claudius_Marcellus_Roman_Consul_Elect_Statue_Spolia_Opima_Rome.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+              "descriptionurl": "https://commons.wikimedia.org/wiki/File:Print_Marcus_Claudius_Marcellus_Roman_Consul_Elect_Statue_Spolia_Opima_Rome.jpg",
+              "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=30490268",
+              "extmetadata": {
+                "DateTime": {
+                  "value": "2016-05-14 16:19:10",
+                  "source": "mediawiki-metadata",
+                  "hidden": ""
+                },
+                "ObjectName": {
+                  "value": "Print Marcus Claudius Marcellus Roman Consul Elect Statue Spolia Opima Rome",
+                  "source": "mediawiki-metadata"
+                },
+                "CommonsMetadataExtension": {
+                  "value": 1.2,
+                  "source": "extension",
+                  "hidden": ""
+                },
+                "Categories": {
+                  "value": "Marcus Claudius Marcellus|Files with no machine-readable author|PD Italy (20 years after creation)|Artworks without Wikidata item|Ancient Syracusans|Ancient Roman statues in the Musei Capitolini|Ancient Roman sitting statues",
+                  "source": "commons-categories",
+                  "hidden": ""
+                },
+                "Assessments": {
+                  "value": "",
+                  "source": "commons-categories",
+                  "hidden": ""
+                },
+                "ImageDescription": {
+                  "value": "Statua di Marco Claudio Marcello - data della statua: Già di epoca Giustiniana",
+                  "source": "commons-desc-page"
+                },
+                "DateTimeOriginal": {
+                  "value": "1914<div style=\"display: none;\">date QS:P571,+1914-00-00T00:00:00Z/9</div>",
+                  "source": "commons-desc-page"
+                },
+                "Credit": {
+                  "value": "<a rel=\"nofollow\" class=\"external text\" href=\"https://www.amazon.com/Marcus-Claudius-Marcellus-Consul-Statue/dp/B00830SGZA\">Marcus-Claudius-Marcellus-Consul-Statue</a>",
+                  "source": "commons-desc-page"
+                },
+                "Permission": {
+                  "value": "This may not apply in countries that don't apply the <a href=\"https://en.wikipedia.org/wiki/rule_of_the_shorter_term\" class=\"extiw\" title=\"en:rule of the shorter term\">rule of the shorter term</a> to works from Italy. In particular, these are in the public domain in the United States only if:\n<ul><li>wasn't in copyright in the United States due to being registered for copyright there (see <a href=\"//commons.wikimedia.org/wiki/Commons:Copyright_tags#United_States\" title=\"Commons:Copyright tags\">Commons:Copyright tags#United States</a> for most cases) <b>and</b></li>\n<li>was created prior to 1976 and published prior to 1978 — then it was out-of-copyright in Italy on the <a href=\"https://en.wikipedia.org/wiki/Wikipedia:Non-U.S._copyrights#Dates_of_restoration_and_terms_of_protection\" class=\"extiw\" title=\"en:Wikipedia:Non-U.S. copyrights\">URAA date of restoration</a> (January 1, 1996) (<a href=\"https://en.wikipedia.org/wiki/Title_17_of_the_United_States_Code\" class=\"extiw\" title=\"en:Title 17 of the United States Code\">17 U.S.C.</a> <a rel=\"nofollow\" class=\"external text\" data-mw-original-href=\"http://www.copyright.gov/title17/92chap1.html#104a\" href=\"https://www.copyright.gov/title17/92chap1.html#104a\">§ 104A</a>) (in most cases; for all cases, see <a href=\"//commons.wikimedia.org/wiki/Template:PD-Italy/US\" title=\"Template:PD-Italy/US\">Template:PD-Italy/US</a>). If so, please add <a href=\"//commons.wikimedia.org/wiki/Template:PD-1996\" title=\"Template:PD-1996\"><span style=\"font-family:monospace,monospace;\">{{PD-1996}}</span></a> in addition to this copyright tag. If the image was created after 1975 or was published after 1977, please add <a href=\"//commons.wikimedia.org/wiki/Template:Not-PD-US-URAA\" title=\"Template:Not-PD-US-URAA\"><span style=\"font-family:monospace,monospace;\">{{Not-PD-US-URAA}}</span></a>.</li></ul>",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "LicenseShortName": {
+                  "value": "Public domain",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "UsageTerms": {
+                  "value": "Public domain",
+                  "source": "commons-desc-page"
+                },
+                "AttributionRequired": {
+                  "value": "false",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "Copyrighted": {
+                  "value": "False",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "Restrictions": {
+                  "value": "",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "License": {
+                  "value": "pd",
+                  "source": "commons-templates",
+                  "hidden": ""
+                }
+              }
+            }
+          ]
+        },
+        {
+          "pageid": 88464833,
+          "ns": 6,
+          "title": "File:Olim Ludi Scaenici.pdf",
+          "index": 2,
+          "imagerepository": "local",
+          "imageinfo": [
+            {
+              "size": 983033,
+              "width": 747,
+              "height": 1108,
+              "pagecount": 56,
+              "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/51/Olim_Ludi_Scaenici.pdf/page1-500px-Olim_Ludi_Scaenici.pdf.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+              "thumbwidth": 400,
+              "thumbheight": 593,
+              "thumbattribs": {
+                "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/51/Olim_Ludi_Scaenici.pdf/page1-500px-Olim_Ludi_Scaenici.pdf.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+                "decoding": "async",
+                "loading": "lazy",
+                "width": 400,
+                "height": 593
+              },
+              "url": "https://upload.wikimedia.org/wikipedia/commons/5/51/Olim_Ludi_Scaenici.pdf?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+              "descriptionurl": "https://commons.wikimedia.org/wiki/File:Olim_Ludi_Scaenici.pdf",
+              "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=88464833",
+              "extmetadata": {
+                "DateTime": {
+                  "value": "2020-03-22 21:48:11",
+                  "source": "mediawiki-metadata",
+                  "hidden": ""
+                },
+                "ObjectName": {
+                  "value": "Olim Ludi Scaenici",
+                  "source": "mediawiki-metadata"
+                },
+                "CommonsMetadataExtension": {
+                  "value": 1.2,
+                  "source": "extension",
+                  "hidden": ""
+                },
+                "Categories": {
+                  "value": "Latin language|PD US expired",
+                  "source": "commons-categories",
+                  "hidden": ""
+                },
+                "Assessments": {
+                  "value": "",
+                  "source": "commons-categories",
+                  "hidden": ""
+                },
+                "ImageDescription": {
+                  "value": "Six short plays in Latin for learners",
+                  "source": "commons-desc-page"
+                },
+                "DateTimeOriginal": {
+                  "value": "1914-01-01",
+                  "source": "commons-desc-page"
+                },
+                "Credit": {
+                  "value": "British Library",
+                  "source": "commons-desc-page"
+                },
+                "Artist": {
+                  "value": "Effie Ryle",
+                  "source": "commons-desc-page"
+                },
+                "LicenseShortName": {
+                  "value": "Public domain",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "UsageTerms": {
+                  "value": "Public domain",
+                  "source": "commons-desc-page"
+                },
+                "AttributionRequired": {
+                  "value": "false",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "Copyrighted": {
+                  "value": "False",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "Restrictions": {
+                  "value": "",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "License": {
+                  "value": "pd",
+                  "source": "commons-templates",
+                  "hidden": ""
+                }
+              }
+            }
+          ]
+        },
+        {
+          "pageid": 94785236,
+          "ns": 6,
+          "title": "File:Life of Marcus Tullius Cicero (IA aht5211.0002.001.umich.edu).pdf",
+          "index": 3,
+          "imagerepository": "local",
+          "imageinfo": [
+            {
+              "size": 14492979,
+              "width": 831,
+              "height": 1222,
+              "pagecount": 354,
+              "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/89/Life_of_Marcus_Tullius_Cicero_%28IA_aht5211.0002.001.umich.edu%29.pdf/page1-500px-Life_of_Marcus_Tullius_Cicero_%28IA_aht5211.0002.001.umich.edu%29.pdf.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+              "thumbwidth": 400,
+              "thumbheight": 588,
+              "thumbattribs": {
+                "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/89/Life_of_Marcus_Tullius_Cicero_%28IA_aht5211.0002.001.umich.edu%29.pdf/page1-500px-Life_of_Marcus_Tullius_Cicero_%28IA_aht5211.0002.001.umich.edu%29.pdf.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+                "decoding": "async",
+                "loading": "lazy",
+                "width": 400,
+                "height": 588
+              },
+              "url": "https://upload.wikimedia.org/wikipedia/commons/8/89/Life_of_Marcus_Tullius_Cicero_%28IA_aht5211.0002.001.umich.edu%29.pdf?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+              "descriptionurl": "https://commons.wikimedia.org/wiki/File:Life_of_Marcus_Tullius_Cicero_(IA_aht5211.0002.001.umich.edu).pdf",
+              "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=94785236",
+              "extmetadata": {
+                "DateTime": {
+                  "value": "2020-10-05 21:58:59",
+                  "source": "mediawiki-metadata",
+                  "hidden": ""
+                },
+                "ObjectName": {
+                  "value": "<div class=\"fn\">\nLife of Marcus Tullius Cicero</div>",
+                  "source": "commons-desc-page"
+                },
+                "CommonsMetadataExtension": {
+                  "value": 1.2,
+                  "source": "extension",
+                  "hidden": ""
+                },
+                "Categories": {
+                  "value": "Books from New York (state)|Scans from the Internet Archive/unverified|PD US expired|Scans from the Internet Archive|Books uploaded by Fæ|Books without Wikidata item|University of Michigan Books|Books about Cicero",
+                  "source": "commons-categories",
+                  "hidden": ""
+                },
+                "Assessments": {
+                  "value": "",
+                  "source": "commons-categories",
+                  "hidden": ""
+                },
+                "Artist": {
+                  "value": "<div class=\"fn value\">\nForsyth, William, 1812-1899</div>",
+                  "source": "commons-desc-page"
+                },
+                "ImageDescription": {
+                  "value": "<div class=\"description\">\nSubjects: Cicero, Marcus Tullius</div>",
+                  "source": "commons-desc-page"
+                },
+                "Credit": {
+                  "value": "<dl><dd><a href=\"//archive.org/details/aht5211.0002.001.umich.edu\" class=\"extiw\" title=\"iarchive:aht5211.0002.001.umich.edu\"><bdi class=\"description en\" lang=\"en\" dir=\"ltr\">Internet Archive identifier</bdi>: aht5211.0002.001.umich.edu</a></dd>\n<dd><a rel=\"nofollow\" class=\"external free\" href=\"https://archive.org/download/aht5211.0002.001.umich.edu/aht5211.0002.001.umich.edu.pdf\">https://archive.org/download/aht5211.0002.001.umich.edu/aht5211.0002.001.umich.edu.pdf</a></dd></dl>",
+                  "source": "commons-desc-page"
+                },
+                "LicenseShortName": {
+                  "value": "Public domain",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "UsageTerms": {
+                  "value": "Public domain",
+                  "source": "commons-desc-page"
+                },
+                "AttributionRequired": {
+                  "value": "false",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "Copyrighted": {
+                  "value": "False",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "Restrictions": {
+                  "value": "",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "License": {
+                  "value": "pd",
+                  "source": "commons-templates",
+                  "hidden": ""
+                }
+              }
+            }
+          ]
+        },
+        {
+          "pageid": 95661110,
+          "ns": 6,
+          "title": "File:Selections from Latin authors - (285 b.c.-200 a.d.) (IA selectionsfromla00tolm).pdf",
+          "index": 5,
+          "imagerepository": "local",
+          "imageinfo": [
+            {
+              "size": 2140053,
+              "width": 737,
+              "height": 1114,
+              "pagecount": 68,
+              "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1b/Selections_from_Latin_authors_-_%28285_b.c.-200_a.d.%29_%28IA_selectionsfromla00tolm%29.pdf/page1-500px-Selections_from_Latin_authors_-_%28285_b.c.-200_a.d.%29_%28IA_selectionsfromla00tolm%29.pdf.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+              "thumbwidth": 400,
+              "thumbheight": 605,
+              "thumbattribs": {
+                "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1b/Selections_from_Latin_authors_-_%28285_b.c.-200_a.d.%29_%28IA_selectionsfromla00tolm%29.pdf/page1-500px-Selections_from_Latin_authors_-_%28285_b.c.-200_a.d.%29_%28IA_selectionsfromla00tolm%29.pdf.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+                "decoding": "async",
+                "loading": "lazy",
+                "width": 400,
+                "height": 605
+              },
+              "url": "https://upload.wikimedia.org/wikipedia/commons/1/1b/Selections_from_Latin_authors_-_%28285_b.c.-200_a.d.%29_%28IA_selectionsfromla00tolm%29.pdf?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+              "descriptionurl": "https://commons.wikimedia.org/wiki/File:Selections_from_Latin_authors_-_(285_b.c.-200_a.d.)_(IA_selectionsfromla00tolm).pdf",
+              "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=95661110",
+              "extmetadata": {
+                "DateTime": {
+                  "value": "2020-10-31 01:34:09",
+                  "source": "mediawiki-metadata",
+                  "hidden": ""
+                },
+                "ObjectName": {
+                  "value": "<div class=\"fn\">\nSelections from Latin authors : (285 b.c.-200 a.d.)</div>",
+                  "source": "commons-desc-page"
+                },
+                "CommonsMetadataExtension": {
+                  "value": 1.2,
+                  "source": "extension",
+                  "hidden": ""
+                },
+                "Categories": {
+                  "value": "Scans from the Internet Archive/unverified|PD US expired|Scans from the Internet Archive|Books uploaded by Fæ|Books without Wikidata item|Scans from the University of North Carolina at Chapel Hill",
+                  "source": "commons-categories",
+                  "hidden": ""
+                },
+                "Assessments": {
+                  "value": "",
+                  "source": "commons-categories",
+                  "hidden": ""
+                },
+                "Artist": {
+                  "value": "<div class=\"fn value\">\nTolman, Herbert Cushing, b. 1865</div>",
+                  "source": "commons-desc-page"
+                },
+                "ImageDescription": {
+                  "value": "<div class=\"description\">\nSubjects: Latin literature; Latin language</div>",
+                  "source": "commons-desc-page"
+                },
+                "Credit": {
+                  "value": "<dl><dd><a href=\"//archive.org/details/selectionsfromla00tolm\" class=\"extiw\" title=\"iarchive:selectionsfromla00tolm\"><bdi class=\"description en\" lang=\"en\" dir=\"ltr\">Internet Archive identifier</bdi>: selectionsfromla00tolm</a></dd>\n<dd><a rel=\"nofollow\" class=\"external free\" href=\"https://archive.org/download/selectionsfromla00tolm/selectionsfromla00tolm.pdf\">https://archive.org/download/selectionsfromla00tolm/selectionsfromla00tolm.pdf</a></dd></dl>",
+                  "source": "commons-desc-page"
+                },
+                "LicenseShortName": {
+                  "value": "Public domain",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "UsageTerms": {
+                  "value": "Public domain",
+                  "source": "commons-desc-page"
+                },
+                "AttributionRequired": {
+                  "value": "false",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "Copyrighted": {
+                  "value": "False",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "Restrictions": {
+                  "value": "",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "License": {
+                  "value": "pd",
+                  "source": "commons-templates",
+                  "hidden": ""
+                }
+              }
+            }
+          ]
+        },
+        {
+          "pageid": 97938069,
+          "ns": 6,
+          "title": "File:The Roman empire, B.C.29-A.D.476 (IA cu31924028313512).pdf",
+          "index": 4,
+          "imagerepository": "local",
+          "imageinfo": [
+            {
+              "size": 27353086,
+              "width": 1285,
+              "height": 1997,
+              "pagecount": 524,
+              "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/09/The_Roman_empire%2C_B.C.29-A.D.476_%28IA_cu31924028313512%29.pdf/page1-500px-The_Roman_empire%2C_B.C.29-A.D.476_%28IA_cu31924028313512%29.pdf.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+              "thumbwidth": 400,
+              "thumbheight": 622,
+              "responsiveUrls": {
+                "2": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/09/The_Roman_empire%2C_B.C.29-A.D.476_%28IA_cu31924028313512%29.pdf/page1-960px-The_Roman_empire%2C_B.C.29-A.D.476_%28IA_cu31924028313512%29.pdf.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+              },
+              "thumbattribs": {
+                "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/09/The_Roman_empire%2C_B.C.29-A.D.476_%28IA_cu31924028313512%29.pdf/page1-500px-The_Roman_empire%2C_B.C.29-A.D.476_%28IA_cu31924028313512%29.pdf.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+                "decoding": "async",
+                "loading": "lazy",
+                "width": 400,
+                "height": 622,
+                "srcset": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/09/The_Roman_empire%2C_B.C.29-A.D.476_%28IA_cu31924028313512%29.pdf/page1-960px-The_Roman_empire%2C_B.C.29-A.D.476_%28IA_cu31924028313512%29.pdf.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail 2x"
+              },
+              "url": "https://upload.wikimedia.org/wikipedia/commons/0/09/The_Roman_empire%2C_B.C.29-A.D.476_%28IA_cu31924028313512%29.pdf?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+              "descriptionurl": "https://commons.wikimedia.org/wiki/File:The_Roman_empire,_B.C.29-A.D.476_(IA_cu31924028313512).pdf",
+              "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=97938069",
+              "extmetadata": {
+                "DateTime": {
+                  "value": "2020-12-22 03:29:04",
+                  "source": "mediawiki-metadata",
+                  "hidden": ""
+                },
+                "ObjectName": {
+                  "value": "<div class=\"fn\">\nThe Roman empire, B.C.29-A.D.476</div>",
+                  "source": "commons-desc-page"
+                },
+                "CommonsMetadataExtension": {
+                  "value": 1.2,
+                  "source": "extension",
+                  "hidden": ""
+                },
+                "Categories": {
+                  "value": "Books from New York (state)|Scans from the Internet Archive/unverified|PD US expired|Scans from the Internet Archive|Books uploaded by Fæ|Books without Wikidata item|IA books of at least 500 pages|Scans from Cornell University Library",
+                  "source": "commons-categories",
+                  "hidden": ""
+                },
+                "Assessments": {
+                  "value": "",
+                  "source": "commons-categories",
+                  "hidden": ""
+                },
+                "Artist": {
+                  "value": "<div class=\"fn value\">\nJones, Henry Stuart, 1867-1939</div>",
+                  "source": "commons-desc-page"
+                },
+                "ImageDescription": {
+                  "value": "<div class=\"description\">\n<p>The metadata below describe the original scanning. Follow the \"All Files: HTTP\" link in the \"View the book\" box to the left to find XML files that contain more metadata about the original images and the derived formats (OCR results, PDF etc.). See also the <a rel=\"nofollow\" class=\"external text\" href=\"https://archive.org/about/faqs.php#140\">What is the directory structure for the texts?</a> FAQ for information about file content and naming conventions.\n</p>\n<br>Subjects:</div>",
+                  "source": "commons-desc-page"
+                },
+                "Credit": {
+                  "value": "<dl><dd><a href=\"//archive.org/details/cu31924028313512\" class=\"extiw\" title=\"iarchive:cu31924028313512\"><bdi class=\"description en\" lang=\"en\" dir=\"ltr\">Internet Archive identifier</bdi>: cu31924028313512</a></dd>\n<dd><a rel=\"nofollow\" class=\"external free\" href=\"https://archive.org/download/cu31924028313512/cu31924028313512.pdf\">https://archive.org/download/cu31924028313512/cu31924028313512.pdf</a></dd></dl>",
+                  "source": "commons-desc-page"
+                },
+                "LicenseShortName": {
+                  "value": "Public domain",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "UsageTerms": {
+                  "value": "Public domain",
+                  "source": "commons-desc-page"
+                },
+                "AttributionRequired": {
+                  "value": "false",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "Copyrighted": {
+                  "value": "False",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "Restrictions": {
+                  "value": "",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "License": {
+                  "value": "pd",
+                  "source": "commons-templates",
+                  "hidden": ""
+                }
+              }
+            }
+          ]
+        }
+      ]
+    }
+  }
+}

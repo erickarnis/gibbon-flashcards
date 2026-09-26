@@ -1,0 +1,566 @@
+{
+  "person_id": "fausta",
+  "query": "Fausta coin",
+  "response": {
+    "batchcomplete": true,
+    "continue": {
+      "gsroffset": 5,
+      "continue": "gsroffset||"
+    },
+    "query": {
+      "pages": [
+        {
+          "pageid": 35012729,
+          "ns": 6,
+          "title": "File:Nummus de Fausta, belle-fille de Maximien Hercule, épouse de Constantin, 326.jpg",
+          "index": 5,
+          "imagerepository": "local",
+          "imageinfo": [
+            {
+              "size": 606130,
+              "width": 2350,
+              "height": 1137,
+              "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/df/Nummus_de_Fausta%2C_belle-fille_de_Maximien_Hercule%2C_%C3%A9pouse_de_Constantin%2C_326.jpg/500px-Nummus_de_Fausta%2C_belle-fille_de_Maximien_Hercule%2C_%C3%A9pouse_de_Constantin%2C_326.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+              "thumbwidth": 400,
+              "thumbheight": 194,
+              "responsiveUrls": {
+                "2": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/df/Nummus_de_Fausta%2C_belle-fille_de_Maximien_Hercule%2C_%C3%A9pouse_de_Constantin%2C_326.jpg/960px-Nummus_de_Fausta%2C_belle-fille_de_Maximien_Hercule%2C_%C3%A9pouse_de_Constantin%2C_326.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+              },
+              "thumbattribs": {
+                "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/df/Nummus_de_Fausta%2C_belle-fille_de_Maximien_Hercule%2C_%C3%A9pouse_de_Constantin%2C_326.jpg/500px-Nummus_de_Fausta%2C_belle-fille_de_Maximien_Hercule%2C_%C3%A9pouse_de_Constantin%2C_326.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+                "decoding": "async",
+                "loading": "lazy",
+                "width": 400,
+                "height": 194,
+                "srcset": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/df/Nummus_de_Fausta%2C_belle-fille_de_Maximien_Hercule%2C_%C3%A9pouse_de_Constantin%2C_326.jpg/960px-Nummus_de_Fausta%2C_belle-fille_de_Maximien_Hercule%2C_%C3%A9pouse_de_Constantin%2C_326.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail 2x"
+              },
+              "url": "https://upload.wikimedia.org/wikipedia/commons/d/df/Nummus_de_Fausta%2C_belle-fille_de_Maximien_Hercule%2C_%C3%A9pouse_de_Constantin%2C_326.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+              "descriptionurl": "https://commons.wikimedia.org/wiki/File:Nummus_de_Fausta,_belle-fille_de_Maximien_Hercule,_%C3%A9pouse_de_Constantin,_326.jpg",
+              "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=35012729",
+              "extmetadata": {
+                "DateTime": {
+                  "value": "2014-08-29 16:37:10",
+                  "source": "mediawiki-metadata",
+                  "hidden": ""
+                },
+                "ObjectName": {
+                  "value": "Nummus de Fausta, belle-fille de Maximien Hercule, épouse de Constantin, 326",
+                  "source": "mediawiki-metadata"
+                },
+                "CommonsMetadataExtension": {
+                  "value": 1.2,
+                  "source": "extension",
+                  "hidden": ""
+                },
+                "Categories": {
+                  "value": "Self-published work|Salus on Roman coins|Coins of Fausta",
+                  "source": "commons-categories",
+                  "hidden": ""
+                },
+                "Assessments": {
+                  "value": "",
+                  "source": "commons-categories",
+                  "hidden": ""
+                },
+                "ImageDescription": {
+                  "value": "nummus de Fausta, belle-fille de Maximien Hercule, épouse de Constantin",
+                  "source": "commons-desc-page"
+                },
+                "DateTimeOriginal": {
+                  "value": "2014-08-29 18:27:09",
+                  "source": "commons-desc-page"
+                },
+                "Credit": {
+                  "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+                  "source": "commons-desc-page"
+                },
+                "Artist": {
+                  "value": "<a href=\"//commons.wikimedia.org/w/index.php?title=User:Xoumagabal&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"User:Xoumagabal (page does not exist)\">Maxime Cambreling</a>",
+                  "source": "commons-desc-page"
+                },
+                "LicenseShortName": {
+                  "value": "CC BY-SA 4.0",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "UsageTerms": {
+                  "value": "Creative Commons Attribution-Share Alike 4.0",
+                  "source": "commons-desc-page"
+                },
+                "AttributionRequired": {
+                  "value": "true",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "LicenseUrl": {
+                  "value": "https://creativecommons.org/licenses/by-sa/4.0",
+                  "source": "commons-desc-page"
+                },
+                "Copyrighted": {
+                  "value": "True",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "Restrictions": {
+                  "value": "",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "License": {
+                  "value": "cc-by-sa-4.0",
+                  "source": "commons-templates",
+                  "hidden": ""
+                }
+              }
+            }
+          ]
+        },
+        {
+          "pageid": 54966459,
+          "ns": 6,
+          "title": "File:Roman Coin, Fausta (died AD 326, wife of Constantine I) nummus, Trier (FindID 653544).jpg",
+          "index": 2,
+          "imagerepository": "local",
+          "imageinfo": [
+            {
+              "size": 742737,
+              "width": 4752,
+              "height": 2710,
+              "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/71/Roman_Coin%2C_Fausta_%28died_AD_326%2C_wife_of_Constantine_I%29_nummus%2C_Trier_%28FindID_653544%29.jpg/500px-Roman_Coin%2C_Fausta_%28died_AD_326%2C_wife_of_Constantine_I%29_nummus%2C_Trier_%28FindID_653544%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+              "thumbwidth": 400,
+              "thumbheight": 228,
+              "responsiveUrls": {
+                "2": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/71/Roman_Coin%2C_Fausta_%28died_AD_326%2C_wife_of_Constantine_I%29_nummus%2C_Trier_%28FindID_653544%29.jpg/960px-Roman_Coin%2C_Fausta_%28died_AD_326%2C_wife_of_Constantine_I%29_nummus%2C_Trier_%28FindID_653544%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+              },
+              "thumbattribs": {
+                "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/71/Roman_Coin%2C_Fausta_%28died_AD_326%2C_wife_of_Constantine_I%29_nummus%2C_Trier_%28FindID_653544%29.jpg/500px-Roman_Coin%2C_Fausta_%28died_AD_326%2C_wife_of_Constantine_I%29_nummus%2C_Trier_%28FindID_653544%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+                "decoding": "async",
+                "loading": "lazy",
+                "width": 400,
+                "height": 228,
+                "srcset": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/71/Roman_Coin%2C_Fausta_%28died_AD_326%2C_wife_of_Constantine_I%29_nummus%2C_Trier_%28FindID_653544%29.jpg/960px-Roman_Coin%2C_Fausta_%28died_AD_326%2C_wife_of_Constantine_I%29_nummus%2C_Trier_%28FindID_653544%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail 2x"
+              },
+              "url": "https://upload.wikimedia.org/wikipedia/commons/7/71/Roman_Coin%2C_Fausta_%28died_AD_326%2C_wife_of_Constantine_I%29_nummus%2C_Trier_%28FindID_653544%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+              "descriptionurl": "https://commons.wikimedia.org/wiki/File:Roman_Coin,_Fausta_(died_AD_326,_wife_of_Constantine_I)_nummus,_Trier_(FindID_653544).jpg",
+              "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=54966459",
+              "extmetadata": {
+                "DateTime": {
+                  "value": "2017-01-12 01:05:58",
+                  "source": "mediawiki-metadata",
+                  "hidden": ""
+                },
+                "ObjectName": {
+                  "value": "<div class=\"fn\">\nRoman Coin: Fausta (died AD 326, wife of Constantine I) nummus, Trier</div>",
+                  "source": "commons-desc-page"
+                },
+                "CommonsMetadataExtension": {
+                  "value": 1.2,
+                  "source": "extension",
+                  "hidden": ""
+                },
+                "Categories": {
+                  "value": "Portable Antiquities Scheme|Images uploaded by Fæ|Nummi in the Portable Antiquities Scheme|Coins of Fausta",
+                  "source": "commons-categories",
+                  "hidden": ""
+                },
+                "Assessments": {
+                  "value": "",
+                  "source": "commons-categories",
+                  "hidden": ""
+                },
+                "Artist": {
+                  "value": "<div class=\"fn value\">\nAll rights reserved, Wenke Domscheit, 2014-12-04 14:06:31</div>",
+                  "source": "commons-desc-page"
+                },
+                "ImageDescription": {
+                  "value": "Roman Coin: Fausta (died AD 326, wife of Constantine I) nummus, Trier",
+                  "source": "commons-desc-page"
+                },
+                "DateTimeOriginal": {
+                  "value": "ROMAN",
+                  "source": "commons-desc-page"
+                },
+                "Credit": {
+                  "value": "<a rel=\"nofollow\" class=\"external free\" href=\"https://finds.org.uk/database/ajax/download/id/495565\">https://finds.org.uk/database/ajax/download/id/495565</a><br>Catalog: <a rel=\"nofollow\" class=\"external free\" href=\"https://finds.org.uk/database/images/image/id/495565\">https://finds.org.uk/database/images/image/id/495565</a>",
+                  "source": "commons-desc-page"
+                },
+                "Permission": {
+                  "value": "Attribution-ShareAlike License",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "LicenseShortName": {
+                  "value": "CC BY-SA 2.0",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "UsageTerms": {
+                  "value": "Creative Commons Attribution-Share Alike 2.0",
+                  "source": "commons-desc-page"
+                },
+                "AttributionRequired": {
+                  "value": "true",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "Attribution": {
+                  "value": "The Portable Antiquities Scheme/ The Trustees of the British Museum",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "LicenseUrl": {
+                  "value": "https://creativecommons.org/licenses/by-sa/2.0",
+                  "source": "commons-desc-page"
+                },
+                "Copyrighted": {
+                  "value": "True",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "Restrictions": {
+                  "value": "",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "License": {
+                  "value": "cc-by-sa-2.0",
+                  "source": "commons-templates",
+                  "hidden": ""
+                }
+              }
+            }
+          ]
+        },
+        {
+          "pageid": 66764925,
+          "ns": 6,
+          "title": "File:Fausta Km 141.5.JPG",
+          "index": 4,
+          "imagerepository": "local",
+          "imageinfo": [
+            {
+              "size": 216963,
+              "width": 951,
+              "height": 713,
+              "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/cb/Fausta_Km_141.5.JPG/500px-Fausta_Km_141.5.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+              "thumbwidth": 400,
+              "thumbheight": 300,
+              "responsiveUrls": {
+                "2": "https://upload.wikimedia.org/wikipedia/commons/c/cb/Fausta_Km_141.5.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled"
+              },
+              "thumbattribs": {
+                "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/cb/Fausta_Km_141.5.JPG/500px-Fausta_Km_141.5.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+                "decoding": "async",
+                "loading": "lazy",
+                "width": 400,
+                "height": 300,
+                "srcset": "https://upload.wikimedia.org/wikipedia/commons/c/cb/Fausta_Km_141.5.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled 2x"
+              },
+              "url": "https://upload.wikimedia.org/wikipedia/commons/c/cb/Fausta_Km_141.5.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+              "descriptionurl": "https://commons.wikimedia.org/wiki/File:Fausta_Km_141.5.JPG",
+              "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=66764925",
+              "extmetadata": {
+                "DateTime": {
+                  "value": "2018-02-24 13:42:00",
+                  "source": "mediawiki-metadata",
+                  "hidden": ""
+                },
+                "ObjectName": {
+                  "value": "Fausta Km 141.5",
+                  "source": "mediawiki-metadata"
+                },
+                "CommonsMetadataExtension": {
+                  "value": 1.2,
+                  "source": "extension",
+                  "hidden": ""
+                },
+                "Categories": {
+                  "value": "GFDL|License migration not eligible|Coins of Fausta",
+                  "source": "commons-categories",
+                  "hidden": ""
+                },
+                "Assessments": {
+                  "value": "",
+                  "source": "commons-categories",
+                  "hidden": ""
+                },
+                "ImageDescription": {
+                  "value": "Fausta auf Bronzemünze, Kampmann 141.5",
+                  "source": "commons-desc-page"
+                },
+                "DateTimeOriginal": {
+                  "value": "2018-02-18",
+                  "source": "commons-desc-page"
+                },
+                "Credit": {
+                  "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span><br><span lang=\"en\" dir=\"ltr\"><b>Original text</b></span>: <i>eigenes Werk</i>",
+                  "source": "commons-desc-page"
+                },
+                "Artist": {
+                  "value": "Hermann Junghans",
+                  "source": "commons-desc-page"
+                },
+                "LicenseShortName": {
+                  "value": "CC BY-SA 3.0 de",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "UsageTerms": {
+                  "value": "Creative Commons Attribution-Share Alike 3.0 de",
+                  "source": "commons-desc-page"
+                },
+                "AttributionRequired": {
+                  "value": "true",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "LicenseUrl": {
+                  "value": "https://creativecommons.org/licenses/by-sa/3.0/de/deed.en",
+                  "source": "commons-desc-page"
+                },
+                "Copyrighted": {
+                  "value": "True",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "Restrictions": {
+                  "value": "",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "License": {
+                  "value": "cc-by-sa-3.0-de",
+                  "source": "commons-templates",
+                  "hidden": ""
+                }
+              }
+            }
+          ]
+        },
+        {
+          "pageid": 78097524,
+          "ns": 6,
+          "title": "File:2017T925. Heavily corroded coin with remains of detail, obverse. Copper alloy coin of Fausta? (FindID 870181).jpg",
+          "index": 1,
+          "imagerepository": "local",
+          "imageinfo": [
+            {
+              "size": 4535189,
+              "width": 2499,
+              "height": 3462,
+              "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/47/2017T925._Heavily_corroded_coin_with_remains_of_detail%2C_obverse._Copper_alloy_coin_of_Fausta%3F_%28FindID_870181%29.jpg/500px-2017T925._Heavily_corroded_coin_with_remains_of_detail%2C_obverse._Copper_alloy_coin_of_Fausta%3F_%28FindID_870181%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+              "thumbwidth": 400,
+              "thumbheight": 554,
+              "responsiveUrls": {
+                "2": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/47/2017T925._Heavily_corroded_coin_with_remains_of_detail%2C_obverse._Copper_alloy_coin_of_Fausta%3F_%28FindID_870181%29.jpg/960px-2017T925._Heavily_corroded_coin_with_remains_of_detail%2C_obverse._Copper_alloy_coin_of_Fausta%3F_%28FindID_870181%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+              },
+              "thumbattribs": {
+                "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/47/2017T925._Heavily_corroded_coin_with_remains_of_detail%2C_obverse._Copper_alloy_coin_of_Fausta%3F_%28FindID_870181%29.jpg/500px-2017T925._Heavily_corroded_coin_with_remains_of_detail%2C_obverse._Copper_alloy_coin_of_Fausta%3F_%28FindID_870181%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+                "decoding": "async",
+                "loading": "lazy",
+                "width": 400,
+                "height": 554,
+                "srcset": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/47/2017T925._Heavily_corroded_coin_with_remains_of_detail%2C_obverse._Copper_alloy_coin_of_Fausta%3F_%28FindID_870181%29.jpg/960px-2017T925._Heavily_corroded_coin_with_remains_of_detail%2C_obverse._Copper_alloy_coin_of_Fausta%3F_%28FindID_870181%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail 2x"
+              },
+              "url": "https://upload.wikimedia.org/wikipedia/commons/4/47/2017T925._Heavily_corroded_coin_with_remains_of_detail%2C_obverse._Copper_alloy_coin_of_Fausta%3F_%28FindID_870181%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+              "descriptionurl": "https://commons.wikimedia.org/wiki/File:2017T925._Heavily_corroded_coin_with_remains_of_detail,_obverse._Copper_alloy_coin_of_Fausta%3F_(FindID_870181).jpg",
+              "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=78097524",
+              "extmetadata": {
+                "DateTime": {
+                  "value": "2019-04-17 00:37:32",
+                  "source": "mediawiki-metadata",
+                  "hidden": ""
+                },
+                "ObjectName": {
+                  "value": "<div class=\"fn\">\n2017T925. Heavily corroded coin with remains of detail, obverse. Copper alloy coin of Fausta?</div>",
+                  "source": "commons-desc-page"
+                },
+                "CommonsMetadataExtension": {
+                  "value": 1.2,
+                  "source": "extension",
+                  "hidden": ""
+                },
+                "Categories": {
+                  "value": "Portable Antiquities Scheme|Images uploaded by Fæ|Portable Antiquities Scheme, PUBLIC|Coins of Fausta",
+                  "source": "commons-categories",
+                  "hidden": ""
+                },
+                "Assessments": {
+                  "value": "",
+                  "source": "commons-categories",
+                  "hidden": ""
+                },
+                "Artist": {
+                  "value": "<div class=\"fn value\">\nThe British Museum, Pippa Pearce, 2017-12-27 14:20:23</div>",
+                  "source": "commons-desc-page"
+                },
+                "ImageDescription": {
+                  "value": "The coins were submitted as 9 loose coins and two clumps of coins concreted together with corrosion products. These were separated in the British Museum Conservation laboratory. Associated with the coins were seven artefacts. These were found in one discrete group with the exception of the phallic pendant, found one to two metres to the south, and the lead object, found five metres to the south. They are likely to have been moved by ploughing<p class=\"mw-empty-elt\"></p>\n<p><strong>Contents of find</strong></p>\n<p><strong>The coins (E. Ghey)</strong></p>\n<p>The coins submitted for consideration consist of a group of 24 medium-sized copper alloy coins, probably all of the denominations known as the <em>as</em> (some may be <em>dupondii </em>where the denomination cannot be determined from the bust type). The hoard is made up of a tightly dated cluster of coins from the reign of Antoninus Pius with a few earlier coins from the later first and early second century AD. The latest dated coin is of AD 154-5 and although the coins of Faustina I and II are more broadly dated in the reign of Antoninus Pius, there are no coins among the less identifiable ones that are likely to be later than this.</p>\n<p>The group includes a number of coins 'of British association' depicting Britannia that were probably struck in Rome for use in Britain (Walker 1988, 294). The location of the hoard north of Hadrian's Wall and the deposition date of the hoard would support the interpretation of the hoard as military in character, possibly connected to Roman campaigns in the area in the short period prior to the abandonment of the Antonine Wall.</p>\n<p>They are fully catalogued in the appendix below but can be summarised by reign as:</p>\n<p>Nero (AD 54-68) 1</p>\n<p>Domitian (AD 81-96) 1</p>\n<p>Uncertain Flavian (AD 69-96)</p>\n<p>Domitian 1</p>\n<p>Uncertain 1</p>\n<p>Hadrian (AD 117-138) 2</p>\n<p>Aelius Caesar 1</p>\n<p>Antoninus Pius (AD 138-161) 11</p>\n<p>Diva Faustina I 2</p>\n<p>Faustina II 1</p>\n<p>Uncertain Antonine Emperor 1</p>\n<p>Uncertain Antonine Empress 2</p>\n<p><strong>Total 24</strong></p>\n<p><strong>The objects (by Rachel Wilkinson)</strong></p>\n<p>The group consists of one 1 key, 1 phallic pendant, 1 disc brooch, two pelta mounts, one button loop toggle, and a circular lead object.</p>\n<ol><li>Phallic pendant</li>\n</ol><p>A complete Roman phallic pendant. The phallus is straight and two-dimensional, with a flat back. It is crudely modelled with a vertical incised line upwards from the tip of the phallus, and above this, a horizontal line. A small suspension loop is attached to the base of the testicles.</p>\n<p>Length 26.0mm; max. width 15.9mm; min. width 6.20mm; depth 5.1mm</p>\n<p>Weight: 7.72g</p>\n<p>These pendants and harness fittings are often associated with Roman soldiers (enlisted or veterans), and were believed to be atropaic symbols, to protect the wearer (Plouuviez 2005). Phallic pendants have been found throughout the country but vary in their representation (&lt;a href=\"<a rel=\"nofollow\" class=\"external free\" href=\"https://finds.org.uk/database/artefacts/record/id/137435\">https://finds.org.uk/database/artefacts/record/id/137435</a>\"&gt;LEIC-F6A401&lt;/a&gt;, &lt;a href=\"<a rel=\"nofollow\" class=\"external free\" href=\"https://finds.org.uk/database/artefacts/record/id/753793\">https://finds.org.uk/database/artefacts/record/id/753793</a>\"&gt;SF-49E6A6&lt;/a&gt; or &lt;a href=\"<a rel=\"nofollow\" class=\"external free\" href=\"https://finds.org.uk/database/artefacts/record/id/638588\">https://finds.org.uk/database/artefacts/record/id/638588</a>\"&gt;BM-523238&lt;/a&gt;). Phallic pendants have been found in first to second century military contexts (Crummy 1983, 139-140).</p>\n<ol><li>Pelta mounts</li>\n</ol><p>Two incomplete copper alloy pelta mounts.</p>\n<p>One peltate-shaped mount is more intact that the second, with most of the semi-circular copper alloy body surviving though there is some damage to the edges. A hole, presumably for attachment, sits in the centre of body, slightly off-set below the 'arm'. The top of the 'arm' is broken. The mount is flat on one side, with a projection on the edge, perhaps to aid attachment.</p>\n<p>Max length: 40.9mm; Max height 26.0 mm; Depth 1.6mm;</p>\n<p>Width of projection: 6.0mm; Length of projection: 11.0mm;</p>\n<p>Weight: 4.82g</p>\n<p>The smaller semi-circular mount is very similar to the above, but with a large section missing on the left. The projecting 'arm' is also broken and it has a hole, possibly for attachment, below this. There appears to have been another attempt at piercing the object with a soil-filled indent offset to the right. There is a surviving projection on the long edge.</p>\n<p>Max length: 36.5mm; Max height: 23.5 mm; Depth: 1.6 mm;</p>\n<p>Width of projection: 5.3 mm; Length of projection: 8.3mm;</p>\n<p>Weight: 3.33g</p>\n<p>A small fragment, probably part of the projection from the mounts.</p>\n<p>Length: 14.5mm Fragment Weight: 0.51g</p>\n<p>Similar objects on the PAS database are ESS-A61324, SUSS-EA12D2 and BUC-641283, though none have a hole for attachment. They may be vessel mounts and are often associated with the military. They have traditionally been given a second to third century date (Crummy 1983, 136).</p>\n<ol><li>Button and loop toggle</li>\n</ol><p>A complete copper alloy button and loop toggle. It has a large dome-shaped, hollow head with a triangular integral toggle, set at 90 degrees.</p>\n<p>Button diameter: 19.5mm; Max height: 22.5mm; Loop length: 21.5mm; Overall length: 31.5 mm</p>\n<p>Weight: 17.11g</p>\n<p>Similar to one found in North Lincolnshire, NLM-2D2985. First to second century.</p>\n<ol><li>Disc brooch</li>\n</ol><p>A copper alloy disc brooch with applied silver or tinned repousse decoration.</p>\n<p>There is some iron corrosion to the face of the brooch, making the decoration difficult to discern. It appears to be a triskele design, possibly with a pellet design at the centre of the brooch, surrounded by concentric circles.</p>\n<p>The brooch is well preserved with the catch plate and pin in almost pristine condition. The catch plate has some decoration.</p>\n<p>The face of the brooch appears to have had contact with an iron item, perhaps now disintegrated, leaving corrosion product and red staining on the centre and obscuring much of the face of the brooch.</p>\n<p>Diameter: 39.5mm</p>\n<p>Weight: 21.09g</p>\n<p>The Celtic style decoration (Allason-Jones and Miket 1984, 118 no. 3148) has led to the attribution of a first century AD date (Bayley and Butcher 2004, 131 no. 373 type T249). However one brooch with this form of decoration was found in a third century context at Caerleon (Brewer 986, 170 no. 9). A third century date is given by Mackreth (2011, 155 type 1f). Ghey notes that \"Adlocutio\" brooch type, which has some design similarities, dates to the second century AD (LANCUM-D19609).</p>\n<p>A very similar brooch was found in Allithwaite, Cumbria (LANCUM-D19609) and another similar brooch, but without the pellet decoration, was found at Brough, Cumbria (British Museum number 1874, 0328.95).</p>\n<ol><li>Key</li>\n</ol><p>A Roman copper alloy slide key. Rectangular handle with circular loop above and square-sectioned shaft below. It has some iron corrosion to one side. The handle is decorated on one side with incised 'X' and line above and below.</p>\n<p>Max length: 52.1 mm; max width: 35.0mm</p>\n<p>Weight: 27.02g</p>\n<p>It is very similar to 1856,0701.1080 (British Museum collections) found in London. The handle form and decoration form are very similar, but the BM example has a different key teeth arrangement. Similar keys have been found in first to second century contexts at Colchester (Crummy 1983, 125).</p>\n<ol><li>Lead plano-convex object</li>\n</ol><p>The object is lead and plano-convex shaped. All surfaces of the object are smooth suggesting that it did not function as button or toggle, nor was it metal working debris.</p>\n<p>Diameter: 15.7 mm</p>\n<p>Weight: 6.59g</p>\n<p>The form is similar to other items which have been identified as gaming pieces, such as NLM-949CA9.</p>\n<p><strong>References: </strong></p>\n<p>Allason-Jones, L. and Miket, R. 1984. <em>The catalogue of small finds from South Shields Roman fort</em>. Newcastle Upon Tyne, Society of Antiquaries Newcastle upon Tyne.</p>\n<p>Bayley, J. and Butcher, S. 2004. <em>Roman Brooches in Britain: A Technological and Typological Study based on the Richborough Collection</em>.</p>\n<p>Brewer, R.J. 1986. The bronze brooches. In J.D. Zienkiewicz <em>The legionary fortress baths at Caerleon, II. The finds</em>, 165-172. Cardiff, National Museum of Wales and Cadw.</p>\n<p>Crummy, N. 1983. <em>The Roman small finds from excavations in Colchester 1971-9</em>. Colchester Archaeological Report 2. Colchester, Colchester Archaeological Trust.</p>\n<p>Mackreth, D.F. 2011. <em>Brooches in Late Iron Age and Roman Britain</em>. Oxford, Oxbow Books.</p>\n<p>Plouviez, J., 2005. 'Whose good luck? Roman phallic ornaments from Suffolk' in N. Crummy (ed.), <em>Image, Craft and the Classical World</em>, 157-64 (Montagnac: Éditions Monique Mergoil)</p>\n<p>Walker, D.R. The Roman Coins. In B. Cunliffe ed. <em>The Temple of Sulis Minerva at Bath. Volume 2: The finds from the sacred spring</em>, 281-338. Oxford, Oxford University Committee for Archaeology.</p>",
+                  "source": "commons-desc-page"
+                },
+                "DateTimeOriginal": {
+                  "value": "ROMAN",
+                  "source": "commons-desc-page"
+                },
+                "Credit": {
+                  "value": "<a rel=\"nofollow\" class=\"external free\" href=\"https://finds.org.uk/database/ajax/download/id/642251\">https://finds.org.uk/database/ajax/download/id/642251</a><br>Catalog: <a rel=\"nofollow\" class=\"external free\" href=\"https://finds.org.uk/database/images/image/id/642251/recordtype/artefacts\">https://finds.org.uk/database/images/image/id/642251/recordtype/artefacts</a> <bdi lang=\"en\" dir=\"ltr\" title=\"archived on 17 April 2019 at the Wayback Machine\"><a rel=\"nofollow\" class=\"external text\" href=\"https://web.archive.org/web/20190417003710/https%3A//finds.org.uk/database/images/image/id/642251/recordtype/artefacts\">archive copy</a> at the <span lang=\"en\" dir=\"ltr\"><a href=\"https://en.wikipedia.org/wiki/Wayback_Machine\" class=\"extiw\" title=\"en:Wayback Machine\"><span lang=\"en\" dir=\"ltr\">Wayback Machine</span></a></span></bdi><br>Artefact: <a rel=\"nofollow\" class=\"external free\" href=\"https://finds.org.uk/database/artefacts/record/id/870181\">https://finds.org.uk/database/artefacts/record/id/870181</a>",
+                  "source": "commons-desc-page"
+                },
+                "Permission": {
+                  "value": "Attribution License",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "LicenseShortName": {
+                  "value": "CC BY 2.0",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "UsageTerms": {
+                  "value": "Creative Commons Attribution 2.0",
+                  "source": "commons-desc-page"
+                },
+                "AttributionRequired": {
+                  "value": "true",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "Attribution": {
+                  "value": "The British Museum",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "LicenseUrl": {
+                  "value": "https://creativecommons.org/licenses/by/2.0",
+                  "source": "commons-desc-page"
+                },
+                "Copyrighted": {
+                  "value": "True",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "Restrictions": {
+                  "value": "",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "License": {
+                  "value": "cc-by-2.0",
+                  "source": "commons-templates",
+                  "hidden": ""
+                }
+              }
+            }
+          ]
+        },
+        {
+          "pageid": 126110683,
+          "ns": 6,
+          "title": "File:Follis of Fausta (obverse).png",
+          "index": 3,
+          "imagerepository": "local",
+          "imageinfo": [
+            {
+              "size": 235390,
+              "width": 392,
+              "height": 390,
+              "thumburl": "https://upload.wikimedia.org/wikipedia/commons/2/20/Follis_of_Fausta_%28obverse%29.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+              "thumbwidth": 400,
+              "thumbheight": 398,
+              "thumbattribs": {
+                "src": "https://upload.wikimedia.org/wikipedia/commons/2/20/Follis_of_Fausta_%28obverse%29.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+                "decoding": "async",
+                "loading": "lazy",
+                "width": 400,
+                "height": 398
+              },
+              "url": "https://upload.wikimedia.org/wikipedia/commons/2/20/Follis_of_Fausta_%28obverse%29.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+              "descriptionurl": "https://commons.wikimedia.org/wiki/File:Follis_of_Fausta_(obverse).png",
+              "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=126110683",
+              "extmetadata": {
+                "DateTime": {
+                  "value": "2022-11-29 21:11:52",
+                  "source": "mediawiki-metadata",
+                  "hidden": ""
+                },
+                "ObjectName": {
+                  "value": "Follis of Fausta (obverse)",
+                  "source": "mediawiki-metadata"
+                },
+                "CommonsMetadataExtension": {
+                  "value": 1.2,
+                  "source": "extension",
+                  "hidden": ""
+                },
+                "Categories": {
+                  "value": "GFDL|License migration not eligible|Self-published work|CNG coins|Items with VRTS permission confirmed|Extracted images|Coins of Fausta",
+                  "source": "commons-categories",
+                  "hidden": ""
+                },
+                "Assessments": {
+                  "value": "",
+                  "source": "commons-categories",
+                  "hidden": ""
+                },
+                "ImageDescription": {
+                  "value": "<b>Fausta.</b> Augusta, AD 324-326. Æ Follis (19mm, 3.55 g, 6h). Sirmium mint. Struck AD 324-325. Draped bust right / Fausta (or Salus) standing facing, head left, holding two children in her arms; SIRM. RIC VII 55; LRBC 810. Choice EF, with original silvering. Finely engraved reverse scene. Rare, the only follis issue for Fausta at Sirmium",
+                  "source": "commons-desc-page"
+                },
+                "DateTimeOriginal": {
+                  "value": "0324",
+                  "source": "commons-desc-page"
+                },
+                "Credit": {
+                  "value": "<a rel=\"nofollow\" class=\"external free\" href=\"https://www.cngcoins.com/Coin.aspx?CoinID=358161#\">https://www.cngcoins.com/Coin.aspx?CoinID=358161#</a>",
+                  "source": "commons-desc-page"
+                },
+                "Artist": {
+                  "value": "CNG",
+                  "source": "commons-desc-page"
+                },
+                "LicenseShortName": {
+                  "value": "CC BY-SA 2.5",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "UsageTerms": {
+                  "value": "Creative Commons Attribution-Share Alike 2.5",
+                  "source": "commons-desc-page"
+                },
+                "AttributionRequired": {
+                  "value": "true",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "Attribution": {
+                  "value": "Classical Numismatic Group, Inc. <a rel=\"nofollow\" class=\"external free\" href=\"http://www.cngcoins.com\">http://www.cngcoins.com</a>",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "LicenseUrl": {
+                  "value": "https://creativecommons.org/licenses/by-sa/2.5",
+                  "source": "commons-desc-page"
+                },
+                "Copyrighted": {
+                  "value": "True",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "Restrictions": {
+                  "value": "",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "License": {
+                  "value": "cc-by-sa-2.5",
+                  "source": "commons-templates",
+                  "hidden": ""
+                }
+              }
+            }
+          ]
+        }
+      ]
+    }
+  }
+}

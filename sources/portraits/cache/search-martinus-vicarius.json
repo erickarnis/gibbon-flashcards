@@ -1,0 +1,603 @@
+{
+  "person_id": "martinus-vicarius",
+  "query": "Martinus (vicarius)",
+  "response": {
+    "batchcomplete": true,
+    "continue": {
+      "gsroffset": 5,
+      "continue": "gsroffset||"
+    },
+    "query": {
+      "pages": [
+        {
+          "pageid": 67843967,
+          "ns": 6,
+          "title": "File:Collectie Nationaal Museum van Wereldculturen TM-60050758 Een standbeeld, opgericht ter ere van eerste apostel Vicarius op het plein bij de kathedraal in Otrabanda Curacao.jpg",
+          "index": 1,
+          "imagerepository": "local",
+          "imageinfo": [
+            {
+              "size": 145005,
+              "width": 1042,
+              "height": 1500,
+              "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9d/Collectie_Nationaal_Museum_van_Wereldculturen_TM-60050758_Een_standbeeld%2C_opgericht_ter_ere_van_eerste_apostel_Vicarius_op_het_plein_bij_de_kathedraal_in_Otrabanda_Curacao.jpg/500px-thumbnail.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+              "thumbwidth": 400,
+              "thumbheight": 576,
+              "responsiveUrls": {
+                "2": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9d/Collectie_Nationaal_Museum_van_Wereldculturen_TM-60050758_Een_standbeeld%2C_opgericht_ter_ere_van_eerste_apostel_Vicarius_op_het_plein_bij_de_kathedraal_in_Otrabanda_Curacao.jpg/960px-thumbnail.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+              },
+              "thumbattribs": {
+                "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9d/Collectie_Nationaal_Museum_van_Wereldculturen_TM-60050758_Een_standbeeld%2C_opgericht_ter_ere_van_eerste_apostel_Vicarius_op_het_plein_bij_de_kathedraal_in_Otrabanda_Curacao.jpg/500px-thumbnail.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+                "decoding": "async",
+                "loading": "lazy",
+                "width": 400,
+                "height": 576,
+                "srcset": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9d/Collectie_Nationaal_Museum_van_Wereldculturen_TM-60050758_Een_standbeeld%2C_opgericht_ter_ere_van_eerste_apostel_Vicarius_op_het_plein_bij_de_kathedraal_in_Otrabanda_Curacao.jpg/960px-thumbnail.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail 2x"
+              },
+              "url": "https://upload.wikimedia.org/wikipedia/commons/9/9d/Collectie_Nationaal_Museum_van_Wereldculturen_TM-60050758_Een_standbeeld%2C_opgericht_ter_ere_van_eerste_apostel_Vicarius_op_het_plein_bij_de_kathedraal_in_Otrabanda_Curacao.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+              "descriptionurl": "https://commons.wikimedia.org/wiki/File:Collectie_Nationaal_Museum_van_Wereldculturen_TM-60050758_Een_standbeeld,_opgericht_ter_ere_van_eerste_apostel_Vicarius_op_het_plein_bij_de_kathedraal_in_Otrabanda_Curacao.jpg",
+              "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=67843967",
+              "extmetadata": {
+                "DateTime": {
+                  "value": "2018-03-30 14:44:38",
+                  "source": "mediawiki-metadata",
+                  "hidden": ""
+                },
+                "ObjectName": {
+                  "value": "Collectie Nationaal Museum van Wereldculturen TM-60050758 Een standbeeld, opgericht ter ere van eerste apostel Vicarius op het plein bij de kathedraal in Otrabanda Curacao",
+                  "source": "mediawiki-metadata"
+                },
+                "CommonsMetadataExtension": {
+                  "value": 1.2,
+                  "source": "extension",
+                  "hidden": ""
+                },
+                "Categories": {
+                  "value": "Files with no machine-readable author|Files from the Nationaal Museum van Wereldculturen|Uploaded with pattypan|Artworks without Wikidata item|Artworks with known accession number|Items with VRTS permission confirmed|Images from Nationaal Museum van Wereldculturen 2017 12|Statue of Martinus Joannes Niewindt",
+                  "source": "commons-categories",
+                  "hidden": ""
+                },
+                "Assessments": {
+                  "value": "",
+                  "source": "commons-categories",
+                  "hidden": ""
+                },
+                "ImageDescription": {
+                  "value": "Foto.",
+                  "source": "commons-desc-page"
+                },
+                "DateTimeOriginal": {
+                  "value": "after 1892<div style=\"display: none;\">date QS:P571,+1892-00-00T00:00:00Z/7,P1319,+1892-00-00T00:00:00Z/9</div>",
+                  "source": "commons-desc-page"
+                },
+                "Credit": {
+                  "value": "<a rel=\"nofollow\" class=\"external text\" href=\"https://hdl.handle.net/20.500.11840/449220\">View this image on the website of the Museum van Wereldculturen</a>",
+                  "source": "commons-desc-page"
+                },
+                "Permission": {
+                  "value": "<p><span class=\"layouttemplateargs\" style=\"display:none;speak:none;\" title=\"template=PermissionTicket 1%3Dhttps%3A%2F%2Fticket.wikimedia.org%2Fotrs%2Findex.pl%3FAction%3DAgentTicketZoom%26TicketNumber%3D2017122810003211 2%3D2017122810003211\"> </span>\n</p>\n<style data-mw-deduplicate=\"TemplateStyles:r1254222110\">.mw-parser-output .messagebox{margin:4px 0;width:auto;border-collapse:collapse;border:2px solid var(--border-color-progressive,#6485d1);background-color:var(--background-color-neutral-subtle,#fbfcff);color:var(--color-base,#202122);box-sizing:border-box;border-inline-start-width:8px}.mw-parser-output .messagebox.mbox-small{font-size:88%;line-height:1.25em}.mw-parser-output .mbox-warning,.mw-parser-output .mbox-speedy{border:2px solid var(--border-color-error,#b22222);background:var(--background-color-error-subtle,#ffdbdb);border-inline-start-width:8px}.mw-parser-output .mbox-serious,.mw-parser-output .mbox-delete,.mw-parser-output .mbox-stop{border:2px solid var(--border-color-error,#b22222);border-inline-start-width:8px}.mw-parser-output .mbox-issue,.mw-parser-output .mbox-content{border:2px solid #f28500;background:var(--background-color-warning-subtle,#ffe);border-inline-start-width:8px}.mw-parser-output .mbox-query,.mw-parser-output .mbox-style{border:2px solid #f4c430;background:var(--background-color-warning-subtle,#ffe);border-inline-start-width:8px}.mw-parser-output .mbox-shit{border:2px solid #960;border-inline-start-width:8px}.mw-parser-output .mbox-license{border:2px solid #88a;border-inline-start-width:initial}.mw-parser-output .mbox-legal{border:2px solid var(--border-color-notice,#666);background:var(--background-color-base,#fff);border-inline-start-width:8px}.mw-parser-output .mbox-honor{border:2px solid #ca3;background:var(--background-color-warning-subtle,#fcf4db);border-inline-start-width:8px}.mw-parser-output .mbox-growth{border:2px solid #8d4;background:var(--background-color-success-subtle,#d5fdf4);border-inline-start-width:8px}.mw-parser-output .mbox-move{border:2px solid #93c;border-inline-start-width:8px}.mw-parser-output .mbox-protection,.mw-parser-output .mbox-message{border:2px solid var(--border-color-base,#aaa);border-inline-start-width:8px}.mw-parser-output .messagebox .mbox-text{border:none;padding:0.25em 0.9em;width:100%}.mw-parser-output .messagebox .mbox-image{border:none;padding-top:2px;padding-bottom:2px;padding-inline-start:0.9em;padding-inline-end:0;text-align:center}.mw-parser-output .messagebox .mbox-imageright{border:none;padding-top:2px;padding-bottom:2px;padding-inline-start:0;padding-inline-end:0.9em;text-align:center}.mw-parser-output .messagebox .mbox-empty-cell{border:none;padding:0;width:1px}.mw-parser-output .messagebox .mbox-invalid-type{text-align:center}@media(min-width:720px){.mw-parser-output .messagebox{margin:4px 10%}.mw-parser-output .messagebox.mbox-small{clear:right;float:right;margin:4px 0 4px 1em;width:238px}}body.skin--responsive .mw-parser-output table.messagebox img{max-width:none!important}</style><table class=\"plainlinks messagebox mbox-notice layouttemplate\" role=\"presentation\" style=\"margin:0.3em 0;width:100%;\"><tbody><tr><td class=\"mbox-image\"><span typeof=\"mw:File\"><span title=\"VRT Wikimedia\"><img alt=\"VRT Wikimedia\" src=\"https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f0/Permission_logo_2021.svg/120px-Permission_logo_2021.svg.png?utm_source=commons.wikimedia.org&amp;utm_campaign=parser&amp;utm_content=thumbnail\" decoding=\"async\" loading=\"lazy\" width=\"75\" height=\"48\" class=\"mw-file-element\" srcset=\"https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f0/Permission_logo_2021.svg/250px-Permission_logo_2021.svg.png?utm_source=commons.wikimedia.org&amp;utm_campaign=parser&amp;utm_content=thumbnail 2x\" data-file-width=\"935\" data-file-height=\"600\"></span></span></td><td class=\"mbox-text\">This work is <a href=\"https://freedomdefined.org/Definition\" class=\"extiw\" title=\"freedomdefined:Definition\">free</a> and may be used by anyone for any purpose. If you wish to <b><a href=\"//commons.wikimedia.org/wiki/Commons:Reusing_content_outside_Wikimedia\" title=\"Commons:Reusing content outside Wikimedia\">use this content</a></b>, you do not need to request permission as long as you follow any licensing requirements mentioned on this page.\n<p>The Wikimedia Foundation has received an e-mail confirming that the copyright holder has approved publication under the terms mentioned on this page. This correspondence has been <b><span style=\"background:transparent;color:#0f7f1f;font-weight:400;\" title=\"transparent\">reviewed</span></b> by a <a href=\"//commons.wikimedia.org/wiki/Template:PermissionTicket/Users\" title=\"Template:PermissionTicket/Users\">Volunteer Response Team (VRT) member</a> and stored in our <a href=\"//commons.wikimedia.org/wiki/Commons:Volunteer_Response_Team\" title=\"Commons:Volunteer Response Team\">permission archive</a>. The correspondence is available to trusted volunteers as <b><a href=\"https://ticket.wikimedia.org/otrs/index.pl?Action=AgentTicketZoom&amp;TicketNumber=2017122810003211\" class=\"extiw\" title=\"ticket:2017122810003211\">ticket #2017122810003211</a></b>.\n</p><p><small>If you have questions about the archived correspondence, please use the <a href=\"//commons.wikimedia.org/wiki/Commons:Volunteer_Response_Team/Noticeboard\" title=\"Commons:Volunteer Response Team/Noticeboard\">VRT noticeboard</a>.</small>\n<small>Ticket link: <a class=\"external free\" href=\"https://ticket.wikimedia.org/otrs/index.pl?Action=AgentTicketZoom&amp;TicketNumber=2017122810003211\">https://ticket.wikimedia.org/otrs/index.pl?Action=AgentTicketZoom&amp;TicketNumber=2017122810003211</a></small>\n<br><small>Find other files from the same ticket:</small> <span typeof=\"mw:File\"><a href=\"https://wcqs-beta.wmflabs.org/#%23defaultView%3AImageGrid%09%0ASELECT%20%3Fimage%20%20%20%7B%0A%20%20%3Ffile%20wdt%3AP6305%20%222017122810003211%22%20.%0A%20%20%3Ffile%20schema%3Aurl%20%3Fimage.%0A%7D%20%0A\" title=\"SDC query (SPARQL)\" rel=\"nofollow\"><img alt=\"SDC query (SPARQL)\" src=\"https://thumb.wikimedia.org/wikipedia/commons/thumb/7/77/Wikimedia_Commons_Query_Service_Logo.svg/20px-Wikimedia_Commons_Query_Service_Logo.svg.png?utm_source=commons.wikimedia.org&amp;utm_campaign=parser&amp;utm_content=thumbnail\" decoding=\"async\" loading=\"lazy\" width=\"15\" height=\"20\" class=\"mw-file-element\" srcset=\"https://thumb.wikimedia.org/wikipedia/commons/thumb/7/77/Wikimedia_Commons_Query_Service_Logo.svg/40px-Wikimedia_Commons_Query_Service_Logo.svg.png?utm_source=commons.wikimedia.org&amp;utm_campaign=parser&amp;utm_content=thumbnail 2x\" data-file-width=\"512\" data-file-height=\"688\"></a></span>\n</p>\n<span id=\"field-otrs\" title=\"https://ticket.wikimedia.org/otrs/index.pl?Action=AgentTicketZoom&amp;TicketNumber=2017122810003211\"></span></td></tr></tbody></table>",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "LicenseShortName": {
+                  "value": "CC BY-SA 3.0",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "UsageTerms": {
+                  "value": "Creative Commons Attribution-Share Alike 3.0",
+                  "source": "commons-desc-page"
+                },
+                "AttributionRequired": {
+                  "value": "true",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "Attribution": {
+                  "value": "<a rel=\"nofollow\" class=\"external text\" href=\"http://museumovermensen.nl/\">Nationaal Museum van Wereldculturen</a>",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "LicenseUrl": {
+                  "value": "https://creativecommons.org/licenses/by-sa/3.0",
+                  "source": "commons-desc-page"
+                },
+                "Copyrighted": {
+                  "value": "True",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "Restrictions": {
+                  "value": "",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "License": {
+                  "value": "cc-by-sa-3.0",
+                  "source": "commons-templates",
+                  "hidden": ""
+                }
+              }
+            }
+          ]
+        },
+        {
+          "pageid": 137877280,
+          "ns": 6,
+          "title": "File:Dkm. Münchner Tor (Dachau) - Inschrift - 2023-09-11 - 331b.jpg",
+          "index": 4,
+          "imagerepository": "local",
+          "imageinfo": [
+            {
+              "size": 862410,
+              "width": 1992,
+              "height": 2655,
+              "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fb/Dkm._M%C3%BCnchner_Tor_%28Dachau%29_-_Inschrift_-_2023-09-11_-_331b.jpg/500px-Dkm._M%C3%BCnchner_Tor_%28Dachau%29_-_Inschrift_-_2023-09-11_-_331b.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+              "thumbwidth": 400,
+              "thumbheight": 533,
+              "responsiveUrls": {
+                "2": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fb/Dkm._M%C3%BCnchner_Tor_%28Dachau%29_-_Inschrift_-_2023-09-11_-_331b.jpg/960px-Dkm._M%C3%BCnchner_Tor_%28Dachau%29_-_Inschrift_-_2023-09-11_-_331b.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+              },
+              "thumbattribs": {
+                "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fb/Dkm._M%C3%BCnchner_Tor_%28Dachau%29_-_Inschrift_-_2023-09-11_-_331b.jpg/500px-Dkm._M%C3%BCnchner_Tor_%28Dachau%29_-_Inschrift_-_2023-09-11_-_331b.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+                "decoding": "async",
+                "loading": "lazy",
+                "width": 400,
+                "height": 533,
+                "srcset": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fb/Dkm._M%C3%BCnchner_Tor_%28Dachau%29_-_Inschrift_-_2023-09-11_-_331b.jpg/960px-Dkm._M%C3%BCnchner_Tor_%28Dachau%29_-_Inschrift_-_2023-09-11_-_331b.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail 2x"
+              },
+              "url": "https://upload.wikimedia.org/wikipedia/commons/f/fb/Dkm._M%C3%BCnchner_Tor_%28Dachau%29_-_Inschrift_-_2023-09-11_-_331b.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+              "descriptionurl": "https://commons.wikimedia.org/wiki/File:Dkm._M%C3%BCnchner_Tor_(Dachau)_-_Inschrift_-_2023-09-11_-_331b.jpg",
+              "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=137877280",
+              "extmetadata": {
+                "DateTime": {
+                  "value": "2023-09-20 19:28:40",
+                  "source": "mediawiki-metadata",
+                  "hidden": ""
+                },
+                "ObjectName": {
+                  "value": "Dkm. Münchner Tor (Dachau) - Inschrift - 2023-09-11 - 331b",
+                  "source": "mediawiki-metadata"
+                },
+                "CommonsMetadataExtension": {
+                  "value": 1.2,
+                  "source": "extension",
+                  "hidden": ""
+                },
+                "Categories": {
+                  "value": "Self-published work|FoP-Germany|Skulpturenspaziergang (Dachau)|Files with coordinates missing SDC location of creation (48° N, 11° E)|Monuments and memorials in Dachau|Street Karlsberg in Dachau",
+                  "source": "commons-categories",
+                  "hidden": ""
+                },
+                "Assessments": {
+                  "value": "",
+                  "source": "commons-categories",
+                  "hidden": ""
+                },
+                "GPSLatitude": {
+                  "value": "48.259021",
+                  "source": "commons-desc-page"
+                },
+                "GPSLongitude": {
+                  "value": "11.434933",
+                  "source": "commons-desc-page"
+                },
+                "GPSMapDatum": {
+                  "value": "WGS-84",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "ImageDescription": {
+                  "value": "<b>Dachau:</b> die Straße <i>Karlsberg</i> und das ehemalige <b>Münchner Tor.</b> <br> Die Dachauer Altstadt liegt auf einem Höhenrücken über der Ammer. Von Norden und Osten führen mäßig ansteigende Straßen hinauf: die Augsburger Straße mit dem ehemaligen Augsburger Tor und die heutige Konrad-Adenauer-Straße mit dem ehemaligen Freisinger Tor. Die steile Straße von Süden her mit dem ehemaligen Münchner Tor wurde 1790 von Kurfürst Karl Theodor weniger steil ausgebaut und trägt daher heute seinen Namen: Karlsberg. An das damals abgebrochene Tor erinnern heute vier Tafeln über bzw. neben der Einfahrt in die moderne Rathaus-Tiefgarage:\n<ol><li>Eine große Inschrifttafel über der Einfahrt (Steintafel mit aufgesetzten Buchstaben aus Bronze) trägt die folgende lateinische Bauinschrift (Original oder Nachbildung?): <br><small> <b>CAROLVS. THEODORVS. ELECTOR. S. R. I. PROV. ET. VICARIVS. PRAECIPITEM. MONTIS. VIAM ITINERANTIVM. COMMERCIIQVE COMMODO. AERE. PROPRIO. AEQVARI. IVSSIT. CURAE. PVBLICAE. MONVMENTUM. MDCCLXXXX.</b> </small> <br> Wenn man die Abkürzungen auflöst, ergibt sich der folgende „lesbare“ bzw. „übersetzungsbereite“ Text: <br> <i>Carolus Theodorus, elector, S(acri) R(omani) I(mperii) prov(isor) et vicarius, praecipitem montis viam itinerantium commerciique commodo aere proprio aequari iussit curae publicae monumentum MDCCLXXXX.</i></li>\n<li>Schräg darunter gibt eine kleinere Steintafel mit eingemeißelten Buchstaben die deutsche Übersetzung an: <br><small><b>Karl Theodor, Kurfürst und des heil(igen) römischen Reiches Verweser(,) ließ diese steile Bergstraße zum Besten der Reisenden auf eigene Kosten ebnen. Ein Denkmal seiner Sorge für das öffentliche Wohl. 1790.</b> </small></li>\n<li>Darunter ist eine kleine, bebilderte Informationstafel angebracht.</li>\n<li>Einige Meter weiter rechts befindet sich eine großformatige Denkmal-Bronzetafel (1976) des Bildhauers Stephen Lander an der Stützmauer unterhalb der Rathausterrasse. Sie trägt eine Darstellung der Tallandschaft mit dem Karlsberg und darüber eine separate Darstellung des einstigen Münchner Tores sowie eine kurze Inschrift: <br><small> <b>Münchner Tor <br> 1498* – 1790 <br> Der Kühberg – und das Münchner Tor im 17. Jahrhundert <br> * erste Nennung</b> </small></li></ol>\n<p>In <b>Dachau</b> gibt es zwar keinen planmäßig angelegten Skulpturenpfad (vgl. <a href=\"//commons.wikimedia.org/wiki/Category:Sculpture_walks_in_Germany\" title=\"Category:Sculpture walks in Germany\">Category:Sculpture walks in Germany</a>), doch die Tourist-Information der Stadt Dachau beschreibt in einer Broschüre einen <b>Skulpturenspaziergang</b> zu 30 Werken (an 26 Stationen), die fast ausnahmslos im öffentlichen Raum stehen und vom Passanten leicht übersehen bzw. wie Straßenmöblierung „ausgeblendet“ werden. Der Weg ist nicht als Wanderweg markiert, sondern man muss sich an der detaillierten Beschreibung in der Broschüre und an den Straßennamen orientieren.\n</p>\n<dl><dd><ul><li><small>Tourist-Information der Stadt Dachau (Hrsg.): <i>Dachau – Kultur &amp; Tourismus. Spaziergänge und Rundwege,</i> Dachau 2021, S. 40–48 und Stadtplan-Beilage </small></li>\n<li><small>Ältere Online-Version mit abweichender Streckenführung (nur 20 Werke an 16 Stationen) und teilweise anderen (weniger zuverlässigen?) Informationen: <a rel=\"nofollow\" class=\"external text\" href=\"https://www.dachau.de/Rathaus/2.2_Tourismus/PDF/Skulpturenspaziergang.pdf\">PDF-Online-Version</a> des Rundgangs auf www.dachau.de (Datei erstellt: 25. November 2017, gemäß Meta-Daten in der Datei).  </small></li></ul></dd></dl>\n<b>(17)</b> Stephen Lander: <i>Münchner Tor</i>, Bronze, 1976, <br> Standort: Karlsberg, an der Wand der Rathausgarage",
+                  "source": "commons-desc-page"
+                },
+                "DateTimeOriginal": {
+                  "value": "2023-09-11",
+                  "source": "commons-desc-page"
+                },
+                "Credit": {
+                  "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+                  "source": "commons-desc-page"
+                },
+                "Artist": {
+                  "value": "<a href=\"//commons.wikimedia.org/wiki/User:Martinus_KE\" title=\"User:Martinus KE\">Martinus KE</a>",
+                  "source": "commons-desc-page"
+                },
+                "LicenseShortName": {
+                  "value": "CC BY-SA 4.0",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "UsageTerms": {
+                  "value": "Creative Commons Attribution-Share Alike 4.0",
+                  "source": "commons-desc-page"
+                },
+                "AttributionRequired": {
+                  "value": "true",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "LicenseUrl": {
+                  "value": "https://creativecommons.org/licenses/by-sa/4.0",
+                  "source": "commons-desc-page"
+                },
+                "Copyrighted": {
+                  "value": "True",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "Restrictions": {
+                  "value": "",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "License": {
+                  "value": "cc-by-sa-4.0",
+                  "source": "commons-templates",
+                  "hidden": ""
+                }
+              }
+            }
+          ]
+        },
+        {
+          "pageid": 137877281,
+          "ns": 6,
+          "title": "File:Karlsberg - Müchner Tor - Rathaus (Dachau) - 2023-09-11 - 328b.jpg",
+          "index": 3,
+          "imagerepository": "local",
+          "imageinfo": [
+            {
+              "size": 1476250,
+              "width": 2736,
+              "height": 3648,
+              "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f8/Karlsberg_-_M%C3%BCchner_Tor_-_Rathaus_%28Dachau%29_-_2023-09-11_-_328b.jpg/500px-Karlsberg_-_M%C3%BCchner_Tor_-_Rathaus_%28Dachau%29_-_2023-09-11_-_328b.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+              "thumbwidth": 400,
+              "thumbheight": 533,
+              "responsiveUrls": {
+                "2": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f8/Karlsberg_-_M%C3%BCchner_Tor_-_Rathaus_%28Dachau%29_-_2023-09-11_-_328b.jpg/960px-Karlsberg_-_M%C3%BCchner_Tor_-_Rathaus_%28Dachau%29_-_2023-09-11_-_328b.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+              },
+              "thumbattribs": {
+                "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f8/Karlsberg_-_M%C3%BCchner_Tor_-_Rathaus_%28Dachau%29_-_2023-09-11_-_328b.jpg/500px-Karlsberg_-_M%C3%BCchner_Tor_-_Rathaus_%28Dachau%29_-_2023-09-11_-_328b.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+                "decoding": "async",
+                "loading": "lazy",
+                "width": 400,
+                "height": 533,
+                "srcset": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f8/Karlsberg_-_M%C3%BCchner_Tor_-_Rathaus_%28Dachau%29_-_2023-09-11_-_328b.jpg/960px-Karlsberg_-_M%C3%BCchner_Tor_-_Rathaus_%28Dachau%29_-_2023-09-11_-_328b.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail 2x"
+              },
+              "url": "https://upload.wikimedia.org/wikipedia/commons/f/f8/Karlsberg_-_M%C3%BCchner_Tor_-_Rathaus_%28Dachau%29_-_2023-09-11_-_328b.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+              "descriptionurl": "https://commons.wikimedia.org/wiki/File:Karlsberg_-_M%C3%BCchner_Tor_-_Rathaus_(Dachau)_-_2023-09-11_-_328b.jpg",
+              "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=137877281",
+              "extmetadata": {
+                "DateTime": {
+                  "value": "2023-09-20 19:28:40",
+                  "source": "mediawiki-metadata",
+                  "hidden": ""
+                },
+                "ObjectName": {
+                  "value": "Karlsberg - Müchner Tor - Rathaus (Dachau) - 2023-09-11 - 328b",
+                  "source": "mediawiki-metadata"
+                },
+                "CommonsMetadataExtension": {
+                  "value": 1.2,
+                  "source": "extension",
+                  "hidden": ""
+                },
+                "Categories": {
+                  "value": "Self-published work|Cultural heritage monuments in Bavaria with known IDs|Cultural heritage monuments in Bavaria missing SDC location of creation|Files with coordinates missing SDC location of creation (48° N, 11° E)|Street Karlsberg in Dachau",
+                  "source": "commons-categories",
+                  "hidden": ""
+                },
+                "Assessments": {
+                  "value": "",
+                  "source": "commons-categories",
+                  "hidden": ""
+                },
+                "GPSLatitude": {
+                  "value": "48.259021",
+                  "source": "commons-desc-page"
+                },
+                "GPSLongitude": {
+                  "value": "11.434933",
+                  "source": "commons-desc-page"
+                },
+                "GPSMapDatum": {
+                  "value": "WGS-84",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "ImageDescription": {
+                  "value": "<b>Dachau:</b> die Straße <i>Karlsberg</i> und das ehemalige <b>Münchner Tor.</b> <br> Die Dachauer Altstadt liegt auf einem Höhenrücken über der Ammer. Von Norden und Osten führen mäßig ansteigende Straßen hinauf: die Augsburger Straße mit dem ehemaligen Augsburger Tor und die heutige Konrad-Adenauer-Straße mit dem ehemaligen Freisinger Tor. Die steile Straße von Süden her mit dem ehemaligen Münchner Tor wurde 1790 von Kurfürst Karl Theodor weniger steil ausgebaut und trägt daher heute seinen Namen: Karlsberg. An das damals abgebrochene Tor erinnern heute vier Tafeln über bzw. neben der Einfahrt in die moderne Rathaus-Tiefgarage:\n<ol><li>Eine große Inschrifttafel über der Einfahrt (Steintafel mit aufgesetzten Buchstaben aus Bronze) trägt die folgende lateinische Bauinschrift (Original oder Nachbildung?): <br><small> <b>CAROLVS. THEODORVS. ELECTOR. S. R. I. PROV. ET. VICARIVS. PRAECIPITEM. MONTIS. VIAM ITINERANTIVM. COMMERCIIQVE COMMODO. AERE. PROPRIO. AEQVARI. IVSSIT. CURAE. PVBLICAE. MONVMENTUM. MDCCLXXXX.</b> </small> <br> Wenn man die Abkürzungen auflöst, ergibt sich der folgende „lesbare“ bzw. „übersetzungsbereite“ Text: <br> <i>Carolus Theodorus, elector, S(acri) R(omani) I(mperii) prov(isor) et vicarius, praecipitem montis viam itinerantium commerciique commodo aere proprio aequari iussit curae publicae monumentum MDCCLXXXX.</i></li>\n<li>Schräg darunter gibt eine kleinere Steintafel mit eingemeißelten Buchstaben die deutsche Übersetzung an: <br><small><b>Karl Theodor, Kurfürst und des heil(igen) römischen Reiches Verweser(,) ließ diese steile Bergstraße zum Besten der Reisenden auf eigene Kosten ebnen. Ein Denkmal seiner Sorge für das öffentliche Wohl. 1790.</b> </small></li>\n<li>Darunter ist eine kleine, bebilderte Informationstafel angebracht.</li>\n<li>Einige Meter weiter rechts befindet sich eine großformatige Denkmal-Bronzetafel (1976) des Bildhauers Stephen Lander an der Stützmauer unterhalb der Rathausterrasse. Sie trägt eine Darstellung der Tallandschaft mit dem Karlsberg und darüber eine separate Darstellung des einstigen Münchner Tores sowie eine kurze Inschrift: <br><small> <b>Münchner Tor <br> 1498* – 1790 <br> Der Kühberg – und das Münchner Tor im 17. Jahrhundert <br> * erste Nennung</b> </small></li></ol>\n<p>In <b>Dachau</b> gibt es zwar keinen planmäßig angelegten Skulpturenpfad (vgl. <a href=\"//commons.wikimedia.org/wiki/Category:Sculpture_walks_in_Germany\" title=\"Category:Sculpture walks in Germany\">Category:Sculpture walks in Germany</a>), doch die Tourist-Information der Stadt Dachau beschreibt in einer Broschüre einen <b>Skulpturenspaziergang</b> zu 30 Werken (an 26 Stationen), die fast ausnahmslos im öffentlichen Raum stehen und vom Passanten leicht übersehen bzw. wie Straßenmöblierung „ausgeblendet“ werden. Der Weg ist nicht als Wanderweg markiert, sondern man muss sich an der detaillierten Beschreibung in der Broschüre und an den Straßennamen orientieren.\n</p>\n<dl><dd><ul><li><small>Tourist-Information der Stadt Dachau (Hrsg.): <i>Dachau – Kultur &amp; Tourismus. Spaziergänge und Rundwege,</i> Dachau 2021, S. 40–48 und Stadtplan-Beilage </small></li>\n<li><small>Ältere Online-Version mit abweichender Streckenführung (nur 20 Werke an 16 Stationen) und teilweise anderen (weniger zuverlässigen?) Informationen: <a rel=\"nofollow\" class=\"external text\" href=\"https://www.dachau.de/Rathaus/2.2_Tourismus/PDF/Skulpturenspaziergang.pdf\">PDF-Online-Version</a> des Rundgangs auf www.dachau.de (Datei erstellt: 25. November 2017, gemäß Meta-Daten in der Datei).  </small></li></ul></dd></dl>\n<b>(17)</b> Stephen Lander: <i>Münchner Tor</i>, Bronze, 1976, <br> Standort: Karlsberg, an der Wand der Rathausgarage",
+                  "source": "commons-desc-page"
+                },
+                "DateTimeOriginal": {
+                  "value": "2023-09-11",
+                  "source": "commons-desc-page"
+                },
+                "Credit": {
+                  "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+                  "source": "commons-desc-page"
+                },
+                "Artist": {
+                  "value": "<a href=\"//commons.wikimedia.org/wiki/User:Martinus_KE\" title=\"User:Martinus KE\">Martinus KE</a>",
+                  "source": "commons-desc-page"
+                },
+                "LicenseShortName": {
+                  "value": "CC BY-SA 4.0",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "UsageTerms": {
+                  "value": "Creative Commons Attribution-Share Alike 4.0",
+                  "source": "commons-desc-page"
+                },
+                "AttributionRequired": {
+                  "value": "true",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "LicenseUrl": {
+                  "value": "https://creativecommons.org/licenses/by-sa/4.0",
+                  "source": "commons-desc-page"
+                },
+                "Copyrighted": {
+                  "value": "True",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "Restrictions": {
+                  "value": "",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "License": {
+                  "value": "cc-by-sa-4.0",
+                  "source": "commons-templates",
+                  "hidden": ""
+                }
+              }
+            }
+          ]
+        },
+        {
+          "pageid": 137877282,
+          "ns": 6,
+          "title": "File:Münchner Tor (Dachau) - Info + Inschrift deutsch - 2023-09-11 - 338c.jpg",
+          "index": 5,
+          "imagerepository": "local",
+          "imageinfo": [
+            {
+              "size": 1689583,
+              "width": 2582,
+              "height": 3442,
+              "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9f/M%C3%BCnchner_Tor_%28Dachau%29_-_Info_%2B_Inschrift_deutsch_-_2023-09-11_-_338c.jpg/500px-M%C3%BCnchner_Tor_%28Dachau%29_-_Info_%2B_Inschrift_deutsch_-_2023-09-11_-_338c.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+              "thumbwidth": 400,
+              "thumbheight": 533,
+              "responsiveUrls": {
+                "2": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9f/M%C3%BCnchner_Tor_%28Dachau%29_-_Info_%2B_Inschrift_deutsch_-_2023-09-11_-_338c.jpg/960px-M%C3%BCnchner_Tor_%28Dachau%29_-_Info_%2B_Inschrift_deutsch_-_2023-09-11_-_338c.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+              },
+              "thumbattribs": {
+                "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9f/M%C3%BCnchner_Tor_%28Dachau%29_-_Info_%2B_Inschrift_deutsch_-_2023-09-11_-_338c.jpg/500px-M%C3%BCnchner_Tor_%28Dachau%29_-_Info_%2B_Inschrift_deutsch_-_2023-09-11_-_338c.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+                "decoding": "async",
+                "loading": "lazy",
+                "width": 400,
+                "height": 533,
+                "srcset": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9f/M%C3%BCnchner_Tor_%28Dachau%29_-_Info_%2B_Inschrift_deutsch_-_2023-09-11_-_338c.jpg/960px-M%C3%BCnchner_Tor_%28Dachau%29_-_Info_%2B_Inschrift_deutsch_-_2023-09-11_-_338c.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail 2x"
+              },
+              "url": "https://upload.wikimedia.org/wikipedia/commons/9/9f/M%C3%BCnchner_Tor_%28Dachau%29_-_Info_%2B_Inschrift_deutsch_-_2023-09-11_-_338c.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+              "descriptionurl": "https://commons.wikimedia.org/wiki/File:M%C3%BCnchner_Tor_(Dachau)_-_Info_%2B_Inschrift_deutsch_-_2023-09-11_-_338c.jpg",
+              "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=137877282",
+              "extmetadata": {
+                "DateTime": {
+                  "value": "2023-09-20 19:28:41",
+                  "source": "mediawiki-metadata",
+                  "hidden": ""
+                },
+                "ObjectName": {
+                  "value": "Münchner Tor (Dachau) - Info + Inschrift deutsch - 2023-09-11 - 338c",
+                  "source": "mediawiki-metadata"
+                },
+                "CommonsMetadataExtension": {
+                  "value": 1.2,
+                  "source": "extension",
+                  "hidden": ""
+                },
+                "Categories": {
+                  "value": "Self-published work|Plaques in Landkreis Dachau|Cultural heritage monuments in Bavaria with known IDs|Cultural heritage monuments in Bavaria missing SDC location of creation|Files with coordinates missing SDC location of creation (48° N, 11° E)|Monuments and memorials in Dachau|Street Karlsberg in Dachau",
+                  "source": "commons-categories",
+                  "hidden": ""
+                },
+                "Assessments": {
+                  "value": "",
+                  "source": "commons-categories",
+                  "hidden": ""
+                },
+                "GPSLatitude": {
+                  "value": "48.259021",
+                  "source": "commons-desc-page"
+                },
+                "GPSLongitude": {
+                  "value": "11.434933",
+                  "source": "commons-desc-page"
+                },
+                "GPSMapDatum": {
+                  "value": "WGS-84",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "ImageDescription": {
+                  "value": "<b>Dachau:</b> die Straße <i>Karlsberg</i> und das ehemalige <b>Münchner Tor.</b> <br> Die Dachauer Altstadt liegt auf einem Höhenrücken über der Ammer. Von Norden und Osten führen mäßig ansteigende Straßen hinauf: die Augsburger Straße mit dem ehemaligen Augsburger Tor und die heutige Konrad-Adenauer-Straße mit dem ehemaligen Freisinger Tor. Die steile Straße von Süden her mit dem ehemaligen Münchner Tor wurde 1790 von Kurfürst Karl Theodor weniger steil ausgebaut und trägt daher heute seinen Namen: Karlsberg. An das damals abgebrochene Tor erinnern heute vier Tafeln über bzw. neben der Einfahrt in die moderne Rathaus-Tiefgarage:\n<ol><li>Eine große Inschrifttafel über der Einfahrt (Steintafel mit aufgesetzten Buchstaben aus Bronze) trägt die folgende lateinische Bauinschrift (Original oder Nachbildung?): <br><small> <b>CAROLVS. THEODORVS. ELECTOR. S. R. I. PROV. ET. VICARIVS. PRAECIPITEM. MONTIS. VIAM ITINERANTIVM. COMMERCIIQVE COMMODO. AERE. PROPRIO. AEQVARI. IVSSIT. CURAE. PVBLICAE. MONVMENTUM. MDCCLXXXX.</b> </small> <br> Wenn man die Abkürzungen auflöst, ergibt sich der folgende „lesbare“ bzw. „übersetzungsbereite“ Text: <br> <i>Carolus Theodorus, elector, S(acri) R(omani) I(mperii) prov(isor) et vicarius, praecipitem montis viam itinerantium commerciique commodo aere proprio aequari iussit curae publicae monumentum MDCCLXXXX.</i></li>\n<li>Schräg darunter gibt eine kleinere Steintafel mit eingemeißelten Buchstaben die deutsche Übersetzung an: <br><small><b>Karl Theodor, Kurfürst und des heil(igen) römischen Reiches Verweser(,) ließ diese steile Bergstraße zum Besten der Reisenden auf eigene Kosten ebnen. Ein Denkmal seiner Sorge für das öffentliche Wohl. 1790.</b> </small></li>\n<li>Darunter ist eine kleine, bebilderte Informationstafel angebracht.</li>\n<li>Einige Meter weiter rechts befindet sich eine großformatige Denkmal-Bronzetafel (1976) des Bildhauers Stephen Lander an der Stützmauer unterhalb der Rathausterrasse. Sie trägt eine Darstellung der Tallandschaft mit dem Karlsberg und darüber eine separate Darstellung des einstigen Münchner Tores sowie eine kurze Inschrift: <br><small> <b>Münchner Tor <br> 1498* – 1790 <br> Der Kühberg – und das Münchner Tor im 17. Jahrhundert <br> * erste Nennung</b> </small></li></ol>\n<p>In <b>Dachau</b> gibt es zwar keinen planmäßig angelegten Skulpturenpfad (vgl. <a href=\"//commons.wikimedia.org/wiki/Category:Sculpture_walks_in_Germany\" title=\"Category:Sculpture walks in Germany\">Category:Sculpture walks in Germany</a>), doch die Tourist-Information der Stadt Dachau beschreibt in einer Broschüre einen <b>Skulpturenspaziergang</b> zu 30 Werken (an 26 Stationen), die fast ausnahmslos im öffentlichen Raum stehen und vom Passanten leicht übersehen bzw. wie Straßenmöblierung „ausgeblendet“ werden. Der Weg ist nicht als Wanderweg markiert, sondern man muss sich an der detaillierten Beschreibung in der Broschüre und an den Straßennamen orientieren.\n</p>\n<dl><dd><ul><li><small>Tourist-Information der Stadt Dachau (Hrsg.): <i>Dachau – Kultur &amp; Tourismus. Spaziergänge und Rundwege,</i> Dachau 2021, S. 40–48 und Stadtplan-Beilage </small></li>\n<li><small>Ältere Online-Version mit abweichender Streckenführung (nur 20 Werke an 16 Stationen) und teilweise anderen (weniger zuverlässigen?) Informationen: <a rel=\"nofollow\" class=\"external text\" href=\"https://www.dachau.de/Rathaus/2.2_Tourismus/PDF/Skulpturenspaziergang.pdf\">PDF-Online-Version</a> des Rundgangs auf www.dachau.de (Datei erstellt: 25. November 2017, gemäß Meta-Daten in der Datei).  </small></li></ul></dd></dl>\n<b>(17)</b> Stephen Lander: <i>Münchner Tor</i>, Bronze, 1976, <br> Standort: Karlsberg, an der Wand der Rathausgarage",
+                  "source": "commons-desc-page"
+                },
+                "DateTimeOriginal": {
+                  "value": "2023-09-11",
+                  "source": "commons-desc-page"
+                },
+                "Credit": {
+                  "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+                  "source": "commons-desc-page"
+                },
+                "Artist": {
+                  "value": "<a href=\"//commons.wikimedia.org/wiki/User:Martinus_KE\" title=\"User:Martinus KE\">Martinus KE</a>",
+                  "source": "commons-desc-page"
+                },
+                "LicenseShortName": {
+                  "value": "CC BY-SA 4.0",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "UsageTerms": {
+                  "value": "Creative Commons Attribution-Share Alike 4.0",
+                  "source": "commons-desc-page"
+                },
+                "AttributionRequired": {
+                  "value": "true",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "LicenseUrl": {
+                  "value": "https://creativecommons.org/licenses/by-sa/4.0",
+                  "source": "commons-desc-page"
+                },
+                "Copyrighted": {
+                  "value": "True",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "Restrictions": {
+                  "value": "",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "License": {
+                  "value": "cc-by-sa-4.0",
+                  "source": "commons-templates",
+                  "hidden": ""
+                }
+              }
+            }
+          ]
+        },
+        {
+          "pageid": 137877299,
+          "ns": 6,
+          "title": "File:Münchner Tor (Dachau) - Informationstafel - 2023-09-11 - 335c.jpg",
+          "index": 2,
+          "imagerepository": "local",
+          "imageinfo": [
+            {
+              "size": 1031227,
+              "width": 2222,
+              "height": 3179,
+              "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/72/M%C3%BCnchner_Tor_%28Dachau%29_-_Informationstafel_-_2023-09-11_-_335c.jpg/500px-M%C3%BCnchner_Tor_%28Dachau%29_-_Informationstafel_-_2023-09-11_-_335c.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+              "thumbwidth": 400,
+              "thumbheight": 572,
+              "responsiveUrls": {
+                "2": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/72/M%C3%BCnchner_Tor_%28Dachau%29_-_Informationstafel_-_2023-09-11_-_335c.jpg/960px-M%C3%BCnchner_Tor_%28Dachau%29_-_Informationstafel_-_2023-09-11_-_335c.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+              },
+              "thumbattribs": {
+                "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/72/M%C3%BCnchner_Tor_%28Dachau%29_-_Informationstafel_-_2023-09-11_-_335c.jpg/500px-M%C3%BCnchner_Tor_%28Dachau%29_-_Informationstafel_-_2023-09-11_-_335c.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+                "decoding": "async",
+                "loading": "lazy",
+                "width": 400,
+                "height": 572,
+                "srcset": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/72/M%C3%BCnchner_Tor_%28Dachau%29_-_Informationstafel_-_2023-09-11_-_335c.jpg/960px-M%C3%BCnchner_Tor_%28Dachau%29_-_Informationstafel_-_2023-09-11_-_335c.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail 2x"
+              },
+              "url": "https://upload.wikimedia.org/wikipedia/commons/7/72/M%C3%BCnchner_Tor_%28Dachau%29_-_Informationstafel_-_2023-09-11_-_335c.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+              "descriptionurl": "https://commons.wikimedia.org/wiki/File:M%C3%BCnchner_Tor_(Dachau)_-_Informationstafel_-_2023-09-11_-_335c.jpg",
+              "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=137877299",
+              "extmetadata": {
+                "DateTime": {
+                  "value": "2023-09-20 19:28:47",
+                  "source": "mediawiki-metadata",
+                  "hidden": ""
+                },
+                "ObjectName": {
+                  "value": "Münchner Tor (Dachau) - Informationstafel - 2023-09-11 - 335c",
+                  "source": "mediawiki-metadata"
+                },
+                "CommonsMetadataExtension": {
+                  "value": 1.2,
+                  "source": "extension",
+                  "hidden": ""
+                },
+                "Categories": {
+                  "value": "Self-published work|Plaques in Landkreis Dachau|Files with coordinates missing SDC location of creation (48° N, 11° E)|Street Karlsberg in Dachau",
+                  "source": "commons-categories",
+                  "hidden": ""
+                },
+                "Assessments": {
+                  "value": "",
+                  "source": "commons-categories",
+                  "hidden": ""
+                },
+                "GPSLatitude": {
+                  "value": "48.259021",
+                  "source": "commons-desc-page"
+                },
+                "GPSLongitude": {
+                  "value": "11.434933",
+                  "source": "commons-desc-page"
+                },
+                "GPSMapDatum": {
+                  "value": "WGS-84",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "ImageDescription": {
+                  "value": "<b>Dachau:</b> die Straße <i>Karlsberg</i> und das ehemalige <b>Münchner Tor.</b> <br> Die Dachauer Altstadt liegt auf einem Höhenrücken über der Ammer. Von Norden und Osten führen mäßig ansteigende Straßen hinauf: die Augsburger Straße mit dem ehemaligen Augsburger Tor und die heutige Konrad-Adenauer-Straße mit dem ehemaligen Freisinger Tor. Die steile Straße von Süden her mit dem ehemaligen Münchner Tor wurde 1790 von Kurfürst Karl Theodor weniger steil ausgebaut und trägt daher heute seinen Namen: Karlsberg. An das damals abgebrochene Tor erinnern heute vier Tafeln über bzw. neben der Einfahrt in die moderne Rathaus-Tiefgarage:\n<ol><li>Eine große Inschrifttafel über der Einfahrt (Steintafel mit aufgesetzten Buchstaben aus Bronze) trägt die folgende lateinische Bauinschrift (Original oder Nachbildung?): <br><small> <b>CAROLVS. THEODORVS. ELECTOR. S. R. I. PROV. ET. VICARIVS. PRAECIPITEM. MONTIS. VIAM ITINERANTIVM. COMMERCIIQVE COMMODO. AERE. PROPRIO. AEQVARI. IVSSIT. CURAE. PVBLICAE. MONVMENTUM. MDCCLXXXX.</b> </small> <br> Wenn man die Abkürzungen auflöst, ergibt sich der folgende „lesbare“ bzw. „übersetzungsbereite“ Text: <br> <i>Carolus Theodorus, elector, S(acri) R(omani) I(mperii) prov(isor) et vicarius, praecipitem montis viam itinerantium commerciique commodo aere proprio aequari iussit curae publicae monumentum MDCCLXXXX.</i></li>\n<li>Schräg darunter gibt eine kleinere Steintafel mit eingemeißelten Buchstaben die deutsche Übersetzung an: <br><small><b>Karl Theodor, Kurfürst und des heil(igen) römischen Reiches Verweser(,) ließ diese steile Bergstraße zum Besten der Reisenden auf eigene Kosten ebnen. Ein Denkmal seiner Sorge für das öffentliche Wohl. 1790.</b> </small></li>\n<li>Darunter ist eine kleine, bebilderte Informationstafel angebracht.</li>\n<li>Einige Meter weiter rechts befindet sich eine großformatige Denkmal-Bronzetafel (1976) des Bildhauers Stephen Lander an der Stützmauer unterhalb der Rathausterrasse. Sie trägt eine Darstellung der Tallandschaft mit dem Karlsberg und darüber eine separate Darstellung des einstigen Münchner Tores sowie eine kurze Inschrift: <br><small> <b>Münchner Tor <br> 1498* – 1790 <br> Der Kühberg – und das Münchner Tor im 17. Jahrhundert <br> * erste Nennung</b> </small></li></ol>\n<p>In <b>Dachau</b> gibt es zwar keinen planmäßig angelegten Skulpturenpfad (vgl. <a href=\"//commons.wikimedia.org/wiki/Category:Sculpture_walks_in_Germany\" title=\"Category:Sculpture walks in Germany\">Category:Sculpture walks in Germany</a>), doch die Tourist-Information der Stadt Dachau beschreibt in einer Broschüre einen <b>Skulpturenspaziergang</b> zu 30 Werken (an 26 Stationen), die fast ausnahmslos im öffentlichen Raum stehen und vom Passanten leicht übersehen bzw. wie Straßenmöblierung „ausgeblendet“ werden. Der Weg ist nicht als Wanderweg markiert, sondern man muss sich an der detaillierten Beschreibung in der Broschüre und an den Straßennamen orientieren.\n</p>\n<dl><dd><ul><li><small>Tourist-Information der Stadt Dachau (Hrsg.): <i>Dachau – Kultur &amp; Tourismus. Spaziergänge und Rundwege,</i> Dachau 2021, S. 40–48 und Stadtplan-Beilage </small></li>\n<li><small>Ältere Online-Version mit abweichender Streckenführung (nur 20 Werke an 16 Stationen) und teilweise anderen (weniger zuverlässigen?) Informationen: <a rel=\"nofollow\" class=\"external text\" href=\"https://www.dachau.de/Rathaus/2.2_Tourismus/PDF/Skulpturenspaziergang.pdf\">PDF-Online-Version</a> des Rundgangs auf www.dachau.de (Datei erstellt: 25. November 2017, gemäß Meta-Daten in der Datei).  </small></li></ul></dd></dl>\n<b>(17)</b> Stephen Lander: <i>Münchner Tor</i>, Bronze, 1976, <br> Standort: Karlsberg, an der Wand der Rathausgarage",
+                  "source": "commons-desc-page"
+                },
+                "DateTimeOriginal": {
+                  "value": "2023-09-11",
+                  "source": "commons-desc-page"
+                },
+                "Credit": {
+                  "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+                  "source": "commons-desc-page"
+                },
+                "Artist": {
+                  "value": "<a href=\"//commons.wikimedia.org/wiki/User:Martinus_KE\" title=\"User:Martinus KE\">Martinus KE</a>",
+                  "source": "commons-desc-page"
+                },
+                "LicenseShortName": {
+                  "value": "CC BY-SA 4.0",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "UsageTerms": {
+                  "value": "Creative Commons Attribution-Share Alike 4.0",
+                  "source": "commons-desc-page"
+                },
+                "AttributionRequired": {
+                  "value": "true",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "LicenseUrl": {
+                  "value": "https://creativecommons.org/licenses/by-sa/4.0",
+                  "source": "commons-desc-page"
+                },
+                "Copyrighted": {
+                  "value": "True",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "Restrictions": {
+                  "value": "",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "License": {
+                  "value": "cc-by-sa-4.0",
+                  "source": "commons-templates",
+                  "hidden": ""
+                }
+              }
+            }
+          ]
+        }
+      ]
+    }
+  }
+}

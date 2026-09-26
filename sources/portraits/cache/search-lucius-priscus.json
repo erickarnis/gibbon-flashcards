@@ -1,0 +1,529 @@
+{
+  "person_id": "lucius-priscus",
+  "query": "Lucius Priscus",
+  "response": {
+    "batchcomplete": true,
+    "continue": {
+      "gsroffset": 5,
+      "continue": "gsroffset||"
+    },
+    "query": {
+      "pages": [
+        {
+          "pageid": 8652737,
+          "ns": 6,
+          "title": "File:Tarquinius-Priscus.jpg",
+          "index": 1,
+          "imagerepository": "local",
+          "imageinfo": [
+            {
+              "size": 80476,
+              "width": 374,
+              "height": 375,
+              "thumburl": "https://upload.wikimedia.org/wikipedia/commons/7/7c/Tarquinius-Priscus.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+              "thumbwidth": 400,
+              "thumbheight": 401,
+              "thumbattribs": {
+                "src": "https://upload.wikimedia.org/wikipedia/commons/7/7c/Tarquinius-Priscus.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+                "decoding": "async",
+                "loading": "lazy",
+                "width": 400,
+                "height": 401
+              },
+              "url": "https://upload.wikimedia.org/wikipedia/commons/7/7c/Tarquinius-Priscus.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+              "descriptionurl": "https://commons.wikimedia.org/wiki/File:Tarquinius-Priscus.jpg",
+              "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=8652737",
+              "extmetadata": {
+                "DateTime": {
+                  "value": "2009-12-02 10:44:20",
+                  "source": "mediawiki-metadata",
+                  "hidden": ""
+                },
+                "ObjectName": {
+                  "value": "Tarquinius-Priscus",
+                  "source": "mediawiki-metadata"
+                },
+                "CommonsMetadataExtension": {
+                  "value": 1.2,
+                  "source": "extension",
+                  "hidden": ""
+                },
+                "Categories": {
+                  "value": "Lucius Tarquinius Priscus|PD Old|CC-PD-Mark|PD-old missing SDC copyright status|Promptuarii Iconum Insigniorum (Ancient Rome)",
+                  "source": "commons-categories",
+                  "hidden": ""
+                },
+                "Assessments": {
+                  "value": "",
+                  "source": "commons-categories",
+                  "hidden": ""
+                },
+                "ImageDescription": {
+                  "value": "Tarquinius-Priscus was the fifth <a href=\"https://en.wikipedia.org/wiki/King_of_Rome\" class=\"extiw\" title=\"en:King of Rome\">King of Rome</a> from 616 BC to 579 BC.",
+                  "source": "commons-desc-page"
+                },
+                "DateTimeOriginal": {
+                  "value": "1553",
+                  "source": "commons-desc-page"
+                },
+                "Credit": {
+                  "value": "\"Promptuarii Iconum Insigniorum\"",
+                  "source": "commons-desc-page"
+                },
+                "Artist": {
+                  "value": "Published by Guillaume Rouille (1518?-1589)",
+                  "source": "commons-desc-page"
+                },
+                "LicenseShortName": {
+                  "value": "Public domain",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "UsageTerms": {
+                  "value": "Public domain",
+                  "source": "commons-desc-page"
+                },
+                "AttributionRequired": {
+                  "value": "false",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "Copyrighted": {
+                  "value": "False",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "Restrictions": {
+                  "value": "",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "License": {
+                  "value": "pd",
+                  "source": "commons-templates",
+                  "hidden": ""
+                }
+              }
+            }
+          ]
+        },
+        {
+          "pageid": 19025930,
+          "ns": 6,
+          "title": "File:Tarquin the Elder Consulting Attius Navius by Sebastiano Ricci, Getty Center.JPG",
+          "index": 4,
+          "imagerepository": "local",
+          "imageinfo": [
+            {
+              "size": 428620,
+              "width": 1840,
+              "height": 2168,
+              "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/01/Tarquin_the_Elder_Consulting_Attius_Navius_by_Sebastiano_Ricci%2C_Getty_Center.JPG/500px-Tarquin_the_Elder_Consulting_Attius_Navius_by_Sebastiano_Ricci%2C_Getty_Center.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+              "thumbwidth": 400,
+              "thumbheight": 471,
+              "responsiveUrls": {
+                "2": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/01/Tarquin_the_Elder_Consulting_Attius_Navius_by_Sebastiano_Ricci%2C_Getty_Center.JPG/960px-Tarquin_the_Elder_Consulting_Attius_Navius_by_Sebastiano_Ricci%2C_Getty_Center.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+              },
+              "thumbattribs": {
+                "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/01/Tarquin_the_Elder_Consulting_Attius_Navius_by_Sebastiano_Ricci%2C_Getty_Center.JPG/500px-Tarquin_the_Elder_Consulting_Attius_Navius_by_Sebastiano_Ricci%2C_Getty_Center.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+                "decoding": "async",
+                "loading": "lazy",
+                "width": 400,
+                "height": 471,
+                "srcset": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/01/Tarquin_the_Elder_Consulting_Attius_Navius_by_Sebastiano_Ricci%2C_Getty_Center.JPG/960px-Tarquin_the_Elder_Consulting_Attius_Navius_by_Sebastiano_Ricci%2C_Getty_Center.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail 2x"
+              },
+              "url": "https://upload.wikimedia.org/wikipedia/commons/0/01/Tarquin_the_Elder_Consulting_Attius_Navius_by_Sebastiano_Ricci%2C_Getty_Center.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+              "descriptionurl": "https://commons.wikimedia.org/wiki/File:Tarquin_the_Elder_Consulting_Attius_Navius_by_Sebastiano_Ricci,_Getty_Center.JPG",
+              "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=19025930",
+              "extmetadata": {
+                "DateTime": {
+                  "value": "2012-04-09 18:34:06",
+                  "source": "mediawiki-metadata",
+                  "hidden": ""
+                },
+                "ObjectName": {
+                  "value": "Tarquin the Elder Consulting Attius Navius by Sebastiano Ricci, Getty Center",
+                  "source": "mediawiki-metadata"
+                },
+                "CommonsMetadataExtension": {
+                  "value": 1.2,
+                  "source": "extension",
+                  "hidden": ""
+                },
+                "Categories": {
+                  "value": "CC-Zero|Attius Navius|Self-published work|Paintings without Wikidata item|History paintings by Sebastiano Ricci|Paintings by Sebastiano Ricci in the Getty Center|Paintings of Lucius Tarquinius Priscus",
+                  "source": "commons-categories",
+                  "hidden": ""
+                },
+                "Assessments": {
+                  "value": "",
+                  "source": "commons-categories",
+                  "hidden": ""
+                },
+                "Artist": {
+                  "value": "<div class=\"fn value\">\n<a href=\"//commons.wikimedia.org/wiki/User:Wmpearl\" title=\"User:Wmpearl\">Wmpearl</a></div>",
+                  "source": "commons-desc-page"
+                },
+                "ImageDescription": {
+                  "value": "<i>Tarquin the Elder Consulting Attius Navius</i>, oil on canvas painting by Sebastiano Ricci, c. 1690, Getty Center",
+                  "source": "commons-desc-page"
+                },
+                "DateTimeOriginal": {
+                  "value": "circa 1690<div style=\"display: none;\">date QS:P571,+1690-00-00T00:00:00Z/9,P1480,Q5727902</div>",
+                  "source": "commons-desc-page"
+                },
+                "Credit": {
+                  "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+                  "source": "commons-desc-page"
+                },
+                "LicenseShortName": {
+                  "value": "CC0",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "UsageTerms": {
+                  "value": "Creative Commons Zero, Public Domain Dedication",
+                  "source": "commons-desc-page"
+                },
+                "AttributionRequired": {
+                  "value": "false",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "LicenseUrl": {
+                  "value": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+                  "source": "commons-desc-page"
+                },
+                "Copyrighted": {
+                  "value": "True",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "Restrictions": {
+                  "value": "",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "License": {
+                  "value": "cc0",
+                  "source": "commons-templates",
+                  "hidden": ""
+                }
+              }
+            }
+          ]
+        },
+        {
+          "pageid": 31560495,
+          "ns": 6,
+          "title": "File:Tarquin the Elder consulting Attus Nevius the Augur, Ricci, Sebastiano.png",
+          "index": 5,
+          "imagerepository": "local",
+          "imageinfo": [
+            {
+              "size": 751507,
+              "width": 552,
+              "height": 641,
+              "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5b/Tarquin_the_Elder_consulting_Attus_Nevius_the_Augur%2C_Ricci%2C_Sebastiano.png/500px-Tarquin_the_Elder_consulting_Attus_Nevius_the_Augur%2C_Ricci%2C_Sebastiano.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+              "thumbwidth": 400,
+              "thumbheight": 464,
+              "responsiveUrls": {
+                "2": "https://upload.wikimedia.org/wikipedia/commons/5/5b/Tarquin_the_Elder_consulting_Attus_Nevius_the_Augur%2C_Ricci%2C_Sebastiano.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled"
+              },
+              "thumbattribs": {
+                "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5b/Tarquin_the_Elder_consulting_Attus_Nevius_the_Augur%2C_Ricci%2C_Sebastiano.png/500px-Tarquin_the_Elder_consulting_Attus_Nevius_the_Augur%2C_Ricci%2C_Sebastiano.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+                "decoding": "async",
+                "loading": "lazy",
+                "width": 400,
+                "height": 464,
+                "srcset": "https://upload.wikimedia.org/wikipedia/commons/5/5b/Tarquin_the_Elder_consulting_Attus_Nevius_the_Augur%2C_Ricci%2C_Sebastiano.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled 2x"
+              },
+              "url": "https://upload.wikimedia.org/wikipedia/commons/5/5b/Tarquin_the_Elder_consulting_Attus_Nevius_the_Augur%2C_Ricci%2C_Sebastiano.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+              "descriptionurl": "https://commons.wikimedia.org/wiki/File:Tarquin_the_Elder_consulting_Attus_Nevius_the_Augur,_Ricci,_Sebastiano.png",
+              "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=31560495",
+              "extmetadata": {
+                "DateTime": {
+                  "value": "2014-03-11 23:46:50",
+                  "source": "mediawiki-metadata",
+                  "hidden": ""
+                },
+                "ObjectName": {
+                  "value": "Tarquin the Elder consulting Attus Nevius the Augur, Ricci, Sebastiano",
+                  "source": "mediawiki-metadata"
+                },
+                "CommonsMetadataExtension": {
+                  "value": 1.2,
+                  "source": "extension",
+                  "hidden": ""
+                },
+                "Categories": {
+                  "value": "Augurs|PD-old-100-expired|PD-Art (PD-old-auto-expired)|CC-PD-Mark|Paintings without Wikidata item|History paintings by Sebastiano Ricci|Paintings by Sebastiano Ricci in the Getty Center|Paintings of Lucius Tarquinius Priscus",
+                  "source": "commons-categories",
+                  "hidden": ""
+                },
+                "Assessments": {
+                  "value": "",
+                  "source": "commons-categories",
+                  "hidden": ""
+                },
+                "Artist": {
+                  "value": "<bdi><a href=\"https://en.wikipedia.org/wiki/en:Sebastiano_Ricci\" class=\"extiw\" title=\"w:en:Sebastiano Ricci\"><span title=\"Italian painter (1659–1734)\">Sebastiano Ricci</span></a></bdi>",
+                  "source": "commons-desc-page"
+                },
+                "ImageDescription": {
+                  "value": "Getty Museum (J. Paul Getty Museum): Ricci Sebastiano (1659 Belluno - 1734 Venice) - Tarquinius the Ancient asks Augur Attius Navia (162x138 cm) around 1690",
+                  "source": "commons-desc-page"
+                },
+                "Credit": {
+                  "value": "<a rel=\"nofollow\" class=\"external free\" href=\"http://gallerix.ru/storeroom/1946731234/N/129928976/\">http://gallerix.ru/storeroom/1946731234/N/129928976/</a>",
+                  "source": "commons-desc-page"
+                },
+                "LicenseShortName": {
+                  "value": "Public domain",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "UsageTerms": {
+                  "value": "Public domain",
+                  "source": "commons-desc-page"
+                },
+                "AttributionRequired": {
+                  "value": "false",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "Copyrighted": {
+                  "value": "False",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "Restrictions": {
+                  "value": "",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "License": {
+                  "value": "pd",
+                  "source": "commons-templates",
+                  "hidden": ""
+                }
+              }
+            }
+          ]
+        },
+        {
+          "pageid": 84747373,
+          "ns": 6,
+          "title": "File:Koning Lucius Tarquinius Priscus Tarquinius Priscus (titel op object) Liber Chronicarum (serietitel), RP-P-2016-49-32-7.jpg",
+          "index": 3,
+          "imagerepository": "local",
+          "imageinfo": [
+            {
+              "size": 462336,
+              "width": 1576,
+              "height": 1976,
+              "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/11/Koning_Lucius_Tarquinius_Priscus_Tarquinius_Priscus_%28titel_op_object%29_Liber_Chronicarum_%28serietitel%29%2C_RP-P-2016-49-32-7.jpg/500px-Koning_Lucius_Tarquinius_Priscus_Tarquinius_Priscus_%28titel_op_object%29_Liber_Chronicarum_%28serietitel%29%2C_RP-P-2016-49-32-7.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+              "thumbwidth": 400,
+              "thumbheight": 502,
+              "responsiveUrls": {
+                "2": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/11/Koning_Lucius_Tarquinius_Priscus_Tarquinius_Priscus_%28titel_op_object%29_Liber_Chronicarum_%28serietitel%29%2C_RP-P-2016-49-32-7.jpg/960px-Koning_Lucius_Tarquinius_Priscus_Tarquinius_Priscus_%28titel_op_object%29_Liber_Chronicarum_%28serietitel%29%2C_RP-P-2016-49-32-7.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+              },
+              "thumbattribs": {
+                "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/11/Koning_Lucius_Tarquinius_Priscus_Tarquinius_Priscus_%28titel_op_object%29_Liber_Chronicarum_%28serietitel%29%2C_RP-P-2016-49-32-7.jpg/500px-Koning_Lucius_Tarquinius_Priscus_Tarquinius_Priscus_%28titel_op_object%29_Liber_Chronicarum_%28serietitel%29%2C_RP-P-2016-49-32-7.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+                "decoding": "async",
+                "loading": "lazy",
+                "width": 400,
+                "height": 502,
+                "srcset": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/11/Koning_Lucius_Tarquinius_Priscus_Tarquinius_Priscus_%28titel_op_object%29_Liber_Chronicarum_%28serietitel%29%2C_RP-P-2016-49-32-7.jpg/960px-Koning_Lucius_Tarquinius_Priscus_Tarquinius_Priscus_%28titel_op_object%29_Liber_Chronicarum_%28serietitel%29%2C_RP-P-2016-49-32-7.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail 2x"
+              },
+              "url": "https://upload.wikimedia.org/wikipedia/commons/1/11/Koning_Lucius_Tarquinius_Priscus_Tarquinius_Priscus_%28titel_op_object%29_Liber_Chronicarum_%28serietitel%29%2C_RP-P-2016-49-32-7.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+              "descriptionurl": "https://commons.wikimedia.org/wiki/File:Koning_Lucius_Tarquinius_Priscus_Tarquinius_Priscus_(titel_op_object)_Liber_Chronicarum_(serietitel),_RP-P-2016-49-32-7.jpg",
+              "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=84747373",
+              "extmetadata": {
+                "DateTime": {
+                  "value": "2019-12-09 04:38:38",
+                  "source": "mediawiki-metadata",
+                  "hidden": ""
+                },
+                "ObjectName": {
+                  "value": "Koning Lucius Tarquinius Priscus Tarquinius Priscus (titel op object) Liber Chronicarum (serietitel), RP-P-2016-49-32-7",
+                  "source": "mediawiki-metadata"
+                },
+                "CommonsMetadataExtension": {
+                  "value": 1.2,
+                  "source": "extension",
+                  "hidden": ""
+                },
+                "Categories": {
+                  "value": "CC-Zero|Lucius Tarquinius Priscus|Liber Chronicarum, kings",
+                  "source": "commons-categories",
+                  "hidden": ""
+                },
+                "Assessments": {
+                  "value": "",
+                  "source": "commons-categories",
+                  "hidden": ""
+                },
+                "ImageDescription": {
+                  "value": "<br><br><big><b>Identificatie</b></big><br><b>Titel(s): </b>Koning Lucius Tarquinius Priscus. Tarquini[us] Prisc[us] (titel op object). Liber Chronicarum (serietitel)<br><b>Objecttype:</b> prent boekillustratie albumblad <br><b>Objectnummer:</b> RP-P-2016-49-32-7<br><b>Opschriften / Merken:</b> opschrift, rechtboven, geschreven in pen: ‘331’<br><b>Omschrijving:</b> Een bloemkelk met een bebaarde koning, naar links gericht. Hij heeft een scepter en rijksappel in zijn handen. De voorstelling is onderdeel van de opeenvolging Romeinse koningen in de Liber Chronicarum. De tekst identificeert de man als Lucius Tarquinius Priscus. De prent maakt deel uit van een album.<br><br><big><b>Vervaardiging</b></big><br><b>Vervaardiger:</b> prentmaker: Michel Wolgemut (atelier van), prentmaker: Wilhelm Pleydenwurff (atelier van)<br><b>Plaats vervaardiging:</b> Neurenberg<br><b>Datering:</b> 1493<br><b>Fysieke kenmerken:</b> houtsnede geplakt op albumblad; tekst in boekdruk; verso met tekst in boekdruk<br><b>Materiaal:</b> papier <br><b>Techniek:</b> boekdruk / houtsnede / plakken<br><b>Afmetingen:</b> prent: h 65 mm × b 56 mm<br><br><big><b>Toelichting</b></big><br>De houtsnede wordt herhaaldelijk gebruikt als boekillustratie in de Liber Chronicarum (of Neurenbergkroniek) van Hartmann Schedel, verschenen in het Latijn en Duits in 1493. Zie de Latijnse uitgave, folio 56v.<br><br><big><b>Onderwerp</b></big><br><b>Wat: </b>king(story of) Tarquin the Elder (Tarquinius Priscus) - portrait of person from classical history<br><br><big><b>Verwerving en rechten</b></big><br><b>Verwerving:</b> onbekend 1874<br><b>Copyright:</b> Publiek domein",
+                  "source": "commons-desc-page"
+                },
+                "DateTimeOriginal": {
+                  "value": "1493",
+                  "source": "commons-desc-page"
+                },
+                "Credit": {
+                  "value": "<a rel=\"nofollow\" class=\"external free\" href=\"http://hdl.handle.net/10934/RM0001.COLLECT.612117\">http://hdl.handle.net/10934/RM0001.COLLECT.612117</a>",
+                  "source": "commons-desc-page"
+                },
+                "Artist": {
+                  "value": "Rijksmuseum",
+                  "source": "commons-desc-page"
+                },
+                "LicenseShortName": {
+                  "value": "CC0",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "UsageTerms": {
+                  "value": "Creative Commons Zero, Public Domain Dedication",
+                  "source": "commons-desc-page"
+                },
+                "AttributionRequired": {
+                  "value": "false",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "LicenseUrl": {
+                  "value": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+                  "source": "commons-desc-page"
+                },
+                "Copyrighted": {
+                  "value": "True",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "Restrictions": {
+                  "value": "",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "License": {
+                  "value": "cc0",
+                  "source": "commons-templates",
+                  "hidden": ""
+                }
+              }
+            }
+          ]
+        },
+        {
+          "pageid": 118634679,
+          "ns": 6,
+          "title": "File:La coronación de Tarquino Prisco, tapiz de la Catedral de Zamora.jpg",
+          "index": 2,
+          "imagerepository": "local",
+          "imageinfo": [
+            {
+              "size": 10387812,
+              "width": 2916,
+              "height": 3888,
+              "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2a/La_coronaci%C3%B3n_de_Tarquino_Prisco%2C_tapiz_de_la_Catedral_de_Zamora.jpg/500px-La_coronaci%C3%B3n_de_Tarquino_Prisco%2C_tapiz_de_la_Catedral_de_Zamora.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+              "thumbwidth": 400,
+              "thumbheight": 533,
+              "responsiveUrls": {
+                "2": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2a/La_coronaci%C3%B3n_de_Tarquino_Prisco%2C_tapiz_de_la_Catedral_de_Zamora.jpg/960px-La_coronaci%C3%B3n_de_Tarquino_Prisco%2C_tapiz_de_la_Catedral_de_Zamora.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+              },
+              "thumbattribs": {
+                "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2a/La_coronaci%C3%B3n_de_Tarquino_Prisco%2C_tapiz_de_la_Catedral_de_Zamora.jpg/500px-La_coronaci%C3%B3n_de_Tarquino_Prisco%2C_tapiz_de_la_Catedral_de_Zamora.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+                "decoding": "async",
+                "loading": "lazy",
+                "width": 400,
+                "height": 533,
+                "srcset": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2a/La_coronaci%C3%B3n_de_Tarquino_Prisco%2C_tapiz_de_la_Catedral_de_Zamora.jpg/960px-La_coronaci%C3%B3n_de_Tarquino_Prisco%2C_tapiz_de_la_Catedral_de_Zamora.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail 2x"
+              },
+              "url": "https://upload.wikimedia.org/wikipedia/commons/2/2a/La_coronaci%C3%B3n_de_Tarquino_Prisco%2C_tapiz_de_la_Catedral_de_Zamora.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+              "descriptionurl": "https://commons.wikimedia.org/wiki/File:La_coronaci%C3%B3n_de_Tarquino_Prisco,_tapiz_de_la_Catedral_de_Zamora.jpg",
+              "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=118634679",
+              "extmetadata": {
+                "DateTime": {
+                  "value": "2022-06-03 05:18:38",
+                  "source": "mediawiki-metadata",
+                  "hidden": ""
+                },
+                "ObjectName": {
+                  "value": "La coronación de Tarquino Prisco, tapiz de la Catedral de Zamora",
+                  "source": "mediawiki-metadata"
+                },
+                "CommonsMetadataExtension": {
+                  "value": 1.2,
+                  "source": "extension",
+                  "hidden": ""
+                },
+                "Categories": {
+                  "value": "Lucius Tarquinius Priscus|Self-published work|Flemish tapestries in Zamora Cathedral",
+                  "source": "commons-categories",
+                  "hidden": ""
+                },
+                "Assessments": {
+                  "value": "",
+                  "source": "commons-categories",
+                  "hidden": ""
+                },
+                "ImageDescription": {
+                  "value": "Colección de tapices flamencos de la Catedral de Zamora. Detalle del tapiz de <a href=\"https://es.wikipedia.org/wiki/Lucio_Tarquino_Prisco\" class=\"extiw\" title=\"es:Lucio Tarquino Prisco\">Lucio Tarquino Prisco</a>. <i>Mientras Lucio construía para si un lujoso domicilio, ya por la novedad del suceso, ya por la variedad de sus riquezas, fue llamado Prisco Tarquino por los romanos. Y al morir el rey Anco fue coronado rey de Roma</i>. Tapiz, lana y seda, contratado por los <a href=\"https://es.wikipedia.org/wiki/Condado_de_Tendilla\" class=\"extiw\" title=\"es:Condado de Tendilla\">Condes de Tendilla</a> (1475-1485) con los Talleres de Arrás (Bruselas) y donado por <a href=\"https://es.wikipedia.org/wiki/Antonio_Enr%C3%ADquez_de_Guzm%C3%A1n\" class=\"extiw\" title=\"es:Antonio Enríquez de Guzmán\">Antonio Enríquez de Guzmán</a>.",
+                  "source": "commons-desc-page"
+                },
+                "DateTimeOriginal": {
+                  "value": "2022-05-26",
+                  "source": "commons-desc-page"
+                },
+                "Credit": {
+                  "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+                  "source": "commons-desc-page"
+                },
+                "Artist": {
+                  "value": "<a href=\"//commons.wikimedia.org/wiki/User:Jl_FilpoC\" title=\"User:Jl FilpoC\">Jl FilpoC</a>",
+                  "source": "commons-desc-page"
+                },
+                "LicenseShortName": {
+                  "value": "CC BY-SA 4.0",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "UsageTerms": {
+                  "value": "Creative Commons Attribution-Share Alike 4.0",
+                  "source": "commons-desc-page"
+                },
+                "AttributionRequired": {
+                  "value": "true",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "LicenseUrl": {
+                  "value": "https://creativecommons.org/licenses/by-sa/4.0",
+                  "source": "commons-desc-page"
+                },
+                "Copyrighted": {
+                  "value": "True",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "Restrictions": {
+                  "value": "",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "License": {
+                  "value": "cc-by-sa-4.0",
+                  "source": "commons-templates",
+                  "hidden": ""
+                }
+              }
+            }
+          ]
+        }
+      ]
+    }
+  }
+}

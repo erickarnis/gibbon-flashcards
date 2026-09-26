@@ -1,0 +1,1878 @@
+{
+  "batchcomplete": true,
+  "query": {
+    "redirects": [
+      {
+        "from": "Acacius of Byzantium",
+        "to": "Agathius"
+      },
+      {
+        "from": "Gratian the Elder",
+        "to": "Gratianus Funarius"
+      },
+      {
+        "from": "Flavius Philippus",
+        "to": "Philippus (consul 348)"
+      },
+      {
+        "from": "Count Theodosius",
+        "to": "Theodosius the Elder"
+      }
+    ],
+    "pages": [
+      {
+        "ns": 0,
+        "title": "Romanus (comes Africae)",
+        "missing": true
+      },
+      {
+        "ns": 0,
+        "title": "Varronianus",
+        "missing": true
+      },
+      {
+        "ns": 0,
+        "title": "Varronianus (father of Jovian)",
+        "missing": true
+      },
+      {
+        "ns": 0,
+        "title": "Anatolius (consul 360)",
+        "missing": true
+      },
+      {
+        "ns": 0,
+        "title": "Hermogenes (magister equitum)",
+        "missing": true
+      },
+      {
+        "pageid": 2340,
+        "ns": 0,
+        "title": "Antipope Felix II",
+        "images": [
+          {
+            "ns": 6,
+            "title": "File:046CupolaSPietro.jpg"
+          },
+          {
+            "ns": 6,
+            "title": "File:Flag of Vatican City (2023–present).svg"
+          },
+          {
+            "ns": 6,
+            "title": "File:Flag of the Vatican City.svg"
+          },
+          {
+            "ns": 6,
+            "title": "File:OOjs UI icon edit-ltr-progressive.svg"
+          },
+          {
+            "ns": 6,
+            "title": "File:P christianity.svg"
+          },
+          {
+            "ns": 6,
+            "title": "File:P vip.svg"
+          },
+          {
+            "ns": 6,
+            "title": "File:Symbol category class.svg"
+          }
+        ],
+        "pageprops": {
+          "defaultsort": "Felix, Antipope, 02",
+          "wikibase-shortdesc": "Antipope from 355 to 365",
+          "wikibase_item": "Q299410"
+        }
+      },
+      {
+        "pageid": 7925,
+        "ns": 0,
+        "title": "David Hume",
+        "original": {
+          "source": "https://upload.wikimedia.org/wikipedia/commons/0/03/David_Hume_Ramsay.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original",
+          "width": 5384,
+          "height": 6518
+        },
+        "pageimage": "David_Hume_Ramsay.jpg",
+        "images": [
+          {
+            "ns": 6,
+            "title": "File:Allan Ramsay - David Hume, 1711 - 1776. Historian and philosopher - Google Art Project.jpg"
+          },
+          {
+            "ns": 6,
+            "title": "File:Allan Ramsay - David Hume, 1711 - 1776. Historian and philosopher - PG 3521 - National Galleries of Scotland.jpg"
+          },
+          {
+            "ns": 6,
+            "title": "File:Commons-logo.svg"
+          },
+          {
+            "ns": 6,
+            "title": "File:DavidHume.jpg"
+          },
+          {
+            "ns": 6,
+            "title": "File:DavidHumeStatueEdinburgh.jpg"
+          },
+          {
+            "ns": 6,
+            "title": "File:David Hume 1754.jpeg"
+          },
+          {
+            "ns": 6,
+            "title": "File:David Hume Ramsay.jpg"
+          },
+          {
+            "ns": 6,
+            "title": "File:David Hume and Adam Smith statues, Edinburgh.jpg"
+          },
+          {
+            "ns": 6,
+            "title": "File:DodgerBlue flag waving.svg"
+          },
+          {
+            "ns": 6,
+            "title": "File:Flag of the United Kingdom.svg"
+          },
+          {
+            "ns": 6,
+            "title": "File:Global thinking.svg"
+          },
+          {
+            "ns": 6,
+            "title": "File:Libertarianism-groups-diagram.svg"
+          },
+          {
+            "ns": 6,
+            "title": "File:Nuvola apps package graphics.png"
+          },
+          {
+            "ns": 6,
+            "title": "File:OOjs UI icon edit-ltr-progressive.svg"
+          },
+          {
+            "ns": 6,
+            "title": "File:Old Calton David Hume.jpg"
+          },
+          {
+            "ns": 6,
+            "title": "File:People icon.svg"
+          },
+          {
+            "ns": 6,
+            "title": "File:Question book-new.svg"
+          },
+          {
+            "ns": 6,
+            "title": "File:Socrates.png"
+          },
+          {
+            "ns": 6,
+            "title": "File:Speaker Icon.svg"
+          },
+          {
+            "ns": 6,
+            "title": "File:Symbol category class.svg"
+          },
+          {
+            "ns": 6,
+            "title": "File:Symbol portal class.svg"
+          },
+          {
+            "ns": 6,
+            "title": "File:UK and Blue flags.png"
+          },
+          {
+            "ns": 6,
+            "title": "File:Wikiquote-logo.svg"
+          },
+          {
+            "ns": 6,
+            "title": "File:Wikisource-logo.svg"
+          }
+        ],
+        "pageprops": {
+          "defaultsort": "Hume, David",
+          "page_image_free": "David_Hume_Ramsay.jpg",
+          "wikibase-shortdesc": "Scottish philosopher, historian, economist and essayist (1711–1776)",
+          "wikibase_item": "Q37160"
+        }
+      },
+      {
+        "pageid": 13172,
+        "ns": 0,
+        "title": "Gregory of Nazianzus",
+        "original": {
+          "source": "https://upload.wikimedia.org/wikipedia/commons/5/5d/Gregor-Chora_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original",
+          "width": 369,
+          "height": 595
+        },
+        "pageimage": "Gregor-Chora_(cropped).jpg",
+        "images": [
+          {
+            "ns": 6,
+            "title": "File:046CupolaSPietro.jpg"
+          },
+          {
+            "ns": 6,
+            "title": "File:Christ Pantocrator mosaic from Hagia Sophia 2744 x 2900 pixels 3.1 MB.jpg"
+          },
+          {
+            "ns": 6,
+            "title": "File:Commons-logo.svg"
+          },
+          {
+            "ns": 6,
+            "title": "File:Coptic cross.svg"
+          },
+          {
+            "ns": 6,
+            "title": "File:Duns Scotus Painting (cropped).jpg"
+          },
+          {
+            "ns": 6,
+            "title": "File:Emblem of the Papacy SE.svg"
+          },
+          {
+            "ns": 6,
+            "title": "File:Gloriole blur.svg"
+          },
+          {
+            "ns": 6,
+            "title": "File:Gregor-Chora (cropped).jpg"
+          },
+          {
+            "ns": 6,
+            "title": "File:Gregory of Nazianzus from Vasilyevskiy chin (15th c., GTG).jpg"
+          },
+          {
+            "ns": 6,
+            "title": "File:OOjs UI icon edit-ltr-progressive.svg"
+          },
+          {
+            "ns": 6,
+            "title": "File:P christianity.svg"
+          },
+          {
+            "ns": 6,
+            "title": "File:Saint Augustine by Philippe de Champaigne (3x4 cropped).jpg"
+          },
+          {
+            "ns": 6,
+            "title": "File:Socrates.png"
+          },
+          {
+            "ns": 6,
+            "title": "File:Speaker Icon.svg"
+          },
+          {
+            "ns": 6,
+            "title": "File:St-thomas-aquinasFXD.jpg"
+          },
+          {
+            "ns": 6,
+            "title": "File:Three Holy Hierarchs (Novgorod).jpg"
+          },
+          {
+            "ns": 6,
+            "title": "File:Wikiquote-logo.svg"
+          },
+          {
+            "ns": 6,
+            "title": "File:Wikisource-logo.svg"
+          }
+        ],
+        "pageprops": {
+          "defaultsort": "Gregory Of Nazianzus",
+          "page_image_free": "Gregor-Chora_(cropped).jpg",
+          "wikibase-shortdesc": "Archbishop of Constantinople from 379 to 381",
+          "wikibase_item": "Q44011"
+        }
+      },
+      {
+        "pageid": 16005,
+        "ns": 0,
+        "title": "Jerome",
+        "original": {
+          "source": "https://upload.wikimedia.org/wikipedia/commons/5/5f/MatthiasStom-SaintJerome-Nantes.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original",
+          "width": 450,
+          "height": 548
+        },
+        "pageimage": "MatthiasStom-SaintJerome-Nantes.jpg",
+        "images": [
+          {
+            "ns": 6,
+            "title": "File:046CupolaSPietro.jpg"
+          },
+          {
+            "ns": 6,
+            "title": "File:Anonimo pittore Veneto-Bizantino, San Gerolamo e il leone (XIV secolo) (collezione Palazzo Roverella, Rovigo) 01.jpg"
+          },
+          {
+            "ns": 6,
+            "title": "File:Antonello da Messina - St Jerome in his study - National Gallery London.jpg"
+          },
+          {
+            "ns": 6,
+            "title": "File:Antonio da Fabriano II - Saint Jerome in His Study - Walters 37439.jpg"
+          },
+          {
+            "ns": 6,
+            "title": "File:Bernardino Luini - The Penitent St Jerome - WGA13761.jpg"
+          },
+          {
+            "ns": 6,
+            "title": "File:Commons-logo.svg"
+          },
+          {
+            "ns": 6,
+            "title": "File:Domenico Ghirlandaio - St Jerome in his study.jpg"
+          },
+          {
+            "ns": 6,
+            "title": "File:Duns Scotus Painting (cropped).jpg"
+          },
+          {
+            "ns": 6,
+            "title": "File:El Greco - San Jerónimo - Google Art Project.jpg"
+          },
+          {
+            "ns": 6,
+            "title": "File:Emblem of the Papacy SE.svg"
+          },
+          {
+            "ns": 6,
+            "title": "File:Flag of Vatican City (2023–present).svg"
+          },
+          {
+            "ns": 6,
+            "title": "File:Flag of the Vatican City.svg"
+          },
+          {
+            "ns": 6,
+            "title": "File:Francescostjerome.jpg"
+          },
+          {
+            "ns": 6,
+            "title": "File:Francisco de Zurbarán 023.jpg"
+          },
+          {
+            "ns": 6,
+            "title": "File:Gabriel Thaller; Sveti Jeronim i pavlini (18.st.).jpg"
+          },
+          {
+            "ns": 6,
+            "title": "File:Giovanni Bellini St Jerome Reading in the Countryside.jpg"
+          },
+          {
+            "ns": 6,
+            "title": "File:Gloriole blur.svg"
+          },
+          {
+            "ns": 6,
+            "title": "File:Grecia, scomparto di trittico a due facce dipinte con la flagellazione e san girolamo, XVII secolo 02.jpg"
+          },
+          {
+            "ns": 6,
+            "title": "File:Jacques Blanchard - Hl. Hieronymus.jpg"
+          },
+          {
+            "ns": 6,
+            "title": "File:Leonardo da Vinci — Jerome.jpg"
+          },
+          {
+            "ns": 6,
+            "title": "File:Lorenzo Lotto - The Virgin and Child with Saints Jerome and Nicholas of Tolentino - Google Art Project.jpg"
+          },
+          {
+            "ns": 6,
+            "title": "File:Lucas Cranach d.Ä. - Der heilige Hieronymus (ca.1515, Mexico City).jpg"
+          },
+          {
+            "ns": 6,
+            "title": "File:Lucas Cranach d.Ä. - Der heilige Hieronymus (ca.1525, Ferdinandeum).jpg"
+          },
+          {
+            "ns": 6,
+            "title": "File:MatthiasStom-SaintJerome-Nantes.jpg"
+          },
+          {
+            "ns": 6,
+            "title": "File:Mestrovic's Jerome 2.JPG"
+          },
+          {
+            "ns": 6,
+            "title": "File:Nuremberg chronicles f 135r 1.jpg"
+          },
+          {
+            "ns": 6,
+            "title": "File:OOjs UI icon edit-ltr-progressive.svg"
+          },
+          {
+            "ns": 6,
+            "title": "File:PD-icon.svg"
+          },
+          {
+            "ns": 6,
+            "title": "File:P christianity.svg"
+          },
+          {
+            "ns": 6,
+            "title": "File:P vip.svg"
+          },
+          {
+            "ns": 6,
+            "title": "File:Saint Augustine by Philippe de Champaigne (3x4 cropped).jpg"
+          },
+          {
+            "ns": 6,
+            "title": "File:Saint Jerome ( Hieronymus ).JPG"
+          },
+          {
+            "ns": 6,
+            "title": "File:Saint Jerome as Scholar MET DT3103.jpg"
+          },
+          {
+            "ns": 6,
+            "title": "File:Saint Jerome in Meditation-Caravaggio (1606).jpg"
+          },
+          {
+            "ns": 6,
+            "title": "File:Saint Jerome in his Study.jpg"
+          },
+          {
+            "ns": 6,
+            "title": "File:San Girolamo nello studio, Colantonio 001.jpg"
+          },
+          {
+            "ns": 6,
+            "title": "File:Socrates.png"
+          },
+          {
+            "ns": 6,
+            "title": "File:Speaker Icon.svg"
+          },
+          {
+            "ns": 6,
+            "title": "File:St-thomas-aquinasFXD.jpg"
+          },
+          {
+            "ns": 6,
+            "title": "File:St.-Jerome-In-His-Study.jpg"
+          },
+          {
+            "ns": 6,
+            "title": "File:St.Jerome MET.jpg"
+          },
+          {
+            "ns": 6,
+            "title": "File:St Jerome Penitent in the Wilderness - Rijksmuseum.jpg"
+          },
+          {
+            "ns": 6,
+            "title": "File:St Jerome by Michelangelo Merisi da Caravaggio.jpeg"
+          },
+          {
+            "ns": 6,
+            "title": "File:Symbol category class.svg"
+          },
+          {
+            "ns": 6,
+            "title": "File:Wikiquote-logo.svg"
+          },
+          {
+            "ns": 6,
+            "title": "File:Wikisource-logo.svg"
+          },
+          {
+            "ns": 6,
+            "title": "File:Workshop of Pieter Coecke van Aelst, the elder - Saint Jerome in His Study - Walters 37256.jpg"
+          }
+        ],
+        "pageprops": {
+          "page_image_free": "MatthiasStom-SaintJerome-Nantes.jpg",
+          "wikibase-shortdesc": "Priest and theologian (c. 342/347 – 420)",
+          "wikibase_item": "Q44248"
+        }
+      },
+      {
+        "pageid": 18710,
+        "ns": 0,
+        "title": "Luke the Evangelist",
+        "original": {
+          "source": "https://upload.wikimedia.org/wikipedia/commons/7/7c/Codexaureus_23.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original",
+          "width": 728,
+          "height": 1024
+        },
+        "pageimage": "Codexaureus_23.jpg",
+        "images": [
+          {
+            "ns": 6,
+            "title": "File:046CupolaSPietro.jpg"
+          },
+          {
+            "ns": 6,
+            "title": "File:142082810-612x612.jpg"
+          },
+          {
+            "ns": 6,
+            "title": "File:Bodleian Library MS. Arm. d.13. Armenian Gospels-0043-0.jpg"
+          },
+          {
+            "ns": 6,
+            "title": "File:Brooklyn Museum - Saint Luke (Saint Luc) - James Tissot.jpg"
+          },
+          {
+            "ns": 6,
+            "title": "File:Codexaureus 23.jpg"
+          },
+          {
+            "ns": 6,
+            "title": "File:Commons-logo.svg"
+          },
+          {
+            "ns": 6,
+            "title": "File:Evangelist Lucas.jpg"
+          },
+          {
+            "ns": 6,
+            "title": "File:Evangelist Luka pishustchiy ikonu.jpg"
+          },
+          {
+            "ns": 6,
+            "title": "File:Gloriole blur.svg"
+          },
+          {
+            "ns": 6,
+            "title": "File:Hermen Rode 001.jpg"
+          },
+          {
+            "ns": 6,
+            "title": "File:Icon of the blessed Virgin Mary by Luke the Evangelist.jpg"
+          },
+          {
+            "ns": 6,
+            "title": "File:Luke the Evangelist.jpg"
+          },
+          {
+            "ns": 6,
+            "title": "File:Luke writing.jpg"
+          },
+          {
+            "ns": 6,
+            "title": "File:Maarten van Heemskerck - St Luke Painting the Virgin (1532 Haarlem).jpg"
+          },
+          {
+            "ns": 6,
+            "title": "File:Nuremberg chronicles f 108r 1.png"
+          },
+          {
+            "ns": 6,
+            "title": "File:OOjs UI icon edit-ltr-progressive.svg"
+          },
+          {
+            "ns": 6,
+            "title": "File:Question book-new.svg"
+          },
+          {
+            "ns": 6,
+            "title": "File:Saint luke.jpg"
+          },
+          {
+            "ns": 6,
+            "title": "File:Santa Giustina (Padua) - Chapel of Saint Luke - Tomb of Luke the Evangelist (front).jpg"
+          },
+          {
+            "ns": 6,
+            "title": "File:St Luke.JPG"
+          },
+          {
+            "ns": 6,
+            "title": "File:Wikiquote-logo.svg"
+          },
+          {
+            "ns": 6,
+            "title": "File:Wikisource-logo.svg"
+          },
+          {
+            "ns": 6,
+            "title": "File:Τετραευάγγελο Ε140 της Μεγίστης Λαύρας. Ευαγγελιστής Λουκάς. 15ος αιώνας.jpg"
+          }
+        ],
+        "pageprops": {
+          "defaultsort": "Luke The Evangelist",
+          "page_image_free": "Codexaureus_23.jpg",
+          "wikibase-shortdesc": "One of the four traditionally ascribed authors of the canonical gospels",
+          "wikibase_item": "Q128538"
+        }
+      },
+      {
+        "pageid": 20672,
+        "ns": 0,
+        "title": "Matthew the Apostle",
+        "original": {
+          "source": "https://upload.wikimedia.org/wikipedia/commons/d/d0/Codexaureus_17.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original",
+          "width": 727,
+          "height": 1024
+        },
+        "pageimage": "Codexaureus_17.jpg",
+        "images": [
+          {
+            "ns": 6,
+            "title": "File:046CupolaSPietro.jpg"
+          },
+          {
+            "ns": 6,
+            "title": "File:20230513 Matthias mit dem Beil.jpg"
+          },
+          {
+            "ns": 6,
+            "title": "File:Bodleian Library MS. Arm. d.13. Armenian Gospels-0039-0.jpg"
+          },
+          {
+            "ns": 6,
+            "title": "File:Caravaggio — The Calling of Saint Matthew.jpg"
+          },
+          {
+            "ns": 6,
+            "title": "File:Codexaureus 17.jpg"
+          },
+          {
+            "ns": 6,
+            "title": "File:Commons-logo.svg"
+          },
+          {
+            "ns": 6,
+            "title": "File:Coptic cross.svg"
+          },
+          {
+            "ns": 6,
+            "title": "File:Giuseppe Bernardi-Matthew-BMA.jpg"
+          },
+          {
+            "ns": 6,
+            "title": "File:Gloriole blur.svg"
+          },
+          {
+            "ns": 6,
+            "title": "File:Guido Reni - St Matthew and the Angel.jpg"
+          },
+          {
+            "ns": 6,
+            "title": "File:Helsinki Cathedral Matthew the Evangelist.jpg"
+          },
+          {
+            "ns": 6,
+            "title": "File:MattewIslam.JPG"
+          },
+          {
+            "ns": 6,
+            "title": "File:Matthaeus San Giovanni in Laterano 2006-09-07.jpg"
+          },
+          {
+            "ns": 6,
+            "title": "File:MatthewSt.Matts.jpg"
+          },
+          {
+            "ns": 6,
+            "title": "File:Matthew the Apostle. Detail of the mosaic in the Basilica of San Vitale. Ravena, Italy.jpg"
+          },
+          {
+            "ns": 6,
+            "title": "File:OOjs UI icon edit-ltr-progressive.svg"
+          },
+          {
+            "ns": 6,
+            "title": "File:P christianity.svg"
+          },
+          {
+            "ns": 6,
+            "title": "File:Rembrandt - Saint Matthew and the angel.jpg"
+          },
+          {
+            "ns": 6,
+            "title": "File:Saint Matthew2.jpg"
+          },
+          {
+            "ns": 6,
+            "title": "File:Saint Matthew (crop) - Triumphal arch - Sant'Apollinare in Classe - Ravenna 2016.jpg"
+          },
+          {
+            "ns": 6,
+            "title": "File:Salerno 2013-05-17 10-47-55.jpg"
+          },
+          {
+            "ns": 6,
+            "title": "File:The Apostle Matthew.jpg"
+          }
+        ],
+        "pageprops": {
+          "defaultsort": "Matthew",
+          "page_image_free": "Codexaureus_17.jpg",
+          "wikibase-shortdesc": "Apostle of Jesus",
+          "wikibase_item": "Q43600"
+        }
+      },
+      {
+        "pageid": 20775,
+        "ns": 0,
+        "title": "Midas",
+        "original": {
+          "source": "https://upload.wikimedia.org/wikipedia/commons/7/7d/Red-figure_stamnos_Silenos_Mida_440BC_Cropped.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original",
+          "width": 462,
+          "height": 647
+        },
+        "pageimage": "Red-figure_stamnos_Silenos_Mida_440BC_Cropped.jpg",
+        "images": [
+          {
+            "ns": 6,
+            "title": "File:Abraham Janssens - The judgement of Midas.jpg"
+          },
+          {
+            "ns": 6,
+            "title": "File:Apollo and Daphne (Bernini).jpg"
+          },
+          {
+            "ns": 6,
+            "title": "File:Commons-logo.svg"
+          },
+          {
+            "ns": 6,
+            "title": "File:Gordion69.JPG"
+          },
+          {
+            "ns": 6,
+            "title": "File:Io changed into a cow, Mercury cuts of Argus's head.jpg"
+          },
+          {
+            "ns": 6,
+            "title": "File:MidasSehri.Tomb.jpg"
+          },
+          {
+            "ns": 6,
+            "title": "File:Midas gold2.jpg"
+          },
+          {
+            "ns": 6,
+            "title": "File:Museum of Anatolian Civilizations055 kopie1.jpg"
+          },
+          {
+            "ns": 6,
+            "title": "File:OOjs UI icon edit-ltr-progressive.svg"
+          },
+          {
+            "ns": 6,
+            "title": "File:Pygmalion (Raoux).jpg"
+          },
+          {
+            "ns": 6,
+            "title": "File:Red-figure stamnos Silenos Mida 440BC Cropped.jpg"
+          },
+          {
+            "ns": 6,
+            "title": "File:Turkey-1428 (2216632594).jpg"
+          }
+        ],
+        "pageprops": {
+          "page_image_free": "Red-figure_stamnos_Silenos_Mida_440BC_Cropped.jpg",
+          "wikibase-shortdesc": "King in Greek mythology",
+          "wikibase_item": "Q308398"
+        }
+      },
+      {
+        "pageid": 23673,
+        "ns": 0,
+        "title": "Pachomius the Great",
+        "original": {
+          "source": "https://upload.wikimedia.org/wikipedia/commons/3/39/StPakhom.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original",
+          "width": 273,
+          "height": 400
+        },
+        "pageimage": "StPakhom.jpg",
+        "images": [
+          {
+            "ns": 6,
+            "title": "File:046CupolaSPietro.jpg"
+          },
+          {
+            "ns": 6,
+            "title": "File:Bucharest - Biserica Sf. Anton 06.jpg"
+          },
+          {
+            "ns": 6,
+            "title": "File:Coptic cross.svg"
+          },
+          {
+            "ns": 6,
+            "title": "File:Gloriole blur.svg"
+          },
+          {
+            "ns": 6,
+            "title": "File:OOjs UI icon edit-ltr-progressive.svg"
+          },
+          {
+            "ns": 6,
+            "title": "File:P christianity.svg"
+          },
+          {
+            "ns": 6,
+            "title": "File:StPakhom.jpg"
+          },
+          {
+            "ns": 6,
+            "title": "File:Wikisource-logo.svg"
+          }
+        ],
+        "pageprops": {
+          "page_image_free": "StPakhom.jpg",
+          "wikibase-shortdesc": "Egyptian saint",
+          "wikibase_item": "Q298698"
+        }
+      },
+      {
+        "pageid": 23851,
+        "ns": 0,
+        "title": "Pope Damasus I",
+        "original": {
+          "source": "https://upload.wikimedia.org/wikipedia/commons/b/bc/Pope_Damasus_-_Biblia_Sancti_Martialis_Lemovicensis%2C_Folio_4v.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original",
+          "width": 624,
+          "height": 1234
+        },
+        "pageimage": "Pope_Damasus_-_Biblia_Sancti_Martialis_Lemovicensis,_Folio_4v.png",
+        "images": [
+          {
+            "ns": 6,
+            "title": "File:046CupolaSPietro.jpg"
+          },
+          {
+            "ns": 6,
+            "title": "File:Commons-logo.svg"
+          },
+          {
+            "ns": 6,
+            "title": "File:Epigramme Damase Agnès.jpg"
+          },
+          {
+            "ns": 6,
+            "title": "File:Flag of Italy.svg"
+          },
+          {
+            "ns": 6,
+            "title": "File:Gloriole blur.svg"
+          },
+          {
+            "ns": 6,
+            "title": "File:Hieronymus presents Vulgata.jpg"
+          },
+          {
+            "ns": 6,
+            "title": "File:OOjs UI icon edit-ltr-progressive.svg"
+          },
+          {
+            "ns": 6,
+            "title": "File:P christianity.svg"
+          },
+          {
+            "ns": 6,
+            "title": "File:P vip.svg"
+          },
+          {
+            "ns": 6,
+            "title": "File:Pope Damasus - Biblia Sancti Martialis Lemovicensis, Folio 4v.png"
+          },
+          {
+            "ns": 6,
+            "title": "File:Symbol category class.svg"
+          },
+          {
+            "ns": 6,
+            "title": "File:Symbol portal class.svg"
+          },
+          {
+            "ns": 6,
+            "title": "File:Wikisource-logo.svg"
+          }
+        ],
+        "pageprops": {
+          "defaultsort": "Damasus 01",
+          "page_image_free": "Pope_Damasus_-_Biblia_Sancti_Martialis_Lemovicensis,_Folio_4v.png",
+          "wikibase-shortdesc": "Head of the Catholic Church from 366 to 384",
+          "wikibase_item": "Q130997"
+        }
+      },
+      {
+        "pageid": 31131,
+        "ns": 0,
+        "title": "Theodosius I",
+        "original": {
+          "source": "https://upload.wikimedia.org/wikipedia/commons/f/f7/Bust_of_Theodosius_I.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original",
+          "width": 431,
+          "height": 671
+        },
+        "pageimage": "Bust_of_Theodosius_I.jpg",
+        "images": [
+          {
+            "ns": 6,
+            "title": "File:Anthonis van Dyck 005.jpg"
+          },
+          {
+            "ns": 6,
+            "title": "File:Bust of Theodosius I.jpg"
+          },
+          {
+            "ns": 6,
+            "title": "File:Byzantine imperial flag, 14th century, square.svg"
+          },
+          {
+            "ns": 6,
+            "title": "File:Disc of Theodosius.png"
+          },
+          {
+            "ns": 6,
+            "title": "File:Edit-clear.svg"
+          },
+          {
+            "ns": 6,
+            "title": "File:Flag of Palaeologus Dynasty.svg"
+          },
+          {
+            "ns": 6,
+            "title": "File:Forum Theodosius Istanbul March 2008 (18) detail.JPG"
+          },
+          {
+            "ns": 6,
+            "title": "File:Head of Aphrodite (National Archaeological Museum of Athens, 1-31-2023).jpg"
+          },
+          {
+            "ns": 6,
+            "title": "File:Hippodrome Constantinople 2007 003.jpg"
+          },
+          {
+            "ns": 6,
+            "title": "File:Homilies of Gregory the Theologian gr. 510, f 491.jpg"
+          },
+          {
+            "ns": 6,
+            "title": "File:Illyricum & Dacia - AD 400.png"
+          },
+          {
+            "ns": 6,
+            "title": "File:Massacre in the Hippodrome of Thessaloniki in 390, 16th century wood engraving.jpg"
+          },
+          {
+            "ns": 6,
+            "title": "File:OOjs UI icon edit-ltr-progressive.svg"
+          },
+          {
+            "ns": 6,
+            "title": "File:Roman empire 395.jpg"
+          },
+          {
+            "ns": 6,
+            "title": "File:Symbol support vote.svg"
+          },
+          {
+            "ns": 6,
+            "title": "File:The Obelisk of Theodosius, details of the base of the Obelisk of Thutmose III, Hippodrome, Istanbul (8370192180).jpg"
+          },
+          {
+            "ns": 6,
+            "title": "File:The Roman Empire ca 400 AD (Danube provinces).png"
+          },
+          {
+            "ns": 6,
+            "title": "File:Theodosius colum, Istanbul.jpg"
+          },
+          {
+            "ns": 6,
+            "title": "File:Theodosiusi658cng.jpg"
+          },
+          {
+            "ns": 6,
+            "title": "File:Valentinianus Solidus 621120.jpg"
+          },
+          {
+            "ns": 6,
+            "title": "File:Wikisource-logo.svg"
+          }
+        ],
+        "pageprops": {
+          "defaultsort": "Theodosius 01",
+          "nomediaviewercarousel": "",
+          "page_image_free": "Bust_of_Theodosius_I.jpg",
+          "wikibase-badge-Q17437798": "",
+          "wikibase-shortdesc": "Roman emperor from 379 to 395",
+          "wikibase_item": "Q46696"
+        }
+      },
+      {
+        "pageid": 32519,
+        "ns": 0,
+        "title": "Valens",
+        "original": {
+          "source": "https://upload.wikimedia.org/wikipedia/commons/f/fc/INC-3015-a_%D0%A1%D0%BE%D0%BB%D0%B8%D0%B4._%D0%92%D0%B0%D0%BB%D0%B5%D0%BD%D1%82_II._%D0%9E%D0%BA._364_%D0%B3._%28%D0%B0%D0%B2%D0%B5%D1%80%D1%81%29.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original",
+          "width": 511,
+          "height": 503
+        },
+        "pageimage": "INC-3015-a_Солид._Валент_II._Ок._364_г._(аверс).png",
+        "images": [
+          {
+            "ns": 6,
+            "title": "File:Athanaric and Valens on the Danbue.png"
+          },
+          {
+            "ns": 6,
+            "title": "File:Commons-logo.svg"
+          },
+          {
+            "ns": 6,
+            "title": "File:Galleria degli Uffizi, Florence (32212815186).jpg"
+          },
+          {
+            "ns": 6,
+            "title": "File:INC-1867-a Солид. Валент II. Ок. 375—378 гг. (аверс).png"
+          },
+          {
+            "ns": 6,
+            "title": "File:INC-1867-r Солид. Валент II. Ок. 375—378 гг. (реверс).png"
+          },
+          {
+            "ns": 6,
+            "title": "File:INC-3015-a Солид. Валент II. Ок. 364 г. (аверс).png"
+          },
+          {
+            "ns": 6,
+            "title": "File:KHM Wien 32.482 - Valens medal, 375-78 AD.jpg"
+          },
+          {
+            "ns": 6,
+            "title": "File:OOjs UI icon edit-ltr-progressive.svg"
+          },
+          {
+            "ns": 6,
+            "title": "File:Question book-new.svg"
+          },
+          {
+            "ns": 6,
+            "title": "File:The Mass of Saint Basil MET DP151176.jpg"
+          },
+          {
+            "ns": 6,
+            "title": "File:The Roman emperor Valens pours money into a coffer; an offic Wellcome V0007640EBR.jpg"
+          },
+          {
+            "ns": 6,
+            "title": "File:Valens114cng (obverse).jpg"
+          },
+          {
+            "ns": 6,
+            "title": "File:Valens114cng (reverse).jpg"
+          },
+          {
+            "ns": 6,
+            "title": "File:Valens Honorius Musei Capitolini MC494.jpg"
+          },
+          {
+            "ns": 6,
+            "title": "File:Valens aquädukt02.jpg"
+          },
+          {
+            "ns": 6,
+            "title": "File:Valenscng85001223.jpg"
+          }
+        ],
+        "pageprops": {
+          "nomediaviewercarousel": "",
+          "page_image_free": "INC-3015-a_Солид._Валент_II._Ок._364_г._(аверс).png",
+          "wikibase-shortdesc": "Roman emperor from 364 to 378",
+          "wikibase_item": "Q172471"
+        }
+      },
+      {
+        "pageid": 49086,
+        "ns": 0,
+        "title": "Libanius",
+        "original": {
+          "source": "https://upload.wikimedia.org/wikipedia/commons/c/ce/Libanius_the_sophist.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original",
+          "width": 338,
+          "height": 450
+        },
+        "pageimage": "Libanius_the_sophist.jpg",
+        "images": [
+          {
+            "ns": 6,
+            "title": "File:Libanius the sophist.jpg"
+          },
+          {
+            "ns": 6,
+            "title": "File:OOjs UI icon edit-ltr-progressive.svg"
+          },
+          {
+            "ns": 6,
+            "title": "File:Question book-new.svg"
+          }
+        ],
+        "pageprops": {
+          "defaultsort": "Libanius",
+          "page_image_free": "Libanius_the_sophist.jpg",
+          "wikibase-shortdesc": "Greek rhetorician (4th century AD)",
+          "wikibase_item": "Q263892"
+        }
+      },
+      {
+        "pageid": 54151,
+        "ns": 0,
+        "title": "Pope Liberius",
+        "original": {
+          "source": "https://upload.wikimedia.org/wikipedia/commons/5/50/Patrician_John_Reveals_his_Dream_to_Pope_Liberius.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original",
+          "width": 1026,
+          "height": 1332
+        },
+        "pageimage": "Patrician_John_Reveals_his_Dream_to_Pope_Liberius.png",
+        "images": [
+          {
+            "ns": 6,
+            "title": "File:046CupolaSPietro.jpg"
+          },
+          {
+            "ns": 6,
+            "title": "File:Commons-logo.svg"
+          },
+          {
+            "ns": 6,
+            "title": "File:Flag of Vatican City (2023–present).svg"
+          },
+          {
+            "ns": 6,
+            "title": "File:Flag of the Vatican City.svg"
+          },
+          {
+            "ns": 6,
+            "title": "File:Masolino - Founding of Santa Maria Maggiore - WGA14244.jpg"
+          },
+          {
+            "ns": 6,
+            "title": "File:OOjs UI icon edit-ltr-progressive.svg"
+          },
+          {
+            "ns": 6,
+            "title": "File:P christianity.svg"
+          },
+          {
+            "ns": 6,
+            "title": "File:P history.svg"
+          },
+          {
+            "ns": 6,
+            "title": "File:P vip.svg"
+          },
+          {
+            "ns": 6,
+            "title": "File:Patrician John Reveals his Dream to Pope Liberius.png"
+          },
+          {
+            "ns": 6,
+            "title": "File:Symbol category class.svg"
+          },
+          {
+            "ns": 6,
+            "title": "File:Symbol portal class.svg"
+          },
+          {
+            "ns": 6,
+            "title": "File:Wikisource-logo.svg"
+          }
+        ],
+        "pageprops": {
+          "defaultsort": "Liberius",
+          "page_image_free": "Patrician_John_Reveals_his_Dream_to_Pope_Liberius.png",
+          "wikibase-shortdesc": "Head of the Catholic Church from 352 to 366",
+          "wikibase_item": "Q102105"
+        }
+      },
+      {
+        "pageid": 74658,
+        "ns": 0,
+        "title": "Valentinian I",
+        "original": {
+          "source": "https://upload.wikimedia.org/wikipedia/commons/0/04/Gold_Solidus_of_Valens%2C_Antioch.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original",
+          "width": 2798,
+          "height": 2797
+        },
+        "pageimage": "Gold_Solidus_of_Valens,_Antioch.jpg",
+        "images": [
+          {
+            "ns": 6,
+            "title": "File:Colosso-de-barletta.jpg"
+          },
+          {
+            "ns": 6,
+            "title": "File:Commons-logo.svg"
+          },
+          {
+            "ns": 6,
+            "title": "File:Dél-Komárom - modern memorial plaque of the Roman imperator Valentinianus I.jpg"
+          },
+          {
+            "ns": 6,
+            "title": "File:Galleria degli Uffizi, Florence (32212815186).jpg"
+          },
+          {
+            "ns": 6,
+            "title": "File:Gold Solidus of Valens, Antioch.jpg"
+          },
+          {
+            "ns": 6,
+            "title": "File:INC-1867-r Солид. Валент II. Ок. 375—378 гг. (реверс).png"
+          },
+          {
+            "ns": 6,
+            "title": "File:INC-3035-a Солид. Валентиниан I. Ок. 367—375 гг. (аверс).png"
+          },
+          {
+            "ns": 6,
+            "title": "File:INC-3035-r Солид. Валентиниан I. Ок. 367—375 гг. (реверс).png"
+          },
+          {
+            "ns": 6,
+            "title": "File:Missorio di valentiniano I, argento, 364-75 ca., dall'arve, 02.JPG"
+          },
+          {
+            "ns": 6,
+            "title": "File:OOjs UI icon edit-ltr-progressive.svg"
+          },
+          {
+            "ns": 6,
+            "title": "File:Question book-new.svg"
+          },
+          {
+            "ns": 6,
+            "title": "File:SPQRomani.svg"
+          },
+          {
+            "ns": 6,
+            "title": "File:Valentiniano Primo.jpg"
+          },
+          {
+            "ns": 6,
+            "title": "File:Wikisource-logo.svg"
+          }
+        ],
+        "pageprops": {
+          "defaultsort": "Valentinian 01",
+          "nomediaviewercarousel": "",
+          "page_image_free": "Gold_Solidus_of_Valens,_Antioch.jpg",
+          "wikibase-shortdesc": "Roman emperor from 364 to 375",
+          "wikibase_item": "Q46720"
+        }
+      },
+      {
+        "pageid": 144811,
+        "ns": 0,
+        "title": "Jovian (emperor)",
+        "original": {
+          "source": "https://upload.wikimedia.org/wikipedia/commons/c/c4/Solidus_of_Jovian2_%28obverse%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original",
+          "width": 1304,
+          "height": 1242
+        },
+        "pageimage": "Solidus_of_Jovian2_(obverse).jpg",
+        "images": [
+          {
+            "ns": 6,
+            "title": "File:Byzantine imperial flag, 14th century, square.svg"
+          },
+          {
+            "ns": 6,
+            "title": "File:Commons-logo.svg"
+          },
+          {
+            "ns": 6,
+            "title": "File:Flag of Palaeologus Dynasty.svg"
+          },
+          {
+            "ns": 6,
+            "title": "File:OOjs UI icon edit-ltr-progressive.svg"
+          },
+          {
+            "ns": 6,
+            "title": "File:Solidus of Jovian2 (obverse).jpg"
+          },
+          {
+            "ns": 6,
+            "title": "File:Symbol support vote.svg"
+          }
+        ],
+        "pageprops": {
+          "nomediaviewercarousel": "",
+          "page_image_free": "Solidus_of_Jovian2_(obverse).jpg",
+          "wikibase-badge-Q17437798": "",
+          "wikibase-shortdesc": "Roman emperor from 363 to 364",
+          "wikibase_item": "Q34074"
+        }
+      },
+      {
+        "pageid": 201185,
+        "ns": 0,
+        "title": "Theodosius the Elder",
+        "images": [
+          {
+            "ns": 6,
+            "title": "File:Theodosius1cng11100822obverse.jpg"
+          }
+        ],
+        "pageprops": {
+          "defaultsort": "Theodosius, Count",
+          "wikibase-shortdesc": "Roman army officer and father of emperor Theodosius I",
+          "wikibase_item": "Q537126"
+        }
+      },
+      {
+        "pageid": 239619,
+        "ns": 0,
+        "title": "Flavian I of Antioch",
+        "images": [
+          {
+            "ns": 6,
+            "title": "File:OOjs UI icon edit-ltr-progressive.svg"
+          },
+          {
+            "ns": 6,
+            "title": "File:P christianity.svg"
+          },
+          {
+            "ns": 6,
+            "title": "File:Question book-new.svg"
+          },
+          {
+            "ns": 6,
+            "title": "File:Wikisource-logo.svg"
+          }
+        ],
+        "pageprops": {
+          "defaultsort": "Flavian 01 Of Antioch",
+          "wikibase-shortdesc": "Patriarch of Antioch from 381 to 404",
+          "wikibase_item": "Q1559544"
+        }
+      },
+      {
+        "pageid": 239672,
+        "ns": 0,
+        "title": "Sulla",
+        "original": {
+          "source": "https://upload.wikimedia.org/wikipedia/commons/b/bf/Q._Pompeius_Rufus%2C_denarius%2C_54_BC%2C_RRC_434-1_%28Sulla_only%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original",
+          "width": 399,
+          "height": 354
+        },
+        "pageimage": "Q._Pompeius_Rufus,_denarius,_54_BC,_RRC_434-1_(Sulla_only).jpg",
+        "images": [
+          {
+            "ns": 6,
+            "title": "File:Aeclanum (Ruins-03).jpg"
+          },
+          {
+            "ns": 6,
+            "title": "File:Asia minor Mithridates.jpg"
+          },
+          {
+            "ns": 6,
+            "title": "File:Augustyn mirys-sulla proscription.jpg"
+          },
+          {
+            "ns": 6,
+            "title": "File:Benjamin Ulmann, Sylla chez Marius, c.1866, Orsay Museum.webp"
+          },
+          {
+            "ns": 6,
+            "title": "File:Commons-logo.svg"
+          },
+          {
+            "ns": 6,
+            "title": "File:Faustus Cornelius Sulla, AR denarius, 56 BC, RRC 426-1.jpg"
+          },
+          {
+            "ns": 6,
+            "title": "File:L. Sulla & L. Manlius Torquatus, aureus, 82 BC, RRC 367-4.jpg"
+          },
+          {
+            "ns": 6,
+            "title": "File:Mario vincitore dei Cimbri.jpg"
+          },
+          {
+            "ns": 6,
+            "title": "File:OOjs UI icon edit-ltr-progressive.svg"
+          },
+          {
+            "ns": 6,
+            "title": "File:Q. Pompeius Rufus, denarius, 54 BC, RRC 434-1 (Sulla only).jpg"
+          },
+          {
+            "ns": 6,
+            "title": "File:Sulla Glyptothek Munich 309.jpg"
+          },
+          {
+            "ns": 6,
+            "title": "File:Symbol category class.svg"
+          },
+          {
+            "ns": 6,
+            "title": "File:Wikiquote-logo.svg"
+          },
+          {
+            "ns": 6,
+            "title": "File:Wikisource-logo.svg"
+          }
+        ],
+        "pageprops": {
+          "page_image_free": "Q._Pompeius_Rufus,_denarius,_54_BC,_RRC_434-1_(Sulla_only).jpg",
+          "wikibase-shortdesc": "Roman general and dictator (138–78 BC)",
+          "wikibase_item": "Q483783"
+        }
+      },
+      {
+        "pageid": 260860,
+        "ns": 0,
+        "title": "Procopius (usurper)",
+        "original": {
+          "source": "https://upload.wikimedia.org/wikipedia/commons/e/ea/INC-1866-a_%D0%A1%D0%BE%D0%BB%D0%B8%D0%B4._%D0%9F%D1%80%D0%BE%D0%BA%D0%BE%D0%BF%D0%B8%D0%B9._%D0%9E%D0%BA._365%E2%80%94366_%D0%B3%D0%B3._%28%D0%B0%D0%B2%D0%B5%D1%80%D1%81%29.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original",
+          "width": 513,
+          "height": 494
+        },
+        "pageimage": "INC-1866-a_Солид._Прокопий._Ок._365—366_гг._(аверс).png",
+        "images": [
+          {
+            "ns": 6,
+            "title": "File:Coin of Procopius (usurper) minted in Constantinople.jpg"
+          },
+          {
+            "ns": 6,
+            "title": "File:Commons-logo.svg"
+          },
+          {
+            "ns": 6,
+            "title": "File:INC-1866-a Солид. Прокопий. Ок. 365—366 гг. (аверс).png"
+          },
+          {
+            "ns": 6,
+            "title": "File:OOjs UI icon edit-ltr-progressive.svg"
+          }
+        ],
+        "pageprops": {
+          "nomediaviewercarousel": "",
+          "page_image_free": "INC-1866-a_Солид._Прокопий._Ок._365—366_гг._(аверс).png",
+          "wikibase-shortdesc": "Roman usurper from 365 to 366",
+          "wikibase_item": "Q316284"
+        }
+      },
+      {
+        "pageid": 270926,
+        "ns": 0,
+        "title": "Alexander of Constantinople",
+        "original": {
+          "source": "https://upload.wikimedia.org/wikipedia/commons/8/8b/Alexander.john.paul.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original",
+          "width": 125,
+          "height": 208
+        },
+        "pageimage": "Alexander.john.paul.jpg",
+        "images": [
+          {
+            "ns": 6,
+            "title": "File:Alexander.john.paul.jpg"
+          },
+          {
+            "ns": 6,
+            "title": "File:OOjs UI icon edit-ltr-progressive.svg"
+          },
+          {
+            "ns": 6,
+            "title": "File:P christianity.svg"
+          },
+          {
+            "ns": 6,
+            "title": "File:Wikisource-logo.svg"
+          }
+        ],
+        "pageprops": {
+          "page_image_free": "Alexander.john.paul.jpg",
+          "wikibase-shortdesc": "Bishop of Byzantium and the first bishop of Constantinople from 314 to 337",
+          "wikibase_item": "Q982488"
+        }
+      },
+      {
+        "pageid": 271021,
+        "ns": 0,
+        "title": "Macedonius I of Constantinople",
+        "original": {
+          "source": "https://upload.wikimedia.org/wikipedia/commons/1/1a/Portret_van_Macedonius_Macedonius_%28titel_op_object%29_Historie_der_Kerken_en_ketteren_%28..%29_tot_aan_het_jaar_onses_Heeren_1688_%28serietitel%29%2C_RP-P-1908-4478.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original",
+          "width": 4274,
+          "height": 6664
+        },
+        "pageimage": "Portret_van_Macedonius_Macedonius_(titel_op_object)_Historie_der_Kerken_en_ketteren_(..)_tot_aan_het_jaar_onses_Heeren_1688_(serietitel),_RP-P-1908-4478.jpg",
+        "images": [
+          {
+            "ns": 6,
+            "title": "File:P christianity.svg"
+          },
+          {
+            "ns": 6,
+            "title": "File:Portret van Macedonius Macedonius (titel op object) Historie der Kerken en ketteren (..) tot aan het jaar onses Heeren 1688 (serietitel), RP-P-1908-4478.jpg"
+          },
+          {
+            "ns": 6,
+            "title": "File:Translation to english arrow.svg"
+          },
+          {
+            "ns": 6,
+            "title": "File:Wikisource-logo.svg"
+          }
+        ],
+        "pageprops": {
+          "defaultsort": "Macedonius 01 Of Constantinople",
+          "page_image_free": "Portret_van_Macedonius_Macedonius_(titel_op_object)_Historie_der_Kerken_en_ketteren_(..)_tot_aan_het_jaar_onses_Heeren_1688_(serietitel),_RP-P-1908-4478.jpg",
+          "wikibase-shortdesc": "Fourth Century Bishop of Constantinople",
+          "wikibase_item": "Q1263119"
+        }
+      },
+      {
+        "pageid": 271029,
+        "ns": 0,
+        "title": "Eudoxius of Antioch",
+        "images": [
+          {
+            "ns": 6,
+            "title": "File:OOjs UI icon edit-ltr-progressive.svg"
+          },
+          {
+            "ns": 6,
+            "title": "File:P christianity.svg"
+          },
+          {
+            "ns": 6,
+            "title": "File:Question book-new.svg"
+          },
+          {
+            "ns": 6,
+            "title": "File:Wikisource-logo.svg"
+          }
+        ],
+        "pageprops": {
+          "wikibase-shortdesc": "Archbishop of Constantinople from 360 to 370",
+          "wikibase_item": "Q928668"
+        }
+      },
+      {
+        "pageid": 842599,
+        "ns": 0,
+        "title": "Antipope Ursicinus",
+        "images": [
+          {
+            "ns": 6,
+            "title": "File:046CupolaSPietro.jpg"
+          },
+          {
+            "ns": 6,
+            "title": "File:Ambox important.svg"
+          },
+          {
+            "ns": 6,
+            "title": "File:Flag of Vatican City (2023–present).svg"
+          },
+          {
+            "ns": 6,
+            "title": "File:Flag of the Vatican City.svg"
+          },
+          {
+            "ns": 6,
+            "title": "File:OOjs UI icon edit-ltr-progressive.svg"
+          },
+          {
+            "ns": 6,
+            "title": "File:P christianity.svg"
+          },
+          {
+            "ns": 6,
+            "title": "File:P vip.svg"
+          },
+          {
+            "ns": 6,
+            "title": "File:Question book-new.svg"
+          },
+          {
+            "ns": 6,
+            "title": "File:Symbol category class.svg"
+          },
+          {
+            "ns": 6,
+            "title": "File:Wiki letter w.svg"
+          }
+        ],
+        "pageprops": {
+          "defaultsort": "Ursicinus",
+          "wikibase-shortdesc": "Roman priest elected pope in 366 or 367",
+          "wikibase_item": "Q298769"
+        }
+      },
+      {
+        "pageid": 924496,
+        "ns": 0,
+        "title": "Diodorus of Tarsus",
+        "original": {
+          "source": "https://upload.wikimedia.org/wikipedia/commons/1/16/Jerusalem_Holy-Sepulchre_Jesus-Detail-01.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original",
+          "width": 1432,
+          "height": 1416
+        },
+        "pageimage": "Jerusalem_Holy-Sepulchre_Jesus-Detail-01.png",
+        "images": [
+          {
+            "ns": 6,
+            "title": "File:Jerusalem Holy-Sepulchre Jesus-Detail-01.png"
+          },
+          {
+            "ns": 6,
+            "title": "File:OOjs UI icon edit-ltr-progressive.svg"
+          },
+          {
+            "ns": 6,
+            "title": "File:P christianity.svg"
+          },
+          {
+            "ns": 6,
+            "title": "File:Wikisource-logo.svg"
+          }
+        ],
+        "pageprops": {
+          "defaultsort": "Diodore",
+          "page_image_free": "Jerusalem_Holy-Sepulchre_Jesus-Detail-01.png",
+          "wikibase-shortdesc": "4th-century theologian",
+          "wikibase_item": "Q729492"
+        }
+      },
+      {
+        "pageid": 1335827,
+        "ns": 0,
+        "title": "Gaius Fabricius Luscinus",
+        "original": {
+          "source": "https://upload.wikimedia.org/wikipedia/commons/0/0e/AN_ELEPHANT_STRETCHED_OUT_HIS_TRUNK_OVER_THE_ROMAN%27S_HEAD_AND_LOUDLY_TRUMPETED.gif?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original",
+          "width": 367,
+          "height": 539
+        },
+        "pageimage": "AN_ELEPHANT_STRETCHED_OUT_HIS_TRUNK_OVER_THE_ROMAN'S_HEAD_AND_LOUDLY_TRUMPETED.gif",
+        "images": [
+          {
+            "ns": 6,
+            "title": "File:AN ELEPHANT STRETCHED OUT HIS TRUNK OVER THE ROMAN'S HEAD AND LOUDLY TRUMPETED.gif"
+          },
+          {
+            "ns": 6,
+            "title": "File:Ferdinand Bol - Fabritius and Pyrrhus - Google Art Project.jpg"
+          },
+          {
+            "ns": 6,
+            "title": "File:OOjs UI icon edit-ltr-progressive.svg"
+          }
+        ],
+        "pageprops": {
+          "defaultsort": "Fabricius Luscinus, Gaius",
+          "page_image_free": "AN_ELEPHANT_STRETCHED_OUT_HIS_TRUNK_OVER_THE_ROMAN'S_HEAD_AND_LOUDLY_TRUMPETED.gif",
+          "wikibase-shortdesc": "Ancient Roman ambassador and politician",
+          "wikibase_item": "Q1196109"
+        }
+      },
+      {
+        "pageid": 1550931,
+        "ns": 0,
+        "title": "Gratianus Funarius",
+        "pageprops": {
+          "wikibase-shortdesc": "Roman army officer",
+          "wikibase_item": "Q1254885"
+        }
+      },
+      {
+        "pageid": 1818718,
+        "ns": 0,
+        "title": "Agathius",
+        "original": {
+          "source": "https://upload.wikimedia.org/wikipedia/commons/0/03/Agathius-Acacius-Acacio-martyrdom.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original",
+          "width": 309,
+          "height": 400
+        },
+        "pageimage": "Agathius-Acacius-Acacio-martyrdom.jpg",
+        "images": [
+          {
+            "ns": 6,
+            "title": "File:046CupolaSPietro.jpg"
+          },
+          {
+            "ns": 6,
+            "title": "File:Agathius-Acacius-Acacio-martyrdom.jpg"
+          },
+          {
+            "ns": 6,
+            "title": "File:Commons-logo.svg"
+          },
+          {
+            "ns": 6,
+            "title": "File:Gloriole blur.svg"
+          },
+          {
+            "ns": 6,
+            "title": "File:OOjs UI icon edit-ltr-progressive.svg"
+          }
+        ],
+        "pageprops": {
+          "defaultsort": "Agathius",
+          "page_image_free": "Agathius-Acacius-Acacio-martyrdom.jpg",
+          "wikibase-shortdesc": "Christian saint (died 303)",
+          "wikibase_item": "Q3982149"
+        }
+      },
+      {
+        "pageid": 2109923,
+        "ns": 0,
+        "title": "Maximus of Ephesus",
+        "images": [
+          {
+            "ns": 6,
+            "title": "File:OOjs UI icon edit-ltr-progressive.svg"
+          },
+          {
+            "ns": 6,
+            "title": "File:Wikisource-logo.svg"
+          }
+        ],
+        "pageprops": {
+          "defaultsort": "Maximus Of Ephesus",
+          "wikibase-shortdesc": "4th-century Neoplatonist philosopher",
+          "wikibase_item": "Q248793"
+        }
+      },
+      {
+        "pageid": 8103818,
+        "ns": 0,
+        "title": "Philippus (consul 348)",
+        "images": [
+          {
+            "ns": 6,
+            "title": "File:Constantius II - solidus - antioch RIC viii 025.jpg"
+          },
+          {
+            "ns": 6,
+            "title": "File:Double Centenionalis Magnentius-XR-s4017.jpg"
+          }
+        ],
+        "pageprops": {
+          "wikibase-shortdesc": "Roman politician",
+          "wikibase_item": "Q776690"
+        }
+      },
+      {
+        "pageid": 14121996,
+        "ns": 0,
+        "title": "Vettius Agorius Praetextatus",
+        "images": [
+          {
+            "ns": 6,
+            "title": "File:OOjs UI icon edit-ltr-progressive.svg"
+          },
+          {
+            "ns": 6,
+            "title": "File:Porticus Deorum Consentium.JPG"
+          }
+        ],
+        "pageprops": {
+          "defaultsort": "Praetextatus, Agorius, Vettius",
+          "wikibase-shortdesc": "Roman aristocrat and politician",
+          "wikibase_item": "Q541861"
+        }
+      },
+      {
+        "pageid": 18725465,
+        "ns": 0,
+        "title": "Charito",
+        "original": {
+          "source": "https://upload.wikimedia.org/wikipedia/commons/6/67/Charito%2C_wife_of_Jovian.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original",
+          "width": 271,
+          "height": 348
+        },
+        "pageimage": "Charito,_wife_of_Jovian.png",
+        "images": [
+          {
+            "ns": 6,
+            "title": "File:Charito, wife of Jovian.png"
+          }
+        ],
+        "pageprops": {
+          "page_image_free": "Charito,_wife_of_Jovian.png",
+          "wikibase-shortdesc": "Roman empress from 363 to 364",
+          "wikibase_item": "Q1898418"
+        }
+      },
+      {
+        "pageid": 25116457,
+        "ns": 0,
+        "title": "Priscus of Epirus",
+        "images": [
+          {
+            "ns": 6,
+            "title": "File:Socrates thumb.png"
+          }
+        ],
+        "pageprops": {
+          "wikibase-shortdesc": "Roman philosopher",
+          "wikibase_item": "Q780234"
+        }
+      },
+      {
+        "pageid": 43556387,
+        "ns": 0,
+        "title": "Leonas",
+        "images": [
+          {
+            "ns": 6,
+            "title": "File:WPanthroponymy.svg"
+          }
+        ],
+        "pageprops": {
+          "expectshortpage": "",
+          "wikibase-shortdesc": "Name list",
+          "wikibase_item": "Q1819128"
+        }
+      },
+      {
+        "pageid": 59786764,
+        "ns": 0,
+        "title": "Viventius",
+        "images": [
+          {
+            "ns": 6,
+            "title": "File:Julius Caesar.jpg"
+          }
+        ],
+        "pageprops": {
+          "wikibase-shortdesc": "Roman official and administrator",
+          "wikibase_item": "Q4015658"
+        }
+      },
+      {
+        "pageid": 60158319,
+        "ns": 0,
+        "title": "Dagalaifus",
+        "images": [
+          {
+            "ns": 6,
+            "title": "File:Disambig gray.svg"
+          }
+        ],
+        "pageprops": {
+          "disambiguation": "",
+          "wikibase-shortdesc": "Topics referred to by the same term",
+          "wikibase_item": "Q346503"
+        }
+      }
+    ]
+  },
+  "limits": {
+    "images": 500
+  }
+}

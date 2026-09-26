@@ -1,0 +1,9940 @@
+[
+  {
+    "id": "nerva",
+    "name": "Nerva",
+    "aliases": [
+      "Nerva"
+    ],
+    "source_mentions": [
+      {
+        "anchor": "L558",
+        "chapter": "I"
+      },
+      {
+        "anchor": "L716",
+        "chapter": "III"
+      },
+      {
+        "anchor": "L728",
+        "chapter": "III"
+      },
+      {
+        "anchor": "L1705",
+        "chapter": "XVI"
+      },
+      {
+        "anchor": "L1927",
+        "chapter": "XIX"
+      },
+      {
+        "anchor": "L2073",
+        "chapter": "XXI"
+      }
+    ],
+    "identity_note": "",
+    "status": "not_searched"
+  },
+  {
+    "id": "trajan",
+    "name": "Trajan",
+    "aliases": [
+      "Trajan"
+    ],
+    "source_mentions": [
+      {
+        "anchor": "L558",
+        "chapter": "I"
+      },
+      {
+        "anchor": "L566",
+        "chapter": "I"
+      },
+      {
+        "anchor": "L568",
+        "chapter": "I"
+      },
+      {
+        "anchor": "L570",
+        "chapter": "I"
+      },
+      {
+        "anchor": "L580",
+        "chapter": "I"
+      },
+      {
+        "anchor": "L599",
+        "chapter": "II"
+      },
+      {
+        "anchor": "L621",
+        "chapter": "II"
+      },
+      {
+        "anchor": "L637",
+        "chapter": "II"
+      },
+      {
+        "anchor": "L696",
+        "chapter": "III"
+      },
+      {
+        "anchor": "L716",
+        "chapter": "III"
+      },
+      {
+        "anchor": "L718",
+        "chapter": "III"
+      },
+      {
+        "anchor": "L728",
+        "chapter": "III"
+      },
+      {
+        "anchor": "L732",
+        "chapter": "III"
+      },
+      {
+        "anchor": "L901",
+        "chapter": "VI"
+      },
+      {
+        "anchor": "L955",
+        "chapter": "VI"
+      },
+      {
+        "anchor": "L1000",
+        "chapter": "VII"
+      },
+      {
+        "anchor": "L1012",
+        "chapter": "VII"
+      },
+      {
+        "anchor": "L1175",
+        "chapter": "X"
+      },
+      {
+        "anchor": "L1335",
+        "chapter": "XII"
+      },
+      {
+        "anchor": "L1337",
+        "chapter": "XII"
+      },
+      {
+        "anchor": "L1446",
+        "chapter": "XIII"
+      },
+      {
+        "anchor": "L1515",
+        "chapter": "XIV"
+      },
+      {
+        "anchor": "L1529",
+        "chapter": "XIV"
+      },
+      {
+        "anchor": "L1578",
+        "chapter": "XV"
+      },
+      {
+        "anchor": "L1675",
+        "chapter": "XVI"
+      },
+      {
+        "anchor": "L1707",
+        "chapter": "XVI"
+      },
+      {
+        "anchor": "L1709",
+        "chapter": "XVI"
+      },
+      {
+        "anchor": "L1874",
+        "chapter": "XVIII"
+      },
+      {
+        "anchor": "L1953",
+        "chapter": "XIX"
+      },
+      {
+        "anchor": "L2020",
+        "chapter": "XX"
+      },
+      {
+        "anchor": "L2170",
+        "chapter": "XXII"
+      },
+      {
+        "anchor": "L2349",
+        "chapter": "XXV"
+      },
+      {
+        "anchor": "L2404",
+        "chapter": "XXVI"
+      },
+      {
+        "anchor": "L2414",
+        "chapter": "XXVI"
+      }
+    ],
+    "identity_note": "",
+    "status": "not_searched"
+  },
+  {
+    "id": "hadrian",
+    "name": "Hadrian",
+    "aliases": [
+      "Hadrian"
+    ],
+    "source_mentions": [
+      {
+        "anchor": "L558",
+        "chapter": "I"
+      },
+      {
+        "anchor": "L570",
+        "chapter": "I"
+      },
+      {
+        "anchor": "L572",
+        "chapter": "I"
+      },
+      {
+        "anchor": "L574",
+        "chapter": "I"
+      },
+      {
+        "anchor": "L580",
+        "chapter": "I"
+      },
+      {
+        "anchor": "L619",
+        "chapter": "II"
+      },
+      {
+        "anchor": "L625",
+        "chapter": "II"
+      },
+      {
+        "anchor": "L651",
+        "chapter": "II"
+      },
+      {
+        "anchor": "L700",
+        "chapter": "III"
+      },
+      {
+        "anchor": "L718",
+        "chapter": "III"
+      },
+      {
+        "anchor": "L720",
+        "chapter": "III"
+      },
+      {
+        "anchor": "L722",
+        "chapter": "III"
+      },
+      {
+        "anchor": "L728",
+        "chapter": "III"
+      },
+      {
+        "anchor": "L901",
+        "chapter": "VI"
+      },
+      {
+        "anchor": "L1002",
+        "chapter": "VII"
+      },
+      {
+        "anchor": "L1046",
+        "chapter": "VII"
+      },
+      {
+        "anchor": "L1335",
+        "chapter": "XII"
+      },
+      {
+        "anchor": "L1578",
+        "chapter": "XV"
+      },
+      {
+        "anchor": "L1592",
+        "chapter": "XV"
+      },
+      {
+        "anchor": "L1648",
+        "chapter": "XV"
+      },
+      {
+        "anchor": "L1679",
+        "chapter": "XVI"
+      },
+      {
+        "anchor": "L1709",
+        "chapter": "XVI"
+      },
+      {
+        "anchor": "L1711",
+        "chapter": "XVI"
+      },
+      {
+        "anchor": "L2207",
+        "chapter": "XXIII"
+      }
+    ],
+    "identity_note": "",
+    "status": "not_searched"
+  },
+  {
+    "id": "antoninus-pius",
+    "name": "Antoninus Pius",
+    "aliases": [
+      "Antoninus Pius",
+      "Pius"
+    ],
+    "source_mentions": [
+      {
+        "anchor": "L572",
+        "chapter": "I"
+      },
+      {
+        "anchor": "L720",
+        "chapter": "III"
+      },
+      {
+        "anchor": "L722",
+        "chapter": "III"
+      },
+      {
+        "anchor": "L724",
+        "chapter": "III"
+      },
+      {
+        "anchor": "L757",
+        "chapter": "IV"
+      },
+      {
+        "anchor": "L1000",
+        "chapter": "VII"
+      },
+      {
+        "anchor": "L1679",
+        "chapter": "XVI"
+      },
+      {
+        "anchor": "L1681",
+        "chapter": "XVI"
+      },
+      {
+        "anchor": "L1711",
+        "chapter": "XVI"
+      }
+    ],
+    "identity_note": "",
+    "status": "not_searched"
+  },
+  {
+    "id": "marcus-aurelius",
+    "name": "Marcus Aurelius",
+    "aliases": [
+      "Marcus Antoninus",
+      "Marcus Aurelius Antoninus",
+      "Marcus"
+    ],
+    "source_mentions": [
+      {
+        "anchor": "L558",
+        "chapter": "I"
+      },
+      {
+        "anchor": "L574",
+        "chapter": "I"
+      },
+      {
+        "anchor": "L720",
+        "chapter": "III"
+      },
+      {
+        "anchor": "L722",
+        "chapter": "III"
+      },
+      {
+        "anchor": "L726",
+        "chapter": "III"
+      },
+      {
+        "anchor": "L755",
+        "chapter": "IV"
+      },
+      {
+        "anchor": "L757",
+        "chapter": "IV"
+      },
+      {
+        "anchor": "L759",
+        "chapter": "IV"
+      },
+      {
+        "anchor": "L761",
+        "chapter": "IV"
+      },
+      {
+        "anchor": "L765",
+        "chapter": "IV"
+      },
+      {
+        "anchor": "L767",
+        "chapter": "IV"
+      },
+      {
+        "anchor": "L771",
+        "chapter": "IV"
+      },
+      {
+        "anchor": "L777",
+        "chapter": "IV"
+      },
+      {
+        "anchor": "L779",
+        "chapter": "IV"
+      },
+      {
+        "anchor": "L783",
+        "chapter": "IV"
+      },
+      {
+        "anchor": "L785",
+        "chapter": "IV"
+      },
+      {
+        "anchor": "L787",
+        "chapter": "IV"
+      },
+      {
+        "anchor": "L791",
+        "chapter": "IV"
+      },
+      {
+        "anchor": "L858",
+        "chapter": "V"
+      },
+      {
+        "anchor": "L891",
+        "chapter": "VI"
+      },
+      {
+        "anchor": "L901",
+        "chapter": "VI"
+      },
+      {
+        "anchor": "L915",
+        "chapter": "VI"
+      },
+      {
+        "anchor": "L1402",
+        "chapter": "XIII"
+      },
+      {
+        "anchor": "L1404",
+        "chapter": "XIII"
+      },
+      {
+        "anchor": "L1654",
+        "chapter": "XV"
+      },
+      {
+        "anchor": "L2170",
+        "chapter": "XXII"
+      }
+    ],
+    "identity_note": "",
+    "status": "not_searched"
+  },
+  {
+    "id": "augustus",
+    "name": "Augustus",
+    "aliases": [
+      "Augustus",
+      "Octavianus"
+    ],
+    "source_mentions": [
+      {
+        "anchor": "L560",
+        "chapter": "I"
+      },
+      {
+        "anchor": "L562",
+        "chapter": "I"
+      },
+      {
+        "anchor": "L564",
+        "chapter": "I"
+      },
+      {
+        "anchor": "L566",
+        "chapter": "I"
+      },
+      {
+        "anchor": "L570",
+        "chapter": "I"
+      },
+      {
+        "anchor": "L572",
+        "chapter": "I"
+      },
+      {
+        "anchor": "L613",
+        "chapter": "II"
+      },
+      {
+        "anchor": "L629",
+        "chapter": "II"
+      },
+      {
+        "anchor": "L670",
+        "chapter": "III"
+      },
+      {
+        "anchor": "L672",
+        "chapter": "III"
+      },
+      {
+        "anchor": "L674",
+        "chapter": "III"
+      },
+      {
+        "anchor": "L676",
+        "chapter": "III"
+      },
+      {
+        "anchor": "L680",
+        "chapter": "III"
+      },
+      {
+        "anchor": "L682",
+        "chapter": "III"
+      },
+      {
+        "anchor": "L684",
+        "chapter": "III"
+      },
+      {
+        "anchor": "L686",
+        "chapter": "III"
+      },
+      {
+        "anchor": "L688",
+        "chapter": "III"
+      },
+      {
+        "anchor": "L690",
+        "chapter": "III"
+      },
+      {
+        "anchor": "L692",
+        "chapter": "III"
+      },
+      {
+        "anchor": "L694",
+        "chapter": "III"
+      },
+      {
+        "anchor": "L696",
+        "chapter": "III"
+      },
+      {
+        "anchor": "L698",
+        "chapter": "III"
+      },
+      {
+        "anchor": "L700",
+        "chapter": "III"
+      },
+      {
+        "anchor": "L702",
+        "chapter": "III"
+      },
+      {
+        "anchor": "L704",
+        "chapter": "III"
+      },
+      {
+        "anchor": "L708",
+        "chapter": "III"
+      },
+      {
+        "anchor": "L710",
+        "chapter": "III"
+      },
+      {
+        "anchor": "L712",
+        "chapter": "III"
+      },
+      {
+        "anchor": "L714",
+        "chapter": "III"
+      },
+      {
+        "anchor": "L716",
+        "chapter": "III"
+      },
+      {
+        "anchor": "L732",
+        "chapter": "III"
+      },
+      {
+        "anchor": "L738",
+        "chapter": "III"
+      },
+      {
+        "anchor": "L818",
+        "chapter": "V"
+      },
+      {
+        "anchor": "L834",
+        "chapter": "V"
+      },
+      {
+        "anchor": "L836",
+        "chapter": "V"
+      },
+      {
+        "anchor": "L860",
+        "chapter": "V"
+      },
+      {
+        "anchor": "L864",
+        "chapter": "V"
+      },
+      {
+        "anchor": "L889",
+        "chapter": "VI"
+      },
+      {
+        "anchor": "L901",
+        "chapter": "VI"
+      },
+      {
+        "anchor": "L915",
+        "chapter": "VI"
+      },
+      {
+        "anchor": "L947",
+        "chapter": "VI"
+      },
+      {
+        "anchor": "L949",
+        "chapter": "VI"
+      },
+      {
+        "anchor": "L951",
+        "chapter": "VI"
+      },
+      {
+        "anchor": "L953",
+        "chapter": "VI"
+      },
+      {
+        "anchor": "L957",
+        "chapter": "VI"
+      },
+      {
+        "anchor": "L1030",
+        "chapter": "VII"
+      },
+      {
+        "anchor": "L1038",
+        "chapter": "VII"
+      },
+      {
+        "anchor": "L1046",
+        "chapter": "VII"
+      },
+      {
+        "anchor": "L1061",
+        "chapter": "VIII"
+      },
+      {
+        "anchor": "L1155",
+        "chapter": "X"
+      },
+      {
+        "anchor": "L1286",
+        "chapter": "XI"
+      },
+      {
+        "anchor": "L1302",
+        "chapter": "XI"
+      },
+      {
+        "anchor": "L1333",
+        "chapter": "XII"
+      },
+      {
+        "anchor": "L1337",
+        "chapter": "XII"
+      },
+      {
+        "anchor": "L1349",
+        "chapter": "XII"
+      },
+      {
+        "anchor": "L1400",
+        "chapter": "XIII"
+      },
+      {
+        "anchor": "L1404",
+        "chapter": "XIII"
+      },
+      {
+        "anchor": "L1438",
+        "chapter": "XIII"
+      },
+      {
+        "anchor": "L1442",
+        "chapter": "XIII"
+      },
+      {
+        "anchor": "L1446",
+        "chapter": "XIII"
+      },
+      {
+        "anchor": "L1473",
+        "chapter": "XIV"
+      },
+      {
+        "anchor": "L1483",
+        "chapter": "XIV"
+      },
+      {
+        "anchor": "L1491",
+        "chapter": "XIV"
+      },
+      {
+        "anchor": "L1497",
+        "chapter": "XIV"
+      },
+      {
+        "anchor": "L1501",
+        "chapter": "XIV"
+      },
+      {
+        "anchor": "L1537",
+        "chapter": "XIV"
+      },
+      {
+        "anchor": "L1560",
+        "chapter": "XV"
+      },
+      {
+        "anchor": "L1735",
+        "chapter": "XVI"
+      },
+      {
+        "anchor": "L1755",
+        "chapter": "XVI"
+      },
+      {
+        "anchor": "L1809",
+        "chapter": "XVII"
+      },
+      {
+        "anchor": "L1813",
+        "chapter": "XVII"
+      },
+      {
+        "anchor": "L1821",
+        "chapter": "XVII"
+      },
+      {
+        "anchor": "L1827",
+        "chapter": "XVII"
+      },
+      {
+        "anchor": "L1835",
+        "chapter": "XVII"
+      },
+      {
+        "anchor": "L1845",
+        "chapter": "XVII"
+      },
+      {
+        "anchor": "L1857",
+        "chapter": "XVII"
+      },
+      {
+        "anchor": "L1872",
+        "chapter": "XVIII"
+      },
+      {
+        "anchor": "L1874",
+        "chapter": "XVIII"
+      },
+      {
+        "anchor": "L1878",
+        "chapter": "XVIII"
+      },
+      {
+        "anchor": "L1886",
+        "chapter": "XVIII"
+      },
+      {
+        "anchor": "L1888",
+        "chapter": "XVIII"
+      },
+      {
+        "anchor": "L1894",
+        "chapter": "XVIII"
+      },
+      {
+        "anchor": "L1902",
+        "chapter": "XVIII"
+      },
+      {
+        "anchor": "L1927",
+        "chapter": "XIX"
+      },
+      {
+        "anchor": "L1939",
+        "chapter": "XIX"
+      },
+      {
+        "anchor": "L1953",
+        "chapter": "XIX"
+      },
+      {
+        "anchor": "L2026",
+        "chapter": "XX"
+      },
+      {
+        "anchor": "L2042",
+        "chapter": "XX"
+      },
+      {
+        "anchor": "L2071",
+        "chapter": "XXI"
+      },
+      {
+        "anchor": "L2085",
+        "chapter": "XXI"
+      },
+      {
+        "anchor": "L2127",
+        "chapter": "XXI"
+      },
+      {
+        "anchor": "L2150",
+        "chapter": "XXII"
+      },
+      {
+        "anchor": "L2156",
+        "chapter": "XXII"
+      },
+      {
+        "anchor": "L2168",
+        "chapter": "XXII"
+      },
+      {
+        "anchor": "L2170",
+        "chapter": "XXII"
+      },
+      {
+        "anchor": "L2256",
+        "chapter": "XXIV"
+      },
+      {
+        "anchor": "L2299",
+        "chapter": "XXV"
+      },
+      {
+        "anchor": "L2367",
+        "chapter": "XXV"
+      },
+      {
+        "anchor": "L2412",
+        "chapter": "XXVI"
+      }
+    ],
+    "identity_note": "",
+    "status": "not_searched"
+  },
+  {
+    "id": "julius-caesar",
+    "name": "Julius Caesar",
+    "aliases": [
+      "Julius Caesar",
+      "Caesar"
+    ],
+    "source_mentions": [
+      {
+        "anchor": "L619",
+        "chapter": "II"
+      }
+    ],
+    "identity_note": "",
+    "status": "not_searched"
+  },
+  {
+    "id": "caratacus",
+    "name": "Caratacus",
+    "aliases": [
+      "Caractacus"
+    ],
+    "source_mentions": [
+      {
+        "anchor": "L564",
+        "chapter": "I"
+      }
+    ],
+    "identity_note": "",
+    "status": "not_searched"
+  },
+  {
+    "id": "boudica",
+    "name": "Boudica",
+    "aliases": [
+      "Boadicea"
+    ],
+    "source_mentions": [
+      {
+        "anchor": "L564",
+        "chapter": "I"
+      }
+    ],
+    "identity_note": "",
+    "status": "not_searched"
+  },
+  {
+    "id": "decebalus",
+    "name": "Decebalus",
+    "aliases": [
+      "Decebalus"
+    ],
+    "source_mentions": [
+      {
+        "anchor": "L566",
+        "chapter": "I"
+      }
+    ],
+    "identity_note": "",
+    "status": "not_searched"
+  },
+  {
+    "id": "domitian",
+    "name": "Domitian",
+    "aliases": [
+      "Domitian"
+    ],
+    "source_mentions": [
+      {
+        "anchor": "L566",
+        "chapter": "I"
+      },
+      {
+        "anchor": "L698",
+        "chapter": "III"
+      },
+      {
+        "anchor": "L704",
+        "chapter": "III"
+      },
+      {
+        "anchor": "L710",
+        "chapter": "III"
+      },
+      {
+        "anchor": "L714",
+        "chapter": "III"
+      },
+      {
+        "anchor": "L716",
+        "chapter": "III"
+      },
+      {
+        "anchor": "L728",
+        "chapter": "III"
+      },
+      {
+        "anchor": "L732",
+        "chapter": "III"
+      },
+      {
+        "anchor": "L761",
+        "chapter": "IV"
+      },
+      {
+        "anchor": "L901",
+        "chapter": "VI"
+      },
+      {
+        "anchor": "L1038",
+        "chapter": "VII"
+      },
+      {
+        "anchor": "L1705",
+        "chapter": "XVI"
+      },
+      {
+        "anchor": "L1735",
+        "chapter": "XVI"
+      },
+      {
+        "anchor": "L1849",
+        "chapter": "XVII"
+      },
+      {
+        "anchor": "L1927",
+        "chapter": "XIX"
+      },
+      {
+        "anchor": "L1945",
+        "chapter": "XIX"
+      }
+    ],
+    "identity_note": "",
+    "status": "not_searched"
+  },
+  {
+    "id": "alexander-the-great",
+    "name": "Alexander the Great",
+    "aliases": [
+      "Alexander"
+    ],
+    "source_mentions": [
+      {
+        "anchor": "L568",
+        "chapter": "I"
+      },
+      {
+        "anchor": "L599",
+        "chapter": "II"
+      },
+      {
+        "anchor": "L698",
+        "chapter": "III"
+      }
+    ],
+    "identity_note": "",
+    "status": "not_searched"
+  },
+  {
+    "id": "philip-ii-of-macedon",
+    "name": "Philip II of Macedon",
+    "aliases": [
+      "Philip"
+    ],
+    "source_mentions": [
+      {
+        "anchor": "L568",
+        "chapter": "I"
+      }
+    ],
+    "identity_note": "",
+    "status": "not_searched"
+  },
+  {
+    "id": "genghis-khan",
+    "name": "Genghis Khan",
+    "aliases": [
+      "Zingis"
+    ],
+    "source_mentions": [
+      {
+        "anchor": "L599",
+        "chapter": "II"
+      }
+    ],
+    "identity_note": "",
+    "status": "not_searched"
+  },
+  {
+    "id": "cicero",
+    "name": "Cicero",
+    "aliases": [
+      "Cicero",
+      "Tully"
+    ],
+    "source_mentions": [
+      {
+        "anchor": "L605",
+        "chapter": "II"
+      },
+      {
+        "anchor": "L615",
+        "chapter": "II"
+      },
+      {
+        "anchor": "L621",
+        "chapter": "II"
+      },
+      {
+        "anchor": "L702",
+        "chapter": "III"
+      },
+      {
+        "anchor": "L738",
+        "chapter": "III"
+      },
+      {
+        "anchor": "L740",
+        "chapter": "III"
+      },
+      {
+        "anchor": "L1638",
+        "chapter": "XV"
+      },
+      {
+        "anchor": "L1741",
+        "chapter": "XVI"
+      },
+      {
+        "anchor": "L1813",
+        "chapter": "XVII"
+      },
+      {
+        "anchor": "L1819",
+        "chapter": "XVII"
+      },
+      {
+        "anchor": "L1953",
+        "chapter": "XIX"
+      }
+    ],
+    "identity_note": "",
+    "status": "not_searched"
+  },
+  {
+    "id": "seneca-the-younger",
+    "name": "Seneca the Younger",
+    "aliases": [
+      "Seneca"
+    ],
+    "source_mentions": [
+      {
+        "anchor": "L619",
+        "chapter": "II"
+      },
+      {
+        "anchor": "L929",
+        "chapter": "VI"
+      },
+      {
+        "anchor": "L1654",
+        "chapter": "XV"
+      },
+      {
+        "anchor": "L1658",
+        "chapter": "XV"
+      }
+    ],
+    "identity_note": "",
+    "status": "not_searched"
+  },
+  {
+    "id": "servius-tullius",
+    "name": "Servius Tullius",
+    "aliases": [
+      "Servius Tullius"
+    ],
+    "source_mentions": [
+      {
+        "anchor": "L613",
+        "chapter": "II"
+      }
+    ],
+    "identity_note": "Legendary early Roman king; surviving depictions are later.",
+    "status": "not_searched"
+  },
+  {
+    "id": "gaius-marius",
+    "name": "Gaius Marius",
+    "aliases": [
+      "Marius"
+    ],
+    "source_mentions": [
+      {
+        "anchor": "L615",
+        "chapter": "II"
+      },
+      {
+        "anchor": "L692",
+        "chapter": "III"
+      },
+      {
+        "anchor": "L1280",
+        "chapter": "XI"
+      },
+      {
+        "anchor": "L1819",
+        "chapter": "XVII"
+      },
+      {
+        "anchor": "L2113",
+        "chapter": "XXI"
+      }
+    ],
+    "identity_note": "",
+    "status": "not_searched"
+  },
+  {
+    "id": "romulus",
+    "name": "Romulus",
+    "aliases": [
+      "Romulus"
+    ],
+    "source_mentions": [
+      {
+        "anchor": "L615",
+        "chapter": "II"
+      },
+      {
+        "anchor": "L1040",
+        "chapter": "VII"
+      },
+      {
+        "anchor": "L1276",
+        "chapter": "XI"
+      },
+      {
+        "anchor": "L1440",
+        "chapter": "XIII"
+      }
+    ],
+    "identity_note": "Legendary founder of Rome.",
+    "status": "not_searched"
+  },
+  {
+    "id": "marcus-furius-camillus",
+    "name": "Marcus Furius Camillus",
+    "aliases": [
+      "Camillus"
+    ],
+    "source_mentions": [
+      {
+        "anchor": "L615",
+        "chapter": "II"
+      }
+    ],
+    "identity_note": "",
+    "status": "not_searched"
+  },
+  {
+    "id": "catiline",
+    "name": "Catiline",
+    "aliases": [
+      "Catiline"
+    ],
+    "source_mentions": [
+      {
+        "anchor": "L615",
+        "chapter": "II"
+      }
+    ],
+    "identity_note": "",
+    "status": "not_searched"
+  },
+  {
+    "id": "columella",
+    "name": "Columella",
+    "aliases": [
+      "Columella"
+    ],
+    "source_mentions": [
+      {
+        "anchor": "L641",
+        "chapter": "II"
+      }
+    ],
+    "identity_note": "",
+    "status": "not_searched"
+  },
+  {
+    "id": "tiberius",
+    "name": "Tiberius",
+    "aliases": [
+      "Tiberius"
+    ],
+    "source_mentions": [
+      {
+        "anchor": "L609",
+        "chapter": "II"
+      },
+      {
+        "anchor": "L641",
+        "chapter": "II"
+      },
+      {
+        "anchor": "L712",
+        "chapter": "III"
+      },
+      {
+        "anchor": "L732",
+        "chapter": "III"
+      },
+      {
+        "anchor": "L738",
+        "chapter": "III"
+      },
+      {
+        "anchor": "L818",
+        "chapter": "V"
+      },
+      {
+        "anchor": "L901",
+        "chapter": "VI"
+      },
+      {
+        "anchor": "L1658",
+        "chapter": "XV"
+      },
+      {
+        "anchor": "L1699",
+        "chapter": "XVI"
+      },
+      {
+        "anchor": "L1731",
+        "chapter": "XVI"
+      },
+      {
+        "anchor": "L1849",
+        "chapter": "XVII"
+      }
+    ],
+    "identity_note": "",
+    "status": "not_searched"
+  },
+  {
+    "id": "titus",
+    "name": "Titus",
+    "aliases": [
+      "Titus"
+    ],
+    "source_mentions": [
+      {
+        "anchor": "L637",
+        "chapter": "II"
+      },
+      {
+        "anchor": "L712",
+        "chapter": "III"
+      },
+      {
+        "anchor": "L714",
+        "chapter": "III"
+      },
+      {
+        "anchor": "L724",
+        "chapter": "III"
+      },
+      {
+        "anchor": "L1945",
+        "chapter": "XIX"
+      },
+      {
+        "anchor": "L1953",
+        "chapter": "XIX"
+      }
+    ],
+    "identity_note": "",
+    "status": "not_searched"
+  },
+  {
+    "id": "claudius",
+    "name": "Claudius",
+    "aliases": [
+      "Claudius"
+    ],
+    "source_mentions": [
+      {
+        "anchor": "L639",
+        "chapter": "II"
+      },
+      {
+        "anchor": "L732",
+        "chapter": "III"
+      }
+    ],
+    "identity_note": "",
+    "status": "not_searched"
+  },
+  {
+    "id": "pliny-the-elder",
+    "name": "Pliny the Elder",
+    "aliases": [
+      "Pliny"
+    ],
+    "source_mentions": [
+      {
+        "anchor": "L645",
+        "chapter": "II"
+      },
+      {
+        "anchor": "L1654",
+        "chapter": "XV"
+      },
+      {
+        "anchor": "L1658",
+        "chapter": "XV"
+      }
+    ],
+    "identity_note": "",
+    "status": "not_searched"
+  },
+  {
+    "id": "homer",
+    "name": "Homer",
+    "aliases": [
+      "Homer"
+    ],
+    "source_mentions": [
+      {
+        "anchor": "L603",
+        "chapter": "II"
+      },
+      {
+        "anchor": "L651",
+        "chapter": "II"
+      },
+      {
+        "anchor": "L1134",
+        "chapter": "IX"
+      },
+      {
+        "anchor": "L1211",
+        "chapter": "X"
+      },
+      {
+        "anchor": "L1282",
+        "chapter": "XI"
+      },
+      {
+        "anchor": "L1582",
+        "chapter": "XV"
+      },
+      {
+        "anchor": "L1799",
+        "chapter": "XVII"
+      },
+      {
+        "anchor": "L2189",
+        "chapter": "XXIII"
+      },
+      {
+        "anchor": "L2215",
+        "chapter": "XXIII"
+      }
+    ],
+    "identity_note": "Traditional, posthumous portraits.",
+    "status": "not_searched"
+  },
+  {
+    "id": "virgil",
+    "name": "Virgil",
+    "aliases": [
+      "Virgil"
+    ],
+    "source_mentions": [
+      {
+        "anchor": "L621",
+        "chapter": "II"
+      },
+      {
+        "anchor": "L651",
+        "chapter": "II"
+      },
+      {
+        "anchor": "L1582",
+        "chapter": "XV"
+      }
+    ],
+    "identity_note": "",
+    "status": "not_searched"
+  },
+  {
+    "id": "ptolemy",
+    "name": "Ptolemy",
+    "aliases": [
+      "Ptolemy"
+    ],
+    "source_mentions": [
+      {
+        "anchor": "L651",
+        "chapter": "II"
+      }
+    ],
+    "identity_note": "",
+    "status": "not_searched"
+  },
+  {
+    "id": "galen",
+    "name": "Galen",
+    "aliases": [
+      "Galen"
+    ],
+    "source_mentions": [
+      {
+        "anchor": "L651",
+        "chapter": "II"
+      },
+      {
+        "anchor": "L1654",
+        "chapter": "XV"
+      }
+    ],
+    "identity_note": "",
+    "status": "not_searched"
+  },
+  {
+    "id": "plato",
+    "name": "Plato",
+    "aliases": [
+      "Plato"
+    ],
+    "source_mentions": [
+      {
+        "anchor": "L605",
+        "chapter": "II"
+      },
+      {
+        "anchor": "L651",
+        "chapter": "II"
+      },
+      {
+        "anchor": "L1282",
+        "chapter": "XI"
+      },
+      {
+        "anchor": "L1456",
+        "chapter": "XIII"
+      },
+      {
+        "anchor": "L1628",
+        "chapter": "XV"
+      },
+      {
+        "anchor": "L1648",
+        "chapter": "XV"
+      },
+      {
+        "anchor": "L1965",
+        "chapter": "XIX"
+      },
+      {
+        "anchor": "L2067",
+        "chapter": "XXI"
+      },
+      {
+        "anchor": "L2069",
+        "chapter": "XXI"
+      },
+      {
+        "anchor": "L2071",
+        "chapter": "XXI"
+      },
+      {
+        "anchor": "L2073",
+        "chapter": "XXI"
+      },
+      {
+        "anchor": "L2075",
+        "chapter": "XXI"
+      },
+      {
+        "anchor": "L2162",
+        "chapter": "XXII"
+      },
+      {
+        "anchor": "L2191",
+        "chapter": "XXIII"
+      },
+      {
+        "anchor": "L2272",
+        "chapter": "XXIV"
+      }
+    ],
+    "identity_note": "",
+    "status": "not_searched"
+  },
+  {
+    "id": "aristotle",
+    "name": "Aristotle",
+    "aliases": [
+      "Aristotle"
+    ],
+    "source_mentions": [
+      {
+        "anchor": "L651",
+        "chapter": "II"
+      },
+      {
+        "anchor": "L905",
+        "chapter": "VI"
+      },
+      {
+        "anchor": "L1081",
+        "chapter": "VIII"
+      },
+      {
+        "anchor": "L1456",
+        "chapter": "XIII"
+      },
+      {
+        "anchor": "L1648",
+        "chapter": "XV"
+      },
+      {
+        "anchor": "L2162",
+        "chapter": "XXII"
+      },
+      {
+        "anchor": "L2164",
+        "chapter": "XXII"
+      }
+    ],
+    "identity_note": "",
+    "status": "not_searched"
+  },
+  {
+    "id": "zeno-of-citium",
+    "name": "Zeno of Citium",
+    "aliases": [
+      "Zeno"
+    ],
+    "source_mentions": [
+      {
+        "anchor": "L651",
+        "chapter": "II"
+      },
+      {
+        "anchor": "L726",
+        "chapter": "III"
+      },
+      {
+        "anchor": "L1648",
+        "chapter": "XV"
+      }
+    ],
+    "identity_note": "",
+    "status": "not_searched"
+  },
+  {
+    "id": "epicurus",
+    "name": "Epicurus",
+    "aliases": [
+      "Epicurus"
+    ],
+    "source_mentions": [
+      {
+        "anchor": "L651",
+        "chapter": "II"
+      },
+      {
+        "anchor": "L670",
+        "chapter": "III"
+      },
+      {
+        "anchor": "L1741",
+        "chapter": "XVI"
+      }
+    ],
+    "identity_note": "",
+    "status": "not_searched"
+  },
+  {
+    "id": "marcus-vipsanius-agrippa",
+    "name": "Marcus Vipsanius Agrippa",
+    "aliases": [
+      "Agrippa"
+    ],
+    "source_mentions": [
+      {
+        "anchor": "L672",
+        "chapter": "III"
+      }
+    ],
+    "identity_note": "",
+    "status": "not_searched"
+  },
+  {
+    "id": "pompey",
+    "name": "Pompey",
+    "aliases": [
+      "Pompey"
+    ],
+    "source_mentions": [
+      {
+        "anchor": "L678",
+        "chapter": "III"
+      },
+      {
+        "anchor": "L680",
+        "chapter": "III"
+      },
+      {
+        "anchor": "L1000",
+        "chapter": "VII"
+      },
+      {
+        "anchor": "L1169",
+        "chapter": "X"
+      },
+      {
+        "anchor": "L1953",
+        "chapter": "XIX"
+      }
+    ],
+    "identity_note": "",
+    "status": "not_searched"
+  },
+  {
+    "id": "gnaeus-cornelius-cinna-magnus",
+    "name": "Gnaeus Cornelius Cinna Magnus",
+    "aliases": [
+      "Cinna"
+    ],
+    "source_mentions": [
+      {
+        "anchor": "L702",
+        "chapter": "III"
+      }
+    ],
+    "identity_note": "",
+    "status": "not_searched"
+  },
+  {
+    "id": "caligula",
+    "name": "Caligula",
+    "aliases": [
+      "Caligula"
+    ],
+    "source_mentions": [
+      {
+        "anchor": "L698",
+        "chapter": "III"
+      },
+      {
+        "anchor": "L704",
+        "chapter": "III"
+      },
+      {
+        "anchor": "L706",
+        "chapter": "III"
+      },
+      {
+        "anchor": "L710",
+        "chapter": "III"
+      },
+      {
+        "anchor": "L732",
+        "chapter": "III"
+      },
+      {
+        "anchor": "L992",
+        "chapter": "VII"
+      },
+      {
+        "anchor": "L1442",
+        "chapter": "XIII"
+      },
+      {
+        "anchor": "L1560",
+        "chapter": "XV"
+      }
+    ],
+    "identity_note": "",
+    "status": "not_searched"
+  },
+  {
+    "id": "nero",
+    "name": "Nero",
+    "aliases": [
+      "Nero"
+    ],
+    "source_mentions": [
+      {
+        "anchor": "L637",
+        "chapter": "II"
+      },
+      {
+        "anchor": "L700",
+        "chapter": "III"
+      },
+      {
+        "anchor": "L704",
+        "chapter": "III"
+      },
+      {
+        "anchor": "L710",
+        "chapter": "III"
+      },
+      {
+        "anchor": "L714",
+        "chapter": "III"
+      },
+      {
+        "anchor": "L716",
+        "chapter": "III"
+      },
+      {
+        "anchor": "L732",
+        "chapter": "III"
+      },
+      {
+        "anchor": "L761",
+        "chapter": "IV"
+      },
+      {
+        "anchor": "L779",
+        "chapter": "IV"
+      },
+      {
+        "anchor": "L901",
+        "chapter": "VI"
+      },
+      {
+        "anchor": "L955",
+        "chapter": "VI"
+      },
+      {
+        "anchor": "L992",
+        "chapter": "VII"
+      },
+      {
+        "anchor": "L1669",
+        "chapter": "XVI"
+      },
+      {
+        "anchor": "L1679",
+        "chapter": "XVI"
+      },
+      {
+        "anchor": "L1697",
+        "chapter": "XVI"
+      },
+      {
+        "anchor": "L1699",
+        "chapter": "XVI"
+      },
+      {
+        "anchor": "L1701",
+        "chapter": "XVI"
+      },
+      {
+        "anchor": "L2002",
+        "chapter": "XX"
+      }
+    ],
+    "identity_note": "",
+    "status": "not_searched"
+  },
+  {
+    "id": "vespasian",
+    "name": "Vespasian",
+    "aliases": [
+      "Vespasian"
+    ],
+    "source_mentions": [
+      {
+        "anchor": "L712",
+        "chapter": "III"
+      },
+      {
+        "anchor": "L714",
+        "chapter": "III"
+      },
+      {
+        "anchor": "L732",
+        "chapter": "III"
+      },
+      {
+        "anchor": "L1592",
+        "chapter": "XV"
+      },
+      {
+        "anchor": "L1821",
+        "chapter": "XVII"
+      }
+    ],
+    "identity_note": "",
+    "status": "not_searched"
+  },
+  {
+    "id": "galba",
+    "name": "Galba",
+    "aliases": [
+      "Galba"
+    ],
+    "source_mentions": [
+      {
+        "anchor": "L714",
+        "chapter": "III"
+      }
+    ],
+    "identity_note": "",
+    "status": "not_searched"
+  },
+  {
+    "id": "otho",
+    "name": "Otho",
+    "aliases": [
+      "Otho"
+    ],
+    "source_mentions": [
+      {
+        "anchor": "L714",
+        "chapter": "III"
+      }
+    ],
+    "identity_note": "",
+    "status": "not_searched"
+  },
+  {
+    "id": "vitellius",
+    "name": "Vitellius",
+    "aliases": [
+      "Vitellus",
+      "Vitellius"
+    ],
+    "source_mentions": [
+      {
+        "anchor": "L714",
+        "chapter": "III"
+      },
+      {
+        "anchor": "L732",
+        "chapter": "III"
+      }
+    ],
+    "identity_note": "",
+    "status": "not_searched"
+  },
+  {
+    "id": "pompeia-plotina",
+    "name": "Pompeia Plotina",
+    "aliases": [
+      "Plotina"
+    ],
+    "source_mentions": [
+      {
+        "anchor": "L718",
+        "chapter": "III"
+      }
+    ],
+    "identity_note": "",
+    "status": "not_searched"
+  },
+  {
+    "id": "lucius-aelius-caesar",
+    "name": "Lucius Aelius Caesar",
+    "aliases": [
+      "Aelius Verus"
+    ],
+    "source_mentions": [
+      {
+        "anchor": "L720",
+        "chapter": "III"
+      }
+    ],
+    "identity_note": "",
+    "status": "not_searched"
+  },
+  {
+    "id": "antinous",
+    "name": "Antinous",
+    "aliases": [
+      "Antinous"
+    ],
+    "source_mentions": [
+      {
+        "anchor": "L720",
+        "chapter": "III"
+      }
+    ],
+    "identity_note": "",
+    "status": "not_searched"
+  },
+  {
+    "id": "lucius-verus",
+    "name": "Lucius Verus",
+    "aliases": [
+      "Lucius Verus",
+      "Verus"
+    ],
+    "source_mentions": [
+      {
+        "anchor": "L720",
+        "chapter": "III"
+      },
+      {
+        "anchor": "L769",
+        "chapter": "IV"
+      }
+    ],
+    "identity_note": "",
+    "status": "not_searched"
+  },
+  {
+    "id": "faustina-the-younger",
+    "name": "Faustina the Younger",
+    "aliases": [
+      "Faustina"
+    ],
+    "source_mentions": [
+      {
+        "anchor": "L722",
+        "chapter": "III"
+      },
+      {
+        "anchor": "L757",
+        "chapter": "IV"
+      },
+      {
+        "anchor": "L769",
+        "chapter": "IV"
+      }
+    ],
+    "identity_note": "",
+    "status": "not_searched"
+  },
+  {
+    "id": "numa-pompilius",
+    "name": "Numa Pompilius",
+    "aliases": [
+      "Numa"
+    ],
+    "source_mentions": [
+      {
+        "anchor": "L724",
+        "chapter": "III"
+      },
+      {
+        "anchor": "L921",
+        "chapter": "VI"
+      },
+      {
+        "anchor": "L1077",
+        "chapter": "VIII"
+      },
+      {
+        "anchor": "L1335",
+        "chapter": "XII"
+      },
+      {
+        "anchor": "L2026",
+        "chapter": "XX"
+      },
+      {
+        "anchor": "L2127",
+        "chapter": "XXI"
+      }
+    ],
+    "identity_note": "Legendary early Roman king; later depictions.",
+    "status": "not_searched"
+  },
+  {
+    "id": "avidius-cassius",
+    "name": "Avidius Cassius",
+    "aliases": [
+      "Avidius Cassius"
+    ],
+    "source_mentions": [
+      {
+        "anchor": "L726",
+        "chapter": "III"
+      }
+    ],
+    "identity_note": "",
+    "status": "not_searched"
+  },
+  {
+    "id": "cato-the-younger",
+    "name": "Cato the Younger",
+    "aliases": [
+      "Cato"
+    ],
+    "source_mentions": [
+      {
+        "anchor": "L738",
+        "chapter": "III"
+      }
+    ],
+    "identity_note": "",
+    "status": "not_searched"
+  },
+  {
+    "id": "marcus-claudius-marcellus-consul-51-bc",
+    "name": "Marcus Claudius Marcellus (consul 51 BC)",
+    "aliases": [
+      "Marcellus"
+    ],
+    "source_mentions": [
+      {
+        "anchor": "L740",
+        "chapter": "III"
+      }
+    ],
+    "identity_note": "",
+    "status": "not_searched"
+  },
+  {
+    "id": "safi-ad-din-ardabili",
+    "name": "Safi-ad-din Ardabili",
+    "aliases": [
+      "Sefi"
+    ],
+    "source_mentions": [
+      {
+        "anchor": "L736",
+        "chapter": "III"
+      }
+    ],
+    "identity_note": "Dynastic ancestor referred to as Sefi; identification is provisional.",
+    "status": "not_searched"
+  },
+  {
+    "id": "commodus",
+    "name": "Commodus",
+    "aliases": [
+      "Commodus"
+    ],
+    "source_mentions": [
+      {
+        "anchor": "L710",
+        "chapter": "III"
+      },
+      {
+        "anchor": "L728",
+        "chapter": "III"
+      },
+      {
+        "anchor": "L751",
+        "chapter": "IV"
+      },
+      {
+        "anchor": "L759",
+        "chapter": "IV"
+      },
+      {
+        "anchor": "L761",
+        "chapter": "IV"
+      },
+      {
+        "anchor": "L763",
+        "chapter": "IV"
+      },
+      {
+        "anchor": "L765",
+        "chapter": "IV"
+      },
+      {
+        "anchor": "L767",
+        "chapter": "IV"
+      },
+      {
+        "anchor": "L771",
+        "chapter": "IV"
+      },
+      {
+        "anchor": "L773",
+        "chapter": "IV"
+      },
+      {
+        "anchor": "L775",
+        "chapter": "IV"
+      },
+      {
+        "anchor": "L777",
+        "chapter": "IV"
+      },
+      {
+        "anchor": "L779",
+        "chapter": "IV"
+      },
+      {
+        "anchor": "L781",
+        "chapter": "IV"
+      },
+      {
+        "anchor": "L783",
+        "chapter": "IV"
+      },
+      {
+        "anchor": "L785",
+        "chapter": "IV"
+      },
+      {
+        "anchor": "L787",
+        "chapter": "IV"
+      },
+      {
+        "anchor": "L789",
+        "chapter": "IV"
+      },
+      {
+        "anchor": "L791",
+        "chapter": "IV"
+      },
+      {
+        "anchor": "L795",
+        "chapter": "IV"
+      },
+      {
+        "anchor": "L797",
+        "chapter": "IV"
+      },
+      {
+        "anchor": "L801",
+        "chapter": "IV"
+      },
+      {
+        "anchor": "L935",
+        "chapter": "VI"
+      },
+      {
+        "anchor": "L943",
+        "chapter": "VI"
+      },
+      {
+        "anchor": "L992",
+        "chapter": "VII"
+      },
+      {
+        "anchor": "L1835",
+        "chapter": "XVII"
+      }
+    ],
+    "identity_note": "",
+    "status": "not_searched"
+  },
+  {
+    "id": "germanicus",
+    "name": "Germanicus",
+    "aliases": [
+      "Germanicus"
+    ],
+    "source_mentions": [
+      {
+        "anchor": "L706",
+        "chapter": "III"
+      },
+      {
+        "anchor": "L714",
+        "chapter": "III"
+      }
+    ],
+    "identity_note": "",
+    "status": "not_searched"
+  },
+  {
+    "id": "lucilla",
+    "name": "Lucilla",
+    "aliases": [
+      "Lucilla"
+    ],
+    "source_mentions": [
+      {
+        "anchor": "L769",
+        "chapter": "IV"
+      },
+      {
+        "anchor": "L783",
+        "chapter": "IV"
+      }
+    ],
+    "identity_note": "",
+    "status": "not_searched"
+  },
+  {
+    "id": "tiberius-claudius-pompeianus",
+    "name": "Tiberius Claudius Pompeianus",
+    "aliases": [
+      "Claudius Pompeianus"
+    ],
+    "source_mentions": [
+      {
+        "anchor": "L769",
+        "chapter": "IV"
+      },
+      {
+        "anchor": "L783",
+        "chapter": "IV"
+      },
+      {
+        "anchor": "L791",
+        "chapter": "IV"
+      }
+    ],
+    "identity_note": "",
+    "status": "not_searched"
+  },
+  {
+    "id": "claudius-pompeianus-quintianus",
+    "name": "Claudius Pompeianus Quintianus",
+    "aliases": [
+      "Pompeianus"
+    ],
+    "source_mentions": [
+      {
+        "anchor": "L783",
+        "chapter": "IV"
+      }
+    ],
+    "identity_note": "Conspirator executed by Commodus, distinct from Lucilla's husband.",
+    "status": "not_searched"
+  },
+  {
+    "id": "sextus-tigidius-perennis",
+    "name": "Sextus Tigidius Perennis",
+    "aliases": [
+      "Perennis"
+    ],
+    "source_mentions": [
+      {
+        "anchor": "L773",
+        "chapter": "IV"
+      },
+      {
+        "anchor": "L775",
+        "chapter": "IV"
+      }
+    ],
+    "identity_note": "",
+    "status": "not_searched"
+  },
+  {
+    "id": "marcus-aurelius-cleander",
+    "name": "Marcus Aurelius Cleander",
+    "aliases": [
+      "Cleander"
+    ],
+    "source_mentions": [
+      {
+        "anchor": "L775",
+        "chapter": "IV"
+      },
+      {
+        "anchor": "L777",
+        "chapter": "IV"
+      }
+    ],
+    "identity_note": "",
+    "status": "not_searched"
+  },
+  {
+    "id": "fadilla",
+    "name": "Fadilla",
+    "aliases": [
+      "Fadilla"
+    ],
+    "source_mentions": [
+      {
+        "anchor": "L777",
+        "chapter": "IV"
+      }
+    ],
+    "identity_note": "",
+    "status": "not_searched"
+  },
+  {
+    "id": "marcia-mistress-of-commodus",
+    "name": "Marcia (mistress of Commodus)",
+    "aliases": [
+      "Marcia"
+    ],
+    "source_mentions": [
+      {
+        "anchor": "L777",
+        "chapter": "IV"
+      },
+      {
+        "anchor": "L785",
+        "chapter": "IV"
+      }
+    ],
+    "identity_note": "",
+    "status": "not_searched"
+  },
+  {
+    "id": "quintus-aemilius-laetus",
+    "name": "Quintus Aemilius Laetus",
+    "aliases": [
+      "Laetus"
+    ],
+    "source_mentions": [
+      {
+        "anchor": "L785",
+        "chapter": "IV"
+      },
+      {
+        "anchor": "L789",
+        "chapter": "IV"
+      },
+      {
+        "anchor": "L824",
+        "chapter": "V"
+      }
+    ],
+    "identity_note": "",
+    "status": "not_searched"
+  },
+  {
+    "id": "eclectus-chamberlain",
+    "name": "Eclectus (chamberlain)",
+    "aliases": [
+      "Eclectus"
+    ],
+    "source_mentions": [
+      {
+        "anchor": "L785",
+        "chapter": "IV"
+      }
+    ],
+    "identity_note": "",
+    "status": "not_searched"
+  },
+  {
+    "id": "pertinax",
+    "name": "Pertinax",
+    "aliases": [
+      "Pertinax"
+    ],
+    "source_mentions": [
+      {
+        "anchor": "L751",
+        "chapter": "IV"
+      },
+      {
+        "anchor": "L787",
+        "chapter": "IV"
+      },
+      {
+        "anchor": "L789",
+        "chapter": "IV"
+      },
+      {
+        "anchor": "L791",
+        "chapter": "IV"
+      },
+      {
+        "anchor": "L795",
+        "chapter": "IV"
+      },
+      {
+        "anchor": "L797",
+        "chapter": "IV"
+      },
+      {
+        "anchor": "L799",
+        "chapter": "IV"
+      },
+      {
+        "anchor": "L801",
+        "chapter": "IV"
+      },
+      {
+        "anchor": "L812",
+        "chapter": "V"
+      },
+      {
+        "anchor": "L824",
+        "chapter": "V"
+      },
+      {
+        "anchor": "L828",
+        "chapter": "V"
+      },
+      {
+        "anchor": "L832",
+        "chapter": "V"
+      },
+      {
+        "anchor": "L834",
+        "chapter": "V"
+      },
+      {
+        "anchor": "L836",
+        "chapter": "V"
+      },
+      {
+        "anchor": "L844",
+        "chapter": "V"
+      },
+      {
+        "anchor": "L846",
+        "chapter": "V"
+      },
+      {
+        "anchor": "L848",
+        "chapter": "V"
+      }
+    ],
+    "identity_note": "",
+    "status": "not_searched"
+  },
+  {
+    "id": "titus-flavius-sulpicianus",
+    "name": "Titus Flavius Sulpicianus",
+    "aliases": [
+      "Sulpicianus"
+    ],
+    "source_mentions": [
+      {
+        "anchor": "L824",
+        "chapter": "V"
+      },
+      {
+        "anchor": "L826",
+        "chapter": "V"
+      }
+    ],
+    "identity_note": "",
+    "status": "not_searched"
+  },
+  {
+    "id": "didius-julianus",
+    "name": "Didius Julianus",
+    "aliases": [
+      "Didius Julianus",
+      "Julian"
+    ],
+    "source_mentions": [
+      {
+        "anchor": "L828",
+        "chapter": "V"
+      }
+    ],
+    "identity_note": "",
+    "status": "not_searched"
+  },
+  {
+    "id": "pescennius-niger",
+    "name": "Pescennius Niger",
+    "aliases": [
+      "Pescennius Niger",
+      "Niger"
+    ],
+    "source_mentions": [
+      {
+        "anchor": "L812",
+        "chapter": "V"
+      },
+      {
+        "anchor": "L832",
+        "chapter": "V"
+      },
+      {
+        "anchor": "L852",
+        "chapter": "V"
+      },
+      {
+        "anchor": "L2343",
+        "chapter": "XXV"
+      }
+    ],
+    "identity_note": "",
+    "status": "not_searched"
+  },
+  {
+    "id": "clodius-albinus",
+    "name": "Clodius Albinus",
+    "aliases": [
+      "Clodius Albinus",
+      "Albinus"
+    ],
+    "source_mentions": [
+      {
+        "anchor": "L812",
+        "chapter": "V"
+      },
+      {
+        "anchor": "L832",
+        "chapter": "V"
+      },
+      {
+        "anchor": "L852",
+        "chapter": "V"
+      },
+      {
+        "anchor": "L856",
+        "chapter": "V"
+      }
+    ],
+    "identity_note": "",
+    "status": "not_searched"
+  },
+  {
+    "id": "septimius-severus",
+    "name": "Septimius Severus",
+    "aliases": [
+      "Septimius Severus",
+      "Severus"
+    ],
+    "source_mentions": [
+      {
+        "anchor": "L834",
+        "chapter": "V"
+      },
+      {
+        "anchor": "L885",
+        "chapter": "VI"
+      }
+    ],
+    "identity_note": "",
+    "status": "not_searched"
+  },
+  {
+    "id": "gaius-fulvius-plautianus",
+    "name": "Gaius Fulvius Plautianus",
+    "aliases": [
+      "Plautianus"
+    ],
+    "source_mentions": [
+      {
+        "anchor": "L862",
+        "chapter": "V"
+      }
+    ],
+    "identity_note": "",
+    "status": "not_searched"
+  },
+  {
+    "id": "papinian",
+    "name": "Papinian",
+    "aliases": [
+      "Papinian"
+    ],
+    "source_mentions": [
+      {
+        "anchor": "L862",
+        "chapter": "V"
+      },
+      {
+        "anchor": "L866",
+        "chapter": "V"
+      }
+    ],
+    "identity_note": "",
+    "status": "not_searched"
+  },
+  {
+    "id": "julius-paulus",
+    "name": "Julius Paulus",
+    "aliases": [
+      "Paulus"
+    ],
+    "source_mentions": [
+      {
+        "anchor": "L866",
+        "chapter": "V"
+      }
+    ],
+    "identity_note": "",
+    "status": "not_searched"
+  },
+  {
+    "id": "ulpian",
+    "name": "Ulpian",
+    "aliases": [
+      "Ulpian"
+    ],
+    "source_mentions": [
+      {
+        "anchor": "L866",
+        "chapter": "V"
+      },
+      {
+        "anchor": "L931",
+        "chapter": "VI"
+      },
+      {
+        "anchor": "L933",
+        "chapter": "VI"
+      },
+      {
+        "anchor": "L939",
+        "chapter": "VI"
+      }
+    ],
+    "identity_note": "",
+    "status": "not_searched"
+  },
+  {
+    "id": "caracalla",
+    "name": "Caracalla",
+    "aliases": [
+      "Caracalla",
+      "Antoninus Caracalla"
+    ],
+    "source_mentions": [
+      {
+        "anchor": "L879",
+        "chapter": "VI"
+      },
+      {
+        "anchor": "L887",
+        "chapter": "VI"
+      },
+      {
+        "anchor": "L889",
+        "chapter": "VI"
+      },
+      {
+        "anchor": "L891",
+        "chapter": "VI"
+      },
+      {
+        "anchor": "L897",
+        "chapter": "VI"
+      },
+      {
+        "anchor": "L899",
+        "chapter": "VI"
+      },
+      {
+        "anchor": "L901",
+        "chapter": "VI"
+      },
+      {
+        "anchor": "L903",
+        "chapter": "VI"
+      },
+      {
+        "anchor": "L905",
+        "chapter": "VI"
+      },
+      {
+        "anchor": "L909",
+        "chapter": "VI"
+      },
+      {
+        "anchor": "L911",
+        "chapter": "VI"
+      },
+      {
+        "anchor": "L913",
+        "chapter": "VI"
+      },
+      {
+        "anchor": "L925",
+        "chapter": "VI"
+      },
+      {
+        "anchor": "L935",
+        "chapter": "VI"
+      },
+      {
+        "anchor": "L943",
+        "chapter": "VI"
+      },
+      {
+        "anchor": "L957",
+        "chapter": "VI"
+      },
+      {
+        "anchor": "L959",
+        "chapter": "VI"
+      },
+      {
+        "anchor": "L963",
+        "chapter": "VI"
+      },
+      {
+        "anchor": "L986",
+        "chapter": "VII"
+      },
+      {
+        "anchor": "L992",
+        "chapter": "VII"
+      },
+      {
+        "anchor": "L1000",
+        "chapter": "VII"
+      },
+      {
+        "anchor": "L1197",
+        "chapter": "X"
+      },
+      {
+        "anchor": "L1953",
+        "chapter": "XIX"
+      }
+    ],
+    "identity_note": "",
+    "status": "not_searched"
+  },
+  {
+    "id": "geta-emperor",
+    "name": "Geta (emperor)",
+    "aliases": [
+      "Geta"
+    ],
+    "source_mentions": [
+      {
+        "anchor": "L887",
+        "chapter": "VI"
+      },
+      {
+        "anchor": "L889",
+        "chapter": "VI"
+      },
+      {
+        "anchor": "L897",
+        "chapter": "VI"
+      },
+      {
+        "anchor": "L899",
+        "chapter": "VI"
+      },
+      {
+        "anchor": "L901",
+        "chapter": "VI"
+      },
+      {
+        "anchor": "L984",
+        "chapter": "VII"
+      }
+    ],
+    "identity_note": "",
+    "status": "not_searched"
+  },
+  {
+    "id": "julia-domna",
+    "name": "Julia Domna",
+    "aliases": [
+      "Julia Domna",
+      "Julia"
+    ],
+    "source_mentions": [
+      {
+        "anchor": "L885",
+        "chapter": "VI"
+      }
+    ],
+    "identity_note": "",
+    "status": "not_searched"
+  },
+  {
+    "id": "macrinus",
+    "name": "Macrinus",
+    "aliases": [
+      "Macrinus",
+      "Opilius Macrinus"
+    ],
+    "source_mentions": [
+      {
+        "anchor": "L879",
+        "chapter": "VI"
+      },
+      {
+        "anchor": "L905",
+        "chapter": "VI"
+      },
+      {
+        "anchor": "L907",
+        "chapter": "VI"
+      },
+      {
+        "anchor": "L909",
+        "chapter": "VI"
+      },
+      {
+        "anchor": "L911",
+        "chapter": "VI"
+      },
+      {
+        "anchor": "L913",
+        "chapter": "VI"
+      }
+    ],
+    "identity_note": "",
+    "status": "not_searched"
+  },
+  {
+    "id": "marcus-oclatinius-adventus",
+    "name": "Marcus Oclatinius Adventus",
+    "aliases": [
+      "Adventus"
+    ],
+    "source_mentions": [
+      {
+        "anchor": "L905",
+        "chapter": "VI"
+      },
+      {
+        "anchor": "L907",
+        "chapter": "VI"
+      }
+    ],
+    "identity_note": "",
+    "status": "not_searched"
+  },
+  {
+    "id": "julius-martialis",
+    "name": "Julius Martialis",
+    "aliases": [
+      "Martialis"
+    ],
+    "source_mentions": [
+      {
+        "anchor": "L905",
+        "chapter": "VI"
+      }
+    ],
+    "identity_note": "",
+    "status": "not_searched"
+  },
+  {
+    "id": "julia-maesa",
+    "name": "Julia Maesa",
+    "aliases": [
+      "Julia Maesa",
+      "Maesa"
+    ],
+    "source_mentions": [
+      {
+        "anchor": "L911",
+        "chapter": "VI"
+      },
+      {
+        "anchor": "L925",
+        "chapter": "VI"
+      }
+    ],
+    "identity_note": "",
+    "status": "not_searched"
+  },
+  {
+    "id": "julia-soaemias",
+    "name": "Julia Soaemias",
+    "aliases": [
+      "Soaemias"
+    ],
+    "source_mentions": [
+      {
+        "anchor": "L911",
+        "chapter": "VI"
+      },
+      {
+        "anchor": "L929",
+        "chapter": "VI"
+      }
+    ],
+    "identity_note": "",
+    "status": "not_searched"
+  },
+  {
+    "id": "julia-avita-mamaea",
+    "name": "Julia Avita Mamaea",
+    "aliases": [
+      "Mamaea"
+    ],
+    "source_mentions": [
+      {
+        "anchor": "L911",
+        "chapter": "VI"
+      },
+      {
+        "anchor": "L925",
+        "chapter": "VI"
+      },
+      {
+        "anchor": "L929",
+        "chapter": "VI"
+      },
+      {
+        "anchor": "L931",
+        "chapter": "VI"
+      },
+      {
+        "anchor": "L933",
+        "chapter": "VI"
+      },
+      {
+        "anchor": "L990",
+        "chapter": "VII"
+      }
+    ],
+    "identity_note": "",
+    "status": "not_searched"
+  },
+  {
+    "id": "elagabalus",
+    "name": "Elagabalus",
+    "aliases": [
+      "Elagabalus",
+      "Bassianus"
+    ],
+    "source_mentions": [
+      {
+        "anchor": "L911",
+        "chapter": "VI"
+      },
+      {
+        "anchor": "L919",
+        "chapter": "VI"
+      }
+    ],
+    "identity_note": "",
+    "status": "not_searched"
+  },
+  {
+    "id": "severus-alexander",
+    "name": "Severus Alexander",
+    "aliases": [
+      "Alexander Severus",
+      "Alexander"
+    ],
+    "source_mentions": [
+      {
+        "anchor": "L931",
+        "chapter": "VI"
+      },
+      {
+        "anchor": "L937",
+        "chapter": "VI"
+      }
+    ],
+    "identity_note": "",
+    "status": "not_searched"
+  },
+  {
+    "id": "gannys",
+    "name": "Gannys",
+    "aliases": [
+      "Gannys"
+    ],
+    "source_mentions": [
+      {
+        "anchor": "L913",
+        "chapter": "VI"
+      }
+    ],
+    "identity_note": "",
+    "status": "not_searched"
+  },
+  {
+    "id": "agrippina-the-younger",
+    "name": "Agrippina the Younger",
+    "aliases": [
+      "Agrippina"
+    ],
+    "source_mentions": [
+      {
+        "anchor": "L929",
+        "chapter": "VI"
+      }
+    ],
+    "identity_note": "",
+    "status": "not_searched"
+  },
+  {
+    "id": "sextus-afranius-burrus",
+    "name": "Sextus Afranius Burrus",
+    "aliases": [
+      "Burrhus"
+    ],
+    "source_mentions": [
+      {
+        "anchor": "L929",
+        "chapter": "VI"
+      }
+    ],
+    "identity_note": "",
+    "status": "not_searched"
+  },
+  {
+    "id": "maximinus-thrax",
+    "name": "Maximinus Thrax",
+    "aliases": [
+      "Maximin"
+    ],
+    "source_mentions": [
+      {
+        "anchor": "L974",
+        "chapter": "VII"
+      },
+      {
+        "anchor": "L986",
+        "chapter": "VII"
+      }
+    ],
+    "identity_note": "",
+    "status": "not_searched"
+  },
+  {
+    "id": "gaius-julius-verus-maximus",
+    "name": "Gaius Julius Verus Maximus",
+    "aliases": [
+      "Maximin's son"
+    ],
+    "source_mentions": [
+      {
+        "anchor": "L1024",
+        "chapter": "VII"
+      }
+    ],
+    "identity_note": "Named only by relationship in the supplied passage; added to distinguish the emperor's son.",
+    "status": "not_searched"
+  },
+  {
+    "id": "gordian-i",
+    "name": "Gordian I",
+    "aliases": [
+      "Gordian",
+      "Gordianus",
+      "Gordians"
+    ],
+    "source_mentions": [
+      {
+        "anchor": "L1000",
+        "chapter": "VII"
+      },
+      {
+        "anchor": "L1004",
+        "chapter": "VII"
+      }
+    ],
+    "identity_note": "",
+    "status": "not_searched"
+  },
+  {
+    "id": "gordian-ii",
+    "name": "Gordian II",
+    "aliases": [
+      "Gordians"
+    ],
+    "source_mentions": [
+      {
+        "anchor": "L1004",
+        "chapter": "VII"
+      }
+    ],
+    "identity_note": "",
+    "status": "not_searched"
+  },
+  {
+    "id": "gordian-iii",
+    "name": "Gordian III",
+    "aliases": [
+      "Gordian"
+    ],
+    "source_mentions": [
+      {
+        "anchor": "L1034",
+        "chapter": "VII"
+      }
+    ],
+    "identity_note": "",
+    "status": "not_searched"
+  },
+  {
+    "id": "pupienus",
+    "name": "Pupienus",
+    "aliases": [
+      "Maximus"
+    ],
+    "source_mentions": [
+      {
+        "anchor": "L1012",
+        "chapter": "VII"
+      },
+      {
+        "anchor": "L1016",
+        "chapter": "VII"
+      }
+    ],
+    "identity_note": "",
+    "status": "not_searched"
+  },
+  {
+    "id": "balbinus",
+    "name": "Balbinus",
+    "aliases": [
+      "Balbinus"
+    ],
+    "source_mentions": [
+      {
+        "anchor": "L974",
+        "chapter": "VII"
+      },
+      {
+        "anchor": "L1012",
+        "chapter": "VII"
+      },
+      {
+        "anchor": "L1014",
+        "chapter": "VII"
+      },
+      {
+        "anchor": "L1016",
+        "chapter": "VII"
+      },
+      {
+        "anchor": "L1024",
+        "chapter": "VII"
+      },
+      {
+        "anchor": "L1026",
+        "chapter": "VII"
+      },
+      {
+        "anchor": "L1028",
+        "chapter": "VII"
+      }
+    ],
+    "identity_note": "",
+    "status": "not_searched"
+  },
+  {
+    "id": "vitalianus-praetorian-prefect",
+    "name": "Vitalianus (praetorian prefect)",
+    "aliases": [
+      "Vitalianus"
+    ],
+    "source_mentions": [
+      {
+        "anchor": "L1006",
+        "chapter": "VII"
+      }
+    ],
+    "identity_note": "",
+    "status": "not_searched"
+  },
+  {
+    "id": "capelianus",
+    "name": "Capelianus",
+    "aliases": [
+      "Capelianus"
+    ],
+    "source_mentions": [
+      {
+        "anchor": "L1010",
+        "chapter": "VII"
+      }
+    ],
+    "identity_note": "",
+    "status": "not_searched"
+  },
+  {
+    "id": "timesitheus",
+    "name": "Timesitheus",
+    "aliases": [
+      "Misitheus"
+    ],
+    "source_mentions": [
+      {
+        "anchor": "L1032",
+        "chapter": "VII"
+      },
+      {
+        "anchor": "L1034",
+        "chapter": "VII"
+      }
+    ],
+    "identity_note": "",
+    "status": "not_searched"
+  },
+  {
+    "id": "philip-the-arab",
+    "name": "Philip the Arab",
+    "aliases": [
+      "Philip"
+    ],
+    "source_mentions": [
+      {
+        "anchor": "L1034",
+        "chapter": "VII"
+      },
+      {
+        "anchor": "L1038",
+        "chapter": "VII"
+      }
+    ],
+    "identity_note": "",
+    "status": "not_searched"
+  },
+  {
+    "id": "ardashir-i",
+    "name": "Ardashir I",
+    "aliases": [
+      "Artaxerxes"
+    ],
+    "source_mentions": [
+      {
+        "anchor": "L1057",
+        "chapter": "VIII"
+      },
+      {
+        "anchor": "L1065",
+        "chapter": "VIII"
+      },
+      {
+        "anchor": "L1067",
+        "chapter": "VIII"
+      },
+      {
+        "anchor": "L1079",
+        "chapter": "VIII"
+      },
+      {
+        "anchor": "L1081",
+        "chapter": "VIII"
+      },
+      {
+        "anchor": "L1083",
+        "chapter": "VIII"
+      },
+      {
+        "anchor": "L1085",
+        "chapter": "VIII"
+      },
+      {
+        "anchor": "L1087",
+        "chapter": "VIII"
+      },
+      {
+        "anchor": "L1091",
+        "chapter": "VIII"
+      },
+      {
+        "anchor": "L1217",
+        "chapter": "X"
+      },
+      {
+        "anchor": "L1369",
+        "chapter": "XII"
+      },
+      {
+        "anchor": "L1430",
+        "chapter": "XIII"
+      },
+      {
+        "anchor": "L1642",
+        "chapter": "XV"
+      }
+    ],
+    "identity_note": "",
+    "status": "not_searched"
+  },
+  {
+    "id": "zoroaster",
+    "name": "Zoroaster",
+    "aliases": [
+      "Zoroaster"
+    ],
+    "source_mentions": [
+      {
+        "anchor": "L1067",
+        "chapter": "VIII"
+      },
+      {
+        "anchor": "L1069",
+        "chapter": "VIII"
+      },
+      {
+        "anchor": "L1071",
+        "chapter": "VIII"
+      },
+      {
+        "anchor": "L1073",
+        "chapter": "VIII"
+      },
+      {
+        "anchor": "L1075",
+        "chapter": "VIII"
+      },
+      {
+        "anchor": "L1077",
+        "chapter": "VIII"
+      },
+      {
+        "anchor": "L1081",
+        "chapter": "VIII"
+      },
+      {
+        "anchor": "L1221",
+        "chapter": "X"
+      },
+      {
+        "anchor": "L1578",
+        "chapter": "XV"
+      }
+    ],
+    "identity_note": "Later traditional representations, not a verified lifetime likeness.",
+    "status": "not_searched"
+  },
+  {
+    "id": "herodotus",
+    "name": "Herodotus",
+    "aliases": [
+      "Herodotus"
+    ],
+    "source_mentions": [
+      {
+        "anchor": "L1071",
+        "chapter": "VIII"
+      }
+    ],
+    "identity_note": "",
+    "status": "not_searched"
+  },
+  {
+    "id": "confucius",
+    "name": "Confucius",
+    "aliases": [
+      "Confucius"
+    ],
+    "source_mentions": [
+      {
+        "anchor": "L1077",
+        "chapter": "VIII"
+      }
+    ],
+    "identity_note": "",
+    "status": "not_searched"
+  },
+  {
+    "id": "cyrus-the-great",
+    "name": "Cyrus the Great",
+    "aliases": [
+      "Cyrus"
+    ],
+    "source_mentions": [
+      {
+        "anchor": "L1087",
+        "chapter": "VIII"
+      },
+      {
+        "anchor": "L1590",
+        "chapter": "XV"
+      }
+    ],
+    "identity_note": "",
+    "status": "not_searched"
+  },
+  {
+    "id": "hannibal",
+    "name": "Hannibal",
+    "aliases": [
+      "Hannibal"
+    ],
+    "source_mentions": [
+      {
+        "anchor": "L1061",
+        "chapter": "VIII"
+      },
+      {
+        "anchor": "L1272",
+        "chapter": "XI"
+      },
+      {
+        "anchor": "L1624",
+        "chapter": "XV"
+      }
+    ],
+    "identity_note": "",
+    "status": "not_searched"
+  },
+  {
+    "id": "scipio-africanus",
+    "name": "Scipio Africanus",
+    "aliases": [
+      "Scipio Africanus"
+    ],
+    "source_mentions": [
+      {
+        "anchor": "L1000",
+        "chapter": "VII"
+      }
+    ],
+    "identity_note": "",
+    "status": "not_searched"
+  },
+  {
+    "id": "charlemagne",
+    "name": "Charlemagne",
+    "aliases": [
+      "Charlemagne"
+    ],
+    "source_mentions": [
+      {
+        "anchor": "L1112",
+        "chapter": "IX"
+      }
+    ],
+    "identity_note": "",
+    "status": "not_searched"
+  },
+  {
+    "id": "veleda",
+    "name": "Veleda",
+    "aliases": [
+      "Velleda"
+    ],
+    "source_mentions": [
+      {
+        "anchor": "L1126",
+        "chapter": "IX"
+      }
+    ],
+    "identity_note": "",
+    "status": "not_searched"
+  },
+  {
+    "id": "torquato-tasso",
+    "name": "Torquato Tasso",
+    "aliases": [
+      "Tasso"
+    ],
+    "source_mentions": [
+      {
+        "anchor": "L1134",
+        "chapter": "IX"
+      }
+    ],
+    "identity_note": "",
+    "status": "not_searched"
+  },
+  {
+    "id": "publius-quinctilius-varus",
+    "name": "Publius Quinctilius Varus",
+    "aliases": [
+      "Varus"
+    ],
+    "source_mentions": [
+      {
+        "anchor": "L1136",
+        "chapter": "IX"
+      }
+    ],
+    "identity_note": "",
+    "status": "not_searched"
+  },
+  {
+    "id": "decius",
+    "name": "Decius",
+    "aliases": [
+      "Decius"
+    ],
+    "source_mentions": [
+      {
+        "anchor": "L1102",
+        "chapter": "IX"
+      },
+      {
+        "anchor": "L1136",
+        "chapter": "IX"
+      },
+      {
+        "anchor": "L1149",
+        "chapter": "X"
+      },
+      {
+        "anchor": "L1155",
+        "chapter": "X"
+      },
+      {
+        "anchor": "L1157",
+        "chapter": "X"
+      },
+      {
+        "anchor": "L1175",
+        "chapter": "X"
+      },
+      {
+        "anchor": "L1177",
+        "chapter": "X"
+      },
+      {
+        "anchor": "L1179",
+        "chapter": "X"
+      },
+      {
+        "anchor": "L1181",
+        "chapter": "X"
+      },
+      {
+        "anchor": "L1183",
+        "chapter": "X"
+      },
+      {
+        "anchor": "L1199",
+        "chapter": "X"
+      },
+      {
+        "anchor": "L1256",
+        "chapter": "XI"
+      },
+      {
+        "anchor": "L1715",
+        "chapter": "XVI"
+      },
+      {
+        "anchor": "L1717",
+        "chapter": "XVI"
+      },
+      {
+        "anchor": "L1735",
+        "chapter": "XVI"
+      },
+      {
+        "anchor": "L1737",
+        "chapter": "XVI"
+      }
+    ],
+    "identity_note": "",
+    "status": "not_searched"
+  },
+  {
+    "id": "tiberius-claudius-marinus-pacatianus",
+    "name": "Tiberius Claudius Marinus Pacatianus",
+    "aliases": [
+      "Marinus"
+    ],
+    "source_mentions": [
+      {
+        "anchor": "L1155",
+        "chapter": "X"
+      }
+    ],
+    "identity_note": "",
+    "status": "not_searched"
+  },
+  {
+    "id": "cniva",
+    "name": "Cniva",
+    "aliases": [
+      "Cniva"
+    ],
+    "source_mentions": [
+      {
+        "anchor": "L1175",
+        "chapter": "X"
+      }
+    ],
+    "identity_note": "",
+    "status": "not_searched"
+  },
+  {
+    "id": "titus-julius-priscus",
+    "name": "Titus Julius Priscus",
+    "aliases": [
+      "Priscus"
+    ],
+    "source_mentions": [
+      {
+        "anchor": "L1175",
+        "chapter": "X"
+      }
+    ],
+    "identity_note": "Gibbon conflates Philip's brother with the usurper at Philippopolis; see also Titus Julius Priscus / Lucius Priscus.",
+    "status": "not_searched"
+  },
+  {
+    "id": "lucius-priscus",
+    "name": "Lucius Priscus",
+    "aliases": [
+      "Priscus"
+    ],
+    "source_mentions": [
+      {
+        "anchor": "L1175",
+        "chapter": "X"
+      }
+    ],
+    "identity_note": "Separate record for the Philippopolis usurper whom Gibbon calls Philip's brother.",
+    "status": "not_searched"
+  },
+  {
+    "id": "trebonianus-gallus",
+    "name": "Trebonianus Gallus",
+    "aliases": [
+      "Gallus"
+    ],
+    "source_mentions": [
+      {
+        "anchor": "L1181",
+        "chapter": "X"
+      },
+      {
+        "anchor": "L1187",
+        "chapter": "X"
+      }
+    ],
+    "identity_note": "",
+    "status": "not_searched"
+  },
+  {
+    "id": "hostilian",
+    "name": "Hostilian",
+    "aliases": [
+      "Hostilianus"
+    ],
+    "source_mentions": [
+      {
+        "anchor": "L1183",
+        "chapter": "X"
+      },
+      {
+        "anchor": "L1185",
+        "chapter": "X"
+      }
+    ],
+    "identity_note": "",
+    "status": "not_searched"
+  },
+  {
+    "id": "volusianus",
+    "name": "Volusianus",
+    "aliases": [
+      "Volusianus"
+    ],
+    "source_mentions": [
+      {
+        "anchor": "L1187",
+        "chapter": "X"
+      }
+    ],
+    "identity_note": "",
+    "status": "not_searched"
+  },
+  {
+    "id": "aemilianus",
+    "name": "Aemilianus",
+    "aliases": [
+      "Aemilianus"
+    ],
+    "source_mentions": [
+      {
+        "anchor": "L1149",
+        "chapter": "X"
+      },
+      {
+        "anchor": "L1187",
+        "chapter": "X"
+      },
+      {
+        "anchor": "L1189",
+        "chapter": "X"
+      }
+    ],
+    "identity_note": "",
+    "status": "not_searched"
+  },
+  {
+    "id": "valerian-emperor",
+    "name": "Valerian (emperor)",
+    "aliases": [
+      "Valerian"
+    ],
+    "source_mentions": [
+      {
+        "anchor": "L1149",
+        "chapter": "X"
+      },
+      {
+        "anchor": "L1177",
+        "chapter": "X"
+      },
+      {
+        "anchor": "L1179",
+        "chapter": "X"
+      },
+      {
+        "anchor": "L1189",
+        "chapter": "X"
+      },
+      {
+        "anchor": "L1191",
+        "chapter": "X"
+      },
+      {
+        "anchor": "L1201",
+        "chapter": "X"
+      },
+      {
+        "anchor": "L1205",
+        "chapter": "X"
+      },
+      {
+        "anchor": "L1219",
+        "chapter": "X"
+      },
+      {
+        "anchor": "L1225",
+        "chapter": "X"
+      },
+      {
+        "anchor": "L1229",
+        "chapter": "X"
+      },
+      {
+        "anchor": "L1231",
+        "chapter": "X"
+      },
+      {
+        "anchor": "L1250",
+        "chapter": "XI"
+      },
+      {
+        "anchor": "L1256",
+        "chapter": "XI"
+      },
+      {
+        "anchor": "L1284",
+        "chapter": "XI"
+      },
+      {
+        "anchor": "L1296",
+        "chapter": "XI"
+      },
+      {
+        "anchor": "L1310",
+        "chapter": "XI"
+      },
+      {
+        "anchor": "L1347",
+        "chapter": "XII"
+      },
+      {
+        "anchor": "L1650",
+        "chapter": "XV"
+      },
+      {
+        "anchor": "L1719",
+        "chapter": "XVI"
+      },
+      {
+        "anchor": "L1721",
+        "chapter": "XVI"
+      },
+      {
+        "anchor": "L1737",
+        "chapter": "XVI"
+      }
+    ],
+    "identity_note": "",
+    "status": "not_searched"
+  },
+  {
+    "id": "gallienus",
+    "name": "Gallienus",
+    "aliases": [
+      "Gallienus"
+    ],
+    "source_mentions": [
+      {
+        "anchor": "L1149",
+        "chapter": "X"
+      },
+      {
+        "anchor": "L1153",
+        "chapter": "X"
+      },
+      {
+        "anchor": "L1191",
+        "chapter": "X"
+      },
+      {
+        "anchor": "L1193",
+        "chapter": "X"
+      },
+      {
+        "anchor": "L1201",
+        "chapter": "X"
+      },
+      {
+        "anchor": "L1203",
+        "chapter": "X"
+      },
+      {
+        "anchor": "L1205",
+        "chapter": "X"
+      },
+      {
+        "anchor": "L1211",
+        "chapter": "X"
+      },
+      {
+        "anchor": "L1227",
+        "chapter": "X"
+      },
+      {
+        "anchor": "L1229",
+        "chapter": "X"
+      },
+      {
+        "anchor": "L1231",
+        "chapter": "X"
+      },
+      {
+        "anchor": "L1235",
+        "chapter": "X"
+      },
+      {
+        "anchor": "L1250",
+        "chapter": "XI"
+      },
+      {
+        "anchor": "L1252",
+        "chapter": "XI"
+      },
+      {
+        "anchor": "L1254",
+        "chapter": "XI"
+      },
+      {
+        "anchor": "L1256",
+        "chapter": "XI"
+      },
+      {
+        "anchor": "L1270",
+        "chapter": "XI"
+      },
+      {
+        "anchor": "L1288",
+        "chapter": "XI"
+      },
+      {
+        "anchor": "L1298",
+        "chapter": "XI"
+      },
+      {
+        "anchor": "L1349",
+        "chapter": "XII"
+      },
+      {
+        "anchor": "L1369",
+        "chapter": "XII"
+      },
+      {
+        "anchor": "L1383",
+        "chapter": "XII"
+      },
+      {
+        "anchor": "L1410",
+        "chapter": "XIII"
+      },
+      {
+        "anchor": "L1489",
+        "chapter": "XIV"
+      },
+      {
+        "anchor": "L1719",
+        "chapter": "XVI"
+      },
+      {
+        "anchor": "L1721",
+        "chapter": "XVI"
+      },
+      {
+        "anchor": "L1737",
+        "chapter": "XVI"
+      }
+    ],
+    "identity_note": "",
+    "status": "not_searched"
+  },
+  {
+    "id": "naulobatus",
+    "name": "Naulobatus",
+    "aliases": [
+      "Naulobatus"
+    ],
+    "source_mentions": [
+      {
+        "anchor": "L1211",
+        "chapter": "X"
+      }
+    ],
+    "identity_note": "",
+    "status": "not_searched"
+  },
+  {
+    "id": "shapur-i",
+    "name": "Shapur I",
+    "aliases": [
+      "Sapor"
+    ],
+    "source_mentions": [
+      {
+        "anchor": "L1217",
+        "chapter": "X"
+      },
+      {
+        "anchor": "L1219",
+        "chapter": "X"
+      }
+    ],
+    "identity_note": "",
+    "status": "not_searched"
+  },
+  {
+    "id": "khosrov-ii-of-armenia",
+    "name": "Khosrov II of Armenia",
+    "aliases": [
+      "Chosroes"
+    ],
+    "source_mentions": [
+      {
+        "anchor": "L1217",
+        "chapter": "X"
+      }
+    ],
+    "identity_note": "",
+    "status": "not_searched"
+  },
+  {
+    "id": "tiridates-iii-of-armenia",
+    "name": "Tiridates III of Armenia",
+    "aliases": [
+      "Tiridates"
+    ],
+    "source_mentions": [
+      {
+        "anchor": "L1217",
+        "chapter": "X"
+      },
+      {
+        "anchor": "L1432",
+        "chapter": "XIII"
+      }
+    ],
+    "identity_note": "",
+    "status": "not_searched"
+  },
+  {
+    "id": "arsaces-i-of-parthia",
+    "name": "Arsaces I of Parthia",
+    "aliases": [
+      "Arsaces"
+    ],
+    "source_mentions": [
+      {
+        "anchor": "L1217",
+        "chapter": "X"
+      }
+    ],
+    "identity_note": "Named as dynastic ancestor.",
+    "status": "not_searched"
+  },
+  {
+    "id": "macrianus-major",
+    "name": "Macrianus Major",
+    "aliases": [
+      "Macrianus"
+    ],
+    "source_mentions": [
+      {
+        "anchor": "L1219",
+        "chapter": "X"
+      }
+    ],
+    "identity_note": "",
+    "status": "not_searched"
+  },
+  {
+    "id": "cyriades",
+    "name": "Cyriades",
+    "aliases": [
+      "Cyriades"
+    ],
+    "source_mentions": [
+      {
+        "anchor": "L1219",
+        "chapter": "X"
+      }
+    ],
+    "identity_note": "Historicity is disputed.",
+    "status": "not_searched"
+  },
+  {
+    "id": "ingenuus",
+    "name": "Ingenuus",
+    "aliases": [
+      "Ingenuus"
+    ],
+    "source_mentions": [
+      {
+        "anchor": "L1231",
+        "chapter": "X"
+      }
+    ],
+    "identity_note": "",
+    "status": "not_searched"
+  },
+  {
+    "id": "odaenathus",
+    "name": "Odaenathus",
+    "aliases": [
+      "Odenathus"
+    ],
+    "source_mentions": [
+      {
+        "anchor": "L1223",
+        "chapter": "X"
+      },
+      {
+        "anchor": "L1284",
+        "chapter": "XI"
+      },
+      {
+        "anchor": "L1286",
+        "chapter": "XI"
+      },
+      {
+        "anchor": "L1288",
+        "chapter": "XI"
+      },
+      {
+        "anchor": "L1292",
+        "chapter": "XI"
+      },
+      {
+        "anchor": "L1302",
+        "chapter": "XI"
+      }
+    ],
+    "identity_note": "",
+    "status": "not_searched"
+  },
+  {
+    "id": "zenobia",
+    "name": "Zenobia",
+    "aliases": [
+      "Zenobia"
+    ],
+    "source_mentions": [
+      {
+        "anchor": "L1264",
+        "chapter": "XI"
+      },
+      {
+        "anchor": "L1282",
+        "chapter": "XI"
+      },
+      {
+        "anchor": "L1284",
+        "chapter": "XI"
+      },
+      {
+        "anchor": "L1286",
+        "chapter": "XI"
+      },
+      {
+        "anchor": "L1288",
+        "chapter": "XI"
+      },
+      {
+        "anchor": "L1290",
+        "chapter": "XI"
+      },
+      {
+        "anchor": "L1292",
+        "chapter": "XI"
+      },
+      {
+        "anchor": "L1294",
+        "chapter": "XI"
+      },
+      {
+        "anchor": "L1296",
+        "chapter": "XI"
+      },
+      {
+        "anchor": "L1298",
+        "chapter": "XI"
+      },
+      {
+        "anchor": "L1300",
+        "chapter": "XI"
+      },
+      {
+        "anchor": "L1302",
+        "chapter": "XI"
+      },
+      {
+        "anchor": "L1304",
+        "chapter": "XI"
+      }
+    ],
+    "identity_note": "",
+    "status": "not_searched"
+  },
+  {
+    "id": "cassius-longinus-philosopher",
+    "name": "Cassius Longinus (philosopher)",
+    "aliases": [
+      "Longinus"
+    ],
+    "source_mentions": [
+      {
+        "anchor": "L653",
+        "chapter": "II"
+      },
+      {
+        "anchor": "L1282",
+        "chapter": "XI"
+      },
+      {
+        "anchor": "L1298",
+        "chapter": "XI"
+      }
+    ],
+    "identity_note": "",
+    "status": "not_searched"
+  },
+  {
+    "id": "plotinus",
+    "name": "Plotinus",
+    "aliases": [
+      "Plotinus"
+    ],
+    "source_mentions": [
+      {
+        "anchor": "L1227",
+        "chapter": "X"
+      },
+      {
+        "anchor": "L1456",
+        "chapter": "XIII"
+      }
+    ],
+    "identity_note": "",
+    "status": "not_searched"
+  },
+  {
+    "id": "claudius-gothicus",
+    "name": "Claudius Gothicus",
+    "aliases": [
+      "Claudius",
+      "Gothic Claudius"
+    ],
+    "source_mentions": [
+      {
+        "anchor": "L1256",
+        "chapter": "XI"
+      }
+    ],
+    "identity_note": "",
+    "status": "not_searched"
+  },
+  {
+    "id": "aureolus",
+    "name": "Aureolus",
+    "aliases": [
+      "Aureolus"
+    ],
+    "source_mentions": [
+      {
+        "anchor": "L1298",
+        "chapter": "XI"
+      }
+    ],
+    "identity_note": "",
+    "status": "not_searched"
+  },
+  {
+    "id": "heraclianus-prefect",
+    "name": "Heraclianus (prefect)",
+    "aliases": [
+      "Heraclianus"
+    ],
+    "source_mentions": [
+      {
+        "anchor": "L1254",
+        "chapter": "XI"
+      }
+    ],
+    "identity_note": "",
+    "status": "not_searched"
+  },
+  {
+    "id": "marcianus-general",
+    "name": "Marcianus (general)",
+    "aliases": [
+      "Marcian"
+    ],
+    "source_mentions": [
+      {
+        "anchor": "L1254",
+        "chapter": "XI"
+      }
+    ],
+    "identity_note": "",
+    "status": "not_searched"
+  },
+  {
+    "id": "aurelian",
+    "name": "Aurelian",
+    "aliases": [
+      "Aurelian"
+    ],
+    "source_mentions": [
+      {
+        "anchor": "L1246",
+        "chapter": "XI"
+      },
+      {
+        "anchor": "L1250",
+        "chapter": "XI"
+      },
+      {
+        "anchor": "L1262",
+        "chapter": "XI"
+      },
+      {
+        "anchor": "L1264",
+        "chapter": "XI"
+      },
+      {
+        "anchor": "L1266",
+        "chapter": "XI"
+      },
+      {
+        "anchor": "L1268",
+        "chapter": "XI"
+      },
+      {
+        "anchor": "L1270",
+        "chapter": "XI"
+      },
+      {
+        "anchor": "L1272",
+        "chapter": "XI"
+      },
+      {
+        "anchor": "L1274",
+        "chapter": "XI"
+      },
+      {
+        "anchor": "L1276",
+        "chapter": "XI"
+      },
+      {
+        "anchor": "L1278",
+        "chapter": "XI"
+      },
+      {
+        "anchor": "L1282",
+        "chapter": "XI"
+      },
+      {
+        "anchor": "L1290",
+        "chapter": "XI"
+      },
+      {
+        "anchor": "L1294",
+        "chapter": "XI"
+      },
+      {
+        "anchor": "L1296",
+        "chapter": "XI"
+      },
+      {
+        "anchor": "L1298",
+        "chapter": "XI"
+      },
+      {
+        "anchor": "L1300",
+        "chapter": "XI"
+      },
+      {
+        "anchor": "L1302",
+        "chapter": "XI"
+      },
+      {
+        "anchor": "L1304",
+        "chapter": "XI"
+      },
+      {
+        "anchor": "L1306",
+        "chapter": "XI"
+      },
+      {
+        "anchor": "L1308",
+        "chapter": "XI"
+      },
+      {
+        "anchor": "L1310",
+        "chapter": "XI"
+      },
+      {
+        "anchor": "L1321",
+        "chapter": "XII"
+      },
+      {
+        "anchor": "L1325",
+        "chapter": "XII"
+      },
+      {
+        "anchor": "L1327",
+        "chapter": "XII"
+      },
+      {
+        "anchor": "L1329",
+        "chapter": "XII"
+      },
+      {
+        "anchor": "L1333",
+        "chapter": "XII"
+      },
+      {
+        "anchor": "L1337",
+        "chapter": "XII"
+      },
+      {
+        "anchor": "L1341",
+        "chapter": "XII"
+      },
+      {
+        "anchor": "L1347",
+        "chapter": "XII"
+      },
+      {
+        "anchor": "L1351",
+        "chapter": "XII"
+      },
+      {
+        "anchor": "L1353",
+        "chapter": "XII"
+      },
+      {
+        "anchor": "L1357",
+        "chapter": "XII"
+      },
+      {
+        "anchor": "L1359",
+        "chapter": "XII"
+      },
+      {
+        "anchor": "L1365",
+        "chapter": "XII"
+      },
+      {
+        "anchor": "L1404",
+        "chapter": "XIII"
+      },
+      {
+        "anchor": "L1434",
+        "chapter": "XIII"
+      },
+      {
+        "anchor": "L1737",
+        "chapter": "XVI"
+      }
+    ],
+    "identity_note": "",
+    "status": "not_searched"
+  },
+  {
+    "id": "victorinus",
+    "name": "Victorinus",
+    "aliases": [
+      "Victorinus"
+    ],
+    "source_mentions": [
+      {
+        "anchor": "L1280",
+        "chapter": "XI"
+      }
+    ],
+    "identity_note": "",
+    "status": "not_searched"
+  },
+  {
+    "id": "victoria-gallic-empire",
+    "name": "Victoria (Gallic Empire)",
+    "aliases": [
+      "Victoria"
+    ],
+    "source_mentions": [
+      {
+        "anchor": "L1280",
+        "chapter": "XI"
+      }
+    ],
+    "identity_note": "",
+    "status": "not_searched"
+  },
+  {
+    "id": "tetricus-i",
+    "name": "Tetricus I",
+    "aliases": [
+      "Tetricus"
+    ],
+    "source_mentions": [
+      {
+        "anchor": "L1264",
+        "chapter": "XI"
+      },
+      {
+        "anchor": "L1280",
+        "chapter": "XI"
+      },
+      {
+        "anchor": "L1282",
+        "chapter": "XI"
+      },
+      {
+        "anchor": "L1302",
+        "chapter": "XI"
+      },
+      {
+        "anchor": "L1304",
+        "chapter": "XI"
+      }
+    ],
+    "identity_note": "",
+    "status": "not_searched"
+  },
+  {
+    "id": "cleopatra",
+    "name": "Cleopatra",
+    "aliases": [
+      "Cleopatra"
+    ],
+    "source_mentions": [
+      {
+        "anchor": "L1282",
+        "chapter": "XI"
+      },
+      {
+        "anchor": "L1298",
+        "chapter": "XI"
+      }
+    ],
+    "identity_note": "",
+    "status": "not_searched"
+  },
+  {
+    "id": "semiramis",
+    "name": "Semiramis",
+    "aliases": [
+      "Semiramis"
+    ],
+    "source_mentions": [
+      {
+        "anchor": "L1282",
+        "chapter": "XI"
+      }
+    ],
+    "identity_note": "Legendary Assyrian queen; later imagined depiction.",
+    "status": "not_searched"
+  },
+  {
+    "id": "maeonius",
+    "name": "Maeonius",
+    "aliases": [
+      "Maeonius"
+    ],
+    "source_mentions": [
+      {
+        "anchor": "L1286",
+        "chapter": "XI"
+      }
+    ],
+    "identity_note": "",
+    "status": "not_searched"
+  },
+  {
+    "id": "hairan-i",
+    "name": "Hairan I",
+    "aliases": [
+      "Herod"
+    ],
+    "source_mentions": [
+      {
+        "anchor": "L1286",
+        "chapter": "XI"
+      }
+    ],
+    "identity_note": "",
+    "status": "not_searched"
+  },
+  {
+    "id": "marcus-claudius-tacitus",
+    "name": "Marcus Claudius Tacitus",
+    "aliases": [
+      "Tacitus"
+    ],
+    "source_mentions": [
+      {
+        "anchor": "L1333",
+        "chapter": "XII"
+      }
+    ],
+    "identity_note": "",
+    "status": "not_searched"
+  },
+  {
+    "id": "tacitus",
+    "name": "Tacitus",
+    "aliases": [
+      "Tacitus"
+    ],
+    "source_mentions": [
+      {
+        "anchor": "L1108",
+        "chapter": "IX"
+      },
+      {
+        "anchor": "L1654",
+        "chapter": "XV"
+      }
+    ],
+    "identity_note": "Historian, distinct from the emperor.",
+    "status": "not_searched"
+  },
+  {
+    "id": "florianus",
+    "name": "Florianus",
+    "aliases": [
+      "Florianus"
+    ],
+    "source_mentions": [
+      {
+        "anchor": "L1337",
+        "chapter": "XII"
+      },
+      {
+        "anchor": "L1345",
+        "chapter": "XII"
+      },
+      {
+        "anchor": "L1349",
+        "chapter": "XII"
+      }
+    ],
+    "identity_note": "",
+    "status": "not_searched"
+  },
+  {
+    "id": "probus-emperor",
+    "name": "Probus (emperor)",
+    "aliases": [
+      "Probus"
+    ],
+    "source_mentions": [
+      {
+        "anchor": "L1250",
+        "chapter": "XI"
+      },
+      {
+        "anchor": "L1276",
+        "chapter": "XI"
+      },
+      {
+        "anchor": "L1292",
+        "chapter": "XI"
+      },
+      {
+        "anchor": "L1296",
+        "chapter": "XI"
+      },
+      {
+        "anchor": "L1321",
+        "chapter": "XII"
+      },
+      {
+        "anchor": "L1345",
+        "chapter": "XII"
+      },
+      {
+        "anchor": "L1347",
+        "chapter": "XII"
+      },
+      {
+        "anchor": "L1349",
+        "chapter": "XII"
+      },
+      {
+        "anchor": "L1351",
+        "chapter": "XII"
+      },
+      {
+        "anchor": "L1353",
+        "chapter": "XII"
+      },
+      {
+        "anchor": "L1355",
+        "chapter": "XII"
+      },
+      {
+        "anchor": "L1357",
+        "chapter": "XII"
+      },
+      {
+        "anchor": "L1359",
+        "chapter": "XII"
+      },
+      {
+        "anchor": "L1361",
+        "chapter": "XII"
+      },
+      {
+        "anchor": "L1363",
+        "chapter": "XII"
+      },
+      {
+        "anchor": "L1365",
+        "chapter": "XII"
+      },
+      {
+        "anchor": "L1422",
+        "chapter": "XIII"
+      },
+      {
+        "anchor": "L1434",
+        "chapter": "XIII"
+      },
+      {
+        "anchor": "L1438",
+        "chapter": "XIII"
+      }
+    ],
+    "identity_note": "",
+    "status": "not_searched"
+  },
+  {
+    "id": "carus",
+    "name": "Carus",
+    "aliases": [
+      "Carus"
+    ],
+    "source_mentions": [
+      {
+        "anchor": "L1321",
+        "chapter": "XII"
+      },
+      {
+        "anchor": "L1363",
+        "chapter": "XII"
+      },
+      {
+        "anchor": "L1365",
+        "chapter": "XII"
+      },
+      {
+        "anchor": "L1367",
+        "chapter": "XII"
+      },
+      {
+        "anchor": "L1369",
+        "chapter": "XII"
+      },
+      {
+        "anchor": "L1371",
+        "chapter": "XII"
+      },
+      {
+        "anchor": "L1373",
+        "chapter": "XII"
+      },
+      {
+        "anchor": "L1375",
+        "chapter": "XII"
+      },
+      {
+        "anchor": "L1379",
+        "chapter": "XII"
+      },
+      {
+        "anchor": "L1381",
+        "chapter": "XII"
+      },
+      {
+        "anchor": "L1383",
+        "chapter": "XII"
+      }
+    ],
+    "identity_note": "",
+    "status": "not_searched"
+  },
+  {
+    "id": "carinus",
+    "name": "Carinus",
+    "aliases": [
+      "Carinus"
+    ],
+    "source_mentions": [
+      {
+        "anchor": "L1363",
+        "chapter": "XII"
+      },
+      {
+        "anchor": "L1367",
+        "chapter": "XII"
+      },
+      {
+        "anchor": "L1373",
+        "chapter": "XII"
+      },
+      {
+        "anchor": "L1375",
+        "chapter": "XII"
+      },
+      {
+        "anchor": "L1377",
+        "chapter": "XII"
+      },
+      {
+        "anchor": "L1379",
+        "chapter": "XII"
+      },
+      {
+        "anchor": "L1381",
+        "chapter": "XII"
+      },
+      {
+        "anchor": "L1385",
+        "chapter": "XII"
+      },
+      {
+        "anchor": "L1402",
+        "chapter": "XIII"
+      }
+    ],
+    "identity_note": "",
+    "status": "not_searched"
+  },
+  {
+    "id": "numerian",
+    "name": "Numerian",
+    "aliases": [
+      "Numerian"
+    ],
+    "source_mentions": [
+      {
+        "anchor": "L1363",
+        "chapter": "XII"
+      },
+      {
+        "anchor": "L1367",
+        "chapter": "XII"
+      },
+      {
+        "anchor": "L1373",
+        "chapter": "XII"
+      },
+      {
+        "anchor": "L1381",
+        "chapter": "XII"
+      },
+      {
+        "anchor": "L1383",
+        "chapter": "XII"
+      },
+      {
+        "anchor": "L1385",
+        "chapter": "XII"
+      },
+      {
+        "anchor": "L1400",
+        "chapter": "XIII"
+      }
+    ],
+    "identity_note": "",
+    "status": "not_searched"
+  },
+  {
+    "id": "bahram-ii",
+    "name": "Bahram II",
+    "aliases": [
+      "Varanes",
+      "Bahram"
+    ],
+    "source_mentions": [
+      {
+        "anchor": "L1369",
+        "chapter": "XII"
+      }
+    ],
+    "identity_note": "",
+    "status": "not_searched"
+  },
+  {
+    "id": "arrius-aper",
+    "name": "Arrius Aper",
+    "aliases": [
+      "Arrius Aper",
+      "Aper"
+    ],
+    "source_mentions": [
+      {
+        "anchor": "L1381",
+        "chapter": "XII"
+      },
+      {
+        "anchor": "L1383",
+        "chapter": "XII"
+      }
+    ],
+    "identity_note": "",
+    "status": "not_searched"
+  },
+  {
+    "id": "diocletian",
+    "name": "Diocletian",
+    "aliases": [
+      "Diocletian"
+    ],
+    "source_mentions": [
+      {
+        "anchor": "L1250",
+        "chapter": "XI"
+      },
+      {
+        "anchor": "L1383",
+        "chapter": "XII"
+      },
+      {
+        "anchor": "L1385",
+        "chapter": "XII"
+      },
+      {
+        "anchor": "L1396",
+        "chapter": "XIII"
+      },
+      {
+        "anchor": "L1400",
+        "chapter": "XIII"
+      },
+      {
+        "anchor": "L1402",
+        "chapter": "XIII"
+      },
+      {
+        "anchor": "L1404",
+        "chapter": "XIII"
+      },
+      {
+        "anchor": "L1406",
+        "chapter": "XIII"
+      },
+      {
+        "anchor": "L1408",
+        "chapter": "XIII"
+      },
+      {
+        "anchor": "L1410",
+        "chapter": "XIII"
+      },
+      {
+        "anchor": "L1420",
+        "chapter": "XIII"
+      },
+      {
+        "anchor": "L1422",
+        "chapter": "XIII"
+      },
+      {
+        "anchor": "L1426",
+        "chapter": "XIII"
+      },
+      {
+        "anchor": "L1430",
+        "chapter": "XIII"
+      },
+      {
+        "anchor": "L1434",
+        "chapter": "XIII"
+      },
+      {
+        "anchor": "L1436",
+        "chapter": "XIII"
+      },
+      {
+        "anchor": "L1438",
+        "chapter": "XIII"
+      },
+      {
+        "anchor": "L1440",
+        "chapter": "XIII"
+      },
+      {
+        "anchor": "L1442",
+        "chapter": "XIII"
+      },
+      {
+        "anchor": "L1444",
+        "chapter": "XIII"
+      },
+      {
+        "anchor": "L1446",
+        "chapter": "XIII"
+      },
+      {
+        "anchor": "L1448",
+        "chapter": "XIII"
+      },
+      {
+        "anchor": "L1450",
+        "chapter": "XIII"
+      },
+      {
+        "anchor": "L1452",
+        "chapter": "XIII"
+      },
+      {
+        "anchor": "L1454",
+        "chapter": "XIII"
+      },
+      {
+        "anchor": "L1467",
+        "chapter": "XIV"
+      },
+      {
+        "anchor": "L1471",
+        "chapter": "XIV"
+      },
+      {
+        "anchor": "L1473",
+        "chapter": "XIV"
+      },
+      {
+        "anchor": "L1477",
+        "chapter": "XIV"
+      },
+      {
+        "anchor": "L1481",
+        "chapter": "XIV"
+      },
+      {
+        "anchor": "L1485",
+        "chapter": "XIV"
+      },
+      {
+        "anchor": "L1487",
+        "chapter": "XIV"
+      },
+      {
+        "anchor": "L1489",
+        "chapter": "XIV"
+      },
+      {
+        "anchor": "L1491",
+        "chapter": "XIV"
+      },
+      {
+        "anchor": "L1499",
+        "chapter": "XIV"
+      },
+      {
+        "anchor": "L1537",
+        "chapter": "XIV"
+      },
+      {
+        "anchor": "L1640",
+        "chapter": "XV"
+      },
+      {
+        "anchor": "L1650",
+        "chapter": "XV"
+      },
+      {
+        "anchor": "L1739",
+        "chapter": "XVI"
+      },
+      {
+        "anchor": "L1743",
+        "chapter": "XVI"
+      },
+      {
+        "anchor": "L1745",
+        "chapter": "XVI"
+      },
+      {
+        "anchor": "L1747",
+        "chapter": "XVI"
+      },
+      {
+        "anchor": "L1751",
+        "chapter": "XVI"
+      },
+      {
+        "anchor": "L1753",
+        "chapter": "XVI"
+      },
+      {
+        "anchor": "L1755",
+        "chapter": "XVI"
+      },
+      {
+        "anchor": "L1763",
+        "chapter": "XVI"
+      },
+      {
+        "anchor": "L1765",
+        "chapter": "XVI"
+      },
+      {
+        "anchor": "L1795",
+        "chapter": "XVII"
+      },
+      {
+        "anchor": "L1811",
+        "chapter": "XVII"
+      },
+      {
+        "anchor": "L1817",
+        "chapter": "XVII"
+      },
+      {
+        "anchor": "L1823",
+        "chapter": "XVII"
+      },
+      {
+        "anchor": "L1837",
+        "chapter": "XVII"
+      },
+      {
+        "anchor": "L1839",
+        "chapter": "XVII"
+      },
+      {
+        "anchor": "L1872",
+        "chapter": "XVIII"
+      },
+      {
+        "anchor": "L1874",
+        "chapter": "XVIII"
+      },
+      {
+        "anchor": "L1927",
+        "chapter": "XIX"
+      },
+      {
+        "anchor": "L1953",
+        "chapter": "XIX"
+      },
+      {
+        "anchor": "L2002",
+        "chapter": "XX"
+      },
+      {
+        "anchor": "L2034",
+        "chapter": "XX"
+      },
+      {
+        "anchor": "L2059",
+        "chapter": "XXI"
+      },
+      {
+        "anchor": "L2168",
+        "chapter": "XXII"
+      },
+      {
+        "anchor": "L2185",
+        "chapter": "XXIII"
+      },
+      {
+        "anchor": "L2199",
+        "chapter": "XXIII"
+      },
+      {
+        "anchor": "L2256",
+        "chapter": "XXIV"
+      }
+    ],
+    "identity_note": "",
+    "status": "not_searched"
+  },
+  {
+    "id": "maximian",
+    "name": "Maximian",
+    "aliases": [
+      "Maximian",
+      "Herculius"
+    ],
+    "source_mentions": [
+      {
+        "anchor": "L1396",
+        "chapter": "XIII"
+      },
+      {
+        "anchor": "L1400",
+        "chapter": "XIII"
+      },
+      {
+        "anchor": "L1404",
+        "chapter": "XIII"
+      },
+      {
+        "anchor": "L1406",
+        "chapter": "XIII"
+      },
+      {
+        "anchor": "L1408",
+        "chapter": "XIII"
+      },
+      {
+        "anchor": "L1410",
+        "chapter": "XIII"
+      },
+      {
+        "anchor": "L1414",
+        "chapter": "XIII"
+      },
+      {
+        "anchor": "L1420",
+        "chapter": "XIII"
+      },
+      {
+        "anchor": "L1434",
+        "chapter": "XIII"
+      },
+      {
+        "anchor": "L1436",
+        "chapter": "XIII"
+      },
+      {
+        "anchor": "L1438",
+        "chapter": "XIII"
+      },
+      {
+        "anchor": "L1440",
+        "chapter": "XIII"
+      },
+      {
+        "anchor": "L1450",
+        "chapter": "XIII"
+      },
+      {
+        "anchor": "L1452",
+        "chapter": "XIII"
+      },
+      {
+        "anchor": "L1467",
+        "chapter": "XIV"
+      },
+      {
+        "anchor": "L1471",
+        "chapter": "XIV"
+      },
+      {
+        "anchor": "L1473",
+        "chapter": "XIV"
+      },
+      {
+        "anchor": "L1477",
+        "chapter": "XIV"
+      },
+      {
+        "anchor": "L1487",
+        "chapter": "XIV"
+      },
+      {
+        "anchor": "L1489",
+        "chapter": "XIV"
+      },
+      {
+        "anchor": "L1491",
+        "chapter": "XIV"
+      },
+      {
+        "anchor": "L1493",
+        "chapter": "XIV"
+      },
+      {
+        "anchor": "L1497",
+        "chapter": "XIV"
+      },
+      {
+        "anchor": "L1499",
+        "chapter": "XIV"
+      },
+      {
+        "anchor": "L1501",
+        "chapter": "XIV"
+      },
+      {
+        "anchor": "L1503",
+        "chapter": "XIV"
+      },
+      {
+        "anchor": "L1507",
+        "chapter": "XIV"
+      },
+      {
+        "anchor": "L1537",
+        "chapter": "XIV"
+      },
+      {
+        "anchor": "L1743",
+        "chapter": "XVI"
+      },
+      {
+        "anchor": "L1755",
+        "chapter": "XVI"
+      },
+      {
+        "anchor": "L1872",
+        "chapter": "XVIII"
+      },
+      {
+        "anchor": "L1874",
+        "chapter": "XVIII"
+      },
+      {
+        "anchor": "L1882",
+        "chapter": "XVIII"
+      }
+    ],
+    "identity_note": "",
+    "status": "not_searched"
+  },
+  {
+    "id": "galerius",
+    "name": "Galerius",
+    "aliases": [
+      "Galerius",
+      "Armentarius"
+    ],
+    "source_mentions": [
+      {
+        "anchor": "L1396",
+        "chapter": "XIII"
+      },
+      {
+        "anchor": "L1406",
+        "chapter": "XIII"
+      },
+      {
+        "anchor": "L1420",
+        "chapter": "XIII"
+      },
+      {
+        "anchor": "L1467",
+        "chapter": "XIV"
+      },
+      {
+        "anchor": "L1473",
+        "chapter": "XIV"
+      },
+      {
+        "anchor": "L1475",
+        "chapter": "XIV"
+      },
+      {
+        "anchor": "L1477",
+        "chapter": "XIV"
+      },
+      {
+        "anchor": "L1479",
+        "chapter": "XIV"
+      },
+      {
+        "anchor": "L1481",
+        "chapter": "XIV"
+      },
+      {
+        "anchor": "L1483",
+        "chapter": "XIV"
+      },
+      {
+        "anchor": "L1485",
+        "chapter": "XIV"
+      },
+      {
+        "anchor": "L1487",
+        "chapter": "XIV"
+      },
+      {
+        "anchor": "L1493",
+        "chapter": "XIV"
+      },
+      {
+        "anchor": "L1495",
+        "chapter": "XIV"
+      },
+      {
+        "anchor": "L1497",
+        "chapter": "XIV"
+      },
+      {
+        "anchor": "L1499",
+        "chapter": "XIV"
+      },
+      {
+        "anchor": "L1501",
+        "chapter": "XIV"
+      },
+      {
+        "anchor": "L1531",
+        "chapter": "XIV"
+      },
+      {
+        "anchor": "L1721",
+        "chapter": "XVI"
+      },
+      {
+        "anchor": "L1743",
+        "chapter": "XVI"
+      },
+      {
+        "anchor": "L1745",
+        "chapter": "XVI"
+      },
+      {
+        "anchor": "L1747",
+        "chapter": "XVI"
+      },
+      {
+        "anchor": "L1761",
+        "chapter": "XVI"
+      },
+      {
+        "anchor": "L1765",
+        "chapter": "XVI"
+      },
+      {
+        "anchor": "L1994",
+        "chapter": "XX"
+      },
+      {
+        "anchor": "L2004",
+        "chapter": "XX"
+      },
+      {
+        "anchor": "L2266",
+        "chapter": "XXIV"
+      }
+    ],
+    "identity_note": "",
+    "status": "not_searched"
+  },
+  {
+    "id": "constantius-chlorus",
+    "name": "Constantius Chlorus",
+    "aliases": [
+      "Constantius Chlorus",
+      "Chlorus"
+    ],
+    "source_mentions": [
+      {
+        "anchor": "L1406",
+        "chapter": "XIII"
+      },
+      {
+        "anchor": "L1943",
+        "chapter": "XIX"
+      },
+      {
+        "anchor": "L2256",
+        "chapter": "XXIV"
+      }
+    ],
+    "identity_note": "",
+    "status": "not_searched"
+  },
+  {
+    "id": "carausius",
+    "name": "Carausius",
+    "aliases": [
+      "Carausius"
+    ],
+    "source_mentions": [
+      {
+        "anchor": "L1414",
+        "chapter": "XIII"
+      }
+    ],
+    "identity_note": "",
+    "status": "not_searched"
+  },
+  {
+    "id": "narseh",
+    "name": "Narseh",
+    "aliases": [
+      "Narses"
+    ],
+    "source_mentions": [
+      {
+        "anchor": "L1432",
+        "chapter": "XIII"
+      }
+    ],
+    "identity_note": "",
+    "status": "not_searched"
+  },
+  {
+    "id": "xenophon",
+    "name": "Xenophon",
+    "aliases": [
+      "Xenophon"
+    ],
+    "source_mentions": [
+      {
+        "anchor": "L1432",
+        "chapter": "XIII"
+      }
+    ],
+    "identity_note": "",
+    "status": "not_searched"
+  },
+  {
+    "id": "lucius-tarquinius-superbus",
+    "name": "Lucius Tarquinius Superbus",
+    "aliases": [
+      "Tarquin"
+    ],
+    "source_mentions": [
+      {
+        "anchor": "L1440",
+        "chapter": "XIII"
+      }
+    ],
+    "identity_note": "",
+    "status": "not_searched"
+  },
+  {
+    "id": "ammonius-saccas",
+    "name": "Ammonius Saccas",
+    "aliases": [
+      "Ammonius"
+    ],
+    "source_mentions": [
+      {
+        "anchor": "L1456",
+        "chapter": "XIII"
+      }
+    ],
+    "identity_note": "",
+    "status": "not_searched"
+  },
+  {
+    "id": "amelius",
+    "name": "Amelius",
+    "aliases": [
+      "Amelius"
+    ],
+    "source_mentions": [
+      {
+        "anchor": "L1456",
+        "chapter": "XIII"
+      }
+    ],
+    "identity_note": "",
+    "status": "not_searched"
+  },
+  {
+    "id": "porphyry-philosopher",
+    "name": "Porphyry (philosopher)",
+    "aliases": [
+      "Porphyry"
+    ],
+    "source_mentions": [
+      {
+        "anchor": "L1456",
+        "chapter": "XIII"
+      }
+    ],
+    "identity_note": "",
+    "status": "not_searched"
+  },
+  {
+    "id": "constantine-the-great",
+    "name": "Constantine the Great",
+    "aliases": [
+      "Constantine"
+    ],
+    "source_mentions": [
+      {
+        "anchor": "L1507",
+        "chapter": "XIV"
+      },
+      {
+        "anchor": "L1519",
+        "chapter": "XIV"
+      }
+    ],
+    "identity_note": "",
+    "status": "not_searched"
+  },
+  {
+    "id": "severus-ii",
+    "name": "Severus II",
+    "aliases": [
+      "Severus"
+    ],
+    "source_mentions": [
+      {
+        "anchor": "L1489",
+        "chapter": "XIV"
+      }
+    ],
+    "identity_note": "",
+    "status": "not_searched"
+  },
+  {
+    "id": "maximinus-daza",
+    "name": "Maximinus Daza",
+    "aliases": [
+      "Maximin",
+      "Daza"
+    ],
+    "source_mentions": [
+      {
+        "anchor": "L1477",
+        "chapter": "XIV"
+      },
+      {
+        "anchor": "L1519",
+        "chapter": "XIV"
+      }
+    ],
+    "identity_note": "",
+    "status": "not_searched"
+  },
+  {
+    "id": "maxentius",
+    "name": "Maxentius",
+    "aliases": [
+      "Maxentius"
+    ],
+    "source_mentions": [
+      {
+        "anchor": "L1467",
+        "chapter": "XIV"
+      },
+      {
+        "anchor": "L1479",
+        "chapter": "XIV"
+      },
+      {
+        "anchor": "L1485",
+        "chapter": "XIV"
+      },
+      {
+        "anchor": "L1487",
+        "chapter": "XIV"
+      },
+      {
+        "anchor": "L1489",
+        "chapter": "XIV"
+      },
+      {
+        "anchor": "L1491",
+        "chapter": "XIV"
+      },
+      {
+        "anchor": "L1493",
+        "chapter": "XIV"
+      },
+      {
+        "anchor": "L1495",
+        "chapter": "XIV"
+      },
+      {
+        "anchor": "L1497",
+        "chapter": "XIV"
+      },
+      {
+        "anchor": "L1499",
+        "chapter": "XIV"
+      },
+      {
+        "anchor": "L1501",
+        "chapter": "XIV"
+      },
+      {
+        "anchor": "L1505",
+        "chapter": "XIV"
+      },
+      {
+        "anchor": "L1507",
+        "chapter": "XIV"
+      },
+      {
+        "anchor": "L1513",
+        "chapter": "XIV"
+      },
+      {
+        "anchor": "L1515",
+        "chapter": "XIV"
+      },
+      {
+        "anchor": "L1517",
+        "chapter": "XIV"
+      },
+      {
+        "anchor": "L1519",
+        "chapter": "XIV"
+      },
+      {
+        "anchor": "L1757",
+        "chapter": "XVI"
+      },
+      {
+        "anchor": "L1872",
+        "chapter": "XVIII"
+      },
+      {
+        "anchor": "L2004",
+        "chapter": "XX"
+      },
+      {
+        "anchor": "L2006",
+        "chapter": "XX"
+      },
+      {
+        "anchor": "L2012",
+        "chapter": "XX"
+      },
+      {
+        "anchor": "L2014",
+        "chapter": "XX"
+      }
+    ],
+    "identity_note": "",
+    "status": "not_searched"
+  },
+  {
+    "id": "licinius",
+    "name": "Licinius",
+    "aliases": [
+      "Licinius"
+    ],
+    "source_mentions": [
+      {
+        "anchor": "L1452",
+        "chapter": "XIII"
+      },
+      {
+        "anchor": "L1467",
+        "chapter": "XIV"
+      },
+      {
+        "anchor": "L1497",
+        "chapter": "XIV"
+      },
+      {
+        "anchor": "L1501",
+        "chapter": "XIV"
+      },
+      {
+        "anchor": "L1507",
+        "chapter": "XIV"
+      },
+      {
+        "anchor": "L1519",
+        "chapter": "XIV"
+      },
+      {
+        "anchor": "L1521",
+        "chapter": "XIV"
+      },
+      {
+        "anchor": "L1523",
+        "chapter": "XIV"
+      },
+      {
+        "anchor": "L1525",
+        "chapter": "XIV"
+      },
+      {
+        "anchor": "L1527",
+        "chapter": "XIV"
+      },
+      {
+        "anchor": "L1531",
+        "chapter": "XIV"
+      },
+      {
+        "anchor": "L1533",
+        "chapter": "XIV"
+      },
+      {
+        "anchor": "L1537",
+        "chapter": "XIV"
+      },
+      {
+        "anchor": "L1539",
+        "chapter": "XIV"
+      },
+      {
+        "anchor": "L1761",
+        "chapter": "XVI"
+      },
+      {
+        "anchor": "L1793",
+        "chapter": "XVII"
+      },
+      {
+        "anchor": "L1795",
+        "chapter": "XVII"
+      },
+      {
+        "anchor": "L1837",
+        "chapter": "XVII"
+      },
+      {
+        "anchor": "L1872",
+        "chapter": "XVIII"
+      },
+      {
+        "anchor": "L1874",
+        "chapter": "XVIII"
+      },
+      {
+        "anchor": "L1876",
+        "chapter": "XVIII"
+      },
+      {
+        "anchor": "L1880",
+        "chapter": "XVIII"
+      },
+      {
+        "anchor": "L1996",
+        "chapter": "XX"
+      },
+      {
+        "anchor": "L2004",
+        "chapter": "XX"
+      },
+      {
+        "anchor": "L2006",
+        "chapter": "XX"
+      },
+      {
+        "anchor": "L2010",
+        "chapter": "XX"
+      }
+    ],
+    "identity_note": "",
+    "status": "not_searched"
+  },
+  {
+    "id": "crispus",
+    "name": "Crispus",
+    "aliases": [
+      "Crispus"
+    ],
+    "source_mentions": [
+      {
+        "anchor": "L1262",
+        "chapter": "XI"
+      },
+      {
+        "anchor": "L1525",
+        "chapter": "XIV"
+      },
+      {
+        "anchor": "L1529",
+        "chapter": "XIV"
+      },
+      {
+        "anchor": "L1533",
+        "chapter": "XIV"
+      },
+      {
+        "anchor": "L1874",
+        "chapter": "XVIII"
+      },
+      {
+        "anchor": "L1876",
+        "chapter": "XVIII"
+      },
+      {
+        "anchor": "L1878",
+        "chapter": "XVIII"
+      },
+      {
+        "anchor": "L1880",
+        "chapter": "XVIII"
+      },
+      {
+        "anchor": "L1882",
+        "chapter": "XVIII"
+      },
+      {
+        "anchor": "L1884",
+        "chapter": "XVIII"
+      },
+      {
+        "anchor": "L2020",
+        "chapter": "XX"
+      }
+    ],
+    "identity_note": "",
+    "status": "not_searched"
+  },
+  {
+    "id": "helena-mother-of-constantine-i",
+    "name": "Helena, mother of Constantine I",
+    "aliases": [
+      "Helena"
+    ],
+    "source_mentions": [
+      {
+        "anchor": "L1882",
+        "chapter": "XVIII"
+      }
+    ],
+    "identity_note": "",
+    "status": "not_searched"
+  },
+  {
+    "id": "fausta",
+    "name": "Fausta",
+    "aliases": [
+      "Fausta"
+    ],
+    "source_mentions": [
+      {
+        "anchor": "L1491",
+        "chapter": "XIV"
+      },
+      {
+        "anchor": "L1499",
+        "chapter": "XIV"
+      },
+      {
+        "anchor": "L1874",
+        "chapter": "XVIII"
+      },
+      {
+        "anchor": "L1882",
+        "chapter": "XVIII"
+      },
+      {
+        "anchor": "L1884",
+        "chapter": "XVIII"
+      }
+    ],
+    "identity_note": "",
+    "status": "not_searched"
+  },
+  {
+    "id": "sallust",
+    "name": "Sallust",
+    "aliases": [
+      "Sallust"
+    ],
+    "source_mentions": [
+      {
+        "anchor": "L1505",
+        "chapter": "XIV"
+      }
+    ],
+    "identity_note": "Roman historian whose gardens are named.",
+    "status": "not_searched"
+  },
+  {
+    "id": "antiochus-iv-epiphanes",
+    "name": "Antiochus IV Epiphanes",
+    "aliases": [
+      "Antiochus"
+    ],
+    "source_mentions": [
+      {
+        "anchor": "L1560",
+        "chapter": "XV"
+      }
+    ],
+    "identity_note": "",
+    "status": "not_searched"
+  },
+  {
+    "id": "herod-the-great",
+    "name": "Herod the Great",
+    "aliases": [
+      "Herod"
+    ],
+    "source_mentions": [
+      {
+        "anchor": "L1560",
+        "chapter": "XV"
+      }
+    ],
+    "identity_note": "",
+    "status": "not_searched"
+  },
+  {
+    "id": "moses",
+    "name": "Moses",
+    "aliases": [
+      "Moses"
+    ],
+    "source_mentions": [
+      {
+        "anchor": "L1558",
+        "chapter": "XV"
+      },
+      {
+        "anchor": "L1560",
+        "chapter": "XV"
+      },
+      {
+        "anchor": "L1562",
+        "chapter": "XV"
+      },
+      {
+        "anchor": "L1564",
+        "chapter": "XV"
+      },
+      {
+        "anchor": "L1566",
+        "chapter": "XV"
+      },
+      {
+        "anchor": "L1568",
+        "chapter": "XV"
+      },
+      {
+        "anchor": "L1572",
+        "chapter": "XV"
+      },
+      {
+        "anchor": "L1574",
+        "chapter": "XV"
+      },
+      {
+        "anchor": "L1576",
+        "chapter": "XV"
+      },
+      {
+        "anchor": "L1578",
+        "chapter": "XV"
+      },
+      {
+        "anchor": "L1590",
+        "chapter": "XV"
+      },
+      {
+        "anchor": "L1634",
+        "chapter": "XV"
+      },
+      {
+        "anchor": "L1683",
+        "chapter": "XVI"
+      },
+      {
+        "anchor": "L1703",
+        "chapter": "XVI"
+      },
+      {
+        "anchor": "L2004",
+        "chapter": "XX"
+      },
+      {
+        "anchor": "L2071",
+        "chapter": "XXI"
+      },
+      {
+        "anchor": "L2209",
+        "chapter": "XXIII"
+      }
+    ],
+    "identity_note": "Traditional religious representation; no verified portrait.",
+    "status": "not_searched"
+  },
+  {
+    "id": "abraham",
+    "name": "Abraham",
+    "aliases": [
+      "Abraham"
+    ],
+    "source_mentions": [
+      {
+        "anchor": "L1560",
+        "chapter": "XV"
+      },
+      {
+        "anchor": "L1564",
+        "chapter": "XV"
+      },
+      {
+        "anchor": "L1566",
+        "chapter": "XV"
+      },
+      {
+        "anchor": "L1568",
+        "chapter": "XV"
+      },
+      {
+        "anchor": "L1679",
+        "chapter": "XVI"
+      },
+      {
+        "anchor": "L1683",
+        "chapter": "XVI"
+      },
+      {
+        "anchor": "L1697",
+        "chapter": "XVI"
+      }
+    ],
+    "identity_note": "Traditional religious representation.",
+    "status": "not_searched"
+  },
+  {
+    "id": "joshua",
+    "name": "Joshua",
+    "aliases": [
+      "Joshua"
+    ],
+    "source_mentions": [
+      {
+        "anchor": "L1562",
+        "chapter": "XV"
+      },
+      {
+        "anchor": "L2004",
+        "chapter": "XX"
+      },
+      {
+        "anchor": "L2008",
+        "chapter": "XX"
+      }
+    ],
+    "identity_note": "Traditional religious representation.",
+    "status": "not_searched"
+  },
+  {
+    "id": "jesus",
+    "name": "Jesus",
+    "aliases": [
+      "Jesus",
+      "Christ",
+      "Jesus Christ"
+    ],
+    "source_mentions": [
+      {
+        "anchor": "L1570",
+        "chapter": "XV"
+      },
+      {
+        "anchor": "L1572",
+        "chapter": "XV"
+      },
+      {
+        "anchor": "L1574",
+        "chapter": "XV"
+      },
+      {
+        "anchor": "L1576",
+        "chapter": "XV"
+      },
+      {
+        "anchor": "L1578",
+        "chapter": "XV"
+      },
+      {
+        "anchor": "L1590",
+        "chapter": "XV"
+      },
+      {
+        "anchor": "L1592",
+        "chapter": "XV"
+      },
+      {
+        "anchor": "L1594",
+        "chapter": "XV"
+      },
+      {
+        "anchor": "L1610",
+        "chapter": "XV"
+      },
+      {
+        "anchor": "L1622",
+        "chapter": "XV"
+      },
+      {
+        "anchor": "L1628",
+        "chapter": "XV"
+      },
+      {
+        "anchor": "L1634",
+        "chapter": "XV"
+      },
+      {
+        "anchor": "L1640",
+        "chapter": "XV"
+      },
+      {
+        "anchor": "L1642",
+        "chapter": "XV"
+      },
+      {
+        "anchor": "L1648",
+        "chapter": "XV"
+      },
+      {
+        "anchor": "L1658",
+        "chapter": "XV"
+      },
+      {
+        "anchor": "L1675",
+        "chapter": "XVI"
+      },
+      {
+        "anchor": "L1683",
+        "chapter": "XVI"
+      },
+      {
+        "anchor": "L1687",
+        "chapter": "XVI"
+      },
+      {
+        "anchor": "L1691",
+        "chapter": "XVI"
+      },
+      {
+        "anchor": "L1695",
+        "chapter": "XVI"
+      },
+      {
+        "anchor": "L1697",
+        "chapter": "XVI"
+      },
+      {
+        "anchor": "L1699",
+        "chapter": "XVI"
+      },
+      {
+        "anchor": "L1703",
+        "chapter": "XVI"
+      },
+      {
+        "anchor": "L1713",
+        "chapter": "XVI"
+      },
+      {
+        "anchor": "L1725",
+        "chapter": "XVI"
+      },
+      {
+        "anchor": "L1729",
+        "chapter": "XVI"
+      },
+      {
+        "anchor": "L1737",
+        "chapter": "XVI"
+      },
+      {
+        "anchor": "L1743",
+        "chapter": "XVI"
+      },
+      {
+        "anchor": "L1763",
+        "chapter": "XVI"
+      },
+      {
+        "anchor": "L1990",
+        "chapter": "XX"
+      },
+      {
+        "anchor": "L1994",
+        "chapter": "XX"
+      },
+      {
+        "anchor": "L2006",
+        "chapter": "XX"
+      },
+      {
+        "anchor": "L2010",
+        "chapter": "XX"
+      },
+      {
+        "anchor": "L2012",
+        "chapter": "XX"
+      },
+      {
+        "anchor": "L2014",
+        "chapter": "XX"
+      },
+      {
+        "anchor": "L2020",
+        "chapter": "XX"
+      },
+      {
+        "anchor": "L2071",
+        "chapter": "XXI"
+      },
+      {
+        "anchor": "L2073",
+        "chapter": "XXI"
+      },
+      {
+        "anchor": "L2089",
+        "chapter": "XXI"
+      },
+      {
+        "anchor": "L2099",
+        "chapter": "XXI"
+      },
+      {
+        "anchor": "L2113",
+        "chapter": "XXI"
+      },
+      {
+        "anchor": "L2187",
+        "chapter": "XXIII"
+      },
+      {
+        "anchor": "L2197",
+        "chapter": "XXIII"
+      },
+      {
+        "anchor": "L2205",
+        "chapter": "XXIII"
+      },
+      {
+        "anchor": "L2221",
+        "chapter": "XXIII"
+      },
+      {
+        "anchor": "L2317",
+        "chapter": "XXV"
+      }
+    ],
+    "identity_note": "Traditional religious representation; not a verified lifetime likeness.",
+    "status": "not_searched"
+  },
+  {
+    "id": "justin-martyr",
+    "name": "Justin Martyr",
+    "aliases": [
+      "Justin Martyr",
+      "Justin"
+    ],
+    "source_mentions": [
+      {
+        "anchor": "L1574",
+        "chapter": "XV"
+      },
+      {
+        "anchor": "L1642",
+        "chapter": "XV"
+      },
+      {
+        "anchor": "L1648",
+        "chapter": "XV"
+      }
+    ],
+    "identity_note": "",
+    "status": "not_searched"
+  },
+  {
+    "id": "adam",
+    "name": "Adam",
+    "aliases": [
+      "Adam"
+    ],
+    "source_mentions": [
+      {
+        "anchor": "L1576",
+        "chapter": "XV"
+      },
+      {
+        "anchor": "L1610",
+        "chapter": "XV"
+      }
+    ],
+    "identity_note": "Biblical figure; later religious art.",
+    "status": "not_searched"
+  },
+  {
+    "id": "ezra",
+    "name": "Ezra",
+    "aliases": [
+      "Ezra"
+    ],
+    "source_mentions": [
+      {
+        "anchor": "L1590",
+        "chapter": "XV"
+      }
+    ],
+    "identity_note": "",
+    "status": "not_searched"
+  },
+  {
+    "id": "solomon",
+    "name": "Solomon",
+    "aliases": [
+      "Solomon"
+    ],
+    "source_mentions": [
+      {
+        "anchor": "L1576",
+        "chapter": "XV"
+      },
+      {
+        "anchor": "L2071",
+        "chapter": "XXI"
+      },
+      {
+        "anchor": "L2073",
+        "chapter": "XXI"
+      },
+      {
+        "anchor": "L2209",
+        "chapter": "XXIII"
+      }
+    ],
+    "identity_note": "",
+    "status": "not_searched"
+  },
+  {
+    "id": "irenaeus",
+    "name": "Irenaeus",
+    "aliases": [
+      "Irenaeus",
+      "Iranaeus"
+    ],
+    "source_mentions": [
+      {
+        "anchor": "L1598",
+        "chapter": "XV"
+      }
+    ],
+    "identity_note": "",
+    "status": "not_searched"
+  },
+  {
+    "id": "theophilus-of-antioch",
+    "name": "Theophilus of Antioch",
+    "aliases": [
+      "Theophilus"
+    ],
+    "source_mentions": [
+      {
+        "anchor": "L1598",
+        "chapter": "XV"
+      }
+    ],
+    "identity_note": "",
+    "status": "not_searched"
+  },
+  {
+    "id": "tertullian",
+    "name": "Tertullian",
+    "aliases": [
+      "Tertullian"
+    ],
+    "source_mentions": [
+      {
+        "anchor": "L1594",
+        "chapter": "XV"
+      },
+      {
+        "anchor": "L1608",
+        "chapter": "XV"
+      },
+      {
+        "anchor": "L1638",
+        "chapter": "XV"
+      },
+      {
+        "anchor": "L1648",
+        "chapter": "XV"
+      },
+      {
+        "anchor": "L1650",
+        "chapter": "XV"
+      },
+      {
+        "anchor": "L2079",
+        "chapter": "XXI"
+      }
+    ],
+    "identity_note": "",
+    "status": "not_searched"
+  },
+  {
+    "id": "origen",
+    "name": "Origen",
+    "aliases": [
+      "Origen"
+    ],
+    "source_mentions": [
+      {
+        "anchor": "L1610",
+        "chapter": "XV"
+      },
+      {
+        "anchor": "L1644",
+        "chapter": "XV"
+      },
+      {
+        "anchor": "L1648",
+        "chapter": "XV"
+      },
+      {
+        "anchor": "L1715",
+        "chapter": "XVI"
+      }
+    ],
+    "identity_note": "",
+    "status": "not_searched"
+  },
+  {
+    "id": "jacob",
+    "name": "Jacob",
+    "aliases": [
+      "Jacob"
+    ],
+    "source_mentions": [
+      {
+        "anchor": "L1608",
+        "chapter": "XV"
+      }
+    ],
+    "identity_note": "",
+    "status": "not_searched"
+  },
+  {
+    "id": "david",
+    "name": "David",
+    "aliases": [
+      "David"
+    ],
+    "source_mentions": [
+      {
+        "anchor": "L1576",
+        "chapter": "XV"
+      },
+      {
+        "anchor": "L1703",
+        "chapter": "XVI"
+      },
+      {
+        "anchor": "L1705",
+        "chapter": "XVI"
+      },
+      {
+        "anchor": "L2004",
+        "chapter": "XX"
+      }
+    ],
+    "identity_note": "",
+    "status": "not_searched"
+  },
+  {
+    "id": "cyprian",
+    "name": "Cyprian",
+    "aliases": [
+      "Cyprian"
+    ],
+    "source_mentions": [
+      {
+        "anchor": "L1622",
+        "chapter": "XV"
+      },
+      {
+        "anchor": "L1624",
+        "chapter": "XV"
+      },
+      {
+        "anchor": "L1630",
+        "chapter": "XV"
+      },
+      {
+        "anchor": "L1634",
+        "chapter": "XV"
+      },
+      {
+        "anchor": "L1648",
+        "chapter": "XV"
+      },
+      {
+        "anchor": "L1717",
+        "chapter": "XVI"
+      },
+      {
+        "anchor": "L1719",
+        "chapter": "XVI"
+      },
+      {
+        "anchor": "L1721",
+        "chapter": "XVI"
+      },
+      {
+        "anchor": "L1723",
+        "chapter": "XVI"
+      },
+      {
+        "anchor": "L1725",
+        "chapter": "XVI"
+      }
+    ],
+    "identity_note": "",
+    "status": "not_searched"
+  },
+  {
+    "id": "saint-peter",
+    "name": "Saint Peter",
+    "aliases": [
+      "Peter"
+    ],
+    "source_mentions": [
+      {
+        "anchor": "L1624",
+        "chapter": "XV"
+      },
+      {
+        "anchor": "L1735",
+        "chapter": "XVI"
+      }
+    ],
+    "identity_note": "",
+    "status": "not_searched"
+  },
+  {
+    "id": "aristides-of-athens",
+    "name": "Aristides of Athens",
+    "aliases": [
+      "Aristides"
+    ],
+    "source_mentions": [
+      {
+        "anchor": "L1648",
+        "chapter": "XV"
+      }
+    ],
+    "identity_note": "",
+    "status": "not_searched"
+  },
+  {
+    "id": "pythagoras",
+    "name": "Pythagoras",
+    "aliases": [
+      "Pythagoras"
+    ],
+    "source_mentions": [
+      {
+        "anchor": "L1648",
+        "chapter": "XV"
+      }
+    ],
+    "identity_note": "",
+    "status": "not_searched"
+  },
+  {
+    "id": "clement-of-alexandria",
+    "name": "Clement of Alexandria",
+    "aliases": [
+      "Clemens"
+    ],
+    "source_mentions": [
+      {
+        "anchor": "L1648",
+        "chapter": "XV"
+      }
+    ],
+    "identity_note": "",
+    "status": "not_searched"
+  },
+  {
+    "id": "sextus-julius-africanus",
+    "name": "Sextus Julius Africanus",
+    "aliases": [
+      "Julius Africanus"
+    ],
+    "source_mentions": [
+      {
+        "anchor": "L1648",
+        "chapter": "XV"
+      }
+    ],
+    "identity_note": "",
+    "status": "not_searched"
+  },
+  {
+    "id": "lactantius",
+    "name": "Lactantius",
+    "aliases": [
+      "Lactantius"
+    ],
+    "source_mentions": [
+      {
+        "anchor": "L1638",
+        "chapter": "XV"
+      },
+      {
+        "anchor": "L1648",
+        "chapter": "XV"
+      },
+      {
+        "anchor": "L1763",
+        "chapter": "XVI"
+      },
+      {
+        "anchor": "L1876",
+        "chapter": "XVIII"
+      },
+      {
+        "anchor": "L1990",
+        "chapter": "XX"
+      },
+      {
+        "anchor": "L2000",
+        "chapter": "XX"
+      },
+      {
+        "anchor": "L2004",
+        "chapter": "XX"
+      }
+    ],
+    "identity_note": "",
+    "status": "not_searched"
+  },
+  {
+    "id": "pliny-the-younger",
+    "name": "Pliny the Younger",
+    "aliases": [
+      "Pliny"
+    ],
+    "source_mentions": [
+      {
+        "anchor": "L1650",
+        "chapter": "XV"
+      },
+      {
+        "anchor": "L1709",
+        "chapter": "XVI"
+      }
+    ],
+    "identity_note": "",
+    "status": "not_searched"
+  },
+  {
+    "id": "plutarch",
+    "name": "Plutarch",
+    "aliases": [
+      "Plutarch"
+    ],
+    "source_mentions": [
+      {
+        "anchor": "L1654",
+        "chapter": "XV"
+      }
+    ],
+    "identity_note": "",
+    "status": "not_searched"
+  },
+  {
+    "id": "epictetus",
+    "name": "Epictetus",
+    "aliases": [
+      "Epictetus"
+    ],
+    "source_mentions": [
+      {
+        "anchor": "L1654",
+        "chapter": "XV"
+      },
+      {
+        "anchor": "L2156",
+        "chapter": "XXII"
+      }
+    ],
+    "identity_note": "",
+    "status": "not_searched"
+  },
+  {
+    "id": "simon-bar-kokhba",
+    "name": "Simon bar Kokhba",
+    "aliases": [
+      "Barchochebas"
+    ],
+    "source_mentions": [
+      {
+        "anchor": "L1679",
+        "chapter": "XVI"
+      }
+    ],
+    "identity_note": "",
+    "status": "not_searched"
+  },
+  {
+    "id": "charles-v-holy-roman-emperor",
+    "name": "Charles V, Holy Roman Emperor",
+    "aliases": [
+      "Charles"
+    ],
+    "source_mentions": [
+      {
+        "anchor": "L1695",
+        "chapter": "XVI"
+      },
+      {
+        "anchor": "L1767",
+        "chapter": "XVI"
+      }
+    ],
+    "identity_note": "",
+    "status": "not_searched"
+  },
+  {
+    "id": "louis-xiv",
+    "name": "Louis XIV",
+    "aliases": [
+      "Lewis"
+    ],
+    "source_mentions": [
+      {
+        "anchor": "L1695",
+        "chapter": "XVI"
+      }
+    ],
+    "identity_note": "",
+    "status": "not_searched"
+  },
+  {
+    "id": "pontius-pilate",
+    "name": "Pontius Pilate",
+    "aliases": [
+      "Pontius Pilate"
+    ],
+    "source_mentions": [
+      {
+        "anchor": "L1699",
+        "chapter": "XVI"
+      }
+    ],
+    "identity_note": "",
+    "status": "not_searched"
+  },
+  {
+    "id": "jude-brother-of-jesus",
+    "name": "Jude, brother of Jesus",
+    "aliases": [
+      "Jude"
+    ],
+    "source_mentions": [
+      {
+        "anchor": "L1703",
+        "chapter": "XVI"
+      }
+    ],
+    "identity_note": "",
+    "status": "not_searched"
+  },
+  {
+    "id": "titus-flavius-sabinus-consul-ad-82",
+    "name": "Titus Flavius Sabinus (consul AD 82)",
+    "aliases": [
+      "Flavius Sabinus"
+    ],
+    "source_mentions": [
+      {
+        "anchor": "L1705",
+        "chapter": "XVI"
+      }
+    ],
+    "identity_note": "",
+    "status": "not_searched"
+  },
+  {
+    "id": "titus-flavius-clemens-consul",
+    "name": "Titus Flavius Clemens (consul)",
+    "aliases": [
+      "Flavius Clemens"
+    ],
+    "source_mentions": [
+      {
+        "anchor": "L1705",
+        "chapter": "XVI"
+      }
+    ],
+    "identity_note": "",
+    "status": "not_searched"
+  },
+  {
+    "id": "flavia-domitilla-wife-of-clemens",
+    "name": "Flavia Domitilla (wife of Clemens)",
+    "aliases": [
+      "Domitilla"
+    ],
+    "source_mentions": [
+      {
+        "anchor": "L1705",
+        "chapter": "XVI"
+      }
+    ],
+    "identity_note": "",
+    "status": "not_searched"
+  },
+  {
+    "id": "pope-stephen-i",
+    "name": "Pope Stephen I",
+    "aliases": [
+      "Stephen"
+    ],
+    "source_mentions": [
+      {
+        "anchor": "L1705",
+        "chapter": "XVI"
+      }
+    ],
+    "identity_note": "",
+    "status": "not_searched"
+  },
+  {
+    "id": "ignatius-of-antioch",
+    "name": "Ignatius of Antioch",
+    "aliases": [
+      "Ignatius"
+    ],
+    "source_mentions": [
+      {
+        "anchor": "L1727",
+        "chapter": "XVI"
+      }
+    ],
+    "identity_note": "",
+    "status": "not_searched"
+  },
+  {
+    "id": "dionysius-of-alexandria",
+    "name": "Dionysius of Alexandria",
+    "aliases": [
+      "Dionysius"
+    ],
+    "source_mentions": [
+      {
+        "anchor": "L1715",
+        "chapter": "XVI"
+      }
+    ],
+    "identity_note": "",
+    "status": "not_searched"
+  },
+  {
+    "id": "sulpicius-severus",
+    "name": "Sulpicius Severus",
+    "aliases": [
+      "Sulpicius Severus"
+    ],
+    "source_mentions": [
+      {
+        "anchor": "L1727",
+        "chapter": "XVI"
+      }
+    ],
+    "identity_note": "",
+    "status": "not_searched"
+  },
+  {
+    "id": "prisca-empress",
+    "name": "Prisca (empress)",
+    "aliases": [
+      "Prisca"
+    ],
+    "source_mentions": [
+      {
+        "anchor": "L1739",
+        "chapter": "XVI"
+      }
+    ],
+    "identity_note": "",
+    "status": "not_searched"
+  },
+  {
+    "id": "galeria-valeria",
+    "name": "Galeria Valeria",
+    "aliases": [
+      "Valeria"
+    ],
+    "source_mentions": [
+      {
+        "anchor": "L1739",
+        "chapter": "XVI"
+      }
+    ],
+    "identity_note": "",
+    "status": "not_searched"
+  },
+  {
+    "id": "gorgonius",
+    "name": "Gorgonius",
+    "aliases": [
+      "Gorgonius"
+    ],
+    "source_mentions": [
+      {
+        "anchor": "L1739",
+        "chapter": "XVI"
+      }
+    ],
+    "identity_note": "",
+    "status": "not_searched"
+  },
+  {
+    "id": "maximilian-of-tebessa",
+    "name": "Maximilian of Tebessa",
+    "aliases": [
+      "Maximilianus"
+    ],
+    "source_mentions": [
+      {
+        "anchor": "L1743",
+        "chapter": "XVI"
+      }
+    ],
+    "identity_note": "",
+    "status": "not_searched"
+  },
+  {
+    "id": "marcellus-of-tangier",
+    "name": "Marcellus of Tangier",
+    "aliases": [
+      "Marcellus"
+    ],
+    "source_mentions": [
+      {
+        "anchor": "L1743",
+        "chapter": "XVI"
+      }
+    ],
+    "identity_note": "",
+    "status": "not_searched"
+  },
+  {
+    "id": "eusebius",
+    "name": "Eusebius",
+    "aliases": [
+      "Eusebius"
+    ],
+    "source_mentions": [
+      {
+        "anchor": "L1529",
+        "chapter": "XIV"
+      },
+      {
+        "anchor": "L1765",
+        "chapter": "XVI"
+      }
+    ],
+    "identity_note": "",
+    "status": "not_searched"
+  },
+  {
+    "id": "hugo-grotius",
+    "name": "Hugo Grotius",
+    "aliases": [
+      "Grotius"
+    ],
+    "source_mentions": [
+      {
+        "anchor": "L1767",
+        "chapter": "XVI"
+      }
+    ],
+    "identity_note": "",
+    "status": "not_searched"
+  },
+  {
+    "id": "pericles",
+    "name": "Pericles",
+    "aliases": [
+      "Pericles"
+    ],
+    "source_mentions": [
+      {
+        "anchor": "L1799",
+        "chapter": "XVII"
+      }
+    ],
+    "identity_note": "",
+    "status": "not_searched"
+  },
+  {
+    "id": "phidias",
+    "name": "Phidias",
+    "aliases": [
+      "Phidias"
+    ],
+    "source_mentions": [
+      {
+        "anchor": "L1799",
+        "chapter": "XVII"
+      }
+    ],
+    "identity_note": "",
+    "status": "not_searched"
+  },
+  {
+    "id": "lysippos",
+    "name": "Lysippos",
+    "aliases": [
+      "Lysippus"
+    ],
+    "source_mentions": [
+      {
+        "anchor": "L1799",
+        "chapter": "XVII"
+      }
+    ],
+    "identity_note": "",
+    "status": "not_searched"
+  },
+  {
+    "id": "george-kedrenos",
+    "name": "George Kedrenos",
+    "aliases": [
+      "Cedrenus"
+    ],
+    "source_mentions": [
+      {
+        "anchor": "L1799",
+        "chapter": "XVII"
+      }
+    ],
+    "identity_note": "",
+    "status": "not_searched"
+  },
+  {
+    "id": "marcus-valerius-messalla-corvinus",
+    "name": "Marcus Valerius Messalla Corvinus",
+    "aliases": [
+      "Valerius Messalla"
+    ],
+    "source_mentions": [
+      {
+        "anchor": "L1827",
+        "chapter": "XVII"
+      }
+    ],
+    "identity_note": "",
+    "status": "not_searched"
+  },
+  {
+    "id": "justinian-i",
+    "name": "Justinian I",
+    "aliases": [
+      "Justinian"
+    ],
+    "source_mentions": [
+      {
+        "anchor": "L1833",
+        "chapter": "XVII"
+      }
+    ],
+    "identity_note": "",
+    "status": "not_searched"
+  },
+  {
+    "id": "minervina",
+    "name": "Minervina",
+    "aliases": [
+      "Minervina"
+    ],
+    "source_mentions": [
+      {
+        "anchor": "L1874",
+        "chapter": "XVIII"
+      }
+    ],
+    "identity_note": "",
+    "status": "not_searched"
+  },
+  {
+    "id": "constantine-ii-emperor",
+    "name": "Constantine II (emperor)",
+    "aliases": [
+      "Constantine"
+    ],
+    "source_mentions": [
+      {
+        "anchor": "L1874",
+        "chapter": "XVIII"
+      },
+      {
+        "anchor": "L1900",
+        "chapter": "XVIII"
+      }
+    ],
+    "identity_note": "",
+    "status": "not_searched"
+  },
+  {
+    "id": "constantius-ii",
+    "name": "Constantius II",
+    "aliases": [
+      "Constantius"
+    ],
+    "source_mentions": [
+      {
+        "anchor": "L1874",
+        "chapter": "XVIII"
+      },
+      {
+        "anchor": "L1910",
+        "chapter": "XVIII"
+      }
+    ],
+    "identity_note": "",
+    "status": "not_searched"
+  },
+  {
+    "id": "constans",
+    "name": "Constans",
+    "aliases": [
+      "Constans"
+    ],
+    "source_mentions": [
+      {
+        "anchor": "L1868",
+        "chapter": "XVIII"
+      },
+      {
+        "anchor": "L1874",
+        "chapter": "XVIII"
+      },
+      {
+        "anchor": "L1884",
+        "chapter": "XVIII"
+      },
+      {
+        "anchor": "L1886",
+        "chapter": "XVIII"
+      },
+      {
+        "anchor": "L1894",
+        "chapter": "XVIII"
+      },
+      {
+        "anchor": "L1900",
+        "chapter": "XVIII"
+      },
+      {
+        "anchor": "L1902",
+        "chapter": "XVIII"
+      },
+      {
+        "anchor": "L1904",
+        "chapter": "XVIII"
+      },
+      {
+        "anchor": "L2119",
+        "chapter": "XXI"
+      },
+      {
+        "anchor": "L2127",
+        "chapter": "XXI"
+      }
+    ],
+    "identity_note": "",
+    "status": "not_searched"
+  },
+  {
+    "id": "julius-constantius",
+    "name": "Julius Constantius",
+    "aliases": [
+      "Julius Constantius"
+    ],
+    "source_mentions": [
+      {
+        "anchor": "L1874",
+        "chapter": "XVIII"
+      },
+      {
+        "anchor": "L1892",
+        "chapter": "XVIII"
+      }
+    ],
+    "identity_note": "",
+    "status": "not_searched"
+  },
+  {
+    "id": "flavius-dalmatius",
+    "name": "Flavius Dalmatius",
+    "aliases": [
+      "Dalmatius"
+    ],
+    "source_mentions": [
+      {
+        "anchor": "L1874",
+        "chapter": "XVIII"
+      }
+    ],
+    "identity_note": "Constantine's half-brother, distinct from the Caesar.",
+    "status": "not_searched"
+  },
+  {
+    "id": "hannibalianus-brother-of-constantine-i",
+    "name": "Hannibalianus (brother of Constantine I)",
+    "aliases": [
+      "Hannibalianus"
+    ],
+    "source_mentions": [
+      {
+        "anchor": "L1874",
+        "chapter": "XVIII"
+      }
+    ],
+    "identity_note": "",
+    "status": "not_searched"
+  },
+  {
+    "id": "dalmatius",
+    "name": "Dalmatius",
+    "aliases": [
+      "Dalmatius"
+    ],
+    "source_mentions": [
+      {
+        "anchor": "L1884",
+        "chapter": "XVIII"
+      },
+      {
+        "anchor": "L1886",
+        "chapter": "XVIII"
+      }
+    ],
+    "identity_note": "Caesar, son of Flavius Dalmatius.",
+    "status": "not_searched"
+  },
+  {
+    "id": "hannibalianus",
+    "name": "Hannibalianus",
+    "aliases": [
+      "Hannibalianus"
+    ],
+    "source_mentions": [
+      {
+        "anchor": "L1884",
+        "chapter": "XVIII"
+      },
+      {
+        "anchor": "L1886",
+        "chapter": "XVIII"
+      }
+    ],
+    "identity_note": "Constantine's nephew, king of kings.",
+    "status": "not_searched"
+  },
+  {
+    "id": "anastasia-sister-of-constantine-i",
+    "name": "Anastasia (sister of Constantine I)",
+    "aliases": [
+      "Anastasia"
+    ],
+    "source_mentions": [
+      {
+        "anchor": "L1874",
+        "chapter": "XVIII"
+      }
+    ],
+    "identity_note": "",
+    "status": "not_searched"
+  },
+  {
+    "id": "eutropia-sister-of-constantine-i",
+    "name": "Eutropia (sister of Constantine I)",
+    "aliases": [
+      "Eutropia"
+    ],
+    "source_mentions": [
+      {
+        "anchor": "L1874",
+        "chapter": "XVIII"
+      }
+    ],
+    "identity_note": "",
+    "status": "not_searched"
+  },
+  {
+    "id": "flavius-optatus",
+    "name": "Flavius Optatus",
+    "aliases": [
+      "Optatus"
+    ],
+    "source_mentions": [
+      {
+        "anchor": "L1874",
+        "chapter": "XVIII"
+      },
+      {
+        "anchor": "L1892",
+        "chapter": "XVIII"
+      }
+    ],
+    "identity_note": "",
+    "status": "not_searched"
+  },
+  {
+    "id": "virius-nepotianus",
+    "name": "Virius Nepotianus",
+    "aliases": [
+      "Nepotianus"
+    ],
+    "source_mentions": [
+      {
+        "anchor": "L1874",
+        "chapter": "XVIII"
+      }
+    ],
+    "identity_note": "Husband of Eutropia, distinct from their son the usurper.",
+    "status": "not_searched"
+  },
+  {
+    "id": "flavia-julia-constantia",
+    "name": "Flavia Julia Constantia",
+    "aliases": [
+      "Constantia"
+    ],
+    "source_mentions": [
+      {
+        "anchor": "L1519",
+        "chapter": "XIV"
+      },
+      {
+        "anchor": "L1537",
+        "chapter": "XIV"
+      },
+      {
+        "anchor": "L1874",
+        "chapter": "XVIII"
+      }
+    ],
+    "identity_note": "",
+    "status": "not_searched"
+  },
+  {
+    "id": "licinius-ii",
+    "name": "Licinius II",
+    "aliases": [
+      "Licinius"
+    ],
+    "source_mentions": [
+      {
+        "anchor": "L1880",
+        "chapter": "XVIII"
+      }
+    ],
+    "identity_note": "",
+    "status": "not_searched"
+  },
+  {
+    "id": "ablabius-consul",
+    "name": "Ablabius (consul)",
+    "aliases": [
+      "Ablavius"
+    ],
+    "source_mentions": [
+      {
+        "anchor": "L1892",
+        "chapter": "XVIII"
+      }
+    ],
+    "identity_note": "",
+    "status": "not_searched"
+  },
+  {
+    "id": "shapur-ii",
+    "name": "Shapur II",
+    "aliases": [
+      "Sapor"
+    ],
+    "source_mentions": [
+      {
+        "anchor": "L1957",
+        "chapter": "XIX"
+      }
+    ],
+    "identity_note": "",
+    "status": "not_searched"
+  },
+  {
+    "id": "magnentius",
+    "name": "Magnentius",
+    "aliases": [
+      "Magnentius"
+    ],
+    "source_mentions": [
+      {
+        "anchor": "L1868",
+        "chapter": "XVIII"
+      },
+      {
+        "anchor": "L1902",
+        "chapter": "XVIII"
+      },
+      {
+        "anchor": "L1904",
+        "chapter": "XVIII"
+      },
+      {
+        "anchor": "L1906",
+        "chapter": "XVIII"
+      },
+      {
+        "anchor": "L1910",
+        "chapter": "XVIII"
+      },
+      {
+        "anchor": "L1912",
+        "chapter": "XVIII"
+      },
+      {
+        "anchor": "L1955",
+        "chapter": "XIX"
+      },
+      {
+        "anchor": "L2154",
+        "chapter": "XXII"
+      }
+    ],
+    "identity_note": "",
+    "status": "not_searched"
+  },
+  {
+    "id": "vetranio",
+    "name": "Vetranio",
+    "aliases": [
+      "Vetranio"
+    ],
+    "source_mentions": [
+      {
+        "anchor": "L1904",
+        "chapter": "XVIII"
+      },
+      {
+        "anchor": "L1906",
+        "chapter": "XVIII"
+      }
+    ],
+    "identity_note": "",
+    "status": "not_searched"
+  },
+  {
+    "id": "decentius",
+    "name": "Decentius",
+    "aliases": [
+      "Decentius"
+    ],
+    "source_mentions": [
+      {
+        "anchor": "L1912",
+        "chapter": "XVIII"
+      }
+    ],
+    "identity_note": "",
+    "status": "not_searched"
+  },
+  {
+    "id": "paulus-catena",
+    "name": "Paulus Catena",
+    "aliases": [
+      "Paul",
+      "Catena"
+    ],
+    "source_mentions": [
+      {
+        "anchor": "L1912",
+        "chapter": "XVIII"
+      }
+    ],
+    "identity_note": "",
+    "status": "not_searched"
+  },
+  {
+    "id": "martinus-vicarius",
+    "name": "Martinus (vicarius)",
+    "aliases": [
+      "Martin"
+    ],
+    "source_mentions": [
+      {
+        "anchor": "L1912",
+        "chapter": "XVIII"
+      }
+    ],
+    "identity_note": "",
+    "status": "not_searched"
+  },
+  {
+    "id": "constantius-gallus",
+    "name": "Constantius Gallus",
+    "aliases": [
+      "Gallus"
+    ],
+    "source_mentions": [
+      {
+        "anchor": "L1933",
+        "chapter": "XIX"
+      },
+      {
+        "anchor": "L1941",
+        "chapter": "XIX"
+      }
+    ],
+    "identity_note": "",
+    "status": "not_searched"
+  },
+  {
+    "id": "julian-emperor",
+    "name": "Julian (emperor)",
+    "aliases": [
+      "Julian"
+    ],
+    "source_mentions": [
+      {
+        "anchor": "L2146",
+        "chapter": "XXII"
+      },
+      {
+        "anchor": "L2254",
+        "chapter": "XXIV"
+      }
+    ],
+    "identity_note": "",
+    "status": "not_searched"
+  },
+  {
+    "id": "constantina",
+    "name": "Constantina",
+    "aliases": [
+      "Constantina"
+    ],
+    "source_mentions": [
+      {
+        "anchor": "L1904",
+        "chapter": "XVIII"
+      },
+      {
+        "anchor": "L1929",
+        "chapter": "XIX"
+      },
+      {
+        "anchor": "L1931",
+        "chapter": "XIX"
+      },
+      {
+        "anchor": "L1935",
+        "chapter": "XIX"
+      },
+      {
+        "anchor": "L1939",
+        "chapter": "XIX"
+      }
+    ],
+    "identity_note": "",
+    "status": "not_searched"
+  },
+  {
+    "id": "eusebia-empress",
+    "name": "Eusebia (empress)",
+    "aliases": [
+      "Eusebia"
+    ],
+    "source_mentions": [
+      {
+        "anchor": "L1943",
+        "chapter": "XIX"
+      },
+      {
+        "anchor": "L1945",
+        "chapter": "XIX"
+      },
+      {
+        "anchor": "L1947",
+        "chapter": "XIX"
+      },
+      {
+        "anchor": "L1951",
+        "chapter": "XIX"
+      },
+      {
+        "anchor": "L2156",
+        "chapter": "XXII"
+      }
+    ],
+    "identity_note": "",
+    "status": "not_searched"
+  },
+  {
+    "id": "scudilo",
+    "name": "Scudilo",
+    "aliases": [
+      "Scudilo"
+    ],
+    "source_mentions": [
+      {
+        "anchor": "L1939",
+        "chapter": "XIX"
+      }
+    ],
+    "identity_note": "",
+    "status": "not_searched"
+  },
+  {
+    "id": "barbatio",
+    "name": "Barbatio",
+    "aliases": [
+      "Barbatio"
+    ],
+    "source_mentions": [
+      {
+        "anchor": "L1941",
+        "chapter": "XIX"
+      }
+    ],
+    "identity_note": "",
+    "status": "not_searched"
+  },
+  {
+    "id": "strategius-musonianus",
+    "name": "Strategius Musonianus",
+    "aliases": [
+      "Musonian"
+    ],
+    "source_mentions": [
+      {
+        "anchor": "L1957",
+        "chapter": "XIX"
+      }
+    ],
+    "identity_note": "",
+    "status": "not_searched"
+  },
+  {
+    "id": "flavius-cassianus",
+    "name": "Flavius Cassianus",
+    "aliases": [
+      "Cassian"
+    ],
+    "source_mentions": [
+      {
+        "anchor": "L1957",
+        "chapter": "XIX"
+      }
+    ],
+    "identity_note": "",
+    "status": "not_searched"
+  },
+  {
+    "id": "tamsapor",
+    "name": "Tamsapor",
+    "aliases": [
+      "Tamsapor"
+    ],
+    "source_mentions": [
+      {
+        "anchor": "L1957",
+        "chapter": "XIX"
+      }
+    ],
+    "identity_note": "",
+    "status": "not_searched"
+  },
+  {
+    "id": "narseh-ambassador",
+    "name": "Narseh (ambassador)",
+    "aliases": [
+      "Narses"
+    ],
+    "source_mentions": [
+      {
+        "anchor": "L1957",
+        "chapter": "XIX"
+      }
+    ],
+    "identity_note": "",
+    "status": "not_searched"
+  },
+  {
+    "id": "darius-the-great",
+    "name": "Darius the Great",
+    "aliases": [
+      "Darius Hystaspes"
+    ],
+    "source_mentions": [
+      {
+        "anchor": "L1957",
+        "chapter": "XIX"
+      }
+    ],
+    "identity_note": "",
+    "status": "not_searched"
+  },
+  {
+    "id": "salutius",
+    "name": "Salutius",
+    "aliases": [
+      "Sallust"
+    ],
+    "source_mentions": [
+      {
+        "anchor": "L1965",
+        "chapter": "XIX"
+      },
+      {
+        "anchor": "L2146",
+        "chapter": "XXII"
+      },
+      {
+        "anchor": "L2254",
+        "chapter": "XXIV"
+      }
+    ],
+    "identity_note": "Julian's adviser Saturninius Secundus Salutius.",
+    "status": "not_searched"
+  },
+  {
+    "id": "attius-tiro-delphidius",
+    "name": "Attius Tiro Delphidius",
+    "aliases": [
+      "Delphidius"
+    ],
+    "source_mentions": [
+      {
+        "anchor": "L1973",
+        "chapter": "XIX"
+      }
+    ],
+    "identity_note": "",
+    "status": "not_searched"
+  },
+  {
+    "id": "florentius-consul-361",
+    "name": "Florentius (consul 361)",
+    "aliases": [
+      "Florentius"
+    ],
+    "source_mentions": [
+      {
+        "anchor": "L1973",
+        "chapter": "XIX"
+      }
+    ],
+    "identity_note": "",
+    "status": "not_searched"
+  },
+  {
+    "id": "nazarius-rhetorician",
+    "name": "Nazarius (rhetorician)",
+    "aliases": [
+      "Nazarius"
+    ],
+    "source_mentions": [
+      {
+        "anchor": "L2014",
+        "chapter": "XX"
+      }
+    ],
+    "identity_note": "",
+    "status": "not_searched"
+  },
+  {
+    "id": "gideon",
+    "name": "Gideon",
+    "aliases": [
+      "Gideon"
+    ],
+    "source_mentions": [
+      {
+        "anchor": "L2004",
+        "chapter": "XX"
+      }
+    ],
+    "identity_note": "",
+    "status": "not_searched"
+  },
+  {
+    "id": "frumentius",
+    "name": "Frumentius",
+    "aliases": [
+      "Frumentius"
+    ],
+    "source_mentions": [
+      {
+        "anchor": "L2022",
+        "chapter": "XX"
+      }
+    ],
+    "identity_note": "",
+    "status": "not_searched"
+  },
+  {
+    "id": "theophilus-the-indian",
+    "name": "Theophilus the Indian",
+    "aliases": [
+      "Theophilus"
+    ],
+    "source_mentions": [
+      {
+        "anchor": "L2022",
+        "chapter": "XX"
+      }
+    ],
+    "identity_note": "",
+    "status": "not_searched"
+  },
+  {
+    "id": "theodosius-ii",
+    "name": "Theodosius II",
+    "aliases": [
+      "Theodosius"
+    ],
+    "source_mentions": [
+      {
+        "anchor": "L2036",
+        "chapter": "XX"
+      }
+    ],
+    "identity_note": "",
+    "status": "not_searched"
+  },
+  {
+    "id": "ambrose",
+    "name": "Ambrose",
+    "aliases": [
+      "Ambrose"
+    ],
+    "source_mentions": [
+      {
+        "anchor": "L2091",
+        "chapter": "XXI"
+      },
+      {
+        "anchor": "L2323",
+        "chapter": "XXV"
+      }
+    ],
+    "identity_note": "",
+    "status": "not_searched"
+  },
+  {
+    "id": "paul-of-samosata",
+    "name": "Paul of Samosata",
+    "aliases": [
+      "Paul"
+    ],
+    "source_mentions": [
+      {
+        "anchor": "L2059",
+        "chapter": "XXI"
+      }
+    ],
+    "identity_note": "",
+    "status": "not_searched"
+  },
+  {
+    "id": "donatus-magnus",
+    "name": "Donatus Magnus",
+    "aliases": [
+      "Donatus"
+    ],
+    "source_mentions": [
+      {
+        "anchor": "L2061",
+        "chapter": "XXI"
+      }
+    ],
+    "identity_note": "",
+    "status": "not_searched"
+  },
+  {
+    "id": "caecilianus",
+    "name": "Caecilianus",
+    "aliases": [
+      "Caecilian"
+    ],
+    "source_mentions": [
+      {
+        "anchor": "L2061",
+        "chapter": "XXI"
+      },
+      {
+        "anchor": "L2065",
+        "chapter": "XXI"
+      }
+    ],
+    "identity_note": "",
+    "status": "not_searched"
+  },
+  {
+    "id": "clovis-i",
+    "name": "Clovis I",
+    "aliases": [
+      "Clovis"
+    ],
+    "source_mentions": [
+      {
+        "anchor": "L2067",
+        "chapter": "XXI"
+      }
+    ],
+    "identity_note": "",
+    "status": "not_searched"
+  },
+  {
+    "id": "theodoric-the-great",
+    "name": "Theodoric the Great",
+    "aliases": [
+      "Theodoric"
+    ],
+    "source_mentions": [
+      {
+        "anchor": "L2067",
+        "chapter": "XXI"
+      }
+    ],
+    "identity_note": "",
+    "status": "not_searched"
+  },
+  {
+    "id": "philo",
+    "name": "Philo",
+    "aliases": [
+      "Philo"
+    ],
+    "source_mentions": [
+      {
+        "anchor": "L2071",
+        "chapter": "XXI"
+      }
+    ],
+    "identity_note": "",
+    "status": "not_searched"
+  },
+  {
+    "id": "arius",
+    "name": "Arius",
+    "aliases": [
+      "Arius"
+    ],
+    "source_mentions": [
+      {
+        "anchor": "L2081",
+        "chapter": "XXI"
+      },
+      {
+        "anchor": "L2085",
+        "chapter": "XXI"
+      },
+      {
+        "anchor": "L2091",
+        "chapter": "XXI"
+      },
+      {
+        "anchor": "L2093",
+        "chapter": "XXI"
+      },
+      {
+        "anchor": "L2099",
+        "chapter": "XXI"
+      },
+      {
+        "anchor": "L2101",
+        "chapter": "XXI"
+      }
+    ],
+    "identity_note": "",
+    "status": "not_searched"
+  },
+  {
+    "id": "athanasius-of-alexandria",
+    "name": "Athanasius of Alexandria",
+    "aliases": [
+      "Athanasius"
+    ],
+    "source_mentions": [
+      {
+        "anchor": "L2038",
+        "chapter": "XX"
+      },
+      {
+        "anchor": "L2055",
+        "chapter": "XXI"
+      },
+      {
+        "anchor": "L2091",
+        "chapter": "XXI"
+      },
+      {
+        "anchor": "L2101",
+        "chapter": "XXI"
+      },
+      {
+        "anchor": "L2109",
+        "chapter": "XXI"
+      },
+      {
+        "anchor": "L2111",
+        "chapter": "XXI"
+      },
+      {
+        "anchor": "L2185",
+        "chapter": "XXIII"
+      },
+      {
+        "anchor": "L2291",
+        "chapter": "XXV"
+      }
+    ],
+    "identity_note": "",
+    "status": "not_searched"
+  },
+  {
+    "id": "marcellus-of-ancyra",
+    "name": "Marcellus of Ancyra",
+    "aliases": [
+      "Marcellus"
+    ],
+    "source_mentions": [
+      {
+        "anchor": "L2091",
+        "chapter": "XXI"
+      }
+    ],
+    "identity_note": "",
+    "status": "not_searched"
+  },
+  {
+    "id": "hilary-of-poitiers",
+    "name": "Hilary of Poitiers",
+    "aliases": [
+      "Hilary"
+    ],
+    "source_mentions": [
+      {
+        "anchor": "L2095",
+        "chapter": "XXI"
+      }
+    ],
+    "identity_note": "",
+    "status": "not_searched"
+  },
+  {
+    "id": "eustathius-of-antioch",
+    "name": "Eustathius of Antioch",
+    "aliases": [
+      "Eustathius"
+    ],
+    "source_mentions": [
+      {
+        "anchor": "L2101",
+        "chapter": "XXI"
+      }
+    ],
+    "identity_note": "",
+    "status": "not_searched"
+  },
+  {
+    "id": "paul-i-of-constantinople",
+    "name": "Paul I of Constantinople",
+    "aliases": [
+      "Paul"
+    ],
+    "source_mentions": [
+      {
+        "anchor": "L2101",
+        "chapter": "XXI"
+      },
+      {
+        "anchor": "L2115",
+        "chapter": "XXI"
+      }
+    ],
+    "identity_note": "",
+    "status": "not_searched"
+  },
+  {
+    "id": "eusebius-of-nicomedia",
+    "name": "Eusebius of Nicomedia",
+    "aliases": [
+      "Eusebius"
+    ],
+    "source_mentions": [
+      {
+        "anchor": "L2099",
+        "chapter": "XXI"
+      },
+      {
+        "anchor": "L2101",
+        "chapter": "XXI"
+      }
+    ],
+    "identity_note": "Distinguish from Eusebius of Caesarea.",
+    "status": "not_searched"
+  },
+  {
+    "id": "pope-liberius",
+    "name": "Pope Liberius",
+    "aliases": [
+      "Liberius"
+    ],
+    "source_mentions": [
+      {
+        "anchor": "L2113",
+        "chapter": "XXI"
+      }
+    ],
+    "identity_note": "",
+    "status": "not_searched"
+  },
+  {
+    "id": "antipope-felix-ii",
+    "name": "Antipope Felix II",
+    "aliases": [
+      "Felix"
+    ],
+    "source_mentions": [
+      {
+        "anchor": "L2113",
+        "chapter": "XXI"
+      }
+    ],
+    "identity_note": "",
+    "status": "not_searched"
+  },
+  {
+    "id": "flavian-i-of-antioch",
+    "name": "Flavian I of Antioch",
+    "aliases": [
+      "Flavianus"
+    ],
+    "source_mentions": [
+      {
+        "anchor": "L2111",
+        "chapter": "XXI"
+      }
+    ],
+    "identity_note": "",
+    "status": "not_searched"
+  },
+  {
+    "id": "diodorus-of-tarsus",
+    "name": "Diodorus of Tarsus",
+    "aliases": [
+      "Diodorus"
+    ],
+    "source_mentions": [
+      {
+        "anchor": "L2111",
+        "chapter": "XXI"
+      }
+    ],
+    "identity_note": "",
+    "status": "not_searched"
+  },
+  {
+    "id": "sulla",
+    "name": "Sulla",
+    "aliases": [
+      "Sulla"
+    ],
+    "source_mentions": [
+      {
+        "anchor": "L2113",
+        "chapter": "XXI"
+      }
+    ],
+    "identity_note": "",
+    "status": "not_searched"
+  },
+  {
+    "id": "alexander-of-constantinople",
+    "name": "Alexander of Constantinople",
+    "aliases": [
+      "Alexander"
+    ],
+    "source_mentions": [
+      {
+        "anchor": "L2115",
+        "chapter": "XXI"
+      }
+    ],
+    "identity_note": "",
+    "status": "not_searched"
+  },
+  {
+    "id": "macedonius-i-of-constantinople",
+    "name": "Macedonius I of Constantinople",
+    "aliases": [
+      "Macedonius"
+    ],
+    "source_mentions": [
+      {
+        "anchor": "L2115",
+        "chapter": "XXI"
+      },
+      {
+        "anchor": "L2117",
+        "chapter": "XXI"
+      }
+    ],
+    "identity_note": "",
+    "status": "not_searched"
+  },
+  {
+    "id": "flavius-philippus",
+    "name": "Flavius Philippus",
+    "aliases": [
+      "Philip"
+    ],
+    "source_mentions": [
+      {
+        "anchor": "L2115",
+        "chapter": "XXI"
+      }
+    ],
+    "identity_note": "",
+    "status": "not_searched"
+  },
+  {
+    "id": "hermogenes-magister-equitum",
+    "name": "Hermogenes (magister equitum)",
+    "aliases": [
+      "Hermogenes"
+    ],
+    "source_mentions": [
+      {
+        "anchor": "L2115",
+        "chapter": "XXI"
+      },
+      {
+        "anchor": "L2117",
+        "chapter": "XXI"
+      }
+    ],
+    "identity_note": "",
+    "status": "not_searched"
+  },
+  {
+    "id": "acacius-of-byzantium",
+    "name": "Acacius of Byzantium",
+    "aliases": [
+      "Acacius"
+    ],
+    "source_mentions": [
+      {
+        "anchor": "L2115",
+        "chapter": "XXI"
+      }
+    ],
+    "identity_note": "",
+    "status": "not_searched"
+  },
+  {
+    "id": "gregory-of-nazianzus",
+    "name": "Gregory of Nazianzus",
+    "aliases": [
+      "Gregory Nazianzen"
+    ],
+    "source_mentions": [
+      {
+        "anchor": "L2123",
+        "chapter": "XXI"
+      },
+      {
+        "anchor": "L2185",
+        "chapter": "XXIII"
+      }
+    ],
+    "identity_note": "",
+    "status": "not_searched"
+  },
+  {
+    "id": "leonas",
+    "name": "Leonas",
+    "aliases": [
+      "Leonas"
+    ],
+    "source_mentions": [
+      {
+        "anchor": "L2156",
+        "chapter": "XXII"
+      }
+    ],
+    "identity_note": "",
+    "status": "not_searched"
+  },
+  {
+    "id": "libanius",
+    "name": "Libanius",
+    "aliases": [
+      "Libanius"
+    ],
+    "source_mentions": [
+      {
+        "anchor": "L2195",
+        "chapter": "XXIII"
+      },
+      {
+        "anchor": "L2201",
+        "chapter": "XXIII"
+      },
+      {
+        "anchor": "L2264",
+        "chapter": "XXIV"
+      }
+    ],
+    "identity_note": "",
+    "status": "not_searched"
+  },
+  {
+    "id": "pachomius-the-great",
+    "name": "Pachomius the Great",
+    "aliases": [
+      "Pachomius"
+    ],
+    "source_mentions": [
+      {
+        "anchor": "L2195",
+        "chapter": "XXIII"
+      }
+    ],
+    "identity_note": "",
+    "status": "not_searched"
+  },
+  {
+    "id": "midas",
+    "name": "Midas",
+    "aliases": [
+      "Midas"
+    ],
+    "source_mentions": [
+      {
+        "anchor": "L2205",
+        "chapter": "XXIII"
+      }
+    ],
+    "identity_note": "Legendary king; later depictions.",
+    "status": "not_searched"
+  },
+  {
+    "id": "luke-the-evangelist",
+    "name": "Luke the Evangelist",
+    "aliases": [
+      "Luke"
+    ],
+    "source_mentions": [
+      {
+        "anchor": "L2215",
+        "chapter": "XXIII"
+      }
+    ],
+    "identity_note": "",
+    "status": "not_searched"
+  },
+  {
+    "id": "matthew-the-apostle",
+    "name": "Matthew the Apostle",
+    "aliases": [
+      "Matthew"
+    ],
+    "source_mentions": [
+      {
+        "anchor": "L2215",
+        "chapter": "XXIII"
+      }
+    ],
+    "identity_note": "",
+    "status": "not_searched"
+  },
+  {
+    "id": "gaius-fabricius-luscinus",
+    "name": "Gaius Fabricius Luscinus",
+    "aliases": [
+      "Fabricius"
+    ],
+    "source_mentions": [
+      {
+        "anchor": "L2242",
+        "chapter": "XXIV"
+      }
+    ],
+    "identity_note": "",
+    "status": "not_searched"
+  },
+  {
+    "id": "anatolius-consul-360",
+    "name": "Anatolius (consul 360)",
+    "aliases": [
+      "Anatolius"
+    ],
+    "source_mentions": [
+      {
+        "anchor": "L2254",
+        "chapter": "XXIV"
+      }
+    ],
+    "identity_note": "",
+    "status": "not_searched"
+  },
+  {
+    "id": "priscus-of-epirus",
+    "name": "Priscus of Epirus",
+    "aliases": [
+      "Priscus"
+    ],
+    "source_mentions": [
+      {
+        "anchor": "L2254",
+        "chapter": "XXIV"
+      }
+    ],
+    "identity_note": "",
+    "status": "not_searched"
+  },
+  {
+    "id": "maximus-of-ephesus",
+    "name": "Maximus of Ephesus",
+    "aliases": [
+      "Maximus"
+    ],
+    "source_mentions": [
+      {
+        "anchor": "L2195",
+        "chapter": "XXIII"
+      },
+      {
+        "anchor": "L2254",
+        "chapter": "XXIV"
+      }
+    ],
+    "identity_note": "",
+    "status": "not_searched"
+  },
+  {
+    "id": "jovian-emperor",
+    "name": "Jovian (emperor)",
+    "aliases": [
+      "Jovian"
+    ],
+    "source_mentions": [
+      {
+        "anchor": "L2232",
+        "chapter": "XXIV"
+      },
+      {
+        "anchor": "L2256",
+        "chapter": "XXIV"
+      },
+      {
+        "anchor": "L2262",
+        "chapter": "XXIV"
+      },
+      {
+        "anchor": "L2266",
+        "chapter": "XXIV"
+      },
+      {
+        "anchor": "L2268",
+        "chapter": "XXIV"
+      },
+      {
+        "anchor": "L2270",
+        "chapter": "XXIV"
+      },
+      {
+        "anchor": "L2287",
+        "chapter": "XXV"
+      },
+      {
+        "anchor": "L2291",
+        "chapter": "XXV"
+      },
+      {
+        "anchor": "L2293",
+        "chapter": "XXV"
+      },
+      {
+        "anchor": "L2295",
+        "chapter": "XXV"
+      },
+      {
+        "anchor": "L2297",
+        "chapter": "XXV"
+      },
+      {
+        "anchor": "L2303",
+        "chapter": "XXV"
+      },
+      {
+        "anchor": "L2345",
+        "chapter": "XXV"
+      }
+    ],
+    "identity_note": "",
+    "status": "not_searched"
+  },
+  {
+    "id": "varronianus-father-of-jovian",
+    "name": "Varronianus (father of Jovian)",
+    "aliases": [
+      "Count Varronian"
+    ],
+    "source_mentions": [
+      {
+        "anchor": "L2256",
+        "chapter": "XXIV"
+      }
+    ],
+    "identity_note": "",
+    "status": "not_searched"
+  },
+  {
+    "id": "charito",
+    "name": "Charito",
+    "aliases": [
+      "Charito"
+    ],
+    "source_mentions": [
+      {
+        "anchor": "L2295",
+        "chapter": "XXV"
+      }
+    ],
+    "identity_note": "",
+    "status": "not_searched"
+  },
+  {
+    "id": "varronianus",
+    "name": "Varronianus",
+    "aliases": [
+      "Varronian"
+    ],
+    "source_mentions": [
+      {
+        "anchor": "L2295",
+        "chapter": "XXV"
+      }
+    ],
+    "identity_note": "Jovian's son, distinct from his grandfather.",
+    "status": "not_searched"
+  },
+  {
+    "id": "valentinian-i",
+    "name": "Valentinian I",
+    "aliases": [
+      "Valentinian"
+    ],
+    "source_mentions": [
+      {
+        "anchor": "L2297",
+        "chapter": "XXV"
+      },
+      {
+        "anchor": "L2367",
+        "chapter": "XXV"
+      }
+    ],
+    "identity_note": "",
+    "status": "not_searched"
+  },
+  {
+    "id": "gratian-the-elder",
+    "name": "Gratian the Elder",
+    "aliases": [
+      "Count Gratian"
+    ],
+    "source_mentions": [
+      {
+        "anchor": "L2297",
+        "chapter": "XXV"
+      }
+    ],
+    "identity_note": "",
+    "status": "not_searched"
+  },
+  {
+    "id": "dagalaifus",
+    "name": "Dagalaifus",
+    "aliases": [
+      "Dagalaiphus"
+    ],
+    "source_mentions": [
+      {
+        "anchor": "L2299",
+        "chapter": "XXV"
+      }
+    ],
+    "identity_note": "",
+    "status": "not_searched"
+  },
+  {
+    "id": "valens",
+    "name": "Valens",
+    "aliases": [
+      "Valens"
+    ],
+    "source_mentions": [
+      {
+        "anchor": "L1446",
+        "chapter": "XIII"
+      },
+      {
+        "anchor": "L1523",
+        "chapter": "XIV"
+      },
+      {
+        "anchor": "L1525",
+        "chapter": "XIV"
+      },
+      {
+        "anchor": "L2287",
+        "chapter": "XXV"
+      },
+      {
+        "anchor": "L2299",
+        "chapter": "XXV"
+      },
+      {
+        "anchor": "L2301",
+        "chapter": "XXV"
+      },
+      {
+        "anchor": "L2303",
+        "chapter": "XXV"
+      },
+      {
+        "anchor": "L2311",
+        "chapter": "XXV"
+      },
+      {
+        "anchor": "L2313",
+        "chapter": "XXV"
+      },
+      {
+        "anchor": "L2315",
+        "chapter": "XXV"
+      },
+      {
+        "anchor": "L2319",
+        "chapter": "XXV"
+      },
+      {
+        "anchor": "L2321",
+        "chapter": "XXV"
+      },
+      {
+        "anchor": "L2327",
+        "chapter": "XXV"
+      },
+      {
+        "anchor": "L2349",
+        "chapter": "XXV"
+      },
+      {
+        "anchor": "L2361",
+        "chapter": "XXV"
+      },
+      {
+        "anchor": "L2367",
+        "chapter": "XXV"
+      },
+      {
+        "anchor": "L2378",
+        "chapter": "XXVI"
+      },
+      {
+        "anchor": "L2382",
+        "chapter": "XXVI"
+      },
+      {
+        "anchor": "L2388",
+        "chapter": "XXVI"
+      },
+      {
+        "anchor": "L2394",
+        "chapter": "XXVI"
+      },
+      {
+        "anchor": "L2402",
+        "chapter": "XXVI"
+      },
+      {
+        "anchor": "L2404",
+        "chapter": "XXVI"
+      },
+      {
+        "anchor": "L2406",
+        "chapter": "XXVI"
+      },
+      {
+        "anchor": "L2408",
+        "chapter": "XXVI"
+      },
+      {
+        "anchor": "L2410",
+        "chapter": "XXVI"
+      },
+      {
+        "anchor": "L2412",
+        "chapter": "XXVI"
+      },
+      {
+        "anchor": "L2416",
+        "chapter": "XXVI"
+      }
+    ],
+    "identity_note": "",
+    "status": "not_searched"
+  },
+  {
+    "id": "procopius-usurper",
+    "name": "Procopius (usurper)",
+    "aliases": [
+      "Procopius"
+    ],
+    "source_mentions": [
+      {
+        "anchor": "L2270",
+        "chapter": "XXIV"
+      },
+      {
+        "anchor": "L2287",
+        "chapter": "XXV"
+      },
+      {
+        "anchor": "L2303",
+        "chapter": "XXV"
+      },
+      {
+        "anchor": "L2305",
+        "chapter": "XXV"
+      }
+    ],
+    "identity_note": "",
+    "status": "not_searched"
+  },
+  {
+    "id": "eudoxius-of-antioch",
+    "name": "Eudoxius of Antioch",
+    "aliases": [
+      "Eudoxus"
+    ],
+    "source_mentions": [
+      {
+        "anchor": "L2319",
+        "chapter": "XXV"
+      }
+    ],
+    "identity_note": "",
+    "status": "not_searched"
+  },
+  {
+    "id": "pope-damasus-i",
+    "name": "Pope Damasus I",
+    "aliases": [
+      "Damasus"
+    ],
+    "source_mentions": [
+      {
+        "anchor": "L2323",
+        "chapter": "XXV"
+      },
+      {
+        "anchor": "L2325",
+        "chapter": "XXV"
+      }
+    ],
+    "identity_note": "",
+    "status": "not_searched"
+  },
+  {
+    "id": "antipope-ursicinus",
+    "name": "Antipope Ursicinus",
+    "aliases": [
+      "Ursinus"
+    ],
+    "source_mentions": [
+      {
+        "anchor": "L2325",
+        "chapter": "XXV"
+      }
+    ],
+    "identity_note": "",
+    "status": "not_searched"
+  },
+  {
+    "id": "vettius-agorius-praetextatus",
+    "name": "Vettius Agorius Praetextatus",
+    "aliases": [
+      "Praetextatus"
+    ],
+    "source_mentions": [
+      {
+        "anchor": "L2325",
+        "chapter": "XXV"
+      }
+    ],
+    "identity_note": "",
+    "status": "not_searched"
+  },
+  {
+    "id": "viventius",
+    "name": "Viventius",
+    "aliases": [
+      "Juventius"
+    ],
+    "source_mentions": [
+      {
+        "anchor": "L2325",
+        "chapter": "XXV"
+      }
+    ],
+    "identity_note": "",
+    "status": "not_searched"
+  },
+  {
+    "id": "jerome",
+    "name": "Jerome",
+    "aliases": [
+      "Jerome"
+    ],
+    "source_mentions": [
+      {
+        "anchor": "L2323",
+        "chapter": "XXV"
+      },
+      {
+        "anchor": "L2408",
+        "chapter": "XXVI"
+      }
+    ],
+    "identity_note": "",
+    "status": "not_searched"
+  },
+  {
+    "id": "david-hume",
+    "name": "David Hume",
+    "aliases": [
+      "Hume"
+    ],
+    "source_mentions": [
+      {
+        "anchor": "L2331",
+        "chapter": "XXV"
+      }
+    ],
+    "identity_note": "",
+    "status": "not_searched"
+  },
+  {
+    "id": "count-theodosius",
+    "name": "Count Theodosius",
+    "aliases": [
+      "Theodosius"
+    ],
+    "source_mentions": [
+      {
+        "anchor": "L2333",
+        "chapter": "XXV"
+      }
+    ],
+    "identity_note": "",
+    "status": "not_searched"
+  },
+  {
+    "id": "theodosius-i",
+    "name": "Theodosius I",
+    "aliases": [
+      "Theodosius"
+    ],
+    "source_mentions": [
+      {
+        "anchor": "L2416",
+        "chapter": "XXVI"
+      }
+    ],
+    "identity_note": "",
+    "status": "not_searched"
+  },
+  {
+    "id": "romanus-comes-africae",
+    "name": "Romanus (comes Africae)",
+    "aliases": [
+      "Romanus",
+      "Count Romanus"
+    ],
+    "source_mentions": [
+      {
+        "anchor": "L2335",
+        "chapter": "XXV"
+      },
+      {
+        "anchor": "L2337",
+        "chapter": "XXV"
+      },
+      {
+        "anchor": "L2341",
+        "chapter": "XXV"
+      }
+    ],
+    "identity_note": "",
+    "status": "not_searched"
+  },
+  {
+    "id": "pap-of-armenia",
+    "name": "Pap of Armenia",
+    "aliases": [
+      "Para"
+    ],
+    "source_mentions": [
+      {
+        "anchor": "L2349",
+        "chapter": "XXV"
+      }
+    ],
+    "identity_note": "",
+    "status": "not_searched"
+  },
+  {
+    "id": "pharandzem",
+    "name": "Pharandzem",
+    "aliases": [
+      "Olympias"
+    ],
+    "source_mentions": [
+      {
+        "anchor": "L2349",
+        "chapter": "XXV"
+      }
+    ],
+    "identity_note": "Gibbon calls Pap's mother Olympias; modern identification is Pharandzem. Mark the discrepancy.",
+    "status": "not_searched"
+  },
+  {
+    "id": "traianus-magister-peditum",
+    "name": "Traianus (magister peditum)",
+    "aliases": [
+      "Count Trajan",
+      "Trajan"
+    ],
+    "source_mentions": [
+      {
+        "anchor": "L2349",
+        "chapter": "XXV"
+      },
+      {
+        "anchor": "L2404",
+        "chapter": "XXVI"
+      }
+    ],
+    "identity_note": "",
+    "status": "not_searched"
+  },
+  {
+    "id": "ermanaric",
+    "name": "Ermanaric",
+    "aliases": [
+      "Hermanric"
+    ],
+    "source_mentions": [
+      {
+        "anchor": "L2351",
+        "chapter": "XXV"
+      }
+    ],
+    "identity_note": "",
+    "status": "not_searched"
+  },
+  {
+    "id": "gratian",
+    "name": "Gratian",
+    "aliases": [
+      "Gratian"
+    ],
+    "source_mentions": [
+      {
+        "anchor": "L2367",
+        "chapter": "XXV"
+      },
+      {
+        "anchor": "L2402",
+        "chapter": "XXVI"
+      }
+    ],
+    "identity_note": "",
+    "status": "not_searched"
+  },
+  {
+    "id": "marina-severa",
+    "name": "Marina Severa",
+    "aliases": [
+      "Severa"
+    ],
+    "source_mentions": [
+      {
+        "anchor": "L2367",
+        "chapter": "XXV"
+      }
+    ],
+    "identity_note": "",
+    "status": "not_searched"
+  },
+  {
+    "id": "justina-empress",
+    "name": "Justina (empress)",
+    "aliases": [
+      "Justina"
+    ],
+    "source_mentions": [
+      {
+        "anchor": "L2367",
+        "chapter": "XXV"
+      }
+    ],
+    "identity_note": "",
+    "status": "not_searched"
+  },
+  {
+    "id": "valentinian-ii",
+    "name": "Valentinian II",
+    "aliases": [
+      "Valentinian"
+    ],
+    "source_mentions": [
+      {
+        "anchor": "L2367",
+        "chapter": "XXV"
+      }
+    ],
+    "identity_note": "Infant proclaimed emperor after Valentinian I.",
+    "status": "not_searched"
+  },
+  {
+    "id": "mellobaudes",
+    "name": "Mellobaudes",
+    "aliases": [
+      "Mellobaudes"
+    ],
+    "source_mentions": [
+      {
+        "anchor": "L2341",
+        "chapter": "XXV"
+      },
+      {
+        "anchor": "L2367",
+        "chapter": "XXV"
+      }
+    ],
+    "identity_note": "",
+    "status": "not_searched"
+  },
+  {
+    "id": "equitius",
+    "name": "Equitius",
+    "aliases": [
+      "Equitius"
+    ],
+    "source_mentions": [
+      {
+        "anchor": "L2367",
+        "chapter": "XXV"
+      }
+    ],
+    "identity_note": "",
+    "status": "not_searched"
+  },
+  {
+    "id": "zephaniah",
+    "name": "Zephaniah",
+    "aliases": [
+      "Zephaniah"
+    ],
+    "source_mentions": [
+      {
+        "anchor": "L2408",
+        "chapter": "XXVI"
+      }
+    ],
+    "identity_note": "",
+    "status": "not_searched"
+  },
+  {
+    "id": "victor-magister-equitum",
+    "name": "Victor (magister equitum)",
+    "aliases": [
+      "Victor"
+    ],
+    "source_mentions": [
+      {
+        "anchor": "L2404",
+        "chapter": "XXVI"
+      },
+      {
+        "anchor": "L2412",
+        "chapter": "XXVI"
+      }
+    ],
+    "identity_note": "",
+    "status": "not_searched"
+  },
+  {
+    "id": "richomeres",
+    "name": "Richomeres",
+    "aliases": [
+      "Richomer"
+    ],
+    "source_mentions": [
+      {
+        "anchor": "L2412",
+        "chapter": "XXVI"
+      }
+    ],
+    "identity_note": "",
+    "status": "not_searched"
+  },
+  {
+    "id": "edward-gibbon",
+    "name": "Edward Gibbon",
+    "aliases": [
+      "Gibbon"
+    ],
+    "source_mentions": [
+      {
+        "anchor": "L2325",
+        "chapter": "XXV"
+      }
+    ],
+    "identity_note": "Author named in editorial annotation.",
+    "status": "not_searched"
+  },
+  {
+    "id": "eutropius-historian",
+    "name": "Eutropius (historian)",
+    "aliases": [
+      "Eutropius"
+    ],
+    "source_mentions": [
+      {
+        "anchor": "L1406",
+        "chapter": "XIII"
+      }
+    ],
+    "identity_note": "",
+    "status": "not_searched"
+  },
+  {
+    "id": "lucian",
+    "name": "Lucian",
+    "aliases": [
+      "Lucian"
+    ],
+    "source_mentions": [
+      {
+        "anchor": "L605",
+        "chapter": "II"
+      },
+      {
+        "anchor": "L651",
+        "chapter": "II"
+      },
+      {
+        "anchor": "L1638",
+        "chapter": "XV"
+      },
+      {
+        "anchor": "L1685",
+        "chapter": "XVI"
+      }
+    ],
+    "identity_note": "Satirist; distinct from Diocletian's court eunuch.",
+    "status": "not_searched"
+  },
+  {
+    "id": "muhammad",
+    "name": "Muhammad",
+    "aliases": [
+      "Mohammed"
+    ],
+    "source_mentions": [
+      {
+        "anchor": "L1167",
+        "chapter": "X"
+      }
+    ],
+    "identity_note": "",
+    "status": "not_searched"
+  },
+  {
+    "id": "demosthenes",
+    "name": "Demosthenes",
+    "aliases": [
+      "Demosthenes"
+    ],
+    "source_mentions": [
+      {
+        "anchor": "L1221",
+        "chapter": "X"
+      },
+      {
+        "anchor": "L1799",
+        "chapter": "XVII"
+      },
+      {
+        "anchor": "L2215",
+        "chapter": "XXIII"
+      }
+    ],
+    "identity_note": "",
+    "status": "not_searched"
+  },
+  {
+    "id": "mithridates-vi-eupator",
+    "name": "Mithridates VI Eupator",
+    "aliases": [
+      "Mithridates"
+    ],
+    "source_mentions": [
+      {
+        "anchor": "L619",
+        "chapter": "II"
+      },
+      {
+        "anchor": "L678",
+        "chapter": "III"
+      },
+      {
+        "anchor": "L1061",
+        "chapter": "VIII"
+      },
+      {
+        "anchor": "L1169",
+        "chapter": "X"
+      }
+    ],
+    "identity_note": "",
+    "status": "not_searched"
+  },
+  {
+    "id": "mark-antony",
+    "name": "Mark Antony",
+    "aliases": [
+      "Antony"
+    ],
+    "source_mentions": [
+      {
+        "anchor": "L674",
+        "chapter": "III"
+      },
+      {
+        "anchor": "L1537",
+        "chapter": "XIV"
+      },
+      {
+        "anchor": "L2195",
+        "chapter": "XXIII"
+      }
+    ],
+    "identity_note": "",
+    "status": "not_searched"
+  },
+  {
+    "id": "marcus-junius-brutus",
+    "name": "Marcus Junius Brutus",
+    "aliases": [
+      "Brutus"
+    ],
+    "source_mentions": [
+      {
+        "anchor": "L704",
+        "chapter": "III"
+      },
+      {
+        "anchor": "L1819",
+        "chapter": "XVII"
+      },
+      {
+        "anchor": "L1827",
+        "chapter": "XVII"
+      }
+    ],
+    "identity_note": "",
+    "status": "not_searched"
+  },
+  {
+    "id": "socrates",
+    "name": "Socrates",
+    "aliases": [
+      "Socrates"
+    ],
+    "source_mentions": [
+      {
+        "anchor": "L1594",
+        "chapter": "XV"
+      },
+      {
+        "anchor": "L2254",
+        "chapter": "XXIV"
+      }
+    ],
+    "identity_note": "",
+    "status": "not_searched"
+  },
+  {
+    "id": "aaron",
+    "name": "Aaron",
+    "aliases": [
+      "Aaron"
+    ],
+    "source_mentions": [
+      {
+        "anchor": "L1590",
+        "chapter": "XV"
+      },
+      {
+        "anchor": "L1634",
+        "chapter": "XV"
+      }
+    ],
+    "identity_note": "",
+    "status": "not_searched"
+  },
+  {
+    "id": "minos",
+    "name": "Minos",
+    "aliases": [
+      "Minos"
+    ],
+    "source_mentions": [
+      {
+        "anchor": "L1594",
+        "chapter": "XV"
+      },
+      {
+        "anchor": "L1882",
+        "chapter": "XVIII"
+      }
+    ],
+    "identity_note": "Legendary king of Crete.",
+    "status": "not_searched"
+  },
+  {
+    "id": "ammianus-marcellinus",
+    "name": "Ammianus Marcellinus",
+    "aliases": [
+      "Ammianus",
+      "Ammianus Marcellinus"
+    ],
+    "source_mentions": [
+      {
+        "anchor": "L2109",
+        "chapter": "XXI"
+      },
+      {
+        "anchor": "L2123",
+        "chapter": "XXI"
+      },
+      {
+        "anchor": "L2185",
+        "chapter": "XXIII"
+      },
+      {
+        "anchor": "L2268",
+        "chapter": "XXIV"
+      },
+      {
+        "anchor": "L2325",
+        "chapter": "XXV"
+      },
+      {
+        "anchor": "L2343",
+        "chapter": "XXV"
+      },
+      {
+        "anchor": "L2416",
+        "chapter": "XXVI"
+      }
+    ],
+    "identity_note": "",
+    "status": "not_searched"
+  },
+  {
+    "id": "zosimus",
+    "name": "Zosimus",
+    "aliases": [
+      "Zosimus"
+    ],
+    "source_mentions": [
+      {
+        "anchor": "L1990",
+        "chapter": "XX"
+      },
+      {
+        "anchor": "L2020",
+        "chapter": "XX"
+      },
+      {
+        "anchor": "L2416",
+        "chapter": "XXVI"
+      }
+    ],
+    "identity_note": "",
+    "status": "not_searched"
+  },
+  {
+    "id": "anthony-the-great",
+    "name": "Anthony the Great",
+    "aliases": [
+      "Antony"
+    ],
+    "source_mentions": [
+      {
+        "anchor": "L2195",
+        "chapter": "XXIII"
+      }
+    ],
+    "identity_note": "",
+    "status": "not_searched"
+  },
+  {
+    "id": "lucius-junius-brutus",
+    "name": "Lucius Junius Brutus",
+    "aliases": [
+      "Brutus"
+    ],
+    "source_mentions": [
+      {
+        "anchor": "L1819",
+        "chapter": "XVII"
+      }
+    ],
+    "identity_note": "",
+    "status": "not_searched"
+  },
+  {
+    "id": "vindicius",
+    "name": "Vindicius",
+    "aliases": [
+      "Vindex"
+    ],
+    "source_mentions": [
+      {
+        "anchor": "L1819",
+        "chapter": "XVII"
+      }
+    ],
+    "identity_note": "Slave who disclosed the Tarquinian conspiracy; not the rebel Gaius Julius Vindex.",
+    "status": "not_searched"
+  },
+  {
+    "id": "marcellinus-magister-officiorum",
+    "name": "Marcellinus (magister officiorum)",
+    "aliases": [
+      "Marcellinus"
+    ],
+    "source_mentions": [
+      {
+        "anchor": "L1902",
+        "chapter": "XVIII"
+      },
+      {
+        "anchor": "L1912",
+        "chapter": "XVIII"
+      }
+    ],
+    "identity_note": "",
+    "status": "not_searched"
+  },
+  {
+    "id": "gaius-petronius-magnus",
+    "name": "Gaius Petronius Magnus",
+    "aliases": [
+      "Magnus"
+    ],
+    "source_mentions": [
+      {
+        "anchor": "L994",
+        "chapter": "VII"
+      }
+    ],
+    "identity_note": "",
+    "status": "not_searched"
+  },
+  {
+    "id": "pylades-dancer-under-didius-julianus",
+    "name": "Pylades (dancer under Didius Julianus)",
+    "aliases": [
+      "Pylades"
+    ],
+    "source_mentions": [
+      {
+        "anchor": "L828",
+        "chapter": "V"
+      }
+    ],
+    "identity_note": "Do not substitute the earlier Augustan dancer or mythological Pylades.",
+    "status": "not_searched"
+  },
+  {
+    "id": "paulus-gladiator",
+    "name": "Paulus (gladiator)",
+    "aliases": [
+      "Paulus"
+    ],
+    "source_mentions": [
+      {
+        "anchor": "L783",
+        "chapter": "IV"
+      }
+    ],
+    "identity_note": "No verified individual likeness located.",
+    "status": "not_searched"
+  },
+  {
+    "id": "anullinus-prefect-of-maximinus",
+    "name": "Anullinus (prefect of Maximinus)",
+    "aliases": [
+      "Anulinus"
+    ],
+    "source_mentions": [
+      {
+        "anchor": "L1024",
+        "chapter": "VII"
+      }
+    ],
+    "identity_note": "Identity must not be confused with the later prefect of Maxentius.",
+    "status": "not_searched"
+  },
+  {
+    "id": "anulinus-master-of-diocletian-s-parents",
+    "name": "Anulinus (master of Diocletian's parents)",
+    "aliases": [
+      "Anulinus"
+    ],
+    "source_mentions": [
+      {
+        "anchor": "L1400",
+        "chapter": "XIII"
+      }
+    ],
+    "identity_note": "Named in Gibbon's account; precise identification uncertain.",
+    "status": "not_searched"
+  },
+  {
+    "id": "anullinus-praetorian-prefect",
+    "name": "Anullinus (praetorian prefect)",
+    "aliases": [
+      "Anulinus"
+    ],
+    "source_mentions": [
+      {
+        "anchor": "L1489",
+        "chapter": "XIV"
+      }
+    ],
+    "identity_note": "",
+    "status": "not_searched"
+  },
+  {
+    "id": "cecrops-officer-of-gallienus",
+    "name": "Cecrops (officer of Gallienus)",
+    "aliases": [
+      "Cecrops"
+    ],
+    "source_mentions": [
+      {
+        "anchor": "L1254",
+        "chapter": "XI"
+      }
+    ],
+    "identity_note": "Not the legendary king of Athens.",
+    "status": "not_searched"
+  },
+  {
+    "id": "mucapor",
+    "name": "Mucapor",
+    "aliases": [
+      "Mucapor"
+    ],
+    "source_mentions": [
+      {
+        "anchor": "L1310",
+        "chapter": "XI"
+      }
+    ],
+    "identity_note": "",
+    "status": "not_searched"
+  },
+  {
+    "id": "mistrianus",
+    "name": "Mistrianus",
+    "aliases": [
+      "Mistrianus"
+    ],
+    "source_mentions": [
+      {
+        "anchor": "L1525",
+        "chapter": "XIV"
+      }
+    ],
+    "identity_note": "",
+    "status": "not_searched"
+  },
+  {
+    "id": "aspasius-paternus",
+    "name": "Aspasius Paternus",
+    "aliases": [
+      "Paternus"
+    ],
+    "source_mentions": [
+      {
+        "anchor": "L1719",
+        "chapter": "XVI"
+      }
+    ],
+    "identity_note": "",
+    "status": "not_searched"
+  },
+  {
+    "id": "galerius-maximus-proconsul",
+    "name": "Galerius Maximus (proconsul)",
+    "aliases": [
+      "Galerius Maximus"
+    ],
+    "source_mentions": [
+      {
+        "anchor": "L1721",
+        "chapter": "XVI"
+      }
+    ],
+    "identity_note": "",
+    "status": "not_searched"
+  },
+  {
+    "id": "dorotheus-of-nicomedia",
+    "name": "Dorotheus of Nicomedia",
+    "aliases": [
+      "Dorotheus"
+    ],
+    "source_mentions": [
+      {
+        "anchor": "L1739",
+        "chapter": "XVI"
+      }
+    ],
+    "identity_note": "",
+    "status": "not_searched"
+  },
+  {
+    "id": "lucian-eunuch-of-diocletian",
+    "name": "Lucian (eunuch of Diocletian)",
+    "aliases": [
+      "Lucian"
+    ],
+    "source_mentions": [
+      {
+        "anchor": "L1739",
+        "chapter": "XVI"
+      }
+    ],
+    "identity_note": "Not the satirist or Lucian of Antioch.",
+    "status": "not_searched"
+  },
+  {
+    "id": "andrew-eunuch-of-diocletian",
+    "name": "Andrew (eunuch of Diocletian)",
+    "aliases": [
+      "Andrew"
+    ],
+    "source_mentions": [
+      {
+        "anchor": "L1739",
+        "chapter": "XVI"
+      }
+    ],
+    "identity_note": "Not the apostle Andrew.",
+    "status": "not_searched"
+  },
+  {
+    "id": "paul-commissioner-in-africa",
+    "name": "Paul (commissioner in Africa)",
+    "aliases": [
+      "Paul"
+    ],
+    "source_mentions": [
+      {
+        "anchor": "L2119",
+        "chapter": "XXI"
+      }
+    ],
+    "identity_note": "Imperial commissioner under Constans; not a bishop or apostle.",
+    "status": "not_searched"
+  },
+  {
+    "id": "macarius-commissioner-in-africa",
+    "name": "Macarius (commissioner in Africa)",
+    "aliases": [
+      "Macarius"
+    ],
+    "source_mentions": [
+      {
+        "anchor": "L2119",
+        "chapter": "XXI"
+      }
+    ],
+    "identity_note": "Imperial commissioner under Constans; not Macarius the monk.",
+    "status": "not_searched"
+  },
+  {
+    "id": "bineses",
+    "name": "Bineses",
+    "aliases": [
+      "Bineses"
+    ],
+    "source_mentions": [
+      {
+        "anchor": "L2268",
+        "chapter": "XXIV"
+      }
+    ],
+    "identity_note": "",
+    "status": "not_searched"
+  },
+  {
+    "id": "surena-general-under-shapur-ii",
+    "name": "Surena (general under Shapur II)",
+    "aliases": [
+      "Surenas"
+    ],
+    "source_mentions": [
+      {
+        "anchor": "L2242",
+        "chapter": "XXIV"
+      }
+    ],
+    "identity_note": "Not the first-century BC general who defeated Crassus.",
+    "status": "not_searched"
+  },
+  {
+    "id": "syllanus-consul-in-gibbon",
+    "name": "Syllanus (consul in Gibbon)",
+    "aliases": [
+      "Syllanus"
+    ],
+    "source_mentions": [
+      {
+        "anchor": "L1004",
+        "chapter": "VII"
+      }
+    ],
+    "identity_note": "Identity uncertain; preserve Gibbon's name without assigning another Roman's portrait.",
+    "status": "not_searched"
+  },
+  {
+    "id": "rustan-persian-courtier",
+    "name": "Rustan (Persian courtier)",
+    "aliases": [
+      "Rustan"
+    ],
+    "source_mentions": [
+      {
+        "anchor": "L736",
+        "chapter": "III"
+      }
+    ],
+    "identity_note": "Courtier in the anecdote, not the legendary Rostam.",
+    "status": "not_searched"
+  },
+  {
+    "id": "perseus-of-macedon",
+    "name": "Perseus of Macedon",
+    "aliases": [
+      "Perseus"
+    ],
+    "source_mentions": [
+      {
+        "anchor": "L945",
+        "chapter": "VI"
+      }
+    ],
+    "identity_note": "King of Macedon, not the mythological hero.",
+    "status": "not_searched"
+  },
+  {
+    "id": "ajax-the-great",
+    "name": "Ajax the Great",
+    "aliases": [
+      "Ajax"
+    ],
+    "source_mentions": [
+      {
+        "anchor": "L986",
+        "chapter": "VII"
+      }
+    ],
+    "identity_note": "Legendary Greek hero; artistic representation, not a historical likeness.",
+    "status": "not_searched"
+  },
+  {
+    "id": "pelops",
+    "name": "Pelops",
+    "aliases": [
+      "Pelops"
+    ],
+    "source_mentions": [
+      {
+        "anchor": "L1874",
+        "chapter": "XVIII"
+      }
+    ],
+    "identity_note": "Legendary dynastic ancestor; artistic representation.",
+    "status": "not_searched"
+  },
+  {
+    "id": "cadmus",
+    "name": "Cadmus",
+    "aliases": [
+      "Cadmus"
+    ],
+    "source_mentions": [
+      {
+        "anchor": "L1874",
+        "chapter": "XVIII"
+      }
+    ],
+    "identity_note": "Legendary founder of Thebes; artistic representation.",
+    "status": "not_searched"
+  },
+  {
+    "id": "hippolytus-son-of-theseus",
+    "name": "Hippolytus (son of Theseus)",
+    "aliases": [
+      "Hippolytus"
+    ],
+    "source_mentions": [
+      {
+        "anchor": "L1882",
+        "chapter": "XVIII"
+      }
+    ],
+    "identity_note": "Greek mythological figure, not the Christian writer.",
+    "status": "not_searched"
+  },
+  {
+    "id": "phaedra-mythology",
+    "name": "Phaedra (mythology)",
+    "aliases": [
+      "Phaedra"
+    ],
+    "source_mentions": [
+      {
+        "anchor": "L1882",
+        "chapter": "XVIII"
+      }
+    ],
+    "identity_note": "Greek mythological figure; artistic representation.",
+    "status": "not_searched"
+  },
+  {
+    "id": "trajan-senator-in-238",
+    "name": "Trajan (senator in 238)",
+    "aliases": [
+      "Trajan"
+    ],
+    "source_mentions": [
+      {
+        "anchor": "L1012",
+        "chapter": "VII"
+      }
+    ],
+    "identity_note": "Senator who proposed Pupienus and Balbinus in Gibbon's account; not the emperor Trajan.",
+    "status": "not_searched"
+  }
+]

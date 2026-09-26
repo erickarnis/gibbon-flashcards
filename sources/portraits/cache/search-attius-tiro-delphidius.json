@@ -1,0 +1,205 @@
+{
+  "person_id": "attius-tiro-delphidius",
+  "query": "Attius Tiro Delphidius",
+  "response": {
+    "batchcomplete": true,
+    "query": {
+      "pages": [
+        {
+          "pageid": 95074048,
+          "ns": 6,
+          "title": "File:Geschichte der römischen Litteratur bis zum Gesetzgebungswerk des Kaisers Justinian (IA gri 33125001414651).pdf",
+          "index": 1,
+          "imagerepository": "local",
+          "imageinfo": [
+            {
+              "size": 47481452,
+              "width": 1041,
+              "height": 1560,
+              "pagecount": 600,
+              "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/cc/Geschichte_der_r%C3%B6mischen_Litteratur_bis_zum_Gesetzgebungswerk_des_Kaisers_Justinian_%28IA_gri_33125001414651%29.pdf/page1-500px-Geschichte_der_r%C3%B6mischen_Litteratur_bis_zum_Gesetzgebungswerk_des_Kaisers_Justinian_%28IA_gri_33125001414651%29.pdf.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+              "thumbwidth": 400,
+              "thumbheight": 599,
+              "responsiveUrls": {
+                "2": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/cc/Geschichte_der_r%C3%B6mischen_Litteratur_bis_zum_Gesetzgebungswerk_des_Kaisers_Justinian_%28IA_gri_33125001414651%29.pdf/page1-960px-Geschichte_der_r%C3%B6mischen_Litteratur_bis_zum_Gesetzgebungswerk_des_Kaisers_Justinian_%28IA_gri_33125001414651%29.pdf.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+              },
+              "thumbattribs": {
+                "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/cc/Geschichte_der_r%C3%B6mischen_Litteratur_bis_zum_Gesetzgebungswerk_des_Kaisers_Justinian_%28IA_gri_33125001414651%29.pdf/page1-500px-Geschichte_der_r%C3%B6mischen_Litteratur_bis_zum_Gesetzgebungswerk_des_Kaisers_Justinian_%28IA_gri_33125001414651%29.pdf.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+                "decoding": "async",
+                "loading": "lazy",
+                "width": 400,
+                "height": 599,
+                "srcset": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/cc/Geschichte_der_r%C3%B6mischen_Litteratur_bis_zum_Gesetzgebungswerk_des_Kaisers_Justinian_%28IA_gri_33125001414651%29.pdf/page1-960px-Geschichte_der_r%C3%B6mischen_Litteratur_bis_zum_Gesetzgebungswerk_des_Kaisers_Justinian_%28IA_gri_33125001414651%29.pdf.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail 2x"
+              },
+              "url": "https://upload.wikimedia.org/wikipedia/commons/c/cc/Geschichte_der_r%C3%B6mischen_Litteratur_bis_zum_Gesetzgebungswerk_des_Kaisers_Justinian_%28IA_gri_33125001414651%29.pdf?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+              "descriptionurl": "https://commons.wikimedia.org/wiki/File:Geschichte_der_r%C3%B6mischen_Litteratur_bis_zum_Gesetzgebungswerk_des_Kaisers_Justinian_(IA_gri_33125001414651).pdf",
+              "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=95074048",
+              "extmetadata": {
+                "DateTime": {
+                  "value": "2020-10-15 00:36:10",
+                  "source": "mediawiki-metadata",
+                  "hidden": ""
+                },
+                "ObjectName": {
+                  "value": "<div class=\"fn\">\nGeschichte der römischen Litteratur bis zum Gesetzgebungswerk des Kaisers Justinian</div>",
+                  "source": "commons-desc-page"
+                },
+                "CommonsMetadataExtension": {
+                  "value": 1.2,
+                  "source": "extension",
+                  "hidden": ""
+                },
+                "Categories": {
+                  "value": "Martin Schanz|Scans from the Internet Archive/unverified|PD US expired|Scans from the Internet Archive|Books uploaded by Fæ|Books without Wikidata item|Images from the Getty Research Institute|PD-US missing SDC copyright status",
+                  "source": "commons-categories",
+                  "hidden": ""
+                },
+                "Assessments": {
+                  "value": "",
+                  "source": "commons-categories",
+                  "hidden": ""
+                },
+                "Artist": {
+                  "value": "<div class=\"fn value\">\nSchanz, Martin, 1842-1914</div>",
+                  "source": "commons-desc-page"
+                },
+                "ImageDescription": {
+                  "value": "<div class=\"description\">\n<dl><dd>Includes bibliographical references and indexes</dd>\n<dd>1. T. Die römische Litteratur in der Zeit der Republik -- 2. T. Die römische Litteratur in der Zeit der Monarchie bis auf Hadrian. 1. Hälfte. Die augustische Zeit. 2. Hälfte. Vom Tode des Augustus bis zur Regierung Hadrians -- 4. T. Die römische Litteratur von Constantin bis zum Gesetzgebungswerk Justinians. 1. Hälfte. Die Litteratur des vierten Jahrhunderts</dd></dl>\n<br>Subjects: Latin literature</div>",
+                  "source": "commons-desc-page"
+                },
+                "Credit": {
+                  "value": "<dl><dd><a href=\"//archive.org/details/gri_33125001414651\" class=\"extiw\" title=\"iarchive:gri 33125001414651\"><bdi class=\"description en\" lang=\"en\" dir=\"ltr\">Internet Archive identifier</bdi>: gri_33125001414651</a></dd>\n<dd><a rel=\"nofollow\" class=\"external free\" href=\"https://archive.org/download/gri_33125001414651/gri_33125001414651.pdf\">https://archive.org/download/gri_33125001414651/gri_33125001414651.pdf</a></dd></dl>",
+                  "source": "commons-desc-page"
+                },
+                "LicenseShortName": {
+                  "value": "Public domain",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "UsageTerms": {
+                  "value": "Public domain",
+                  "source": "commons-desc-page"
+                },
+                "AttributionRequired": {
+                  "value": "false",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "Copyrighted": {
+                  "value": "False",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "Restrictions": {
+                  "value": "",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "License": {
+                  "value": "pd",
+                  "source": "commons-templates",
+                  "hidden": ""
+                }
+              }
+            }
+          ]
+        },
+        {
+          "pageid": 95446879,
+          "ns": 6,
+          "title": "File:Musee Pie-Clementin (IA museepieclementi01visc).pdf",
+          "index": 2,
+          "imagerepository": "local",
+          "imageinfo": [
+            {
+              "size": 46749035,
+              "width": 875,
+              "height": 1322,
+              "pagecount": 504,
+              "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8e/Musee_Pie-Clementin_%28IA_museepieclementi01visc%29.pdf/page1-500px-Musee_Pie-Clementin_%28IA_museepieclementi01visc%29.pdf.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+              "thumbwidth": 400,
+              "thumbheight": 604,
+              "thumbattribs": {
+                "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8e/Musee_Pie-Clementin_%28IA_museepieclementi01visc%29.pdf/page1-500px-Musee_Pie-Clementin_%28IA_museepieclementi01visc%29.pdf.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+                "decoding": "async",
+                "loading": "lazy",
+                "width": 400,
+                "height": 604
+              },
+              "url": "https://upload.wikimedia.org/wikipedia/commons/8/8e/Musee_Pie-Clementin_%28IA_museepieclementi01visc%29.pdf?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+              "descriptionurl": "https://commons.wikimedia.org/wiki/File:Musee_Pie-Clementin_(IA_museepieclementi01visc).pdf",
+              "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=95446879",
+              "extmetadata": {
+                "DateTime": {
+                  "value": "2020-10-25 12:55:05",
+                  "source": "mediawiki-metadata",
+                  "hidden": ""
+                },
+                "ObjectName": {
+                  "value": "<div class=\"fn\">\nMusee Pie-Clementin</div>",
+                  "source": "commons-desc-page"
+                },
+                "CommonsMetadataExtension": {
+                  "value": 1.2,
+                  "source": "extension",
+                  "hidden": ""
+                },
+                "Categories": {
+                  "value": "Scans from the Internet Archive/unverified|PD US expired|Scans from the Internet Archive|Books uploaded by Fæ|Books without Wikidata item|Images from the Getty Research Institute",
+                  "source": "commons-categories",
+                  "hidden": ""
+                },
+                "Assessments": {
+                  "value": "",
+                  "source": "commons-categories",
+                  "hidden": ""
+                },
+                "Artist": {
+                  "value": "<div class=\"fn value\">\nVisconti, Ennio Quirino, 1751-1818</div>",
+                  "source": "commons-desc-page"
+                },
+                "ImageDescription": {
+                  "value": "<div class=\"description\">\n<dl><dd>Vol. 1 includes biography of Ennio Quirino Visconti</dd>\n<dd>The plates, many folded, are engraved, vol. 1 includes engraved frontispiece portrait of Ennio Quirino Visconti</dd>\n<dd>Includes bibliographical references</dd></dl>\n<br>Subjects: Visconti, Ennio Quirino, 1751-1818; Museo Pio-Clementino (Vatican City); Sculpture; Sculpture, Greco-Roman; Scholars</div>",
+                  "source": "commons-desc-page"
+                },
+                "Credit": {
+                  "value": "<dl><dd><a href=\"//archive.org/details/museepieclementi01visc\" class=\"extiw\" title=\"iarchive:museepieclementi01visc\"><bdi class=\"description en\" lang=\"en\" dir=\"ltr\">Internet Archive identifier</bdi>: museepieclementi01visc</a></dd>\n<dd><a rel=\"nofollow\" class=\"external free\" href=\"https://archive.org/download/museepieclementi01visc/museepieclementi01visc.pdf\">https://archive.org/download/museepieclementi01visc/museepieclementi01visc.pdf</a></dd></dl>",
+                  "source": "commons-desc-page"
+                },
+                "LicenseShortName": {
+                  "value": "Public domain",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "UsageTerms": {
+                  "value": "Public domain",
+                  "source": "commons-desc-page"
+                },
+                "AttributionRequired": {
+                  "value": "false",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "Copyrighted": {
+                  "value": "False",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "Restrictions": {
+                  "value": "",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "License": {
+                  "value": "pd",
+                  "source": "commons-templates",
+                  "hidden": ""
+                }
+              }
+            }
+          ]
+        }
+      ]
+    }
+  }
+}

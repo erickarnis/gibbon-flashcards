@@ -1,0 +1,569 @@
+{
+  "person_id": "ablabius-consul",
+  "query": "Ablabius (consul)",
+  "response": {
+    "batchcomplete": true,
+    "continue": {
+      "gsroffset": 5,
+      "continue": "gsroffset||"
+    },
+    "query": {
+      "pages": [
+        {
+          "pageid": 12193724,
+          "ns": 6,
+          "title": "File:CONSTANTINUS I RIC VII 48-651049.jpg",
+          "index": 2,
+          "imagerepository": "local",
+          "imageinfo": [
+            {
+              "size": 42899,
+              "width": 325,
+              "height": 159,
+              "thumburl": "https://upload.wikimedia.org/wikipedia/commons/4/4e/CONSTANTINUS_I_RIC_VII_48-651049.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+              "thumbwidth": 400,
+              "thumbheight": 196,
+              "thumbattribs": {
+                "src": "https://upload.wikimedia.org/wikipedia/commons/4/4e/CONSTANTINUS_I_RIC_VII_48-651049.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+                "decoding": "async",
+                "loading": "lazy",
+                "width": 400,
+                "height": 196
+              },
+              "url": "https://upload.wikimedia.org/wikipedia/commons/4/4e/CONSTANTINUS_I_RIC_VII_48-651049.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+              "descriptionurl": "https://commons.wikimedia.org/wiki/File:CONSTANTINUS_I_RIC_VII_48-651049.jpg",
+              "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=12193724",
+              "extmetadata": {
+                "DateTime": {
+                  "value": "2010-12-01 14:35:39",
+                  "source": "mediawiki-metadata",
+                  "hidden": ""
+                },
+                "ObjectName": {
+                  "value": "CONSTANTINUS I RIC VII 48-651049",
+                  "source": "mediawiki-metadata"
+                },
+                "CommonsMetadataExtension": {
+                  "value": 1.2,
+                  "source": "extension",
+                  "hidden": ""
+                },
+                "Categories": {
+                  "value": "GFDL|License migration not eligible|Coins of Antioch|Self-published work|CNG coins|Items with VRTS permission confirmed|324 coins|Coins on white background|Weapons on coins|Horsemen on Roman coins|Solidi of Constantinus I Magnus",
+                  "source": "commons-categories",
+                  "hidden": ""
+                },
+                "Assessments": {
+                  "value": "",
+                  "source": "commons-categories",
+                  "hidden": ""
+                },
+                "ImageDescription": {
+                  "value": "CONSTANTINE I. 307-337 AD. \n<dl><dd>AV Solidus (4.52 gm). Antioch mint. Struck 324-325 AD.\n<dl><dd><dl><dd>CONSTANT-INVS P F AVG, laureate head right</dd>\n<dd>AOVENTVS (sic) AVGVSTI N, Constantine on horseback left, raising right hand and holding spear; SMAN.</dd></dl></dd></dl></dd>\n<dd>RIC VII 48 var. (reverse legend, star on reverse); Alföldi 5 var. (same); Depeyrot 41/1 var. (same).</dd>\n<dd>EF. Unpublished variety.</dd>\n<dd>Following the defeat of Licinius in mid 324 AD, Constantine increased production in the eastern mints in order to pay the costs of his increased spending. The rapid increase in coinage resulted in frequent mintmark and reverse legend variations.</dd></dl>",
+                  "source": "commons-desc-page"
+                },
+                "DateTimeOriginal": {
+                  "value": "1 December 2010 (upload date)",
+                  "source": "commons-desc-page"
+                },
+                "Credit": {
+                  "value": "<a rel=\"nofollow\" class=\"external free\" href=\"http://www.cngcoins.com/Coin.aspx?CoinID=43858\">http://www.cngcoins.com/Coin.aspx?CoinID=43858</a>",
+                  "source": "commons-desc-page"
+                },
+                "Artist": {
+                  "value": "CNG",
+                  "source": "commons-desc-page"
+                },
+                "Permission": {
+                  "value": "You may select the license of your choice.",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "LicenseShortName": {
+                  "value": "CC BY-SA 2.5",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "UsageTerms": {
+                  "value": "Creative Commons Attribution-Share Alike 2.5",
+                  "source": "commons-desc-page"
+                },
+                "AttributionRequired": {
+                  "value": "true",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "Attribution": {
+                  "value": "Classical Numismatic Group, Inc. <a rel=\"nofollow\" class=\"external free\" href=\"http://www.cngcoins.com\">http://www.cngcoins.com</a>",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "LicenseUrl": {
+                  "value": "https://creativecommons.org/licenses/by-sa/2.5",
+                  "source": "commons-desc-page"
+                },
+                "Copyrighted": {
+                  "value": "True",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "Restrictions": {
+                  "value": "",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "License": {
+                  "value": "cc-by-sa-2.5",
+                  "source": "commons-templates",
+                  "hidden": ""
+                }
+              }
+            }
+          ]
+        },
+        {
+          "pageid": 120651932,
+          "ns": 6,
+          "title": "File:Close Up 8 Saint Nicholas (Poulakis).png",
+          "index": 3,
+          "imagerepository": "local",
+          "imageinfo": [
+            {
+              "size": 760112,
+              "width": 644,
+              "height": 665,
+              "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2c/Close_Up_8_Saint_Nicholas_%28Poulakis%29.png/500px-Close_Up_8_Saint_Nicholas_%28Poulakis%29.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+              "thumbwidth": 400,
+              "thumbheight": 413,
+              "responsiveUrls": {
+                "2": "https://upload.wikimedia.org/wikipedia/commons/2/2c/Close_Up_8_Saint_Nicholas_%28Poulakis%29.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled"
+              },
+              "thumbattribs": {
+                "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2c/Close_Up_8_Saint_Nicholas_%28Poulakis%29.png/500px-Close_Up_8_Saint_Nicholas_%28Poulakis%29.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+                "decoding": "async",
+                "loading": "lazy",
+                "width": 400,
+                "height": 413,
+                "srcset": "https://upload.wikimedia.org/wikipedia/commons/2/2c/Close_Up_8_Saint_Nicholas_%28Poulakis%29.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled 2x"
+              },
+              "url": "https://upload.wikimedia.org/wikipedia/commons/2/2c/Close_Up_8_Saint_Nicholas_%28Poulakis%29.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+              "descriptionurl": "https://commons.wikimedia.org/wiki/File:Close_Up_8_Saint_Nicholas_(Poulakis).png",
+              "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=120651932",
+              "extmetadata": {
+                "DateTime": {
+                  "value": "2022-07-18 11:38:41",
+                  "source": "mediawiki-metadata",
+                  "hidden": ""
+                },
+                "ObjectName": {
+                  "value": "<div class=\"fn\">\n<div style=\"font-size:0.9em;display:inline-block;\">American English:  <div style=\"display:inline-block\" dir=\"ltr\" lang=\"en-us\"><i>Saint Nicholas <span class=\"mw-valign-text-top noprint\" typeof=\"mw:File/Frameless\"><a href=\"https://www.wikidata.org/wiki/Q113045869#P1476\" title=\"Edit this at Wikidata\"><img alt=\"Edit this at Wikidata\" src=\"https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8a/OOjs_UI_icon_edit-ltr-progressive.svg/20px-OOjs_UI_icon_edit-ltr-progressive.svg.png?utm_source=commons.wikimedia.org&amp;utm_campaign=parser&amp;utm_content=thumbnail\" decoding=\"async\" loading=\"lazy\" width=\"10\" height=\"10\" class=\"mw-file-element\" data-file-width=\"20\" data-file-height=\"20\"></a></span></i></div></div><br><div style=\"font-weight:bold;display:inline-block;\"><div style=\"display:inline-block\" dir=\"ltr\" lang=\"en\"><i>Saint Nicholas (Poulakis)</i></div></div><div style=\"display: none;\">title QS:P1476,en-us:\"Saint Nicholas <span class=\"mw-valign-text-top noprint\" typeof=\"mw:File/Frameless\"><a href=\"https://www.wikidata.org/wiki/Q113045869#P1476\" title=\"Edit this at Wikidata\"><img alt=\"Edit this at Wikidata\" src=\"https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8a/OOjs_UI_icon_edit-ltr-progressive.svg/20px-OOjs_UI_icon_edit-ltr-progressive.svg.png?utm_source=commons.wikimedia.org&amp;utm_campaign=parser&amp;utm_content=thumbnail\" decoding=\"async\" loading=\"lazy\" width=\"10\" height=\"10\" class=\"mw-file-element\" data-file-width=\"20\" data-file-height=\"20\"></a></span>\"</div><div style=\"display: none;\">label QS:Len-us,\"Saint Nicholas <span class=\"mw-valign-text-top noprint\" typeof=\"mw:File/Frameless\"><a href=\"https://www.wikidata.org/wiki/Q113045869#P1476\" title=\"Edit this at Wikidata\"><img alt=\"Edit this at Wikidata\" src=\"https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8a/OOjs_UI_icon_edit-ltr-progressive.svg/20px-OOjs_UI_icon_edit-ltr-progressive.svg.png?utm_source=commons.wikimedia.org&amp;utm_campaign=parser&amp;utm_content=thumbnail\" decoding=\"async\" loading=\"lazy\" width=\"10\" height=\"10\" class=\"mw-file-element\" data-file-width=\"20\" data-file-height=\"20\"></a></span>\"</div><div style=\"display: none;\">label QS:Len,\"Saint Nicholas (Poulakis)\"</div></div>",
+                  "source": "commons-desc-page"
+                },
+                "CommonsMetadataExtension": {
+                  "value": 1.2,
+                  "source": "extension",
+                  "hidden": ""
+                },
+                "Categories": {
+                  "value": "Saint Nicholas (Poulakis)|Files with no machine-readable source|PD-old-100-expired|PD-Art (PD-old-100-expired)|Artworks with Wikidata item|Artworks with known accession number|CC-PD-Mark|Artworks with accession number from Wikidata|Institution templates with redirected Wikidata link|Artworks digital representation of 2D work",
+                  "source": "commons-categories",
+                  "hidden": ""
+                },
+                "Assessments": {
+                  "value": "",
+                  "source": "commons-categories",
+                  "hidden": ""
+                },
+                "Artist": {
+                  "value": "<bdi><a href=\"https://en.wikipedia.org/wiki/en:Theodore_Poulakis\" class=\"extiw\" title=\"w:en:Theodore Poulakis\"><span title=\"Greek artist (1622-1692)\">Theodore Poulakis</span></a></bdi>",
+                  "source": "commons-desc-page"
+                },
+                "ImageDescription": {
+                  "value": "<div class=\"description\">\nSaint Nicholas appeared to Constantine and Ablabius in dreams, informing Constantine of the truth and frightening Ablabius into releasing the generals, for fear of Hell.</div>",
+                  "source": "commons-desc-page"
+                },
+                "DateTimeOriginal": {
+                  "value": "between 1650 and 1692<div style=\"display: none;\">date QS:P,+1650-00-00T00:00:00Z/7,P1319,+1650-00-00T00:00:00Z/9,P1326,+1692-00-00T00:00:00Z/9</div> <span class=\"mw-valign-text-top noprint\" typeof=\"mw:File/Frameless\"><a href=\"https://www.wikidata.org/wiki/Q113045869#P571\" title=\"Edit this at Wikidata\"><img alt=\"Edit this at Wikidata\" src=\"https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8a/OOjs_UI_icon_edit-ltr-progressive.svg/20px-OOjs_UI_icon_edit-ltr-progressive.svg.png?utm_source=commons.wikimedia.org&amp;utm_campaign=parser&amp;utm_content=thumbnail\" decoding=\"async\" loading=\"lazy\" width=\"10\" height=\"10\" class=\"mw-file-element\" data-file-width=\"20\" data-file-height=\"20\"></a></span>",
+                  "source": "commons-desc-page"
+                },
+                "LicenseShortName": {
+                  "value": "Public domain",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "UsageTerms": {
+                  "value": "Public domain",
+                  "source": "commons-desc-page"
+                },
+                "AttributionRequired": {
+                  "value": "false",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "Copyrighted": {
+                  "value": "False",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "Restrictions": {
+                  "value": "",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "License": {
+                  "value": "pd",
+                  "source": "commons-templates",
+                  "hidden": ""
+                }
+              }
+            }
+          ]
+        },
+        {
+          "pageid": 122722962,
+          "ns": 6,
+          "title": "File:Myra Saint Nicholas church in 2012 5478.jpg",
+          "index": 5,
+          "imagerepository": "local",
+          "imageinfo": [
+            {
+              "size": 9527612,
+              "width": 4256,
+              "height": 2832,
+              "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/99/Myra_Saint_Nicholas_church_in_2012_5478.jpg/500px-Myra_Saint_Nicholas_church_in_2012_5478.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+              "thumbwidth": 400,
+              "thumbheight": 266,
+              "responsiveUrls": {
+                "2": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/99/Myra_Saint_Nicholas_church_in_2012_5478.jpg/960px-Myra_Saint_Nicholas_church_in_2012_5478.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+              },
+              "thumbattribs": {
+                "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/99/Myra_Saint_Nicholas_church_in_2012_5478.jpg/500px-Myra_Saint_Nicholas_church_in_2012_5478.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+                "decoding": "async",
+                "loading": "lazy",
+                "width": 400,
+                "height": 266,
+                "srcset": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/99/Myra_Saint_Nicholas_church_in_2012_5478.jpg/960px-Myra_Saint_Nicholas_church_in_2012_5478.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail 2x"
+              },
+              "url": "https://upload.wikimedia.org/wikipedia/commons/9/99/Myra_Saint_Nicholas_church_in_2012_5478.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+              "descriptionurl": "https://commons.wikimedia.org/wiki/File:Myra_Saint_Nicholas_church_in_2012_5478.jpg",
+              "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=122722962",
+              "extmetadata": {
+                "DateTime": {
+                  "value": "2022-09-06 13:58:54",
+                  "source": "mediawiki-metadata",
+                  "hidden": ""
+                },
+                "ObjectName": {
+                  "value": "Myra Saint Nicholas church in 2012 5478",
+                  "source": "mediawiki-metadata"
+                },
+                "CommonsMetadataExtension": {
+                  "value": 1.2,
+                  "source": "extension",
+                  "hidden": ""
+                },
+                "Categories": {
+                  "value": "Self-published work|Files with coordinates missing SDC location of creation|St. Nicholas scenes above Resurrection",
+                  "source": "commons-categories",
+                  "hidden": ""
+                },
+                "Assessments": {
+                  "value": "",
+                  "source": "commons-categories",
+                  "hidden": ""
+                },
+                "GPSLatitude": {
+                  "value": "36.244698",
+                  "source": "commons-desc-page"
+                },
+                "GPSLongitude": {
+                  "value": "29.985320",
+                  "source": "commons-desc-page"
+                },
+                "GPSMapDatum": {
+                  "value": "WGS-84",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "ImageDescription": {
+                  "value": "Above a Resurrection in a niche with adoring angels to either side there are scenes of St. Nicholas. He appears to the Emperor Constantine and Governor Ablabius.",
+                  "source": "commons-desc-page"
+                },
+                "DateTimeOriginal": {
+                  "value": "2011-03-28 11:16:26",
+                  "source": "commons-desc-page"
+                },
+                "Credit": {
+                  "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+                  "source": "commons-desc-page"
+                },
+                "Artist": {
+                  "value": "<a href=\"//commons.wikimedia.org/wiki/User:Dosseman\" title=\"User:Dosseman\">Dosseman</a>",
+                  "source": "commons-desc-page"
+                },
+                "LicenseShortName": {
+                  "value": "CC BY-SA 4.0",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "UsageTerms": {
+                  "value": "Creative Commons Attribution-Share Alike 4.0",
+                  "source": "commons-desc-page"
+                },
+                "AttributionRequired": {
+                  "value": "true",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "LicenseUrl": {
+                  "value": "https://creativecommons.org/licenses/by-sa/4.0",
+                  "source": "commons-desc-page"
+                },
+                "Copyrighted": {
+                  "value": "True",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "Restrictions": {
+                  "value": "",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "License": {
+                  "value": "cc-by-sa-4.0",
+                  "source": "commons-templates",
+                  "hidden": ""
+                }
+              }
+            }
+          ]
+        },
+        {
+          "pageid": 122723000,
+          "ns": 6,
+          "title": "File:Myra Saint Nicholas church in 2012 5478b.jpg",
+          "index": 4,
+          "imagerepository": "local",
+          "imageinfo": [
+            {
+              "size": 11174049,
+              "width": 4256,
+              "height": 2832,
+              "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/88/Myra_Saint_Nicholas_church_in_2012_5478b.jpg/500px-Myra_Saint_Nicholas_church_in_2012_5478b.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+              "thumbwidth": 400,
+              "thumbheight": 266,
+              "responsiveUrls": {
+                "2": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/88/Myra_Saint_Nicholas_church_in_2012_5478b.jpg/960px-Myra_Saint_Nicholas_church_in_2012_5478b.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+              },
+              "thumbattribs": {
+                "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/88/Myra_Saint_Nicholas_church_in_2012_5478b.jpg/500px-Myra_Saint_Nicholas_church_in_2012_5478b.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+                "decoding": "async",
+                "loading": "lazy",
+                "width": 400,
+                "height": 266,
+                "srcset": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/88/Myra_Saint_Nicholas_church_in_2012_5478b.jpg/960px-Myra_Saint_Nicholas_church_in_2012_5478b.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail 2x"
+              },
+              "url": "https://upload.wikimedia.org/wikipedia/commons/8/88/Myra_Saint_Nicholas_church_in_2012_5478b.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+              "descriptionurl": "https://commons.wikimedia.org/wiki/File:Myra_Saint_Nicholas_church_in_2012_5478b.jpg",
+              "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=122723000",
+              "extmetadata": {
+                "DateTime": {
+                  "value": "2022-09-06 14:00:03",
+                  "source": "mediawiki-metadata",
+                  "hidden": ""
+                },
+                "ObjectName": {
+                  "value": "Myra Saint Nicholas church in 2012 5478b",
+                  "source": "mediawiki-metadata"
+                },
+                "CommonsMetadataExtension": {
+                  "value": 1.2,
+                  "source": "extension",
+                  "hidden": ""
+                },
+                "Categories": {
+                  "value": "Self-published work|Files with coordinates missing SDC location of creation|St. Nicholas scenes above Resurrection",
+                  "source": "commons-categories",
+                  "hidden": ""
+                },
+                "Assessments": {
+                  "value": "",
+                  "source": "commons-categories",
+                  "hidden": ""
+                },
+                "GPSLatitude": {
+                  "value": "36.244698",
+                  "source": "commons-desc-page"
+                },
+                "GPSLongitude": {
+                  "value": "29.985320",
+                  "source": "commons-desc-page"
+                },
+                "GPSMapDatum": {
+                  "value": "WGS-84",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "ImageDescription": {
+                  "value": "Above a Resurrection in a niche with adoring angels to either side there are scenes of St. Nicholas. He appears to the Emperor Constantine and Governor Ablabius.",
+                  "source": "commons-desc-page"
+                },
+                "DateTimeOriginal": {
+                  "value": "2011-03-28 11:16:26",
+                  "source": "commons-desc-page"
+                },
+                "Credit": {
+                  "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+                  "source": "commons-desc-page"
+                },
+                "Artist": {
+                  "value": "<a href=\"//commons.wikimedia.org/wiki/User:Dosseman\" title=\"User:Dosseman\">Dosseman</a>",
+                  "source": "commons-desc-page"
+                },
+                "LicenseShortName": {
+                  "value": "CC BY-SA 4.0",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "UsageTerms": {
+                  "value": "Creative Commons Attribution-Share Alike 4.0",
+                  "source": "commons-desc-page"
+                },
+                "AttributionRequired": {
+                  "value": "true",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "LicenseUrl": {
+                  "value": "https://creativecommons.org/licenses/by-sa/4.0",
+                  "source": "commons-desc-page"
+                },
+                "Copyrighted": {
+                  "value": "True",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "Restrictions": {
+                  "value": "",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "License": {
+                  "value": "cc-by-sa-4.0",
+                  "source": "commons-templates",
+                  "hidden": ""
+                }
+              }
+            }
+          ]
+        },
+        {
+          "pageid": 150636223,
+          "ns": 6,
+          "title": "File:Karel VI, koning van Frankrijk, vat vlam op een gemaskerd feest, Ablabius op last van Constantijn de Grote vermoord, RP-P-1896-A-19368-525.jpg",
+          "index": 1,
+          "imagerepository": "local",
+          "imageinfo": [
+            {
+              "size": 3070786,
+              "width": 2876,
+              "height": 4872,
+              "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f3/Karel_VI%2C_koning_van_Frankrijk%2C_vat_vlam_op_een_gemaskerd_feest%2C_Ablabius_op_last_van_Constantijn_de_Grote_vermoord%2C_RP-P-1896-A-19368-525.jpg/500px-Karel_VI%2C_koning_van_Frankrijk%2C_vat_vlam_op_een_gemaskerd_feest%2C_Ablabius_op_last_van_Constantijn_de_Grote_vermoord%2C_RP-P-1896-A-19368-525.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+              "thumbwidth": 400,
+              "thumbheight": 678,
+              "responsiveUrls": {
+                "2": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f3/Karel_VI%2C_koning_van_Frankrijk%2C_vat_vlam_op_een_gemaskerd_feest%2C_Ablabius_op_last_van_Constantijn_de_Grote_vermoord%2C_RP-P-1896-A-19368-525.jpg/960px-Karel_VI%2C_koning_van_Frankrijk%2C_vat_vlam_op_een_gemaskerd_feest%2C_Ablabius_op_last_van_Constantijn_de_Grote_vermoord%2C_RP-P-1896-A-19368-525.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+              },
+              "thumbattribs": {
+                "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f3/Karel_VI%2C_koning_van_Frankrijk%2C_vat_vlam_op_een_gemaskerd_feest%2C_Ablabius_op_last_van_Constantijn_de_Grote_vermoord%2C_RP-P-1896-A-19368-525.jpg/500px-Karel_VI%2C_koning_van_Frankrijk%2C_vat_vlam_op_een_gemaskerd_feest%2C_Ablabius_op_last_van_Constantijn_de_Grote_vermoord%2C_RP-P-1896-A-19368-525.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+                "decoding": "async",
+                "loading": "lazy",
+                "width": 400,
+                "height": 678,
+                "srcset": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f3/Karel_VI%2C_koning_van_Frankrijk%2C_vat_vlam_op_een_gemaskerd_feest%2C_Ablabius_op_last_van_Constantijn_de_Grote_vermoord%2C_RP-P-1896-A-19368-525.jpg/960px-Karel_VI%2C_koning_van_Frankrijk%2C_vat_vlam_op_een_gemaskerd_feest%2C_Ablabius_op_last_van_Constantijn_de_Grote_vermoord%2C_RP-P-1896-A-19368-525.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail 2x"
+              },
+              "url": "https://upload.wikimedia.org/wikipedia/commons/f/f3/Karel_VI%2C_koning_van_Frankrijk%2C_vat_vlam_op_een_gemaskerd_feest%2C_Ablabius_op_last_van_Constantijn_de_Grote_vermoord%2C_RP-P-1896-A-19368-525.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+              "descriptionurl": "https://commons.wikimedia.org/wiki/File:Karel_VI,_koning_van_Frankrijk,_vat_vlam_op_een_gemaskerd_feest,_Ablabius_op_last_van_Constantijn_de_Grote_vermoord,_RP-P-1896-A-19368-525.jpg",
+              "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=150636223",
+              "extmetadata": {
+                "DateTime": {
+                  "value": "2024-07-22 19:55:56",
+                  "source": "mediawiki-metadata",
+                  "hidden": ""
+                },
+                "ObjectName": {
+                  "value": "Karel VI, koning van Frankrijk, vat vlam op een gemaskerd feest, Ablabius op last van Constantijn de Grote vermoord, RP-P-1896-A-19368-525",
+                  "source": "mediawiki-metadata"
+                },
+                "CommonsMetadataExtension": {
+                  "value": 1.2,
+                  "source": "extension",
+                  "hidden": ""
+                },
+                "Categories": {
+                  "value": "CC-Zero|Prints by Jan Luyken in the Rijksmuseum Amsterdam",
+                  "source": "commons-categories",
+                  "hidden": ""
+                },
+                "Assessments": {
+                  "value": "",
+                  "source": "commons-categories",
+                  "hidden": ""
+                },
+                "ImageDescription": {
+                  "value": "<br><br><big><b>Identificatie</b></big><br><b>Titel(s):</b> Karel VI, koning van Frankrijk, vat vlam op een gemaskerd feest / Ablabius op last van Constantijn de Grote vermoord<br><b>Objecttype:</b> prent boekillustratie <br><b>Objectnummer:</b> RP-P-1896-A-19368-525<br><b>Catalogusreferentie:</b> Van Eeghen 817 <br><b>Opschriften / Merken:</b> verzamelaarsmerk, verso, gestempeld: Lugt 2228 <br><b>Omschrijving:</b> Prent rechtsboven gemerkt: Fol: 30. Cartouche middenonder gemerkt: Fol: 60.<br><br><big><b>Vervaardiging</b></big><br><b>Vervaardiger:</b> prentmaker: Jan Luyken, uitgever: Johannes Boekholt <br><b>Plaats vervaardiging:</b> Amsterdam<br><b>Datering:</b> 1687<br><br><big><b>Materiaal en Techniek</b></big><br><b>Fysieke kenmerken:</b> ets<br><b>Materiaal:</b> papier <br><b>Techniek:</b> etsen<br><b>Afmetingen:</b> blad: hoogte 130 mm × breedte 77 mm<br><br><big><b>Toelichting:</b></big> Illustratie uit: Ziegler, Georg. Konst-spiegel der weereltlikke vermaken. Amsterdam: Johannes Boekholt, 1687.<br><br><big><b>Onderwerp</b></big><br><b>Wat:</b> on fire, ablaze, attempt, political murder <br><b>Wie:</b> Karel VI (koning van Frankrijk), Constantijn de Grote (keizer van het Romeinse Rijk) <br><br><big><b>Verwerving en rechten:</b></big><br><b>Verwerving:</b> aankoop jul-1896<br><b>Copyright:</b> Publiek domein",
+                  "source": "commons-desc-page"
+                },
+                "DateTimeOriginal": {
+                  "value": "1687",
+                  "source": "commons-desc-page"
+                },
+                "Credit": {
+                  "value": "<a rel=\"nofollow\" class=\"external free\" href=\"http://hdl.handle.net/10934/RM0001.COLLECT.143201\">http://hdl.handle.net/10934/RM0001.COLLECT.143201</a>",
+                  "source": "commons-desc-page"
+                },
+                "Artist": {
+                  "value": "Rijksmuseum",
+                  "source": "commons-desc-page"
+                },
+                "LicenseShortName": {
+                  "value": "CC0",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "UsageTerms": {
+                  "value": "Creative Commons Zero, Public Domain Dedication",
+                  "source": "commons-desc-page"
+                },
+                "AttributionRequired": {
+                  "value": "false",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "LicenseUrl": {
+                  "value": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+                  "source": "commons-desc-page"
+                },
+                "Copyrighted": {
+                  "value": "True",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "Restrictions": {
+                  "value": "",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "License": {
+                  "value": "cc0",
+                  "source": "commons-templates",
+                  "hidden": ""
+                }
+              }
+            }
+          ]
+        }
+      ]
+    }
+  }
+}

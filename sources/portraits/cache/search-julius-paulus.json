@@ -1,0 +1,509 @@
+{
+  "person_id": "julius-paulus",
+  "query": "Julius Paulus jurist",
+  "response": {
+    "batchcomplete": true,
+    "continue": {
+      "gsroffset": 5,
+      "continue": "gsroffset||"
+    },
+    "query": {
+      "pages": [
+        {
+          "pageid": 42034931,
+          "ns": 6,
+          "title": "File:A history of all nations from the earliest times; being a universal historical library (1905) (14756990796).jpg",
+          "index": 3,
+          "imagerepository": "local",
+          "imageinfo": [
+            {
+              "size": 1319211,
+              "width": 2608,
+              "height": 2250,
+              "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/07/A_history_of_all_nations_from_the_earliest_times%3B_being_a_universal_historical_library_%281905%29_%2814756990796%29.jpg/500px-A_history_of_all_nations_from_the_earliest_times%3B_being_a_universal_historical_library_%281905%29_%2814756990796%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+              "thumbwidth": 400,
+              "thumbheight": 345,
+              "responsiveUrls": {
+                "2": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/07/A_history_of_all_nations_from_the_earliest_times%3B_being_a_universal_historical_library_%281905%29_%2814756990796%29.jpg/960px-A_history_of_all_nations_from_the_earliest_times%3B_being_a_universal_historical_library_%281905%29_%2814756990796%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+              },
+              "thumbattribs": {
+                "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/07/A_history_of_all_nations_from_the_earliest_times%3B_being_a_universal_historical_library_%281905%29_%2814756990796%29.jpg/500px-A_history_of_all_nations_from_the_earliest_times%3B_being_a_universal_historical_library_%281905%29_%2814756990796%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+                "decoding": "async",
+                "loading": "lazy",
+                "width": 400,
+                "height": 345,
+                "srcset": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/07/A_history_of_all_nations_from_the_earliest_times%3B_being_a_universal_historical_library_%281905%29_%2814756990796%29.jpg/960px-A_history_of_all_nations_from_the_earliest_times%3B_being_a_universal_historical_library_%281905%29_%2814756990796%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail 2x"
+              },
+              "url": "https://upload.wikimedia.org/wikipedia/commons/0/07/A_history_of_all_nations_from_the_earliest_times%3B_being_a_universal_historical_library_%281905%29_%2814756990796%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+              "descriptionurl": "https://commons.wikimedia.org/wiki/File:A_history_of_all_nations_from_the_earliest_times;_being_a_universal_historical_library_(1905)_(14756990796).jpg",
+              "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=42034931",
+              "extmetadata": {
+                "DateTime": {
+                  "value": "2015-08-06 15:33:18",
+                  "source": "mediawiki-metadata",
+                  "hidden": ""
+                },
+                "ObjectName": {
+                  "value": "A history of all nations from the earliest times; being a universal historical library (1905) (14756990796)",
+                  "source": "mediawiki-metadata"
+                },
+                "CommonsMetadataExtension": {
+                  "value": 1.2,
+                  "source": "extension",
+                  "hidden": ""
+                },
+                "Categories": {
+                  "value": "A history of all nations from the earliest times (1905)|Photos uploaded from Flickr by Fæ using a script|Flickr images reviewed by FlickreviewR|Files from Internet Archive Book Images Flickr stream|Files from Flickr's 'The Commons'|Historical images of the Arch of Septimius Severus (Rome)|Flickr images missing SDC Flickr photo ID|Flickr images missing SDC published in",
+                  "source": "commons-categories",
+                  "hidden": ""
+                },
+                "Assessments": {
+                  "value": "",
+                  "source": "commons-categories",
+                  "hidden": ""
+                },
+                "ImageDescription": {
+                  "value": "<br>\n<p><b>Identifier</b>: historyofallnati05wrig (<a class=\"external text\" href=\"https://commons.wikimedia.org/w/index.php?title=Special%3ASearch&amp;profile=default&amp;fulltext=Search&amp;search=insource%3A%2Fhistoryofallnati05wrig%2F\">find matches</a>)<br>\n<b>Title</b>: <a rel=\"nofollow\" class=\"external text\" href=\"https://www.flickr.com/photos/internetarchivebookimages/tags/bookidhistoryofallnati05wrig\">A history of all nations from the earliest times; being a universal historical library</a><br>\n<b>Year</b>: <a rel=\"nofollow\" class=\"external text\" href=\"https://www.flickr.com/photos/internetarchivebookimages/tags/bookyear1905\">1905</a> (<a rel=\"nofollow\" class=\"external text\" href=\"https://www.flickr.com/photos/internetarchivebookimages/tags/bookdecade1900\">1900s</a>)<br>\n<b>Authors</b>:  <a rel=\"nofollow\" class=\"external text\" href=\"https://www.flickr.com/photos/internetarchivebookimages/tags/bookauthorWright__John_Henry__1852_1908\">Wright, John Henry, 1852-1908</a><br>\n<b>Subjects</b>:  <a rel=\"nofollow\" class=\"external text\" href=\"https://www.flickr.com/photos/internetarchivebookimages/tags/booksubjectWorld_history\">World history</a><br>\n<b>Publisher</b>:  <a rel=\"nofollow\" class=\"external text\" href=\"https://www.flickr.com/photos/internetarchivebookimages/tags/bookpublisher_Philadelphia__New_York___Lea_Brothers___company\">(Philadelphia, New York : Lea Brothers &amp; company</a><br>\n<b>Contributing Library</b>:  <a rel=\"nofollow\" class=\"external text\" href=\"https://www.flickr.com/photos/internetarchivebookimages/tags/bookcontributorUniversity_of_California_Libraries\">University of California Libraries</a><br>\n<b>Digitizing Sponsor</b>:  <a rel=\"nofollow\" class=\"external text\" href=\"https://www.flickr.com/photos/internetarchivebookimages/tags/booksponsorInternet_Archive\">Internet Archive</a><br>\n<br>\n<b>View Book Page</b>: <a rel=\"nofollow\" class=\"external text\" href=\"https://archive.org/stream/historyofallnati05wrig/historyofallnati05wrig#page/n233/mode/1up\">Book Viewer</a><br>\n<b>About This Book</b>: <a rel=\"nofollow\" class=\"external text\" href=\"https://archive.org/details/historyofallnati05wrig\">Catalog Entry</a><br>\n<b>View All Images</b>: <a rel=\"nofollow\" class=\"external text\" href=\"https://www.flickr.com/photos/internetarchivebookimages/tags/bookidhistoryofallnati05wrig\">All Images From Book</a><br>\nClick here to <a rel=\"nofollow\" class=\"external text\" href=\"https://archive.org/stream/historyofallnati05wrig/historyofallnati05wrig#page/n233/mode/1up\"><b>view book online</b></a> to see this illustration in context in a browseable online version of this book.<br>\n<br>\n<b>Text Appearing Before Image:</b><br>\n<i>Fig. 91. — &lt;in Rome, Vat</i><br>\n<b>Text Appearing After Image:</b><br>\n<i>ADMINISTRATIVE REFORMS. 197 triumphal arch of Pentelic marble, adorned with reliefs (Plate XVI.).In legislative matters the emperors legal training stood him in goodstead; and, besides, he chose as his friend and councillor one of thegreatest jurists that Rome ever produced, — AemiUus Papinianus,— who for a long time, in the office a libellis, had the management ofpetitions and complaints to the emperor, and, in A.D. 203—1, was at thehead of the guard. During his administration of the prefecture hehad as assistants two young men, who afterward, as leaders of thepraetorians and as jurists of the first rank, played an important part, —Julius Paulus, born, probably, at Padua, and Domitius Ulpianus, ofTyre, born in A.D. 170. The political policy of Severus tended to develop the absolutemonarchy. Its aim was to lower the predominant position of Italy andRome in the empire, to bring about the equality of the provinces, andto turn the principate into an absolute military government.</i><br>\n<br>\n<b>Note About Images</b><br>\n</p>\n<i>Please note that these images are extracted from scanned page images that may have been digitally enhanced for readability - coloration and appearance of these illustrations may not perfectly resemble the original work.</i>",
+                  "source": "commons-desc-page"
+                },
+                "DateTimeOriginal": {
+                  "value": "1905",
+                  "source": "commons-desc-page"
+                },
+                "Credit": {
+                  "value": "<p><a rel=\"nofollow\" class=\"external free\" href=\"https://www.flickr.com/photos/internetarchivebookimages/14756990796/\">https://www.flickr.com/photos/internetarchivebookimages/14756990796/</a>\n</p>\n<ul><li>Source book page: <a rel=\"nofollow\" class=\"external free\" href=\"https://archive.org/stream/historyofallnati05wrig/historyofallnati05wrig#page/n233/mode/1up\">https://archive.org/stream/historyofallnati05wrig/historyofallnati05wrig#page/n233/mode/1up</a></li></ul>",
+                  "source": "commons-desc-page"
+                },
+                "Artist": {
+                  "value": "<a rel=\"nofollow\" class=\"external text\" href=\"https://www.flickr.com/people/126377022@N07\">Internet Archive Book Images</a>",
+                  "source": "commons-desc-page"
+                },
+                "Permission": {
+                  "value": "At the time of upload, the image license was automatically confirmed using the Flickr <a href=\"https://en.wikipedia.org/wiki/API\" class=\"extiw\" title=\"en:API\">API</a>. For more information see <a href=\"//commons.wikimedia.org/wiki/User:F%C3%A6/Flickr_API_detail\" title=\"User:Fæ/Flickr API detail\">Flickr API detail</a>.",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "LicenseShortName": {
+                  "value": "No restrictions",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "UsageTerms": {
+                  "value": "No known copyright restrictions",
+                  "source": "commons-desc-page"
+                },
+                "AttributionRequired": {
+                  "value": "false",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "LicenseUrl": {
+                  "value": "https://www.flickr.com/commons/usage/",
+                  "source": "commons-desc-page"
+                },
+                "Copyrighted": {
+                  "value": "True",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "Restrictions": {
+                  "value": "",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                }
+              }
+            }
+          ]
+        },
+        {
+          "pageid": 84585969,
+          "ns": 6,
+          "title": "File:Paulus, Iulius – Codex Theodosianus, 1566 – BEIC 13787330.jpg",
+          "index": 1,
+          "imagerepository": "local",
+          "imageinfo": [
+            {
+              "size": 340020,
+              "width": 1324,
+              "height": 2202,
+              "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/24/Paulus%2C_Iulius_%E2%80%93_Codex_Theodosianus%2C_1566_%E2%80%93_BEIC_13787330.jpg/500px-Paulus%2C_Iulius_%E2%80%93_Codex_Theodosianus%2C_1566_%E2%80%93_BEIC_13787330.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+              "thumbwidth": 400,
+              "thumbheight": 665,
+              "responsiveUrls": {
+                "2": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/24/Paulus%2C_Iulius_%E2%80%93_Codex_Theodosianus%2C_1566_%E2%80%93_BEIC_13787330.jpg/960px-Paulus%2C_Iulius_%E2%80%93_Codex_Theodosianus%2C_1566_%E2%80%93_BEIC_13787330.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+              },
+              "thumbattribs": {
+                "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/24/Paulus%2C_Iulius_%E2%80%93_Codex_Theodosianus%2C_1566_%E2%80%93_BEIC_13787330.jpg/500px-Paulus%2C_Iulius_%E2%80%93_Codex_Theodosianus%2C_1566_%E2%80%93_BEIC_13787330.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+                "decoding": "async",
+                "loading": "lazy",
+                "width": 400,
+                "height": 665,
+                "srcset": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/24/Paulus%2C_Iulius_%E2%80%93_Codex_Theodosianus%2C_1566_%E2%80%93_BEIC_13787330.jpg/960px-Paulus%2C_Iulius_%E2%80%93_Codex_Theodosianus%2C_1566_%E2%80%93_BEIC_13787330.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail 2x"
+              },
+              "url": "https://upload.wikimedia.org/wikipedia/commons/2/24/Paulus%2C_Iulius_%E2%80%93_Codex_Theodosianus%2C_1566_%E2%80%93_BEIC_13787330.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+              "descriptionurl": "https://commons.wikimedia.org/wiki/File:Paulus,_Iulius_%E2%80%93_Codex_Theodosianus,_1566_%E2%80%93_BEIC_13787330.jpg",
+              "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=84585969",
+              "extmetadata": {
+                "DateTime": {
+                  "value": "2019-12-03 14:45:08",
+                  "source": "mediawiki-metadata",
+                  "hidden": ""
+                },
+                "ObjectName": {
+                  "value": "<div class=\"fn\">\nCodex Theodosianus</div>",
+                  "source": "commons-desc-page"
+                },
+                "CommonsMetadataExtension": {
+                  "value": 1.2,
+                  "source": "extension",
+                  "hidden": ""
+                },
+                "Categories": {
+                  "value": "Codex Theodosianus|Media from BEIC|Uploaded with pattypan|PD-old-100-expired|Julius Paulus|CC-PD-Mark|1566 books from France|Books published in Lyon|1566 books single pages|Latin-language books",
+                  "source": "commons-categories",
+                  "hidden": ""
+                },
+                "Assessments": {
+                  "value": "",
+                  "source": "commons-categories",
+                  "hidden": ""
+                },
+                "Artist": {
+                  "value": "<div class=\"fn value\">\nIulius Paulus</div>",
+                  "source": "commons-desc-page"
+                },
+                "ImageDescription": {
+                  "value": "Frontespizio",
+                  "source": "commons-desc-page"
+                },
+                "Credit": {
+                  "value": "<table style=\"border:2px solid #EF8F20; width: 100%;\">\n<tbody><tr>\n<td><span typeof=\"mw:File\"><span><img src=\"https://thumb.wikimedia.org/wikipedia/commons/thumb/4/49/Paolo_Monti_-_Serie_fotografica_-_BEIC_6340849.jpg/120px-Paolo_Monti_-_Serie_fotografica_-_BEIC_6340849.jpg?utm_source=commons.wikimedia.org&amp;utm_campaign=parser&amp;utm_content=thumbnail\" decoding=\"async\" loading=\"lazy\" width=\"75\" height=\"54\" class=\"mw-file-element\" srcset=\"https://thumb.wikimedia.org/wikipedia/commons/thumb/4/49/Paolo_Monti_-_Serie_fotografica_-_BEIC_6340849.jpg/250px-Paolo_Monti_-_Serie_fotografica_-_BEIC_6340849.jpg?utm_source=commons.wikimedia.org&amp;utm_campaign=parser&amp;utm_content=thumbnail 2x\" data-file-width=\"1280\" data-file-height=\"927\"></span></span>\n</td>\n<td><a rel=\"nofollow\" class=\"external text\" href=\"https://gutenberg.beic.it/webclient/DeliveryManager?pid=13787330&amp;custom_att_2=simple_viewer\">Available in the BEIC digital library</a> and uploaded in <a href=\"https://it.wikipedia.org/wiki/Progetto:GLAM/BEIC\" class=\"extiw\" title=\"it:Progetto:GLAM/BEIC\">partnership with BEIC Foundation</a>.\n<p><br>\n</p>\n</td></tr></tbody></table>",
+                  "source": "commons-desc-page"
+                },
+                "Permission": {
+                  "value": "<table class=\"licensetpl\" style=\"display:none\">\n<tbody><tr>\n<td><span class=\"licensetpl_short\">Public domain</span><span class=\"licensetpl_long\">Public domain</span><span class=\"licensetpl_link_req\">false</span><span class=\"licensetpl_attr_req\">false</span>\n</td></tr></tbody></table>\n<table style=\"width: 100%; clear: both; margin: 0.5em auto; background-color: var(--background-color-progressive-subtle, #f7f8ff); color: var(--color-base, #202122); border: var(--border-subtle, 2px solid #8888aa); border-spacing: 8px; padding: 0px;\" dir=\"ltr\" class=\"layouttemplate\" lang=\"en\">\n<tbody><tr>\n<td><span typeof=\"mw:File\"><span title=\"Public domain\"><img alt=\"Public domain\" src=\"https://thumb.wikimedia.org/wikipedia/commons/thumb/6/62/PD-icon.svg/120px-PD-icon.svg.png?utm_source=commons.wikimedia.org&amp;utm_campaign=parser&amp;utm_content=thumbnail\" decoding=\"async\" loading=\"lazy\" width=\"64\" height=\"64\" class=\"mw-file-element\" srcset=\"https://thumb.wikimedia.org/wikipedia/commons/thumb/6/62/PD-icon.svg/250px-PD-icon.svg.png?utm_source=commons.wikimedia.org&amp;utm_campaign=parser&amp;utm_content=thumbnail 2x\" data-file-width=\"196\" data-file-height=\"196\"></span></span>\n</td>\n<td>\n<p>This work is in the <b><a href=\"https://en.wikipedia.org/wiki/public_domain\" class=\"extiw\" title=\"en:public domain\">public domain</a></b> in its country of origin and other countries and areas where the <a href=\"https://en.wikipedia.org/wiki/List_of_countries%27_copyright_lengths\" class=\"extiw\" title=\"w:List of countries' copyright lengths\">copyright term</a> is the author's <b>life plus 100 years or fewer</b>.\n</p>\n<hr>\n<p>This work is in the <b><a href=\"https://en.wikipedia.org/wiki/public_domain\" class=\"extiw\" title=\"en:public domain\">public domain</a></b> in the <a href=\"https://en.wikipedia.org/wiki/United_States\" class=\"extiw\" title=\"en:United States\">United States</a> because it was <a href=\"//commons.wikimedia.org/wiki/Commons:Publication\" title=\"Commons:Publication\">published</a> (or registered with the <a href=\"https://en.wikipedia.org/wiki/United_States_Copyright_Office\" class=\"extiw\" title=\"en:United States Copyright Office\">U.S. Copyright Office</a>) before January 1, 1931.\n</p>\n</td></tr>\n<tr>\n<td colspan=\"2\" style=\"text-align:center;font-size:x-small;line-height:140%;\"><a href=\"https://creativecommons.org/publicdomain/mark/1.0/deed.en\" class=\"extiw\" title=\"ccorg:publicdomain/mark/1.0/deed.en\">This file has been identified as being free of known restrictions under copyright law, including all related and neighboring rights.</a>\n</td></tr></tbody></table><span class=\"licensetpl_link\" style=\"display:none;\">https://creativecommons.org/publicdomain/mark/1.0/</span><span class=\"licensetpl_short\" style=\"display:none;\">PDM</span><span class=\"licensetpl_long\" style=\"display:none;\">Creative Commons Public Domain Mark 1.0</span><span class=\"licensetpl_link_req\" style=\"display:none;\">false</span><span class=\"licensetpl_attr_req\" style=\"display:none;\">false</span>",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "LicenseShortName": {
+                  "value": "Public domain",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "UsageTerms": {
+                  "value": "Public domain",
+                  "source": "commons-desc-page"
+                },
+                "AttributionRequired": {
+                  "value": "false",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "Copyrighted": {
+                  "value": "False",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "Restrictions": {
+                  "value": "",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "License": {
+                  "value": "pd",
+                  "source": "commons-templates",
+                  "hidden": ""
+                }
+              }
+            }
+          ]
+        },
+        {
+          "pageid": 98036598,
+          "ns": 6,
+          "title": "File:Aldus Manutius und seine Zeitgenossen in Italien und Deutschland. Im Anhange- die Familie des Aldus bis zu ihrem Ende (IA aldusmanutiusund00sch).pdf",
+          "index": 2,
+          "imagerepository": "local",
+          "imageinfo": [
+            {
+              "size": 12622521,
+              "width": 627,
+              "height": 1110,
+              "pagecount": 170,
+              "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c6/Aldus_Manutius_und_seine_Zeitgenossen_in_Italien_und_Deutschland._Im_Anhange-_die_Familie_des_Aldus_bis_zu_ihrem_Ende_%28IA_aldusmanutiusund00sch%29.pdf/page1-500px-Aldus_Manutius_und_seine_Zeitgenossen_in_Italien_und_Deutschland._Im_Anhange-_die_Familie_des_Aldus_bis_zu_ihrem_Ende_%28IA_aldusmanutiusund00sch%29.pdf.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+              "thumbwidth": 400,
+              "thumbheight": 708,
+              "thumbattribs": {
+                "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c6/Aldus_Manutius_und_seine_Zeitgenossen_in_Italien_und_Deutschland._Im_Anhange-_die_Familie_des_Aldus_bis_zu_ihrem_Ende_%28IA_aldusmanutiusund00sch%29.pdf/page1-500px-Aldus_Manutius_und_seine_Zeitgenossen_in_Italien_und_Deutschland._Im_Anhange-_die_Familie_des_Aldus_bis_zu_ihrem_Ende_%28IA_aldusmanutiusund00sch%29.pdf.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+                "decoding": "async",
+                "loading": "lazy",
+                "width": 400,
+                "height": 708
+              },
+              "url": "https://upload.wikimedia.org/wikipedia/commons/c/c6/Aldus_Manutius_und_seine_Zeitgenossen_in_Italien_und_Deutschland._Im_Anhange-_die_Familie_des_Aldus_bis_zu_ihrem_Ende_%28IA_aldusmanutiusund00sch%29.pdf?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+              "descriptionurl": "https://commons.wikimedia.org/wiki/File:Aldus_Manutius_und_seine_Zeitgenossen_in_Italien_und_Deutschland._Im_Anhange-_die_Familie_des_Aldus_bis_zu_ihrem_Ende_(IA_aldusmanutiusund00sch).pdf",
+              "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=98036598",
+              "extmetadata": {
+                "DateTime": {
+                  "value": "2020-12-25 01:09:05",
+                  "source": "mediawiki-metadata",
+                  "hidden": ""
+                },
+                "ObjectName": {
+                  "value": "<div class=\"fn\">\nAldus Manutius und seine Zeitgenossen in Italien und Deutschland. Im Anhange: die Familie des Aldus bis zu ihrem Ende</div>",
+                  "source": "commons-desc-page"
+                },
+                "CommonsMetadataExtension": {
+                  "value": 1.2,
+                  "source": "extension",
+                  "hidden": ""
+                },
+                "Categories": {
+                  "value": "Julius Schück|PD-old-100-expired|Scans from the Internet Archive/unverified|CC-PD-Mark|Scans from the Internet Archive|Books uploaded by Fæ|Books without Wikidata item|Old books from American Libraries|PD-old missing SDC copyright status",
+                  "source": "commons-categories",
+                  "hidden": ""
+                },
+                "Assessments": {
+                  "value": "",
+                  "source": "commons-categories",
+                  "hidden": ""
+                },
+                "Artist": {
+                  "value": "<div class=\"fn value\">\nSchück, Julius, b. 1819</div>",
+                  "source": "commons-desc-page"
+                },
+                "ImageDescription": {
+                  "value": "<div class=\"description\">\n<p>Bibliographical footnotes\n</p>\n<br>Subjects: Manuzio, Aldo, 1449 or 50-1515</div>",
+                  "source": "commons-desc-page"
+                },
+                "Credit": {
+                  "value": "<dl><dd><a href=\"//archive.org/details/aldusmanutiusund00sch\" class=\"extiw\" title=\"iarchive:aldusmanutiusund00sch\"><bdi class=\"description en\" lang=\"en\" dir=\"ltr\">Internet Archive identifier</bdi>: aldusmanutiusund00sch</a></dd>\n<dd><a rel=\"nofollow\" class=\"external free\" href=\"https://archive.org/download/aldusmanutiusund00sch/aldusmanutiusund00sch.pdf\">https://archive.org/download/aldusmanutiusund00sch/aldusmanutiusund00sch.pdf</a></dd></dl>\n<ul><li>IA contributor: Boston Public Library</li></ul>",
+                  "source": "commons-desc-page"
+                },
+                "LicenseShortName": {
+                  "value": "Public domain",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "UsageTerms": {
+                  "value": "Public domain",
+                  "source": "commons-desc-page"
+                },
+                "AttributionRequired": {
+                  "value": "false",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "Copyrighted": {
+                  "value": "False",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "Restrictions": {
+                  "value": "",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "License": {
+                  "value": "pd",
+                  "source": "commons-templates",
+                  "hidden": ""
+                }
+              }
+            }
+          ]
+        },
+        {
+          "pageid": 193549614,
+          "ns": 6,
+          "title": "File:Aldus Manutius und seine Zeitgenossen in Italien und Deutschland. - Im Anhange- die Familie des... (IA aldusmanutiusund00schu).pdf",
+          "index": 4,
+          "imagerepository": "local",
+          "imageinfo": [
+            {
+              "size": 13075728,
+              "width": 660,
+              "height": 1185,
+              "pagecount": 170,
+              "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/19/Aldus_Manutius_und_seine_Zeitgenossen_in_Italien_und_Deutschland._-_Im_Anhange-_die_Familie_des..._%28IA_aldusmanutiusund00schu%29.pdf/page1-500px-Aldus_Manutius_und_seine_Zeitgenossen_in_Italien_und_Deutschland._-_Im_Anhange-_die_Familie_des..._%28IA_aldusmanutiusund00schu%29.pdf.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+              "thumbwidth": 400,
+              "thumbheight": 718,
+              "thumbattribs": {
+                "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/19/Aldus_Manutius_und_seine_Zeitgenossen_in_Italien_und_Deutschland._-_Im_Anhange-_die_Familie_des..._%28IA_aldusmanutiusund00schu%29.pdf/page1-500px-Aldus_Manutius_und_seine_Zeitgenossen_in_Italien_und_Deutschland._-_Im_Anhange-_die_Familie_des..._%28IA_aldusmanutiusund00schu%29.pdf.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+                "decoding": "async",
+                "loading": "lazy",
+                "width": 400,
+                "height": 718
+              },
+              "url": "https://upload.wikimedia.org/wikipedia/commons/1/19/Aldus_Manutius_und_seine_Zeitgenossen_in_Italien_und_Deutschland._-_Im_Anhange-_die_Familie_des..._%28IA_aldusmanutiusund00schu%29.pdf?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+              "descriptionurl": "https://commons.wikimedia.org/wiki/File:Aldus_Manutius_und_seine_Zeitgenossen_in_Italien_und_Deutschland._-_Im_Anhange-_die_Familie_des..._(IA_aldusmanutiusund00schu).pdf",
+              "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=193549614",
+              "extmetadata": {
+                "DateTime": {
+                  "value": "2026-06-08 09:36:51",
+                  "source": "mediawiki-metadata",
+                  "hidden": ""
+                },
+                "ObjectName": {
+                  "value": "<div class=\"fn\">\nAldus Manutius und seine Zeitgenossen in Italien und Deutschland. : Im Anhange: die Familie des...</div>",
+                  "source": "commons-desc-page"
+                },
+                "CommonsMetadataExtension": {
+                  "value": 1.2,
+                  "source": "extension",
+                  "hidden": ""
+                },
+                "Categories": {
+                  "value": "PD-old-100-expired|Scans from the Internet Archive/unverified|CC-PD-Mark|Scans from the Internet Archive|Books uploaded by Fæ|Books without Wikidata item|Old books from American Libraries|Books scanned by Boston Public Library",
+                  "source": "commons-categories",
+                  "hidden": ""
+                },
+                "Assessments": {
+                  "value": "",
+                  "source": "commons-categories",
+                  "hidden": ""
+                },
+                "Artist": {
+                  "value": "<div class=\"fn value\">\n<dl><dd>Schück, Julius</dd>\n<dd>Schück, Julius, b. 1819</dd></dl></div>",
+                  "source": "commons-desc-page"
+                },
+                "ImageDescription": {
+                  "value": "<div class=\"description\">\n<dl><dd>viii, [2], 151 p. ; cm</dd>\n<dd>Bibliographical footnotes</dd></dl>\n<br>Subjects: Manuzio, Aldo, 1449 or 50-1515</div>",
+                  "source": "commons-desc-page"
+                },
+                "Credit": {
+                  "value": "<dl><dd><a href=\"//archive.org/details/aldusmanutiusund00schu\" class=\"extiw\" title=\"iarchive:aldusmanutiusund00schu\"><bdi class=\"description en\" lang=\"en\" dir=\"ltr\">Internet Archive identifier</bdi>: aldusmanutiusund00schu</a></dd>\n<dd><a rel=\"nofollow\" class=\"external free\" href=\"https://archive.org/download/aldusmanutiusund00schu/aldusmanutiusund00schu.pdf\">https://archive.org/download/aldusmanutiusund00schu/aldusmanutiusund00schu.pdf</a></dd></dl>\n<ul><li>IA contributor: Boston Public Library</li></ul>",
+                  "source": "commons-desc-page"
+                },
+                "LicenseShortName": {
+                  "value": "Public domain",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "UsageTerms": {
+                  "value": "Public domain",
+                  "source": "commons-desc-page"
+                },
+                "AttributionRequired": {
+                  "value": "false",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "Copyrighted": {
+                  "value": "False",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "Restrictions": {
+                  "value": "",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "License": {
+                  "value": "pd",
+                  "source": "commons-templates",
+                  "hidden": ""
+                }
+              }
+            }
+          ]
+        },
+        {
+          "pageid": 194558753,
+          "ns": 6,
+          "title": "File:The Ante-Nicene Fathers - translations of the writings of the Fathers down to A.D. 325 (IA antenicenefather03robeuoft).pdf",
+          "index": 5,
+          "imagerepository": "local",
+          "imageinfo": [
+            {
+              "size": 76699389,
+              "width": 787,
+              "height": 1306,
+              "pagecount": 768,
+              "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f4/The_Ante-Nicene_Fathers_-_translations_of_the_writings_of_the_Fathers_down_to_A.D._325_%28IA_antenicenefather03robeuoft%29.pdf/page1-500px-The_Ante-Nicene_Fathers_-_translations_of_the_writings_of_the_Fathers_down_to_A.D._325_%28IA_antenicenefather03robeuoft%29.pdf.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+              "thumbwidth": 400,
+              "thumbheight": 664,
+              "thumbattribs": {
+                "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f4/The_Ante-Nicene_Fathers_-_translations_of_the_writings_of_the_Fathers_down_to_A.D._325_%28IA_antenicenefather03robeuoft%29.pdf/page1-500px-The_Ante-Nicene_Fathers_-_translations_of_the_writings_of_the_Fathers_down_to_A.D._325_%28IA_antenicenefather03robeuoft%29.pdf.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+                "decoding": "async",
+                "loading": "lazy",
+                "width": 400,
+                "height": 664
+              },
+              "url": "https://upload.wikimedia.org/wikipedia/commons/f/f4/The_Ante-Nicene_Fathers_-_translations_of_the_writings_of_the_Fathers_down_to_A.D._325_%28IA_antenicenefather03robeuoft%29.pdf?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+              "descriptionurl": "https://commons.wikimedia.org/wiki/File:The_Ante-Nicene_Fathers_-_translations_of_the_writings_of_the_Fathers_down_to_A.D._325_(IA_antenicenefather03robeuoft).pdf",
+              "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=194558753",
+              "extmetadata": {
+                "DateTime": {
+                  "value": "2026-06-25 23:29:07",
+                  "source": "mediawiki-metadata",
+                  "hidden": ""
+                },
+                "ObjectName": {
+                  "value": "<div class=\"fn\">\nThe Ante-Nicene Fathers : translations of the writings of the Fathers down to A.D. 325</div>",
+                  "source": "commons-desc-page"
+                },
+                "CommonsMetadataExtension": {
+                  "value": 1.2,
+                  "source": "extension",
+                  "hidden": ""
+                },
+                "Categories": {
+                  "value": "PD-old-100-expired|Scans from the Internet Archive/unverified|CC-PD-Mark|Scans from the Internet Archive|Books uploaded by Fæ|Books without Wikidata item|IA uploads needing categories|Scans from University of Toronto|PD-old missing SDC copyright status",
+                  "source": "commons-categories",
+                  "hidden": ""
+                },
+                "Assessments": {
+                  "value": "",
+                  "source": "commons-categories",
+                  "hidden": ""
+                },
+                "Artist": {
+                  "value": "<div class=\"fn value\">\n<dl><dd>Roberts, A</dd>\n<dd>Anatolius Vindanius, of Berytus</dd>\n<dd>Arnobius, of Sicca</dd>\n<dd>Asterius</dd>\n<dd>Athenagoras, 2nd cent</dd>\n<dd>Caius</dd>\n<dd>Clement</dd>\n<dd>Clement, of Alexandria, Saint, ca. 150-ca. 215</dd>\n<dd>Commodian</dd>\n<dd>Cyprian, Saint, Bishop of Carthage</dd>\n<dd>Dionysius</dd>\n<dd>Dionysius the Great</dd>\n<dd>Gregory, Thaumaturgus, Saint, ca. 213-ca. 270</dd>\n<dd>Hermas, 2nd cent</dd>\n<dd>Hippolytus, Antipope, ca. 170-235 or 6</dd>\n<dd>Ignatius</dd>\n<dd>Irenaeus, Saint, Bishop of Lyon</dd>\n<dd>Julius Africanus</dd>\n<dd>Justin, Martyr, Saint</dd>\n<dd>Lactantius, ca. 240-ca. 320</dd>\n<dd>Methodius</dd>\n<dd>Minucius Felix, Marcus</dd>\n<dd>Novatianus</dd>\n<dd>Origen</dd>\n<dd>Polycarp, Saint, Bishop of Smyrna</dd>\n<dd>Tatian, ca. 120-173</dd>\n<dd>Tertullian, ca. 160-ca. 230</dd>\n<dd>Theodotus</dd>\n<dd>Theophilus</dd>\n<dd>Fortunatus, Venantius Honorius Clementianus, ca. 540-ca. 600</dd>\n<dd>Victorinus</dd></dl></div>",
+                  "source": "commons-desc-page"
+                },
+                "ImageDescription": {
+                  "value": "<div class=\"description\">\n<dl><dd>v 1. The Apostolic Fathers: Justin Martyr, Irenaeus.- v. 2. Fathers of the Second Century: Hermas, Tatian, Athenagoras, Theophilus, and Clement of Alexandria.- v. 3. Latin Christianity: its founder, Tertullian. 1. Apologetic; 2. Anti-Marcion; 3. Ethical.- v. 4. Tertullian, pt. 4. Minuchius Folix; Commodian; Origen, pts. 1-2.- v. 5. Hippolytus, Cyprian, Caius, Novatian, Appendix.- v. 6. Gregory Thaumaturgus, Dionysius the Great, Julius Africanus, Anatolius and Minor writers, Methodius, Arnobius.- v. 7. Lactantius, Venantius, Asterius, Victorinus, Dionysius, Apostolic teaching and constitutions, homily, and liturgies.- v. 8. The twelve patriarchs, excerpts and epistles, the Clementina, Apocrypha, Decretals, Memoirs of Edessa and Syriac documents, remains of the first ages.- v. 9. The Gospel of Peter, the Diatessaron of Tatian, the Apocalypse of Peter, the Visio Pauli, the Apocalypses of the Virgin and Sedrach, the Testament of Abraham, the Acts of Xanthippe and Polyxena; the narrative of Zosimus; the apology of Aristides, the Epistles of Clement (complete text) Origen's Commentary on John, Books I-X, and Commentary on Matthew, Books 1-11, and X-XIV.- v. 10. 1. Bibliographical synopsis. 2. General Index</dd>\n<dd>26</dd></dl>\n<br>Subjects: Bible; Fathers of the church -- Bibliography; Fathers of the church</div>",
+                  "source": "commons-desc-page"
+                },
+                "Credit": {
+                  "value": "<dl><dd><a href=\"//archive.org/details/antenicenefather03robeuoft\" class=\"extiw\" title=\"iarchive:antenicenefather03robeuoft\"><bdi class=\"description en\" lang=\"en\" dir=\"ltr\">Internet Archive identifier</bdi>: antenicenefather03robeuoft</a></dd>\n<dd><a rel=\"nofollow\" class=\"external free\" href=\"https://archive.org/download/antenicenefather03robeuoft/antenicenefather03robeuoft.pdf\">https://archive.org/download/antenicenefather03robeuoft/antenicenefather03robeuoft.pdf</a></dd></dl>\n<ul><li>IA contributor: Robarts - University of Toronto</li>\n<li>IA digitizing sponsor: MSN</li></ul>",
+                  "source": "commons-desc-page"
+                },
+                "LicenseShortName": {
+                  "value": "Public domain",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "UsageTerms": {
+                  "value": "Public domain",
+                  "source": "commons-desc-page"
+                },
+                "AttributionRequired": {
+                  "value": "false",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "Copyrighted": {
+                  "value": "False",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "Restrictions": {
+                  "value": "",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "License": {
+                  "value": "pd",
+                  "source": "commons-templates",
+                  "hidden": ""
+                }
+              }
+            }
+          ]
+        }
+      ]
+    }
+  }
+}

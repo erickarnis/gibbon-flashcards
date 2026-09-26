@@ -1,0 +1,2492 @@
+{
+  "batchcomplete": true,
+  "query": {
+    "pages": [
+      {
+        "ns": 0,
+        "title": "Hannibalianus (brother of Constantine I)",
+        "missing": true
+      },
+      {
+        "pageid": 6746,
+        "ns": 0,
+        "title": "Constantius II",
+        "original": {
+          "source": "https://upload.wikimedia.org/wikipedia/commons/3/30/Bust_of_Constantius_II_%28Mary_Harrsch%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original",
+          "width": 564,
+          "height": 800
+        },
+        "pageimage": "Bust_of_Constantius_II_(Mary_Harrsch).jpg",
+        "images": [
+          {
+            "ns": 6,
+            "title": "File:07 constantius2Chrono354.png"
+          },
+          {
+            "ns": 6,
+            "title": "File:2009 Carnuntum Heidentor1.jpg"
+          },
+          {
+            "ns": 6,
+            "title": "File:Bust of Constantius II (Mary Harrsch).jpg"
+          },
+          {
+            "ns": 6,
+            "title": "File:Bust of Prince Constantius II in blue glass, Romisch-Germanisches Museum, Cologne (8115676712).jpg"
+          },
+          {
+            "ns": 6,
+            "title": "File:Byzantine - Belt Section with Medallions of Constantius II and Faustina - Walters 57527 - Back.jpg"
+          },
+          {
+            "ns": 6,
+            "title": "File:Colossal Portrait or Constantius II or Constans.jpg"
+          },
+          {
+            "ns": 6,
+            "title": "File:Commons-logo.svg"
+          },
+          {
+            "ns": 6,
+            "title": "File:Constantius2cng10400876.jpg"
+          },
+          {
+            "ns": 6,
+            "title": "File:Constantius II, RIC VIII 170 (obverse).jpg"
+          },
+          {
+            "ns": 6,
+            "title": "File:Constantius II bust crop.png"
+          },
+          {
+            "ns": 6,
+            "title": "File:Double Centenionalis Magnentius-XR-s4017.jpg"
+          },
+          {
+            "ns": 6,
+            "title": "File:Impero Romano da maggio a settembre 337.png"
+          },
+          {
+            "ns": 6,
+            "title": "File:Miliarensis of Constantius II, AD 327.jpg"
+          },
+          {
+            "ns": 6,
+            "title": "File:Nerazio Cereale - base di statua nel Foro Romano.jpg"
+          },
+          {
+            "ns": 6,
+            "title": "File:OOjs UI icon edit-ltr-progressive.svg"
+          },
+          {
+            "ns": 6,
+            "title": "File:Solidus-Constantius Gallus-thessalonica RIC 149.jpg"
+          },
+          {
+            "ns": 6,
+            "title": "File:The triumph of Constantius II.jpg"
+          },
+          {
+            "ns": 6,
+            "title": "File:Wikiquote-logo.svg"
+          },
+          {
+            "ns": 6,
+            "title": "File:Wikisource-logo.svg"
+          }
+        ],
+        "pageprops": {
+          "defaultsort": "Constantius 2",
+          "nomediaviewercarousel": "",
+          "page_image_free": "Bust_of_Constantius_II_(Mary_Harrsch).jpg",
+          "wikibase-shortdesc": "Roman emperor from 337 to 361",
+          "wikibase_item": "Q46418"
+        }
+      },
+      {
+        "pageid": 6747,
+        "ns": 0,
+        "title": "Constans",
+        "original": {
+          "source": "https://upload.wikimedia.org/wikipedia/commons/a/a1/Mus%C3%A9e_du_Louvre_-_L%27empereur_Constant_%28Ma_1021%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original",
+          "width": 2658,
+          "height": 3648
+        },
+        "pageimage": "Musée_du_Louvre_-_L'empereur_Constant_(Ma_1021).jpg",
+        "images": [
+          {
+            "ns": 6,
+            "title": "File:9 Solidi, Constans, emperor in armor, Aquileia, 342 AD - Bode-Museum - DSC02728.JPG"
+          },
+          {
+            "ns": 6,
+            "title": "File:Byzantine imperial flag, 14th century, square.svg"
+          },
+          {
+            "ns": 6,
+            "title": "File:Commons-logo.svg"
+          },
+          {
+            "ns": 6,
+            "title": "File:Constans RIC VIII 135.jpg"
+          },
+          {
+            "ns": 6,
+            "title": "File:Constanscng90010171.jpg"
+          },
+          {
+            "ns": 6,
+            "title": "File:Flag of Palaeologus Dynasty.svg"
+          },
+          {
+            "ns": 6,
+            "title": "File:Head of Emperor Constans (r. 337–50) MET DT5196.jpg"
+          },
+          {
+            "ns": 6,
+            "title": "File:INC-1865-a Солид. Констант I. Ок. 340—350 гг. (аверс).png"
+          },
+          {
+            "ns": 6,
+            "title": "File:Musée du Louvre - L'empereur Constant (Ma 1021).jpg"
+          },
+          {
+            "ns": 6,
+            "title": "File:OOjs UI icon edit-ltr-progressive.svg"
+          }
+        ],
+        "pageprops": {
+          "nomediaviewercarousel": "",
+          "page_image_free": "Musée_du_Louvre_-_L'empereur_Constant_(Ma_1021).jpg",
+          "wikibase-shortdesc": "Roman emperor from 337 to 350",
+          "wikibase_item": "Q185538"
+        }
+      },
+      {
+        "pageid": 7234,
+        "ns": 0,
+        "title": "Constantine II (emperor)",
+        "original": {
+          "source": "https://upload.wikimedia.org/wikipedia/commons/8/87/Constantine_II%2C_The_Capitoline_Hill.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original",
+          "width": 2000,
+          "height": 3000
+        },
+        "pageimage": "Constantine_II,_The_Capitoline_Hill.jpg",
+        "images": [
+          {
+            "ns": 6,
+            "title": "File:Commons-logo.svg"
+          },
+          {
+            "ns": 6,
+            "title": "File:Constantine II, The Capitoline Hill.jpg"
+          },
+          {
+            "ns": 6,
+            "title": "File:Constantine II as Caesar.jpg"
+          },
+          {
+            "ns": 6,
+            "title": "File:Constantineii90010167.jpg"
+          },
+          {
+            "ns": 6,
+            "title": "File:Gold solidus of Constantine II.jpg"
+          },
+          {
+            "ns": 6,
+            "title": "File:INC-2046-a Ауреус. Константин II. Ок. 337—340 гг. (аверс).png"
+          },
+          {
+            "ns": 6,
+            "title": "File:Impero Romano da maggio a settembre 337.png"
+          },
+          {
+            "ns": 6,
+            "title": "File:OOjs UI icon edit-ltr-progressive.svg"
+          },
+          {
+            "ns": 6,
+            "title": "File:Solidus Constantine II-heraclea RIC vII 101.jpg"
+          }
+        ],
+        "pageprops": {
+          "defaultsort": "Constantine 02",
+          "nomediaviewercarousel": "",
+          "page_image_free": "Constantine_II,_The_Capitoline_Hill.jpg",
+          "wikibase-shortdesc": "Roman emperor from 337 to 340",
+          "wikibase_item": "Q46734"
+        }
+      },
+      {
+        "pageid": 10172,
+        "ns": 0,
+        "title": "Eusebius",
+        "original": {
+          "source": "https://upload.wikimedia.org/wikipedia/commons/7/70/Eusebius_of_Caesarea_Rabbula_Gospels_Icon.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original",
+          "width": 246,
+          "height": 589
+        },
+        "pageimage": "Eusebius_of_Caesarea_Rabbula_Gospels_Icon.jpg",
+        "images": [
+          {
+            "ns": 6,
+            "title": "File:046CupolaSPietro.jpg"
+          },
+          {
+            "ns": 6,
+            "title": "File:Armenian translation of Eusebius Chronicon.jpg"
+          },
+          {
+            "ns": 6,
+            "title": "File:Commons-logo.svg"
+          },
+          {
+            "ns": 6,
+            "title": "File:Duns Scotus Painting (cropped).jpg"
+          },
+          {
+            "ns": 6,
+            "title": "File:Emblem of the Papacy SE.svg"
+          },
+          {
+            "ns": 6,
+            "title": "File:Eusebius Ethiopian Icon.png"
+          },
+          {
+            "ns": 6,
+            "title": "File:Eusebius Ethiopian icon.jpg"
+          },
+          {
+            "ns": 6,
+            "title": "File:Eusebius of Caesarea Armenian Gospel Icon.png"
+          },
+          {
+            "ns": 6,
+            "title": "File:Eusebius of Caesarea Rabbula Gospels Icon.jpg"
+          },
+          {
+            "ns": 6,
+            "title": "File:Flag of Vatican City (2023–present).svg"
+          },
+          {
+            "ns": 6,
+            "title": "File:Flag of the Vatican City.svg"
+          },
+          {
+            "ns": 6,
+            "title": "File:Fol. 10v-11r Egmond Gospels.jpg"
+          },
+          {
+            "ns": 6,
+            "title": "File:Gloriole blur.svg"
+          },
+          {
+            "ns": 6,
+            "title": "File:OOjs UI icon edit-ltr-progressive.svg"
+          },
+          {
+            "ns": 6,
+            "title": "File:Relic of St. Eusebius of Caesarea.jpg"
+          },
+          {
+            "ns": 6,
+            "title": "File:Saint Augustine by Philippe de Champaigne (3x4 cropped).jpg"
+          },
+          {
+            "ns": 6,
+            "title": "File:Socrates.png"
+          },
+          {
+            "ns": 6,
+            "title": "File:Speaker Icon.svg"
+          },
+          {
+            "ns": 6,
+            "title": "File:St-thomas-aquinasFXD.jpg"
+          },
+          {
+            "ns": 6,
+            "title": "File:Wikiquote-logo.svg"
+          },
+          {
+            "ns": 6,
+            "title": "File:Wikisource-logo.svg"
+          }
+        ],
+        "pageprops": {
+          "page_image_free": "Eusebius_of_Caesarea_Rabbula_Gospels_Icon.jpg",
+          "wikibase-shortdesc": "Greek Christian bishop and scholar (c. 260 – 339)",
+          "wikibase_item": "Q142999"
+        }
+      },
+      {
+        "pageid": 15435,
+        "ns": 0,
+        "title": "Ignatius of Antioch",
+        "original": {
+          "source": "https://upload.wikimedia.org/wikipedia/commons/b/bf/Hosios_Loukas_%28south_west_chapel%2C_south_side%29_-_Ignatios.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original",
+          "width": 1080,
+          "height": 2307
+        },
+        "pageimage": "Hosios_Loukas_(south_west_chapel,_south_side)_-_Ignatios.jpg",
+        "images": [
+          {
+            "ns": 6,
+            "title": "File:046CupolaSPietro.jpg"
+          },
+          {
+            "ns": 6,
+            "title": "File:Commons-logo.svg"
+          },
+          {
+            "ns": 6,
+            "title": "File:Gloriole blur.svg"
+          },
+          {
+            "ns": 6,
+            "title": "File:Hosios Loukas (south west chapel, south side) - Ignatios.jpg"
+          },
+          {
+            "ns": 6,
+            "title": "File:Ignatius of Antioch.jpg"
+          },
+          {
+            "ns": 6,
+            "title": "File:Monastero di sumela, chiesa rupestre, interno, affreschi del xviii-xix secolo ca., ignazio di antiochia divorato dai leoni 02.jpg"
+          },
+          {
+            "ns": 6,
+            "title": "File:OOjs UI icon edit-ltr-progressive.svg"
+          },
+          {
+            "ns": 6,
+            "title": "File:P christianity.svg"
+          },
+          {
+            "ns": 6,
+            "title": "File:Pier Leone Ghezzi - Martyrdom of St. Ignatius of Antioch.jpg"
+          },
+          {
+            "ns": 6,
+            "title": "File:Speaker Icon.svg"
+          },
+          {
+            "ns": 6,
+            "title": "File:Wikiquote-logo.svg"
+          },
+          {
+            "ns": 6,
+            "title": "File:Wikisource-logo.svg"
+          }
+        ],
+        "pageprops": {
+          "page_image_free": "Hosios_Loukas_(south_west_chapel,_south_side)_-_Ignatios.jpg",
+          "wikibase-shortdesc": "Patriarch of Antioch from 68 to 107",
+          "wikibase_item": "Q44170"
+        }
+      },
+      {
+        "pageid": 16209,
+        "ns": 0,
+        "title": "Justinian I",
+        "original": {
+          "source": "https://upload.wikimedia.org/wikipedia/commons/3/3d/Mosaic_of_Justinianus_I_-_Basilica_San_Vitale_%28Ravenna%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original",
+          "width": 1500,
+          "height": 1997
+        },
+        "pageimage": "Mosaic_of_Justinianus_I_-_Basilica_San_Vitale_(Ravenna).jpg",
+        "images": [
+          {
+            "ns": 6,
+            "title": "File:4KJUSTINIAN.png"
+          },
+          {
+            "ns": 6,
+            "title": "File:Angel shows a model of Hagia Sofia to Justinian in a vision.png"
+          },
+          {
+            "ns": 6,
+            "title": "File:Byzantine imperial flag, 14th century, square.svg"
+          },
+          {
+            "ns": 6,
+            "title": "File:Byzantinischer Mosaizist des 5. Jahrhunderts 002.jpg"
+          },
+          {
+            "ns": 6,
+            "title": "File:Ceiling of the salon de la Reine (Louvre).jpg"
+          },
+          {
+            "ns": 6,
+            "title": "File:Chuonat.jpg"
+          },
+          {
+            "ns": 6,
+            "title": "File:Commons-logo.svg"
+          },
+          {
+            "ns": 6,
+            "title": "File:Diptych Barberini Louvre OA9063 whole.jpg"
+          },
+          {
+            "ns": 6,
+            "title": "File:Empèri Bizantin - Rèine de Justinian.png"
+          },
+          {
+            "ns": 6,
+            "title": "File:Flag of Palaeologus Dynasty.svg"
+          },
+          {
+            "ns": 6,
+            "title": "File:Flickr - USCapitol - Justinian I (c. 483-565).jpg"
+          },
+          {
+            "ns": 6,
+            "title": "File:Follis of Justinian I (obverse).jpg"
+          },
+          {
+            "ns": 6,
+            "title": "File:Gold coin of Justinian I 527CE 565CE excavated in India probably in the south.jpg"
+          },
+          {
+            "ns": 6,
+            "title": "File:Gold solidus of Justinian I (obverse).jpg"
+          },
+          {
+            "ns": 6,
+            "title": "File:Gurlitt Justinian column.jpg"
+          },
+          {
+            "ns": 6,
+            "title": "File:Hagia Irene, Istanbul (52112279404) (cropped).jpg"
+          },
+          {
+            "ns": 6,
+            "title": "File:Hagia Sophia (228968325).jpeg"
+          },
+          {
+            "ns": 6,
+            "title": "File:Hagia Sophia Southwestern entrance mosaics 2.jpg"
+          },
+          {
+            "ns": 6,
+            "title": "File:Ivory diptych Justinian Met 17.190.52-53.jpg"
+          },
+          {
+            "ns": 6,
+            "title": "File:Justinian mosaic.jpg"
+          },
+          {
+            "ns": 6,
+            "title": "File:Katharinenkloster Sinai BW 2.jpg"
+          },
+          {
+            "ns": 6,
+            "title": "File:Knachfuss Pandekten Kassel.tif"
+          },
+          {
+            "ns": 6,
+            "title": "File:Macedonia-02812 - Justinian I (10905555763).jpg"
+          },
+          {
+            "ns": 6,
+            "title": "File:Medallion of Justinian I.jpg"
+          },
+          {
+            "ns": 6,
+            "title": "File:Mosaic of Justinian I - Sant'Apoilinare Nuovo - Ravenna 2016.png"
+          },
+          {
+            "ns": 6,
+            "title": "File:Mosaic of Justinianus I - Basilica San Vitale (Ravenna).jpg"
+          },
+          {
+            "ns": 6,
+            "title": "File:OOjs UI icon edit-ltr-progressive.svg"
+          },
+          {
+            "ns": 6,
+            "title": "File:Porphyry head of Justinian I (cropped).jpg"
+          },
+          {
+            "ns": 6,
+            "title": "File:Portnoy Normal DT 190913A-21205 - Copy.jpg"
+          },
+          {
+            "ns": 6,
+            "title": "File:Rathaus Lüneburg skillshare 2010 Apostoloff 014.JPG"
+          },
+          {
+            "ns": 6,
+            "title": "File:Roman-Persian Frontier, 565 AD.png"
+          },
+          {
+            "ns": 6,
+            "title": "File:San Vitale Ravenna.jpg"
+          },
+          {
+            "ns": 6,
+            "title": "File:Sanvitale03.jpg"
+          },
+          {
+            "ns": 6,
+            "title": "File:Sergius and Bacchus Church February 2011.JPG"
+          },
+          {
+            "ns": 6,
+            "title": "File:Spanish Visigothic gold tremisses in the name of emperor Justinian I with cross on breast 7th century.jpg"
+          },
+          {
+            "ns": 6,
+            "title": "File:Tauresium, Macedonia1.JPG"
+          },
+          {
+            "ns": 6,
+            "title": "File:Theodora mosaic - Basilica San Vitale (Ravenna) v2.jpg"
+          },
+          {
+            "ns": 6,
+            "title": "File:Wikisource-logo.svg"
+          }
+        ],
+        "pageprops": {
+          "defaultsort": "Justinian 01",
+          "nomediaviewercarousel": "",
+          "page_image_free": "Mosaic_of_Justinianus_I_-_Basilica_San_Vitale_(Ravenna).jpg",
+          "wikibase-shortdesc": "Roman emperor from 527 to 565",
+          "wikibase_item": "Q41866"
+        }
+      },
+      {
+        "pageid": 18553,
+        "ns": 0,
+        "title": "Louis XIV",
+        "original": {
+          "source": "https://upload.wikimedia.org/wikipedia/commons/5/5f/Louis_XIV_of_France.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original",
+          "width": 1390,
+          "height": 1975
+        },
+        "pageimage": "Louis_XIV_of_France.jpg",
+        "images": [
+          {
+            "ns": 6,
+            "title": "File:046CupolaSPietro.jpg"
+          },
+          {
+            "ns": 6,
+            "title": "File:1706-05-23-Slag bij Ramillies.jpg"
+          },
+          {
+            "ns": 6,
+            "title": "File:Acte de naissance de Louis XIV 1738.jpg"
+          },
+          {
+            "ns": 6,
+            "title": "File:Adam Frans van der Meulen - Louis XIV traversant le Pont-Neuf.jpg"
+          },
+          {
+            "ns": 6,
+            "title": "File:Ambassade Perse auprès de Louis XIV.jpg"
+          },
+          {
+            "ns": 6,
+            "title": "File:Anonyme - Portrait du Dauphin 01.jpg"
+          },
+          {
+            "ns": 6,
+            "title": "File:Arms of France (France Moderne).svg"
+          },
+          {
+            "ns": 6,
+            "title": "File:Arms of the capetian dauphins du Viennois.svg"
+          },
+          {
+            "ns": 6,
+            "title": "File:Ballet de la nuit 1653.jpg"
+          },
+          {
+            "ns": 6,
+            "title": "File:Batalla de Fleurus (1690).jpg"
+          },
+          {
+            "ns": 6,
+            "title": "File:Batalladealmansa.jpg"
+          },
+          {
+            "ns": 6,
+            "title": "File:Bronze bust of Louis XIV. Circa 1660 CE, by unknown artist. From Paris, France. The Victoria and Albert Museum, London.jpg"
+          },
+          {
+            "ns": 6,
+            "title": "File:Charles Le Brun - Louis XIV - WGA12539.jpg"
+          },
+          {
+            "ns": 6,
+            "title": "File:Chateau Versailles Galerie des Glaces.jpg"
+          },
+          {
+            "ns": 6,
+            "title": "File:Colbert Presenting the Members of the Royal Academy of Sciences to Louis XIV in 1667.PNG"
+          },
+          {
+            "ns": 6,
+            "title": "File:Commons-logo.svg"
+          },
+          {
+            "ns": 6,
+            "title": "File:Cour de Marbre du Château de Versailles October 5, 2011.jpg"
+          },
+          {
+            "ns": 6,
+            "title": "File:De-La-Torre-Jean-Du-Mont--Mémoires MG 0958.tif"
+          },
+          {
+            "ns": 6,
+            "title": "File:Description-de-l'entree-Du-Roy-et-de-la-Reyne-Paris MG 1114.tif"
+          },
+          {
+            "ns": 6,
+            "title": "File:Dual Cypher of King Louis XIV & Queen Marie Thérèse of France.svg"
+          },
+          {
+            "ns": 6,
+            "title": "File:Edit-clear.svg"
+          },
+          {
+            "ns": 6,
+            "title": "File:Equestrian portrait louis xiv 1692.jpg"
+          },
+          {
+            "ns": 6,
+            "title": "File:Europe (orthographic projection).svg"
+          },
+          {
+            "ns": 6,
+            "title": "File:Europe map 1648.PNG"
+          },
+          {
+            "ns": 6,
+            "title": "File:France 1643 to 1715-fr.svg"
+          },
+          {
+            "ns": 6,
+            "title": "File:France 1709-A One Louis d'Or.jpg"
+          },
+          {
+            "ns": 6,
+            "title": "File:Gentlemen here is the King of Spain.jpg"
+          },
+          {
+            "ns": 6,
+            "title": "File:Grand Royal Coat of Arms of France & Navarre.svg"
+          },
+          {
+            "ns": 6,
+            "title": "File:Hyacinthe Rigaud - Philippe V, roi d'Espagne (1683-1746) - Google Art Project.jpg"
+          },
+          {
+            "ns": 6,
+            "title": "File:Jean Nocret - Louis XIV et la famille royale - Google Art Project.jpg"
+          },
+          {
+            "ns": 6,
+            "title": "File:Le Dragon missionnaire.jpg"
+          },
+          {
+            "ns": 6,
+            "title": "File:Le roi gouverne par lui-même.jpg"
+          },
+          {
+            "ns": 6,
+            "title": "File:Louis14-Versailles1685.jpg"
+          },
+          {
+            "ns": 6,
+            "title": "File:LouisXIV-Bernini.jpg"
+          },
+          {
+            "ns": 6,
+            "title": "File:Louis XIV, King of France, after Lefebvre - Les collections du château de Versailles.jpg"
+          },
+          {
+            "ns": 6,
+            "title": "File:Louis XIV Coin.jpg"
+          },
+          {
+            "ns": 6,
+            "title": "File:Louis XIV Signature.svg"
+          },
+          {
+            "ns": 6,
+            "title": "File:Louis XIV by Juste d'Egmont.jpg"
+          },
+          {
+            "ns": 6,
+            "title": "File:Louis XIV by Robert Nanteuil 1670.jpeg"
+          },
+          {
+            "ns": 6,
+            "title": "File:Louis XIV crosses the Rhine at Lobith - Lodewijk XIV trekt bij het Tolhuis bij Lobith de Rijn over, 12 juni 1672 (Adam Frans van der Meulen).jpg"
+          },
+          {
+            "ns": 6,
+            "title": "File:Louis XIV en Jupiter, vainqueur de la Fronde.jpg"
+          },
+          {
+            "ns": 6,
+            "title": "File:Louis XIV of France.jpg"
+          },
+          {
+            "ns": 6,
+            "title": "File:Louis XIV of France and his family attributed to Nicolas de Largillière.jpg"
+          },
+          {
+            "ns": 6,
+            "title": "File:Louis XIV wedding.jpg"
+          },
+          {
+            "ns": 6,
+            "title": "File:Nocret, attributed to - Louis XIV of France - Versailles, MV2066.jpg"
+          },
+          {
+            "ns": 6,
+            "title": "File:OOjs UI icon edit-ltr-progressive.svg"
+          },
+          {
+            "ns": 6,
+            "title": "File:P vip.svg"
+          },
+          {
+            "ns": 6,
+            "title": "File:Paris - Séminaire des Missions étrangères - 9.jpg"
+          },
+          {
+            "ns": 6,
+            "title": "File:Paul de Beauvilliers, duc de Saint-Aignan - Versailles MV 3571.jpg"
+          },
+          {
+            "ns": 6,
+            "title": "File:Philippe Buache Carte de France divisee suivant les quatre departements de Messieurs les secretaires dEtat 07710637.jpg"
+          },
+          {
+            "ns": 6,
+            "title": "File:Portrait de Louis XIV entouré des arts et des sciences.jpg"
+          },
+          {
+            "ns": 6,
+            "title": "File:Portrait du Dauphin futur Louis XIV.1642.jpg"
+          },
+          {
+            "ns": 6,
+            "title": "File:Portrait du Grand Dauphin (bgw17 1063).jpg"
+          },
+          {
+            "ns": 6,
+            "title": "File:Question book-new.svg"
+          },
+          {
+            "ns": 6,
+            "title": "File:Rigaud Hyacinthe - Louis XIV, roi de France.jpg"
+          },
+          {
+            "ns": 6,
+            "title": "File:Royal Monogram of King Louis XIV of France.svg"
+          },
+          {
+            "ns": 6,
+            "title": "File:Royal Standard of King Louis XIV.svg"
+          },
+          {
+            "ns": 6,
+            "title": "File:S21c.jpg"
+          },
+          {
+            "ns": 6,
+            "title": "File:Semi-protection-shackle.svg"
+          },
+          {
+            "ns": 6,
+            "title": "File:SiameseEmbassyToLouisXIV1686NicolasLarmessin.jpg"
+          },
+          {
+            "ns": 6,
+            "title": "File:Simple gold crown.svg"
+          },
+          {
+            "ns": 6,
+            "title": "File:Simple silver crown.svg"
+          },
+          {
+            "ns": 6,
+            "title": "File:Speaker Icon.svg"
+          },
+          {
+            "ns": 6,
+            "title": "File:Symbol category class.svg"
+          },
+          {
+            "ns": 6,
+            "title": "File:Thomas Jones Barker - La Mort de Louis XIV au palais de Versailles.jpg"
+          },
+          {
+            "ns": 6,
+            "title": "File:Wikidata-logo.svg"
+          },
+          {
+            "ns": 6,
+            "title": "File:Wikiquote-logo.svg"
+          },
+          {
+            "ns": 6,
+            "title": "File:Wikisource-logo.svg"
+          }
+        ],
+        "pageprops": {
+          "defaultsort": "Louis 14",
+          "page_image_free": "Louis_XIV_of_France.jpg",
+          "toc": "",
+          "wikibase-shortdesc": "King of France from 1643 to 1715",
+          "wikibase_item": "Q7742"
+        }
+      },
+      {
+        "pageid": 24312,
+        "ns": 0,
+        "title": "Pope Stephen I",
+        "original": {
+          "source": "https://upload.wikimedia.org/wikipedia/commons/7/7c/Head_of_Pope_Saint_Stephen_I_-_Speyer_Cathedral_-_Speyer_-_Germany_2017.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original",
+          "width": 3456,
+          "height": 5184
+        },
+        "pageimage": "Head_of_Pope_Saint_Stephen_I_-_Speyer_Cathedral_-_Speyer_-_Germany_2017.jpg",
+        "images": [
+          {
+            "ns": 6,
+            "title": "File:046CupolaSPietro.jpg"
+          },
+          {
+            "ns": 6,
+            "title": "File:Commons-logo.svg"
+          },
+          {
+            "ns": 6,
+            "title": "File:Gloriole blur.svg"
+          },
+          {
+            "ns": 6,
+            "title": "File:Head of Pope Saint Stephen I - Speyer Cathedral - Speyer - Germany 2017.jpg"
+          },
+          {
+            "ns": 6,
+            "title": "File:Martyrion Agiou Stephanou Romes Dionysiou.jpg"
+          },
+          {
+            "ns": 6,
+            "title": "File:OOjs UI icon edit-ltr-progressive.svg"
+          },
+          {
+            "ns": 6,
+            "title": "File:P christianity.svg"
+          },
+          {
+            "ns": 6,
+            "title": "File:P history.svg"
+          },
+          {
+            "ns": 6,
+            "title": "File:P vip.svg"
+          },
+          {
+            "ns": 6,
+            "title": "File:Symbol category class.svg"
+          },
+          {
+            "ns": 6,
+            "title": "File:Symbol portal class.svg"
+          },
+          {
+            "ns": 6,
+            "title": "File:Wikisource-logo.svg"
+          }
+        ],
+        "pageprops": {
+          "defaultsort": "Stephen 01",
+          "page_image_free": "Head_of_Pope_Saint_Stephen_I_-_Speyer_Cathedral_-_Speyer_-_Germany_2017.jpg",
+          "wikibase-shortdesc": "Head of the Catholic Church from 254 to 257",
+          "wikibase_item": "Q134666"
+        }
+      },
+      {
+        "pageid": 27786,
+        "ns": 0,
+        "title": "Simon bar Kokhba",
+        "original": {
+          "source": "https://upload.wikimedia.org/wikipedia/commons/6/66/Arthur_Szyk_%281894-1951%29._Bar_Kochba_%281927%29%2C_Paris.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original",
+          "width": 885,
+          "height": 889
+        },
+        "pageimage": "Arthur_Szyk_(1894-1951)._Bar_Kochba_(1927),_Paris.jpg",
+        "images": [
+          {
+            "ns": 6,
+            "title": "File:Arthur Szyk (1894-1951). Bar Kochba (1927), Paris.jpg"
+          },
+          {
+            "ns": 6,
+            "title": "File:Bar Kokhba Coin.jpg"
+          },
+          {
+            "ns": 6,
+            "title": "File:Barkokhba-silver-tetradrachm.jpg"
+          },
+          {
+            "ns": 6,
+            "title": "File:Commons-logo.svg"
+          },
+          {
+            "ns": 6,
+            "title": "File:Knesset Menorah P5200010 Bar Kochvah.JPG"
+          },
+          {
+            "ns": 6,
+            "title": "File:Monnaie - Zuz, argent, Hérodion, Judée, Simon Bar Kokhba - btv1b8498700f (1 of 2).jpg"
+          },
+          {
+            "ns": 6,
+            "title": "File:OOjs UI icon edit-ltr-progressive.svg"
+          },
+          {
+            "ns": 6,
+            "title": "File:Stamp of Israel - Festivals 5722 - 0.40IL.jpg"
+          },
+          {
+            "ns": 6,
+            "title": "File:Symbol category class.svg"
+          },
+          {
+            "ns": 6,
+            "title": "File:Wikisource-logo.svg"
+          },
+          {
+            "ns": 6,
+            "title": "File:תוספת לערך ויקיפדיה חנוך הנריק גליצנשטיין בר כוכבא ברונזה 1905.jpg"
+          }
+        ],
+        "pageprops": {
+          "defaultsort": "Bar Kokhba, Simon",
+          "page_image_free": "Arthur_Szyk_(1894-1951)._Bar_Kochba_(1927),_Paris.jpg",
+          "wikibase-shortdesc": "Leader of the Bar Kokhba revolt (132–136 CE)",
+          "wikibase_item": "Q273117"
+        }
+      },
+      {
+        "pageid": 29644,
+        "ns": 0,
+        "title": "Sulpicius Severus",
+        "images": [
+          {
+            "ns": 6,
+            "title": "File:046CupolaSPietro.jpg"
+          },
+          {
+            "ns": 6,
+            "title": "File:Caroline 2.jpg"
+          },
+          {
+            "ns": 6,
+            "title": "File:Edit-clear.svg"
+          },
+          {
+            "ns": 6,
+            "title": "File:Flag of France.svg"
+          },
+          {
+            "ns": 6,
+            "title": "File:OOjs UI icon edit-ltr-progressive.svg"
+          },
+          {
+            "ns": 6,
+            "title": "File:P vip.svg"
+          },
+          {
+            "ns": 6,
+            "title": "File:Wikiquote-logo.svg"
+          }
+        ],
+        "pageprops": {
+          "defaultsort": "Severus, Sulpicius",
+          "wikibase-shortdesc": "Christian writer and historian (c. 363 – c. 425)",
+          "wikibase_item": "Q336704"
+        }
+      },
+      {
+        "pageid": 36812,
+        "ns": 0,
+        "title": "Pericles",
+        "original": {
+          "source": "https://upload.wikimedia.org/wikipedia/commons/4/4b/Pericles_Pio-Clementino_Inv269_n2.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original",
+          "width": 1300,
+          "height": 1970
+        },
+        "pageimage": "Pericles_Pio-Clementino_Inv269_n2.jpg",
+        "images": [
+          {
+            "ns": 6,
+            "title": "File:1868 Lawrence Alma-Tadema - Phidias Showing the Frieze of the Parthenon to his Friends.jpg"
+          },
+          {
+            "ns": 6,
+            "title": "File:AGMA Ostrakon Périclès.jpg"
+          },
+          {
+            "ns": 6,
+            "title": "File:Akropolis by Leo von Klenze.jpg"
+          },
+          {
+            "ns": 6,
+            "title": "File:Anaxagoras and Pericles.jpg"
+          },
+          {
+            "ns": 6,
+            "title": "File:Aspasie Pio-Clementino Inv272.jpg"
+          },
+          {
+            "ns": 6,
+            "title": "File:Bust Pericles Chiaramonti.jpg"
+          },
+          {
+            "ns": 6,
+            "title": "File:Discurso funebre pericles.PNG"
+          },
+          {
+            "ns": 6,
+            "title": "File:En-us-Pericles.ogg"
+          },
+          {
+            "ns": 6,
+            "title": "File:Global thinking.svg"
+          },
+          {
+            "ns": 6,
+            "title": "File:Illus0362.jpg"
+          },
+          {
+            "ns": 6,
+            "title": "File:OOjs UI icon edit-ltr-progressive.svg"
+          },
+          {
+            "ns": 6,
+            "title": "File:Parthenon from south.jpg"
+          },
+          {
+            "ns": 6,
+            "title": "File:Parthenon from west.jpg"
+          },
+          {
+            "ns": 6,
+            "title": "File:Pericles.jpg"
+          },
+          {
+            "ns": 6,
+            "title": "File:Pericles Pio-Clementino Inv269 n2.jpg"
+          },
+          {
+            "ns": 6,
+            "title": "File:Perikles altes Museum.jpg"
+          },
+          {
+            "ns": 6,
+            "title": "File:Plague in an Ancient City LACMA AC1997.10.1 (1 of 2).jpg"
+          },
+          {
+            "ns": 6,
+            "title": "File:Symbol category class.svg"
+          },
+          {
+            "ns": 6,
+            "title": "File:Symbol portal class.svg"
+          },
+          {
+            "ns": 6,
+            "title": "File:The Acropolis of Athens viewed from the Hill of the Muses (14220794964).jpg"
+          },
+          {
+            "ns": 6,
+            "title": "File:Wikiquote-logo.svg"
+          }
+        ],
+        "pageprops": {
+          "page_image_free": "Pericles_Pio-Clementino_Inv269_n2.jpg",
+          "wikibase-shortdesc": "Athenian statesman and general (c. 495-429)",
+          "wikibase_item": "Q80398"
+        }
+      },
+      {
+        "pageid": 66612,
+        "ns": 0,
+        "title": "Hugo Grotius",
+        "original": {
+          "source": "https://upload.wikimedia.org/wikipedia/commons/8/80/Michiel_Jansz_van_Mierevelt_-_Hugo_Grotius.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original",
+          "width": 839,
+          "height": 1000
+        },
+        "pageimage": "Michiel_Jansz_van_Mierevelt_-_Hugo_Grotius.jpg",
+        "images": [
+          {
+            "ns": 6,
+            "title": "File:381px-Grotius de jure 1631.jpg"
+          },
+          {
+            "ns": 6,
+            "title": "File:A coloured voting box.svg"
+          },
+          {
+            "ns": 6,
+            "title": "File:Annotationes ad Vetus Testamentum.tif"
+          },
+          {
+            "ns": 6,
+            "title": "File:Arminius 5 flopped and cropped.png"
+          },
+          {
+            "ns": 6,
+            "title": "File:Commons-logo.svg"
+          },
+          {
+            "ns": 6,
+            "title": "File:Fredrik-Duim-De-vlugt-van-Huig-de-Groot MG 1299.tif"
+          },
+          {
+            "ns": 6,
+            "title": "File:Grotius de iure praedae.jpg"
+          },
+          {
+            "ns": 6,
+            "title": "File:Hug. Grotii Bataui Syntagma Arateorum 981373 00009.jpg"
+          },
+          {
+            "ns": 6,
+            "title": "File:Hugo-de-Groot-Johann-Niclas-Serlin-Drey-Bücher-von-Kriegs-und-Friedens-Rechten 0157.tif"
+          },
+          {
+            "ns": 6,
+            "title": "File:Hugo Grotius00.jpg"
+          },
+          {
+            "ns": 6,
+            "title": "File:Hugo Grotius bas-relief in the U.S. House of Representatives chamber.jpg"
+          },
+          {
+            "ns": 6,
+            "title": "File:Hugo Grotius signature 1634.svg"
+          },
+          {
+            "ns": 6,
+            "title": "File:Michiel Jansz van Mierevelt - Hugo Grotius.jpg"
+          },
+          {
+            "ns": 6,
+            "title": "File:OOjs UI icon edit-ltr-progressive.svg"
+          },
+          {
+            "ns": 6,
+            "title": "File:P christianity.svg"
+          },
+          {
+            "ns": 6,
+            "title": "File:Quill and ink.svg"
+          },
+          {
+            "ns": 6,
+            "title": "File:Slot loevestein 1619.jpg"
+          },
+          {
+            "ns": 6,
+            "title": "File:Speaker Icon.svg"
+          },
+          {
+            "ns": 6,
+            "title": "File:Statue of Hugo Grotius.jpg"
+          },
+          {
+            "ns": 6,
+            "title": "File:Symbol category class.svg"
+          },
+          {
+            "ns": 6,
+            "title": "File:WLANL - Pachango - Slot Loevestein - Boekenkist van Hugo de Groot.jpg"
+          },
+          {
+            "ns": 6,
+            "title": "File:Wikiquote-logo.svg"
+          },
+          {
+            "ns": 6,
+            "title": "File:Wikisource-logo.svg"
+          }
+        ],
+        "pageprops": {
+          "defaultsort": "Grotius, Hugo",
+          "page_image_free": "Michiel_Jansz_van_Mierevelt_-_Hugo_Grotius.jpg",
+          "wikibase-shortdesc": "Dutch philosopher and jurist (1583–1645)",
+          "wikibase_item": "Q154959"
+        }
+      },
+      {
+        "pageid": 69804,
+        "ns": 0,
+        "title": "Phidias",
+        "original": {
+          "source": "https://upload.wikimedia.org/wikipedia/commons/3/3a/The_Sculptor_Phidias-Ny_Carlsberg_Glyptotek.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original",
+          "width": 2448,
+          "height": 3264
+        },
+        "pageimage": "The_Sculptor_Phidias-Ny_Carlsberg_Glyptotek.jpg",
+        "images": [
+          {
+            "ns": 6,
+            "title": "File:1868 Lawrence Alma-Tadema - Phidias Showing the Frieze of the Parthenon to his Friends.jpg"
+          },
+          {
+            "ns": 6,
+            "title": "File:Aphrodite Sappho Chiaramonti Inv1459.jpg"
+          },
+          {
+            "ns": 6,
+            "title": "File:Apollo ivory mask.jpg"
+          },
+          {
+            "ns": 6,
+            "title": "File:Commons-logo.svg"
+          },
+          {
+            "ns": 6,
+            "title": "File:Elide, moneta di adriano con zeus olimpio.JPG"
+          },
+          {
+            "ns": 6,
+            "title": "File:Head Pnyx Athena NAMAthens 3718.jpg"
+          },
+          {
+            "ns": 6,
+            "title": "File:Lemnia torso04 pushkin.jpg"
+          },
+          {
+            "ns": 6,
+            "title": "File:OOjs UI icon edit-ltr-progressive.svg"
+          },
+          {
+            "ns": 6,
+            "title": "File:Paul Delaroche - Hémicycle.jpg"
+          },
+          {
+            "ns": 6,
+            "title": "File:Question book-new.svg"
+          },
+          {
+            "ns": 6,
+            "title": "File:Statue of Zeus.jpg"
+          },
+          {
+            "ns": 6,
+            "title": "File:Testa di Minerva S.Giulia Brescia.JPG"
+          },
+          {
+            "ns": 6,
+            "title": "File:The Acropolis of Athens viewed from the Hill of the Muses (14220794964).jpg"
+          },
+          {
+            "ns": 6,
+            "title": "File:The Sculptor Phidias-Ny Carlsberg Glyptotek.jpg"
+          },
+          {
+            "ns": 6,
+            "title": "File:The Strangford Shield, BM.jpg"
+          },
+          {
+            "ns": 6,
+            "title": "File:Varvakeion Athena.jpg"
+          },
+          {
+            "ns": 6,
+            "title": "File:Wikisource-logo.svg"
+          },
+          {
+            "ns": 6,
+            "title": "File:Workshop of Phidias.jpg"
+          }
+        ],
+        "pageprops": {
+          "page_image_free": "The_Sculptor_Phidias-Ny_Carlsberg_Glyptotek.jpg",
+          "wikibase-shortdesc": "Greek sculptor, painter and architect (c.480–430 BC)",
+          "wikibase_item": "Q177302"
+        }
+      },
+      {
+        "pageid": 70716,
+        "ns": 0,
+        "title": "Charles V, Holy Roman Emperor",
+        "original": {
+          "source": "https://upload.wikimedia.org/wikipedia/commons/6/6f/Portrait_of_Charles_V%2C_Holy_Roman_Emperor%2C_seated_%281500%E2%80%931558%29%2C_formerly_attributed_to_Titian_%28Alte_Pinakothek%2C_Munich%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original",
+          "width": 1783,
+          "height": 3000
+        },
+        "pageimage": "Portrait_of_Charles_V,_Holy_Roman_Emperor,_seated_(1500–1558),_formerly_attributed_to_Titian_(Alte_Pinakothek,_Munich).jpg",
+        "images": [
+          {
+            "ns": 6,
+            "title": "File:046CupolaSPietro.jpg"
+          },
+          {
+            "ns": 6,
+            "title": "File:Allegorie du regne de Charles Quint 16th century.jpg"
+          },
+          {
+            "ns": 6,
+            "title": "File:Allegorie op de troonsafstand van keizer Karel V te Brussel Rijksmuseum SK-A-112.jpeg"
+          },
+          {
+            "ns": 6,
+            "title": "File:Alonso Sánchez Coello - Portrait of Juana of Austria, Princess of Portugal - Google Art Project.jpg"
+          },
+          {
+            "ns": 6,
+            "title": "File:Andreas Nunzer Übergabe der Augsburger Konfession 1530.jpg"
+          },
+          {
+            "ns": 6,
+            "title": "File:Anthonis Mor - Margaret, Duchess of Parma - WGA16182.jpg"
+          },
+          {
+            "ns": 6,
+            "title": "File:Anton Fugger burning the debenture bonds of Charles V in 1535 by Carl Ludwig Friedrich Becker.jpg"
+          },
+          {
+            "ns": 6,
+            "title": "File:Archive-ugent-be-79D46426-CC9D-11E3-B56B-4FBAD43445F2 DS-263 (cropped).jpg"
+          },
+          {
+            "ns": 6,
+            "title": "File:Armadura de Carlos V a caballo.jpg"
+          },
+          {
+            "ns": 6,
+            "title": "File:Arms-of-Luxembourg.svg"
+          },
+          {
+            "ns": 6,
+            "title": "File:Arms of County of Burgundy.svg"
+          },
+          {
+            "ns": 6,
+            "title": "File:Arms of Ferdinand I of Naples.svg"
+          },
+          {
+            "ns": 6,
+            "title": "File:Arms of Flanders.svg"
+          },
+          {
+            "ns": 6,
+            "title": "File:Arms of Galicia (Spain), 16th Century.svg"
+          },
+          {
+            "ns": 6,
+            "title": "File:Arms of Robert dArtois.svg"
+          },
+          {
+            "ns": 6,
+            "title": "File:Arms of the Aragonese Kings of Sicily(Crowned).svg"
+          },
+          {
+            "ns": 6,
+            "title": "File:Arms of the Count of Luxembourg.svg"
+          },
+          {
+            "ns": 6,
+            "title": "File:Arms of the Crown of Castile (15th Century).svg"
+          },
+          {
+            "ns": 6,
+            "title": "File:Arms of the Duke of Limburg.svg"
+          },
+          {
+            "ns": 6,
+            "title": "File:Arms of the Holy Roman Empire (after 1433).svg"
+          },
+          {
+            "ns": 6,
+            "title": "File:Austria coat of arms simple.svg"
+          },
+          {
+            "ns": 6,
+            "title": "File:Barend van Orley - Portrait of Charles V - Google Art Project.jpg"
+          },
+          {
+            "ns": 6,
+            "title": "File:Bernhard Strigel 003b.jpg"
+          },
+          {
+            "ns": 6,
+            "title": "File:Blason Charolais.svg"
+          },
+          {
+            "ns": 6,
+            "title": "File:Blason DE saint empire (une tête).svg"
+          },
+          {
+            "ns": 6,
+            "title": "File:Blason fr Bourgogne.svg"
+          },
+          {
+            "ns": 6,
+            "title": "File:C. 1540 Austrian territories (Western).jpg"
+          },
+          {
+            "ns": 6,
+            "title": "File:Cenotafio de Carlos I de España y su familia.jpg"
+          },
+          {
+            "ns": 6,
+            "title": "File:Charles V and Empress Isabella of Portugal, by Peter Paul Rubens.jpg"
+          },
+          {
+            "ns": 6,
+            "title": "File:Children of Joanna and Philip.JPG"
+          },
+          {
+            "ns": 6,
+            "title": "File:Coat of Arms of Catalonia.svg"
+          },
+          {
+            "ns": 6,
+            "title": "File:Coat of Arms of Charles I of Spain (1516-1518).svg"
+          },
+          {
+            "ns": 6,
+            "title": "File:Coat of Arms of Leonor, Princess of Asturias.svg"
+          },
+          {
+            "ns": 6,
+            "title": "File:Coat of Arms of León (1157-1230).svg"
+          },
+          {
+            "ns": 6,
+            "title": "File:Coat of Arms of the Prince of Girona (1370-1665).svg"
+          },
+          {
+            "ns": 6,
+            "title": "File:Coat of arms of Brabant.svg"
+          },
+          {
+            "ns": 6,
+            "title": "File:Coat of arms of Charles, Infant of Spain, Archduke of Austria, Duke of Burgundy.png"
+          },
+          {
+            "ns": 6,
+            "title": "File:Coat of arms of the archduchy of Austria.svg"
+          },
+          {
+            "ns": 6,
+            "title": "File:Coatofarmszeeland.PNG"
+          },
+          {
+            "ns": 6,
+            "title": "File:Commons-logo.svg"
+          },
+          {
+            "ns": 6,
+            "title": "File:Counts of Holland Arms.svg"
+          },
+          {
+            "ns": 6,
+            "title": "File:Don Juan d'Austria 1.JPG"
+          },
+          {
+            "ns": 6,
+            "title": "File:Dormitorio del emperador Carlos V en el palacio de Yuste, Cáceres.jpg"
+          },
+          {
+            "ns": 6,
+            "title": "File:Eduardo Rosales - Juan de Austria's presentation to Emperor Carlos V in YusteFXD.jpg"
+          },
+          {
+            "ns": 6,
+            "title": "File:Elderly Karl V.jpg"
+          },
+          {
+            "ns": 6,
+            "title": "File:Empire-Roman-Emperor-Charles-V 01.png"
+          },
+          {
+            "ns": 6,
+            "title": "File:Escudo de Zutphen 1581.png"
+          },
+          {
+            "ns": 6,
+            "title": "File:Escutcheon of Charles V of Spain MET DT287185.jpg"
+          },
+          {
+            "ns": 6,
+            "title": "File:Firma Emperador Carlos V.svg"
+          },
+          {
+            "ns": 6,
+            "title": "File:Greater Coat of Arms of Charles I of Spain, Charles V as Holy Roman Emperor (1530-1556).svg"
+          },
+          {
+            "ns": 6,
+            "title": "File:Guelders-Jülich Arms.svg"
+          },
+          {
+            "ns": 6,
+            "title": "File:Habsburg Empire of Charles V.png"
+          },
+          {
+            "ns": 6,
+            "title": "File:Habsburg dominions 1700.png"
+          },
+          {
+            "ns": 6,
+            "title": "File:Hainaut Modern Arms.svg"
+          },
+          {
+            "ns": 6,
+            "title": "File:Hoftenwalle.JPG"
+          },
+          {
+            "ns": 6,
+            "title": "File:Italy 1000 AD alt1.svg"
+          },
+          {
+            "ns": 6,
+            "title": "File:Jakob Seisenegger 001.jpg"
+          },
+          {
+            "ns": 6,
+            "title": "File:John of Austria portrait.jpg"
+          },
+          {
+            "ns": 6,
+            "title": "File:Keizer Karel - Albrecht De Vriendt - Musea Brugge - 2.jpg"
+          },
+          {
+            "ns": 6,
+            "title": "File:La batalla de Pavía, tapiz basado en una pintura de Bernard van Orley.jpg"
+          },
+          {
+            "ns": 6,
+            "title": "File:La emperatriz Isabel de Portugal, por Tiziano.jpg"
+          },
+          {
+            "ns": 6,
+            "title": "File:Leyes Nuevas1.jpg"
+          },
+          {
+            "ns": 6,
+            "title": "File:Lucas Cranach - Hofjagd in Torgau zu Ehren Karls V. (1544, Museo del Prado)FXD.jpg"
+          },
+          {
+            "ns": 6,
+            "title": "File:Manif. di bruxelles su dis.di bernart von orley, IGMN144483, 1526-31.JPG"
+          },
+          {
+            "ns": 6,
+            "title": "File:Maria of Spain 1557.jpg"
+          },
+          {
+            "ns": 6,
+            "title": "File:Middle-Coat-of-Arms-of-Luxembourg.svg"
+          },
+          {
+            "ns": 6,
+            "title": "File:Monumento a Carlos V.jpg"
+          },
+          {
+            "ns": 6,
+            "title": "File:Namur Arms.svg"
+          },
+          {
+            "ns": 6,
+            "title": "File:Nuremberg chronicles - Augusta vendilicorum.png"
+          },
+          {
+            "ns": 6,
+            "title": "File:OOjs UI icon edit-ltr-progressive.svg"
+          },
+          {
+            "ns": 6,
+            "title": "File:Palacio Carlos V west.jpg"
+          },
+          {
+            "ns": 6,
+            "title": "File:Paleis op de Koudenberg.jpg"
+          },
+          {
+            "ns": 6,
+            "title": "File:Papa Clemente VII e l'imperatore Carlo V a cavallo soto un baldacchino (8 de agosto de 2018, Museo degli affreschi Giovanni Battista Cavalcaselle, Verona).jpg"
+          },
+          {
+            "ns": 6,
+            "title": "File:Papa Clemente VII e l'imperatore Carlo V a cavallo sotto un baldacchino (8 de agosto de 2018, Museo degli affreschi Giovanni Battista Cavalcaselle, Verona).jpg"
+          },
+          {
+            "ns": 6,
+            "title": "File:Portrait of Charles V, Holy Roman Emperor, seated (1500–1558), formerly attributed to Titian (Alte Pinakothek, Munich).jpg"
+          },
+          {
+            "ns": 6,
+            "title": "File:Portrait of Philip II of Spain by Sofonisba Anguissola - 002b.jpg"
+          },
+          {
+            "ns": 6,
+            "title": "File:Portret van Adrianus VI (1459-1523) - naar Jan van Scorel - KU Leuven Kunstpatrimonium - S017.jpg"
+          },
+          {
+            "ns": 6,
+            "title": "File:Real Alcázar. Salón de los Tapices. Paño VII. Toma de la Goleta.jpg"
+          },
+          {
+            "ns": 6,
+            "title": "File:Royal Arms of Castille (1214-15th Century).svg"
+          },
+          {
+            "ns": 6,
+            "title": "File:Royal Bend of Charles V.svg"
+          },
+          {
+            "ns": 6,
+            "title": "File:Royal arms of Aragon (Crowned).svg"
+          },
+          {
+            "ns": 6,
+            "title": "File:Shield of Alfonso IX of Leon.svg"
+          },
+          {
+            "ns": 6,
+            "title": "File:Summons for Luther to appear at the Diet of Worms.jpg"
+          },
+          {
+            "ns": 6,
+            "title": "File:Symbol category class.svg"
+          },
+          {
+            "ns": 6,
+            "title": "File:Toledo Skyline Panorama, Spain - Dec 2006.jpg"
+          },
+          {
+            "ns": 6,
+            "title": "File:Truce of Nice 1538.jpg"
+          },
+          {
+            "ns": 6,
+            "title": "File:Wikiquote-logo.svg"
+          }
+        ],
+        "pageprops": {
+          "defaultsort": "Charles 05, Holy Roman Emperor",
+          "page_image_free": "Portrait_of_Charles_V,_Holy_Roman_Emperor,_seated_(1500–1558),_formerly_attributed_to_Titian_(Alte_Pinakothek,_Munich).jpg",
+          "wikibase-shortdesc": "Holy Roman Emperor from 1519 to 1556",
+          "wikibase_item": "Q32500"
+        }
+      },
+      {
+        "pageid": 113070,
+        "ns": 0,
+        "title": "Pontius Pilate",
+        "original": {
+          "source": "https://upload.wikimedia.org/wikipedia/commons/d/de/Ecce_homo_by_Antonio_Ciseri_%281%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original",
+          "width": 3072,
+          "height": 2358
+        },
+        "pageimage": "Ecce_homo_by_Antonio_Ciseri_(1).jpg",
+        "images": [
+          {
+            "ns": 6,
+            "title": "File:A remorseful Pilate prepares to kill himself. Engraving by G Wellcome V0034470.jpg"
+          },
+          {
+            "ns": 6,
+            "title": "File:Bernwardstür (28).JPG"
+          },
+          {
+            "ns": 6,
+            "title": "File:Christ before Pilate Bible moralisee Oxford-Paris-London BNF Lat11560 f183v.jpg"
+          },
+          {
+            "ns": 6,
+            "title": "File:Coin-of-Pilate.jpg"
+          },
+          {
+            "ns": 6,
+            "title": "File:Commons-logo.svg"
+          },
+          {
+            "ns": 6,
+            "title": "File:Court of Pilates - Sant'Apollinare Nuovo - Ravenna 2016.jpg"
+          },
+          {
+            "ns": 6,
+            "title": "File:Duccio di Buoninsegna - Pilate's First Interrogation of Christ - WGA06803.jpg"
+          },
+          {
+            "ns": 6,
+            "title": "File:Ecce homo by Antonio Ciseri (1).jpg"
+          },
+          {
+            "ns": 6,
+            "title": "File:Judaea Roman Province.svg"
+          },
+          {
+            "ns": 6,
+            "title": "File:Magdeburger Reliefs Verhör Geisselung.jpg"
+          },
+          {
+            "ns": 6,
+            "title": "File:Munkacsy - Christ in front of Pilate.jpg"
+          },
+          {
+            "ns": 6,
+            "title": "File:OOjs UI icon edit-ltr-progressive.svg"
+          },
+          {
+            "ns": 6,
+            "title": "File:Obilman Ecce Homo.jpg"
+          },
+          {
+            "ns": 6,
+            "title": "File:Pasión-Ecce Homo.jpg"
+          },
+          {
+            "ns": 6,
+            "title": "File:Pilate Inscription.JPG"
+          },
+          {
+            "ns": 6,
+            "title": "File:Pontius Pilatus angebl Grabmal Vienne (IZ 48-1867 S 266 JResch).jpg"
+          },
+          {
+            "ns": 6,
+            "title": "File:Ponzio Pilato 1962 Marais.png"
+          },
+          {
+            "ns": 6,
+            "title": "File:Prutah Of Pontius Pilate.jpg"
+          },
+          {
+            "ns": 6,
+            "title": "File:SAAM-1929.6.148 1.jpg"
+          },
+          {
+            "ns": 6,
+            "title": "File:What-is-truth02.jpg"
+          },
+          {
+            "ns": 6,
+            "title": "File:Wikiquote-logo.svg"
+          },
+          {
+            "ns": 6,
+            "title": "File:Wikisource-logo.svg"
+          }
+        ],
+        "pageprops": {
+          "defaultsort": "Pilate, Pontius",
+          "page_image_free": "Ecce_homo_by_Antonio_Ciseri_(1).jpg",
+          "wikibase-shortdesc": "Roman governor of Judea and condemner of Jesus",
+          "wikibase_item": "Q17131"
+        }
+      },
+      {
+        "pageid": 256911,
+        "ns": 0,
+        "title": "Marcus Valerius Messalla Corvinus",
+        "original": {
+          "source": "https://upload.wikimedia.org/wikipedia/commons/2/20/Warsaw_2023_214_Krasinski_Palace_Valerius_Statue.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original",
+          "width": 1951,
+          "height": 2935
+        },
+        "pageimage": "Warsaw_2023_214_Krasinski_Palace_Valerius_Statue.jpg",
+        "images": [
+          {
+            "ns": 6,
+            "title": "File:Apoteosis de Claudio (Museo del Prado E-225) 01.jpg"
+          },
+          {
+            "ns": 6,
+            "title": "File:OOjs UI icon edit-ltr-progressive.svg"
+          },
+          {
+            "ns": 6,
+            "title": "File:Warsaw4tm.jpg"
+          },
+          {
+            "ns": 6,
+            "title": "File:Warsaw 2023 208 Krasinski Palace Valerius Relief.jpg"
+          },
+          {
+            "ns": 6,
+            "title": "File:Warsaw 2023 214 Krasinski Palace Valerius Statue.jpg"
+          },
+          {
+            "ns": 6,
+            "title": "File:Wikisource-logo.svg"
+          }
+        ],
+        "pageprops": {
+          "defaultsort": "Valerius Messalla Corvinus, Marcus",
+          "page_image_free": "Warsaw_2023_214_Krasinski_Palace_Valerius_Statue.jpg",
+          "wikibase-shortdesc": "1st-century BC Roman politician and general",
+          "wikibase_item": "Q508117"
+        }
+      },
+      {
+        "pageid": 657094,
+        "ns": 0,
+        "title": "Lysippos",
+        "original": {
+          "source": "https://upload.wikimedia.org/wikipedia/commons/3/3e/Statue_base_with_signature_of_Lysippos%2C_Corinth_%28inv._I_29%3B_Corinth_VIII.1%2C_34%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original",
+          "width": 4663,
+          "height": 2908
+        },
+        "pageimage": "Statue_base_with_signature_of_Lysippos,_Corinth_(inv._I_29;_Corinth_VIII.1,_34).jpg",
+        "images": [
+          {
+            "ns": 6,
+            "title": "File:0002MAN-Hermes.jpg"
+          },
+          {
+            "ns": 6,
+            "title": "File:AlexandreTheGreat Louvre.jpg"
+          },
+          {
+            "ns": 6,
+            "title": "File:Commons-logo.svg"
+          },
+          {
+            "ns": 6,
+            "title": "File:Head of Socrates, 210BC copy of bust by Lysippos of 320BC, Museum of Old Masters, Dresden.jpg"
+          },
+          {
+            "ns": 6,
+            "title": "File:L'atleta di Fano.jpg"
+          },
+          {
+            "ns": 6,
+            "title": "File:OOjs UI icon edit-ltr-progressive.svg"
+          },
+          {
+            "ns": 6,
+            "title": "File:Statue base with signature of Lysippos, Corinth (inv. I 29; Corinth VIII.1, 34).jpg"
+          }
+        ],
+        "pageprops": {
+          "page_image_free": "Statue_base_with_signature_of_Lysippos,_Corinth_(inv._I_29;_Corinth_VIII.1,_34).jpg",
+          "wikibase-shortdesc": "4th-century BC Greek sculptor",
+          "wikibase_item": "Q192222"
+        }
+      },
+      {
+        "pageid": 1566140,
+        "ns": 0,
+        "title": "George Kedrenos",
+        "images": [
+          {
+            "ns": 6,
+            "title": "File:Meister von San Vitale in Ravenna.jpg"
+          },
+          {
+            "ns": 6,
+            "title": "File:OOjs UI icon edit-ltr-progressive.svg"
+          }
+        ],
+        "pageprops": {
+          "defaultsort": "Kedrenos, George",
+          "wikibase-shortdesc": "11th century Byzantine historian",
+          "wikibase_item": "Q360883"
+        }
+      },
+      {
+        "pageid": 1775405,
+        "ns": 0,
+        "title": "Dionysius of Alexandria",
+        "original": {
+          "source": "https://upload.wikimedia.org/wikipedia/commons/3/32/Dionisii_alek.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original",
+          "width": 351,
+          "height": 452
+        },
+        "pageimage": "Dionisii_alek.jpg",
+        "images": [
+          {
+            "ns": 6,
+            "title": "File:046CupolaSPietro.jpg"
+          },
+          {
+            "ns": 6,
+            "title": "File:Dionisii alek.jpg"
+          },
+          {
+            "ns": 6,
+            "title": "File:Flag of Egypt.svg"
+          },
+          {
+            "ns": 6,
+            "title": "File:Gloriole blur.svg"
+          },
+          {
+            "ns": 6,
+            "title": "File:OOjs UI icon edit-ltr-progressive.svg"
+          },
+          {
+            "ns": 6,
+            "title": "File:P christianity.svg"
+          },
+          {
+            "ns": 6,
+            "title": "File:P vip.svg"
+          },
+          {
+            "ns": 6,
+            "title": "File:Speaker Icon.svg"
+          }
+        ],
+        "pageprops": {
+          "defaultsort": "Dionysius Of Alexandria",
+          "page_image_free": "Dionisii_alek.jpg",
+          "wikibase-shortdesc": "Head of the Church in Alexandria from 248 to 264",
+          "wikibase_item": "Q328736"
+        }
+      },
+      {
+        "pageid": 1848609,
+        "ns": 0,
+        "title": "Julius Constantius",
+        "images": [
+          {
+            "ns": 6,
+            "title": "File:Constantine Chiaramonti Inv1749.jpg"
+          }
+        ],
+        "pageprops": {
+          "defaultsort": "Constantius, Julius",
+          "wikibase-shortdesc": "Father of emperor Julian (died 337)",
+          "wikibase_item": "Q450702"
+        }
+      },
+      {
+        "pageid": 2281001,
+        "ns": 0,
+        "title": "Flavius Dalmatius",
+        "images": [
+          {
+            "ns": 6,
+            "title": "File:Wikisource-logo.svg"
+          }
+        ],
+        "pageprops": {
+          "defaultsort": "Dalmatius, Flavius",
+          "wikibase-shortdesc": "Son of Constantius I",
+          "wikibase_item": "Q504556"
+        }
+      },
+      {
+        "pageid": 2285933,
+        "ns": 0,
+        "title": "Flavia Julia Constantia",
+        "original": {
+          "source": "https://upload.wikimedia.org/wikipedia/commons/5/58/Coin_of_Flavia_Julia_Constantia_%28obverse%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original",
+          "width": 223,
+          "height": 232
+        },
+        "pageimage": "Coin_of_Flavia_Julia_Constantia_(obverse).jpg",
+        "images": [
+          {
+            "ns": 6,
+            "title": "File:Coin of Flavia Julia Constantia (obverse).jpg"
+          },
+          {
+            "ns": 6,
+            "title": "File:Commons-logo.svg"
+          },
+          {
+            "ns": 6,
+            "title": "File:Iscrizione in onore di Costanza - Musei Capitolini.jpg"
+          }
+        ],
+        "pageprops": {
+          "defaultsort": "Constantia, Flavia Julia",
+          "page_image_free": "Coin_of_Flavia_Julia_Constantia_(obverse).jpg",
+          "wikibase-shortdesc": "Roman empress from 313 to 324",
+          "wikibase_item": "Q238023"
+        }
+      },
+      {
+        "pageid": 2563255,
+        "ns": 0,
+        "title": "Minervina",
+        "original": {
+          "source": "https://upload.wikimedia.org/wikipedia/commons/f/ff/Minervina%2C_wife_of_Constantine_I.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original",
+          "width": 267,
+          "height": 348
+        },
+        "pageimage": "Minervina,_wife_of_Constantine_I.png",
+        "images": [
+          {
+            "ns": 6,
+            "title": "File:INC-1822-r Солид Крисп цезарь ок. 317 г. (реверс).png"
+          },
+          {
+            "ns": 6,
+            "title": "File:Julius Caesar.jpg"
+          },
+          {
+            "ns": 6,
+            "title": "File:Minervina, wife of Constantine I.png"
+          }
+        ],
+        "pageprops": {
+          "page_image_free": "Minervina,_wife_of_Constantine_I.png",
+          "wikibase-shortdesc": "Wife or concubine of Constantine I",
+          "wikibase_item": "Q45522"
+        }
+      },
+      {
+        "pageid": 3075728,
+        "ns": 0,
+        "title": "Titus Flavius Clemens (consul)",
+        "images": [
+          {
+            "ns": 6,
+            "title": "File:046CupolaSPietro.jpg"
+          },
+          {
+            "ns": 6,
+            "title": "File:Gloriole blur.svg"
+          },
+          {
+            "ns": 6,
+            "title": "File:OOjs UI icon edit-ltr-progressive.svg"
+          },
+          {
+            "ns": 6,
+            "title": "File:PD-icon.svg"
+          }
+        ],
+        "pageprops": {
+          "defaultsort": "Flavius Clemens, Titus",
+          "wikibase-shortdesc": "1st century Roman politician and cousin of emperor Domitian",
+          "wikibase_item": "Q280869"
+        }
+      },
+      {
+        "pageid": 3642191,
+        "ns": 0,
+        "title": "Gorgonius",
+        "original": {
+          "source": "https://upload.wikimedia.org/wikipedia/commons/c/c1/Martyr_de_saint_Gorgon.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original",
+          "width": 500,
+          "height": 621
+        },
+        "pageimage": "Martyr_de_saint_Gorgon.jpg",
+        "images": [
+          {
+            "ns": 6,
+            "title": "File:2010-10-16 Mindener Dom 043.jpg"
+          },
+          {
+            "ns": 6,
+            "title": "File:Commons-logo.svg"
+          },
+          {
+            "ns": 6,
+            "title": "File:Martyr de saint Gorgon.jpg"
+          },
+          {
+            "ns": 6,
+            "title": "File:OOjs UI icon edit-ltr-progressive.svg"
+          },
+          {
+            "ns": 6,
+            "title": "File:PD-icon.svg"
+          },
+          {
+            "ns": 6,
+            "title": "File:Wikisource-logo.svg"
+          }
+        ],
+        "pageprops": {
+          "page_image_free": "Martyr_de_saint_Gorgon.jpg",
+          "wikibase-shortdesc": "Christian martyr",
+          "wikibase_item": "Q704817"
+        }
+      },
+      {
+        "pageid": 4225951,
+        "ns": 0,
+        "title": "Galeria Valeria",
+        "original": {
+          "source": "https://upload.wikimedia.org/wikipedia/commons/d/d5/Follis_of_Galeria_Valeria_-_Cropped.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original",
+          "width": 399,
+          "height": 410
+        },
+        "pageimage": "Follis_of_Galeria_Valeria_-_Cropped.jpg",
+        "images": [
+          {
+            "ns": 6,
+            "title": "File:Commons-logo.svg"
+          },
+          {
+            "ns": 6,
+            "title": "File:Follis of Galeria Valeria - Cropped.jpg"
+          },
+          {
+            "ns": 6,
+            "title": "File:Galeria Valeria.jpg"
+          },
+          {
+            "ns": 6,
+            "title": "File:Question book-new.svg"
+          }
+        ],
+        "pageprops": {
+          "defaultsort": "Valeria, Galeria",
+          "page_image_free": "Follis_of_Galeria_Valeria_-_Cropped.jpg",
+          "wikibase-shortdesc": "Roman empress from 305 to 311",
+          "wikibase_item": "Q234562"
+        }
+      },
+      {
+        "pageid": 4422455,
+        "ns": 0,
+        "title": "Hannibalianus",
+        "original": {
+          "source": "https://upload.wikimedia.org/wikipedia/commons/c/c9/Follis_of_Hannibalianus.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original",
+          "width": 800,
+          "height": 388
+        },
+        "pageimage": "Follis_of_Hannibalianus.jpg",
+        "images": [
+          {
+            "ns": 6,
+            "title": "File:Commons-logo.svg"
+          },
+          {
+            "ns": 6,
+            "title": "File:Follis of Hannibalianus.jpg"
+          },
+          {
+            "ns": 6,
+            "title": "File:OOjs UI icon edit-ltr-progressive.svg"
+          }
+        ],
+        "pageprops": {
+          "notoc": "",
+          "page_image_free": "Follis_of_Hannibalianus.jpg",
+          "wikibase-shortdesc": "King of the Kings and of the Pontic People",
+          "wikibase_item": "Q319252"
+        }
+      },
+      {
+        "pageid": 4999820,
+        "ns": 0,
+        "title": "Maximilian of Tebessa",
+        "images": [
+          {
+            "ns": 6,
+            "title": "File:OOjs UI icon edit-ltr-progressive.svg"
+          }
+        ],
+        "pageprops": {
+          "wikibase-shortdesc": "3rd-century saint and conscientious objector",
+          "wikibase_item": "Q1737567"
+        }
+      },
+      {
+        "pageid": 5181163,
+        "ns": 0,
+        "title": "Dalmatius",
+        "original": {
+          "source": "https://upload.wikimedia.org/wikipedia/commons/a/ad/Delmatius_Coin_Abverse.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original",
+          "width": 403,
+          "height": 355
+        },
+        "pageimage": "Delmatius_Coin_Abverse.jpg",
+        "images": [
+          {
+            "ns": 6,
+            "title": "File:Delmatius Coin Abverse.jpg"
+          },
+          {
+            "ns": 6,
+            "title": "File:Impero Romano da maggio a settembre 337.png"
+          },
+          {
+            "ns": 6,
+            "title": "File:Symbol support vote.svg"
+          }
+        ],
+        "pageprops": {
+          "page_image_free": "Delmatius_Coin_Abverse.jpg",
+          "wikibase-badge-Q17437798": "",
+          "wikibase-shortdesc": "Caesar of the Roman Empire from 335 to 337",
+          "wikibase_item": "Q354415"
+        }
+      },
+      {
+        "pageid": 5433069,
+        "ns": 0,
+        "title": "Jude, brother of Jesus",
+        "images": [
+          {
+            "ns": 6,
+            "title": "File:046CupolaSPietro.jpg"
+          },
+          {
+            "ns": 6,
+            "title": "File:Bloch-SermonOnTheMount.jpg"
+          },
+          {
+            "ns": 6,
+            "title": "File:Gloriole blur.svg"
+          },
+          {
+            "ns": 6,
+            "title": "File:P christianity.svg"
+          },
+          {
+            "ns": 6,
+            "title": "File:Star of David.svg"
+          }
+        ],
+        "pageprops": {
+          "wikibase-shortdesc": "Member of Jesus' family according to the New Testament",
+          "wikibase_item": "Q2464332"
+        }
+      },
+      {
+        "pageid": 7521920,
+        "ns": 0,
+        "title": "Anastasia (sister of Constantine I)",
+        "images": [
+          {
+            "ns": 6,
+            "title": "File:Julius Caesar.jpg"
+          },
+          {
+            "ns": 6,
+            "title": "File:Translation to english arrow.svg"
+          }
+        ],
+        "pageprops": {
+          "defaultsort": "Anastasia",
+          "wikibase-shortdesc": "Daughter of Constantius I",
+          "wikibase_item": "Q486630"
+        }
+      },
+      {
+        "pageid": 7729622,
+        "ns": 0,
+        "title": "Marcellus of Tangier",
+        "original": {
+          "source": "https://upload.wikimedia.org/wikipedia/commons/7/7f/Marcellus_Cassian.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original",
+          "width": 800,
+          "height": 1200
+        },
+        "pageimage": "Marcellus_Cassian.jpg",
+        "images": [
+          {
+            "ns": 6,
+            "title": "File:046CupolaSPietro.jpg"
+          },
+          {
+            "ns": 6,
+            "title": "File:Gloriole blur.svg"
+          },
+          {
+            "ns": 6,
+            "title": "File:Marcellus Cassian.jpg"
+          },
+          {
+            "ns": 6,
+            "title": "File:OOjs UI icon edit-ltr-progressive.svg"
+          },
+          {
+            "ns": 6,
+            "title": "File:Papones Santo Cristo Bienaventuranza León.JPG"
+          }
+        ],
+        "pageprops": {
+          "defaultsort": "Marcellus The Centurion",
+          "page_image_free": "Marcellus_Cassian.jpg",
+          "wikibase-shortdesc": "Catholic saint",
+          "wikibase_item": "Q16509164"
+        }
+      },
+      {
+        "pageid": 7757290,
+        "ns": 0,
+        "title": "Flavia Domitilla (wife of Clemens)",
+        "images": [
+          {
+            "ns": 6,
+            "title": "File:046CupolaSPietro.jpg"
+          },
+          {
+            "ns": 6,
+            "title": "File:Andrea di Bonaiuto. St. Agnes and St. Domitilla. 1365. Galleria dell'Accademia, Florence..jpg"
+          },
+          {
+            "ns": 6,
+            "title": "File:Commons-logo.svg"
+          },
+          {
+            "ns": 6,
+            "title": "File:Gloriole blur.svg"
+          },
+          {
+            "ns": 6,
+            "title": "File:OOjs UI icon edit-ltr-progressive.svg"
+          }
+        ],
+        "pageprops": {
+          "defaultsort": "Domitilla, Flavia",
+          "wikibase-shortdesc": "1st century Roman noblewoman and daughter of Domitilla the Younger",
+          "wikibase_item": "Q292219"
+        }
+      },
+      {
+        "pageid": 8314753,
+        "ns": 0,
+        "title": "Titus Flavius Sabinus (consul AD 82)",
+        "pageprops": {
+          "defaultsort": "Sabinus, Titus, 82",
+          "wikibase-shortdesc": "1st century Roman senator and consul",
+          "wikibase_item": "Q241707"
+        }
+      },
+      {
+        "pageid": 14778972,
+        "ns": 0,
+        "title": "Prisca (empress)",
+        "original": {
+          "source": "https://upload.wikimedia.org/wikipedia/commons/d/d1/Fig_146e_-_Mausoleum_-_Friesdetail_Siehe_Seite_113_ff.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original",
+          "width": 462,
+          "height": 457
+        },
+        "pageimage": "Fig_146e_-_Mausoleum_-_Friesdetail_Siehe_Seite_113_ff.jpg",
+        "images": [
+          {
+            "ns": 6,
+            "title": "File:Diocletian & Prisca Reenactors.jpg"
+          },
+          {
+            "ns": 6,
+            "title": "File:Earlkrona, Nordisk familjebok.png"
+          },
+          {
+            "ns": 6,
+            "title": "File:Fig 146e - Mausoleum - Friesdetail Siehe Seite 113 ff.jpg"
+          },
+          {
+            "ns": 6,
+            "title": "File:Julius Caesar.jpg"
+          },
+          {
+            "ns": 6,
+            "title": "File:Split Archaeological Museum DSC03945 (51417629659).jpg"
+          }
+        ],
+        "pageprops": {
+          "defaultsort": "Prisca",
+          "page_image_free": "Fig_146e_-_Mausoleum_-_Friesdetail_Siehe_Seite_113_ff.jpg",
+          "wikibase-shortdesc": "Roman empress from 284 to 305",
+          "wikibase_item": "Q164210"
+        }
+      },
+      {
+        "pageid": 14779052,
+        "ns": 0,
+        "title": "Eutropia (sister of Constantine I)",
+        "images": [
+          {
+            "ns": 6,
+            "title": "File:Julius Caesar.jpg"
+          },
+          {
+            "ns": 6,
+            "title": "File:Translation to english arrow.svg"
+          }
+        ],
+        "pageprops": {
+          "wikibase-shortdesc": "Daughter of Constantius I",
+          "wikibase_item": "Q291738"
+        }
+      },
+      {
+        "pageid": 18054946,
+        "ns": 0,
+        "title": "Licinius II",
+        "original": {
+          "source": "https://upload.wikimedia.org/wikipedia/commons/4/46/Solidus_Licinius_Jr_AF21_CdM_Paris.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original",
+          "width": 1250,
+          "height": 1250
+        },
+        "pageimage": "Solidus_Licinius_Jr_AF21_CdM_Paris.jpg",
+        "images": [
+          {
+            "ns": 6,
+            "title": "File:Commons-logo.svg"
+          },
+          {
+            "ns": 6,
+            "title": "File:Follis of Licinius II, AD 321-324.jpg"
+          },
+          {
+            "ns": 6,
+            "title": "File:Licinius Coll Beistegui 232.jpg"
+          },
+          {
+            "ns": 6,
+            "title": "File:Licinius gold multiple CdM Beistegui 232.jpg"
+          },
+          {
+            "ns": 6,
+            "title": "File:OOjs UI icon edit-ltr-progressive.svg"
+          },
+          {
+            "ns": 6,
+            "title": "File:Solidus Licinius Jr AF21 CdM Paris.jpg"
+          }
+        ],
+        "pageprops": {
+          "defaultsort": "Licinius 2",
+          "nomediaviewercarousel": "",
+          "page_image_free": "Solidus_Licinius_Jr_AF21_CdM_Paris.jpg",
+          "wikibase-shortdesc": "Roman caesar from 317 to 324",
+          "wikibase_item": "Q166731"
+        }
+      },
+      {
+        "pageid": 36573228,
+        "ns": 0,
+        "title": "Flavius Optatus",
+        "pageprops": {
+          "defaultsort": "Optatus, Flavius",
+          "wikibase_item": "Q637561"
+        }
+      },
+      {
+        "pageid": 38073472,
+        "ns": 0,
+        "title": "Virius Nepotianus",
+        "pageprops": {
+          "wikibase-shortdesc": "Roman statesman and Consul of the Roman Empire",
+          "wikibase_item": "Q1239793"
+        }
+      }
+    ]
+  },
+  "limits": {
+    "images": 500
+  }
+}

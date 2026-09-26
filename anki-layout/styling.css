@@ -1,0 +1,82 @@
+.card {
+  --paper: #f8f8f5;
+  --ink: #292c29;
+  --muted: #626761;
+  --line: #d8dcd5;
+  --image-well: #eeefea;
+  --accent: #39634d;
+  background: var(--paper);
+  color: var(--ink);
+  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif;
+  font-size: 20px;
+  line-height: 1.55;
+  text-align: left;
+  margin: 0;
+  padding: 28px 24px 44px;
+  overflow-wrap: anywhere;
+  container-type: inline-size;
+  container-name: study;
+}
+@supports (color: oklch(50% 0 0)) {
+  .card { --paper: oklch(98% .005 115); --ink: oklch(28% .008 140); --muted: oklch(49% .012 140); --line: oklch(87% .008 140); --image-well: oklch(95% .008 115); --accent: oklch(46% .06 155); }
+}
+.card.nightMode, .card.night_mode, .nightMode .card, .night_mode .card {
+  --paper: #202420; --ink: #e5e8e1; --muted: #b0b9ad;
+  --line: #434b41; --image-well: #2c322b; --accent: #acd1b4;
+}
+.gibbon-card { max-width: 740px; margin: 0 auto; }
+.gibbon-card * { box-sizing: border-box; }
+.deck-label { margin: 0 0 24px; color: var(--muted); font-size: 12px; letter-spacing: .09em; text-transform: uppercase; }
+.question { font-size: 25px; font-weight: 600; line-height: 1.4; }
+.question-reminder { font-size: 17px; font-weight: 400; color: var(--muted); }
+#answer { border: 0; border-top: 1px solid var(--line); margin: 18px 0 22px; }
+.answer-text { font-size: 21px; line-height: 1.55; }
+.gibbon-card p { margin-top: 0; }
+.gibbon-card strong { font-weight: 700; }
+.pictures { display: grid; grid-template-columns: repeat(3, minmax(0, 1fr)); gap: 18px 14px; margin: 26px 0; }
+.pictures figure { margin: 0; min-width: 0; text-align: center; }
+.pictures:has(> figure:first-child:nth-last-child(2)), .pictures:has(> figure:first-child:nth-last-child(4)) { grid-template-columns: repeat(2, minmax(0, 1fr)); }
+.pictures figure:only-child { grid-column: 1 / -1; width: min(100%, 330px); justify-self: center; }
+.pictures .image-frame { display: flex; align-items: center; justify-content: center; background: var(--image-well); border-radius: 3px; height: 192px; padding: 6px; }
+.pictures img { display: block; width: 100%; height: 100%; max-width: 100%; max-height: 100%; object-fit: contain; }
+.pictures figcaption { font-size: 13px; line-height: 1.4; margin-top: 8px; }
+.pictures figcaption strong { display: block; font-size: 15px; }
+.pictures .depiction { display: block; color: var(--muted); margin-top: 3px; font-size: 11px; }
+.picture-zoom { margin-top: 5px; }
+.picture-zoom summary { font-size: 12px; min-height: 32px; padding: 5px 0; }
+.picture-zoom img { height: auto; max-height: none; margin-top: 8px; }
+.pictures figure:has(.picture-zoom[open]) { grid-column: 1 / -1; width: 100%; }
+.pictures figure:has(.picture-zoom[open]) > .image-frame { display: none; }
+.quotation { margin: 28px 24px 24px; padding: 20px 26px; background: var(--image-well); border-radius: 4px; }
+.quotation h2 { margin: 0 0 10px; font-size: 12px; text-transform: uppercase; letter-spacing: .09em; color: var(--muted); font-weight: 500; }
+.quotation blockquote { margin: 0; font-family: Georgia, "Times New Roman", serif; font-size: 22px; line-height: 1.6; }
+.gibbon-card > details { border-top: 1px solid var(--line); }
+.gibbon-card summary { cursor: pointer; color: var(--accent); }
+.gibbon-card > details > summary { padding: 12px 0; min-height: 44px; font-size: 15px; }
+.detail-content { padding: 0 0 18px; font-size: 17px; }
+.sources .detail-content { font-size: 13px; }
+.detail-content p:last-child { margin-bottom: 0; }
+.gibbon-card a { color: var(--accent); text-underline-offset: 3px; }
+.gibbon-card :focus-visible { outline: 2px solid var(--accent); outline-offset: 4px; }
+@media (max-width: 520px) {
+  .card { padding: 20px 18px 32px; font-size: 18px; }
+  .deck-label { margin-bottom: 20px; font-size: 11px; }
+  .question { font-size: 22px; }
+  .question-reminder { font-size: 16px; }
+  .answer-text { font-size: 19px; }
+  .pictures { grid-template-columns: repeat(2, minmax(0, 1fr)); gap: 18px 12px; margin: 22px 0; }
+  .pictures .image-frame { height: 156px; }
+  .quotation { margin: 24px 0; padding: 18px 16px; }
+  .quotation blockquote { font-size: 20px; }
+}
+@media (max-width: 300px) { .pictures { grid-template-columns: 1fr !important; } }
+/* The preview's phone-width panel uses the same narrow layout as a phone. */
+@container study (max-width: 480px) {
+  .question { font-size: 22px; }
+  .question-reminder { font-size: 16px; }
+  .answer-text { font-size: 19px; }
+  .pictures { grid-template-columns: repeat(2, minmax(0, 1fr)); gap: 18px 12px; margin: 22px 0; }
+  .pictures .image-frame { height: 156px; }
+  .quotation { margin: 24px 0; padding: 18px 16px; }
+  .quotation blockquote { font-size: 20px; }
+}

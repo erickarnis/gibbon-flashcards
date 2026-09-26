@@ -1,0 +1,504 @@
+{
+  "person_id": "columella",
+  "query": "Columella portrait",
+  "response": {
+    "batchcomplete": true,
+    "continue": {
+      "gsroffset": 5,
+      "continue": "gsroffset||"
+    },
+    "query": {
+      "pages": [
+        {
+          "pageid": 27482705,
+          "ns": 6,
+          "title": "File:Lucius Junius Moderatus Columella.jpg",
+          "index": 1,
+          "imagerepository": "local",
+          "imageinfo": [
+            {
+              "size": 771012,
+              "width": 1500,
+              "height": 1500,
+              "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f2/Lucius_Junius_Moderatus_Columella.jpg/500px-Lucius_Junius_Moderatus_Columella.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+              "thumbwidth": 400,
+              "thumbheight": 400,
+              "responsiveUrls": {
+                "2": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f2/Lucius_Junius_Moderatus_Columella.jpg/960px-Lucius_Junius_Moderatus_Columella.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+              },
+              "thumbattribs": {
+                "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f2/Lucius_Junius_Moderatus_Columella.jpg/500px-Lucius_Junius_Moderatus_Columella.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+                "decoding": "async",
+                "loading": "lazy",
+                "width": 400,
+                "height": 400,
+                "srcset": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f2/Lucius_Junius_Moderatus_Columella.jpg/960px-Lucius_Junius_Moderatus_Columella.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail 2x"
+              },
+              "url": "https://upload.wikimedia.org/wikipedia/commons/f/f2/Lucius_Junius_Moderatus_Columella.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+              "descriptionurl": "https://commons.wikimedia.org/wiki/File:Lucius_Junius_Moderatus_Columella.jpg",
+              "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=27482705",
+              "extmetadata": {
+                "DateTime": {
+                  "value": "2013-07-29 15:24:04",
+                  "source": "mediawiki-metadata",
+                  "hidden": ""
+                },
+                "ObjectName": {
+                  "value": "Lucius Junius Moderatus Columella",
+                  "source": "mediawiki-metadata"
+                },
+                "CommonsMetadataExtension": {
+                  "value": 1.2,
+                  "source": "extension",
+                  "hidden": ""
+                },
+                "Categories": {
+                  "value": "Jean de Tournes|Author died more than 100 years ago public domain images|Lucius Junius Moderatus Columella|CC-PD-Mark|PD-old missing SDC copyright status",
+                  "source": "commons-categories",
+                  "hidden": ""
+                },
+                "Assessments": {
+                  "value": "",
+                  "source": "commons-categories",
+                  "hidden": ""
+                },
+                "ImageDescription": {
+                  "value": "Portrait of Lucius Junius Moderatus Columella from Jean de Tournes, <i>Insignium aliquot virorum icones</i>. Lugduni: Apud Ioan. Tornaesium, 1559",
+                  "source": "commons-desc-page"
+                },
+                "DateTimeOriginal": {
+                  "value": "2013-07-29 19:17:16",
+                  "source": "commons-desc-page"
+                },
+                "Credit": {
+                  "value": "Original: Jean de Tournes, <i>Insignium aliquot virorum icones</i>. Lugduni: Apud Ioan. Tornaesium 1559; immediate source: <a rel=\"nofollow\" class=\"external free\" href=\"http://www.villa.culture.fr/accessible/en/uc/01_01_01\">http://www.villa.culture.fr/accessible/en/uc/01_01_01</a>",
+                  "source": "commons-desc-page"
+                },
+                "Artist": {
+                  "value": "Jean de Tournes",
+                  "source": "commons-desc-page"
+                },
+                "LicenseShortName": {
+                  "value": "Public domain",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "UsageTerms": {
+                  "value": "Public domain",
+                  "source": "commons-desc-page"
+                },
+                "AttributionRequired": {
+                  "value": "false",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "Copyrighted": {
+                  "value": "False",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "Restrictions": {
+                  "value": "",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "License": {
+                  "value": "pd",
+                  "source": "commons-templates",
+                  "hidden": ""
+                }
+              }
+            }
+          ]
+        },
+        {
+          "pageid": 30341493,
+          "ns": 6,
+          "title": "File:Radiolaria (Challenger) Plate 070.jpg",
+          "index": 4,
+          "imagerepository": "local",
+          "imageinfo": [
+            {
+              "size": 737434,
+              "width": 2560,
+              "height": 3200,
+              "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/68/Radiolaria_%28Challenger%29_Plate_070.jpg/500px-Radiolaria_%28Challenger%29_Plate_070.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+              "thumbwidth": 400,
+              "thumbheight": 500,
+              "responsiveUrls": {
+                "2": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/68/Radiolaria_%28Challenger%29_Plate_070.jpg/960px-Radiolaria_%28Challenger%29_Plate_070.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+              },
+              "thumbattribs": {
+                "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/68/Radiolaria_%28Challenger%29_Plate_070.jpg/500px-Radiolaria_%28Challenger%29_Plate_070.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+                "decoding": "async",
+                "loading": "lazy",
+                "width": 400,
+                "height": 500,
+                "srcset": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/68/Radiolaria_%28Challenger%29_Plate_070.jpg/960px-Radiolaria_%28Challenger%29_Plate_070.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail 2x"
+              },
+              "url": "https://upload.wikimedia.org/wikipedia/commons/6/68/Radiolaria_%28Challenger%29_Plate_070.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+              "descriptionurl": "https://commons.wikimedia.org/wiki/File:Radiolaria_(Challenger)_Plate_070.jpg",
+              "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=30341493",
+              "extmetadata": {
+                "DateTime": {
+                  "value": "2013-12-26 17:47:17",
+                  "source": "mediawiki-metadata",
+                  "hidden": ""
+                },
+                "ObjectName": {
+                  "value": "Radiolaria (Challenger) Plate 070",
+                  "source": "mediawiki-metadata"
+                },
+                "CommonsMetadataExtension": {
+                  "value": 1.2,
+                  "source": "extension",
+                  "hidden": ""
+                },
+                "Categories": {
+                  "value": "Nassellaria|PD-old-100-expired|Images requiring extraction|CC-PD-Mark|Report on the Radiolaria",
+                  "source": "commons-categories",
+                  "hidden": ""
+                },
+                "Assessments": {
+                  "value": "",
+                  "source": "commons-categories",
+                  "hidden": ""
+                },
+                "ImageDescription": {
+                  "value": "Illustration from Report on the Radiolaria collected by H.M.S. Challenger during the years 1873-1876. Part III. Original description follows:\n<p><br>\n</p>\n<table>\n<tbody><tr>\n<td style=\"text-align:center; vertical-align:top;\" colspan=\"3\">Plate 70. Anthocyrtida, Podocyrtida, Phormocyrtida et Theocyrtida.</td>\n</tr>\n<tr>\n<td style=\"font-size:85%; text-align:right; vertical-align:top;\" colspan=\"3\">Diam.</td>\n</tr>\n<tr>\n<td style=\"vertical-align:top;\">Fig. 1. <i>Theophormis callipilium</i>, n. sp.,</td>\n<td style=\"vertical-align:bottom;\">×</td>\n<td style=\"text-align:right; vertical-align:bottom;\">300</td>\n</tr>\n<tr>\n<td style=\"vertical-align:top;\">Fig. 2. <i>Theophormis callipilium</i>, n. sp.,</td>\n<td style=\"vertical-align:bottom;\">×</td>\n<td style=\"text-align:right; vertical-align:bottom;\">300</td>\n</tr>\n<tr>\n<td style=\"font-size:85%; padding-left:3em; text-indent:-1em; vertical-align:top;\">The four cruciate rods of the cortinar septum and the vertical columella in its centre.</td>\n</tr>\n<tr>\n<td style=\"vertical-align:top;\">Fig. 3. <i>Theophormis callipilium</i>, n. sp.,</td>\n<td style=\"vertical-align:bottom;\">×</td>\n<td style=\"text-align:right; vertical-align:bottom;\">400</td>\n</tr>\n<tr>\n<td style=\"font-size:85%; padding-left:3em; text-indent:-1em; vertical-align:top;\">The cephalis alone with the enclosed quadrilobate central capsule, which is surrounded by numerous xanthellæ.</td>\n</tr>\n<tr>\n<td style=\"vertical-align:top;\">Fig. 4. <i>Sethophormis umbrella</i>, n. sp.,</td>\n<td style=\"vertical-align:bottom;\">×</td>\n<td style=\"text-align:right; vertical-align:bottom;\">150</td>\n</tr>\n<tr>\n<td style=\"vertical-align:top;\">Fig. 5. <i>Sethophormis umbrella</i>, n. sp.,</td>\n<td style=\"vertical-align:bottom;\">×</td>\n<td style=\"text-align:right; vertical-align:bottom;\">400</td>\n</tr>\n<tr>\n<td style=\"font-size:85%; padding-left:3em; text-indent:-1em; vertical-align:top;\">Cephalis with the cruciform cortinar septum.</td>\n</tr>\n<tr>\n<td style=\"vertical-align:top;\">Fig. 6. <i>Theopilium tricostatum</i>, n. sp.,</td>\n<td style=\"vertical-align:bottom;\">×</td>\n<td style=\"text-align:right; vertical-align:bottom;\">400</td>\n</tr>\n<tr>\n<td style=\"font-size:85%; padding-left:3em; text-indent:-1em; vertical-align:top;\">Seen from above.</td>\n</tr>\n<tr>\n<td style=\"vertical-align:top;\">Fig. 7. <i>Phrenocodon clathrostomium</i>, n. sp.,</td>\n<td style=\"vertical-align:bottom;\">×</td>\n<td style=\"text-align:right; vertical-align:bottom;\">250</td>\n</tr>\n<tr>\n<td style=\"font-size:85%; padding-left:3em; text-indent:-1em; vertical-align:top;\">Vertical section through the shell.</td>\n</tr>\n<tr>\n<td style=\"vertical-align:top;\">Fig. 8. <i>Phrenocodon clathrostomium</i>, n. sp.,</td>\n<td style=\"vertical-align:bottom;\">×</td>\n<td style=\"text-align:right; vertical-align:bottom;\">500</td>\n</tr>\n<tr>\n<td style=\"font-size:85%; padding-left:3em; text-indent:-1em; vertical-align:top;\">Shell seen half from below, and exhibiting the fenestrated septum between thorax and abdomen.</td>\n</tr>\n<tr>\n<td style=\"vertical-align:top;\">Fig. 9. <i>Pteropilium stratiotes</i>, n. sp.,</td>\n<td style=\"vertical-align:bottom;\">×</td>\n<td style=\"text-align:right; vertical-align:bottom;\">400</td>\n</tr>\n<tr>\n<td style=\"vertical-align:top;\">Fig. 10. <i>Pteropilium stratiotes</i>, n. sp.,</td>\n<td style=\"vertical-align:bottom;\">×</td>\n<td style=\"text-align:right; vertical-align:bottom;\">400</td>\n</tr>\n<tr>\n<td style=\"font-size:85%; padding-left:3em; text-indent:-1em; vertical-align:top;\">The three rods of the cortinar septum and the three arches connecting them with the central axial columella.</td>\n</tr>\n<tr>\n<td style=\"vertical-align:top;\">Fig. 11. <i>Pterocodon ornatus</i>, n. sp.,</td>\n<td style=\"vertical-align:bottom;\">×</td>\n<td style=\"text-align:right; vertical-align:bottom;\">300</td>\n</tr>\n<tr>\n<td style=\"vertical-align:top;\">Fig. 12. <i>Theophæna corona</i>, n. sp.,</td>\n<td style=\"vertical-align:bottom;\">×</td>\n<td style=\"text-align:right; vertical-align:bottom;\">300</td>\n</tr>\n</tbody></table>",
+                  "source": "commons-desc-page"
+                },
+                "DateTimeOriginal": {
+                  "value": "1887",
+                  "source": "commons-desc-page"
+                },
+                "Credit": {
+                  "value": "<a rel=\"nofollow\" class=\"external free\" href=\"https://archive.org/details/reportonradiolar00haecrich\">https://archive.org/details/reportonradiolar00haecrich</a>",
+                  "source": "commons-desc-page"
+                },
+                "Artist": {
+                  "value": "Ernst Haeckel (1834-1919); engravings by Adolf Giltsch (1852-1911).",
+                  "source": "commons-desc-page"
+                },
+                "LicenseShortName": {
+                  "value": "Public domain",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "UsageTerms": {
+                  "value": "Public domain",
+                  "source": "commons-desc-page"
+                },
+                "AttributionRequired": {
+                  "value": "false",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "Copyrighted": {
+                  "value": "False",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "Restrictions": {
+                  "value": "",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "License": {
+                  "value": "pd",
+                  "source": "commons-templates",
+                  "hidden": ""
+                }
+              }
+            }
+          ]
+        },
+        {
+          "pageid": 91429146,
+          "ns": 6,
+          "title": "File:The American shepherd (Morell, 1845) (IA americanshepherd01morr).pdf",
+          "index": 5,
+          "imagerepository": "local",
+          "imageinfo": [
+            {
+              "size": 21363503,
+              "width": 627,
+              "height": 1077,
+              "pagecount": 458,
+              "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/ff/The_American_shepherd_%28Morell%2C_1845%29_%28IA_americanshepherd01morr%29.pdf/page1-500px-The_American_shepherd_%28Morell%2C_1845%29_%28IA_americanshepherd01morr%29.pdf.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+              "thumbwidth": 400,
+              "thumbheight": 687,
+              "thumbattribs": {
+                "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/ff/The_American_shepherd_%28Morell%2C_1845%29_%28IA_americanshepherd01morr%29.pdf/page1-500px-The_American_shepherd_%28Morell%2C_1845%29_%28IA_americanshepherd01morr%29.pdf.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+                "decoding": "async",
+                "loading": "lazy",
+                "width": 400,
+                "height": 687
+              },
+              "url": "https://upload.wikimedia.org/wikipedia/commons/f/ff/The_American_shepherd_%28Morell%2C_1845%29_%28IA_americanshepherd01morr%29.pdf?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+              "descriptionurl": "https://commons.wikimedia.org/wiki/File:The_American_shepherd_(Morell,_1845)_(IA_americanshepherd01morr).pdf",
+              "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=91429146",
+              "extmetadata": {
+                "DateTime": {
+                  "value": "2020-06-21 19:24:33",
+                  "source": "mediawiki-metadata",
+                  "hidden": ""
+                },
+                "ObjectName": {
+                  "value": "<div class=\"fn\">\nThe American shepherd : being a history of the sheep, with their breeds, management, and diseases. Illustrated with portraits of different breeds, sheep barns, sheds, &amp;c. With an appendix ...</div>",
+                  "source": "commons-desc-page"
+                },
+                "CommonsMetadataExtension": {
+                  "value": 1.2,
+                  "source": "extension",
+                  "hidden": ""
+                },
+                "Categories": {
+                  "value": "PD US expired|Books uploaded by Fæ|Books without Wikidata item|Books in the Library of Congress",
+                  "source": "commons-categories",
+                  "hidden": ""
+                },
+                "Assessments": {
+                  "value": "",
+                  "source": "commons-categories",
+                  "hidden": ""
+                },
+                "Artist": {
+                  "value": "<div class=\"fn value\">\nMorrell, L. A. (Luke A.)</div>",
+                  "source": "commons-desc-page"
+                },
+                "ImageDescription": {
+                  "value": "<div class=\"description\">\nSubjects: Sheep</div>",
+                  "source": "commons-desc-page"
+                },
+                "Credit": {
+                  "value": "<dl><dd><a rel=\"nofollow\" class=\"external free\" href=\"https://archive.org/details/americanshepherd01morr\">https://archive.org/details/americanshepherd01morr</a></dd>\n<dd><a rel=\"nofollow\" class=\"external free\" href=\"https://archive.org/download/americanshepherd01morr/americanshepherd01morr.pdf\">https://archive.org/download/americanshepherd01morr/americanshepherd01morr.pdf</a></dd></dl>",
+                  "source": "commons-desc-page"
+                },
+                "LicenseShortName": {
+                  "value": "Public domain",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "UsageTerms": {
+                  "value": "Public domain",
+                  "source": "commons-desc-page"
+                },
+                "AttributionRequired": {
+                  "value": "false",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "Copyrighted": {
+                  "value": "False",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "Restrictions": {
+                  "value": "",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "License": {
+                  "value": "pd",
+                  "source": "commons-templates",
+                  "hidden": ""
+                }
+              }
+            }
+          ]
+        },
+        {
+          "pageid": 91816431,
+          "ns": 6,
+          "title": "File:The American shepherd , being a history of the sheep, with their breeds, management, and diseases , illustrated with portraits of different breeds, sheep barns, sheds, &amp (IA cu31924080109824).pdf",
+          "index": 3,
+          "imagerepository": "local",
+          "imageinfo": [
+            {
+              "size": 11081760,
+              "width": 639,
+              "height": 1066,
+              "pagecount": 466,
+              "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/72/The_American_shepherd_%2C_being_a_history_of_the_sheep%2C_with_their_breeds%2C_management%2C_and_diseases_%2C_illustrated_with_portraits_of_different_breeds%2C_sheep_barns%2C_sheds%2C_%26amp_%28IA_cu31924080109824%29.pdf/page1-500px-thumbnail.pdf.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+              "thumbwidth": 400,
+              "thumbheight": 667,
+              "thumbattribs": {
+                "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/72/The_American_shepherd_%2C_being_a_history_of_the_sheep%2C_with_their_breeds%2C_management%2C_and_diseases_%2C_illustrated_with_portraits_of_different_breeds%2C_sheep_barns%2C_sheds%2C_%26amp_%28IA_cu31924080109824%29.pdf/page1-500px-thumbnail.pdf.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+                "decoding": "async",
+                "loading": "lazy",
+                "width": 400,
+                "height": 667
+              },
+              "url": "https://upload.wikimedia.org/wikipedia/commons/7/72/The_American_shepherd_%2C_being_a_history_of_the_sheep%2C_with_their_breeds%2C_management%2C_and_diseases_%2C_illustrated_with_portraits_of_different_breeds%2C_sheep_barns%2C_sheds%2C_%26amp_%28IA_cu31924080109824%29.pdf?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+              "descriptionurl": "https://commons.wikimedia.org/wiki/File:The_American_shepherd_,_being_a_history_of_the_sheep,_with_their_breeds,_management,_and_diseases_,_illustrated_with_portraits_of_different_breeds,_sheep_barns,_sheds,_%26amp_(IA_cu31924080109824).pdf",
+              "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=91816431",
+              "extmetadata": {
+                "DateTime": {
+                  "value": "2020-07-02 14:04:57",
+                  "source": "mediawiki-metadata",
+                  "hidden": ""
+                },
+                "ObjectName": {
+                  "value": "<div class=\"fn\">\nThe American shepherd : being a history of the sheep, with their breeds, management, and diseases : illustrated with portraits of different breeds, sheep barns, sheds, &amp;c. : with an appendix, embracing upwards of twenty letters from eminent wool-growers and sheep-fatteners of different states, detailing their respective modes of management</div>",
+                  "source": "commons-desc-page"
+                },
+                "CommonsMetadataExtension": {
+                  "value": 1.2,
+                  "source": "extension",
+                  "hidden": ""
+                },
+                "Categories": {
+                  "value": "Books from New York (state)|Scans from the Internet Archive/unverified|PD US expired|Files from the Biodiversity Heritage Library|Scans from the Internet Archive|Books uploaded by Fæ|Books without Wikidata item|Books from the Biodiversity Heritage Library",
+                  "source": "commons-categories",
+                  "hidden": ""
+                },
+                "Assessments": {
+                  "value": "",
+                  "source": "commons-categories",
+                  "hidden": ""
+                },
+                "Artist": {
+                  "value": "<div class=\"fn value\">\nMorrell, Luke A</div>",
+                  "source": "commons-desc-page"
+                },
+                "ImageDescription": {
+                  "value": "<div class=\"description\">\n<p>The metadata below describe the original scanning. Follow the \"All Files: HTTP\" link in the \"View the book\" box to the left to find XML files that contain more metadata about the original images and the derived formats (OCR results, PDF etc.). See also the <a rel=\"nofollow\" class=\"external text\" href=\"https://archive.org/about/faqs.php#140\">What is the directory structure for the texts?</a> FAQ for information about file content and naming conventions.\n</p>\n<br>Subjects: Sheep; Sheep</div>",
+                  "source": "commons-desc-page"
+                },
+                "Credit": {
+                  "value": "<dl><dd><a href=\"//archive.org/details/cu31924080109824\" class=\"extiw\" title=\"iarchive:cu31924080109824\"><bdi class=\"description en\" lang=\"en\" dir=\"ltr\">Internet Archive identifier</bdi>: cu31924080109824</a></dd>\n<dd><a rel=\"nofollow\" class=\"external free\" href=\"https://archive.org/download/cu31924080109824/cu31924080109824.pdf\">https://archive.org/download/cu31924080109824/cu31924080109824.pdf</a></dd></dl>",
+                  "source": "commons-desc-page"
+                },
+                "LicenseShortName": {
+                  "value": "Public domain",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "UsageTerms": {
+                  "value": "Public domain",
+                  "source": "commons-desc-page"
+                },
+                "AttributionRequired": {
+                  "value": "false",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "Copyrighted": {
+                  "value": "False",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "Restrictions": {
+                  "value": "",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "License": {
+                  "value": "pd",
+                  "source": "commons-templates",
+                  "hidden": ""
+                }
+              }
+            }
+          ]
+        },
+        {
+          "pageid": 193591753,
+          "ns": 6,
+          "title": "File:The American shepherd - being a history of the sheep, with their breeds, management, and diseases - illustrated with portraits of different breeds, sheep barns, sheds (IA americanshepherd00morr).pdf",
+          "index": 2,
+          "imagerepository": "local",
+          "imageinfo": [
+            {
+              "size": 28750882,
+              "width": 727,
+              "height": 1152,
+              "pagecount": 464,
+              "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/99/The_American_shepherd_-_being_a_history_of_the_sheep%2C_with_their_breeds%2C_management%2C_and_diseases_-_illustrated_with_portraits_of_different_breeds%2C_sheep_barns%2C_sheds_%28IA_americanshepherd00morr%29.pdf/page1-500px-thumbnail.pdf.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+              "thumbwidth": 400,
+              "thumbheight": 634,
+              "thumbattribs": {
+                "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/99/The_American_shepherd_-_being_a_history_of_the_sheep%2C_with_their_breeds%2C_management%2C_and_diseases_-_illustrated_with_portraits_of_different_breeds%2C_sheep_barns%2C_sheds_%28IA_americanshepherd00morr%29.pdf/page1-500px-thumbnail.pdf.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+                "decoding": "async",
+                "loading": "lazy",
+                "width": 400,
+                "height": 634
+              },
+              "url": "https://upload.wikimedia.org/wikipedia/commons/9/99/The_American_shepherd_-_being_a_history_of_the_sheep%2C_with_their_breeds%2C_management%2C_and_diseases_-_illustrated_with_portraits_of_different_breeds%2C_sheep_barns%2C_sheds_%28IA_americanshepherd00morr%29.pdf?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+              "descriptionurl": "https://commons.wikimedia.org/wiki/File:The_American_shepherd_-_being_a_history_of_the_sheep,_with_their_breeds,_management,_and_diseases_-_illustrated_with_portraits_of_different_breeds,_sheep_barns,_sheds_(IA_americanshepherd00morr).pdf",
+              "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=193591753",
+              "extmetadata": {
+                "DateTime": {
+                  "value": "2026-06-09 15:49:13",
+                  "source": "mediawiki-metadata",
+                  "hidden": ""
+                },
+                "ObjectName": {
+                  "value": "<div class=\"fn\">\nThe American shepherd : being a history of the sheep, with their breeds, management, and diseases : illustrated with portraits of different breeds, sheep barns, sheds, &amp;c. : with an appendix, embracing upwards of twenty letters from eminent woolgrowers and sheep-fatteners of different states, detailing their respective modes of management</div>",
+                  "source": "commons-desc-page"
+                },
+                "CommonsMetadataExtension": {
+                  "value": 1.2,
+                  "source": "extension",
+                  "hidden": ""
+                },
+                "Categories": {
+                  "value": "PD-old-100-expired|Scans from the Internet Archive/unverified|CC-PD-Mark|Scans from the Internet Archive|Books uploaded by Fæ|IA uploads needing categories|Old books from American Libraries|PD-old missing SDC copyright status",
+                  "source": "commons-categories",
+                  "hidden": ""
+                },
+                "Assessments": {
+                  "value": "",
+                  "source": "commons-categories",
+                  "hidden": ""
+                },
+                "Artist": {
+                  "value": "<div class=\"fn value\">\nMorrell, L. A</div>",
+                  "source": "commons-desc-page"
+                },
+                "ImageDescription": {
+                  "value": "<div class=\"description\">\n<p>Publisher's advertisements: 2 p. (at end)\n</p>\n<br>Subjects: Sheep; Sheep</div>",
+                  "source": "commons-desc-page"
+                },
+                "Credit": {
+                  "value": "<dl><dd><a href=\"//archive.org/details/americanshepherd00morr\" class=\"extiw\" title=\"iarchive:americanshepherd00morr\"><bdi class=\"description en\" lang=\"en\" dir=\"ltr\">Internet Archive identifier</bdi>: americanshepherd00morr</a></dd>\n<dd><a rel=\"nofollow\" class=\"external free\" href=\"https://archive.org/download/americanshepherd00morr/americanshepherd00morr.pdf\">https://archive.org/download/americanshepherd00morr/americanshepherd00morr.pdf</a></dd></dl>\n<ul><li>IA contributor: UMass Amherst Libraries</li></ul>",
+                  "source": "commons-desc-page"
+                },
+                "LicenseShortName": {
+                  "value": "Public domain",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "UsageTerms": {
+                  "value": "Public domain",
+                  "source": "commons-desc-page"
+                },
+                "AttributionRequired": {
+                  "value": "false",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "Copyrighted": {
+                  "value": "False",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "Restrictions": {
+                  "value": "",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "License": {
+                  "value": "pd",
+                  "source": "commons-templates",
+                  "hidden": ""
+                }
+              }
+            }
+          ]
+        }
+      ]
+    }
+  }
+}

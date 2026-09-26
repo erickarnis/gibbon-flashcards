@@ -1,0 +1,536 @@
+{
+  "person_id": "hannibalianus-brother-of-constantine-i",
+  "query": "Hannibalianus (brother of Constantine I)",
+  "response": {
+    "batchcomplete": true,
+    "continue": {
+      "gsroffset": 5,
+      "continue": "gsroffset||"
+    },
+    "query": {
+      "pages": [
+        {
+          "pageid": 30631394,
+          "ns": 6,
+          "title": "File:Centenionalis ou nummus à l'effigie de Flavius Hannibalianus.jpg",
+          "index": 1,
+          "imagerepository": "local",
+          "imageinfo": [
+            {
+              "size": 129887,
+              "width": 1200,
+              "height": 564,
+              "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4c/Centenionalis_ou_nummus_%C3%A0_l%27effigie_de_Flavius_Hannibalianus.jpg/500px-Centenionalis_ou_nummus_%C3%A0_l%27effigie_de_Flavius_Hannibalianus.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+              "thumbwidth": 400,
+              "thumbheight": 188,
+              "responsiveUrls": {
+                "2": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4c/Centenionalis_ou_nummus_%C3%A0_l%27effigie_de_Flavius_Hannibalianus.jpg/960px-Centenionalis_ou_nummus_%C3%A0_l%27effigie_de_Flavius_Hannibalianus.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+              },
+              "thumbattribs": {
+                "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4c/Centenionalis_ou_nummus_%C3%A0_l%27effigie_de_Flavius_Hannibalianus.jpg/500px-Centenionalis_ou_nummus_%C3%A0_l%27effigie_de_Flavius_Hannibalianus.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+                "decoding": "async",
+                "loading": "lazy",
+                "width": 400,
+                "height": 188,
+                "srcset": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4c/Centenionalis_ou_nummus_%C3%A0_l%27effigie_de_Flavius_Hannibalianus.jpg/960px-Centenionalis_ou_nummus_%C3%A0_l%27effigie_de_Flavius_Hannibalianus.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail 2x"
+              },
+              "url": "https://upload.wikimedia.org/wikipedia/commons/4/4c/Centenionalis_ou_nummus_%C3%A0_l%27effigie_de_Flavius_Hannibalianus.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+              "descriptionurl": "https://commons.wikimedia.org/wiki/File:Centenionalis_ou_nummus_%C3%A0_l%27effigie_de_Flavius_Hannibalianus.jpg",
+              "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=30631394",
+              "extmetadata": {
+                "DateTime": {
+                  "value": "2014-01-15 12:52:19",
+                  "source": "mediawiki-metadata",
+                  "hidden": ""
+                },
+                "ObjectName": {
+                  "value": "Centenionalis ou nummus à l'effigie de Flavius Hannibalianus",
+                  "source": "mediawiki-metadata"
+                },
+                "CommonsMetadataExtension": {
+                  "value": 1.2,
+                  "source": "extension",
+                  "hidden": ""
+                },
+                "Categories": {
+                  "value": "Centenionalis|Items with VRTS permission confirmed|Coins of Hannibalianus",
+                  "source": "commons-categories",
+                  "hidden": ""
+                },
+                "Assessments": {
+                  "value": "",
+                  "source": "commons-categories",
+                  "hidden": ""
+                },
+                "ImageDescription": {
+                  "value": "Centenionalis ou nummus à l'effigie de Flavius Hannibalianus\n<p>Date : 336  \n</p>\nDescription revers : L'Euphrate couché à droite, s'appuyant sur un sceptre de la main droite ; au sol une urne déversant ses flots .",
+                  "source": "commons-desc-page"
+                },
+                "DateTimeOriginal": {
+                  "value": "2014-01-15 13:50:41",
+                  "source": "commons-desc-page"
+                },
+                "Credit": {
+                  "value": "<a rel=\"nofollow\" class=\"external free\" href=\"http://www.cgb.fr/hanniballien-centenionalis-ou-nummus,brm_265328,a.html\">http://www.cgb.fr/hanniballien-centenionalis-ou-nummus,brm_265328,a.html</a>",
+                  "source": "commons-desc-page"
+                },
+                "Artist": {
+                  "value": "cgb",
+                  "source": "commons-desc-page"
+                },
+                "Permission": {
+                  "value": "<p><span class=\"layouttemplateargs\" style=\"display:none;speak:none;\" title=\"template=PermissionTicket 1%3Dhttps%3A%2F%2Fticket.wikimedia.org%2Fotrs%2Findex.pl%3FAction%3DAgentTicketZoom%26TicketNumber%3D2014011510009711 2%3D2014011510009711\"> </span>\n</p>\n<style data-mw-deduplicate=\"TemplateStyles:r1254222110\">.mw-parser-output .messagebox{margin:4px 0;width:auto;border-collapse:collapse;border:2px solid var(--border-color-progressive,#6485d1);background-color:var(--background-color-neutral-subtle,#fbfcff);color:var(--color-base,#202122);box-sizing:border-box;border-inline-start-width:8px}.mw-parser-output .messagebox.mbox-small{font-size:88%;line-height:1.25em}.mw-parser-output .mbox-warning,.mw-parser-output .mbox-speedy{border:2px solid var(--border-color-error,#b22222);background:var(--background-color-error-subtle,#ffdbdb);border-inline-start-width:8px}.mw-parser-output .mbox-serious,.mw-parser-output .mbox-delete,.mw-parser-output .mbox-stop{border:2px solid var(--border-color-error,#b22222);border-inline-start-width:8px}.mw-parser-output .mbox-issue,.mw-parser-output .mbox-content{border:2px solid #f28500;background:var(--background-color-warning-subtle,#ffe);border-inline-start-width:8px}.mw-parser-output .mbox-query,.mw-parser-output .mbox-style{border:2px solid #f4c430;background:var(--background-color-warning-subtle,#ffe);border-inline-start-width:8px}.mw-parser-output .mbox-shit{border:2px solid #960;border-inline-start-width:8px}.mw-parser-output .mbox-license{border:2px solid #88a;border-inline-start-width:initial}.mw-parser-output .mbox-legal{border:2px solid var(--border-color-notice,#666);background:var(--background-color-base,#fff);border-inline-start-width:8px}.mw-parser-output .mbox-honor{border:2px solid #ca3;background:var(--background-color-warning-subtle,#fcf4db);border-inline-start-width:8px}.mw-parser-output .mbox-growth{border:2px solid #8d4;background:var(--background-color-success-subtle,#d5fdf4);border-inline-start-width:8px}.mw-parser-output .mbox-move{border:2px solid #93c;border-inline-start-width:8px}.mw-parser-output .mbox-protection,.mw-parser-output .mbox-message{border:2px solid var(--border-color-base,#aaa);border-inline-start-width:8px}.mw-parser-output .messagebox .mbox-text{border:none;padding:0.25em 0.9em;width:100%}.mw-parser-output .messagebox .mbox-image{border:none;padding-top:2px;padding-bottom:2px;padding-inline-start:0.9em;padding-inline-end:0;text-align:center}.mw-parser-output .messagebox .mbox-imageright{border:none;padding-top:2px;padding-bottom:2px;padding-inline-start:0;padding-inline-end:0.9em;text-align:center}.mw-parser-output .messagebox .mbox-empty-cell{border:none;padding:0;width:1px}.mw-parser-output .messagebox .mbox-invalid-type{text-align:center}@media(min-width:720px){.mw-parser-output .messagebox{margin:4px 10%}.mw-parser-output .messagebox.mbox-small{clear:right;float:right;margin:4px 0 4px 1em;width:238px}}body.skin--responsive .mw-parser-output table.messagebox img{max-width:none!important}</style><table class=\"plainlinks messagebox mbox-notice layouttemplate\" role=\"presentation\" style=\"margin:0.3em 0;width:100%;\"><tbody><tr><td class=\"mbox-image\"><span typeof=\"mw:File\"><span title=\"VRT Wikimedia\"><img alt=\"VRT Wikimedia\" src=\"https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f0/Permission_logo_2021.svg/120px-Permission_logo_2021.svg.png?utm_source=commons.wikimedia.org&amp;utm_campaign=parser&amp;utm_content=thumbnail\" decoding=\"async\" loading=\"lazy\" width=\"75\" height=\"48\" class=\"mw-file-element\" srcset=\"https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f0/Permission_logo_2021.svg/250px-Permission_logo_2021.svg.png?utm_source=commons.wikimedia.org&amp;utm_campaign=parser&amp;utm_content=thumbnail 2x\" data-file-width=\"935\" data-file-height=\"600\"></span></span></td><td class=\"mbox-text\">This work is <a href=\"https://freedomdefined.org/Definition\" class=\"extiw\" title=\"freedomdefined:Definition\">free</a> and may be used by anyone for any purpose. If you wish to <b><a href=\"//commons.wikimedia.org/wiki/Commons:Reusing_content_outside_Wikimedia\" title=\"Commons:Reusing content outside Wikimedia\">use this content</a></b>, you do not need to request permission as long as you follow any licensing requirements mentioned on this page.\n<p>The Wikimedia Foundation has received an e-mail confirming that the copyright holder has approved publication under the terms mentioned on this page. This correspondence has been <b><span style=\"background:transparent;color:#0f7f1f;font-weight:400;\" title=\"transparent\">reviewed</span></b> by a <a href=\"//commons.wikimedia.org/wiki/Template:PermissionTicket/Users\" title=\"Template:PermissionTicket/Users\">Volunteer Response Team (VRT) member</a> and stored in our <a href=\"//commons.wikimedia.org/wiki/Commons:Volunteer_Response_Team\" title=\"Commons:Volunteer Response Team\">permission archive</a>. The correspondence is available to trusted volunteers as <b><a href=\"https://ticket.wikimedia.org/otrs/index.pl?Action=AgentTicketZoom&amp;TicketNumber=2014011510009711\" class=\"extiw\" title=\"ticket:2014011510009711\">ticket #2014011510009711</a></b>.\n</p><p><small>If you have questions about the archived correspondence, please use the <a href=\"//commons.wikimedia.org/wiki/Commons:Volunteer_Response_Team/Noticeboard\" title=\"Commons:Volunteer Response Team/Noticeboard\">VRT noticeboard</a>.</small>\n<small>Ticket link: <a class=\"external free\" href=\"https://ticket.wikimedia.org/otrs/index.pl?Action=AgentTicketZoom&amp;TicketNumber=2014011510009711\">https://ticket.wikimedia.org/otrs/index.pl?Action=AgentTicketZoom&amp;TicketNumber=2014011510009711</a></small>\n<br><small>Find other files from the same ticket:</small> <span typeof=\"mw:File\"><a href=\"https://wcqs-beta.wmflabs.org/#%23defaultView%3AImageGrid%09%0ASELECT%20%3Fimage%20%20%20%7B%0A%20%20%3Ffile%20wdt%3AP6305%20%222014011510009711%22%20.%0A%20%20%3Ffile%20schema%3Aurl%20%3Fimage.%0A%7D%20%0A\" title=\"SDC query (SPARQL)\" rel=\"nofollow\"><img alt=\"SDC query (SPARQL)\" src=\"https://thumb.wikimedia.org/wikipedia/commons/thumb/7/77/Wikimedia_Commons_Query_Service_Logo.svg/20px-Wikimedia_Commons_Query_Service_Logo.svg.png?utm_source=commons.wikimedia.org&amp;utm_campaign=parser&amp;utm_content=thumbnail\" decoding=\"async\" loading=\"lazy\" width=\"15\" height=\"20\" class=\"mw-file-element\" srcset=\"https://thumb.wikimedia.org/wikipedia/commons/thumb/7/77/Wikimedia_Commons_Query_Service_Logo.svg/40px-Wikimedia_Commons_Query_Service_Logo.svg.png?utm_source=commons.wikimedia.org&amp;utm_campaign=parser&amp;utm_content=thumbnail 2x\" data-file-width=\"512\" data-file-height=\"688\"></a></span>\n</p>\n<span id=\"field-otrs\" title=\"https://ticket.wikimedia.org/otrs/index.pl?Action=AgentTicketZoom&amp;TicketNumber=2014011510009711\"></span></td></tr></tbody></table>",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "LicenseShortName": {
+                  "value": "CC BY-SA 3.0",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "UsageTerms": {
+                  "value": "Creative Commons Attribution-Share Alike 3.0",
+                  "source": "commons-desc-page"
+                },
+                "AttributionRequired": {
+                  "value": "true",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "LicenseUrl": {
+                  "value": "https://creativecommons.org/licenses/by-sa/3.0",
+                  "source": "commons-desc-page"
+                },
+                "Copyrighted": {
+                  "value": "True",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "Restrictions": {
+                  "value": "",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "License": {
+                  "value": "cc-by-sa-3.0",
+                  "source": "commons-templates",
+                  "hidden": ""
+                }
+              }
+            }
+          ]
+        },
+        {
+          "pageid": 54049313,
+          "ns": 6,
+          "title": "File:History of the First Council of Nice.djvu",
+          "index": 4,
+          "imagerepository": "local",
+          "imageinfo": [
+            {
+              "size": 4817631,
+              "width": 2330,
+              "height": 3635,
+              "pagecount": 138,
+              "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6c/History_of_the_First_Council_of_Nice.djvu/page1-500px-History_of_the_First_Council_of_Nice.djvu.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+              "thumbwidth": 400,
+              "thumbheight": 624,
+              "responsiveUrls": {
+                "2": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6c/History_of_the_First_Council_of_Nice.djvu/page1-960px-History_of_the_First_Council_of_Nice.djvu.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+              },
+              "thumbattribs": {
+                "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6c/History_of_the_First_Council_of_Nice.djvu/page1-500px-History_of_the_First_Council_of_Nice.djvu.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+                "decoding": "async",
+                "loading": "lazy",
+                "width": 400,
+                "height": 624,
+                "srcset": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6c/History_of_the_First_Council_of_Nice.djvu/page1-960px-History_of_the_First_Council_of_Nice.djvu.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail 2x"
+              },
+              "url": "https://upload.wikimedia.org/wikipedia/commons/6/6c/History_of_the_First_Council_of_Nice.djvu?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+              "descriptionurl": "https://commons.wikimedia.org/wiki/File:History_of_the_First_Council_of_Nice.djvu",
+              "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=54049313",
+              "extmetadata": {
+                "DateTime": {
+                  "value": "2016-12-13 17:34:17",
+                  "source": "mediawiki-metadata",
+                  "hidden": ""
+                },
+                "ObjectName": {
+                  "value": "<div class=\"fn\">\nHistory of the first Council of Nice : a world's Christian convention, A.D. 325 ; with a life of Constantine</div>",
+                  "source": "commons-desc-page"
+                },
+                "CommonsMetadataExtension": {
+                  "value": 1.2,
+                  "source": "extension",
+                  "hidden": ""
+                },
+                "Categories": {
+                  "value": "1880 books|DjVu files in English|PD Old|PD-scan (PD-old-70)|Scans from the Internet Archive/unverified|CC-PD-Mark|Scans from the Internet Archive|Books without Wikidata item|Books published in Boston|PD-old missing SDC copyright status",
+                  "source": "commons-categories",
+                  "hidden": ""
+                },
+                "Assessments": {
+                  "value": "",
+                  "source": "commons-categories",
+                  "hidden": ""
+                },
+                "Artist": {
+                  "value": "<div class=\"fn value\">\nDudley, Dean, 1823-1906</div>",
+                  "source": "commons-desc-page"
+                },
+                "ImageDescription": {
+                  "value": "<div class=\"description\">\nFord Collection</div>",
+                  "source": "commons-desc-page"
+                },
+                "Credit": {
+                  "value": "<a href=\"//archive.org/details/historyoffirstco00dudl\" class=\"extiw\" title=\"iarchive:historyoffirstco00dudl\"><bdi class=\"description en\" lang=\"en\" dir=\"ltr\">Internet Archive identifier</bdi>: historyoffirstco00dudl</a>",
+                  "source": "commons-desc-page"
+                },
+                "LicenseShortName": {
+                  "value": "Public domain",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "UsageTerms": {
+                  "value": "Public domain",
+                  "source": "commons-desc-page"
+                },
+                "AttributionRequired": {
+                  "value": "false",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "Copyrighted": {
+                  "value": "False",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "Restrictions": {
+                  "value": "",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "License": {
+                  "value": "pd",
+                  "source": "commons-templates",
+                  "hidden": ""
+                }
+              }
+            }
+          ]
+        },
+        {
+          "pageid": 98233790,
+          "ns": 6,
+          "title": "File:Catalogue of the valuable collection of Greek & Roman coins, formed by a nobleman, (the Earl of Charlemont*), of great literary and artistic taste, deceased ... also (IA catalogueofvalua00sot kp4).pdf",
+          "index": 5,
+          "imagerepository": "local",
+          "imageinfo": [
+            {
+              "size": 3154332,
+              "width": 1431,
+              "height": 2281,
+              "pagecount": 46,
+              "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8e/Catalogue_of_the_valuable_collection_of_Greek_%26_Roman_coins%2C_formed_by_a_nobleman%2C_%28the_Earl_of_Charlemont%2A%29%2C_of_great_literary_and_artistic_taste%2C_deceased_..._also_%28IA_catalogueofvalua00sot_kp4%29.pdf/page1-500px-thumbnail.pdf.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+              "thumbwidth": 400,
+              "thumbheight": 638,
+              "responsiveUrls": {
+                "2": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8e/Catalogue_of_the_valuable_collection_of_Greek_%26_Roman_coins%2C_formed_by_a_nobleman%2C_%28the_Earl_of_Charlemont%2A%29%2C_of_great_literary_and_artistic_taste%2C_deceased_..._also_%28IA_catalogueofvalua00sot_kp4%29.pdf/page1-960px-thumbnail.pdf.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+              },
+              "thumbattribs": {
+                "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8e/Catalogue_of_the_valuable_collection_of_Greek_%26_Roman_coins%2C_formed_by_a_nobleman%2C_%28the_Earl_of_Charlemont%2A%29%2C_of_great_literary_and_artistic_taste%2C_deceased_..._also_%28IA_catalogueofvalua00sot_kp4%29.pdf/page1-500px-thumbnail.pdf.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+                "decoding": "async",
+                "loading": "lazy",
+                "width": 400,
+                "height": 638,
+                "srcset": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8e/Catalogue_of_the_valuable_collection_of_Greek_%26_Roman_coins%2C_formed_by_a_nobleman%2C_%28the_Earl_of_Charlemont%2A%29%2C_of_great_literary_and_artistic_taste%2C_deceased_..._also_%28IA_catalogueofvalua00sot_kp4%29.pdf/page1-960px-thumbnail.pdf.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail 2x"
+              },
+              "url": "https://upload.wikimedia.org/wikipedia/commons/8/8e/Catalogue_of_the_valuable_collection_of_Greek_%26_Roman_coins%2C_formed_by_a_nobleman%2C_%28the_Earl_of_Charlemont%2A%29%2C_of_great_literary_and_artistic_taste%2C_deceased_..._also_%28IA_catalogueofvalua00sot_kp4%29.pdf?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+              "descriptionurl": "https://commons.wikimedia.org/wiki/File:Catalogue_of_the_valuable_collection_of_Greek_%26_Roman_coins,_formed_by_a_nobleman,_(the_Earl_of_Charlemont*),_of_great_literary_and_artistic_taste,_deceased_..._also_(IA_catalogueofvalua00sot_kp4).pdf",
+              "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=98233790",
+              "extmetadata": {
+                "DateTime": {
+                  "value": "2020-12-30 04:52:44",
+                  "source": "mediawiki-metadata",
+                  "hidden": ""
+                },
+                "ObjectName": {
+                  "value": "<div class=\"fn\">\nCatalogue of the valuable collection of Greek &amp; Roman coins, formed by a nobleman, [the Earl of Charlemont*], of great literary and artistic taste, deceased ... also, some ... numismatic books, [including] one of the \"hundred large paper copies\" of Brunet's ... \"Manuel du Libraire\" ... [06/27/1865]</div>",
+                  "source": "commons-desc-page"
+                },
+                "CommonsMetadataExtension": {
+                  "value": 1.2,
+                  "source": "extension",
+                  "hidden": ""
+                },
+                "Categories": {
+                  "value": "PD-old-100-expired|Scans from the Internet Archive/unverified|CC-PD-Mark|Scans from the Internet Archive|Books uploaded by Fæ|Books without Wikidata item|Old books from American Libraries|Sotheby, Wilkinson & Hodge|PD-old missing SDC copyright status",
+                  "source": "commons-categories",
+                  "hidden": ""
+                },
+                "Assessments": {
+                  "value": "",
+                  "source": "commons-categories",
+                  "hidden": ""
+                },
+                "Artist": {
+                  "value": "<div class=\"fn value\">\nSotheby, Wilkinson &amp; Hodge</div>",
+                  "source": "commons-desc-page"
+                },
+                "ImageDescription": {
+                  "value": "<div class=\"description\">\n<dl><dd>21 p</dd>\n<dd>Lots: 446</dd>\n<dd>Bound auct. #82 partially priced</dd>\n<dd>Bound auct. #82 scanned</dd>\n<dd>June 27, 1865</dd></dl>\n<br>Subjects: Charlemont, Earl of -- Coin collections -- Catalogs</div>",
+                  "source": "commons-desc-page"
+                },
+                "Credit": {
+                  "value": "<dl><dd><a href=\"//archive.org/details/catalogueofvalua00sot_kp4\" class=\"extiw\" title=\"iarchive:catalogueofvalua00sot kp4\"><bdi class=\"description en\" lang=\"en\" dir=\"ltr\">Internet Archive identifier</bdi>: catalogueofvalua00sot_kp4</a></dd>\n<dd><a rel=\"nofollow\" class=\"external free\" href=\"https://archive.org/download/catalogueofvalua00sot_kp4/catalogueofvalua00sot_kp4.pdf\">https://archive.org/download/catalogueofvalua00sot_kp4/catalogueofvalua00sot_kp4.pdf</a></dd></dl>\n<ul><li>IA digitizing sponsor: Eric P. Newman Numismatic Education Society</li></ul>",
+                  "source": "commons-desc-page"
+                },
+                "LicenseShortName": {
+                  "value": "Public domain",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "UsageTerms": {
+                  "value": "Public domain",
+                  "source": "commons-desc-page"
+                },
+                "AttributionRequired": {
+                  "value": "false",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "Copyrighted": {
+                  "value": "False",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "Restrictions": {
+                  "value": "",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "License": {
+                  "value": "pd",
+                  "source": "commons-templates",
+                  "hidden": ""
+                }
+              }
+            }
+          ]
+        },
+        {
+          "pageid": 125833807,
+          "ns": 6,
+          "title": "File:Medallion of Constantine I.png",
+          "index": 3,
+          "imagerepository": "local",
+          "imageinfo": [
+            {
+              "size": 2574370,
+              "width": 1600,
+              "height": 810,
+              "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2e/Medallion_of_Constantine_I.png/500px-Medallion_of_Constantine_I.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+              "thumbwidth": 400,
+              "thumbheight": 203,
+              "responsiveUrls": {
+                "2": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2e/Medallion_of_Constantine_I.png/960px-Medallion_of_Constantine_I.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+              },
+              "thumbattribs": {
+                "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2e/Medallion_of_Constantine_I.png/500px-Medallion_of_Constantine_I.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+                "decoding": "async",
+                "loading": "lazy",
+                "width": 400,
+                "height": 203,
+                "srcset": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2e/Medallion_of_Constantine_I.png/960px-Medallion_of_Constantine_I.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail 2x"
+              },
+              "url": "https://upload.wikimedia.org/wikipedia/commons/2/2e/Medallion_of_Constantine_I.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+              "descriptionurl": "https://commons.wikimedia.org/wiki/File:Medallion_of_Constantine_I.png",
+              "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=125833807",
+              "extmetadata": {
+                "DateTime": {
+                  "value": "2022-11-23 02:43:53",
+                  "source": "mediawiki-metadata",
+                  "hidden": ""
+                },
+                "ObjectName": {
+                  "value": "Medallion of Constantine I",
+                  "source": "mediawiki-metadata"
+                },
+                "CommonsMetadataExtension": {
+                  "value": 1.2,
+                  "source": "extension",
+                  "hidden": ""
+                },
+                "Categories": {
+                  "value": "Images with extracted images|Tricennalias|Roman medallion|Medals of Constantinus I Magnus|Gold coins of Constantinus I Magnus|Two Victories holding inscribed shield on coins",
+                  "source": "commons-categories",
+                  "hidden": ""
+                },
+                "Assessments": {
+                  "value": "",
+                  "source": "commons-categories",
+                  "hidden": ""
+                },
+                "ImageDescription": {
+                  "value": "<b>The Roman Empire. Constantine I, 307 – 337.</b><br>Medallion of 6 solidi, Nicomedia circa 335-336, AV 26.77 g. CONSTANTI – NVS MAX AVG Laureate and rosette-diademed, draped and cuirassed bust r. Rev. CONSTANTINI AVG Two Victories, winged, draped, standing facing each other, holding a shield inscribed VOT/XXX. In exergue, SMNM. C –, cf. 81 (Treviri). Gnecchi –, cf. 3 (Treviri). Alföldi –, 32 (Treviri). RIC –, cf. 571 (Treviri). Depeyrot –, cf. p. 152 (Treviri)\n<p>Apparently unique and unrecorded. A spectacular and impressive medallion with an\ninteresting portrait and a fascinating reverse composition. Minor edge marks,\notherwise about extremely fine / extremely fine\n</p><p>Ex Gorny &amp; Mosch sale 215, 2013, 1095. From the collection of a Man in Love with Art.\n</p>\nIn the age of Constantine the Great, large gold multiples such as this apparently unique piece were regularly produced for distribution to the army at the New Year festival or other major celebratory occasions as a means of ensuring the continued loyalty of the soldiery. There was nothing that did more for retaining loyalty than frequent infusions of gold. This 6-solidus piece was struck at the mint of Nicomedia to celebrate Constantine's tricennalia-the 30-year anniversary of his reign in AD 335. The tricennalia was a lavish event, as one might expect after a long reign filled with much conflict, both with his rivals for imperial power and with the barbarian peoples who threatened the integrity of the empire's borders. Constantine had survived it all and come out on top, creating an opulent new capital at Constantinople and establishing the supremacy of a new religion, Christianity, at the same time. There was much to celebrate and Constantine used the occasion to further ensure the stability of the empire and the continuation of his dynasty by elevating his nephews Delmatius and Hannibalianus as Caesar in Achaea, Macedonia and Thrace and King of Pontus, respectively. This was in addition to his own sons whom Constantine had previously made Caesars with authority in other parts of the empire. Unfortunately, only two years after the celebration of the tricennalia, Constantine fell ill and died in AD 337, and much of what he had accomplished over those 30 years began to unravel. A bloody purge orchestrated by his sons, Constantius II, Constantine II and Constans immediately resulted in the murders of Delmatius, Hannibalianus and other members of the family deemed to be potential threats. Disputes among the brothers led to war and the death of Constantine II in 340. By 350, the unpopular Constans was murdered by his own courtiers. Constantine the Great had won many victories and achieved signal successes in his 30 years as emperor, but his successors were not equal to the task of maintaining his momentum and holding them together.",
+                  "source": "commons-desc-page"
+                },
+                "DateTimeOriginal": {
+                  "value": "0336",
+                  "source": "commons-desc-page"
+                },
+                "Credit": {
+                  "value": "<a rel=\"nofollow\" class=\"external free\" href=\"https://www.numisbids.com/n.php?p=lot&amp;sid=6188&amp;lot=392\">https://www.numisbids.com/n.php?p=lot&amp;sid=6188&amp;lot=392</a>",
+                  "source": "commons-desc-page"
+                },
+                "Artist": {
+                  "value": "NAC",
+                  "source": "commons-desc-page"
+                },
+                "LicenseShortName": {
+                  "value": "CC BY-SA 4.0",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "UsageTerms": {
+                  "value": "Creative Commons Attribution-Share Alike 4.0",
+                  "source": "commons-desc-page"
+                },
+                "AttributionRequired": {
+                  "value": "true",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "LicenseUrl": {
+                  "value": "https://creativecommons.org/licenses/by-sa/4.0",
+                  "source": "commons-desc-page"
+                },
+                "Copyrighted": {
+                  "value": "True",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "Restrictions": {
+                  "value": "",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "License": {
+                  "value": "cc-by-sa-4.0",
+                  "source": "commons-templates",
+                  "hidden": ""
+                }
+              }
+            }
+          ]
+        },
+        {
+          "pageid": 125833829,
+          "ns": 6,
+          "title": "File:Medallion of Constantine I (obverse).png",
+          "index": 2,
+          "imagerepository": "local",
+          "imageinfo": [
+            {
+              "size": 1341535,
+              "width": 798,
+              "height": 805,
+              "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/10/Medallion_of_Constantine_I_%28obverse%29.png/500px-Medallion_of_Constantine_I_%28obverse%29.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+              "thumbwidth": 400,
+              "thumbheight": 404,
+              "responsiveUrls": {
+                "2": "https://upload.wikimedia.org/wikipedia/commons/1/10/Medallion_of_Constantine_I_%28obverse%29.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled"
+              },
+              "thumbattribs": {
+                "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/10/Medallion_of_Constantine_I_%28obverse%29.png/500px-Medallion_of_Constantine_I_%28obverse%29.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+                "decoding": "async",
+                "loading": "lazy",
+                "width": 400,
+                "height": 404,
+                "srcset": "https://upload.wikimedia.org/wikipedia/commons/1/10/Medallion_of_Constantine_I_%28obverse%29.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled 2x"
+              },
+              "url": "https://upload.wikimedia.org/wikipedia/commons/1/10/Medallion_of_Constantine_I_%28obverse%29.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+              "descriptionurl": "https://commons.wikimedia.org/wiki/File:Medallion_of_Constantine_I_(obverse).png",
+              "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=125833829",
+              "extmetadata": {
+                "DateTime": {
+                  "value": "2022-11-23 02:45:28",
+                  "source": "mediawiki-metadata",
+                  "hidden": ""
+                },
+                "ObjectName": {
+                  "value": "Medallion of Constantine I (obverse)",
+                  "source": "mediawiki-metadata"
+                },
+                "CommonsMetadataExtension": {
+                  "value": 1.2,
+                  "source": "extension",
+                  "hidden": ""
+                },
+                "Categories": {
+                  "value": "Extracted images|Roman medallion|Medals of Constantinus I Magnus|Gold coins of Constantinus I Magnus",
+                  "source": "commons-categories",
+                  "hidden": ""
+                },
+                "Assessments": {
+                  "value": "",
+                  "source": "commons-categories",
+                  "hidden": ""
+                },
+                "ImageDescription": {
+                  "value": "<b>The Roman Empire. Constantine I, 307 – 337.</b><br>Medallion of 6 solidi, Nicomedia circa 335-336, AV 26.77 g. CONSTANTI – NVS MAX AVG Laureate and rosette-diademed, draped and cuirassed bust r. Rev. CONSTANTINI AVG Two Victories, winged, draped, standing facing each other, holding a shield inscribed VOT/XXX. In exergue, SMNM. C –, cf. 81 (Treviri). Gnecchi –, cf. 3 (Treviri). Alföldi –, 32 (Treviri). RIC –, cf. 571 (Treviri). Depeyrot –, cf. p. 152 (Treviri)\n<p>Apparently unique and unrecorded. A spectacular and impressive medallion with an\ninteresting portrait and a fascinating reverse composition. Minor edge marks,\notherwise about extremely fine / extremely fine\n</p><p>Ex Gorny &amp; Mosch sale 215, 2013, 1095. From the collection of a Man in Love with Art.\n</p>\nIn the age of Constantine the Great, large gold multiples such as this apparently unique piece were regularly produced for distribution to the army at the New Year festival or other major celebratory occasions as a means of ensuring the continued loyalty of the soldiery. There was nothing that did more for retaining loyalty than frequent infusions of gold. This 6-solidus piece was struck at the mint of Nicomedia to celebrate Constantine's tricennalia-the 30-year anniversary of his reign in AD 335. The tricennalia was a lavish event, as one might expect after a long reign filled with much conflict, both with his rivals for imperial power and with the barbarian peoples who threatened the integrity of the empire's borders. Constantine had survived it all and come out on top, creating an opulent new capital at Constantinople and establishing the supremacy of a new religion, Christianity, at the same time. There was much to celebrate and Constantine used the occasion to further ensure the stability of the empire and the continuation of his dynasty by elevating his nephews Delmatius and Hannibalianus as Caesar in Achaea, Macedonia and Thrace and King of Pontus, respectively. This was in addition to his own sons whom Constantine had previously made Caesars with authority in other parts of the empire. Unfortunately, only two years after the celebration of the tricennalia, Constantine fell ill and died in AD 337, and much of what he had accomplished over those 30 years began to unravel. A bloody purge orchestrated by his sons, Constantius II, Constantine II and Constans immediately resulted in the murders of Delmatius, Hannibalianus and other members of the family deemed to be potential threats. Disputes among the brothers led to war and the death of Constantine II in 340. By 350, the unpopular Constans was murdered by his own courtiers. Constantine the Great had won many victories and achieved signal successes in his 30 years as emperor, but his successors were not equal to the task of maintaining his momentum and holding them together.",
+                  "source": "commons-desc-page"
+                },
+                "DateTimeOriginal": {
+                  "value": "0336",
+                  "source": "commons-desc-page"
+                },
+                "Credit": {
+                  "value": "<a rel=\"nofollow\" class=\"external free\" href=\"https://www.numisbids.com/n.php?p=lot&amp;sid=6188&amp;lot=392\">https://www.numisbids.com/n.php?p=lot&amp;sid=6188&amp;lot=392</a>",
+                  "source": "commons-desc-page"
+                },
+                "Artist": {
+                  "value": "NAC",
+                  "source": "commons-desc-page"
+                },
+                "LicenseShortName": {
+                  "value": "CC BY-SA 4.0",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "UsageTerms": {
+                  "value": "Creative Commons Attribution-Share Alike 4.0",
+                  "source": "commons-desc-page"
+                },
+                "AttributionRequired": {
+                  "value": "true",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "LicenseUrl": {
+                  "value": "https://creativecommons.org/licenses/by-sa/4.0",
+                  "source": "commons-desc-page"
+                },
+                "Copyrighted": {
+                  "value": "True",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "Restrictions": {
+                  "value": "",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "License": {
+                  "value": "cc-by-sa-4.0",
+                  "source": "commons-templates",
+                  "hidden": ""
+                }
+              }
+            }
+          ]
+        }
+      ]
+    }
+  }
+}

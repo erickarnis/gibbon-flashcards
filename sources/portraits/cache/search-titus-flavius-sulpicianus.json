@@ -1,0 +1,398 @@
+{
+  "person_id": "titus-flavius-sulpicianus",
+  "query": "Titus Flavius Sulpicianus",
+  "response": {
+    "batchcomplete": true,
+    "query": {
+      "pages": [
+        {
+          "pageid": 95547818,
+          "ns": 6,
+          "title": "File:The rare coin encyclopedia .. (IA rarecoinencyclop00vonb).pdf",
+          "index": 2,
+          "imagerepository": "local",
+          "imageinfo": [
+            {
+              "size": 15601875,
+              "width": 697,
+              "height": 979,
+              "pagecount": 276,
+              "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/12/The_rare_coin_encyclopedia_.._%28IA_rarecoinencyclop00vonb%29.pdf/page1-500px-The_rare_coin_encyclopedia_.._%28IA_rarecoinencyclop00vonb%29.pdf.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+              "thumbwidth": 400,
+              "thumbheight": 562,
+              "thumbattribs": {
+                "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/12/The_rare_coin_encyclopedia_.._%28IA_rarecoinencyclop00vonb%29.pdf/page1-500px-The_rare_coin_encyclopedia_.._%28IA_rarecoinencyclop00vonb%29.pdf.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+                "decoding": "async",
+                "loading": "lazy",
+                "width": 400,
+                "height": 562
+              },
+              "url": "https://upload.wikimedia.org/wikipedia/commons/1/12/The_rare_coin_encyclopedia_.._%28IA_rarecoinencyclop00vonb%29.pdf?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+              "descriptionurl": "https://commons.wikimedia.org/wiki/File:The_rare_coin_encyclopedia_.._(IA_rarecoinencyclop00vonb).pdf",
+              "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=95547818",
+              "extmetadata": {
+                "DateTime": {
+                  "value": "2020-10-28 00:52:40",
+                  "source": "mediawiki-metadata",
+                  "hidden": ""
+                },
+                "ObjectName": {
+                  "value": "<div class=\"fn\">\nThe rare coin encyclopedia ..</div>",
+                  "source": "commons-desc-page"
+                },
+                "CommonsMetadataExtension": {
+                  "value": 1.2,
+                  "source": "extension",
+                  "hidden": ""
+                },
+                "Categories": {
+                  "value": "Scans from the Internet Archive/unverified|PD US expired|Scans from the Internet Archive|Books uploaded by Fæ|Books without Wikidata item|Images from the Getty Research Institute|Books published in Boston",
+                  "source": "commons-categories",
+                  "hidden": ""
+                },
+                "Assessments": {
+                  "value": "",
+                  "source": "commons-categories",
+                  "hidden": ""
+                },
+                "Artist": {
+                  "value": "<div class=\"fn value\">\nVon Bergen, William</div>",
+                  "source": "commons-desc-page"
+                },
+                "ImageDescription": {
+                  "value": "<div class=\"description\">\n<p>The full page illustrations are not included in the pagination\n</p>\n<br>Subjects: Numismatics; Numismatics</div>",
+                  "source": "commons-desc-page"
+                },
+                "Credit": {
+                  "value": "<dl><dd><a href=\"//archive.org/details/rarecoinencyclop00vonb\" class=\"extiw\" title=\"iarchive:rarecoinencyclop00vonb\"><bdi class=\"description en\" lang=\"en\" dir=\"ltr\">Internet Archive identifier</bdi>: rarecoinencyclop00vonb</a></dd>\n<dd><a rel=\"nofollow\" class=\"external free\" href=\"https://archive.org/download/rarecoinencyclop00vonb/rarecoinencyclop00vonb.pdf\">https://archive.org/download/rarecoinencyclop00vonb/rarecoinencyclop00vonb.pdf</a></dd></dl>",
+                  "source": "commons-desc-page"
+                },
+                "LicenseShortName": {
+                  "value": "Public domain",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "UsageTerms": {
+                  "value": "Public domain",
+                  "source": "commons-desc-page"
+                },
+                "AttributionRequired": {
+                  "value": "false",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "Copyrighted": {
+                  "value": "False",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "Restrictions": {
+                  "value": "",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "License": {
+                  "value": "pd",
+                  "source": "commons-templates",
+                  "hidden": ""
+                }
+              }
+            }
+          ]
+        },
+        {
+          "pageid": 95547833,
+          "ns": 6,
+          "title": "File:The rare coin encyclopedia (IA rarecoinencyclop00vonb 0).pdf",
+          "index": 3,
+          "imagerepository": "local",
+          "imageinfo": [
+            {
+              "size": 31154830,
+              "width": 618,
+              "height": 1002,
+              "pagecount": 266,
+              "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/47/The_rare_coin_encyclopedia_%28IA_rarecoinencyclop00vonb_0%29.pdf/page1-500px-The_rare_coin_encyclopedia_%28IA_rarecoinencyclop00vonb_0%29.pdf.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+              "thumbwidth": 400,
+              "thumbheight": 649,
+              "thumbattribs": {
+                "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/47/The_rare_coin_encyclopedia_%28IA_rarecoinencyclop00vonb_0%29.pdf/page1-500px-The_rare_coin_encyclopedia_%28IA_rarecoinencyclop00vonb_0%29.pdf.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+                "decoding": "async",
+                "loading": "lazy",
+                "width": 400,
+                "height": 649
+              },
+              "url": "https://upload.wikimedia.org/wikipedia/commons/4/47/The_rare_coin_encyclopedia_%28IA_rarecoinencyclop00vonb_0%29.pdf?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+              "descriptionurl": "https://commons.wikimedia.org/wiki/File:The_rare_coin_encyclopedia_(IA_rarecoinencyclop00vonb_0).pdf",
+              "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=95547833",
+              "extmetadata": {
+                "DateTime": {
+                  "value": "2020-10-28 00:53:31",
+                  "source": "mediawiki-metadata",
+                  "hidden": ""
+                },
+                "ObjectName": {
+                  "value": "<div class=\"fn\">\nThe rare coin encyclopedia</div>",
+                  "source": "commons-desc-page"
+                },
+                "CommonsMetadataExtension": {
+                  "value": 1.2,
+                  "source": "extension",
+                  "hidden": ""
+                },
+                "Categories": {
+                  "value": "Scans from the Internet Archive/unverified|PD US expired|Scans from the Internet Archive|Books uploaded by Fæ|Books without Wikidata item|Images from the Getty Research Institute",
+                  "source": "commons-categories",
+                  "hidden": ""
+                },
+                "Assessments": {
+                  "value": "",
+                  "source": "commons-categories",
+                  "hidden": ""
+                },
+                "Artist": {
+                  "value": "<div class=\"fn value\">\nVon Bergen, William, author</div>",
+                  "source": "commons-desc-page"
+                },
+                "ImageDescription": {
+                  "value": "<div class=\"description\">\nSubjects: Numismatics</div>",
+                  "source": "commons-desc-page"
+                },
+                "Credit": {
+                  "value": "<dl><dd><a href=\"//archive.org/details/rarecoinencyclop00vonb_0\" class=\"extiw\" title=\"iarchive:rarecoinencyclop00vonb 0\"><bdi class=\"description en\" lang=\"en\" dir=\"ltr\">Internet Archive identifier</bdi>: rarecoinencyclop00vonb_0</a></dd>\n<dd><a rel=\"nofollow\" class=\"external free\" href=\"https://archive.org/download/rarecoinencyclop00vonb_0/rarecoinencyclop00vonb_0.pdf\">https://archive.org/download/rarecoinencyclop00vonb_0/rarecoinencyclop00vonb_0.pdf</a></dd></dl>",
+                  "source": "commons-desc-page"
+                },
+                "LicenseShortName": {
+                  "value": "Public domain",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "UsageTerms": {
+                  "value": "Public domain",
+                  "source": "commons-desc-page"
+                },
+                "AttributionRequired": {
+                  "value": "false",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "Copyrighted": {
+                  "value": "False",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "Restrictions": {
+                  "value": "",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "License": {
+                  "value": "pd",
+                  "source": "commons-templates",
+                  "hidden": ""
+                }
+              }
+            }
+          ]
+        },
+        {
+          "pageid": 99076074,
+          "ns": 6,
+          "title": "File:Titus Flavius Sulpicianus.jpg",
+          "index": 1,
+          "imagerepository": "local",
+          "imageinfo": [
+            {
+              "size": 3195,
+              "width": 90,
+              "height": 135,
+              "thumburl": "https://upload.wikimedia.org/wikipedia/commons/d/da/Titus_Flavius_Sulpicianus.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+              "thumbwidth": 400,
+              "thumbheight": 600,
+              "thumbattribs": {
+                "src": "https://upload.wikimedia.org/wikipedia/commons/d/da/Titus_Flavius_Sulpicianus.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+                "decoding": "async",
+                "loading": "lazy",
+                "width": 400,
+                "height": 600
+              },
+              "url": "https://upload.wikimedia.org/wikipedia/commons/d/da/Titus_Flavius_Sulpicianus.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+              "descriptionurl": "https://commons.wikimedia.org/wiki/File:Titus_Flavius_Sulpicianus.jpg",
+              "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=99076074",
+              "extmetadata": {
+                "DateTime": {
+                  "value": "2021-01-21 05:42:06",
+                  "source": "mediawiki-metadata",
+                  "hidden": ""
+                },
+                "ObjectName": {
+                  "value": "Titus Flavius Sulpicianus",
+                  "source": "mediawiki-metadata"
+                },
+                "CommonsMetadataExtension": {
+                  "value": 1.2,
+                  "source": "extension",
+                  "hidden": ""
+                },
+                "Categories": {
+                  "value": "Self-published work|Ancient Roman busts of men|Template Unknown (author)",
+                  "source": "commons-categories",
+                  "hidden": ""
+                },
+                "Assessments": {
+                  "value": "",
+                  "source": "commons-categories",
+                  "hidden": ""
+                },
+                "ImageDescription": {
+                  "value": "The bust of Titus Flavius Sulpicianus",
+                  "source": "commons-desc-page"
+                },
+                "DateTimeOriginal": {
+                  "value": "2021-01-21",
+                  "source": "commons-desc-page"
+                },
+                "Credit": {
+                  "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span> <span class=\"mw-valign-text-top noprint\" typeof=\"mw:File/Frameless\"><a href=\"//commons.wikimedia.org/wiki/File:Titus_Flavius_Sulpicianus.jpg#P7482\" title=\"Edit this at Structured Data on Commons\"><img alt=\"Edit this at Structured Data on Commons\" src=\"https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8a/OOjs_UI_icon_edit-ltr-progressive.svg/20px-OOjs_UI_icon_edit-ltr-progressive.svg.png?utm_source=commons.wikimedia.org&amp;utm_campaign=parser&amp;utm_content=thumbnail\" decoding=\"async\" loading=\"lazy\" width=\"10\" height=\"10\" class=\"mw-file-element\" data-file-width=\"20\" data-file-height=\"20\"></a></span>",
+                  "source": "commons-desc-page"
+                },
+                "Artist": {
+                  "value": "Unknown author<span style=\"display: none;\">Unknown author</span>",
+                  "source": "commons-desc-page"
+                },
+                "LicenseShortName": {
+                  "value": "CC BY-SA 4.0",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "UsageTerms": {
+                  "value": "Creative Commons Attribution-Share Alike 4.0",
+                  "source": "commons-desc-page"
+                },
+                "AttributionRequired": {
+                  "value": "true",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "LicenseUrl": {
+                  "value": "https://creativecommons.org/licenses/by-sa/4.0",
+                  "source": "commons-desc-page"
+                },
+                "Copyrighted": {
+                  "value": "True",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "Restrictions": {
+                  "value": "",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "License": {
+                  "value": "cc-by-sa-4.0",
+                  "source": "commons-templates",
+                  "hidden": ""
+                }
+              }
+            }
+          ]
+        },
+        {
+          "pageid": 199774486,
+          "ns": 6,
+          "title": "File:Roman imperial profiles, being a series of more than one hundred and sixty lithographic profiles enlarged from coins (IA RomanImperialProfiles).pdf",
+          "index": 4,
+          "imagerepository": "local",
+          "imageinfo": [
+            {
+              "size": 7289555,
+              "width": 745,
+              "height": 1239,
+              "pagecount": 431,
+              "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/34/Roman_imperial_profiles%2C_being_a_series_of_more_than_one_hundred_and_sixty_lithographic_profiles_enlarged_from_coins_%28IA_RomanImperialProfiles%29.pdf/page1-500px-Roman_imperial_profiles%2C_being_a_series_of_more_than_one_hundred_and_sixty_lithographic_profiles_enlarged_from_coins_%28IA_RomanImperialProfiles%29.pdf.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+              "thumbwidth": 400,
+              "thumbheight": 665,
+              "thumbattribs": {
+                "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/34/Roman_imperial_profiles%2C_being_a_series_of_more_than_one_hundred_and_sixty_lithographic_profiles_enlarged_from_coins_%28IA_RomanImperialProfiles%29.pdf/page1-500px-Roman_imperial_profiles%2C_being_a_series_of_more_than_one_hundred_and_sixty_lithographic_profiles_enlarged_from_coins_%28IA_RomanImperialProfiles%29.pdf.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+                "decoding": "async",
+                "loading": "lazy",
+                "width": 400,
+                "height": 665
+              },
+              "url": "https://upload.wikimedia.org/wikipedia/commons/3/34/Roman_imperial_profiles%2C_being_a_series_of_more_than_one_hundred_and_sixty_lithographic_profiles_enlarged_from_coins_%28IA_RomanImperialProfiles%29.pdf?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+              "descriptionurl": "https://commons.wikimedia.org/wiki/File:Roman_imperial_profiles,_being_a_series_of_more_than_one_hundred_and_sixty_lithographic_profiles_enlarged_from_coins_(IA_RomanImperialProfiles).pdf",
+              "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=199774486",
+              "extmetadata": {
+                "DateTime": {
+                  "value": "2026-09-19 00:02:44",
+                  "source": "mediawiki-metadata",
+                  "hidden": ""
+                },
+                "ObjectName": {
+                  "value": "<div class=\"fn\">\nRoman imperial profiles, being a series of more than one hundred and sixty lithographic profiles enlarged from coins</div>",
+                  "source": "commons-desc-page"
+                },
+                "CommonsMetadataExtension": {
+                  "value": 1.2,
+                  "source": "extension",
+                  "hidden": ""
+                },
+                "Categories": {
+                  "value": "PD-old-70-expired|Scans from the Internet Archive/unverified|CC-PD-Mark|Scans from the Internet Archive|Books uploaded by Fæ|Books without Wikidata item|IA uploads needing categories|PD-old missing SDC copyright status|Folkscanomy collection",
+                  "source": "commons-categories",
+                  "hidden": ""
+                },
+                "Assessments": {
+                  "value": "",
+                  "source": "commons-categories",
+                  "hidden": ""
+                },
+                "Artist": {
+                  "value": "<div class=\"fn value\">\n<dl><dd>Lee, John Edward, 1808-1887</dd>\n<dd>Croft, C. E</dd></dl></div>",
+                  "source": "commons-desc-page"
+                },
+                "ImageDescription": {
+                  "value": "<div class=\"description\">\n<dl><dd>Digitized by Google.</dd>\n<dd>C.E. Croft produced the series of profiles. cf. Preface</dd>\n<dd>Description based on print version record</dd>\n<dd>Electronic reproduction</dd>\n<dd>Master and use copy. Digital master created according to Benchmark for Faithful Digital Reproductions of Monographs and Serials, Version 1. Digital Library Federation, December 2002</dd>\n<dd>digitized</dd></dl>\n<br>Subjects: Rome -- Biography -- Portraits; Coins, Roman; Coins, Roman -- Pictorial works</div>",
+                  "source": "commons-desc-page"
+                },
+                "Credit": {
+                  "value": "<dl><dd><a href=\"//archive.org/details/RomanImperialProfiles\" class=\"extiw\" title=\"iarchive:RomanImperialProfiles\"><bdi class=\"description en\" lang=\"en\" dir=\"ltr\">Internet Archive identifier</bdi>: RomanImperialProfiles</a></dd>\n<dd><a rel=\"nofollow\" class=\"external free\" href=\"https://archive.org/download/RomanImperialProfiles/RomanImperialProfiles.pdf\">https://archive.org/download/RomanImperialProfiles/RomanImperialProfiles.pdf</a></dd></dl>",
+                  "source": "commons-desc-page"
+                },
+                "LicenseShortName": {
+                  "value": "Public domain",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "UsageTerms": {
+                  "value": "Public domain",
+                  "source": "commons-desc-page"
+                },
+                "AttributionRequired": {
+                  "value": "false",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "Copyrighted": {
+                  "value": "False",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "Restrictions": {
+                  "value": "",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "License": {
+                  "value": "pd",
+                  "source": "commons-templates",
+                  "hidden": ""
+                }
+              }
+            }
+          ]
+        }
+      ]
+    }
+  }
+}

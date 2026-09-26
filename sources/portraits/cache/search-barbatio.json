@@ -1,0 +1,498 @@
+{
+  "person_id": "barbatio",
+  "query": "Barbatio",
+  "response": {
+    "batchcomplete": true,
+    "continue": {
+      "gsroffset": 5,
+      "continue": "gsroffset||"
+    },
+    "query": {
+      "pages": [
+        {
+          "pageid": 94820576,
+          "ns": 6,
+          "title": "File:Andreae Alciati v.c. Emblemata (IA andreaealciativc00alci 0).pdf",
+          "index": 4,
+          "imagerepository": "local",
+          "imageinfo": [
+            {
+              "size": 104576855,
+              "width": 1152,
+              "height": 1843,
+              "pagecount": 894,
+              "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ee/Andreae_Alciati_v.c._Emblemata_%28IA_andreaealciativc00alci_0%29.pdf/page1-500px-Andreae_Alciati_v.c._Emblemata_%28IA_andreaealciativc00alci_0%29.pdf.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+              "thumbwidth": 400,
+              "thumbheight": 640,
+              "responsiveUrls": {
+                "2": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ee/Andreae_Alciati_v.c._Emblemata_%28IA_andreaealciativc00alci_0%29.pdf/page1-960px-Andreae_Alciati_v.c._Emblemata_%28IA_andreaealciativc00alci_0%29.pdf.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+              },
+              "thumbattribs": {
+                "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ee/Andreae_Alciati_v.c._Emblemata_%28IA_andreaealciativc00alci_0%29.pdf/page1-500px-Andreae_Alciati_v.c._Emblemata_%28IA_andreaealciativc00alci_0%29.pdf.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+                "decoding": "async",
+                "loading": "lazy",
+                "width": 400,
+                "height": 640,
+                "srcset": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ee/Andreae_Alciati_v.c._Emblemata_%28IA_andreaealciativc00alci_0%29.pdf/page1-960px-Andreae_Alciati_v.c._Emblemata_%28IA_andreaealciativc00alci_0%29.pdf.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail 2x"
+              },
+              "url": "https://upload.wikimedia.org/wikipedia/commons/e/ee/Andreae_Alciati_v.c._Emblemata_%28IA_andreaealciativc00alci_0%29.pdf?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+              "descriptionurl": "https://commons.wikimedia.org/wiki/File:Andreae_Alciati_v.c._Emblemata_(IA_andreaealciativc00alci_0).pdf",
+              "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=94820576",
+              "extmetadata": {
+                "DateTime": {
+                  "value": "2020-10-06 23:00:54",
+                  "source": "mediawiki-metadata",
+                  "hidden": ""
+                },
+                "ObjectName": {
+                  "value": "<div class=\"fn\">\nAndreae Alciati v.c. Emblemata</div>",
+                  "source": "commons-desc-page"
+                },
+                "CommonsMetadataExtension": {
+                  "value": 1.2,
+                  "source": "extension",
+                  "hidden": ""
+                },
+                "Categories": {
+                  "value": "Alciato's Book of Emblems|Scans from the Internet Archive/unverified|PD US expired|Scans from the Internet Archive|Books uploaded by Fæ|Books without Wikidata item|IA books of at least 500 pages|Images from the Getty Research Institute|Latin-language books",
+                  "source": "commons-categories",
+                  "hidden": ""
+                },
+                "Assessments": {
+                  "value": "",
+                  "source": "commons-categories",
+                  "hidden": ""
+                },
+                "Artist": {
+                  "value": "<div class=\"fn value\">\n<dl><dd>Alciati, Andrea, 1492-1550</dd>\n<dd>Mignault, Claude, approximately 1536-1606</dd></dl></div>",
+                  "source": "commons-desc-page"
+                },
+                "ImageDescription": {
+                  "value": "<div class=\"description\">\n<dl><dd>Binding: old sheepskin. Boards gilt tooled overall with fleurs-de-lys. At the center of each board is an armorial shield with \"Collegivm Grassinaevm\" and a motto on the surrounding ribbon; see Reliures armoriés françaises, pl. 1973/2, where it is noted that all prize books presented at the Collège de Grassin, Paris, were stamped with the arms of its founder, Thierry Grassin. Spine and edges of boards also gilt tooled. Page edges marbled and gilded</dd>\n<dd>\"V.c. Andreae Alciati I.C. mediolanensis vita\"--P. [25-39], 1st sequence. \"Notae posteriores\" (p. [704-786]) have special t.p</dd>\n<dd>Title within woodcut architectural surround. Special t.p. has Rouille's woodcut device (eagle and serpents). Each of the 213 emblems (including 16 trees at the end) has woodcut ill. Head- and tail-pieces. Initials</dd>\n<dd>Includes contents and index at end</dd></dl>\n<br>Subjects:</div>",
+                  "source": "commons-desc-page"
+                },
+                "Credit": {
+                  "value": "<dl><dd><a href=\"//archive.org/details/andreaealciativc00alci_0\" class=\"extiw\" title=\"iarchive:andreaealciativc00alci 0\"><bdi class=\"description en\" lang=\"en\" dir=\"ltr\">Internet Archive identifier</bdi>: andreaealciativc00alci_0</a></dd>\n<dd><a rel=\"nofollow\" class=\"external free\" href=\"https://archive.org/download/andreaealciativc00alci_0/andreaealciativc00alci_0.pdf\">https://archive.org/download/andreaealciativc00alci_0/andreaealciativc00alci_0.pdf</a></dd></dl>",
+                  "source": "commons-desc-page"
+                },
+                "LicenseShortName": {
+                  "value": "Public domain",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "UsageTerms": {
+                  "value": "Public domain",
+                  "source": "commons-desc-page"
+                },
+                "AttributionRequired": {
+                  "value": "false",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "Copyrighted": {
+                  "value": "False",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "Restrictions": {
+                  "value": "",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "License": {
+                  "value": "pd",
+                  "source": "commons-templates",
+                  "hidden": ""
+                }
+              }
+            }
+          ]
+        },
+        {
+          "pageid": 95907443,
+          "ns": 6,
+          "title": "File:Duke University Libraries (IA omniaandreaeand00alci).pdf",
+          "index": 1,
+          "imagerepository": "local",
+          "imageinfo": [
+            {
+              "size": 82289096,
+              "width": 937,
+              "height": 1579,
+              "pagecount": 876,
+              "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/50/Duke_University_Libraries_%28IA_omniaandreaeand00alci%29.pdf/page1-500px-Duke_University_Libraries_%28IA_omniaandreaeand00alci%29.pdf.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+              "thumbwidth": 400,
+              "thumbheight": 674,
+              "thumbattribs": {
+                "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/50/Duke_University_Libraries_%28IA_omniaandreaeand00alci%29.pdf/page1-500px-Duke_University_Libraries_%28IA_omniaandreaeand00alci%29.pdf.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+                "decoding": "async",
+                "loading": "lazy",
+                "width": 400,
+                "height": 674
+              },
+              "url": "https://upload.wikimedia.org/wikipedia/commons/5/50/Duke_University_Libraries_%28IA_omniaandreaeand00alci%29.pdf?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+              "descriptionurl": "https://commons.wikimedia.org/wiki/File:Duke_University_Libraries_(IA_omniaandreaeand00alci).pdf",
+              "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=95907443",
+              "extmetadata": {
+                "DateTime": {
+                  "value": "2020-11-08 01:33:05",
+                  "source": "mediawiki-metadata",
+                  "hidden": ""
+                },
+                "ObjectName": {
+                  "value": "<div class=\"fn\">\nOmnia Andreae Alciati v.c. emblemata, cum commentariis, quibus emblematum aperta origine mens auctoris explicatur, &amp; obscura omnia, dubiáque illustrantur Adiectae ad calcem Notae posteriores</div>",
+                  "source": "commons-desc-page"
+                },
+                "CommonsMetadataExtension": {
+                  "value": 1.2,
+                  "source": "extension",
+                  "hidden": ""
+                },
+                "Categories": {
+                  "value": "Scans from the Internet Archive/unverified|PD US expired|Scans from the Internet Archive|Books uploaded by Fæ|Books without Wikidata item|IA books of at least 500 pages|Scans from Duke University Libraries|Latin-language books",
+                  "source": "commons-categories",
+                  "hidden": ""
+                },
+                "Assessments": {
+                  "value": "",
+                  "source": "commons-categories",
+                  "hidden": ""
+                },
+                "Artist": {
+                  "value": "<div class=\"fn value\">\nAlciati, Andrea, 1492-1550</div>",
+                  "source": "commons-desc-page"
+                },
+                "ImageDescription": {
+                  "value": "<div class=\"description\">\n<dl><dd>19 p.l., 818, [22] p. 17 cm</dd>\n<dd>Colophon: Acheuees d'imprimer ce dernier iour de decembre, pour la premiere edition, 1588</dd>\n<dd>This edition was also issued with the imprint of E. Valet and of F. Gueffier</dd>\n<dd>Title and most of the emblems within ornamental borders; some of the emblem borders bear the letter R; some have 1, some are unsigned</dd>\n<dd>\"V. c. Andreæ Alciati ... vita per Clavdivm Minoem\": 12th-19th prelim. leaves</dd>\n<dd>former call number: D-6 12mo A352EM</dd></dl>\n<br>Subjects: Emblems</div>",
+                  "source": "commons-desc-page"
+                },
+                "Credit": {
+                  "value": "<dl><dd><a href=\"//archive.org/details/omniaandreaeand00alci\" class=\"extiw\" title=\"iarchive:omniaandreaeand00alci\"><bdi class=\"description en\" lang=\"en\" dir=\"ltr\">Internet Archive identifier</bdi>: omniaandreaeand00alci</a></dd>\n<dd><a rel=\"nofollow\" class=\"external free\" href=\"https://archive.org/download/omniaandreaeand00alci/omniaandreaeand00alci.pdf\">https://archive.org/download/omniaandreaeand00alci/omniaandreaeand00alci.pdf</a></dd></dl>",
+                  "source": "commons-desc-page"
+                },
+                "LicenseShortName": {
+                  "value": "Public domain",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "UsageTerms": {
+                  "value": "Public domain",
+                  "source": "commons-desc-page"
+                },
+                "AttributionRequired": {
+                  "value": "false",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "Copyrighted": {
+                  "value": "False",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "Restrictions": {
+                  "value": "",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "License": {
+                  "value": "pd",
+                  "source": "commons-templates",
+                  "hidden": ""
+                }
+              }
+            }
+          ]
+        },
+        {
+          "pageid": 98459152,
+          "ns": 6,
+          "title": "File:Tragedie du roy Franc-arbitre - nouuellement traduite d'Italien en François (IA tragedieduroyfra00unse).pdf",
+          "index": 5,
+          "imagerepository": "local",
+          "imageinfo": [
+            {
+              "size": 28033795,
+              "width": 527,
+              "height": 885,
+              "pagecount": 310,
+              "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/01/Tragedie_du_roy_Franc-arbitre_-_nouuellement_traduite_d%27Italien_en_Fran%C3%A7ois_%28IA_tragedieduroyfra00unse%29.pdf/page1-500px-Tragedie_du_roy_Franc-arbitre_-_nouuellement_traduite_d%27Italien_en_Fran%C3%A7ois_%28IA_tragedieduroyfra00unse%29.pdf.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+              "thumbwidth": 400,
+              "thumbheight": 672,
+              "thumbattribs": {
+                "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/01/Tragedie_du_roy_Franc-arbitre_-_nouuellement_traduite_d%27Italien_en_Fran%C3%A7ois_%28IA_tragedieduroyfra00unse%29.pdf/page1-500px-Tragedie_du_roy_Franc-arbitre_-_nouuellement_traduite_d%27Italien_en_Fran%C3%A7ois_%28IA_tragedieduroyfra00unse%29.pdf.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+                "decoding": "async",
+                "loading": "lazy",
+                "width": 400,
+                "height": 672
+              },
+              "url": "https://upload.wikimedia.org/wikipedia/commons/0/01/Tragedie_du_roy_Franc-arbitre_-_nouuellement_traduite_d%27Italien_en_Fran%C3%A7ois_%28IA_tragedieduroyfra00unse%29.pdf?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+              "descriptionurl": "https://commons.wikimedia.org/wiki/File:Tragedie_du_roy_Franc-arbitre_-_nouuellement_traduite_d%27Italien_en_Fran%C3%A7ois_(IA_tragedieduroyfra00unse).pdf",
+              "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=98459152",
+              "extmetadata": {
+                "DateTime": {
+                  "value": "2021-01-03 03:26:18",
+                  "source": "mediawiki-metadata",
+                  "hidden": ""
+                },
+                "ObjectName": {
+                  "value": "<div class=\"fn\">\nTragedie du roy Franc-arbitre : nouuellement traduite d'Italien en François</div>",
+                  "source": "commons-desc-page"
+                },
+                "CommonsMetadataExtension": {
+                  "value": 1.2,
+                  "source": "extension",
+                  "hidden": ""
+                },
+                "Categories": {
+                  "value": "Files with no machine-readable author|PD-old-100-expired|Scans from the Internet Archive/unverified|CC-PD-Mark|Scans from the Internet Archive|Books uploaded by Fæ|Books without Wikidata item|Old books from American Libraries|PD-old missing SDC copyright status|French-language books",
+                  "source": "commons-categories",
+                  "hidden": ""
+                },
+                "Assessments": {
+                  "value": "",
+                  "source": "commons-categories",
+                  "hidden": ""
+                },
+                "ImageDescription": {
+                  "value": "<div class=\"description\">\n<dl><dd>Printer's device on t.p</dd>\n<dd>A translation of the \"Libero arbitrio\" of Francesco Negri</dd>\n<dd>Errata: p. [309]</dd>\n<dd>Page 23 misnumbered 32</dd>\n<dd>Bound volume contains: 1. Tragedie du roy Franc-arbitre -- 2. Seconde apologie ou defense des vrais crestiens -- 3. Response a certaines calomnies et blasphemes</dd>\n<dd>Boston Public Library (Rare Books Department) copy: ms. inscriptions on preliminary pages in pencil and ink</dd></dl>\n<br>Subjects: Negri, Francesco, 1500-1563</div>",
+                  "source": "commons-desc-page"
+                },
+                "Credit": {
+                  "value": "<dl><dd><a href=\"//archive.org/details/tragedieduroyfra00unse\" class=\"extiw\" title=\"iarchive:tragedieduroyfra00unse\"><bdi class=\"description en\" lang=\"en\" dir=\"ltr\">Internet Archive identifier</bdi>: tragedieduroyfra00unse</a></dd>\n<dd><a rel=\"nofollow\" class=\"external free\" href=\"https://archive.org/download/tragedieduroyfra00unse/tragedieduroyfra00unse.pdf\">https://archive.org/download/tragedieduroyfra00unse/tragedieduroyfra00unse.pdf</a></dd></dl>\n<ul><li>IA contributor: Boston Public Library</li></ul>",
+                  "source": "commons-desc-page"
+                },
+                "LicenseShortName": {
+                  "value": "Public domain",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "UsageTerms": {
+                  "value": "Public domain",
+                  "source": "commons-desc-page"
+                },
+                "AttributionRequired": {
+                  "value": "false",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "Copyrighted": {
+                  "value": "False",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "Restrictions": {
+                  "value": "",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "License": {
+                  "value": "pd",
+                  "source": "commons-templates",
+                  "hidden": ""
+                }
+              }
+            }
+          ]
+        },
+        {
+          "pageid": 98608635,
+          "ns": 6,
+          "title": "File:Emendationes Ammianeae (microform) (IA 4777359).pdf",
+          "index": 2,
+          "imagerepository": "local",
+          "imageinfo": [
+            {
+              "size": 3371706,
+              "width": 1266,
+              "height": 1439,
+              "pagecount": 25,
+              "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/51/Emendationes_Ammianeae_%28microform%29_%28IA_4777359%29.pdf/page1-500px-Emendationes_Ammianeae_%28microform%29_%28IA_4777359%29.pdf.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+              "thumbwidth": 400,
+              "thumbheight": 455,
+              "responsiveUrls": {
+                "2": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/51/Emendationes_Ammianeae_%28microform%29_%28IA_4777359%29.pdf/page1-960px-Emendationes_Ammianeae_%28microform%29_%28IA_4777359%29.pdf.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+              },
+              "thumbattribs": {
+                "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/51/Emendationes_Ammianeae_%28microform%29_%28IA_4777359%29.pdf/page1-500px-Emendationes_Ammianeae_%28microform%29_%28IA_4777359%29.pdf.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+                "decoding": "async",
+                "loading": "lazy",
+                "width": 400,
+                "height": 455,
+                "srcset": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/51/Emendationes_Ammianeae_%28microform%29_%28IA_4777359%29.pdf/page1-960px-Emendationes_Ammianeae_%28microform%29_%28IA_4777359%29.pdf.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail 2x"
+              },
+              "url": "https://upload.wikimedia.org/wikipedia/commons/5/51/Emendationes_Ammianeae_%28microform%29_%28IA_4777359%29.pdf?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+              "descriptionurl": "https://commons.wikimedia.org/wiki/File:Emendationes_Ammianeae_(microform)_(IA_4777359).pdf",
+              "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=98608635",
+              "extmetadata": {
+                "DateTime": {
+                  "value": "2021-01-07 07:21:59",
+                  "source": "mediawiki-metadata",
+                  "hidden": ""
+                },
+                "ObjectName": {
+                  "value": "<div class=\"fn\">\nEmendationes Ammianeae [microform]</div>",
+                  "source": "commons-desc-page"
+                },
+                "CommonsMetadataExtension": {
+                  "value": 1.2,
+                  "source": "extension",
+                  "hidden": ""
+                },
+                "Categories": {
+                  "value": "PD-old-100-expired|Scans from the Internet Archive/unverified|CC-PD-Mark|Scans from the Internet Archive|Books uploaded by Fæ|Books without Wikidata item|Old books in Internet Archive additional collections|PD-old missing SDC copyright status|Latin-language books",
+                  "source": "commons-categories",
+                  "hidden": ""
+                },
+                "Assessments": {
+                  "value": "",
+                  "source": "commons-categories",
+                  "hidden": ""
+                },
+                "Artist": {
+                  "value": "<div class=\"fn value\">\nLangen, P. (Peter), 1835-1897</div>",
+                  "source": "commons-desc-page"
+                },
+                "ImageDescription": {
+                  "value": "<div class=\"description\">\n<dl><dd>Includes bibliographical references</dd>\n<dd>Microfilm</dd></dl>\n<br>Subjects: Ammianus Marcellinus</div>",
+                  "source": "commons-desc-page"
+                },
+                "Credit": {
+                  "value": "<dl><dd><a href=\"//archive.org/details/4777359\" class=\"extiw\" title=\"iarchive:4777359\"><bdi class=\"description en\" lang=\"en\" dir=\"ltr\">Internet Archive identifier</bdi>: 4777359</a></dd>\n<dd><a rel=\"nofollow\" class=\"external free\" href=\"https://archive.org/download/4777359/4777359.pdf\">https://archive.org/download/4777359/4777359.pdf</a></dd></dl>\n<ul><li>IA contributor: University of Illinois Urbana-Champaign</li></ul>",
+                  "source": "commons-desc-page"
+                },
+                "LicenseShortName": {
+                  "value": "Public domain",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "UsageTerms": {
+                  "value": "Public domain",
+                  "source": "commons-desc-page"
+                },
+                "AttributionRequired": {
+                  "value": "false",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "Copyrighted": {
+                  "value": "False",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "Restrictions": {
+                  "value": "",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "License": {
+                  "value": "pd",
+                  "source": "commons-templates",
+                  "hidden": ""
+                }
+              }
+            }
+          ]
+        },
+        {
+          "pageid": 197877888,
+          "ns": 6,
+          "title": "File:Ecclesiastici-... 1683 (IA bim early-english-books-1641-1700 ecclesiastici cave-william 1683).pdf",
+          "index": 3,
+          "imagerepository": "local",
+          "imageinfo": [
+            {
+              "size": 558508053,
+              "width": 997,
+              "height": 1700,
+              "pagecount": 743,
+              "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/25/Ecclesiastici-..._1683_%28IA_bim_early-english-books-1641-1700_ecclesiastici_cave-william_1683%29.pdf/page1-500px-Ecclesiastici-..._1683_%28IA_bim_early-english-books-1641-1700_ecclesiastici_cave-william_1683%29.pdf.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+              "thumbwidth": 400,
+              "thumbheight": 682,
+              "responsiveUrls": {
+                "2": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/25/Ecclesiastici-..._1683_%28IA_bim_early-english-books-1641-1700_ecclesiastici_cave-william_1683%29.pdf/page1-960px-Ecclesiastici-..._1683_%28IA_bim_early-english-books-1641-1700_ecclesiastici_cave-william_1683%29.pdf.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+              },
+              "thumbattribs": {
+                "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/25/Ecclesiastici-..._1683_%28IA_bim_early-english-books-1641-1700_ecclesiastici_cave-william_1683%29.pdf/page1-500px-Ecclesiastici-..._1683_%28IA_bim_early-english-books-1641-1700_ecclesiastici_cave-william_1683%29.pdf.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+                "decoding": "async",
+                "loading": "lazy",
+                "width": 400,
+                "height": 682,
+                "srcset": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/25/Ecclesiastici-..._1683_%28IA_bim_early-english-books-1641-1700_ecclesiastici_cave-william_1683%29.pdf/page1-960px-Ecclesiastici-..._1683_%28IA_bim_early-english-books-1641-1700_ecclesiastici_cave-william_1683%29.pdf.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail 2x"
+              },
+              "url": "https://upload.wikimedia.org/wikipedia/commons/2/25/Ecclesiastici-..._1683_%28IA_bim_early-english-books-1641-1700_ecclesiastici_cave-william_1683%29.pdf?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+              "descriptionurl": "https://commons.wikimedia.org/wiki/File:Ecclesiastici-..._1683_(IA_bim_early-english-books-1641-1700_ecclesiastici_cave-william_1683).pdf",
+              "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=197877888",
+              "extmetadata": {
+                "DateTime": {
+                  "value": "2026-08-20 11:33:17",
+                  "source": "mediawiki-metadata",
+                  "hidden": ""
+                },
+                "ObjectName": {
+                  "value": "<div class=\"fn\">\nEcclesiastici:...  1683</div>",
+                  "source": "commons-desc-page"
+                },
+                "CommonsMetadataExtension": {
+                  "value": 1.2,
+                  "source": "extension",
+                  "hidden": ""
+                },
+                "Categories": {
+                  "value": "Scans from the Internet Archive/unverified|PD-old-100-1996|CC-PD-Mark|Scans from the Internet Archive|Books uploaded by Fæ|Books without Wikidata item|IA uploads needing categories|PD-old missing SDC copyright status|Early English Books, 1683",
+                  "source": "commons-categories",
+                  "hidden": ""
+                },
+                "Assessments": {
+                  "value": "",
+                  "source": "commons-categories",
+                  "hidden": ""
+                },
+                "Artist": {
+                  "value": "<div class=\"fn value\">\nCave, William</div>",
+                  "source": "commons-desc-page"
+                },
+                "ImageDescription": {
+                  "value": "<div class=\"description\">\n<p>Ecclesiastici:... 1683..<br>Digitized from <a rel=\"nofollow\" class=\"external text\" href=\"https://archive.org/details/sim_raw_scan_IA40310616-73/page/n346\">IA40310616-73</a>.<br>Previous issue: <a rel=\"nofollow\" class=\"external text\" href=\"https://archive.org/details/bim_early-english-books-1641-1700_antiquitates-apostolicae_cave-william_1676\">bim_early-english-books-1641-1700_antiquitates-apostolicae_cave-william_1676</a>.<br>Next issue: <a rel=\"nofollow\" class=\"external text\" href=\"https://archive.org/details/bim_early-english-books-1641-1700_the-collection-of-all-th_charles-i_1643\">bim_early-english-books-1641-1700_the-collection-of-all-th_charles-i_1643</a>.\n</p>\n<br>Subjects: Books; microfilm</div>",
+                  "source": "commons-desc-page"
+                },
+                "Credit": {
+                  "value": "<dl><dd><a href=\"//archive.org/details/bim_early-english-books-1641-1700_ecclesiastici_cave-william_1683\" class=\"extiw\" title=\"iarchive:bim early-english-books-1641-1700 ecclesiastici cave-william 1683\"><bdi class=\"description en\" lang=\"en\" dir=\"ltr\">Internet Archive identifier</bdi>: bim_early-english-books-1641-1700_ecclesiastici_cave-william_1683</a></dd>\n<dd><a rel=\"nofollow\" class=\"external free\" href=\"https://archive.org/download/bim_early-english-books-1641-1700_ecclesiastici_cave-william_1683/bim_early-english-books-1641-1700_ecclesiastici_cave-william_1683.pdf\">https://archive.org/download/bim_early-english-books-1641-1700_ecclesiastici_cave-william_1683/bim_early-english-books-1641-1700_ecclesiastici_cave-william_1683.pdf</a></dd></dl>",
+                  "source": "commons-desc-page"
+                },
+                "LicenseShortName": {
+                  "value": "Public domain",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "UsageTerms": {
+                  "value": "Public domain",
+                  "source": "commons-desc-page"
+                },
+                "AttributionRequired": {
+                  "value": "false",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "Copyrighted": {
+                  "value": "False",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "Restrictions": {
+                  "value": "",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "License": {
+                  "value": "pd",
+                  "source": "commons-templates",
+                  "hidden": ""
+                }
+              }
+            }
+          ]
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,1882 @@
+{
+  "batchcomplete": true,
+  "query": {
+    "redirects": [
+      {
+        "from": "Titus Flavius Sulpicianus",
+        "to": "Titus Flavius Claudius Sulpicianus"
+      },
+      {
+        "from": "Marcus Oclatinius Adventus",
+        "to": "Oclatinia gens"
+      },
+      {
+        "from": "Safi-ad-din Ardabili",
+        "to": "Safi-ad-Din Ardabili"
+      },
+      {
+        "from": "Julius Martialis",
+        "to": "Caracalla",
+        "tofragment": "Death"
+      }
+    ],
+    "pages": [
+      {
+        "ns": 0,
+        "title": "Eclectus (chamberlain)",
+        "missing": true
+      },
+      {
+        "ns": 0,
+        "title": "Claudius Pompeianus Quintianus",
+        "missing": true
+      },
+      {
+        "pageid": 12478,
+        "ns": 0,
+        "title": "Germanicus",
+        "original": {
+          "source": "https://upload.wikimedia.org/wikipedia/commons/d/d5/%28Toulouse%29_Portrait_de_Germanicus_-_Mus%C3%A9e_Saint-Raymond_Ra_342_c.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original",
+          "width": 11008,
+          "height": 16512
+        },
+        "pageimage": "(Toulouse)_Portrait_de_Germanicus_-_Musée_Saint-Raymond_Ra_342_c.jpg",
+        "images": [
+          {
+            "ns": 6,
+            "title": "File:(Toulouse) Portrait de Germanicus - Musée Saint-Raymond Ra 342 c.jpg"
+          },
+          {
+            "ns": 6,
+            "title": "File:Aratea 42v.jpg"
+          },
+          {
+            "ns": 6,
+            "title": "File:Benjamin West 001.jpg"
+          },
+          {
+            "ns": 6,
+            "title": "File:Bronze statue of Germanicus at Amelia April 2016.jpg"
+          },
+          {
+            "ns": 6,
+            "title": "File:Bust of Gemanicus.jpg"
+          },
+          {
+            "ns": 6,
+            "title": "File:Bust of Germanicus, front - Getty Museum (2021.66).jpg"
+          },
+          {
+            "ns": 6,
+            "title": "File:Caligula - Münzkabinett, Berlin - 5482995.jpg"
+          },
+          {
+            "ns": 6,
+            "title": "File:Carl Theodor von Piloty Thusnelda im Triumphzug des Germanicus.jpg"
+          },
+          {
+            "ns": 6,
+            "title": "File:Commons-logo.svg"
+          },
+          {
+            "ns": 6,
+            "title": "File:Germania 10-12 Tiberio.png"
+          },
+          {
+            "ns": 6,
+            "title": "File:Germanicus Aureus.png"
+          },
+          {
+            "ns": 6,
+            "title": "File:Great Illyrian Revolt (English).svg"
+          },
+          {
+            "ns": 6,
+            "title": "File:Hermannsdenkmal statue.jpg"
+          },
+          {
+            "ns": 6,
+            "title": "File:Idistaviso.png"
+          },
+          {
+            "ns": 6,
+            "title": "File:Limes1.png"
+          },
+          {
+            "ns": 6,
+            "title": "File:Nicolas Poussin - La Mort de Germanicus, 1627 (vers).jpg"
+          },
+          {
+            "ns": 6,
+            "title": "File:Nicolas Poussin 019.jpg"
+          },
+          {
+            "ns": 6,
+            "title": "File:OOjs UI icon edit-ltr-progressive.svg"
+          },
+          {
+            "ns": 6,
+            "title": "File:Otto Albert Koch Varusschlacht 1909.jpg"
+          },
+          {
+            "ns": 6,
+            "title": "File:RomaAraPacis ProcessioneSudParticolare.jpg"
+          },
+          {
+            "ns": 6,
+            "title": "File:Roman East 50-en.svg"
+          },
+          {
+            "ns": 6,
+            "title": "File:Symbol support vote.svg"
+          },
+          {
+            "ns": 6,
+            "title": "File:Wikisource-logo.svg"
+          }
+        ],
+        "pageprops": {
+          "page_image_free": "(Toulouse)_Portrait_de_Germanicus_-_Musée_Saint-Raymond_Ra_342_c.jpg",
+          "wikibase-badge-Q17437798": "",
+          "wikibase-shortdesc": "Roman general (15 BC–19 AD)",
+          "wikibase_item": "Q191039"
+        }
+      },
+      {
+        "pageid": 12576,
+        "ns": 0,
+        "title": "Galba",
+        "original": {
+          "source": "https://upload.wikimedia.org/wikipedia/commons/e/e6/Gold_Aureus_of_Galba_%28MANTIS%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original",
+          "width": 2095,
+          "height": 2122
+        },
+        "pageimage": "Gold_Aureus_of_Galba_(MANTIS).jpg",
+        "images": [
+          {
+            "ns": 6,
+            "title": "File:6791 - Galba (Museo Pio-Clementino) - Foto Giovanni Dall'Orto, 10 june 2011.jpg"
+          },
+          {
+            "ns": 6,
+            "title": "File:Bronze Sestertius of Galba (MANTIS).jpg"
+          },
+          {
+            "ns": 6,
+            "title": "File:Bronze Sestertius of Galba (MANTIS) (reverse).jpg"
+          },
+          {
+            "ns": 6,
+            "title": "File:Commons-logo.svg"
+          },
+          {
+            "ns": 6,
+            "title": "File:Damaged head of Emperor Galba.jpg"
+          },
+          {
+            "ns": 6,
+            "title": "File:Gold Aureus of Galba (MANTIS).jpg"
+          },
+          {
+            "ns": 6,
+            "title": "File:INC-2951-a Ауреус. Гальба. Ок. 68—69 гг. (аверс).png"
+          },
+          {
+            "ns": 6,
+            "title": "File:LL-Q1860 (eng)-Sumxr-Galba.wav"
+          },
+          {
+            "ns": 6,
+            "title": "File:OOjs UI icon edit-ltr-progressive.svg"
+          },
+          {
+            "ns": 6,
+            "title": "File:Portrait of Galba (1st cent. A.D.) at the Archaeological Museum of Corinth (1-10-2020).jpg"
+          },
+          {
+            "ns": 6,
+            "title": "File:Roman emperor Galba, Gustav III's Museum of Antiquities, Stockholm (20) (35867773310) edited.jpg"
+          },
+          {
+            "ns": 6,
+            "title": "File:Wikiquote-logo.svg"
+          },
+          {
+            "ns": 6,
+            "title": "File:Wikisource-logo.svg"
+          }
+        ],
+        "pageprops": {
+          "defaultsort": "Galba",
+          "nomediaviewercarousel": "",
+          "page_image_free": "Gold_Aureus_of_Galba_(MANTIS).jpg",
+          "wikibase-shortdesc": "Roman emperor from AD 68 to 69",
+          "wikibase_item": "Q1414"
+        }
+      },
+      {
+        "pageid": 20633,
+        "ns": 0,
+        "title": "Macrinus",
+        "original": {
+          "source": "https://upload.wikimedia.org/wikipedia/commons/a/a5/Bust_of_Macrinus_-_Palazzo_Nuovo_-_Musei_Capitolini_-_Rome_2016.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original",
+          "width": 3456,
+          "height": 5184
+        },
+        "pageimage": "Bust_of_Macrinus_-_Palazzo_Nuovo_-_Musei_Capitolini_-_Rome_2016.jpg",
+        "images": [
+          {
+            "ns": 6,
+            "title": "File:Aureus Macrinus-RIC 0079.jpg"
+          },
+          {
+            "ns": 6,
+            "title": "File:Bust of Macrinus - Palazzo Nuovo - Musei Capitolini - Rome 2016.jpg"
+          },
+          {
+            "ns": 6,
+            "title": "File:Commons-logo.svg"
+          },
+          {
+            "ns": 6,
+            "title": "File:Macrinus hieroglyphics.png"
+          },
+          {
+            "ns": 6,
+            "title": "File:OOjs UI icon edit-ltr-progressive.svg"
+          },
+          {
+            "ns": 6,
+            "title": "File:Silver Antoninianus of Macrinus.jpg"
+          },
+          {
+            "ns": 6,
+            "title": "File:Symbol support vote.svg"
+          }
+        ],
+        "pageprops": {
+          "nomediaviewercarousel": "",
+          "page_image_free": "Bust_of_Macrinus_-_Palazzo_Nuovo_-_Musei_Capitolini_-_Rome_2016.jpg",
+          "wikibase-badge-Q17437798": "",
+          "wikibase-shortdesc": "Roman emperor from 217 to 218",
+          "wikibase_item": "Q1752"
+        }
+      },
+      {
+        "pageid": 22481,
+        "ns": 0,
+        "title": "Otho",
+        "original": {
+          "source": "https://upload.wikimedia.org/wikipedia/commons/5/5e/Statue_of_the_emperor_Otho%2C_Ma_1215_%28cropped1%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original",
+          "width": 1938,
+          "height": 2472
+        },
+        "pageimage": "Statue_of_the_emperor_Otho,_Ma_1215_(cropped1).jpg",
+        "images": [
+          {
+            "ns": 6,
+            "title": "File:Commons-logo.svg"
+          },
+          {
+            "ns": 6,
+            "title": "File:Gold Aureus of Otho.jpg"
+          },
+          {
+            "ns": 6,
+            "title": "File:OOjs UI icon edit-ltr-progressive.svg"
+          },
+          {
+            "ns": 6,
+            "title": "File:Otone - foto di euthman.jpg"
+          },
+          {
+            "ns": 6,
+            "title": "File:Poppaea Olimpia.jpg"
+          },
+          {
+            "ns": 6,
+            "title": "File:Statue of the emperor Otho, Ma 1215 (cropped1).jpg"
+          },
+          {
+            "ns": 6,
+            "title": "File:Wikisource-logo.svg"
+          }
+        ],
+        "pageprops": {
+          "nomediaviewercarousel": "",
+          "page_image_free": "Statue_of_the_emperor_Otho,_Ma_1215_(cropped1).jpg",
+          "wikibase-shortdesc": "Roman emperor in AD 69",
+          "wikibase_item": "Q1416"
+        }
+      },
+      {
+        "pageid": 28413,
+        "ns": 0,
+        "title": "Septimius Severus",
+        "original": {
+          "source": "https://upload.wikimedia.org/wikipedia/commons/1/13/Septimius_Severus_busto-Musei_Capitolini.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original",
+          "width": 1109,
+          "height": 1600
+        },
+        "pageimage": "Septimius_Severus_busto-Musei_Capitolini.jpg",
+        "images": [
+          {
+            "ns": 6,
+            "title": "File:0205 Altes Museum Septimius Severus anagoria.JPG"
+          },
+          {
+            "ns": 6,
+            "title": "File:20130518 Septimius Severus Archeological Museum Komotini Thrace Greece.jpg"
+          },
+          {
+            "ns": 6,
+            "title": "File:Aureus of Septimius Severus, AD 193.jpg"
+          },
+          {
+            "ns": 6,
+            "title": "File:Bronze head of Septimius Severus, from Asia Minor, c. 195-211 AD, Ny Carlsberg Glyptotek, Copenhagen (13648215765).jpg"
+          },
+          {
+            "ns": 6,
+            "title": "File:Carole Raddato (13543792233).jpg"
+          },
+          {
+            "ns": 6,
+            "title": "File:Commons-logo.svg"
+          },
+          {
+            "ns": 6,
+            "title": "File:Jean-Baptiste Greuze - Septimius Severus and Caracalla - WGA10673.jpg"
+          },
+          {
+            "ns": 6,
+            "title": "File:Julia Domna Glyptothek Munich 354.jpg"
+          },
+          {
+            "ns": 6,
+            "title": "File:Kushan ring with Septimus Severus and Julia Domna.jpg"
+          },
+          {
+            "ns": 6,
+            "title": "File:Larger than life-size bronze statue of Septimius Severus depicted in heroic nudity, discovered by chance in 1928 near the village of Kythrea in Cyprus, Cyprus Museum, Nicosia (22275287879).jpg"
+          },
+          {
+            "ns": 6,
+            "title": "File:Leptis Magna Arch of Septimius Severus.jpg"
+          },
+          {
+            "ns": 6,
+            "title": "File:OOjs UI icon edit-ltr-progressive.svg"
+          },
+          {
+            "ns": 6,
+            "title": "File:Portrait of family of Septimius Severus - Altes Museum - Berlin - Germany 2017.jpg"
+          },
+          {
+            "ns": 6,
+            "title": "File:Roman Empire with provinces in 210 AD.png"
+          },
+          {
+            "ns": 6,
+            "title": "File:Septimius Severus' African conquests1.jpg"
+          },
+          {
+            "ns": 6,
+            "title": "File:Septimius Severus - Münzkabinett, Berlin - 5479502.jpg"
+          },
+          {
+            "ns": 6,
+            "title": "File:Septimius Severus Glyptothek Munich 357.jpg"
+          },
+          {
+            "ns": 6,
+            "title": "File:Septimius Severus busto-Musei Capitolini.jpg"
+          },
+          {
+            "ns": 6,
+            "title": "File:Severus210AD.png"
+          },
+          {
+            "ns": 6,
+            "title": "File:Symbol support vote.svg"
+          },
+          {
+            "ns": 6,
+            "title": "File:Wikiquote-logo.svg"
+          }
+        ],
+        "pageprops": {
+          "defaultsort": "Severus, Septimius",
+          "nomediaviewercarousel": "",
+          "page_image_free": "Septimius_Severus_busto-Musei_Capitolini.jpg",
+          "wikibase-badge-Q17437798": "",
+          "wikibase-shortdesc": "Roman emperor from 193 to 211",
+          "wikibase_item": "Q1442"
+        }
+      },
+      {
+        "pageid": 32569,
+        "ns": 0,
+        "title": "Vitellius",
+        "original": {
+          "source": "https://upload.wikimedia.org/wikipedia/commons/1/18/Gold_Aureus_of_Vitellius_%28MANTIS%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original",
+          "width": 2462,
+          "height": 2516
+        },
+        "pageimage": "Gold_Aureus_of_Vitellius_(MANTIS).jpg",
+        "images": [
+          {
+            "ns": 6,
+            "title": "File:Commons-logo.svg"
+          },
+          {
+            "ns": 6,
+            "title": "File:Gold Aureus of Vitellius (MANTIS).jpg"
+          },
+          {
+            "ns": 6,
+            "title": "File:OOjs UI icon edit-ltr-progressive.svg"
+          },
+          {
+            "ns": 6,
+            "title": "File:Pseudo-Vitellius Louvre MR684.jpg"
+          },
+          {
+            "ns": 6,
+            "title": "File:Rochegrosse Vitellius traîné dans les rues de Rome par la populace, 1883.jpg"
+          },
+          {
+            "ns": 6,
+            "title": "File:THOMAS COUTURE - Los Romanos de la Decadencia (Museo de Orsay, 1847. Óleo sobre lienzo, 472 x 772 cm).jpg"
+          },
+          {
+            "ns": 6,
+            "title": "File:Tunis Bardo Buste 8.jpg"
+          },
+          {
+            "ns": 6,
+            "title": "File:Venice MAN 20 Roman portrait of a man (cd. Vitellius).jpg"
+          },
+          {
+            "ns": 6,
+            "title": "File:Vitellius, AD 69, from Rome, Ny Carlsberg Glyptotek, Copenhagen (13263427793).jpg"
+          },
+          {
+            "ns": 6,
+            "title": "File:Vitellius, aureus, AD 69, RIC I 72 (obverse).jpg"
+          },
+          {
+            "ns": 6,
+            "title": "File:Vitellius, aureus, AD 69, RIC I 9 (obverse).jpg"
+          },
+          {
+            "ns": 6,
+            "title": "File:Vitellius, denarius, 69, RIC I 112.jpg"
+          },
+          {
+            "ns": 6,
+            "title": "File:Vitellius, denarius, 69, RIC I 79.jpg"
+          },
+          {
+            "ns": 6,
+            "title": "File:Vitellius, denarius, 69, RIC I 99.jpg"
+          },
+          {
+            "ns": 6,
+            "title": "File:Vitellius en toge (Louvre, Ma 1260).jpg"
+          }
+        ],
+        "pageprops": {
+          "nomediaviewercarousel": "",
+          "page_image_free": "Gold_Aureus_of_Vitellius_(MANTIS).jpg",
+          "wikibase-shortdesc": "Roman emperor in AD 69",
+          "wikibase_item": "Q1417"
+        }
+      },
+      {
+        "pageid": 44324,
+        "ns": 0,
+        "title": "Commodus",
+        "original": {
+          "source": "https://upload.wikimedia.org/wikipedia/commons/f/f3/Commodo_vestito_da_Ercole_ai_Musei_Capitolini.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original",
+          "width": 4710,
+          "height": 7461
+        },
+        "pageimage": "Commodo_vestito_da_Ercole_ai_Musei_Capitolini.jpg",
+        "images": [
+          {
+            "ns": 6,
+            "title": "File:1699 - Archaeological Museum, Athens - A youth, possibly Commodus - Photo by Giovanni Dall'Orto, Nov 11 2009.jpg"
+          },
+          {
+            "ns": 6,
+            "title": "File:Bust of Commodus 180-192 AD.JPG"
+          },
+          {
+            "ns": 6,
+            "title": "File:Bust of Emperor Commodus, front - Getty Museum (92.SA.48).jpg"
+          },
+          {
+            "ns": 6,
+            "title": "File:COMMODUS-RIC III 633-78001797 DE GERMANIS.jpg"
+          },
+          {
+            "ns": 6,
+            "title": "File:Commodo vestito da Ercole ai Musei Capitolini.jpg"
+          },
+          {
+            "ns": 6,
+            "title": "File:Commodus, Hermitage Museum.JPG"
+          },
+          {
+            "ns": 6,
+            "title": "File:Commons-logo.svg"
+          },
+          {
+            "ns": 6,
+            "title": "File:INC-1818-a Ауреус Коммод ок. 186-187 гг. (аверс).png"
+          },
+          {
+            "ns": 6,
+            "title": "File:INC-2954-a Ауреус. Коммод. Ок. 192 г. (аверс) (cropped).png"
+          },
+          {
+            "ns": 6,
+            "title": "File:Marcus Aurelius und Commodus - Münzkabinett, Berlin - 5483205.jpg"
+          },
+          {
+            "ns": 6,
+            "title": "File:Medallion of Commodus as Hercules.jpg"
+          },
+          {
+            "ns": 6,
+            "title": "File:OOjs UI icon edit-ltr-progressive.svg"
+          },
+          {
+            "ns": 6,
+            "title": "File:ObverseCommodusDenarius177-192CE.png"
+          },
+          {
+            "ns": 6,
+            "title": "File:Question book-new.svg"
+          },
+          {
+            "ns": 6,
+            "title": "File:Römermuseum Osterburken (DerHexer) 2012-09-30 008.jpg"
+          },
+          {
+            "ns": 6,
+            "title": "File:The Emperor Commodus Leaving the Arena at the Head of the Gladiators by American muralist Edwin Howland Blashfield (1848-1936) 01 (cropped).jpg"
+          }
+        ],
+        "pageprops": {
+          "nomediaviewercarousel": "",
+          "page_image_free": "Commodo_vestito_da_Ercole_ai_Musei_Capitolini.jpg",
+          "wikibase-shortdesc": "Roman emperor from 177 to 192",
+          "wikibase_item": "Q1434"
+        }
+      },
+      {
+        "pageid": 49907,
+        "ns": 0,
+        "title": "Caracalla",
+        "original": {
+          "source": "https://upload.wikimedia.org/wikipedia/commons/9/95/0_Caracalla_-_Museo_Massimo_alle_Terme.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original",
+          "width": 2592,
+          "height": 3888
+        },
+        "pageimage": "0_Caracalla_-_Museo_Massimo_alle_Terme.JPG",
+        "images": [
+          {
+            "ns": 6,
+            "title": "File:0 Caracalla - Museo Massimo alle Terme.JPG"
+          },
+          {
+            "ns": 6,
+            "title": "File:Baths of Caracalla.JPG"
+          },
+          {
+            "ns": 6,
+            "title": "File:Caracalla-sol+.jpg"
+          },
+          {
+            "ns": 6,
+            "title": "File:Caracalla con le decorazioni militari, forse dai castra praetoria, bronzo, 212-217 ca.JPG"
+          },
+          {
+            "ns": 6,
+            "title": "File:Commons-logo.svg"
+          },
+          {
+            "ns": 6,
+            "title": "File:Extended-protection-shackle.svg"
+          },
+          {
+            "ns": 6,
+            "title": "File:Geta Dying in his Mother's Arms by Jacques Pajou - Staatsgalerie - Stuttgart - Germany 2017.jpg"
+          },
+          {
+            "ns": 6,
+            "title": "File:Jean-Baptiste Greuze - Septimius Severus and Caracalla - WGA10673.jpg"
+          },
+          {
+            "ns": 6,
+            "title": "File:Julia Domna (Julia Pia), inv. 2210, Roman - Braccio Nuovo, Museo Chiaramonti - Vatican Museums - DSC00897.jpg"
+          },
+          {
+            "ns": 6,
+            "title": "File:King's Crown (variant).svg"
+          },
+          {
+            "ns": 6,
+            "title": "File:OOjs UI icon edit-ltr-progressive.svg"
+          },
+          {
+            "ns": 6,
+            "title": "File:P vip.svg"
+          },
+          {
+            "ns": 6,
+            "title": "File:Portrait of family of Septimius Severus - Altes Museum - Berlin - Germany 2017.jpg"
+          },
+          {
+            "ns": 6,
+            "title": "File:Publius Septimius Geta Louvre Ma1076.jpg"
+          },
+          {
+            "ns": 6,
+            "title": "File:Roman - Medallion with Roman Emperor Caracalla - Walters 593 - Obverse.jpg"
+          },
+          {
+            "ns": 6,
+            "title": "File:Roman Empire in 210 AD.png"
+          },
+          {
+            "ns": 6,
+            "title": "File:SFEC EGYPT KOM-OMBO 2006-002.JPG"
+          },
+          {
+            "ns": 6,
+            "title": "File:SPQRomani.svg"
+          },
+          {
+            "ns": 6,
+            "title": "File:Septimius Severus Glyptothek Munich 357.jpg"
+          },
+          {
+            "ns": 6,
+            "title": "File:Symbol support vote.svg"
+          },
+          {
+            "ns": 6,
+            "title": "File:Young Caracalla (Hermitage).jpg"
+          }
+        ],
+        "pageprops": {
+          "nomediaviewercarousel": "",
+          "page_image_free": "0_Caracalla_-_Museo_Massimo_alle_Terme.JPG",
+          "wikibase-badge-Q17437798": "",
+          "wikibase-shortdesc": "Roman emperor from 198 to 217",
+          "wikibase_item": "Q1446"
+        }
+      },
+      {
+        "pageid": 77414,
+        "ns": 0,
+        "title": "Antinous",
+        "original": {
+          "source": "https://upload.wikimedia.org/wikipedia/commons/5/52/Bust_Antinous_Hermitage_GR-4220_n1.jpeg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original",
+          "width": 4400,
+          "height": 5500
+        },
+        "pageimage": "Bust_Antinous_Hermitage_GR-4220_n1.jpeg",
+        "images": [
+          {
+            "ns": 6,
+            "title": "File:Antinoos, AM of Delphi, 201431 (edited).jpg"
+          },
+          {
+            "ns": 6,
+            "title": "File:Antinoos, AM of Delphi, 201433x (cropped).jpg"
+          },
+          {
+            "ns": 6,
+            "title": "File:Antinous, from Hadrian's Villa, late Hadrianic period 130-138 AD, Palazzo Massimo alle Terme, Rome (12453833504).jpg"
+          },
+          {
+            "ns": 6,
+            "title": "File:Antinous Aristaeus Louvre Ma578.jpg"
+          },
+          {
+            "ns": 6,
+            "title": "File:Antinous Black Olga Tobreluts.jpg"
+          },
+          {
+            "ns": 6,
+            "title": "File:Antinous Braschi Louvre Ma2243.jpg"
+          },
+          {
+            "ns": 6,
+            "title": "File:Antinous Dionysos Terme.jpg"
+          },
+          {
+            "ns": 6,
+            "title": "File:Antinous Ecouen Louvre Ma1082 n3.jpg"
+          },
+          {
+            "ns": 6,
+            "title": "File:Antinous Farnese MAN Napoli Inv6030 n02.jpg"
+          },
+          {
+            "ns": 6,
+            "title": "File:Antinous Ludovisi Altemps Inv8620 n1.jpg"
+          },
+          {
+            "ns": 6,
+            "title": "File:Antinous Mondragone Louvre Ma1205.jpg"
+          },
+          {
+            "ns": 6,
+            "title": "File:Antinous Osiris Louvre 2.jpg"
+          },
+          {
+            "ns": 6,
+            "title": "File:Antinous Ostia Massimo n1.jpg"
+          },
+          {
+            "ns": 6,
+            "title": "File:Antinous Pio-Clementino Inv256 n2.jpg"
+          },
+          {
+            "ns": 6,
+            "title": "File:Antinous imperial cult Louvre Ma1781.jpg"
+          },
+          {
+            "ns": 6,
+            "title": "File:Bust Antinoos Antikensammlung Berlin Sk364 n2.jpg"
+          },
+          {
+            "ns": 6,
+            "title": "File:Bust Antinoos Musei Capitolini MC294.jpg"
+          },
+          {
+            "ns": 6,
+            "title": "File:Bust Antinous Hermitage GR-4220 n1.jpeg"
+          },
+          {
+            "ns": 6,
+            "title": "File:Bust of Antinous (Hermitage, GR 1708).jpg"
+          },
+          {
+            "ns": 6,
+            "title": "File:Capitoline Antinous Musei Capitolini MC741 n2.jpg"
+          },
+          {
+            "ns": 6,
+            "title": "File:Commons-logo.svg"
+          },
+          {
+            "ns": 6,
+            "title": "File:Fayum--52.jpg"
+          },
+          {
+            "ns": 6,
+            "title": "File:Italia, antinoo come dioniso-bacco, 130-138 ca. 01.JPG"
+          },
+          {
+            "ns": 6,
+            "title": "File:Luk Konstantyna 6DSCF0032.JPG"
+          },
+          {
+            "ns": 6,
+            "title": "File:Marble Busts of Hadrian & Antinous, from Rome, Roman Empire, British Museum (16517587460).jpg"
+          },
+          {
+            "ns": 6,
+            "title": "File:Marble bust of Antinous, Fitzwilliam Museum, Cambridge (16705025192).jpg"
+          },
+          {
+            "ns": 6,
+            "title": "File:Marble bust of Antinous portrayed here as the reborn god Dionysus, known as Lansdowne Antinous, found at Hadrian's Villa in 1769, c. 130 - 138 AD, Fitzwilliam Museum, Cambridge (UK) (16704989622).jpg"
+          },
+          {
+            "ns": 6,
+            "title": "File:Medallion Antinoos Smyrna CdM.jpg"
+          },
+          {
+            "ns": 6,
+            "title": "File:OOjs UI icon edit-ltr-progressive.svg"
+          },
+          {
+            "ns": 6,
+            "title": "File:Standing-striding egyptianized figure of Antinoo - Ägyptisches Museum - Munich - Germany 2017 (2).jpg"
+          },
+          {
+            "ns": 6,
+            "title": "File:Statue of Antinous as Osiris, 131-138 AD, probably found in the Antinoeion at Hadrian's Villa (a sanctuary dedicated to Antinous), Vatican Museums (21761025491).jpg"
+          },
+          {
+            "ns": 6,
+            "title": "File:Statue of the deified Antinous represented as Asklepios, 2nd century AD, Archaeological Museum of Eleusis (13914314712).jpg"
+          },
+          {
+            "ns": 6,
+            "title": "File:Symbol support vote.svg"
+          }
+        ],
+        "pageprops": {
+          "defaultsort": "Antinous",
+          "page_image_free": "Bust_Antinous_Hermitage_GR-4220_n1.jpeg",
+          "wikibase-badge-Q17437798": "",
+          "wikibase-shortdesc": "Lover of Roman emperor Hadrian (c. 111 – 130)",
+          "wikibase_item": "Q171876"
+        }
+      },
+      {
+        "pageid": 85284,
+        "ns": 0,
+        "title": "Numa Pompilius",
+        "original": {
+          "source": "https://upload.wikimedia.org/wikipedia/commons/6/60/Numapisocng6371obverse.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original",
+          "width": 1094,
+          "height": 1028
+        },
+        "pageimage": "Numapisocng6371obverse.jpg",
+        "images": [
+          {
+            "ns": 6,
+            "title": "File:Commons-logo.svg"
+          },
+          {
+            "ns": 6,
+            "title": "File:Lupa Capitolina, Rome.jpg"
+          },
+          {
+            "ns": 6,
+            "title": "File:Numa Pompilius, from Promptuarii Iconum Insigniorum.jpg"
+          },
+          {
+            "ns": 6,
+            "title": "File:Numa Pompilius.jpg"
+          },
+          {
+            "ns": 6,
+            "title": "File:Numa Pompilius Moitte Cour Carrée Louvre.jpg"
+          },
+          {
+            "ns": 6,
+            "title": "File:Numapisocng6371obverse.jpg"
+          },
+          {
+            "ns": 6,
+            "title": "File:OOjs UI icon edit-ltr-progressive.svg"
+          },
+          {
+            "ns": 6,
+            "title": "File:Wikisource-logo.svg"
+          }
+        ],
+        "pageprops": {
+          "defaultsort": "Pompilius, Numa",
+          "page_image_free": "Numapisocng6371obverse.jpg",
+          "wikibase-shortdesc": "King of Rome from 715 to 672 BC",
+          "wikibase_item": "Q200031"
+        }
+      },
+      {
+        "pageid": 144110,
+        "ns": 0,
+        "title": "Lucius Verus",
+        "original": {
+          "source": "https://upload.wikimedia.org/wikipedia/commons/c/cb/Lucius_Verus_-_MET_-_L.2007.26_cropped.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original",
+          "width": 2000,
+          "height": 2400
+        },
+        "pageimage": "Lucius_Verus_-_MET_-_L.2007.26_cropped.jpg",
+        "images": [
+          {
+            "ns": 6,
+            "title": "File:Antioch in Syria engraving by William Miller after H Warren.jpg"
+          },
+          {
+            "ns": 6,
+            "title": "File:ArRaqqahEuphrates.jpg"
+          },
+          {
+            "ns": 6,
+            "title": "File:Atleta, con testa non pertinente di lucio vero, corpo da mirone (460-450 ac.), inv. 2217.JPG"
+          },
+          {
+            "ns": 6,
+            "title": "File:Buste 4 Bardo National Museum.jpg"
+          },
+          {
+            "ns": 6,
+            "title": "File:Co-emperors Marcus Aurelius and Lucius Verus, British Museum (23455313842).jpg"
+          },
+          {
+            "ns": 6,
+            "title": "File:Colossal head of Lucius Verus (mounted on a modern bust), from a villa belonging to Lucius Verus in Acqua Traversa near Rome, between AD 180 and 183 AD, Louvre Museum (23450299872).jpg"
+          },
+          {
+            "ns": 6,
+            "title": "File:Commons-logo.svg"
+          },
+          {
+            "ns": 6,
+            "title": "File:Figura loricata con testa non pertinente di lucio vero, copro del 50-75 dc, testa del 160-169 dc ca. 6081, 01.JPG"
+          },
+          {
+            "ns": 6,
+            "title": "File:Glyptothek München 259 (cropped and edited).jpg"
+          },
+          {
+            "ns": 6,
+            "title": "File:INC-2957-a Ауреус. Луций Вер. Ок. 163—164 гг. (аверс).png"
+          },
+          {
+            "ns": 6,
+            "title": "File:Kunsthistorisches Museum Vienna June 2006 050.jpg"
+          },
+          {
+            "ns": 6,
+            "title": "File:Lucius Verus.jpg"
+          },
+          {
+            "ns": 6,
+            "title": "File:Lucius Verus - MET - L.2007.26 cropped.jpg"
+          },
+          {
+            "ns": 6,
+            "title": "File:Lucius Verus child Louvre Ma1149.jpg"
+          },
+          {
+            "ns": 6,
+            "title": "File:OOjs UI icon edit-ltr-progressive.svg"
+          },
+          {
+            "ns": 6,
+            "title": "File:Statue of Lucilla detail.jpg"
+          },
+          {
+            "ns": 6,
+            "title": "File:The apotheosis of Lucius Verus.jpg"
+          }
+        ],
+        "pageprops": {
+          "nomediaviewercarousel": "",
+          "page_image_free": "Lucius_Verus_-_MET_-_L.2007.26_cropped.jpg",
+          "wikibase-shortdesc": "Roman emperor from 161 to 169",
+          "wikibase_item": "Q1433"
+        }
+      },
+      {
+        "pageid": 148646,
+        "ns": 0,
+        "title": "Pescennius Niger",
+        "original": {
+          "source": "https://upload.wikimedia.org/wikipedia/commons/f/fb/Aureus_Pescennius_Niger_%28obverse%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original",
+          "width": 337,
+          "height": 348
+        },
+        "pageimage": "Aureus_Pescennius_Niger_(obverse).jpg",
+        "images": [
+          {
+            "ns": 6,
+            "title": "File:Aureus Pescennius Niger (obverse).jpg"
+          },
+          {
+            "ns": 6,
+            "title": "File:Commons-logo.svg"
+          },
+          {
+            "ns": 6,
+            "title": "File:Denarius-Pescennius Niger-RIC 0015var.jpg"
+          },
+          {
+            "ns": 6,
+            "title": "File:OOjs UI icon edit-ltr-progressive.svg"
+          },
+          {
+            "ns": 6,
+            "title": "File:Translation to english arrow.svg"
+          }
+        ],
+        "pageprops": {
+          "nomediaviewercarousel": "",
+          "page_image_free": "Aureus_Pescennius_Niger_(obverse).jpg",
+          "wikibase-shortdesc": "Roman emperor from 193 to 194",
+          "wikibase_item": "Q201053"
+        }
+      },
+      {
+        "pageid": 148682,
+        "ns": 0,
+        "title": "Pertinax",
+        "original": {
+          "source": "https://upload.wikimedia.org/wikipedia/commons/5/50/Galleria_degli_Uffizi%2C_Florence_%2819676748662%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original",
+          "width": 3142,
+          "height": 4724
+        },
+        "pageimage": "Galleria_degli_Uffizi,_Florence_(19676748662).jpg",
+        "images": [
+          {
+            "ns": 6,
+            "title": "File:Commons-logo.svg"
+          },
+          {
+            "ns": 6,
+            "title": "File:Galleria degli Uffizi, Florence (19676748662).jpg"
+          },
+          {
+            "ns": 6,
+            "title": "File:OOjs UI icon edit-ltr-progressive.svg"
+          },
+          {
+            "ns": 6,
+            "title": "File:Pertinax Providentia Aureus.jpg"
+          },
+          {
+            "ns": 6,
+            "title": "File:Symbol support vote.svg"
+          },
+          {
+            "ns": 6,
+            "title": "File:Tetradrachm Pertinax Caesar.jpg"
+          }
+        ],
+        "pageprops": {
+          "nomediaviewercarousel": "",
+          "page_image_free": "Galleria_degli_Uffizi,_Florence_(19676748662).jpg",
+          "wikibase-badge-Q17437798": "",
+          "wikibase-shortdesc": "Roman emperor in 193",
+          "wikibase_item": "Q1436"
+        }
+      },
+      {
+        "pageid": 148683,
+        "ns": 0,
+        "title": "Didius Julianus",
+        "original": {
+          "source": "https://upload.wikimedia.org/wikipedia/commons/5/5c/Buste_de_Didius_Iulianus5.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original",
+          "width": 3557,
+          "height": 5268
+        },
+        "pageimage": "Buste_de_Didius_Iulianus5.jpg",
+        "images": [
+          {
+            "ns": 6,
+            "title": "File:Aureus Didius Iulianus.jpg"
+          },
+          {
+            "ns": 6,
+            "title": "File:Buste de Didius Iulianus5.jpg"
+          },
+          {
+            "ns": 6,
+            "title": "File:Commons-logo.svg"
+          },
+          {
+            "ns": 6,
+            "title": "File:Dupondius-Didius Julianus-RIC 0012 (obverse).jpg"
+          },
+          {
+            "ns": 6,
+            "title": "File:OOjs UI icon edit-ltr-progressive.svg"
+          },
+          {
+            "ns": 6,
+            "title": "File:Wikisource-logo.svg"
+          }
+        ],
+        "pageprops": {
+          "defaultsort": "Didius Julianus",
+          "nomediaviewercarousel": "",
+          "page_image_free": "Buste_de_Didius_Iulianus5.jpg",
+          "wikibase-shortdesc": "Roman emperor in 193",
+          "wikibase_item": "Q1440"
+        }
+      },
+      {
+        "pageid": 148687,
+        "ns": 0,
+        "title": "Clodius Albinus",
+        "original": {
+          "source": "https://upload.wikimedia.org/wikipedia/commons/7/7e/Bust_of_Clodius_Albinus_-_Palazzo_Nuovo_-_Musei_Capitolini_-_Rome_2016_%283%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original",
+          "width": 3368,
+          "height": 5112
+        },
+        "pageimage": "Bust_of_Clodius_Albinus_-_Palazzo_Nuovo_-_Musei_Capitolini_-_Rome_2016_(3).jpg",
+        "images": [
+          {
+            "ns": 6,
+            "title": "File:Aureus-Clodius Albinus-RIC 0009b.jpg"
+          },
+          {
+            "ns": 6,
+            "title": "File:Bust of Clodius Albinus - Palazzo Nuovo - Musei Capitolini - Rome 2016 (3).jpg"
+          },
+          {
+            "ns": 6,
+            "title": "File:Commons-logo.svg"
+          },
+          {
+            "ns": 6,
+            "title": "File:OOjs UI icon edit-ltr-progressive.svg"
+          }
+        ],
+        "pageprops": {
+          "defaultsort": "Clodius Albinus",
+          "page_image_free": "Bust_of_Clodius_Albinus_-_Palazzo_Nuovo_-_Musei_Capitolini_-_Rome_2016_(3).jpg",
+          "wikibase-shortdesc": "Roman Emperor in 193",
+          "wikibase_item": "Q237960"
+        }
+      },
+      {
+        "pageid": 204659,
+        "ns": 0,
+        "title": "Ulpian",
+        "original": {
+          "source": "https://upload.wikimedia.org/wikipedia/commons/9/95/Statue_dedans_le_Palais_de_justice.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original",
+          "width": 2736,
+          "height": 3648
+        },
+        "pageimage": "Statue_dedans_le_Palais_de_justice.JPG",
+        "images": [
+          {
+            "ns": 6,
+            "title": "File:OOjs UI icon edit-ltr-progressive.svg"
+          },
+          {
+            "ns": 6,
+            "title": "File:Question book-new.svg"
+          },
+          {
+            "ns": 6,
+            "title": "File:Statue dedans le Palais de justice.JPG"
+          },
+          {
+            "ns": 6,
+            "title": "File:Wikiquote-logo.svg"
+          },
+          {
+            "ns": 6,
+            "title": "File:Wikisource-logo.svg"
+          }
+        ],
+        "pageprops": {
+          "page_image_free": "Statue_dedans_le_Palais_de_justice.JPG",
+          "wikibase-shortdesc": "Early 3rd century Roman jurist",
+          "wikibase_item": "Q310076"
+        }
+      },
+      {
+        "pageid": 204955,
+        "ns": 0,
+        "title": "Geta (emperor)",
+        "original": {
+          "source": "https://upload.wikimedia.org/wikipedia/commons/b/b2/Publius_Septimius_Geta_Louvre_Ma1076.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original",
+          "width": 2500,
+          "height": 2950
+        },
+        "pageimage": "Publius_Septimius_Geta_Louvre_Ma1076.jpg",
+        "images": [
+          {
+            "ns": 6,
+            "title": "File:1366 - Inscription for Geta (198-209 AD) - Museo Archeologico, Cagliari - Photo by Giovanni Dall'Orto, November 11 2016.jpg"
+          },
+          {
+            "ns": 6,
+            "title": "File:Commons-logo.svg"
+          },
+          {
+            "ns": 6,
+            "title": "File:Geta Apollo.jpg"
+          },
+          {
+            "ns": 6,
+            "title": "File:Geta Dying in his Mother's Arms by Jacques Pajou - Staatsgalerie - Stuttgart - Germany 2017.jpg"
+          },
+          {
+            "ns": 6,
+            "title": "File:Geta Glyptothek Munich 352.jpg"
+          },
+          {
+            "ns": 6,
+            "title": "File:INC-1853-a Ауреус Гета ок. 200-202 гг. (аверс).png"
+          },
+          {
+            "ns": 6,
+            "title": "File:OOjs UI icon edit-ltr-progressive.svg"
+          },
+          {
+            "ns": 6,
+            "title": "File:Portrait of family of Septimius Severus - Altes Museum - Berlin - Germany 2017.jpg"
+          },
+          {
+            "ns": 6,
+            "title": "File:Publius Septimius Geta Louvre Ma1076.jpg"
+          },
+          {
+            "ns": 6,
+            "title": "File:Rare aureus of Geta (obverse).jpg"
+          },
+          {
+            "ns": 6,
+            "title": "File:Uc2.ark 13960 t8rb76g72-seq 449 (cropped Geta).jpg"
+          }
+        ],
+        "pageprops": {
+          "nomediaviewercarousel": "",
+          "page_image_free": "Publius_Septimius_Geta_Louvre_Ma1076.jpg",
+          "wikibase-shortdesc": "Roman emperor from 209 to 211",
+          "wikibase_item": "Q183089"
+        }
+      },
+      {
+        "pageid": 312698,
+        "ns": 0,
+        "title": "Cato the Younger",
+        "original": {
+          "source": "https://upload.wikimedia.org/wikipedia/commons/7/72/Cat%C3%B3n_%2852340687524%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original",
+          "width": 2539,
+          "height": 3500
+        },
+        "pageimage": "Catón_(52340687524).jpg",
+        "images": [
+          {
+            "ns": 6,
+            "title": "File:Castor and Pollux Temple Forum Romanum, Rome.jpg"
+          },
+          {
+            "ns": 6,
+            "title": "File:Cato and Catilina propaganda cups.jpg"
+          },
+          {
+            "ns": 6,
+            "title": "File:Cato movements caesarcivilwar.svg"
+          },
+          {
+            "ns": 6,
+            "title": "File:Catón (52340687524).jpg"
+          },
+          {
+            "ns": 6,
+            "title": "File:Cicero Denounces Catiline in the Roman Senate by Cesare Maccari.png"
+          },
+          {
+            "ns": 6,
+            "title": "File:Commons-logo.svg"
+          },
+          {
+            "ns": 6,
+            "title": "File:Curia Hostilia, Comitium, Rostra and Lapis Niger layout.jpg"
+          },
+          {
+            "ns": 6,
+            "title": "File:Marcus Porcius Cato.jpg"
+          },
+          {
+            "ns": 6,
+            "title": "File:OOjs UI icon edit-ltr-progressive.svg"
+          },
+          {
+            "ns": 6,
+            "title": "File:Pierre-Narcisse Guérin - La Mort de Caton d'Utique.gif"
+          },
+          {
+            "ns": 6,
+            "title": "File:Roman SPQR banner.svg"
+          },
+          {
+            "ns": 6,
+            "title": "File:Wikisource-logo.svg"
+          }
+        ],
+        "pageprops": {
+          "defaultsort": "Cato The Younger",
+          "page_image_free": "Catón_(52340687524).jpg",
+          "wikibase-shortdesc": "Roman politician and Stoic (95–46 BC)",
+          "wikibase_item": "Q193506"
+        }
+      },
+      {
+        "pageid": 369656,
+        "ns": 0,
+        "title": "Julia Domna",
+        "original": {
+          "source": "https://upload.wikimedia.org/wikipedia/commons/6/6c/Julia_Domna_%28Julia_Pia%29%2C_inv._2210%2C_Roman_-_Braccio_Nuovo%2C_Museo_Chiaramonti_-_Vatican_Museums_-_DSC00897.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original",
+          "width": 3382,
+          "height": 5472
+        },
+        "pageimage": "Julia_Domna_(Julia_Pia),_inv._2210,_Roman_-_Braccio_Nuovo,_Museo_Chiaramonti_-_Vatican_Museums_-_DSC00897.jpg",
+        "images": [
+          {
+            "ns": 6,
+            "title": "File:Commons-logo.svg"
+          },
+          {
+            "ns": 6,
+            "title": "File:Extended-protection-shackle.svg"
+          },
+          {
+            "ns": 6,
+            "title": "File:Geta Dying in his Mother's Arms by Jacques Pajou - Staatsgalerie - Stuttgart - Germany 2017.jpg"
+          },
+          {
+            "ns": 6,
+            "title": "File:Julia-domna.jpg"
+          },
+          {
+            "ns": 6,
+            "title": "File:Julia Domna (Julia Pia), inv. 2210, Roman - Braccio Nuovo, Museo Chiaramonti - Vatican Museums - DSC00897.jpg"
+          },
+          {
+            "ns": 6,
+            "title": "File:OOjs UI icon edit-ltr-progressive.svg"
+          },
+          {
+            "ns": 6,
+            "title": "File:Portrait of family of Septimius Severus - Altes Museum - Berlin - Germany 2017.jpg"
+          },
+          {
+            "ns": 6,
+            "title": "File:Roman Empire Caracalla and Julia Domna.jpg"
+          },
+          {
+            "ns": 6,
+            "title": "File:Symbol support vote.svg"
+          },
+          {
+            "ns": 6,
+            "title": "File:Uc2.ark 13960 t8rb76g72-seq 451 (cropped Roman Lady).jpg"
+          }
+        ],
+        "pageprops": {
+          "defaultsort": "Julia Domna",
+          "page_image_free": "Julia_Domna_(Julia_Pia),_inv._2210,_Roman_-_Braccio_Nuovo,_Museo_Chiaramonti_-_Vatican_Museums_-_DSC00897.jpg",
+          "wikibase-badge-Q17437798": "",
+          "wikibase-shortdesc": "Roman empress from 193 to 211",
+          "wikibase_item": "Q229246"
+        }
+      },
+      {
+        "pageid": 392246,
+        "ns": 0,
+        "title": "Lucius Aelius Caesar",
+        "original": {
+          "source": "https://upload.wikimedia.org/wikipedia/commons/9/9e/Portrait_Lucius_Aelius_Louvre_Ma1167.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original",
+          "width": 2200,
+          "height": 3333
+        },
+        "pageimage": "Portrait_Lucius_Aelius_Louvre_Ma1167.jpg",
+        "images": [
+          {
+            "ns": 6,
+            "title": "File:Aelius Denarius.jpg"
+          },
+          {
+            "ns": 6,
+            "title": "File:Bust Hadrian Musei Capitolini MC817.jpg"
+          },
+          {
+            "ns": 6,
+            "title": "File:Commons-logo.svg"
+          },
+          {
+            "ns": 6,
+            "title": "File:INC-1843-a Ауреус Элий Вер цезарь ок. 137 г. (аверс).png"
+          },
+          {
+            "ns": 6,
+            "title": "File:Lucius Verus Denarius.jpg"
+          },
+          {
+            "ns": 6,
+            "title": "File:OOjs UI icon edit-ltr-progressive.svg"
+          },
+          {
+            "ns": 6,
+            "title": "File:Portrait Lucius Aelius Louvre Ma1167.jpg"
+          }
+        ],
+        "pageprops": {
+          "defaultsort": "Aelius, Lucius",
+          "page_image_free": "Portrait_Lucius_Aelius_Louvre_Ma1167.jpg",
+          "wikibase-shortdesc": "Adopted son and heir of Emperor Hadrian (101–138)",
+          "wikibase_item": "Q455034"
+        }
+      },
+      {
+        "pageid": 392914,
+        "ns": 0,
+        "title": "Tiberius Claudius Pompeianus",
+        "original": {
+          "source": "https://upload.wikimedia.org/wikipedia/commons/7/79/Marco_aurelio_e_barbaros_-_museus_capitolinos.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original",
+          "width": 495,
+          "height": 640
+        },
+        "pageimage": "Marco_aurelio_e_barbaros_-_museus_capitolinos.jpg",
+        "images": [
+          {
+            "ns": 6,
+            "title": "File:Marco aurelio e barbaros - museus capitolinos.jpg"
+          },
+          {
+            "ns": 6,
+            "title": "File:OOjs UI icon edit-ltr-progressive.svg"
+          },
+          {
+            "ns": 6,
+            "title": "File:Ritratto di pompeiano, generale e genero di marco aurelio, 170-180 dc ca.jpg"
+          }
+        ],
+        "pageprops": {
+          "defaultsort": "Claudius Pompeianus, Tiberius",
+          "page_image_free": "Marco_aurelio_e_barbaros_-_museus_capitolinos.jpg",
+          "wikibase-shortdesc": "Roman politician and general (c. 125 – 193 AD)",
+          "wikibase_item": "Q947726"
+        }
+      },
+      {
+        "pageid": 512336,
+        "ns": 0,
+        "title": "Faustina the Younger",
+        "original": {
+          "source": "https://upload.wikimedia.org/wikipedia/commons/c/c7/Faustina_Minor_Louvre_Ma1144.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original",
+          "width": 440,
+          "height": 600
+        },
+        "pageimage": "Faustina_Minor_Louvre_Ma1144.jpg",
+        "images": [
+          {
+            "ns": 6,
+            "title": "File:Aureus struck under Antoninus Pius depicting Faustina the Younger.jpg"
+          },
+          {
+            "ns": 6,
+            "title": "File:Commodus Musei Capitolini MC1120.jpg"
+          },
+          {
+            "ns": 6,
+            "title": "File:Commons-logo.svg"
+          },
+          {
+            "ns": 6,
+            "title": "File:Faustina (Minor) - Münzkabinett, Berlin - 5480793.jpg"
+          },
+          {
+            "ns": 6,
+            "title": "File:Faustina Minor & twin boys.jpg"
+          },
+          {
+            "ns": 6,
+            "title": "File:Faustina Minor Louvre Ma1144.jpg"
+          },
+          {
+            "ns": 6,
+            "title": "File:L'Image et le Pouvoir - Buste de Faustine la jeune - 3-4.jpg"
+          },
+          {
+            "ns": 6,
+            "title": "File:Marcus Aurelius bust Istanbul Archaeological Museum - inv. 5129 T.jpg"
+          },
+          {
+            "ns": 6,
+            "title": "File:OOjs UI icon edit-ltr-progressive.svg"
+          },
+          {
+            "ns": 6,
+            "title": "File:Statue of Lucilla detail.jpg"
+          },
+          {
+            "ns": 6,
+            "title": "File:Wikisource-logo.svg"
+          }
+        ],
+        "pageprops": {
+          "defaultsort": "Faustina the Younger",
+          "page_image_free": "Faustina_Minor_Louvre_Ma1144.jpg",
+          "wikibase-shortdesc": "Roman empress from 161 to 175",
+          "wikibase_item": "Q236936"
+        }
+      },
+      {
+        "pageid": 547001,
+        "ns": 0,
+        "title": "Avidius Cassius",
+        "images": [
+          {
+            "ns": 6,
+            "title": "File:OOjs UI icon edit-ltr-progressive.svg"
+          },
+          {
+            "ns": 6,
+            "title": "File:Symbol support vote.svg"
+          }
+        ],
+        "pageprops": {
+          "defaultsort": "Avidius Cassius, Gaius",
+          "wikibase-badge-Q17437798": "",
+          "wikibase-shortdesc": "Roman Egyptian general and usurper (c. 130–175)",
+          "wikibase_item": "Q299291"
+        }
+      },
+      {
+        "pageid": 854991,
+        "ns": 0,
+        "title": "Lucilla",
+        "original": {
+          "source": "https://upload.wikimedia.org/wikipedia/commons/7/7d/Statue_of_Lucilla_detail.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original",
+          "width": 1824,
+          "height": 2008
+        },
+        "pageimage": "Statue_of_Lucilla_detail.jpg",
+        "images": [
+          {
+            "ns": 6,
+            "title": "File:Busto femminile, 160-180 dc.JPG"
+          },
+          {
+            "ns": 6,
+            "title": "File:Dupondius à l'effigie de Lucille.jpg"
+          },
+          {
+            "ns": 6,
+            "title": "File:OOjs UI icon edit-ltr-progressive.svg"
+          },
+          {
+            "ns": 6,
+            "title": "File:Statue of Lucilla as Aphrodite (SK Dresden Hm 394) 01.jpg"
+          },
+          {
+            "ns": 6,
+            "title": "File:Statue of Lucilla detail.jpg"
+          }
+        ],
+        "pageprops": {
+          "page_image_free": "Statue_of_Lucilla_detail.jpg",
+          "wikibase-shortdesc": "Roman empress from 164 to 169",
+          "wikibase_item": "Q242466"
+        }
+      },
+      {
+        "pageid": 939928,
+        "ns": 0,
+        "title": "Safi-ad-Din Ardabili",
+        "original": {
+          "source": "https://upload.wikimedia.org/wikipedia/commons/1/18/Shaykh_Safi_al-Din_interpreting_for_his_disciples_various_verses_by_distinguished_poets_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original",
+          "width": 847,
+          "height": 585
+        },
+        "pageimage": "Shaykh_Safi_al-Din_interpreting_for_his_disciples_various_verses_by_distinguished_poets_(cropped).jpg",
+        "images": [
+          {
+            "ns": 6,
+            "title": "File:Allah-green.svg"
+          },
+          {
+            "ns": 6,
+            "title": "File:Flag of Iran.svg"
+          },
+          {
+            "ns": 6,
+            "title": "File:OOjs UI icon edit-ltr-progressive.svg"
+          },
+          {
+            "ns": 6,
+            "title": "File:Quill and ink.svg"
+          },
+          {
+            "ns": 6,
+            "title": "File:Shaykh Safi al-Din interpreting for his disciples various verses by distinguished poets (cropped).jpg"
+          },
+          {
+            "ns": 6,
+            "title": "File:Shaykh Safi dancing in a samaa (Shaykh Safi detail), Ṣafvat al-Ṣafā, the life of Shaykh Ṣafī al-Dīn, by Ismāʿil bin Bazzāz, completed in September 1582 in Shirāz.jpg"
+          },
+          {
+            "ns": 6,
+            "title": "File:Tomb of Shayk Safi (central tower tomb), built in 1335 by his son and successor Sadr al-din Musa.jpg"
+          },
+          {
+            "ns": 6,
+            "title": "File:مجموعه بقعه شیخ صفی الدین - مقبره شیخ صفی الدین اردبیلی.jpg"
+          }
+        ],
+        "pageprops": {
+          "defaultsort": "Safi-Ad-Din Ardabili",
+          "page_image_free": "Shaykh_Safi_al-Din_interpreting_for_his_disciples_various_verses_by_distinguished_poets_(cropped).jpg",
+          "wikibase-shortdesc": "Poet, mystic, teacher and Sufi master",
+          "wikibase_item": "Q631972"
+        }
+      },
+      {
+        "pageid": 1584474,
+        "ns": 0,
+        "title": "Pompeia Plotina",
+        "original": {
+          "source": "https://upload.wikimedia.org/wikipedia/commons/9/9f/Plotina_%28Vatikanische_Museen%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original",
+          "width": 2002,
+          "height": 3260
+        },
+        "pageimage": "Plotina_(Vatikanische_Museen).jpg",
+        "images": [
+          {
+            "ns": 6,
+            "title": "File:Commons-logo.svg"
+          },
+          {
+            "ns": 6,
+            "title": "File:OOjs UI icon edit-ltr-progressive.svg"
+          },
+          {
+            "ns": 6,
+            "title": "File:Plotina (Vatikanische Museen).jpg"
+          },
+          {
+            "ns": 6,
+            "title": "File:Plotina - sestertius - RIC 0740.jpg"
+          }
+        ],
+        "pageprops": {
+          "defaultsort": "Plotina, Pompeia",
+          "page_image_free": "Plotina_(Vatikanische_Museen).jpg",
+          "wikibase-shortdesc": "Roman empress from AD 98 to 117",
+          "wikibase_item": "Q239448"
+        }
+      },
+      {
+        "pageid": 2103585,
+        "ns": 0,
+        "title": "Papinian",
+        "original": {
+          "source": "https://upload.wikimedia.org/wikipedia/commons/3/30/Aemilius_Paulus_Papinianus.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original",
+          "width": 4000,
+          "height": 6000
+        },
+        "pageimage": "Aemilius_Paulus_Papinianus.jpg",
+        "images": [
+          {
+            "ns": 6,
+            "title": "File:Aemilius Paulus Papinianus.jpg"
+          },
+          {
+            "ns": 6,
+            "title": "File:Beheading of the Roman Judge Papinian LACMA M.88.91.354f.jpg"
+          },
+          {
+            "ns": 6,
+            "title": "File:OOjs UI icon edit-ltr-progressive.svg"
+          },
+          {
+            "ns": 6,
+            "title": "File:Papinian bas-relief in the U.S. House of Representatives chamber.jpg"
+          }
+        ],
+        "pageprops": {
+          "defaultsort": "Papinian",
+          "page_image_free": "Aemilius_Paulus_Papinianus.jpg",
+          "wikibase-shortdesc": "Roman jurist (142–212 CE)",
+          "wikibase_item": "Q315765"
+        }
+      },
+      {
+        "pageid": 4152108,
+        "ns": 0,
+        "title": "Gaius Fulvius Plautianus",
+        "original": {
+          "source": "https://upload.wikimedia.org/wikipedia/commons/c/cd/6865_-_Plauziano%28Museo_Pio-Clementino%29_-_Foto_Giovanni_Dall%27Orto%2C_10_june_2011.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original",
+          "width": 1214,
+          "height": 1555
+        },
+        "pageimage": "6865_-_Plauziano(Museo_Pio-Clementino)_-_Foto_Giovanni_Dall'Orto,_10_june_2011.jpg",
+        "images": [
+          {
+            "ns": 6,
+            "title": "File:6865 - Plauziano(Museo Pio-Clementino) - Foto Giovanni Dall'Orto, 10 june 2011.jpg"
+          },
+          {
+            "ns": 6,
+            "title": "File:Commons-logo.svg"
+          },
+          {
+            "ns": 6,
+            "title": "File:OOjs UI icon edit-ltr-progressive.svg"
+          }
+        ],
+        "pageprops": {
+          "defaultsort": "Fulvius Plautianus, Gaius",
+          "page_image_free": "6865_-_Plauziano(Museo_Pio-Clementino)_-_Foto_Giovanni_Dall'Orto,_10_june_2011.jpg",
+          "wikibase-shortdesc": "Prefect of the Praetorian Guard, senator and consul (c.150-205)",
+          "wikibase_item": "Q947550"
+        }
+      },
+      {
+        "pageid": 4746604,
+        "ns": 0,
+        "title": "Marcia (mistress of Commodus)",
+        "original": {
+          "source": "https://upload.wikimedia.org/wikipedia/commons/9/9b/Marcia_Aurelia_Ceionia_%28cropped%29.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original",
+          "width": 232,
+          "height": 316
+        },
+        "pageimage": "Marcia_Aurelia_Ceionia_(cropped).png",
+        "images": [
+          {
+            "ns": 6,
+            "title": "File:Frontispiece. — The Marlborough Cameo, long known as Didius Julian and Manila Scantilla, &c (cropped).jpg"
+          },
+          {
+            "ns": 6,
+            "title": "File:Marcia Aurelia Ceionia (cropped).png"
+          },
+          {
+            "ns": 6,
+            "title": "File:Uc2.ark 13960 t8rb76g72-seq 359 (cropped Marcia).jpg"
+          }
+        ],
+        "pageprops": {
+          "defaultsort": "Marcia",
+          "page_image_free": "Marcia_Aurelia_Ceionia_(cropped).png",
+          "wikibase-shortdesc": "Mistress of Roman emperor Commodus (died 193)",
+          "wikibase_item": "Q517507"
+        }
+      },
+      {
+        "pageid": 6238890,
+        "ns": 0,
+        "title": "Julius Paulus",
+        "images": [
+          {
+            "ns": 6,
+            "title": "File:Munich, Ms BSB Clm 22501 fol. 306v-307r Breviary of Alaric excerpt from Sententiae Receptae (5.5-5.6) by Julius Paulus.jpg"
+          },
+          {
+            "ns": 6,
+            "title": "File:OOjs UI icon edit-ltr-progressive.svg"
+          }
+        ],
+        "pageprops": {
+          "defaultsort": "Paul",
+          "wikibase-shortdesc": "Roman jurist (late 2nd/early 3rd century)",
+          "wikibase_item": "Q248628"
+        }
+      },
+      {
+        "pageid": 7134820,
+        "ns": 0,
+        "title": "Marcus Claudius Marcellus (consul 51 BC)",
+        "original": {
+          "source": "https://upload.wikimedia.org/wikipedia/commons/4/49/Print_Marcus_Claudius_Marcellus_Roman_Consul_Elect_Statue_Spolia_Opima_Rome.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original",
+          "width": 790,
+          "height": 1300
+        },
+        "pageimage": "Print_Marcus_Claudius_Marcellus_Roman_Consul_Elect_Statue_Spolia_Opima_Rome.jpg",
+        "images": [
+          {
+            "ns": 6,
+            "title": "File:OOjs UI icon edit-ltr-progressive.svg"
+          },
+          {
+            "ns": 6,
+            "title": "File:Print Marcus Claudius Marcellus Roman Consul Elect Statue Spolia Opima Rome.jpg"
+          }
+        ],
+        "pageprops": {
+          "defaultsort": "Claudius Marcellus, Marcus (consul 703 AC)",
+          "page_image_free": "Print_Marcus_Claudius_Marcellus_Roman_Consul_Elect_Statue_Spolia_Opima_Rome.jpg",
+          "wikibase-shortdesc": "Roman politician",
+          "wikibase_item": "Q502900"
+        }
+      },
+      {
+        "pageid": 9763088,
+        "ns": 0,
+        "title": "Fadilla",
+        "pageprops": {
+          "defaultsort": "Fadilla",
+          "wikibase-shortdesc": "Daughter of Roman Emperor Marcus Aurelius",
+          "wikibase_item": "Q2055853"
+        }
+      },
+      {
+        "pageid": 12040322,
+        "ns": 0,
+        "title": "Marcus Aurelius Cleander",
+        "images": [
+          {
+            "ns": 6,
+            "title": "File:OOjs UI icon edit-ltr-progressive.svg"
+          }
+        ],
+        "pageprops": {
+          "defaultsort": "Aurelius Cleander, Marcus",
+          "wikibase-shortdesc": "Freedman and favourite of emperor Commodus (died 190)",
+          "wikibase_item": "Q628720"
+        }
+      },
+      {
+        "pageid": 13140502,
+        "ns": 0,
+        "title": "Sextus Tigidius Perennis",
+        "images": [
+          {
+            "ns": 6,
+            "title": "File:Question book-new.svg"
+          }
+        ],
+        "pageprops": {
+          "defaultsort": "Tigidius Perennis, Sextus",
+          "wikibase-shortdesc": "Praetorian prefect to Roman emperor Commodus (died 185)",
+          "wikibase_item": "Q1269013"
+        }
+      },
+      {
+        "pageid": 17969870,
+        "ns": 0,
+        "title": "Quintus Aemilius Laetus",
+        "original": {
+          "source": "https://upload.wikimedia.org/wikipedia/commons/7/75/Commodus_is_strangled_by_Narcissus.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original",
+          "width": 694,
+          "height": 515
+        },
+        "pageimage": "Commodus_is_strangled_by_Narcissus.png",
+        "images": [
+          {
+            "ns": 6,
+            "title": "File:Commodus is strangled by Narcissus.png"
+          }
+        ],
+        "pageprops": {
+          "defaultsort": "Aemilius Laetus, Quintus",
+          "page_image_free": "Commodus_is_strangled_by_Narcissus.png",
+          "wikibase-shortdesc": "Praetorian Guard prefect (died 193)",
+          "wikibase_item": "Q2373280"
+        }
+      },
+      {
+        "pageid": 36848790,
+        "ns": 0,
+        "title": "Titus Flavius Claudius Sulpicianus",
+        "pageprops": {
+          "defaultsort": "Flavius Claudius Sulpicianus, Titus",
+          "wikibase-shortdesc": "Roman senator and consul (c.137–197)",
+          "wikibase_item": "Q334910"
+        }
+      },
+      {
+        "pageid": 53274755,
+        "ns": 0,
+        "title": "Oclatinia gens",
+        "pageprops": {
+          "wikibase-shortdesc": "Ancient Roman family",
+          "wikibase_item": "Q30599910"
+        }
+      }
+    ]
+  },
+  "limits": {
+    "images": 500
+  }
+}

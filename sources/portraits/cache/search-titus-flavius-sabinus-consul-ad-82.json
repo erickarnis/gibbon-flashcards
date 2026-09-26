@@ -1,0 +1,506 @@
+{
+  "person_id": "titus-flavius-sabinus-consul-ad-82",
+  "query": "Titus Flavius Sabinus (consul AD 82)",
+  "response": {
+    "batchcomplete": true,
+    "continue": {
+      "gsroffset": 5,
+      "continue": "gsroffset||"
+    },
+    "query": {
+      "pages": [
+        {
+          "pageid": 93147953,
+          "ns": 6,
+          "title": "File:The epigraphical evidence for the reigns of Vespasian and Titus .. (IA epigraphicalevid00newt).pdf",
+          "index": 1,
+          "imagerepository": "local",
+          "imageinfo": [
+            {
+              "size": 11694253,
+              "width": 1089,
+              "height": 1704,
+              "pagecount": 160,
+              "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/db/The_epigraphical_evidence_for_the_reigns_of_Vespasian_and_Titus_.._%28IA_epigraphicalevid00newt%29.pdf/page1-500px-The_epigraphical_evidence_for_the_reigns_of_Vespasian_and_Titus_.._%28IA_epigraphicalevid00newt%29.pdf.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+              "thumbwidth": 400,
+              "thumbheight": 626,
+              "responsiveUrls": {
+                "2": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/db/The_epigraphical_evidence_for_the_reigns_of_Vespasian_and_Titus_.._%28IA_epigraphicalevid00newt%29.pdf/page1-960px-The_epigraphical_evidence_for_the_reigns_of_Vespasian_and_Titus_.._%28IA_epigraphicalevid00newt%29.pdf.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+              },
+              "thumbattribs": {
+                "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/db/The_epigraphical_evidence_for_the_reigns_of_Vespasian_and_Titus_.._%28IA_epigraphicalevid00newt%29.pdf/page1-500px-The_epigraphical_evidence_for_the_reigns_of_Vespasian_and_Titus_.._%28IA_epigraphicalevid00newt%29.pdf.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+                "decoding": "async",
+                "loading": "lazy",
+                "width": 400,
+                "height": 626,
+                "srcset": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/db/The_epigraphical_evidence_for_the_reigns_of_Vespasian_and_Titus_.._%28IA_epigraphicalevid00newt%29.pdf/page1-960px-The_epigraphical_evidence_for_the_reigns_of_Vespasian_and_Titus_.._%28IA_epigraphicalevid00newt%29.pdf.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail 2x"
+              },
+              "url": "https://upload.wikimedia.org/wikipedia/commons/d/db/The_epigraphical_evidence_for_the_reigns_of_Vespasian_and_Titus_.._%28IA_epigraphicalevid00newt%29.pdf?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+              "descriptionurl": "https://commons.wikimedia.org/wiki/File:The_epigraphical_evidence_for_the_reigns_of_Vespasian_and_Titus_.._(IA_epigraphicalevid00newt).pdf",
+              "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=93147953",
+              "extmetadata": {
+                "DateTime": {
+                  "value": "2020-08-14 21:13:05",
+                  "source": "mediawiki-metadata",
+                  "hidden": ""
+                },
+                "ObjectName": {
+                  "value": "<div class=\"fn\">\nThe epigraphical evidence for the reigns of Vespasian and Titus ..</div>",
+                  "source": "commons-desc-page"
+                },
+                "CommonsMetadataExtension": {
+                  "value": 1.2,
+                  "source": "extension",
+                  "hidden": ""
+                },
+                "Categories": {
+                  "value": "Books from New York (state)|Scans from the Internet Archive/unverified|PD US expired|Scans from the Internet Archive|Books uploaded by Fæ|Books without Wikidata item|Books in the Library of Congress",
+                  "source": "commons-categories",
+                  "hidden": ""
+                },
+                "Assessments": {
+                  "value": "",
+                  "source": "commons-categories",
+                  "hidden": ""
+                },
+                "Artist": {
+                  "value": "<div class=\"fn value\">\nNewton, Homer Curtis, 1879- [from old catalog]</div>",
+                  "source": "commons-desc-page"
+                },
+                "ImageDescription": {
+                  "value": "<div class=\"description\">\nSubjects: Inscriptions, Latin</div>",
+                  "source": "commons-desc-page"
+                },
+                "Credit": {
+                  "value": "<dl><dd><a href=\"//archive.org/details/epigraphicalevid00newt\" class=\"extiw\" title=\"iarchive:epigraphicalevid00newt\"><bdi class=\"description en\" lang=\"en\" dir=\"ltr\">Internet Archive identifier</bdi>: epigraphicalevid00newt</a></dd>\n<dd><a rel=\"nofollow\" class=\"external free\" href=\"https://archive.org/download/epigraphicalevid00newt/epigraphicalevid00newt.pdf\">https://archive.org/download/epigraphicalevid00newt/epigraphicalevid00newt.pdf</a></dd></dl>",
+                  "source": "commons-desc-page"
+                },
+                "LicenseShortName": {
+                  "value": "Public domain",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "UsageTerms": {
+                  "value": "Public domain",
+                  "source": "commons-desc-page"
+                },
+                "AttributionRequired": {
+                  "value": "false",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "Copyrighted": {
+                  "value": "False",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "Restrictions": {
+                  "value": "",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "License": {
+                  "value": "pd",
+                  "source": "commons-templates",
+                  "hidden": ""
+                }
+              }
+            }
+          ]
+        },
+        {
+          "pageid": 96420292,
+          "ns": 6,
+          "title": "File:A smaller history of Rome, from the earliest times to the establishment of the empire (IA smallerhistoryof00smitiala).pdf",
+          "index": 2,
+          "imagerepository": "local",
+          "imageinfo": [
+            {
+              "size": 18573812,
+              "width": 583,
+              "height": 950,
+              "pagecount": 410,
+              "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c7/A_smaller_history_of_Rome%2C_from_the_earliest_times_to_the_establishment_of_the_empire_%28IA_smallerhistoryof00smitiala%29.pdf/page1-500px-A_smaller_history_of_Rome%2C_from_the_earliest_times_to_the_establishment_of_the_empire_%28IA_smallerhistoryof00smitiala%29.pdf.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+              "thumbwidth": 400,
+              "thumbheight": 652,
+              "thumbattribs": {
+                "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c7/A_smaller_history_of_Rome%2C_from_the_earliest_times_to_the_establishment_of_the_empire_%28IA_smallerhistoryof00smitiala%29.pdf/page1-500px-A_smaller_history_of_Rome%2C_from_the_earliest_times_to_the_establishment_of_the_empire_%28IA_smallerhistoryof00smitiala%29.pdf.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+                "decoding": "async",
+                "loading": "lazy",
+                "width": 400,
+                "height": 652
+              },
+              "url": "https://upload.wikimedia.org/wikipedia/commons/c/c7/A_smaller_history_of_Rome%2C_from_the_earliest_times_to_the_establishment_of_the_empire_%28IA_smallerhistoryof00smitiala%29.pdf?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+              "descriptionurl": "https://commons.wikimedia.org/wiki/File:A_smaller_history_of_Rome,_from_the_earliest_times_to_the_establishment_of_the_empire_(IA_smallerhistoryof00smitiala).pdf",
+              "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=96420292",
+              "extmetadata": {
+                "DateTime": {
+                  "value": "2020-11-21 08:12:31",
+                  "source": "mediawiki-metadata",
+                  "hidden": ""
+                },
+                "ObjectName": {
+                  "value": "<div class=\"fn\">\nA smaller history of Rome, from the earliest times to the establishment of the empire</div>",
+                  "source": "commons-desc-page"
+                },
+                "CommonsMetadataExtension": {
+                  "value": 1.2,
+                  "source": "extension",
+                  "hidden": ""
+                },
+                "Categories": {
+                  "value": "Books from New York (state)|Scans from the Internet Archive/unverified|PD US expired|Scans from the Internet Archive|Books uploaded by Fæ|Books without Wikidata item|California Digital Library|Books from the United States PDF files|PD-US missing SDC copyright status",
+                  "source": "commons-categories",
+                  "hidden": ""
+                },
+                "Assessments": {
+                  "value": "",
+                  "source": "commons-categories",
+                  "hidden": ""
+                },
+                "Artist": {
+                  "value": "<div class=\"fn value\">\n<dl><dd>Smith, William, Sir, 1813-1893</dd>\n<dd>Lawrence, Eugene, 1823-1894</dd></dl></div>",
+                  "source": "commons-desc-page"
+                },
+                "ImageDescription": {
+                  "value": "<div class=\"description\">\nSubjects: Rome -- History</div>",
+                  "source": "commons-desc-page"
+                },
+                "Credit": {
+                  "value": "<dl><dd><a href=\"//archive.org/details/smallerhistoryof00smitiala\" class=\"extiw\" title=\"iarchive:smallerhistoryof00smitiala\"><bdi class=\"description en\" lang=\"en\" dir=\"ltr\">Internet Archive identifier</bdi>: smallerhistoryof00smitiala</a></dd>\n<dd><a rel=\"nofollow\" class=\"external free\" href=\"https://archive.org/download/smallerhistoryof00smitiala/smallerhistoryof00smitiala.pdf\">https://archive.org/download/smallerhistoryof00smitiala/smallerhistoryof00smitiala.pdf</a></dd></dl>",
+                  "source": "commons-desc-page"
+                },
+                "LicenseShortName": {
+                  "value": "Public domain",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "UsageTerms": {
+                  "value": "Public domain",
+                  "source": "commons-desc-page"
+                },
+                "AttributionRequired": {
+                  "value": "false",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "Copyrighted": {
+                  "value": "False",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "Restrictions": {
+                  "value": "",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "License": {
+                  "value": "pd",
+                  "source": "commons-templates",
+                  "hidden": ""
+                }
+              }
+            }
+          ]
+        },
+        {
+          "pageid": 99112513,
+          "ns": 6,
+          "title": "File:Catalogue of Roman Consular and Imperial, English and foreign coins, papal, Italian, French & English medals, and some numismatic works, the property of John J.A. Boase, Esq. (IA catalogueofroman00soth 0).pdf",
+          "index": 4,
+          "imagerepository": "local",
+          "imageinfo": [
+            {
+              "size": 2719875,
+              "width": 1283,
+              "height": 2172,
+              "pagecount": 50,
+              "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e5/Catalogue_of_Roman_Consular_and_Imperial%2C_English_and_foreign_coins%2C_papal%2C_Italian%2C_French_%26_English_medals%2C_and_some_numismatic_works%2C_the_property_of_John_J.A._Boase%2C_Esq._%28IA_catalogueofroman00soth_0%29.pdf/page1-500px-thumbnail.pdf.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+              "thumbwidth": 400,
+              "thumbheight": 677,
+              "responsiveUrls": {
+                "2": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e5/Catalogue_of_Roman_Consular_and_Imperial%2C_English_and_foreign_coins%2C_papal%2C_Italian%2C_French_%26_English_medals%2C_and_some_numismatic_works%2C_the_property_of_John_J.A._Boase%2C_Esq._%28IA_catalogueofroman00soth_0%29.pdf/page1-960px-thumbnail.pdf.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+              },
+              "thumbattribs": {
+                "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e5/Catalogue_of_Roman_Consular_and_Imperial%2C_English_and_foreign_coins%2C_papal%2C_Italian%2C_French_%26_English_medals%2C_and_some_numismatic_works%2C_the_property_of_John_J.A._Boase%2C_Esq._%28IA_catalogueofroman00soth_0%29.pdf/page1-500px-thumbnail.pdf.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+                "decoding": "async",
+                "loading": "lazy",
+                "width": 400,
+                "height": 677,
+                "srcset": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e5/Catalogue_of_Roman_Consular_and_Imperial%2C_English_and_foreign_coins%2C_papal%2C_Italian%2C_French_%26_English_medals%2C_and_some_numismatic_works%2C_the_property_of_John_J.A._Boase%2C_Esq._%28IA_catalogueofroman00soth_0%29.pdf/page1-960px-thumbnail.pdf.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail 2x"
+              },
+              "url": "https://upload.wikimedia.org/wikipedia/commons/e/e5/Catalogue_of_Roman_Consular_and_Imperial%2C_English_and_foreign_coins%2C_papal%2C_Italian%2C_French_%26_English_medals%2C_and_some_numismatic_works%2C_the_property_of_John_J.A._Boase%2C_Esq._%28IA_catalogueofroman00soth_0%29.pdf?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+              "descriptionurl": "https://commons.wikimedia.org/wiki/File:Catalogue_of_Roman_Consular_and_Imperial,_English_and_foreign_coins,_papal,_Italian,_French_%26_English_medals,_and_some_numismatic_works,_the_property_of_John_J.A._Boase,_Esq._(IA_catalogueofroman00soth_0).pdf",
+              "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=99112513",
+              "extmetadata": {
+                "DateTime": {
+                  "value": "2021-01-21 18:55:15",
+                  "source": "mediawiki-metadata",
+                  "hidden": ""
+                },
+                "ObjectName": {
+                  "value": "<div class=\"fn\">\nCatalogue of Roman Consular and Imperial, English and foreign coins, papal, Italian, French &amp; English medals, and some numismatic works, the property of John J.A. Boase, Esq., Alverton Vean, Penzance, Cornwall ... [04/04/1860]</div>",
+                  "source": "commons-desc-page"
+                },
+                "CommonsMetadataExtension": {
+                  "value": 1.2,
+                  "source": "extension",
+                  "hidden": ""
+                },
+                "Categories": {
+                  "value": "PD-old-100-expired|Scans from the Internet Archive/unverified|CC-PD-Mark|Scans from the Internet Archive|Books uploaded by Fæ|Books without Wikidata item|Newman Numismatic Portal|PD-old missing SDC copyright status",
+                  "source": "commons-categories",
+                  "hidden": ""
+                },
+                "Assessments": {
+                  "value": "",
+                  "source": "commons-categories",
+                  "hidden": ""
+                },
+                "Artist": {
+                  "value": "<div class=\"fn value\">\nSotheby, S. Leigh &amp; John Wilkinson</div>",
+                  "source": "commons-desc-page"
+                },
+                "ImageDescription": {
+                  "value": "<div class=\"description\">\n<dl><dd>27 p. ; 22 x 15 cm</dd>\n<dd>Lots: 444</dd>\n<dd>Bound auct. #821 priced and named</dd></dl>\n<p>Bound auct. #821 scanned\n</p>\n<dl><dd>April 4, 1860</dd></dl>\n<br>Subjects: Boase, John J. A. -- Coin collections -- Catalogs</div>",
+                  "source": "commons-desc-page"
+                },
+                "Credit": {
+                  "value": "<dl><dd><a href=\"//archive.org/details/catalogueofroman00soth_0\" class=\"extiw\" title=\"iarchive:catalogueofroman00soth 0\"><bdi class=\"description en\" lang=\"en\" dir=\"ltr\">Internet Archive identifier</bdi>: catalogueofroman00soth_0</a></dd>\n<dd><a rel=\"nofollow\" class=\"external free\" href=\"https://archive.org/download/catalogueofroman00soth_0/catalogueofroman00soth_0.pdf\">https://archive.org/download/catalogueofroman00soth_0/catalogueofroman00soth_0.pdf</a></dd></dl>\n<ul><li>IA digitizing sponsor: Eric P. Newman Numismatic Education Society</li></ul>",
+                  "source": "commons-desc-page"
+                },
+                "LicenseShortName": {
+                  "value": "Public domain",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "UsageTerms": {
+                  "value": "Public domain",
+                  "source": "commons-desc-page"
+                },
+                "AttributionRequired": {
+                  "value": "false",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "Copyrighted": {
+                  "value": "False",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "Restrictions": {
+                  "value": "",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "License": {
+                  "value": "pd",
+                  "source": "commons-templates",
+                  "hidden": ""
+                }
+              }
+            }
+          ]
+        },
+        {
+          "pageid": 103777227,
+          "ns": 6,
+          "title": "File:The History of the Roman Emperors, from Augustus to Constantine, in Ten Volumes, Vol. VI (IA dli.granth.17704).pdf",
+          "index": 3,
+          "imagerepository": "local",
+          "imageinfo": [
+            {
+              "size": 20893294,
+              "width": 808,
+              "height": 1285,
+              "pagecount": 448,
+              "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1f/The_History_of_the_Roman_Emperors%2C_from_Augustus_to_Constantine%2C_in_Ten_Volumes%2C_Vol._VI_%28IA_dli.granth.17704%29.pdf/page1-500px-The_History_of_the_Roman_Emperors%2C_from_Augustus_to_Constantine%2C_in_Ten_Volumes%2C_Vol._VI_%28IA_dli.granth.17704%29.pdf.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+              "thumbwidth": 400,
+              "thumbheight": 636,
+              "thumbattribs": {
+                "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1f/The_History_of_the_Roman_Emperors%2C_from_Augustus_to_Constantine%2C_in_Ten_Volumes%2C_Vol._VI_%28IA_dli.granth.17704%29.pdf/page1-500px-The_History_of_the_Roman_Emperors%2C_from_Augustus_to_Constantine%2C_in_Ten_Volumes%2C_Vol._VI_%28IA_dli.granth.17704%29.pdf.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+                "decoding": "async",
+                "loading": "lazy",
+                "width": 400,
+                "height": 636
+              },
+              "url": "https://upload.wikimedia.org/wikipedia/commons/1/1f/The_History_of_the_Roman_Emperors%2C_from_Augustus_to_Constantine%2C_in_Ten_Volumes%2C_Vol._VI_%28IA_dli.granth.17704%29.pdf?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+              "descriptionurl": "https://commons.wikimedia.org/wiki/File:The_History_of_the_Roman_Emperors,_from_Augustus_to_Constantine,_in_Ten_Volumes,_Vol._VI_(IA_dli.granth.17704).pdf",
+              "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=103777227",
+              "extmetadata": {
+                "DateTime": {
+                  "value": "2021-04-16 22:11:29",
+                  "source": "mediawiki-metadata",
+                  "hidden": ""
+                },
+                "ObjectName": {
+                  "value": "<div class=\"fn\">\nThe History of the Roman Emperors, from Augustus to Constantine, in Ten Volumes, Vol. VI</div>",
+                  "source": "commons-desc-page"
+                },
+                "CommonsMetadataExtension": {
+                  "value": 1.2,
+                  "source": "extension",
+                  "hidden": ""
+                },
+                "Categories": {
+                  "value": "PD-old-100-expired|Jean-Baptiste Louis Crévier|Scans from the Internet Archive/unverified|CC-PD-Mark|Scans from the Internet Archive|Books uploaded by Fæ|Books without Wikidata item|Bharat Ek Khoj|PD-old missing SDC copyright status",
+                  "source": "commons-categories",
+                  "hidden": ""
+                },
+                "Assessments": {
+                  "value": "",
+                  "source": "commons-categories",
+                  "hidden": ""
+                },
+                "Artist": {
+                  "value": "<div class=\"fn value\">\n<dl><dd>Crevier, John Baptist Lewis</dd>\n<dd>Mill, John (Tr.)</dd></dl></div>",
+                  "source": "commons-desc-page"
+                },
+                "ImageDescription": {
+                  "value": "<div class=\"description\">\n<dl><dd><p>Source: Asiatic Society of Mumbai<br>Pages/Folios: xii, 422p.<br>Identifier: BK_00036676<br>Digitization Sponsor: Government of Maharashtra</p></dd>\n<dd>Original Source: &lt;a href=\"<a rel=\"nofollow\" class=\"external free\" href=\"https://granthsanjeevani.com/jspui/handle/123456789/17704\">https://granthsanjeevani.com/jspui/handle/123456789/17704</a>\" rel=\"nofollow\"&gt;Item 17704&lt;/a&gt;</dd></dl>\n<br>Subjects: Book; History of Ancient World; Granth Sanjeevani</div>",
+                  "source": "commons-desc-page"
+                },
+                "Credit": {
+                  "value": "<dl><dd><a href=\"//archive.org/details/dli.granth.17704\" class=\"extiw\" title=\"iarchive:dli.granth.17704\"><bdi class=\"description en\" lang=\"en\" dir=\"ltr\">Internet Archive identifier</bdi>: dli.granth.17704</a></dd>\n<dd><a rel=\"nofollow\" class=\"external free\" href=\"https://archive.org/download/dli.granth.17704/17704.pdf\">https://archive.org/download/dli.granth.17704/17704.pdf</a></dd></dl>",
+                  "source": "commons-desc-page"
+                },
+                "LicenseShortName": {
+                  "value": "Public domain",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "UsageTerms": {
+                  "value": "Public domain",
+                  "source": "commons-desc-page"
+                },
+                "AttributionRequired": {
+                  "value": "false",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "Copyrighted": {
+                  "value": "False",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "Restrictions": {
+                  "value": "",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "License": {
+                  "value": "pd",
+                  "source": "commons-templates",
+                  "hidden": ""
+                }
+              }
+            }
+          ]
+        },
+        {
+          "pageid": 131702792,
+          "ns": 6,
+          "title": "File:Gaii institutionum iuris civilis commentarii quattuor, or, Elements of Roman law by Gaius (Poste, Third Edition, 1890, gaiiinstitution00gaiu).djvu",
+          "index": 5,
+          "imagerepository": "local",
+          "imageinfo": [
+            {
+              "size": 26490241,
+              "width": 2560,
+              "height": 4084,
+              "pagecount": 718,
+              "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5f/Gaii_institutionum_iuris_civilis_commentarii_quattuor%2C_or%2C_Elements_of_Roman_law_by_Gaius_%28Poste%2C_Third_Edition%2C_1890%2C_gaiiinstitution00gaiu%29.djvu/page1-500px-Gaii_institutionum_iuris_civilis_commentarii_quattuor%2C_or%2C_Elements_of_Roman_law_by_Gaius_%28Poste%2C_Third_Edition%2C_1890%2C_gaiiinstitution00gaiu%29.djvu.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+              "thumbwidth": 400,
+              "thumbheight": 638,
+              "responsiveUrls": {
+                "2": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5f/Gaii_institutionum_iuris_civilis_commentarii_quattuor%2C_or%2C_Elements_of_Roman_law_by_Gaius_%28Poste%2C_Third_Edition%2C_1890%2C_gaiiinstitution00gaiu%29.djvu/page1-960px-Gaii_institutionum_iuris_civilis_commentarii_quattuor%2C_or%2C_Elements_of_Roman_law_by_Gaius_%28Poste%2C_Third_Edition%2C_1890%2C_gaiiinstitution00gaiu%29.djvu.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+              },
+              "thumbattribs": {
+                "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5f/Gaii_institutionum_iuris_civilis_commentarii_quattuor%2C_or%2C_Elements_of_Roman_law_by_Gaius_%28Poste%2C_Third_Edition%2C_1890%2C_gaiiinstitution00gaiu%29.djvu/page1-500px-Gaii_institutionum_iuris_civilis_commentarii_quattuor%2C_or%2C_Elements_of_Roman_law_by_Gaius_%28Poste%2C_Third_Edition%2C_1890%2C_gaiiinstitution00gaiu%29.djvu.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+                "decoding": "async",
+                "loading": "lazy",
+                "width": 400,
+                "height": 638,
+                "srcset": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5f/Gaii_institutionum_iuris_civilis_commentarii_quattuor%2C_or%2C_Elements_of_Roman_law_by_Gaius_%28Poste%2C_Third_Edition%2C_1890%2C_gaiiinstitution00gaiu%29.djvu/page1-960px-Gaii_institutionum_iuris_civilis_commentarii_quattuor%2C_or%2C_Elements_of_Roman_law_by_Gaius_%28Poste%2C_Third_Edition%2C_1890%2C_gaiiinstitution00gaiu%29.djvu.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail 2x"
+              },
+              "url": "https://upload.wikimedia.org/wikipedia/commons/5/5f/Gaii_institutionum_iuris_civilis_commentarii_quattuor%2C_or%2C_Elements_of_Roman_law_by_Gaius_%28Poste%2C_Third_Edition%2C_1890%2C_gaiiinstitution00gaiu%29.djvu?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+              "descriptionurl": "https://commons.wikimedia.org/wiki/File:Gaii_institutionum_iuris_civilis_commentarii_quattuor,_or,_Elements_of_Roman_law_by_Gaius_(Poste,_Third_Edition,_1890,_gaiiinstitution00gaiu).djvu",
+              "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=131702792",
+              "extmetadata": {
+                "DateTime": {
+                  "value": "2023-05-09 14:58:04",
+                  "source": "mediawiki-metadata",
+                  "hidden": ""
+                },
+                "ObjectName": {
+                  "value": "Gaii institutionum iuris civilis commentarii quattuor, or, Elements of Roman law by Gaius (Poste, Third Edition, 1890, gaiiinstitution00gaiu)",
+                  "source": "mediawiki-metadata"
+                },
+                "CommonsMetadataExtension": {
+                  "value": 1.2,
+                  "source": "extension",
+                  "hidden": ""
+                },
+                "Categories": {
+                  "value": "Roman law|PD-old-70-expired|CC-PD-Mark|Institutes (Gaius)|PD-old missing SDC copyright status",
+                  "source": "commons-categories",
+                  "hidden": ""
+                },
+                "Assessments": {
+                  "value": "",
+                  "source": "commons-categories",
+                  "hidden": ""
+                },
+                "ImageDescription": {
+                  "value": "Translation of Gaius' elements of roman law",
+                  "source": "commons-desc-page"
+                },
+                "DateTimeOriginal": {
+                  "value": "1890",
+                  "source": "commons-desc-page"
+                },
+                "Credit": {
+                  "value": "<a rel=\"nofollow\" class=\"external free\" href=\"https://archive.org/details/gaiiinstitution00gaiu\">https://archive.org/details/gaiiinstitution00gaiu</a>",
+                  "source": "commons-desc-page"
+                },
+                "Artist": {
+                  "value": "Edward Poste (1823-1902)",
+                  "source": "commons-desc-page"
+                },
+                "LicenseShortName": {
+                  "value": "Public domain",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "UsageTerms": {
+                  "value": "Public domain",
+                  "source": "commons-desc-page"
+                },
+                "AttributionRequired": {
+                  "value": "false",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "Copyrighted": {
+                  "value": "False",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "Restrictions": {
+                  "value": "",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "License": {
+                  "value": "pd",
+                  "source": "commons-templates",
+                  "hidden": ""
+                }
+              }
+            }
+          ]
+        }
+      ]
+    }
+  }
+}

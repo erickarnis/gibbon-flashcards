@@ -1,0 +1,106 @@
+{
+  "person_id": "marcus-oclatinius-adventus",
+  "query": "Marcus Oclatinius Adventus",
+  "response": {
+    "batchcomplete": true,
+    "query": {
+      "pages": [
+        {
+          "pageid": 195164260,
+          "ns": 6,
+          "title": "File:Cassii Dionis Cocceiani Historiarvm romanarvm qvae svpersvnt edidit Vrsvlvs Philippvs Boissevain (IA cassiidionishist04cassuoft).pdf",
+          "index": 1,
+          "imagerepository": "local",
+          "imageinfo": [
+            {
+              "size": 47103766,
+              "width": 877,
+              "height": 1327,
+              "pagecount": 723,
+              "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/aa/Cassii_Dionis_Cocceiani_Historiarvm_romanarvm_qvae_svpersvnt_edidit_Vrsvlvs_Philippvs_Boissevain_%28IA_cassiidionishist04cassuoft%29.pdf/page1-500px-Cassii_Dionis_Cocceiani_Historiarvm_romanarvm_qvae_svpersvnt_edidit_Vrsvlvs_Philippvs_Boissevain_%28IA_cassiidionishist04cassuoft%29.pdf.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+              "thumbwidth": 400,
+              "thumbheight": 605,
+              "thumbattribs": {
+                "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/aa/Cassii_Dionis_Cocceiani_Historiarvm_romanarvm_qvae_svpersvnt_edidit_Vrsvlvs_Philippvs_Boissevain_%28IA_cassiidionishist04cassuoft%29.pdf/page1-500px-Cassii_Dionis_Cocceiani_Historiarvm_romanarvm_qvae_svpersvnt_edidit_Vrsvlvs_Philippvs_Boissevain_%28IA_cassiidionishist04cassuoft%29.pdf.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+                "decoding": "async",
+                "loading": "lazy",
+                "width": 400,
+                "height": 605
+              },
+              "url": "https://upload.wikimedia.org/wikipedia/commons/a/aa/Cassii_Dionis_Cocceiani_Historiarvm_romanarvm_qvae_svpersvnt_edidit_Vrsvlvs_Philippvs_Boissevain_%28IA_cassiidionishist04cassuoft%29.pdf?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+              "descriptionurl": "https://commons.wikimedia.org/wiki/File:Cassii_Dionis_Cocceiani_Historiarvm_romanarvm_qvae_svpersvnt_edidit_Vrsvlvs_Philippvs_Boissevain_(IA_cassiidionishist04cassuoft).pdf",
+              "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=195164260",
+              "extmetadata": {
+                "DateTime": {
+                  "value": "2026-07-05 11:51:13",
+                  "source": "mediawiki-metadata",
+                  "hidden": ""
+                },
+                "ObjectName": {
+                  "value": "<div class=\"fn\">\nCassii Dionis Cocceiani Historiarvm romanarvm qvae svpersvnt edidit Vrsvlvs Philippvs Boissevain</div>",
+                  "source": "commons-desc-page"
+                },
+                "CommonsMetadataExtension": {
+                  "value": 1.2,
+                  "source": "extension",
+                  "hidden": ""
+                },
+                "Categories": {
+                  "value": "PD-old-100-expired|Scans from the Internet Archive/unverified|CC-PD-Mark|Scans from the Internet Archive|Books uploaded by Fæ|Books without Wikidata item|IA uploads needing categories|Scans from University of Toronto|PD-old missing SDC copyright status",
+                  "source": "commons-categories",
+                  "hidden": ""
+                },
+                "Assessments": {
+                  "value": "",
+                  "source": "commons-categories",
+                  "hidden": ""
+                },
+                "Artist": {
+                  "value": "<div class=\"fn value\">\n<dl><dd>Cassius Dio Cocceianus</dd>\n<dd>Boissevain, Ursul Philip, 1855-1930</dd></dl></div>",
+                  "source": "commons-desc-page"
+                },
+                "ImageDescription": {
+                  "value": "<div class=\"description\">\n<p>26\n</p>\n<br>Subjects: Rome -- History</div>",
+                  "source": "commons-desc-page"
+                },
+                "Credit": {
+                  "value": "<dl><dd><a href=\"//archive.org/details/cassiidionishist04cassuoft\" class=\"extiw\" title=\"iarchive:cassiidionishist04cassuoft\"><bdi class=\"description en\" lang=\"en\" dir=\"ltr\">Internet Archive identifier</bdi>: cassiidionishist04cassuoft</a></dd>\n<dd><a rel=\"nofollow\" class=\"external free\" href=\"https://archive.org/download/cassiidionishist04cassuoft/cassiidionishist04cassuoft.pdf\">https://archive.org/download/cassiidionishist04cassuoft/cassiidionishist04cassuoft.pdf</a></dd></dl>\n<ul><li>IA contributor: Robarts - University of Toronto</li>\n<li>IA digitizing sponsor: University of Toronto</li></ul>",
+                  "source": "commons-desc-page"
+                },
+                "LicenseShortName": {
+                  "value": "Public domain",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "UsageTerms": {
+                  "value": "Public domain",
+                  "source": "commons-desc-page"
+                },
+                "AttributionRequired": {
+                  "value": "false",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "Copyrighted": {
+                  "value": "False",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "Restrictions": {
+                  "value": "",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "License": {
+                  "value": "pd",
+                  "source": "commons-templates",
+                  "hidden": ""
+                }
+              }
+            }
+          ]
+        }
+      ]
+    }
+  }
+}

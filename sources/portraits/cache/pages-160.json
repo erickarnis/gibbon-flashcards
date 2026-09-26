@@ -1,0 +1,3781 @@
+{
+  "continue": {
+    "imcontinue": "67761|PD-icon.svg",
+    "continue": "||pageimages|pageprops"
+  },
+  "query": {
+    "redirects": [
+      {
+        "from": "Porphyry (philosopher)",
+        "to": "Porphyry of Tyre"
+      }
+    ],
+    "pages": [
+      {
+        "pageid": 1436,
+        "ns": 0,
+        "title": "Abraham",
+        "original": {
+          "source": "https://upload.wikimedia.org/wikipedia/commons/4/42/Guercino_Abramo_ripudia_Agar_%28cropped_2%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original",
+          "width": 714,
+          "height": 894
+        },
+        "pageimage": "Guercino_Abramo_ripudia_Agar_(cropped_2).jpg",
+        "images": [
+          {
+            "ns": 6,
+            "title": "File:046CupolaSPietro.jpg"
+          },
+          {
+            "ns": 6,
+            "title": "File:Abraham's Gate.jpg"
+          },
+          {
+            "ns": 6,
+            "title": "File:Abraham's Journey (en).svg"
+          },
+          {
+            "ns": 6,
+            "title": "File:Abraham Family Tree.svg"
+          },
+          {
+            "ns": 6,
+            "title": "File:Abraham y Melquisedec, por Juan Antonio de Frías.jpg"
+          },
+          {
+            "ns": 6,
+            "title": "File:Adriaen van der Werff - The Expulsion of Hagar and Ishmael - 59.063 - Rhode Island School of Design Museum.jpg"
+          },
+          {
+            "ns": 6,
+            "title": "File:Aert de Gelder 009.jpg"
+          },
+          {
+            "ns": 6,
+            "title": "File:Allah-green.svg"
+          },
+          {
+            "ns": 6,
+            "title": "File:Commons-logo.svg"
+          },
+          {
+            "ns": 6,
+            "title": "File:Foster Bible Pictures 0032-1.jpg"
+          },
+          {
+            "ns": 6,
+            "title": "File:Gloriole blur.svg"
+          },
+          {
+            "ns": 6,
+            "title": "File:Guercino Abramo ripudia Agar (cropped).jpg"
+          },
+          {
+            "ns": 6,
+            "title": "File:Guercino Abramo ripudia Agar (cropped 2).jpg"
+          },
+          {
+            "ns": 6,
+            "title": "File:Ibrahim's sacrifice of Emsaeil is stopped by Jibril delivering a sheep instead uncropped.jpg"
+          },
+          {
+            "ns": 6,
+            "title": "File:Icoană a Raiului din Ploieşti.jpg"
+          },
+          {
+            "ns": 6,
+            "title": "File:Isaac sarcifice Pio Christiano Inv31648.jpg"
+          },
+          {
+            "ns": 6,
+            "title": "File:Lock-green.svg"
+          },
+          {
+            "ns": 6,
+            "title": "File:OOjs UI icon edit-ltr-progressive.svg"
+          },
+          {
+            "ns": 6,
+            "title": "File:PD-icon.svg"
+          },
+          {
+            "ns": 6,
+            "title": "File:P christianity.svg"
+          },
+          {
+            "ns": 6,
+            "title": "File:PikiWiki Israel 11347 Abrams well.jpg"
+          },
+          {
+            "ns": 6,
+            "title": "File:Rembrandt Abraham's Sacrifice (Hermitage).jpg"
+          },
+          {
+            "ns": 6,
+            "title": "File:Semi-protection-shackle.svg"
+          },
+          {
+            "ns": 6,
+            "title": "File:Star of David.svg"
+          },
+          {
+            "ns": 6,
+            "title": "File:Tissot Abraham Sees Sodom in Flames.jpg"
+          },
+          {
+            "ns": 6,
+            "title": "File:Tissot Abraham and the Three Angels.jpg"
+          },
+          {
+            "ns": 6,
+            "title": "File:Tissot Abram's Counsel to Sarai.jpg"
+          },
+          {
+            "ns": 6,
+            "title": "File:Tissot The Caravan of Abraham.jpg"
+          },
+          {
+            "ns": 6,
+            "title": "File:Wikiquote-logo.svg"
+          },
+          {
+            "ns": 6,
+            "title": "File:Wikisource-logo.svg"
+          },
+          {
+            "ns": 6,
+            "title": "File:Праведни Авраам и прaведни (покајани) разбојник у рају, живопис у светој обитељи Грачаница, Србија.jpg"
+          }
+        ],
+        "pageprops": {
+          "page_image_free": "Guercino_Abramo_ripudia_Agar_(cropped_2).jpg",
+          "wikibase-shortdesc": "Namesake of the Abrahamic religions",
+          "wikibase_item": "Q9181"
+        }
+      },
+      {
+        "pageid": 1724,
+        "ns": 0,
+        "title": "Ammonius Saccas",
+        "images": [
+          {
+            "ns": 6,
+            "title": "File:OOjs UI icon edit-ltr-progressive.svg"
+          }
+        ],
+        "pageprops": {
+          "defaultsort": "Ammonius Saccas",
+          "wikibase-shortdesc": "Hellenistic Platonist philosopher (175–243)",
+          "wikibase_item": "Q310173"
+        }
+      },
+      {
+        "pageid": 7236,
+        "ns": 0,
+        "title": "Constantine the Great",
+        "original": {
+          "source": "https://upload.wikimedia.org/wikipedia/commons/2/28/Constantine_I_The_Great%2C_Colossal_bronze_statue_fragments%2C_Capitoline_Museums.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original",
+          "width": 2000,
+          "height": 3000
+        },
+        "pageimage": "Constantine_I_The_Great,_Colossal_bronze_statue_fragments,_Capitoline_Museums.jpg",
+        "images": [
+          {
+            "ns": 6,
+            "title": "File:046CupolaSPietro.jpg"
+          },
+          {
+            "ns": 6,
+            "title": "File:25 Estancia de Constantino (Bautismo de Constantino).jpg"
+          },
+          {
+            "ns": 6,
+            "title": "File:Aureus of Licinius.png"
+          },
+          {
+            "ns": 6,
+            "title": "File:Battle of Constantine and Maxentius (detail-of-fresco-in-Vatican-Stanze) c1650 by Lazzaro Baldi after Giulio Romano at the University of Edinburgh.jpg"
+          },
+          {
+            "ns": 6,
+            "title": "File:Bust of Constantius II (Mary Harrsch).jpg"
+          },
+          {
+            "ns": 6,
+            "title": "File:Byzantine imperial flag, 14th century, square.svg"
+          },
+          {
+            "ns": 6,
+            "title": "File:Campidoglio, Roma - Costantino II cesare dettaglio.jpg"
+          },
+          {
+            "ns": 6,
+            "title": "File:Colossus of Constantine I 03.jpg"
+          },
+          {
+            "ns": 6,
+            "title": "File:Commons-logo.svg"
+          },
+          {
+            "ns": 6,
+            "title": "File:Const.chlorus03 pushkin.jpg"
+          },
+          {
+            "ns": 6,
+            "title": "File:Constantin 1er multiple d'or 39,79 g.jpg"
+          },
+          {
+            "ns": 6,
+            "title": "File:Constantine Eyes Raised to Heaven.png"
+          },
+          {
+            "ns": 6,
+            "title": "File:Constantine I RIC VI 824 (obverse).jpeg"
+          },
+          {
+            "ns": 6,
+            "title": "File:Constantine I The Great, Colossal bronze statue fragments, Capitoline Museums.jpg"
+          },
+          {
+            "ns": 6,
+            "title": "File:Constarch d4.jpg"
+          },
+          {
+            "ns": 6,
+            "title": "File:Costantino nord-limes png.PNG"
+          },
+          {
+            "ns": 6,
+            "title": "File:Crispus.jpg"
+          },
+          {
+            "ns": 6,
+            "title": "File:Dame-Schmuckkasten-Trier.jpg"
+          },
+          {
+            "ns": 6,
+            "title": "File:Emperor Constans Louvre Ma1021.jpg"
+          },
+          {
+            "ns": 6,
+            "title": "File:Flag of Palaeologus Dynasty.svg"
+          },
+          {
+            "ns": 6,
+            "title": "File:Flag of Vatican City (2023–present).svg"
+          },
+          {
+            "ns": 6,
+            "title": "File:Flag of the Vatican City.svg"
+          },
+          {
+            "ns": 6,
+            "title": "File:Glittica romana, costantino e la tyche di costantinopoli, sardonice IV sec.JPG"
+          },
+          {
+            "ns": 6,
+            "title": "File:Gloriole blur.svg"
+          },
+          {
+            "ns": 6,
+            "title": "File:Gold coin pendant BM.JPG"
+          },
+          {
+            "ns": 6,
+            "title": "File:Hagia Sophia Enthroned madonna with Constantine and Justinian Conmstantine in 2016 1404.jpg"
+          },
+          {
+            "ns": 6,
+            "title": "File:Istanbul - Museo archeol. - Diocleziano (284-305 d.C.) - Foto G. Dall'Orto 28-5-2006 (cropped).jpg"
+          },
+          {
+            "ns": 6,
+            "title": "File:Konstantinsmedaillon.jpg"
+          },
+          {
+            "ns": 6,
+            "title": "File:MSR - Tête de l'empreur Maximien Hercule - Inv 34 b (cropped).jpg"
+          },
+          {
+            "ns": 6,
+            "title": "File:Medallion of Constantine I (obverse).png"
+          },
+          {
+            "ns": 6,
+            "title": "File:Nummus of Constantine (YORYM 2001 10313) obverse.jpg"
+          },
+          {
+            "ns": 6,
+            "title": "File:OOjs UI icon edit-ltr-progressive.svg"
+          },
+          {
+            "ns": 6,
+            "title": "File:P1070865 Louvre tête de Fausta Ma4881 rwk.JPG"
+          },
+          {
+            "ns": 6,
+            "title": "File:Ponte Milvio-side view-antmoose.jpg"
+          },
+          {
+            "ns": 6,
+            "title": "File:Portrait of Maxentius (SK Dresden Hm 406) 05.jpg"
+          },
+          {
+            "ns": 6,
+            "title": "File:Romuliana Galerius head.jpg"
+          },
+          {
+            "ns": 6,
+            "title": "File:San Giovanni in Laterano - 2019 - Statue of Constantius II 03.jpg"
+          },
+          {
+            "ns": 6,
+            "title": "File:Sarcophagi Byzantine emperors Istanbul (11).JPG"
+          },
+          {
+            "ns": 6,
+            "title": "File:Seated statue of Helena 5 (cropped).jpg"
+          },
+          {
+            "ns": 6,
+            "title": "File:Silver medallion of Constantine I, AD 330.jpg"
+          },
+          {
+            "ns": 6,
+            "title": "File:Sir Peter Paul Rubens - Constantius appoints Constantine as his successor - Google Art Project.jpg"
+          },
+          {
+            "ns": 6,
+            "title": "File:St. Constantine and St. Helen (Byzantine and Christian Museum of Athens, 1-15-2023).jpg"
+          },
+          {
+            "ns": 6,
+            "title": "File:Statue Constantin 1er York 13.jpg"
+          },
+          {
+            "ns": 6,
+            "title": "File:Sylvester I and Constantine.jpg"
+          },
+          {
+            "ns": 6,
+            "title": "File:Symbol support vote.svg"
+          },
+          {
+            "ns": 6,
+            "title": "File:Trier Kaiserthermen BW 1.JPG"
+          },
+          {
+            "ns": 6,
+            "title": "File:Wikiquote-logo.svg"
+          },
+          {
+            "ns": 6,
+            "title": "File:Медијана 02.jpg"
+          }
+        ],
+        "pageprops": {
+          "defaultsort": "Constantine 01",
+          "nomediaviewercarousel": "",
+          "page_image_free": "Constantine_I_The_Great,_Colossal_bronze_statue_fragments,_Capitoline_Museums.jpg",
+          "toc": "",
+          "wikibase-badge-Q17437798": "",
+          "wikibase-shortdesc": "Roman emperor from 306 to 337",
+          "wikibase_item": "Q8413"
+        }
+      },
+      {
+        "pageid": 7342,
+        "ns": 0,
+        "title": "Clement of Alexandria",
+        "original": {
+          "source": "https://upload.wikimedia.org/wikipedia/commons/5/5c/Clement_alexandrin.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original",
+          "width": 1664,
+          "height": 2032
+        },
+        "pageimage": "Clement_alexandrin.jpg",
+        "images": [
+          {
+            "ns": 6,
+            "title": "File:046CupolaSPietro.jpg"
+          },
+          {
+            "ns": 6,
+            "title": "File:Alpine flora logan pass.jpg"
+          },
+          {
+            "ns": 6,
+            "title": "File:Clement alexandrin.jpg"
+          },
+          {
+            "ns": 6,
+            "title": "File:Coptic cross.svg"
+          },
+          {
+            "ns": 6,
+            "title": "File:DSC00355 - Orfeo (epoca romana) - Foto G. Dall'Orto.jpg"
+          },
+          {
+            "ns": 6,
+            "title": "File:Duns Scotus Painting (cropped).jpg"
+          },
+          {
+            "ns": 6,
+            "title": "File:Emblem of the Papacy SE.svg"
+          },
+          {
+            "ns": 6,
+            "title": "File:Flag of Egypt.svg"
+          },
+          {
+            "ns": 6,
+            "title": "File:Flag of Vatican City (2023–present).svg"
+          },
+          {
+            "ns": 6,
+            "title": "File:Flag of the Vatican City.svg"
+          },
+          {
+            "ns": 6,
+            "title": "File:Gentile da Fabriano 052.jpg"
+          },
+          {
+            "ns": 6,
+            "title": "File:Gloriole blur.svg"
+          },
+          {
+            "ns": 6,
+            "title": "File:Jesus-Christ-from-Hagia-Sophia.jpg"
+          },
+          {
+            "ns": 6,
+            "title": "File:JohnDunsScotus - full.jpg"
+          },
+          {
+            "ns": 6,
+            "title": "File:Klementos Alexandreos ta heuriskomena.tif"
+          },
+          {
+            "ns": 6,
+            "title": "File:OOjs UI icon edit-ltr-progressive.svg"
+          },
+          {
+            "ns": 6,
+            "title": "File:P christianity.svg"
+          },
+          {
+            "ns": 6,
+            "title": "File:P vip.svg"
+          },
+          {
+            "ns": 6,
+            "title": "File:Saint Augustine by Philippe de Champaigne (3x4 cropped).jpg"
+          },
+          {
+            "ns": 6,
+            "title": "File:Socrates.png"
+          },
+          {
+            "ns": 6,
+            "title": "File:Speaker Icon.svg"
+          },
+          {
+            "ns": 6,
+            "title": "File:St-thomas-aquinasFXD.jpg"
+          },
+          {
+            "ns": 6,
+            "title": "File:Symbol support vote.svg"
+          },
+          {
+            "ns": 6,
+            "title": "File:Wikiquote-logo.svg"
+          },
+          {
+            "ns": 6,
+            "title": "File:Wikisource-logo.svg"
+          },
+          {
+            "ns": 6,
+            "title": "File:William of Ockham.png"
+          }
+        ],
+        "pageprops": {
+          "defaultsort": "Clement Of Alexandria",
+          "page_image_free": "Clement_alexandrin.jpg",
+          "wikibase-badge-Q17437798": "",
+          "wikibase-shortdesc": "Christian theologian (c. 150 – c. 215)",
+          "wikibase_item": "Q188883"
+        }
+      },
+      {
+        "pageid": 8551,
+        "ns": 0,
+        "title": "David",
+        "original": {
+          "source": "https://upload.wikimedia.org/wikipedia/commons/9/94/King_David%2C_the_King_of_Israel.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original",
+          "width": 2686,
+          "height": 3761
+        },
+        "pageimage": "King_David,_the_King_of_Israel.jpg",
+        "images": [
+          {
+            "ns": 6,
+            "title": "File:'David' by Michelangelo Fir JBU005 denoised.jpg"
+          },
+          {
+            "ns": 6,
+            "title": "File:'David' by Michelangelo Fir JBU013.jpg"
+          },
+          {
+            "ns": 6,
+            "title": "File:046CupolaSPietro.jpg"
+          },
+          {
+            "ns": 6,
+            "title": "File:081.David Mourns the Death of Absalom.jpg"
+          },
+          {
+            "ns": 6,
+            "title": "File:5201-king-david-in-prayer-pieter-de-grebber.jpg"
+          },
+          {
+            "ns": 6,
+            "title": "File:Allah-green.svg"
+          },
+          {
+            "ns": 6,
+            "title": "File:Arms of Ireland (Variant 1) (Historical).svg"
+          },
+          {
+            "ns": 6,
+            "title": "File:Arnold Zadikow Young David.jpg"
+          },
+          {
+            "ns": 6,
+            "title": "File:Augustins - David by Antonin Mercié (D 2005 1).jpg"
+          },
+          {
+            "ns": 6,
+            "title": "File:Bernini's David 02.jpg"
+          },
+          {
+            "ns": 6,
+            "title": "File:Christus statue temple square salt lake city.jpg"
+          },
+          {
+            "ns": 6,
+            "title": "File:Commons-logo.svg"
+          },
+          {
+            "ns": 6,
+            "title": "File:David, Andrea del Verrocchio, ca. 1466-69, Bargello Florenz-01.jpg"
+          },
+          {
+            "ns": 6,
+            "title": "File:David SM Maggiore.jpg"
+          },
+          {
+            "ns": 6,
+            "title": "File:David with the Head of Goliath-Caravaggio (1610).jpg"
+          },
+          {
+            "ns": 6,
+            "title": "File:Eugène Siberdt - The Prophet Nathan rebukes King David.jpg"
+          },
+          {
+            "ns": 6,
+            "title": "File:Florenz - Bargello 2014-08-09r.jpg"
+          },
+          {
+            "ns": 6,
+            "title": "File:Gloriole blur.svg"
+          },
+          {
+            "ns": 6,
+            "title": "File:Good-samaritan-inn-king-david.JPG"
+          },
+          {
+            "ns": 6,
+            "title": "File:JRSLM 300116 Tel Dan Stele 01.jpg"
+          },
+          {
+            "ns": 6,
+            "title": "File:Jusepe Leonardo 001.jpeg"
+          },
+          {
+            "ns": 6,
+            "title": "File:Karnak Tempel 19.jpg"
+          },
+          {
+            "ns": 6,
+            "title": "File:King David, the King of Israel.jpg"
+          },
+          {
+            "ns": 6,
+            "title": "File:King David in Augsburg Cathedral light.JPG"
+          },
+          {
+            "ns": 6,
+            "title": "File:King David on Zion.jpg"
+          },
+          {
+            "ns": 6,
+            "title": "File:Menorah.svg"
+          },
+          {
+            "ns": 6,
+            "title": "File:Monheim Town Hall 1.JPG"
+          },
+          {
+            "ns": 6,
+            "title": "File:OOjs UI icon edit-ltr-progressive.svg"
+          },
+          {
+            "ns": 6,
+            "title": "File:Osmar Schindler David und Goliath.jpg"
+          },
+          {
+            "ns": 6,
+            "title": "File:P christianity.svg"
+          },
+          {
+            "ns": 6,
+            "title": "File:Paris psaulter gr139 fol7v.jpg"
+          },
+          {
+            "ns": 6,
+            "title": "File:PikiWiki Israel 69694 tower of david.jpg"
+          },
+          {
+            "ns": 6,
+            "title": "File:Psautier de Paris, MSS. gr. 139, fol. 1v.jpg"
+          },
+          {
+            "ns": 6,
+            "title": "File:Rosselli Triunfo David.jpeg"
+          },
+          {
+            "ns": 6,
+            "title": "File:Samuel e david.jpg"
+          },
+          {
+            "ns": 6,
+            "title": "File:Saul and David by Rembrandt Mauritshuis 621.jpg"
+          },
+          {
+            "ns": 6,
+            "title": "File:Semi-protection-shackle.svg"
+          },
+          {
+            "ns": 6,
+            "title": "File:Spencer Coll. Persian MS. 46 fol 113v Davud slingshot.jpg"
+          },
+          {
+            "ns": 6,
+            "title": "File:Stamp of Israel - Festivals 5721 - 0.25IL (cropped).jpg"
+          },
+          {
+            "ns": 6,
+            "title": "File:Star of David.svg"
+          },
+          {
+            "ns": 6,
+            "title": "File:Star of David (bold).svg"
+          },
+          {
+            "ns": 6,
+            "title": "File:Study of King David, by Julia Margaret Cameron.jpg"
+          },
+          {
+            "ns": 6,
+            "title": "File:Sweet stories of God; in the language of childhood and the beautiful delineations of sacred art (1899) (14751566596).jpg"
+          },
+          {
+            "ns": 6,
+            "title": "File:The Ark Brought to Jerusalem.jpg"
+          },
+          {
+            "ns": 6,
+            "title": "File:Wikiquote-logo.svg"
+          }
+        ],
+        "pageprops": {
+          "page_image_free": "King_David,_the_King_of_Israel.jpg",
+          "wikibase-shortdesc": "Biblical figure and Israelite monarch",
+          "wikibase_item": "Q41370"
+        }
+      },
+      {
+        "pageid": 9839,
+        "ns": 0,
+        "title": "Ezra",
+        "original": {
+          "source": "https://upload.wikimedia.org/wikipedia/commons/b/b0/109.Ezra_Reads_the_Law_to_the_People.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original",
+          "width": 2301,
+          "height": 2907
+        },
+        "pageimage": "109.Ezra_Reads_the_Law_to_the_People.jpg",
+        "images": [
+          {
+            "ns": 6,
+            "title": "File:109.Ezra Reads the Law to the People.jpg"
+          },
+          {
+            "ns": 6,
+            "title": "File:Commons-logo.svg"
+          },
+          {
+            "ns": 6,
+            "title": "File:Ezra Reads the Law l.jpg"
+          },
+          {
+            "ns": 6,
+            "title": "File:OOjs UI icon edit-ltr-progressive.svg"
+          },
+          {
+            "ns": 6,
+            "title": "File:PD-icon.svg"
+          },
+          {
+            "ns": 6,
+            "title": "File:Schnorr von Carolsfeld Bibel in Bildern 1860 125.png"
+          },
+          {
+            "ns": 6,
+            "title": "File:Tomb of Ezra.jpg"
+          },
+          {
+            "ns": 6,
+            "title": "File:Wikiquote-logo.svg"
+          }
+        ],
+        "pageprops": {
+          "page_image_free": "109.Ezra_Reads_the_Law_to_the_People.jpg",
+          "wikibase-shortdesc": "Figure in early Jewish history",
+          "wikibase_item": "Q191787"
+        }
+      },
+      {
+        "pageid": 10407,
+        "ns": 0,
+        "title": "Epictetus",
+        "original": {
+          "source": "https://upload.wikimedia.org/wikipedia/commons/c/c0/Epicteti_Enchiridion_Latinis_versibus_adumbratum_%28Oxford_1715%29_frontispiece_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original",
+          "width": 1859,
+          "height": 2729
+        },
+        "pageimage": "Epicteti_Enchiridion_Latinis_versibus_adumbratum_(Oxford_1715)_frontispiece_(cropped).jpg",
+        "images": [
+          {
+            "ns": 6,
+            "title": "File:Commons-logo.svg"
+          },
+          {
+            "ns": 6,
+            "title": "File:Epicteti Enchiridion Latinis versibus adumbratum (Oxford 1715) frontispiece (cropped).jpg"
+          },
+          {
+            "ns": 6,
+            "title": "File:Epictetus.png"
+          },
+          {
+            "ns": 6,
+            "title": "File:MS. Canon. Misc. 378 fols. 78r - Bodleian library - Altercatio Hadriani Augusti et Epicteti philosophi.jpg"
+          },
+          {
+            "ns": 6,
+            "title": "File:OOjs UI icon edit-ltr-progressive.svg"
+          },
+          {
+            "ns": 6,
+            "title": "File:P vip.svg"
+          },
+          {
+            "ns": 6,
+            "title": "File:Parthenon from west.jpg"
+          },
+          {
+            "ns": 6,
+            "title": "File:Socrates.png"
+          },
+          {
+            "ns": 6,
+            "title": "File:Speaker Icon.svg"
+          },
+          {
+            "ns": 6,
+            "title": "File:Wikidata-logo.svg"
+          },
+          {
+            "ns": 6,
+            "title": "File:Wikiquote-logo.svg"
+          },
+          {
+            "ns": 6,
+            "title": "File:Wikisource-logo.svg"
+          },
+          {
+            "ns": 6,
+            "title": "File:Wiktionary-logo-en-v2.svg"
+          }
+        ],
+        "pageprops": {
+          "page_image_free": "Epicteti_Enchiridion_Latinis_versibus_adumbratum_(Oxford_1715)_frontispiece_(cropped).jpg",
+          "wikibase-shortdesc": "Greek Stoic philosopher (c. 50 – c. 135)",
+          "wikibase_item": "Q183144"
+        }
+      },
+      {
+        "pageid": 15414,
+        "ns": 0,
+        "title": "Irenaeus",
+        "original": {
+          "source": "https://upload.wikimedia.org/wikipedia/commons/3/38/Saint_irenee_saint_irenee.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original",
+          "width": 1276,
+          "height": 3012
+        },
+        "pageimage": "Saint_irenee_saint_irenee.jpg",
+        "images": [
+          {
+            "ns": 6,
+            "title": "File:046CupolaSPietro.jpg"
+          },
+          {
+            "ns": 6,
+            "title": "File:Cambridge, Ms Papyrus Oxyrhynchus 405 high res color composite.jpg"
+          },
+          {
+            "ns": 6,
+            "title": "File:Commons-logo.svg"
+          },
+          {
+            "ns": 6,
+            "title": "File:Duns Scotus Painting (cropped).jpg"
+          },
+          {
+            "ns": 6,
+            "title": "File:Emblem of the Papacy SE.svg"
+          },
+          {
+            "ns": 6,
+            "title": "File:Flag of Vatican City (2023–present).svg"
+          },
+          {
+            "ns": 6,
+            "title": "File:Flag of the Vatican City.svg"
+          },
+          {
+            "ns": 6,
+            "title": "File:Gloriole blur.svg"
+          },
+          {
+            "ns": 6,
+            "title": "File:Nuremberg chronicles f 116r 1.png"
+          },
+          {
+            "ns": 6,
+            "title": "File:OOjs UI icon edit-ltr-progressive.svg"
+          },
+          {
+            "ns": 6,
+            "title": "File:P christianity.svg"
+          },
+          {
+            "ns": 6,
+            "title": "File:P vip.svg"
+          },
+          {
+            "ns": 6,
+            "title": "File:Saint Augustine by Philippe de Champaigne (3x4 cropped).jpg"
+          },
+          {
+            "ns": 6,
+            "title": "File:Saint Irenaeus icon.jpg"
+          },
+          {
+            "ns": 6,
+            "title": "File:Saint irenee saint irenee.jpg"
+          },
+          {
+            "ns": 6,
+            "title": "File:Socrates.png"
+          },
+          {
+            "ns": 6,
+            "title": "File:Speaker Icon.svg"
+          },
+          {
+            "ns": 6,
+            "title": "File:St-thomas-aquinasFXD.jpg"
+          },
+          {
+            "ns": 6,
+            "title": "File:Wikiquote-logo.svg"
+          },
+          {
+            "ns": 6,
+            "title": "File:Wikisource-logo.svg"
+          }
+        ],
+        "pageprops": {
+          "page_image_free": "Saint_irenee_saint_irenee.jpg",
+          "wikibase-shortdesc": "2nd-century Greek bishop and Church Father",
+          "wikibase_item": "Q182123"
+        }
+      },
+      {
+        "pageid": 16118,
+        "ns": 0,
+        "title": "Jacob",
+        "original": {
+          "source": "https://upload.wikimedia.org/wikipedia/commons/3/39/Jan_Victors_-_Jacob_Seeking_the_Forgiveness_of_Esau_-_79.330_-_Indianapolis_Museum_of_Art_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original",
+          "width": 1260,
+          "height": 1679
+        },
+        "pageimage": "Jan_Victors_-_Jacob_Seeking_the_Forgiveness_of_Esau_-_79.330_-_Indianapolis_Museum_of_Art_(cropped).jpg",
+        "images": [
+          {
+            "ns": 6,
+            "title": "File:046CupolaSPietro.jpg"
+          },
+          {
+            "ns": 6,
+            "title": "File:ACU Jacobs Dream artwork.JPG"
+          },
+          {
+            "ns": 6,
+            "title": "File:Abraham - Isaac - Jacob - Judah by Michelangelo Buonarroti.jpg"
+          },
+          {
+            "ns": 6,
+            "title": "File:Blake jacobsladder.jpg"
+          },
+          {
+            "ns": 6,
+            "title": "File:Cenotaph of Jacob.JPG"
+          },
+          {
+            "ns": 6,
+            "title": "File:Commons-logo.svg"
+          },
+          {
+            "ns": 6,
+            "title": "File:Drawing of the procession of the Aamu group tomb of Khnumhotep II at Beni Hassan.jpg"
+          },
+          {
+            "ns": 6,
+            "title": "File:Francesco Hayez 061.jpg"
+          },
+          {
+            "ns": 6,
+            "title": "File:Giovanni Andrea de Ferrari - 'Joseph's Coat Brought to Jacob', oil on canvas, c. 1640, El Paso Museum of Art.jpg"
+          },
+          {
+            "ns": 6,
+            "title": "File:Gloriole blur.svg"
+          },
+          {
+            "ns": 6,
+            "title": "File:Govert Flinck - Isaac Blessing Jacob - WGA07930.jpg"
+          },
+          {
+            "ns": 6,
+            "title": "File:Ionicons duplicate-sharp.svg"
+          },
+          {
+            "ns": 6,
+            "title": "File:Jacob's funeral procession.JPG"
+          },
+          {
+            "ns": 6,
+            "title": "File:JacobBirthright.jpg"
+          },
+          {
+            "ns": 6,
+            "title": "File:Jacob (Israel).jpg"
+          },
+          {
+            "ns": 6,
+            "title": "File:Jacob with Ephraim and Manasseh.JPG"
+          },
+          {
+            "ns": 6,
+            "title": "File:Jan Victors - Jacob Seeking the Forgiveness of Esau - 79.330 - Indianapolis Museum of Art (cropped).jpg"
+          },
+          {
+            "ns": 6,
+            "title": "File:Lutte de Jacob avec l'Ange.jpg"
+          },
+          {
+            "ns": 6,
+            "title": "File:Metz Der Tod Rahels.jpg"
+          },
+          {
+            "ns": 6,
+            "title": "File:OOjs UI icon edit-ltr-progressive.svg"
+          },
+          {
+            "ns": 6,
+            "title": "File:Procession of the Aamu, Tomb of Khnumhotep II (composite).jpg"
+          },
+          {
+            "ns": 6,
+            "title": "File:Rachel WilliamDyce.jpg"
+          },
+          {
+            "ns": 6,
+            "title": "File:Semi-protection-shackle.svg"
+          },
+          {
+            "ns": 6,
+            "title": "File:Tissot Joseph and His Brethren Welcomed by Pharaoh.jpg"
+          },
+          {
+            "ns": 6,
+            "title": "File:Wikisource-logo.svg"
+          },
+          {
+            "ns": 6,
+            "title": "File:Yaakov.ogg"
+          },
+          {
+            "ns": 6,
+            "title": "File:Yaqub embraces Yusuf square.jpg"
+          }
+        ],
+        "pageprops": {
+          "page_image_free": "Jan_Victors_-_Jacob_Seeking_the_Forgiveness_of_Esau_-_79.330_-_Indianapolis_Museum_of_Art_(cropped).jpg",
+          "wikibase-shortdesc": "Biblical patriarch, son of Isaac",
+          "wikibase_item": "Q289957"
+        }
+      },
+      {
+        "pageid": 16121,
+        "ns": 0,
+        "title": "Joshua",
+        "original": {
+          "source": "https://upload.wikimedia.org/wikipedia/commons/5/52/Collection_Motais_de_Narbonne_-_Josu%C3%A9_arr%C3%A8te_la_course_du_soleil_-_Carlo_Maratta.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original",
+          "width": 5198,
+          "height": 6466
+        },
+        "pageimage": "Collection_Motais_de_Narbonne_-_Josué_arrète_la_course_du_soleil_-_Carlo_Maratta.jpg",
+        "images": [
+          {
+            "ns": 6,
+            "title": "File:046CupolaSPietro.jpg"
+          },
+          {
+            "ns": 6,
+            "title": "File:Chester Beatty T 414 fol 189r Yusha in Ariha.jpg"
+          },
+          {
+            "ns": 6,
+            "title": "File:Collection Motais de Narbonne - Josué arrète la course du soleil - Carlo Maratta.jpg"
+          },
+          {
+            "ns": 6,
+            "title": "File:Commons-logo.svg"
+          },
+          {
+            "ns": 6,
+            "title": "File:Crossing the Jordan River with the Ark, painted board, detail from the cabinets of the Old Sacristy, Church of St Mary the Gracious Milan. Italy, 15th.jpg"
+          },
+          {
+            "ns": 6,
+            "title": "File:Gloriole blur.svg"
+          },
+          {
+            "ns": 6,
+            "title": "File:Joseph Schranz Bosphorus Broken Column Omer M Koc Collection copy 620 436.jpg"
+          },
+          {
+            "ns": 6,
+            "title": "File:Joshua's Tomb at Kifl Hares.jpg"
+          },
+          {
+            "ns": 6,
+            "title": "File:Joshua's Tomb in Jordan 01.jpg"
+          },
+          {
+            "ns": 6,
+            "title": "File:Joshua 10C, cropping from trailer.jpg"
+          },
+          {
+            "ns": 6,
+            "title": "File:Joshua Commanding the Sun to Stand Still upon Gibeon (1816) John Martin - NGA 2004.64.1.jpg"
+          },
+          {
+            "ns": 6,
+            "title": "File:Karolingischer Buchmaler um 840 001.jpg"
+          },
+          {
+            "ns": 6,
+            "title": "File:OOjs UI icon edit-ltr-progressive.svg"
+          },
+          {
+            "ns": 6,
+            "title": "File:Question book-new.svg"
+          },
+          {
+            "ns": 6,
+            "title": "File:Robert Hecquet, Israelites Crossing the Jordan River, c. 1720-1775.jpg"
+          },
+          {
+            "ns": 6,
+            "title": "File:Semi-protection-shackle.svg"
+          },
+          {
+            "ns": 6,
+            "title": "File:Spencer Coll. Persian MS. 46 101v Yusha and Musa visit Khidr.jpg"
+          },
+          {
+            "ns": 6,
+            "title": "File:Tissot Moses Blesses Joshua Before the High Priest.jpg"
+          },
+          {
+            "ns": 6,
+            "title": "File:Wikiquote-logo.svg"
+          },
+          {
+            "ns": 6,
+            "title": "File:Wikisource-logo.svg"
+          },
+          {
+            "ns": 6,
+            "title": "File:Yom HaAliyah Poster.jpg"
+          }
+        ],
+        "pageprops": {
+          "page_image_free": "Collection_Motais_de_Narbonne_-_Josué_arrète_la_course_du_soleil_-_Carlo_Maratta.jpg",
+          "wikibase-shortdesc": "Central figure in the Hebrew Bible's Book of Joshua",
+          "wikibase_item": "Q7734"
+        }
+      },
+      {
+        "pageid": 16403,
+        "ns": 0,
+        "title": "Justin Martyr",
+        "original": {
+          "source": "https://upload.wikimedia.org/wikipedia/commons/a/a7/Saint_Justin_Martyr_by_Theophanes_the_Cretan.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original",
+          "width": 490,
+          "height": 616
+        },
+        "pageimage": "Saint_Justin_Martyr_by_Theophanes_the_Cretan.jpg",
+        "images": [
+          {
+            "ns": 6,
+            "title": "File:046CupolaSPietro.jpg"
+          },
+          {
+            "ns": 6,
+            "title": "File:Commons-logo.svg"
+          },
+          {
+            "ns": 6,
+            "title": "File:Duns Scotus Painting (cropped).jpg"
+          },
+          {
+            "ns": 6,
+            "title": "File:Edit-clear.svg"
+          },
+          {
+            "ns": 6,
+            "title": "File:Emblem of the Papacy SE.svg"
+          },
+          {
+            "ns": 6,
+            "title": "File:Engraving of Justin Martyr - 2.jpg"
+          },
+          {
+            "ns": 6,
+            "title": "File:Flag of Vatican City (2023–present).svg"
+          },
+          {
+            "ns": 6,
+            "title": "File:Flag of the Vatican City.svg"
+          },
+          {
+            "ns": 6,
+            "title": "File:Gloriole blur.svg"
+          },
+          {
+            "ns": 6,
+            "title": "File:Iustini Philosophi et martyris Opera.tif"
+          },
+          {
+            "ns": 6,
+            "title": "File:Justin Martyr.jpg"
+          },
+          {
+            "ns": 6,
+            "title": "File:Mosaic of St. Justin Martyr, Mount of the Beatitudes.jpg"
+          },
+          {
+            "ns": 6,
+            "title": "File:Nuvola apps bookcase.svg"
+          },
+          {
+            "ns": 6,
+            "title": "File:OOjs UI icon edit-ltr-progressive.svg"
+          },
+          {
+            "ns": 6,
+            "title": "File:P christianity.svg"
+          },
+          {
+            "ns": 6,
+            "title": "File:P vip.svg"
+          },
+          {
+            "ns": 6,
+            "title": "File:Question book-new.svg"
+          },
+          {
+            "ns": 6,
+            "title": "File:S. Iusti M..jpg"
+          },
+          {
+            "ns": 6,
+            "title": "File:Saint Augustine by Philippe de Champaigne (3x4 cropped).jpg"
+          },
+          {
+            "ns": 6,
+            "title": "File:Saint Justin Martyr by Theophanes the Cretan.jpg"
+          },
+          {
+            "ns": 6,
+            "title": "File:Socrates.png"
+          },
+          {
+            "ns": 6,
+            "title": "File:Speaker Icon.svg"
+          },
+          {
+            "ns": 6,
+            "title": "File:St-thomas-aquinasFXD.jpg"
+          },
+          {
+            "ns": 6,
+            "title": "File:Wikidata-logo.svg"
+          },
+          {
+            "ns": 6,
+            "title": "File:Wikiquote-logo.svg"
+          },
+          {
+            "ns": 6,
+            "title": "File:Wikisource-logo.svg"
+          }
+        ],
+        "pageprops": {
+          "defaultsort": "Justin Martyr",
+          "page_image_free": "Saint_Justin_Martyr_by_Theophanes_the_Cretan.jpg",
+          "wikibase-shortdesc": "2nd-century Christian apologist and martyr",
+          "wikibase_item": "Q185117"
+        }
+      },
+      {
+        "pageid": 18047,
+        "ns": 0,
+        "title": "Lucius Tarquinius Superbus",
+        "original": {
+          "source": "https://upload.wikimedia.org/wikipedia/commons/f/f9/Tarquinius-Superbus.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original",
+          "width": 397,
+          "height": 389
+        },
+        "pageimage": "Tarquinius-Superbus.jpg",
+        "images": [
+          {
+            "ns": 6,
+            "title": "File:Comic History of Rome Table 02 Tarquinius Superbus makes himself King.jpg"
+          },
+          {
+            "ns": 6,
+            "title": "File:Commons-logo.svg"
+          },
+          {
+            "ns": 6,
+            "title": "File:GiorcesVeiiApollo1.jpg"
+          },
+          {
+            "ns": 6,
+            "title": "File:Lawrence Alma-Tadema 11.jpeg"
+          },
+          {
+            "ns": 6,
+            "title": "File:Lupa Capitolina, Rome.jpg"
+          },
+          {
+            "ns": 6,
+            "title": "File:OOjs UI icon edit-ltr-progressive.svg"
+          },
+          {
+            "ns": 6,
+            "title": "File:Symbol portal class.svg"
+          },
+          {
+            "ns": 6,
+            "title": "File:Tarquinius-Superbus.jpg"
+          }
+        ],
+        "pageprops": {
+          "defaultsort": "Tarquiniussuperbus, Lucius",
+          "page_image_free": "Tarquinius-Superbus.jpg",
+          "wikibase-shortdesc": "Seventh and last king of Rome",
+          "wikibase_item": "Q193047"
+        }
+      },
+      {
+        "pageid": 18385,
+        "ns": 0,
+        "title": "Lactantius",
+        "original": {
+          "source": "https://upload.wikimedia.org/wikipedia/commons/5/5c/Lactantius.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original",
+          "width": 350,
+          "height": 261
+        },
+        "pageimage": "Lactantius.jpg",
+        "images": [
+          {
+            "ns": 6,
+            "title": "File:046CupolaSPietro.jpg"
+          },
+          {
+            "ns": 6,
+            "title": "File:Auct. L 3.33 f3v.jpg"
+          },
+          {
+            "ns": 6,
+            "title": "File:Commons-logo.svg"
+          },
+          {
+            "ns": 6,
+            "title": "File:Lactantius, Divinarum institutionum ... liber primus, manuscript, Florence 1420-1430 ca.jpg"
+          },
+          {
+            "ns": 6,
+            "title": "File:Lactantius.jpg"
+          },
+          {
+            "ns": 6,
+            "title": "File:OOjs UI icon edit-ltr-progressive.svg"
+          },
+          {
+            "ns": 6,
+            "title": "File:Speaker Icon.svg"
+          },
+          {
+            "ns": 6,
+            "title": "File:Wikiquote-logo.svg"
+          },
+          {
+            "ns": 6,
+            "title": "File:Wikisource-logo.svg"
+          }
+        ],
+        "pageprops": {
+          "page_image_free": "Lactantius.jpg",
+          "wikibase-shortdesc": "Roman Christian author (c. 250 – c. 325)",
+          "wikibase_item": "Q209102"
+        }
+      },
+      {
+        "pageid": 19577,
+        "ns": 0,
+        "title": "Moses",
+        "original": {
+          "source": "https://upload.wikimedia.org/wikipedia/commons/4/4a/Rembrandt_Harmensz._van_Rijn_079.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original",
+          "width": 2024,
+          "height": 2659
+        },
+        "pageimage": "Rembrandt_Harmensz._van_Rijn_079.jpg",
+        "images": [
+          {
+            "ns": 6,
+            "title": "File:'Moses' by Michelangelo JBU160.jpg"
+          },
+          {
+            "ns": 6,
+            "title": "File:046CupolaSPietro.jpg"
+          },
+          {
+            "ns": 6,
+            "title": "File:Allah-green.svg"
+          },
+          {
+            "ns": 6,
+            "title": "File:Ambox globe content.svg"
+          },
+          {
+            "ns": 6,
+            "title": "File:Charlton Heston in The Ten Commandments film trailer.jpg"
+          },
+          {
+            "ns": 6,
+            "title": "File:Commons-logo.svg"
+          },
+          {
+            "ns": 6,
+            "title": "File:Embarkation of the Pilgrims.jpg"
+          },
+          {
+            "ns": 6,
+            "title": "File:FirstCommitteeGreatSealReverseLossingDrawing.jpg"
+          },
+          {
+            "ns": 6,
+            "title": "File:Gloriole blur.svg"
+          },
+          {
+            "ns": 6,
+            "title": "File:Guido Reni - Moses with the Tables of the Law - WGA19289.jpg"
+          },
+          {
+            "ns": 6,
+            "title": "File:Memorial of Moses, Mt. Nebo.jpg"
+          },
+          {
+            "ns": 6,
+            "title": "File:MosesStrikingTheRock GREBBER.jpg"
+          },
+          {
+            "ns": 6,
+            "title": "File:Moses - Alta-Tadema.jpg"
+          },
+          {
+            "ns": 6,
+            "title": "File:Moses Dura Europos.jpg"
+          },
+          {
+            "ns": 6,
+            "title": "File:Moses LOC.jpg"
+          },
+          {
+            "ns": 6,
+            "title": "File:Moses bas-relief in the U.S. House of Representatives chamber.jpg"
+          },
+          {
+            "ns": 6,
+            "title": "File:Ms. 33 (88.MP.70) Moses Killing an Egyptian cropping.jpg"
+          },
+          {
+            "ns": 6,
+            "title": "File:NYPL, Spencer Coll. Persian MS. 1, fol. 89r, Musa winning magic battle.jpg"
+          },
+          {
+            "ns": 6,
+            "title": "File:Nabi Musa jerico-Jerusalam.jpg"
+          },
+          {
+            "ns": 6,
+            "title": "File:OOjs UI icon edit-ltr-progressive.svg"
+          },
+          {
+            "ns": 6,
+            "title": "File:PD-icon.svg"
+          },
+          {
+            "ns": 6,
+            "title": "File:Question book-new.svg"
+          },
+          {
+            "ns": 6,
+            "title": "File:Rembrandt Harmensz. van Rijn 079.jpg"
+          },
+          {
+            "ns": 6,
+            "title": "File:Rosso Fiorentino - Moses defending the Daughters of Jethro - Web Gallery of Art.jpg"
+          },
+          {
+            "ns": 6,
+            "title": "File:Semi-protection-shackle.svg"
+          },
+          {
+            "ns": 6,
+            "title": "File:SyriacBibleParisFolio8rrMosesBeforePharaoh.jpg"
+          },
+          {
+            "ns": 6,
+            "title": "File:The-Transfiguration-1480-xx-Giovanni-Bellini.JPG"
+          },
+          {
+            "ns": 6,
+            "title": "File:The Brazen Serpent.jpg"
+          },
+          {
+            "ns": 6,
+            "title": "File:The Knesset Menorah P5200010 Moses.JPG"
+          },
+          {
+            "ns": 6,
+            "title": "File:Tissot The Women of Midian Led Captive by the Hebrews.jpg"
+          },
+          {
+            "ns": 6,
+            "title": "File:VictoryOLord.JPG"
+          },
+          {
+            "ns": 6,
+            "title": "File:Wikidata-logo.svg"
+          },
+          {
+            "ns": 6,
+            "title": "File:Wikiquote-logo.svg"
+          },
+          {
+            "ns": 6,
+            "title": "File:Wikisource-logo.svg"
+          },
+          {
+            "ns": 6,
+            "title": "File:Wiktionary-logo-en-v2.svg"
+          }
+        ],
+        "pageprops": {
+          "page_image_free": "Rembrandt_Harmensz._van_Rijn_079.jpg",
+          "wikibase-shortdesc": "Prophet in Abrahamic religions",
+          "wikibase_item": "Q9077"
+        }
+      },
+      {
+        "pageid": 22702,
+        "ns": 0,
+        "title": "Origen",
+        "original": {
+          "source": "https://upload.wikimedia.org/wikipedia/commons/c/c7/Origen3.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original",
+          "width": 220,
+          "height": 343
+        },
+        "pageimage": "Origen3.jpg",
+        "images": [
+          {
+            "ns": 6,
+            "title": "File:046CupolaSPietro.jpg"
+          },
+          {
+            "ns": 6,
+            "title": "File:1 QIsa example of damage col 12-13.jpg"
+          },
+          {
+            "ns": 6,
+            "title": "File:A-depiction-of-Origens-self-castration.jpg"
+          },
+          {
+            "ns": 6,
+            "title": "File:Commons-logo.svg"
+          },
+          {
+            "ns": 6,
+            "title": "File:Domenico Ghirlandaio - St Jerome in his study.jpg"
+          },
+          {
+            "ns": 6,
+            "title": "File:First Council of Nicea by V.Surikov (1876-7, GTG).jpg"
+          },
+          {
+            "ns": 6,
+            "title": "File:Flag of Vatican City (2023–present).svg"
+          },
+          {
+            "ns": 6,
+            "title": "File:Flag of the Vatican City.svg"
+          },
+          {
+            "ns": 6,
+            "title": "File:Grec 945 48r.jpg"
+          },
+          {
+            "ns": 6,
+            "title": "File:Jan Brueghel de Oude en Peter Paul Rubens - Het aards paradijs met de zondeval van Adam en Eva.jpg"
+          },
+          {
+            "ns": 6,
+            "title": "File:Julia mammea02 pushkin.jpg"
+          },
+          {
+            "ns": 6,
+            "title": "File:Master of Jean de Mandeville The Birth of Esau and Jacob.jpg"
+          },
+          {
+            "ns": 6,
+            "title": "File:Mediterranean Sea location map.svg"
+          },
+          {
+            "ns": 6,
+            "title": "File:Mosaic of Justinianus I - Basilica San Vitale (Ravenna).jpg"
+          },
+          {
+            "ns": 6,
+            "title": "File:OOjs UI icon edit-ltr-progressive.svg"
+          },
+          {
+            "ns": 6,
+            "title": "File:Origen.jpg"
+          },
+          {
+            "ns": 6,
+            "title": "File:Origen3.jpg"
+          },
+          {
+            "ns": 6,
+            "title": "File:OrigenStudentsLuyken.jpg"
+          },
+          {
+            "ns": 6,
+            "title": "File:Origen emasculating himself (MS. Douce 195).jpg"
+          },
+          {
+            "ns": 6,
+            "title": "File:Origenes Opera.JPG"
+          },
+          {
+            "ns": 6,
+            "title": "File:PD-icon.svg"
+          },
+          {
+            "ns": 6,
+            "title": "File:P christianity.svg"
+          },
+          {
+            "ns": 6,
+            "title": "File:Papyrus Bodmer VIII.jpg"
+          },
+          {
+            "ns": 6,
+            "title": "File:Red pog.svg"
+          },
+          {
+            "ns": 6,
+            "title": "File:Shield-Trinity-Scutum-Fidei-English.svg"
+          },
+          {
+            "ns": 6,
+            "title": "File:Speaker Icon.svg"
+          },
+          {
+            "ns": 6,
+            "title": "File:Symbol support vote.svg"
+          },
+          {
+            "ns": 6,
+            "title": "File:Texts of the OT.svg"
+          },
+          {
+            "ns": 6,
+            "title": "File:Wikiquote-logo.svg"
+          },
+          {
+            "ns": 6,
+            "title": "File:Wikisource-logo.svg"
+          }
+        ],
+        "pageprops": {
+          "defaultsort": "Origen",
+          "page_image_free": "Origen3.jpg",
+          "wikibase-badge-Q17437798": "",
+          "wikibase-shortdesc": "Christian theologian (c. 185 – c. 253)",
+          "wikibase_item": "Q170472"
+        }
+      },
+      {
+        "pageid": 23275,
+        "ns": 0,
+        "title": "Pythagoras",
+        "original": {
+          "source": "https://upload.wikimedia.org/wikipedia/commons/e/e0/Pythagoras_in_the_Roman_Forum%2C_Colosseum.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original",
+          "width": 2862,
+          "height": 4140
+        },
+        "pageimage": "Pythagoras_in_the_Roman_Forum,_Colosseum.jpg",
+        "images": [
+          {
+            "ns": 6,
+            "title": "File:Bronnikov gimnpifagoreizev.jpg"
+          },
+          {
+            "ns": 6,
+            "title": "File:Commons-logo.svg"
+          },
+          {
+            "ns": 6,
+            "title": "File:Crab Nebula.jpg"
+          },
+          {
+            "ns": 6,
+            "title": "File:Do Not Eat Beans.jpg"
+          },
+          {
+            "ns": 6,
+            "title": "File:GClef.svg"
+          },
+          {
+            "ns": 6,
+            "title": "File:Gaffurio Pythagoras.png"
+          },
+          {
+            "ns": 6,
+            "title": "File:Giovanni Paolo Panini - Interior of the Pantheon, Rome - Google Art Project.jpg"
+          },
+          {
+            "ns": 6,
+            "title": "File:Global thinking.svg"
+          },
+          {
+            "ns": 6,
+            "title": "File:He1523a.jpg"
+          },
+          {
+            "ns": 6,
+            "title": "File:Italy provincial location map 2016.svg"
+          },
+          {
+            "ns": 6,
+            "title": "File:OOjs UI icon edit-ltr-progressive.svg"
+          },
+          {
+            "ns": 6,
+            "title": "File:Parthenon from west.jpg"
+          },
+          {
+            "ns": 6,
+            "title": "File:Pythagoras advocating vegetarianism (1618-20); Peter Paul Rubens.jpg"
+          },
+          {
+            "ns": 6,
+            "title": "File:Pythagoras in the Roman Forum, Colosseum.jpg"
+          },
+          {
+            "ns": 6,
+            "title": "File:Pythagore-chartres.jpg"
+          },
+          {
+            "ns": 6,
+            "title": "File:Pythagorean.svg"
+          },
+          {
+            "ns": 6,
+            "title": "File:Red pog.svg"
+          },
+          {
+            "ns": 6,
+            "title": "File:Semi-protection-shackle.svg"
+          },
+          {
+            "ns": 6,
+            "title": "File:Social sciences.svg"
+          },
+          {
+            "ns": 6,
+            "title": "File:Socrates.png"
+          },
+          {
+            "ns": 6,
+            "title": "File:Speaker Icon.svg"
+          },
+          {
+            "ns": 6,
+            "title": "File:Square root of x.svg"
+          },
+          {
+            "ns": 6,
+            "title": "File:Symbol category class.svg"
+          },
+          {
+            "ns": 6,
+            "title": "File:Symbol portal class.svg"
+          },
+          {
+            "ns": 6,
+            "title": "File:Symbol support vote.svg"
+          },
+          {
+            "ns": 6,
+            "title": "File:Tetractys.svg"
+          },
+          {
+            "ns": 6,
+            "title": "File:Wikibooks-logo.svg"
+          },
+          {
+            "ns": 6,
+            "title": "File:Wikiquote-logo.svg"
+          },
+          {
+            "ns": 6,
+            "title": "File:Wikisource-logo.svg"
+          },
+          {
+            "ns": 6,
+            "title": "File:Wikiversity logo 2017.svg"
+          },
+          {
+            "ns": 6,
+            "title": "File:Wiktionary-logo-en-v2.svg"
+          }
+        ],
+        "pageprops": {
+          "page_image_free": "Pythagoras_in_the_Roman_Forum,_Colosseum.jpg",
+          "wikibase-badge-Q17437798": "",
+          "wikibase-shortdesc": "Greek philosopher (c. 570 – c. 495 BC)",
+          "wikibase_item": "Q10261"
+        }
+      },
+      {
+        "pageid": 24517,
+        "ns": 0,
+        "title": "Plutarch",
+        "original": {
+          "source": "https://upload.wikimedia.org/wikipedia/commons/d/dc/Portrait_of_a_philosopher%2C_maybe_Plutarch%2C_2nd_century_BC%2C_AM_Delphi%2C_0135.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original",
+          "width": 799,
+          "height": 1199
+        },
+        "pageimage": "Portrait_of_a_philosopher,_maybe_Plutarch,_2nd_century_BC,_AM_Delphi,_0135.jpg",
+        "images": [
+          {
+            "ns": 6,
+            "title": "File:Commons-logo.svg"
+          },
+          {
+            "ns": 6,
+            "title": "File:Global thinking.svg"
+          },
+          {
+            "ns": 6,
+            "title": "File:Nuremberg chronicles f 111r 3.png"
+          },
+          {
+            "ns": 6,
+            "title": "File:OOjs UI icon edit-ltr-progressive.svg"
+          },
+          {
+            "ns": 6,
+            "title": "File:Plutarch and herm.jpg"
+          },
+          {
+            "ns": 6,
+            "title": "File:Plutarch of Chaeronea-03 (cropped).jpg"
+          },
+          {
+            "ns": 6,
+            "title": "File:Portrait of a philosopher, maybe Plutarch, 2nd century BC, AM Delphi, 0135.jpg"
+          },
+          {
+            "ns": 6,
+            "title": "File:Speaker Icon.svg"
+          },
+          {
+            "ns": 6,
+            "title": "File:Symbol category class.svg"
+          },
+          {
+            "ns": 6,
+            "title": "File:Symbol portal class.svg"
+          },
+          {
+            "ns": 6,
+            "title": "File:Wikiquote-logo.svg"
+          },
+          {
+            "ns": 6,
+            "title": "File:Wikisource-logo.svg"
+          }
+        ],
+        "pageprops": {
+          "page_image_free": "Portrait_of_a_philosopher,_maybe_Plutarch,_2nd_century_BC,_AM_Delphi,_0135.jpg",
+          "wikibase-shortdesc": "Greek philosopher and historian",
+          "wikibase_item": "Q41523"
+        }
+      },
+      {
+        "pageid": 27903,
+        "ns": 0,
+        "title": "Sextus Julius Africanus",
+        "images": [
+          {
+            "ns": 6,
+            "title": "File:OOjs UI icon edit-ltr-progressive.svg"
+          },
+          {
+            "ns": 6,
+            "title": "File:Speaker Icon.svg"
+          },
+          {
+            "ns": 6,
+            "title": "File:Wikisource-logo.svg"
+          }
+        ],
+        "pageprops": {
+          "defaultsort": "Julius Africanus, Sextus",
+          "wikibase-shortdesc": "Greco-Roman Christian traveller and historian",
+          "wikibase_item": "Q317014"
+        }
+      },
+      {
+        "pageid": 28329,
+        "ns": 0,
+        "title": "Solomon",
+        "original": {
+          "source": "https://upload.wikimedia.org/wikipedia/commons/6/65/Simeon_Solomon%2C_King_Solomon%2C_1872_or_1874%2C_NGA_76152_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original",
+          "width": 1543,
+          "height": 2055
+        },
+        "pageimage": "Simeon_Solomon,_King_Solomon,_1872_or_1874,_NGA_76152_(cropped).jpg",
+        "images": [
+          {
+            "ns": 6,
+            "title": "File:'The Visit of the Queen of Sheba to King Solomon', oil on canvas painting by Edward Poynter, 1890, Art Gallery of New South Wales.jpg"
+          },
+          {
+            "ns": 6,
+            "title": "File:046CupolaSPietro.jpg"
+          },
+          {
+            "ns": 6,
+            "title": "File:Berlin, Pertsch Persisch 1016 fol 167v Sulayman's court.jpg"
+          },
+          {
+            "ns": 6,
+            "title": "File:Commons-logo.svg"
+          },
+          {
+            "ns": 6,
+            "title": "File:Cornelis de Vos - The Anointing of Solomon.jpg"
+          },
+          {
+            "ns": 6,
+            "title": "File:De afgoderij van koning Salomo Rijksmuseum SK-A-757.jpeg"
+          },
+          {
+            "ns": 6,
+            "title": "File:Edit-clear.svg"
+          },
+          {
+            "ns": 6,
+            "title": "File:Giovanni Venanzi di Pesaro König Salomons Götzendienst.jpg"
+          },
+          {
+            "ns": 6,
+            "title": "File:Gloriole blur.svg"
+          },
+          {
+            "ns": 6,
+            "title": "File:Ionicons duplicate-sharp.svg"
+          },
+          {
+            "ns": 6,
+            "title": "File:Isaak Asknaziy 02.jpeg"
+          },
+          {
+            "ns": 6,
+            "title": "File:Judgement of Solomon (89400418).jpg"
+          },
+          {
+            "ns": 6,
+            "title": "File:King-Solomon-Russian-icon.jpg"
+          },
+          {
+            "ns": 6,
+            "title": "File:King Solomon in Old Age higher-contrast version.png"
+          },
+          {
+            "ns": 6,
+            "title": "File:Kingdoms of Israel and Judah map 830.svg"
+          },
+          {
+            "ns": 6,
+            "title": "File:Luca Giordano - Dream of Solomon - WGA09004.jpg"
+          },
+          {
+            "ns": 6,
+            "title": "File:Mausoleum of Nabi Suleman.JPG"
+          },
+          {
+            "ns": 6,
+            "title": "File:OOjs UI icon edit-ltr-progressive.svg"
+          },
+          {
+            "ns": 6,
+            "title": "File:PD-icon.svg"
+          },
+          {
+            "ns": 6,
+            "title": "File:Question book-new.svg"
+          },
+          {
+            "ns": 6,
+            "title": "File:Semi-protection-shackle.svg"
+          },
+          {
+            "ns": 6,
+            "title": "File:Simeon Solomon, King Solomon, 1872 or 1874, NGA 76152 (cropped).jpg"
+          },
+          {
+            "ns": 6,
+            "title": "File:Solomon's Wealth and Wisdom.jpg"
+          },
+          {
+            "ns": 6,
+            "title": "File:Solomon and the Plan for the Temple.jpg"
+          },
+          {
+            "ns": 6,
+            "title": "File:Solomon reciving envoys of the tributary nations.jpg"
+          },
+          {
+            "ns": 6,
+            "title": "File:SolomonsTemple.png"
+          },
+          {
+            "ns": 6,
+            "title": "File:Tissot Solomon Dedicates the Temple at Jerusalem.jpg"
+          },
+          {
+            "ns": 6,
+            "title": "File:Wikiquote-logo.svg"
+          },
+          {
+            "ns": 6,
+            "title": "File:Wikisource-logo.svg"
+          },
+          {
+            "ns": 6,
+            "title": "File:Wurzach Pfarrkirche Decke Westteil.jpg"
+          }
+        ],
+        "pageprops": {
+          "page_image_free": "Simeon_Solomon,_King_Solomon,_1872_or_1874,_NGA_76152_(cropped).jpg",
+          "wikibase-shortdesc": "Biblical monarch of ancient Israel",
+          "wikibase_item": "Q37085"
+        }
+      },
+      {
+        "pageid": 31204,
+        "ns": 0,
+        "title": "Tertullian",
+        "original": {
+          "source": "https://upload.wikimedia.org/wikipedia/commons/7/73/Tertullian2.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original",
+          "width": 1670,
+          "height": 2041
+        },
+        "pageimage": "Tertullian2.png",
+        "images": [
+          {
+            "ns": 6,
+            "title": "File:046CupolaSPietro.jpg"
+          },
+          {
+            "ns": 6,
+            "title": "File:Ambox important.svg"
+          },
+          {
+            "ns": 6,
+            "title": "File:Commons-logo.svg"
+          },
+          {
+            "ns": 6,
+            "title": "File:Duns Scotus Painting (cropped).jpg"
+          },
+          {
+            "ns": 6,
+            "title": "File:Edit-clear.svg"
+          },
+          {
+            "ns": 6,
+            "title": "File:Emblem of the Papacy SE.svg"
+          },
+          {
+            "ns": 6,
+            "title": "File:Flag of Vatican City (2023–present).svg"
+          },
+          {
+            "ns": 6,
+            "title": "File:Flag of the Vatican City.svg"
+          },
+          {
+            "ns": 6,
+            "title": "File:OOjs UI icon edit-ltr-progressive.svg"
+          },
+          {
+            "ns": 6,
+            "title": "File:Saint Augustine by Philippe de Champaigne (3x4 cropped).jpg"
+          },
+          {
+            "ns": 6,
+            "title": "File:Septimi Florensis Tertulliani Opera.tif"
+          },
+          {
+            "ns": 6,
+            "title": "File:Socrates.png"
+          },
+          {
+            "ns": 6,
+            "title": "File:Speaker Icon.svg"
+          },
+          {
+            "ns": 6,
+            "title": "File:St-thomas-aquinasFXD.jpg"
+          },
+          {
+            "ns": 6,
+            "title": "File:Symbol category class.svg"
+          },
+          {
+            "ns": 6,
+            "title": "File:Tertullian2.png"
+          },
+          {
+            "ns": 6,
+            "title": "File:Wikiquote-logo.svg"
+          },
+          {
+            "ns": 6,
+            "title": "File:Wikisource-logo.svg"
+          }
+        ],
+        "pageprops": {
+          "page_image_free": "Tertullian2.png",
+          "wikibase-shortdesc": "Roman Christian theologian and writer (c. 155 – c. 220)",
+          "wikibase_item": "Q174929"
+        }
+      },
+      {
+        "pageid": 34155,
+        "ns": 0,
+        "title": "Xenophon",
+        "original": {
+          "source": "https://upload.wikimedia.org/wikipedia/commons/1/14/Bust_of_Xenophon.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original",
+          "width": 3264,
+          "height": 4928
+        },
+        "pageimage": "Bust_of_Xenophon.jpg",
+        "images": [
+          {
+            "ns": 6,
+            "title": "File:Ambox important.svg"
+          },
+          {
+            "ns": 6,
+            "title": "File:Bust of Xenophon.jpg"
+          },
+          {
+            "ns": 6,
+            "title": "File:Commons-logo.svg"
+          },
+          {
+            "ns": 6,
+            "title": "File:Expedition of the Ten Thousand.jpg"
+          },
+          {
+            "ns": 6,
+            "title": "File:Global thinking.svg"
+          },
+          {
+            "ns": 6,
+            "title": "File:King's Peace 387 BC.jpg"
+          },
+          {
+            "ns": 6,
+            "title": "File:OOjs UI icon edit-ltr-progressive.svg"
+          },
+          {
+            "ns": 6,
+            "title": "File:Papiri frammentari con elleniche di senofonte, PSI X 1197, oxyrhynchos 90-150 dc ca..JPG"
+          },
+          {
+            "ns": 6,
+            "title": "File:Parlament Vienna June 2006 185.jpg"
+          },
+          {
+            "ns": 6,
+            "title": "File:Persepolis carvings.JPG"
+          },
+          {
+            "ns": 6,
+            "title": "File:Speaker Icon.svg"
+          },
+          {
+            "ns": 6,
+            "title": "File:Symbol category class.svg"
+          },
+          {
+            "ns": 6,
+            "title": "File:Symbol portal class.svg"
+          },
+          {
+            "ns": 6,
+            "title": "File:Wikiquote-logo.svg"
+          },
+          {
+            "ns": 6,
+            "title": "File:Wikisource-logo.svg"
+          },
+          {
+            "ns": 6,
+            "title": "File:Xenophon Agesilaus.jpg"
+          },
+          {
+            "ns": 6,
+            "title": "File:Xenophon Anabasis.jpg"
+          },
+          {
+            "ns": 6,
+            "title": "File:Xenophon Cyropaedia.jpg"
+          },
+          {
+            "ns": 6,
+            "title": "File:Xenophon and the ten thousand hail the sea.jpg"
+          },
+          {
+            "ns": 6,
+            "title": "File:Xenophon bust.jpg"
+          },
+          {
+            "ns": 6,
+            "title": "File:Xenophon dictating his history, illustration from 'Hutchinson's History of the Nations', 1915.jpg"
+          }
+        ],
+        "pageprops": {
+          "page_image_free": "Bust_of_Xenophon.jpg",
+          "wikibase-shortdesc": "Greek philosopher, historian, and soldier (c.430–355/354 BC)",
+          "wikibase_item": "Q129772"
+        }
+      },
+      {
+        "pageid": 37899,
+        "ns": 0,
+        "title": "Cyprian",
+        "original": {
+          "source": "https://upload.wikimedia.org/wikipedia/commons/a/ae/Cyprian_von_Karthago2.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original",
+          "width": 258,
+          "height": 327
+        },
+        "pageimage": "Cyprian_von_Karthago2.jpg",
+        "images": [
+          {
+            "ns": 6,
+            "title": "File:046CupolaSPietro.jpg"
+          },
+          {
+            "ns": 6,
+            "title": "File:Commons-logo.svg"
+          },
+          {
+            "ns": 6,
+            "title": "File:Cyprian von Karthago2.jpg"
+          },
+          {
+            "ns": 6,
+            "title": "File:CyprianusReliquiar.jpg"
+          },
+          {
+            "ns": 6,
+            "title": "File:Flag of Vatican City (2023–present).svg"
+          },
+          {
+            "ns": 6,
+            "title": "File:Flag of the Vatican City.svg"
+          },
+          {
+            "ns": 6,
+            "title": "File:Gloriole blur.svg"
+          },
+          {
+            "ns": 6,
+            "title": "File:Mosaic of Saint Cyprian of Carthage from Sant'Apollinare Nuovo in Ravenna.jpg"
+          },
+          {
+            "ns": 6,
+            "title": "File:OOjs UI icon edit-ltr-progressive.svg"
+          },
+          {
+            "ns": 6,
+            "title": "File:Speaker Icon.svg"
+          },
+          {
+            "ns": 6,
+            "title": "File:Symbol category class.svg"
+          },
+          {
+            "ns": 6,
+            "title": "File:Wikiquote-logo.svg"
+          },
+          {
+            "ns": 6,
+            "title": "File:Wikisource-logo.svg"
+          }
+        ],
+        "pageprops": {
+          "page_image_free": "Cyprian_von_Karthago2.jpg",
+          "wikibase-shortdesc": "Bishop of Carthage and Christian writer (c. 210–258)",
+          "wikibase_item": "Q190240"
+        }
+      },
+      {
+        "pageid": 49407,
+        "ns": 0,
+        "title": "Pliny the Younger",
+        "original": {
+          "source": "https://upload.wikimedia.org/wikipedia/commons/0/0f/Pliny_the_Younger_and_his_Mother_at_Misenum%2C_79_A.D.%2C_by_Angelica_Kauffmann%2C_English%2C_1785%2C_oil_on_canvas_-_Princeton_University_Art_Museum_-_DSC06494_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original",
+          "width": 797,
+          "height": 1013
+        },
+        "pageimage": "Pliny_the_Younger_and_his_Mother_at_Misenum,_79_A.D.,_by_Angelica_Kauffmann,_English,_1785,_oil_on_canvas_-_Princeton_University_Art_Museum_-_DSC06494_(cropped).jpg",
+        "images": [
+          {
+            "ns": 6,
+            "title": "File:BellagiodiEst.JPG"
+          },
+          {
+            "ns": 6,
+            "title": "File:Commons-logo.svg"
+          },
+          {
+            "ns": 6,
+            "title": "File:OOjs UI icon edit-ltr-progressive.svg"
+          },
+          {
+            "ns": 6,
+            "title": "File:Pending-protection-shackle.svg"
+          },
+          {
+            "ns": 6,
+            "title": "File:Pliny the Younger's letter to Emperor Trajan concerning the Christians, read in Latin.webm"
+          },
+          {
+            "ns": 6,
+            "title": "File:Pliny the Younger and his Mother at Misenum, 79 A.D., by Angelica Kauffmann, English, 1785, oil on canvas - Princeton University Art Museum - DSC06494 (cropped).jpg"
+          },
+          {
+            "ns": 6,
+            "title": "File:Speaker Icon.svg"
+          },
+          {
+            "ns": 6,
+            "title": "File:Wikiquote-logo.svg"
+          },
+          {
+            "ns": 6,
+            "title": "File:Wikisource-logo.svg"
+          }
+        ],
+        "pageprops": {
+          "defaultsort": "Pliny the Younger",
+          "page_image_free": "Pliny_the_Younger_and_his_Mother_at_Misenum,_79_A.D.,_by_Angelica_Kauffmann,_English,_1785,_oil_on_canvas_-_Princeton_University_Art_Museum_-_DSC06494_(cropped).jpg",
+          "wikibase-shortdesc": "Roman lawyer, author and magistrate (61 – c. 113)",
+          "wikibase_item": "Q168707"
+        }
+      },
+      {
+        "pageid": 67761,
+        "ns": 0,
+        "title": "Herod the Great",
+        "images": [
+          {
+            "ns": 6,
+            "title": "File:125425 caesarea national park PikiWiki Israel.jpg"
+          },
+          {
+            "ns": 6,
+            "title": "File:Bronze coin of Herod the Star minted at Samaria.jpg"
+          },
+          {
+            "ns": 6,
+            "title": "File:Commons-logo.svg"
+          },
+          {
+            "ns": 6,
+            "title": "File:Gerard van Honthorst - Adoration of the Shepherds (1622).jpg"
+          },
+          {
+            "ns": 6,
+            "title": "File:Herod IMG 0594.JPG"
+          },
+          {
+            "ns": 6,
+            "title": "File:Herod coin.jpg"
+          },
+          {
+            "ns": 6,
+            "title": "File:Herod coin1.jpg"
+          },
+          {
+            "ns": 6,
+            "title": "File:Herodian Kingdom political map.svg"
+          },
+          {
+            "ns": 6,
+            "title": "File:Herodian Tetrarchy political map.svg"
+          },
+          {
+            "ns": 6,
+            "title": "File:Herodium from above 2.jpg"
+          },
+          {
+            "ns": 6,
+            "title": "File:Herods grave israel museum 2013 mrach by history on the map efi elian.jpg"
+          },
+          {
+            "ns": 6,
+            "title": "File:Jerusalem Modell BW 2.JPG"
+          },
+          {
+            "ns": 6,
+            "title": "File:Jerusalem Western Wall stones.jpg"
+          },
+          {
+            "ns": 6,
+            "title": "File:Kerald (Meister des Codex Egberti) 001.jpg"
+          },
+          {
+            "ns": 6,
+            "title": "File:OOjs UI icon edit-ltr-progressive.svg"
+          },
+          {
+            "ns": 6,
+            "title": "File:PD-icon.svg"
+          },
+          {
+            "ns": 6,
+            "title": "File:Question book-new.svg"
+          },
+          {
+            "ns": 6,
+            "title": "File:Semi-protection-shackle.svg"
+          },
+          {
+            "ns": 6,
+            "title": "File:Symbol category class.svg"
+          },
+          {
+            "ns": 6,
+            "title": "File:The Herods of the Bible.svg"
+          },
+          {
+            "ns": 6,
+            "title": "File:Wikidata-logo.svg"
+          },
+          {
+            "ns": 6,
+            "title": "File:Wikiquote-logo.svg"
+          },
+          {
+            "ns": 6,
+            "title": "File:Wikisource-logo.svg"
+          }
+        ],
+        "pageprops": {
+          "wikibase-shortdesc": "1st-century BCE king of Judea",
+          "wikibase_item": "Q51672"
+        }
+      },
+      {
+        "pageid": 74639,
+        "ns": 0,
+        "title": "Licinius",
+        "original": {
+          "source": "https://upload.wikimedia.org/wikipedia/commons/3/35/Bust_of_Licinius%2C_Kunsthistorisches_Museum.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original",
+          "width": 1139,
+          "height": 1715
+        },
+        "pageimage": "Bust_of_Licinius,_Kunsthistorisches_Museum.jpg",
+        "pageprops": {
+          "nomediaviewercarousel": "",
+          "page_image_free": "Bust_of_Licinius,_Kunsthistorisches_Museum.jpg",
+          "wikibase-shortdesc": "Roman emperor from 308 to 324",
+          "wikibase_item": "Q184549"
+        },
+        "images": [
+          {
+            "ns": 6,
+            "title": "File:Bust of Licinius, Kunsthistorisches Museum.jpg"
+          },
+          {
+            "ns": 6,
+            "title": "File:Cammeo “Trionfo di Licinio”.jpg"
+          },
+          {
+            "ns": 6,
+            "title": "File:Licinius I. - Münzkabinett, Berlin - 5532283.jpg"
+          },
+          {
+            "ns": 6,
+            "title": "File:Liciniuscng780671obverse.jpg"
+          },
+          {
+            "ns": 6,
+            "title": "File:Nis Plate BM.JPG"
+          },
+          {
+            "ns": 6,
+            "title": "File:OOjs UI icon edit-ltr-progressive.svg"
+          },
+          {
+            "ns": 6,
+            "title": "File:Wikisource-logo.svg"
+          }
+        ]
+      },
+      {
+        "pageid": 76953,
+        "ns": 0,
+        "title": "Maximinus Daza",
+        "original": {
+          "source": "https://upload.wikimedia.org/wikipedia/commons/4/42/MaximinusDaiaFinds.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original",
+          "width": 340,
+          "height": 340
+        },
+        "pageimage": "MaximinusDaiaFinds.jpg",
+        "pageprops": {
+          "nomediaviewercarousel": "",
+          "page_image_free": "MaximinusDaiaFinds.jpg",
+          "wikibase-shortdesc": "Roman emperor from 310 to 313",
+          "wikibase_item": "Q189095"
+        },
+        "images": [
+          {
+            "ns": 6,
+            "title": "File:Bust of Maximinus II.png"
+          },
+          {
+            "ns": 6,
+            "title": "File:MaximinusDaiaFinds.jpg"
+          },
+          {
+            "ns": 6,
+            "title": "File:Maximinus Daza hieroglyphics ver 1.png"
+          },
+          {
+            "ns": 6,
+            "title": "File:OOjs UI icon edit-ltr-progressive.svg"
+          },
+          {
+            "ns": 6,
+            "title": "File:Ubekendt, Skægget, yngre mand, tetrarch, KAS2252, Statens Museum for Kunst.jpg"
+          },
+          {
+            "ns": 6,
+            "title": "File:Wikisource-logo.svg"
+          }
+        ]
+      },
+      {
+        "pageid": 76958,
+        "ns": 0,
+        "title": "Maxentius",
+        "original": {
+          "source": "https://upload.wikimedia.org/wikipedia/commons/e/eb/Portrait_of_Maxentius_%28SK_Dresden_Hm_406%29_02.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original",
+          "width": 3312,
+          "height": 4864
+        },
+        "pageimage": "Portrait_of_Maxentius_(SK_Dresden_Hm_406)_02.jpg",
+        "pageprops": {
+          "defaultsort": "Maxentius",
+          "nomediaviewercarousel": "",
+          "page_image_free": "Portrait_of_Maxentius_(SK_Dresden_Hm_406)_02.jpg",
+          "wikibase-shortdesc": "Roman emperor from 306 to 312",
+          "wikibase_item": "Q182070"
+        },
+        "images": [
+          {
+            "ns": 6,
+            "title": "File:(Toulouse) Tête juvénile de Maxence - Musée Saint-Raymond.jpg"
+          },
+          {
+            "ns": 6,
+            "title": "File:AE follis of Maxentius.jpg"
+          },
+          {
+            "ns": 6,
+            "title": "File:Battle of Constantine and Maxentius (detail-of-fresco-in-Vatican-Stanze) c1650 by Lazzaro Baldi after Giulio Romano at the University of Edinburgh.jpg"
+          },
+          {
+            "ns": 6,
+            "title": "File:CircusCaracalla.png"
+          },
+          {
+            "ns": 6,
+            "title": "File:Coin of Maxentius, British Museum.jpg"
+          },
+          {
+            "ns": 6,
+            "title": "File:Commons-logo.svg"
+          },
+          {
+            "ns": 6,
+            "title": "File:Follis-Domitius Alexander-carthage RIC 68 (obverse).jpg"
+          },
+          {
+            "ns": 6,
+            "title": "File:Follis con Massenzio e i Dioscuri, zecca di Ostia, 309-311, RIC VI 35.jpg"
+          },
+          {
+            "ns": 6,
+            "title": "File:Lyon 5e - Musée Lugdunum - EnQuête de pouvoir - Insignes impériaux - Fers de lances.jpeg"
+          },
+          {
+            "ns": 6,
+            "title": "File:Lyon 5e - Musée Lugdunum - EnQuête de pouvoir - Insignes impériaux - Sceptre.jpeg"
+          },
+          {
+            "ns": 6,
+            "title": "File:MNR medagliere - sala D le insegne imperiali, cuspidi di lance da parata P1200224.jpg"
+          },
+          {
+            "ns": 6,
+            "title": "File:OOjs UI icon edit-ltr-progressive.svg"
+          },
+          {
+            "ns": 6,
+            "title": "File:Portrait of Gordian Africanus Pater Maxentius (53053050546).jpg"
+          },
+          {
+            "ns": 6,
+            "title": "File:Portrait of Maxentius (SK Dresden Hm 406) 02.jpg"
+          },
+          {
+            "ns": 6,
+            "title": "File:RomaBasilicaMassenzioDaPalatino.JPG"
+          },
+          {
+            "ns": 6,
+            "title": "File:Sala di costantino, battaglia di Ponte Milvio 05.jpg"
+          },
+          {
+            "ns": 6,
+            "title": "File:Statua di Massenzio come Pontefice Massimo, dalla sede del Collegio degli Augustali, Museo di Ostia.png"
+          }
+        ]
+      },
+      {
+        "pageid": 92459,
+        "ns": 0,
+        "title": "Antiochus IV Epiphanes",
+        "original": {
+          "source": "https://upload.wikimedia.org/wikipedia/commons/8/8b/Antiochus_IV_Epiphanes_-_Altes_Museum_-_Berlin_-_Germany_2017.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original",
+          "width": 2924,
+          "height": 4387
+        },
+        "pageimage": "Antiochus_IV_Epiphanes_-_Altes_Museum_-_Berlin_-_Germany_2017.jpg",
+        "pageprops": {
+          "defaultsort": "Antiochus 04 Epiphanes",
+          "page_image_free": "Antiochus_IV_Epiphanes_-_Altes_Museum_-_Berlin_-_Germany_2017.jpg",
+          "wikibase-shortdesc": "King of the Seleucid Empire from 175 to 164 BC",
+          "wikibase_item": "Q3356"
+        },
+        "images": [
+          {
+            "ns": 6,
+            "title": "File:Antiochos IV Epiphanes.jpg"
+          },
+          {
+            "ns": 6,
+            "title": "File:Antiochus IV Epiphanes - Altes Museum - Berlin - Germany 2017.jpg"
+          },
+          {
+            "ns": 6,
+            "title": "File:Chanukia.jpg"
+          },
+          {
+            "ns": 6,
+            "title": "File:Commons-logo.svg"
+          },
+          {
+            "ns": 6,
+            "title": "File:Georg Pencz - Tyrants of the Old Testament- Antiochus - 1923.398 - Cleveland Museum of Art.jpg"
+          },
+          {
+            "ns": 6,
+            "title": "File:Mina Antiochus IV.PNG"
+          },
+          {
+            "ns": 6,
+            "title": "File:Noel Halle, Antiochus Falling from His Chariot.jpg"
+          },
+          {
+            "ns": 6,
+            "title": "File:OOjs UI icon edit-ltr-progressive.svg"
+          },
+          {
+            "ns": 6,
+            "title": "File:SELEUKID KINGS of SYRIA. Antiochos IV Epiphanes. 187-175 BC.jpg"
+          },
+          {
+            "ns": 6,
+            "title": "File:Vergina Sun WIPO.svg"
+          }
+        ]
+      },
+      {
+        "pageid": 148645,
+        "ns": 0,
+        "title": "Helena, mother of Constantine I",
+        "original": {
+          "source": "https://upload.wikimedia.org/wikipedia/commons/3/3e/Elena_Colosseo_Rome_Italy.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original",
+          "width": 2887,
+          "height": 4534
+        },
+        "pageimage": "Elena_Colosseo_Rome_Italy.jpg",
+        "pageprops": {
+          "defaultsort": "Helena",
+          "page_image_free": "Elena_Colosseo_Rome_Italy.jpg",
+          "wikibase-shortdesc": "Roman empress and saint (c. 246–c. 330)",
+          "wikibase_item": "Q170164"
+        },
+        "images": [
+          {
+            "ns": 6,
+            "title": "File:046CupolaSPietro.jpg"
+          },
+          {
+            "ns": 6,
+            "title": "File:2018 Trier, Domschatzkammer, Helena-Trinkschale 2.jpg"
+          },
+          {
+            "ns": 6,
+            "title": "File:Agia Eleni Sille.jpg"
+          },
+          {
+            "ns": 6,
+            "title": "File:BnF MS Gr510 folio 440 recto - detail - Helena and the Invention of the True Cross.jpg"
+          },
+          {
+            "ns": 6,
+            "title": "File:Brosen icon constantine helena.jpg"
+          },
+          {
+            "ns": 6,
+            "title": "File:CaputSHelenae 0578a.jpg"
+          },
+          {
+            "ns": 6,
+            "title": "File:Commons-logo.svg"
+          },
+          {
+            "ns": 6,
+            "title": "File:Elena Colosseo Rome Italy.jpg"
+          },
+          {
+            "ns": 6,
+            "title": "File:Gloriole blur.svg"
+          },
+          {
+            "ns": 6,
+            "title": "File:Helena of Constantinople (Cima da Conegliano).jpg"
+          },
+          {
+            "ns": 6,
+            "title": "File:Helena tomb.jpg"
+          },
+          {
+            "ns": 6,
+            "title": "File:Lucas Cranach the Elder - Saint Helena with the Cross - Google Art Project.jpg"
+          },
+          {
+            "ns": 6,
+            "title": "File:Nuremberg chronicles f 130v 1..jpg"
+          },
+          {
+            "ns": 6,
+            "title": "File:Rare solidus of Helena, RIC VII 60.jpg"
+          },
+          {
+            "ns": 6,
+            "title": "File:Römische Goldmünze Gaudium Romanorum.jpg"
+          },
+          {
+            "ns": 6,
+            "title": "File:Saint Helena.jpg"
+          },
+          {
+            "ns": 6,
+            "title": "File:Satue of Saint Helen.jpg"
+          },
+          {
+            "ns": 6,
+            "title": "File:St Helena finding the true cross.jpg"
+          },
+          {
+            "ns": 6,
+            "title": "File:Trier fresco, 310 CE.jpg"
+          }
+        ]
+      },
+      {
+        "pageid": 161420,
+        "ns": 0,
+        "title": "Sallust",
+        "original": {
+          "source": "https://upload.wikimedia.org/wikipedia/commons/6/6b/Salluste_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original",
+          "width": 1275,
+          "height": 2294
+        },
+        "pageimage": "Salluste_(cropped).jpg",
+        "pageprops": {
+          "defaultsort": "Sallust",
+          "page_image_free": "Salluste_(cropped).jpg",
+          "wikibase-shortdesc": "Roman historian and politician (86–35 BC)",
+          "wikibase_item": "Q7170"
+        },
+        "images": [
+          {
+            "ns": 6,
+            "title": "File:Commons-logo.svg"
+          },
+          {
+            "ns": 6,
+            "title": "File:Houghton MS Richardson 17 - Sallust manuscript, ca. 1490, f51.jpg"
+          },
+          {
+            "ns": 6,
+            "title": "File:LL-Q1860 (eng)-Sumxr-Sallust.wav"
+          },
+          {
+            "ns": 6,
+            "title": "File:Laquila Piazza Palazzo Monumento Gaio Sallustio Crispo0001.jpg"
+          },
+          {
+            "ns": 6,
+            "title": "File:Medaglione contorniato di sallustio con busto.JPG"
+          },
+          {
+            "ns": 6,
+            "title": "File:OOjs UI icon edit-ltr-progressive.svg"
+          },
+          {
+            "ns": 6,
+            "title": "File:P vip.svg"
+          },
+          {
+            "ns": 6,
+            "title": "File:Piranesi-10047.jpg"
+          },
+          {
+            "ns": 6,
+            "title": "File:SPQRomani.svg"
+          },
+          {
+            "ns": 6,
+            "title": "File:Salluste (cropped).jpg"
+          },
+          {
+            "ns": 6,
+            "title": "File:Speaker Icon.svg"
+          },
+          {
+            "ns": 6,
+            "title": "File:Wikiquote-logo.svg"
+          },
+          {
+            "ns": 6,
+            "title": "File:Wikisource-logo.svg"
+          }
+        ]
+      },
+      {
+        "pageid": 168093,
+        "ns": 0,
+        "title": "Severus II",
+        "original": {
+          "source": "https://upload.wikimedia.org/wikipedia/commons/f/f6/Gold_Aureus_of_Severus_II_%28MANTIS%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original",
+          "width": 2254,
+          "height": 2204
+        },
+        "pageimage": "Gold_Aureus_of_Severus_II_(MANTIS).jpg",
+        "pageprops": {
+          "defaultsort": "Severus, Flavius Valerius",
+          "nomediaviewercarousel": "",
+          "page_image_free": "Gold_Aureus_of_Severus_II_(MANTIS).jpg",
+          "wikibase-shortdesc": "Roman emperor from 306 to 307",
+          "wikibase_item": "Q46814"
+        },
+        "images": [
+          {
+            "ns": 6,
+            "title": "File:Commons-logo.svg"
+          },
+          {
+            "ns": 6,
+            "title": "File:Gold Aureus of Severus II (MANTIS).jpg"
+          },
+          {
+            "ns": 6,
+            "title": "File:OOjs UI icon edit-ltr-progressive.svg"
+          },
+          {
+            "ns": 6,
+            "title": "File:Severus II Aureus Joanneum.jpg"
+          },
+          {
+            "ns": 6,
+            "title": "File:Wikisource-logo.svg"
+          }
+        ]
+      },
+      {
+        "pageid": 237109,
+        "ns": 0,
+        "title": "Crispus",
+        "original": {
+          "source": "https://upload.wikimedia.org/wikipedia/commons/0/02/INC-1822-a_%D0%A1%D0%BE%D0%BB%D0%B8%D0%B4_%D0%9A%D1%80%D0%B8%D1%81%D0%BF_%D1%86%D0%B5%D0%B7%D0%B0%D1%80%D1%8C_%D0%BE%D0%BA._317_%D0%B3._%28%D0%B0%D0%B2%D0%B5%D1%80%D1%81%29.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original",
+          "width": 513,
+          "height": 510
+        },
+        "pageimage": "INC-1822-a_Солид_Крисп_цезарь_ок._317_г._(аверс).png",
+        "pageprops": {
+          "nomediaviewercarousel": "",
+          "page_image_free": "INC-1822-a_Солид_Крисп_цезарь_ок._317_г._(аверс).png",
+          "wikibase-shortdesc": "Roman caesar from 317 to 326",
+          "wikibase_item": "Q311646"
+        },
+        "images": [
+          {
+            "ns": 6,
+            "title": "File:Commons-logo.svg"
+          },
+          {
+            "ns": 6,
+            "title": "File:Crispuscng1005obverse.jpg"
+          },
+          {
+            "ns": 6,
+            "title": "File:INC-1822-a Солид Крисп цезарь ок. 317 г. (аверс).png"
+          },
+          {
+            "ns": 6,
+            "title": "File:INC-1822-r Солид Крисп цезарь ок. 317 г. (реверс).png"
+          },
+          {
+            "ns": 6,
+            "title": "File:LL-Q1860 (eng)-Sumxr-Crispus.wav"
+          },
+          {
+            "ns": 6,
+            "title": "File:OOjs UI icon edit-ltr-progressive.svg"
+          },
+          {
+            "ns": 6,
+            "title": "File:Question book-new.svg"
+          }
+        ]
+      },
+      {
+        "pageid": 315098,
+        "ns": 0,
+        "title": "Theophilus of Antioch",
+        "original": {
+          "source": "https://upload.wikimedia.org/wikipedia/commons/1/16/Theophilus_Antiochenus.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original",
+          "width": 3091,
+          "height": 4300
+        },
+        "pageimage": "Theophilus_Antiochenus.png",
+        "pageprops": {
+          "defaultsort": "Theophilus of Antioch",
+          "page_image_free": "Theophilus_Antiochenus.png",
+          "wikibase-shortdesc": "Patriarch of Antioch from c. 169 to c. 183",
+          "wikibase_item": "Q220787"
+        },
+        "images": [
+          {
+            "ns": 6,
+            "title": "File:046CupolaSPietro.jpg"
+          },
+          {
+            "ns": 6,
+            "title": "File:Christ Pantocrator mosaic from Hagia Sophia 2744 x 2900 pixels 3.1 MB.jpg"
+          },
+          {
+            "ns": 6,
+            "title": "File:Flag of Turkey.svg"
+          },
+          {
+            "ns": 6,
+            "title": "File:Gloriole blur.svg"
+          },
+          {
+            "ns": 6,
+            "title": "File:OOjs UI icon edit-ltr-progressive.svg"
+          },
+          {
+            "ns": 6,
+            "title": "File:P christianity.svg"
+          },
+          {
+            "ns": 6,
+            "title": "File:P vip.svg"
+          },
+          {
+            "ns": 6,
+            "title": "File:Theophilus Antiochenus.png"
+          },
+          {
+            "ns": 6,
+            "title": "File:TheophilusofAntioch.png"
+          },
+          {
+            "ns": 6,
+            "title": "File:Wikisource-logo.svg"
+          }
+        ]
+      },
+      {
+        "pageid": 794399,
+        "ns": 0,
+        "title": "Porphyry of Tyre",
+        "original": {
+          "source": "https://upload.wikimedia.org/wikipedia/commons/b/b6/Portrait_of_Porphyry_of_Tyre_from_Les_vrais_pourtraits_et_vies_des_hommes_illustres_grecz%2C_latins_et_payens.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original",
+          "width": 1687,
+          "height": 2041
+        },
+        "pageimage": "Portrait_of_Porphyry_of_Tyre_from_Les_vrais_pourtraits_et_vies_des_hommes_illustres_grecz,_latins_et_payens.jpg",
+        "pageprops": {
+          "defaultsort": "Porphyry",
+          "page_image_free": "Portrait_of_Porphyry_of_Tyre_from_Les_vrais_pourtraits_et_vies_des_hommes_illustres_grecz,_latins_et_payens.jpg",
+          "wikibase-shortdesc": "3rd-century Phoenician Neoplatonist philosopher",
+          "wikibase_item": "Q203445"
+        },
+        "images": [
+          {
+            "ns": 6,
+            "title": "File:AverroesAndPorphyry.JPG"
+          },
+          {
+            "ns": 6,
+            "title": "File:Commons-logo.svg"
+          },
+          {
+            "ns": 6,
+            "title": "File:OOjs UI icon edit-ltr-progressive.svg"
+          },
+          {
+            "ns": 6,
+            "title": "File:Parthenon from west.jpg"
+          },
+          {
+            "ns": 6,
+            "title": "File:Pending-protection-shackle.svg"
+          },
+          {
+            "ns": 6,
+            "title": "File:Plotin.jpg"
+          },
+          {
+            "ns": 6,
+            "title": "File:Porphyrian Trees Gallery small.png"
+          },
+          {
+            "ns": 6,
+            "title": "File:Porphyrios Sucevita Fresco.jpg"
+          },
+          {
+            "ns": 6,
+            "title": "File:Portrait of Porphyry of Tyre from Les vrais pourtraits et vies des hommes illustres grecz, latins et payens.jpg"
+          },
+          {
+            "ns": 6,
+            "title": "File:Socrates.png"
+          },
+          {
+            "ns": 6,
+            "title": "File:Speaker Icon.svg"
+          },
+          {
+            "ns": 6,
+            "title": "File:Square root of x.svg"
+          },
+          {
+            "ns": 6,
+            "title": "File:Wikiquote-logo.svg"
+          },
+          {
+            "ns": 6,
+            "title": "File:Wikisource-logo.svg"
+          }
+        ]
+      },
+      {
+        "pageid": 1095706,
+        "ns": 0,
+        "title": "Jesus",
+        "original": {
+          "source": "https://upload.wikimedia.org/wikipedia/commons/3/3b/Spas_vsederzhitel_sinay_%28cropped1%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original",
+          "width": 1866,
+          "height": 3626
+        },
+        "pageimage": "Spas_vsederzhitel_sinay_(cropped1).jpg",
+        "pageprops": {
+          "page_image_free": "Spas_vsederzhitel_sinay_(cropped1).jpg",
+          "toc": "",
+          "wikibase-badge-Q17437796": "",
+          "wikibase-shortdesc": "First-century Jewish preacher and religious leader",
+          "wikibase_item": "Q302"
+        },
+        "images": [
+          {
+            "ns": 6,
+            "title": "File:046CupolaSPietro.jpg"
+          },
+          {
+            "ns": 6,
+            "title": "File:Alexander Ivanov - Christ's Appearance to Mary Magdalene after the Resurrection - Google Art Project.jpg"
+          },
+          {
+            "ns": 6,
+            "title": "File:Allah-green.svg"
+          },
+          {
+            "ns": 6,
+            "title": "File:Ary Scheffer - The Temptation of Christ (1854).jpg"
+          },
+          {
+            "ns": 6,
+            "title": "File:Bellini-circumcision-NG1455-fm.jpg"
+          },
+          {
+            "ns": 6,
+            "title": "File:Berlin, Pertsch Persisch 1016 fol 207v execution of Isa-like man.jpg"
+          },
+          {
+            "ns": 6,
+            "title": "File:Bible.malmesbury.arp.jpg"
+          },
+          {
+            "ns": 6,
+            "title": "File:Bloch-SermonOnTheMount.jpg"
+          },
+          {
+            "ns": 6,
+            "title": "File:Brooklyn Museum - The Exhortation to the Apostles (Recommandation aux apôtres) - James Tissot.jpg"
+          },
+          {
+            "ns": 6,
+            "title": "File:Caravaggio - The Taking of Christ restored.jpg"
+          },
+          {
+            "ns": 6,
+            "title": "File:Chambers 1908 Monstrance.png"
+          },
+          {
+            "ns": 6,
+            "title": "File:Chester Beatty T 414 fol 102v Isa ascends to heaven.jpg"
+          },
+          {
+            "ns": 6,
+            "title": "File:Christ Healing the Paralytic - Dura-Europos circa 232.jpg"
+          },
+          {
+            "ns": 6,
+            "title": "File:Christ cleans leper man.jpg"
+          },
+          {
+            "ns": 6,
+            "title": "File:Christ with beard.jpg"
+          },
+          {
+            "ns": 6,
+            "title": "File:Christian cross.svg"
+          },
+          {
+            "ns": 6,
+            "title": "File:Commons-logo.svg"
+          },
+          {
+            "ns": 6,
+            "title": "File:CompositeJesus.JPG"
+          },
+          {
+            "ns": 6,
+            "title": "File:Cristo crucificado.jpg"
+          },
+          {
+            "ns": 6,
+            "title": "File:Cscr-featured.svg"
+          },
+          {
+            "ns": 6,
+            "title": "File:Der-Auferstandene 1558.jpg"
+          },
+          {
+            "ns": 6,
+            "title": "File:Dublin, Chester Beatty Ms Papyrus 45 BP I ff.13-14 Luke 11.50-12.12; 12.18-37; 12.42-13.1; 13.jpg"
+          },
+          {
+            "ns": 6,
+            "title": "File:Ecce homo by Antonio Ciseri (1).jpg"
+          },
+          {
+            "ns": 6,
+            "title": "File:El bautismo de Jesús, por José Ferraz de Almeida Júnior.jpg"
+          },
+          {
+            "ns": 6,
+            "title": "File:Flavius Josephus 1582 by Froben.jpg"
+          },
+          {
+            "ns": 6,
+            "title": "File:Florence, Biblioteca Medicea Laurenziana Ms Codex Laurentianus Mediceus 68 II fol. 38r Tacitus, Annales, xv 44.3–8 Mention of Christians.jpg"
+          },
+          {
+            "ns": 6,
+            "title": "File:GaudenzioFerrari StorieCristo Varallo2.jpg"
+          },
+          {
+            "ns": 6,
+            "title": "File:Gerard van Honthorst - Adoration of the Shepherds (1622).jpg"
+          },
+          {
+            "ns": 6,
+            "title": "File:Gnome-mime-sound-openclipart.svg"
+          },
+          {
+            "ns": 6,
+            "title": "File:Good shepherd 02b close slightly improved.jpg"
+          },
+          {
+            "ns": 6,
+            "title": "File:Gérôme - L'entrée du Christ à Jérusalem - cadre.jpg"
+          },
+          {
+            "ns": 6,
+            "title": "File:Hoffman-ChristAndTheRichYoungRuler.jpg"
+          },
+          {
+            "ns": 6,
+            "title": "File:JesusYeshua.svg"
+          },
+          {
+            "ns": 6,
+            "title": "File:JesusYeshua2.svg"
+          },
+          {
+            "ns": 6,
+            "title": "File:Jesus Image on a Manichaean Temple Banner.jpg"
+          },
+          {
+            "ns": 6,
+            "title": "File:Jesus Spoken Version.ogg"
+          },
+          {
+            "ns": 6,
+            "title": "File:Maryamat the palm tree with baby Isa.jpg"
+          },
+          {
+            "ns": 6,
+            "title": "File:Mielno witraz Przemienienie Chrystusa 2.jpg"
+          },
+          {
+            "ns": 6,
+            "title": "File:OOjs UI icon edit-ltr-progressive.svg"
+          },
+          {
+            "ns": 6,
+            "title": "File:P christianity.svg"
+          },
+          {
+            "ns": 6,
+            "title": "File:P religion world.svg"
+          },
+          {
+            "ns": 6,
+            "title": "File:P vip.svg"
+          },
+          {
+            "ns": 6,
+            "title": "File:Pompeo Batoni 003.jpg"
+          },
+          {
+            "ns": 6,
+            "title": "File:Semi-protection-shackle.svg"
+          },
+          {
+            "ns": 6,
+            "title": "File:Shield-Trinity-Scutum-Fidei-English.svg"
+          },
+          {
+            "ns": 6,
+            "title": "File:Shroud of Turin 001.jpg"
+          },
+          {
+            "ns": 6,
+            "title": "File:Spas vsederzhitel sinay (cropped1).jpg"
+          },
+          {
+            "ns": 6,
+            "title": "File:Star of David.svg"
+          },
+          {
+            "ns": 6,
+            "title": "File:Symbol category class.svg"
+          },
+          {
+            "ns": 6,
+            "title": "File:Symbol portal class.svg"
+          },
+          {
+            "ns": 6,
+            "title": "File:The Liberator masthead, 1861 Jan 11.jpg"
+          },
+          {
+            "ns": 6,
+            "title": "File:The Ministry of Jesus.svg"
+          },
+          {
+            "ns": 6,
+            "title": "File:The Resurrection Beaufort arms in border (f. 131) Cropped.jpg"
+          },
+          {
+            "ns": 6,
+            "title": "File:Transfigurationbloch.jpg"
+          },
+          {
+            "ns": 6,
+            "title": "File:Vierge en oraison (Il Sassoferrato).jpg"
+          },
+          {
+            "ns": 6,
+            "title": "File:Wien- Parlament-Tacitus.jpg"
+          },
+          {
+            "ns": 6,
+            "title": "File:Wikibooks-logo.svg"
+          },
+          {
+            "ns": 6,
+            "title": "File:Wikidata-logo.svg"
+          },
+          {
+            "ns": 6,
+            "title": "File:Wikiquote-logo.svg"
+          },
+          {
+            "ns": 6,
+            "title": "File:Wikisource-logo.svg"
+          },
+          {
+            "ns": 6,
+            "title": "File:Wikiversity logo 2017.svg"
+          },
+          {
+            "ns": 6,
+            "title": "File:Wiktionary-logo-en-v2.svg"
+          },
+          {
+            "ns": 6,
+            "title": "File:William Holman Hunt - The Finding of the Saviour in the Temple - Google Art Project.jpg"
+          },
+          {
+            "ns": 6,
+            "title": "File:Última Cena - Juan de Juanes.jpg"
+          },
+          {
+            "ns": 6,
+            "title": "File:ဗတ္တိဇံ.jpg"
+          }
+        ]
+      },
+      {
+        "pageid": 3617615,
+        "ns": 0,
+        "title": "Aristides of Athens",
+        "original": {
+          "source": "https://upload.wikimedia.org/wikipedia/commons/2/23/Saint-Aristides-mural-painting-in-a-Greek-Orthodox-church.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original",
+          "width": 495,
+          "height": 614
+        },
+        "pageimage": "Saint-Aristides-mural-painting-in-a-Greek-Orthodox-church.png",
+        "pageprops": {
+          "defaultsort": "Aristides The Athenian",
+          "page_image_free": "Saint-Aristides-mural-painting-in-a-Greek-Orthodox-church.png",
+          "wikibase-shortdesc": "2nd-century Christian Greek author",
+          "wikibase_item": "Q349916"
+        },
+        "images": [
+          {
+            "ns": 6,
+            "title": "File:046CupolaSPietro.jpg"
+          },
+          {
+            "ns": 6,
+            "title": "File:Commons-logo.svg"
+          },
+          {
+            "ns": 6,
+            "title": "File:Flag of Vatican City (2023–present).svg"
+          },
+          {
+            "ns": 6,
+            "title": "File:Flag of the Vatican City.svg"
+          },
+          {
+            "ns": 6,
+            "title": "File:Gloriole blur.svg"
+          },
+          {
+            "ns": 6,
+            "title": "File:OOjs UI icon edit-ltr-progressive.svg"
+          },
+          {
+            "ns": 6,
+            "title": "File:Saint-Aristides-mural-painting-in-a-Greek-Orthodox-church.png"
+          },
+          {
+            "ns": 6,
+            "title": "File:Speaker Icon.svg"
+          }
+        ]
+      },
+      {
+        "pageid": 3775581,
+        "ns": 0,
+        "title": "Adam",
+        "original": {
+          "source": "https://upload.wikimedia.org/wikipedia/commons/d/d4/Michelangelo%2C_Creation_of_Adam_03.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original",
+          "width": 1042,
+          "height": 840
+        },
+        "pageimage": "Michelangelo,_Creation_of_Adam_03.jpg",
+        "pageprops": {
+          "defaultsort": "Adam",
+          "page_image_free": "Michelangelo,_Creation_of_Adam_03.jpg",
+          "wikibase-shortdesc": "First man according to the Abrahamic creation myth",
+          "wikibase_item": "Q70899"
+        },
+        "images": [
+          {
+            "ns": 6,
+            "title": "File:046CupolaSPietro.jpg"
+          },
+          {
+            "ns": 6,
+            "title": "File:Allah-green.svg"
+          },
+          {
+            "ns": 6,
+            "title": "File:Anastasis ou Descida de Cristo ao Limbo, 1626, Vicente Carducho, Igreja de São Domingos de Benfica, 01.jpg"
+          },
+          {
+            "ns": 6,
+            "title": "File:Angel of the Divine Presence Bringing Eve to Adam (The Creation of Eve- \"And She Shall be Called Woman) (recto); Sketch for the same (verso) MET DP805381.jpg"
+          },
+          {
+            "ns": 6,
+            "title": "File:Chora Anastasis1.jpg"
+          },
+          {
+            "ns": 6,
+            "title": "File:Commons-logo.svg"
+          },
+          {
+            "ns": 6,
+            "title": "File:Gloriole blur.svg"
+          },
+          {
+            "ns": 6,
+            "title": "File:God judging adam blake 1795.jpg"
+          },
+          {
+            "ns": 6,
+            "title": "File:Islamic Adam & Eve.jpg"
+          },
+          {
+            "ns": 6,
+            "title": "File:Lucas Cranach the Elder - Adam - Google Art Project.jpg"
+          },
+          {
+            "ns": 6,
+            "title": "File:Michelangelo, Creation of Adam 03.jpg"
+          },
+          {
+            "ns": 6,
+            "title": "File:OOjs UI icon edit-ltr-progressive.svg"
+          },
+          {
+            "ns": 6,
+            "title": "File:P christianity.svg"
+          },
+          {
+            "ns": 6,
+            "title": "File:Semi-protection-shackle.svg"
+          },
+          {
+            "ns": 6,
+            "title": "File:Star of David.svg"
+          },
+          {
+            "ns": 6,
+            "title": "File:Wikiquote-logo.svg"
+          },
+          {
+            "ns": 6,
+            "title": "File:Wikisource-logo.svg"
+          },
+          {
+            "ns": 6,
+            "title": "File:William Blake 008.jpg"
+          }
+        ]
+      },
+      {
+        "pageid": 6227451,
+        "ns": 0,
+        "title": "Amelius",
+        "pageprops": {
+          "defaultsort": "Amelius",
+          "wikibase-shortdesc": "3rd century Neoplatonist philosopher and writer",
+          "wikibase_item": "Q248624"
+        },
+        "images": [
+          {
+            "ns": 6,
+            "title": "File:OOjs UI icon edit-ltr-progressive.svg"
+          }
+        ]
+      },
+      {
+        "pageid": 31665644,
+        "ns": 0,
+        "title": "Saint Peter",
+        "original": {
+          "source": "https://upload.wikimedia.org/wikipedia/commons/7/75/St._Peter_%28portrayed_as_a_Roman_consul%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original",
+          "width": 593,
+          "height": 1024
+        },
+        "pageimage": "St._Peter_(portrayed_as_a_Roman_consul).jpg",
+        "pageprops": {
+          "defaultsort": "Peter, Saint",
+          "page_image_free": "St._Peter_(portrayed_as_a_Roman_consul).jpg",
+          "wikibase-shortdesc": "Apostle of Jesus",
+          "wikibase_item": "Q33923"
+        },
+        "images": [
+          {
+            "ns": 6,
+            "title": "File:046CupolaSPietro.jpg"
+          },
+          {
+            "ns": 6,
+            "title": "File:15 Jacopo di Cione Polyptych San Pier Maggiore, detail of predella. 1370-71 Philadelphia (PA) , Philadelphia Museum of Art.jpg"
+          },
+          {
+            "ns": 6,
+            "title": "File:Altar piece of Taulumäki Church by Eero Järnefelt.JPG"
+          },
+          {
+            "ns": 6,
+            "title": "File:Ancient capernum is.JPG"
+          },
+          {
+            "ns": 6,
+            "title": "File:Ancient icon of sts peter & paul.jpg"
+          },
+          {
+            "ns": 6,
+            "title": "File:Anonymous - Miraculous Draught of Fish.jpg"
+          },
+          {
+            "ns": 6,
+            "title": "File:Antonio de Bellis - La liberazione di San Pietro.jpg"
+          },
+          {
+            "ns": 6,
+            "title": "File:Apostle Peter - 13th century icon.jpeg"
+          },
+          {
+            "ns": 6,
+            "title": "File:Cavalier d'Arpino - Christ Taken Prisoner - WGA04690.jpg"
+          },
+          {
+            "ns": 6,
+            "title": "File:Chora-Kirche 2013-03-21x.jpg"
+          },
+          {
+            "ns": 6,
+            "title": "File:Church peters primacy.jpg"
+          },
+          {
+            "ns": 6,
+            "title": "File:Commons-logo.svg"
+          },
+          {
+            "ns": 6,
+            "title": "File:Coptic cross.svg"
+          },
+          {
+            "ns": 6,
+            "title": "File:Crucifixion of Saint Peter-Caravaggio (c.1600).jpg"
+          },
+          {
+            "ns": 6,
+            "title": "File:Dirck van Baburen Saint Peter.jpg"
+          },
+          {
+            "ns": 6,
+            "title": "File:Domenico Fetti - Peter's vision of a sheet with animals - Kunsthistorisches Museum Wien.jpg"
+          },
+          {
+            "ns": 6,
+            "title": "File:Domenico Fetti 007.jpg"
+          },
+          {
+            "ns": 6,
+            "title": "File:Domine, quo vadis.jpg"
+          },
+          {
+            "ns": 6,
+            "title": "File:Duccio di Buoninsegna 036.jpg"
+          },
+          {
+            "ns": 6,
+            "title": "File:El Greco - Las lágrimas de San Pedro.jpg"
+          },
+          {
+            "ns": 6,
+            "title": "File:Francesco del Cossa 017.jpg"
+          },
+          {
+            "ns": 6,
+            "title": "File:Gesupietrochiave.jpg"
+          },
+          {
+            "ns": 6,
+            "title": "File:Gloriole blur.svg"
+          },
+          {
+            "ns": 6,
+            "title": "File:Gnome-mime-sound-openclipart.svg"
+          },
+          {
+            "ns": 6,
+            "title": "File:Ionicons duplicate-sharp.svg"
+          },
+          {
+            "ns": 6,
+            "title": "File:JanStyka-SaintPeter.jpg"
+          },
+          {
+            "ns": 6,
+            "title": "File:Liberation of Saint Peter by Giovanni Lanfranco-BMA.jpg"
+          },
+          {
+            "ns": 6,
+            "title": "File:Michelangelo Merisi da Caravaggio (Milan 1571-Port' Ercole 1610) - The Calling of Saints Peter and Andrew - RCIN 402824 - Hampton Court Palace.jpg"
+          },
+          {
+            "ns": 6,
+            "title": "File:Muenster-100725-15996-Überwasserkirche-Schlüssel.jpg"
+          },
+          {
+            "ns": 6,
+            "title": "File:OOjs UI icon edit-ltr-progressive.svg"
+          },
+          {
+            "ns": 6,
+            "title": "File:P christianity.svg"
+          },
+          {
+            "ns": 6,
+            "title": "File:P history.svg"
+          },
+          {
+            "ns": 6,
+            "title": "File:P vip.svg"
+          },
+          {
+            "ns": 6,
+            "title": "File:Peter as Pope.png"
+          },
+          {
+            "ns": 6,
+            "title": "File:Peter the Apostle. Detail of the mosaic in the Basilica of San Vitale. Ravena, Italy.jpg"
+          },
+          {
+            "ns": 6,
+            "title": "File:Petrus San Giovanni in Laterano 2006-09-07.jpg"
+          },
+          {
+            "ns": 6,
+            "title": "File:PonteSantAngeloRom.jpg"
+          },
+          {
+            "ns": 6,
+            "title": "File:Pope-peter pprubens.jpg"
+          },
+          {
+            "ns": 6,
+            "title": "File:Pope Peter Pronunciation.ogg"
+          },
+          {
+            "ns": 6,
+            "title": "File:SaintPeterRelic.jpg"
+          },
+          {
+            "ns": 6,
+            "title": "File:Saint Peter Spoken Version.ogg"
+          },
+          {
+            "ns": 6,
+            "title": "File:San Pedro en lágrimas - Murillo.jpg"
+          },
+          {
+            "ns": 6,
+            "title": "File:St. Peter (portrayed as a Roman consul).jpg"
+          },
+          {
+            "ns": 6,
+            "title": "File:St Peter (Rembrandt Harmensz. van Rijn) - Nationalmuseum - 18352.tif"
+          },
+          {
+            "ns": 6,
+            "title": "File:Statua di San Pietro realizzata da Giuseppe De Fabris - Piazza di San Pietro.jpg"
+          },
+          {
+            "ns": 6,
+            "title": "File:Sv. Petr ze Slivice, Národní galerie v Praze.jpg"
+          },
+          {
+            "ns": 6,
+            "title": "File:Symbol category class.svg"
+          },
+          {
+            "ns": 6,
+            "title": "File:Symbol portal class.svg"
+          },
+          {
+            "ns": 6,
+            "title": "File:The Denial of Saint Peter-Caravaggio (1610).jpg"
+          },
+          {
+            "ns": 6,
+            "title": "File:Wikidata-logo.svg"
+          },
+          {
+            "ns": 6,
+            "title": "File:Wikiquote-logo.svg"
+          },
+          {
+            "ns": 6,
+            "title": "File:Wikisource-logo.svg"
+          }
+        ]
+      },
+      {
+        "pageid": 82263746,
+        "ns": 0,
+        "title": "Fausta",
+        "pageprops": {
+          "expectshortpage": "",
+          "wikibase-shortdesc": "Name list",
+          "wikibase_item": "Q9258184"
+        },
+        "images": [
+          {
+            "ns": 6,
+            "title": "File:WPanthroponymy.svg"
+          }
+        ]
+      }
+    ]
+  },
+  "limits": {
+    "images": 500
+  }
+}

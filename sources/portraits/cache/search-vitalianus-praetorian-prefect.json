@@ -1,0 +1,529 @@
+{
+  "person_id": "vitalianus-praetorian-prefect",
+  "query": "Vitalianus (praetorian prefect)",
+  "response": {
+    "batchcomplete": true,
+    "continue": {
+      "gsroffset": 5,
+      "continue": "gsroffset||"
+    },
+    "query": {
+      "pages": [
+        {
+          "pageid": 73050681,
+          "ns": 6,
+          "title": "File:Vitalianus Stone Nevern, Ogham and Latin inscription - Vitalianus-Stein Nevern, Ogham- u. Lateininschrift.gif",
+          "index": 1,
+          "imagerepository": "local",
+          "imageinfo": [
+            {
+              "size": 13308,
+              "width": 158,
+              "height": 450,
+              "thumburl": "https://upload.wikimedia.org/wikipedia/commons/6/62/Vitalianus_Stone_Nevern%2C_Ogham_and_Latin_inscription_-_Vitalianus-Stein_Nevern%2C_Ogham-_u._Lateininschrift.gif?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+              "thumbwidth": 400,
+              "thumbheight": 1139,
+              "thumbattribs": {
+                "src": "https://upload.wikimedia.org/wikipedia/commons/6/62/Vitalianus_Stone_Nevern%2C_Ogham_and_Latin_inscription_-_Vitalianus-Stein_Nevern%2C_Ogham-_u._Lateininschrift.gif?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+                "decoding": "async",
+                "loading": "lazy",
+                "width": 400,
+                "height": 1139
+              },
+              "url": "https://upload.wikimedia.org/wikipedia/commons/6/62/Vitalianus_Stone_Nevern%2C_Ogham_and_Latin_inscription_-_Vitalianus-Stein_Nevern%2C_Ogham-_u._Lateininschrift.gif?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+              "descriptionurl": "https://commons.wikimedia.org/wiki/File:Vitalianus_Stone_Nevern,_Ogham_and_Latin_inscription_-_Vitalianus-Stein_Nevern,_Ogham-_u._Lateininschrift.gif",
+              "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=73050681",
+              "extmetadata": {
+                "DateTime": {
+                  "value": "2018-09-25 14:49:12",
+                  "source": "mediawiki-metadata",
+                  "hidden": ""
+                },
+                "ObjectName": {
+                  "value": "Vitalianus Stone Nevern, Ogham and Latin inscription - Vitalianus-Stein Nevern, Ogham- u. Lateininschrift",
+                  "source": "mediawiki-metadata"
+                },
+                "CommonsMetadataExtension": {
+                  "value": 1.2,
+                  "source": "extension",
+                  "hidden": ""
+                },
+                "Categories": {
+                  "value": "PD ineligible|Vitalianus Stone, Nevern|Template Unknown (author)|Ogham stones in Wales",
+                  "source": "commons-categories",
+                  "hidden": ""
+                },
+                "Assessments": {
+                  "value": "",
+                  "source": "commons-categories",
+                  "hidden": ""
+                },
+                "ImageDescription": {
+                  "value": "Drawing of both inscriptions (<a href=\"https://en.wikipedia.org/wiki/Ogham_inscription\" class=\"extiw\" title=\"en:Ogham inscription\">Ogham</a> and <a href=\"https://en.wikipedia.org/wiki/Latin_Alphabet\" class=\"extiw\" title=\"en:Latin Alphabet\">Latin</a>) of the <a rel=\"nofollow\" class=\"external text\" href=\"https://www.vortigernstudies.org.uk/artgra/nevern.htm\">Vitalianus Stone</a>, also called Vitalinus Stone and <a rel=\"nofollow\" class=\"external text\" href=\"http://babelstone.blogspot.com/2010/03/ogham-stones-of-wales.html\">Nevern Stone II</a>. The Vitalianus Stone is located in the St Brynach’s Church <a href=\"https://en.wikipedia.org/wiki/Nevern\" class=\"extiw\" title=\"en:Nevern\">Nevern</a>, <a href=\"https://en.wikipedia.org/wiki/Pembrokeshire\" class=\"extiw\" title=\"en:Pembrokeshire\">Pembrokeshire</a>, <a href=\"https://en.wikipedia.org/wiki/Wales\" class=\"extiw\" title=\"en:Wales\">Wales</a>.",
+                  "source": "commons-desc-page"
+                },
+                "DateTimeOriginal": {
+                  "value": "2018-09-25",
+                  "source": "commons-desc-page"
+                },
+                "Credit": {
+                  "value": "<a rel=\"nofollow\" class=\"external free\" href=\"http://babelstone.blogspot.com/2010/03/ogham-stones-of-wales.html\">http://babelstone.blogspot.com/2010/03/ogham-stones-of-wales.html</a>",
+                  "source": "commons-desc-page"
+                },
+                "Artist": {
+                  "value": "Unknown author<span style=\"display: none;\">Unknown author</span>",
+                  "source": "commons-desc-page"
+                },
+                "LicenseShortName": {
+                  "value": "Public domain",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "UsageTerms": {
+                  "value": "Public domain",
+                  "source": "commons-desc-page"
+                },
+                "AttributionRequired": {
+                  "value": "false",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "Copyrighted": {
+                  "value": "False",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "Restrictions": {
+                  "value": "",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "License": {
+                  "value": "pd",
+                  "source": "commons-templates",
+                  "hidden": ""
+                }
+              }
+            }
+          ]
+        },
+        {
+          "pageid": 84760285,
+          "ns": 6,
+          "title": "File:Paus Vitalianus Vitalianus (titel op object) Liber Chronicarum (serietitel), RP-P-2016-49-60-10.jpg",
+          "index": 5,
+          "imagerepository": "local",
+          "imageinfo": [
+            {
+              "size": 460405,
+              "width": 1576,
+              "height": 2008,
+              "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3f/Paus_Vitalianus_Vitalianus_%28titel_op_object%29_Liber_Chronicarum_%28serietitel%29%2C_RP-P-2016-49-60-10.jpg/500px-Paus_Vitalianus_Vitalianus_%28titel_op_object%29_Liber_Chronicarum_%28serietitel%29%2C_RP-P-2016-49-60-10.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+              "thumbwidth": 400,
+              "thumbheight": 510,
+              "responsiveUrls": {
+                "2": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3f/Paus_Vitalianus_Vitalianus_%28titel_op_object%29_Liber_Chronicarum_%28serietitel%29%2C_RP-P-2016-49-60-10.jpg/960px-Paus_Vitalianus_Vitalianus_%28titel_op_object%29_Liber_Chronicarum_%28serietitel%29%2C_RP-P-2016-49-60-10.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+              },
+              "thumbattribs": {
+                "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3f/Paus_Vitalianus_Vitalianus_%28titel_op_object%29_Liber_Chronicarum_%28serietitel%29%2C_RP-P-2016-49-60-10.jpg/500px-Paus_Vitalianus_Vitalianus_%28titel_op_object%29_Liber_Chronicarum_%28serietitel%29%2C_RP-P-2016-49-60-10.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+                "decoding": "async",
+                "loading": "lazy",
+                "width": 400,
+                "height": 510,
+                "srcset": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3f/Paus_Vitalianus_Vitalianus_%28titel_op_object%29_Liber_Chronicarum_%28serietitel%29%2C_RP-P-2016-49-60-10.jpg/960px-Paus_Vitalianus_Vitalianus_%28titel_op_object%29_Liber_Chronicarum_%28serietitel%29%2C_RP-P-2016-49-60-10.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail 2x"
+              },
+              "url": "https://upload.wikimedia.org/wikipedia/commons/3/3f/Paus_Vitalianus_Vitalianus_%28titel_op_object%29_Liber_Chronicarum_%28serietitel%29%2C_RP-P-2016-49-60-10.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+              "descriptionurl": "https://commons.wikimedia.org/wiki/File:Paus_Vitalianus_Vitalianus_(titel_op_object)_Liber_Chronicarum_(serietitel),_RP-P-2016-49-60-10.jpg",
+              "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=84760285",
+              "extmetadata": {
+                "DateTime": {
+                  "value": "2022-01-06 06:32:49",
+                  "source": "mediawiki-metadata",
+                  "hidden": ""
+                },
+                "ObjectName": {
+                  "value": "Paus Vitalianus Vitalianus (titel op object) Liber Chronicarum (serietitel), RP-P-2016-49-60-10",
+                  "source": "mediawiki-metadata"
+                },
+                "CommonsMetadataExtension": {
+                  "value": 1.2,
+                  "source": "extension",
+                  "hidden": ""
+                },
+                "Categories": {
+                  "value": "CC-Zero|Images with extracted images|Portrait engravings of Vitalianus|Popes in the Nuremberg Chronicle|Liber Chronicarum, popes",
+                  "source": "commons-categories",
+                  "hidden": ""
+                },
+                "Assessments": {
+                  "value": "",
+                  "source": "commons-categories",
+                  "hidden": ""
+                },
+                "ImageDescription": {
+                  "value": "<br><br><big><b>Identificatie</b></big><br><b>Titel(s): </b>Paus Vitalianus. Vitalianus (titel op object). Liber Chronicarum (serietitel)<br><b>Objecttype:</b> prent boekillustratie albumblad <br><b>Objectnummer:</b> RP-P-2016-49-60-10<br><b>Opschriften / Merken:</b> opschrift, rechtsboven, geschreven met pen: ‘52’<br><b>Omschrijving:</b> Een bloemkelk met een paus. Hij draagt een tiara en heeft een staf met een dubbel kruis in zijn handen. De voorstelling is onderdeel van de opeenvolging pausen in de Liber Chronicarum. De tekst identificeert de man als Vitalianus. De prent maakt deel uit van een album.<br><br><big><b>Vervaardiging</b></big><br><b>Vervaardiger:</b> prentmaker: Michel Wolgemut (atelier van), prentmaker: Wilhelm Pleydenwurff (atelier van)<br><b>Plaats vervaardiging:</b> Neurenberg<br><b>Datering:</b> 1493<br><b>Fysieke kenmerken:</b> houtsnede geplakt op albumblad; tekst in boekdruk; verso met houtsnede<br><b>Materiaal:</b> papier <br><b>Techniek:</b> boekdruk / houtsnede / plakken<br><b>Afmetingen:</b> prent: h 73 mm × b 57 mm<br><br><big><b>Toelichting</b></big><br>De houtsnede wordt herhaaldelijk gebruikt als boekillustratie in de Liber Chronicarum (of Neurenbergkroniek) van Hartmann Schedel, verschenen in het Latijn en Duits in 1493. Zie de Latijnse uitgave, folio 153v.<br><br><big><b>Onderwerp</b></big><br><b>Wat: </b>pope<br><b>Wie:</b> Vitalianus<br><br><big><b>Verwerving en rechten</b></big><br><b>Verwerving:</b> onbekend 1874<br><b>Copyright:</b> Publiek domein",
+                  "source": "commons-desc-page"
+                },
+                "DateTimeOriginal": {
+                  "value": "1493",
+                  "source": "commons-desc-page"
+                },
+                "Credit": {
+                  "value": "<a rel=\"nofollow\" class=\"external free\" href=\"https://hdl.handle.net/10934/RM0001.COLLECT.613325\">https://hdl.handle.net/10934/RM0001.COLLECT.613325</a>",
+                  "source": "commons-desc-page"
+                },
+                "Artist": {
+                  "value": "Rijksmuseum",
+                  "source": "commons-desc-page"
+                },
+                "LicenseShortName": {
+                  "value": "CC0",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "UsageTerms": {
+                  "value": "Creative Commons Zero, Public Domain Dedication",
+                  "source": "commons-desc-page"
+                },
+                "AttributionRequired": {
+                  "value": "false",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "LicenseUrl": {
+                  "value": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+                  "source": "commons-desc-page"
+                },
+                "Copyrighted": {
+                  "value": "True",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "Restrictions": {
+                  "value": "",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "License": {
+                  "value": "cc0",
+                  "source": "commons-templates",
+                  "hidden": ""
+                }
+              }
+            }
+          ]
+        },
+        {
+          "pageid": 114032572,
+          "ns": 6,
+          "title": "File:Paus Vitalianus Vitalianus (titel op object) Liber Chronicarum (serietitel), RP-P-2016-49-60-10 (cropped).jpg",
+          "index": 4,
+          "imagerepository": "local",
+          "imageinfo": [
+            {
+              "size": 190171,
+              "width": 824,
+              "height": 1075,
+              "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7d/Paus_Vitalianus_Vitalianus_%28titel_op_object%29_Liber_Chronicarum_%28serietitel%29%2C_RP-P-2016-49-60-10_%28cropped%29.jpg/500px-Paus_Vitalianus_Vitalianus_%28titel_op_object%29_Liber_Chronicarum_%28serietitel%29%2C_RP-P-2016-49-60-10_%28cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+              "thumbwidth": 400,
+              "thumbheight": 522,
+              "responsiveUrls": {
+                "2": "https://upload.wikimedia.org/wikipedia/commons/7/7d/Paus_Vitalianus_Vitalianus_%28titel_op_object%29_Liber_Chronicarum_%28serietitel%29%2C_RP-P-2016-49-60-10_%28cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled"
+              },
+              "thumbattribs": {
+                "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7d/Paus_Vitalianus_Vitalianus_%28titel_op_object%29_Liber_Chronicarum_%28serietitel%29%2C_RP-P-2016-49-60-10_%28cropped%29.jpg/500px-Paus_Vitalianus_Vitalianus_%28titel_op_object%29_Liber_Chronicarum_%28serietitel%29%2C_RP-P-2016-49-60-10_%28cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+                "decoding": "async",
+                "loading": "lazy",
+                "width": 400,
+                "height": 522,
+                "srcset": "https://upload.wikimedia.org/wikipedia/commons/7/7d/Paus_Vitalianus_Vitalianus_%28titel_op_object%29_Liber_Chronicarum_%28serietitel%29%2C_RP-P-2016-49-60-10_%28cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled 2x"
+              },
+              "url": "https://upload.wikimedia.org/wikipedia/commons/7/7d/Paus_Vitalianus_Vitalianus_%28titel_op_object%29_Liber_Chronicarum_%28serietitel%29%2C_RP-P-2016-49-60-10_%28cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+              "descriptionurl": "https://commons.wikimedia.org/wiki/File:Paus_Vitalianus_Vitalianus_(titel_op_object)_Liber_Chronicarum_(serietitel),_RP-P-2016-49-60-10_(cropped).jpg",
+              "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=114032572",
+              "extmetadata": {
+                "DateTime": {
+                  "value": "2022-01-06 06:31:52",
+                  "source": "mediawiki-metadata",
+                  "hidden": ""
+                },
+                "ObjectName": {
+                  "value": "Paus Vitalianus Vitalianus (titel op object) Liber Chronicarum (serietitel), RP-P-2016-49-60-10 (cropped)",
+                  "source": "mediawiki-metadata"
+                },
+                "CommonsMetadataExtension": {
+                  "value": 1.2,
+                  "source": "extension",
+                  "hidden": ""
+                },
+                "Categories": {
+                  "value": "CC-Zero|Extracted images|Portrait engravings of Vitalianus|Popes in the Nuremberg Chronicle|Liber Chronicarum, popes",
+                  "source": "commons-categories",
+                  "hidden": ""
+                },
+                "Assessments": {
+                  "value": "",
+                  "source": "commons-categories",
+                  "hidden": ""
+                },
+                "ImageDescription": {
+                  "value": "<br><br><big><b>Identificatie</b></big><br><b>Titel(s): </b>Paus VitalianusVitalianus (titel op object)Liber Chronicarum (serietitel)<br><b>Objecttype:</b> prent boekillustratie albumblad <br><b>Objectnummer:</b> RP-P-2016-49-60-10<br><b>Opschriften / Merken:</b> opschrift, rechtsboven, geschreven met pen: ‘52’<br><b>Omschrijving:</b> Een bloemkelk met een paus. Hij draagt een tiara en heeft een staf met een dubbel kruis in zijn handen. De voorstelling is onderdeel van de opeenvolging pausen in de Liber Chronicarum. De tekst identificeert de man als Vitalianus. De prent maakt deel uit van een album.<br><br><big><b>Vervaardiging</b></big><br><b>Vervaardiger:</b> prentmaker: Michel Wolgemut (atelier van)prentmaker: Wilhelm Pleydenwurff (atelier van)<br><b>Plaats vervaardiging:</b> Neurenberg<br><b>Datering:</b> 1493<br><b>Fysieke kenmerken:</b> houtsnede geplakt op albumblad; tekst in boekdruk; verso met houtsnede<br><b>Materiaal:</b> papier <br><b>Techniek:</b> boekdruk / houtsnede / plakken<br><b>Afmetingen:</b> prent: h 73 mm × b 57 mm<br><br><big><b>Toelichting</b></big><br>De houtsnede wordt herhaaldelijk gebruikt als boekillustratie in de Liber Chronicarum (of Neurenbergkroniek) van Hartmann Schedel, verschenen in het Latijn en Duits in 1493. Zie de Latijnse uitgave, folio 153v.<br><br><big><b>Onderwerp</b></big><br><b>Wat: </b>pope<br><b>Wie:</b> Vitalianus<br><br><big><b>Verwerving en rechten</b></big><br><b>Verwerving:</b> onbekend 1874<br><b>Copyright:</b> Publiek domein",
+                  "source": "commons-desc-page"
+                },
+                "DateTimeOriginal": {
+                  "value": "1493",
+                  "source": "commons-desc-page"
+                },
+                "Credit": {
+                  "value": "<a rel=\"nofollow\" class=\"external free\" href=\"http://hdl.handle.net/10934/RM0001.COLLECT.613325\">http://hdl.handle.net/10934/RM0001.COLLECT.613325</a>",
+                  "source": "commons-desc-page"
+                },
+                "Artist": {
+                  "value": "Rijksmuseum",
+                  "source": "commons-desc-page"
+                },
+                "LicenseShortName": {
+                  "value": "CC0",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "UsageTerms": {
+                  "value": "Creative Commons Zero, Public Domain Dedication",
+                  "source": "commons-desc-page"
+                },
+                "AttributionRequired": {
+                  "value": "false",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "LicenseUrl": {
+                  "value": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+                  "source": "commons-desc-page"
+                },
+                "Copyrighted": {
+                  "value": "True",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "Restrictions": {
+                  "value": "",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "License": {
+                  "value": "cc0",
+                  "source": "commons-templates",
+                  "hidden": ""
+                }
+              }
+            }
+          ]
+        },
+        {
+          "pageid": 158309799,
+          "ns": 6,
+          "title": "File:Paus Vitalianus Vitalianus (titel op object) Liber Chronicarum (serietitel), RP-P-2016-49-60-10 (cropped).svg",
+          "index": 3,
+          "imagerepository": "local",
+          "imageinfo": [
+            {
+              "size": 276821,
+              "width": 400,
+              "height": 487,
+              "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/44/Paus_Vitalianus_Vitalianus_%28titel_op_object%29_Liber_Chronicarum_%28serietitel%29%2C_RP-P-2016-49-60-10_%28cropped%29.svg/500px-Paus_Vitalianus_Vitalianus_%28titel_op_object%29_Liber_Chronicarum_%28serietitel%29%2C_RP-P-2016-49-60-10_%28cropped%29.svg.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+              "thumbwidth": 400,
+              "thumbheight": 487,
+              "responsiveUrls": {
+                "2": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/44/Paus_Vitalianus_Vitalianus_%28titel_op_object%29_Liber_Chronicarum_%28serietitel%29%2C_RP-P-2016-49-60-10_%28cropped%29.svg/960px-Paus_Vitalianus_Vitalianus_%28titel_op_object%29_Liber_Chronicarum_%28serietitel%29%2C_RP-P-2016-49-60-10_%28cropped%29.svg.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+              },
+              "thumbattribs": {
+                "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/44/Paus_Vitalianus_Vitalianus_%28titel_op_object%29_Liber_Chronicarum_%28serietitel%29%2C_RP-P-2016-49-60-10_%28cropped%29.svg/500px-Paus_Vitalianus_Vitalianus_%28titel_op_object%29_Liber_Chronicarum_%28serietitel%29%2C_RP-P-2016-49-60-10_%28cropped%29.svg.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+                "decoding": "async",
+                "loading": "lazy",
+                "width": 400,
+                "height": 487,
+                "srcset": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/44/Paus_Vitalianus_Vitalianus_%28titel_op_object%29_Liber_Chronicarum_%28serietitel%29%2C_RP-P-2016-49-60-10_%28cropped%29.svg/960px-Paus_Vitalianus_Vitalianus_%28titel_op_object%29_Liber_Chronicarum_%28serietitel%29%2C_RP-P-2016-49-60-10_%28cropped%29.svg.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail 2x"
+              },
+              "url": "https://upload.wikimedia.org/wikipedia/commons/4/44/Paus_Vitalianus_Vitalianus_%28titel_op_object%29_Liber_Chronicarum_%28serietitel%29%2C_RP-P-2016-49-60-10_%28cropped%29.svg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+              "descriptionurl": "https://commons.wikimedia.org/wiki/File:Paus_Vitalianus_Vitalianus_(titel_op_object)_Liber_Chronicarum_(serietitel),_RP-P-2016-49-60-10_(cropped).svg",
+              "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=158309799",
+              "extmetadata": {
+                "DateTime": {
+                  "value": "2025-01-21 13:33:53",
+                  "source": "mediawiki-metadata",
+                  "hidden": ""
+                },
+                "ObjectName": {
+                  "value": "Paus Vitalianus Vitalianus (titel op object) Liber Chronicarum (serietitel), RP-P-2016-49-60-10 (cropped)",
+                  "source": "mediawiki-metadata"
+                },
+                "CommonsMetadataExtension": {
+                  "value": 1.2,
+                  "source": "extension",
+                  "hidden": ""
+                },
+                "Categories": {
+                  "value": "Self-published work|Portrait engravings of Vitalianus|Popes in the Nuremberg Chronicle|SVG portraits - Nuremberg Chronicle. 1493|Liber Chronicarum, popes",
+                  "source": "commons-categories",
+                  "hidden": ""
+                },
+                "Assessments": {
+                  "value": "",
+                  "source": "commons-categories",
+                  "hidden": ""
+                },
+                "ImageDescription": {
+                  "value": "Paus Vitalianus Vitalianus (titel op object) Liber Chronicarum (serietitel), RP-P-2016-49-60-10 (cropped)",
+                  "source": "commons-desc-page"
+                },
+                "DateTimeOriginal": {
+                  "value": "2025-01-21",
+                  "source": "commons-desc-page"
+                },
+                "Credit": {
+                  "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+                  "source": "commons-desc-page"
+                },
+                "Artist": {
+                  "value": "<a href=\"//commons.wikimedia.org/wiki/User:Eugenio_Hansen,_OFS\" title=\"User:Eugenio Hansen, OFS\">Eugenio Hansen, OFS</a>",
+                  "source": "commons-desc-page"
+                },
+                "LicenseShortName": {
+                  "value": "CC BY-SA 4.0",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "UsageTerms": {
+                  "value": "Creative Commons Attribution-Share Alike 4.0",
+                  "source": "commons-desc-page"
+                },
+                "AttributionRequired": {
+                  "value": "true",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "LicenseUrl": {
+                  "value": "https://creativecommons.org/licenses/by-sa/4.0",
+                  "source": "commons-desc-page"
+                },
+                "Copyrighted": {
+                  "value": "True",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "Restrictions": {
+                  "value": "",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "License": {
+                  "value": "cc-by-sa-4.0",
+                  "source": "commons-templates",
+                  "hidden": ""
+                }
+              }
+            }
+          ]
+        },
+        {
+          "pageid": 164850551,
+          "ns": 6,
+          "title": "File:Vitalianus (Saint Paul Outside the Walls).png",
+          "index": 2,
+          "imagerepository": "local",
+          "imageinfo": [
+            {
+              "size": 154744,
+              "width": 272,
+              "height": 272,
+              "thumburl": "https://upload.wikimedia.org/wikipedia/commons/b/b0/Vitalianus_%28Saint_Paul_Outside_the_Walls%29.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+              "thumbwidth": 400,
+              "thumbheight": 400,
+              "thumbattribs": {
+                "src": "https://upload.wikimedia.org/wikipedia/commons/b/b0/Vitalianus_%28Saint_Paul_Outside_the_Walls%29.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+                "decoding": "async",
+                "loading": "lazy",
+                "width": 400,
+                "height": 400
+              },
+              "url": "https://upload.wikimedia.org/wikipedia/commons/b/b0/Vitalianus_%28Saint_Paul_Outside_the_Walls%29.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+              "descriptionurl": "https://commons.wikimedia.org/wiki/File:Vitalianus_(Saint_Paul_Outside_the_Walls).png",
+              "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=164850551",
+              "extmetadata": {
+                "DateTime": {
+                  "value": "2025-05-06 23:27:52",
+                  "source": "mediawiki-metadata",
+                  "hidden": ""
+                },
+                "ObjectName": {
+                  "value": "Vitalianus (Saint Paul Outside the Walls)",
+                  "source": "mediawiki-metadata"
+                },
+                "CommonsMetadataExtension": {
+                  "value": 1.2,
+                  "source": "extension",
+                  "hidden": ""
+                },
+                "Categories": {
+                  "value": "Vitalianus|PD-Art (PD-old-assumed-expired)|Template Unknown (author)|CC-PD-Mark|PD Old (assumed) expired|PD-Art missing SDC copyright status|PD-old missing SDC copyright status|Round Portraits of Vitalianus in Saint Paul Outside the Walls",
+                  "source": "commons-categories",
+                  "hidden": ""
+                },
+                "Assessments": {
+                  "value": "",
+                  "source": "commons-categories",
+                  "hidden": ""
+                },
+                "ImageDescription": {
+                  "value": "Portrait of <a href=\"https://en.wikipedia.org/wiki/Pope_Vitalian\" class=\"extiw\" title=\"en:Pope Vitalian\">Pope Vitalian</a> in the <a href=\"https://en.wikipedia.org/wiki/Basilica_of_Saint_Paul_Outside_the_Walls\" class=\"extiw\" title=\"en:Basilica of Saint Paul Outside the Walls\">Basilica of Saint Paul Outside the Walls</a>, Rome",
+                  "source": "commons-desc-page"
+                },
+                "DateTimeOriginal": {
+                  "value": "19<sup>th</sup> century<div style=\"display: none;\">date QS:P,+1850-00-00T00:00:00Z/7</div>",
+                  "source": "commons-desc-page"
+                },
+                "Credit": {
+                  "value": "Papal Basilica of Saint Paul Outside the Walls",
+                  "source": "commons-desc-page"
+                },
+                "Artist": {
+                  "value": "Unknown author<span style=\"display: none;\">Unknown author</span>",
+                  "source": "commons-desc-page"
+                },
+                "LicenseShortName": {
+                  "value": "Public domain",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "UsageTerms": {
+                  "value": "Public domain",
+                  "source": "commons-desc-page"
+                },
+                "AttributionRequired": {
+                  "value": "false",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "Copyrighted": {
+                  "value": "False",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "Restrictions": {
+                  "value": "",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "License": {
+                  "value": "pd",
+                  "source": "commons-templates",
+                  "hidden": ""
+                }
+              }
+            }
+          ]
+        }
+      ]
+    }
+  }
+}

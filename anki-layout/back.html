@@ -1,0 +1,14 @@
+<main class="gibbon-card">
+  <p class="deck-label">Gibbon · Decline and Fall</p>
+  <div class="question question-reminder">{{Question}}</div>
+  <hr id="answer">
+  <section class="answer-text" aria-label="Answer">{{Answer}}</section>
+  {{#Images}}<section class="pictures" aria-label="Pictures">{{Images}}</section>{{/Images}}
+  {{#Gibbon}}<section class="quotation" aria-label="Gibbon quotation">
+    <h2>Gibbon</h2>
+    <blockquote>{{Gibbon}}</blockquote>
+  </section>{{/Gibbon}}
+  {{#More}}<details class="more"><summary>More context</summary><div class="detail-content">{{More}}</div></details>{{/More}}
+  {{#Sources}}<details class="sources"><summary>Sources</summary><div class="detail-content">{{Sources}}</div></details>{{/Sources}}
+  {{#ImageCredits}}<details class="sources"><summary>Image credits</summary><div class="detail-content">{{ImageCredits}}</div></details>{{/ImageCredits}}
+</main>

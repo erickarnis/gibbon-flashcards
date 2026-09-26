@@ -1,0 +1,603 @@
+{
+  "person_id": "jude-brother-of-jesus",
+  "query": "Jude brother Jesus",
+  "response": {
+    "batchcomplete": true,
+    "continue": {
+      "gsroffset": 5,
+      "continue": "gsroffset||"
+    },
+    "query": {
+      "pages": [
+        {
+          "pageid": 55914476,
+          "ns": 6,
+          "title": "File:0132jfSaint Jude Thaddeus Church Saint Judge Village San Agustin San Fernando, Pampangafvf 27.jpg",
+          "index": 4,
+          "imagerepository": "local",
+          "imageinfo": [
+            {
+              "size": 7432041,
+              "width": 4608,
+              "height": 3456,
+              "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/65/0132jfSaint_Jude_Thaddeus_Church_Saint_Judge_Village_San_Agustin_San_Fernando%2C_Pampangafvf_27.jpg/500px-0132jfSaint_Jude_Thaddeus_Church_Saint_Judge_Village_San_Agustin_San_Fernando%2C_Pampangafvf_27.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+              "thumbwidth": 400,
+              "thumbheight": 300,
+              "responsiveUrls": {
+                "2": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/65/0132jfSaint_Jude_Thaddeus_Church_Saint_Judge_Village_San_Agustin_San_Fernando%2C_Pampangafvf_27.jpg/960px-0132jfSaint_Jude_Thaddeus_Church_Saint_Judge_Village_San_Agustin_San_Fernando%2C_Pampangafvf_27.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+              },
+              "thumbattribs": {
+                "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/65/0132jfSaint_Jude_Thaddeus_Church_Saint_Judge_Village_San_Agustin_San_Fernando%2C_Pampangafvf_27.jpg/500px-0132jfSaint_Jude_Thaddeus_Church_Saint_Judge_Village_San_Agustin_San_Fernando%2C_Pampangafvf_27.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+                "decoding": "async",
+                "loading": "lazy",
+                "width": 400,
+                "height": 300,
+                "srcset": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/65/0132jfSaint_Jude_Thaddeus_Church_Saint_Judge_Village_San_Agustin_San_Fernando%2C_Pampangafvf_27.jpg/960px-0132jfSaint_Jude_Thaddeus_Church_Saint_Judge_Village_San_Agustin_San_Fernando%2C_Pampangafvf_27.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail 2x"
+              },
+              "url": "https://upload.wikimedia.org/wikipedia/commons/6/65/0132jfSaint_Jude_Thaddeus_Church_Saint_Judge_Village_San_Agustin_San_Fernando%2C_Pampangafvf_27.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+              "descriptionurl": "https://commons.wikimedia.org/wiki/File:0132jfSaint_Jude_Thaddeus_Church_Saint_Judge_Village_San_Agustin_San_Fernando,_Pampangafvf_27.jpg",
+              "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=55914476",
+              "extmetadata": {
+                "DateTime": {
+                  "value": "2017-02-05 17:35:09",
+                  "source": "mediawiki-metadata",
+                  "hidden": ""
+                },
+                "ObjectName": {
+                  "value": "0132jfSaint Jude Thaddeus Church Saint Judge Village San Agustin San Fernando, Pampangafvf 27",
+                  "source": "mediawiki-metadata"
+                },
+                "CommonsMetadataExtension": {
+                  "value": 1.2,
+                  "source": "extension",
+                  "hidden": ""
+                },
+                "Categories": {
+                  "value": "CC-Zero|Self-published work|Files with coordinates missing SDC location of creation|Statues of Saint Jude Thaddeus in the Philippines",
+                  "source": "commons-categories",
+                  "hidden": ""
+                },
+                "Assessments": {
+                  "value": "",
+                  "source": "commons-categories",
+                  "hidden": ""
+                },
+                "GPSLatitude": {
+                  "value": "15.048056",
+                  "source": "commons-desc-page"
+                },
+                "GPSLongitude": {
+                  "value": "120.666667",
+                  "source": "commons-desc-page"
+                },
+                "GPSMapDatum": {
+                  "value": "WGS-84",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "ImageDescription": {
+                  "value": "Saint Jude Thaddeus Parish Church (Saint Jude Village, San Agustin, City of San Fernando, Pampanga) <a href=\"https://en.wikipedia.org/wiki/San_Fernando,_Pampanga#Barangays\" class=\"extiw\" title=\"en:San Fernando, Pampanga\">Barangay</a> <a rel=\"nofollow\" class=\"external text\" href=\"http://wikimapia.org/30660076/San-Agustin\">San Agustin</a> 15°2'53\"N 120°40'0\"E beside <a rel=\"nofollow\" class=\"external text\" href=\"http://wikimapia.org/30656161/Dolores\">Dolores</a>  15°2'21\"N  120°40'55\"E <a rel=\"nofollow\" class=\"external text\" href=\"http://wikimapia.org/30655612/Juliana\">Juliana</a> 15°2'6\"N 120°41'25\"E <a rel=\"nofollow\" class=\"external text\" href=\"http://wikimapia.org/street/17451933/Brgy-San-Jose-City-of-San-Fernando\">San Jose</a> 15°2'23\"N 120°41'58\"E <a rel=\"nofollow\" class=\"external text\" href=\"http://wikimapia.org/30117510/Santo-Rosario\">Santo Rosario</a> 15°8'46\"N 120°50'43\"E <a rel=\"nofollow\" class=\"external text\" href=\"http://wikimapia.org/30655709/Del-Pilar\">Del Pilar</a> 15°1'47\"N 120°42'0\"E <a href=\"https://en.wikipedia.org/wiki/San_Fernando,_Pampanga\" class=\"extiw\" title=\"en:San Fernando, Pampanga\">San Fernando, Pampanga</a> (accessed from and along MacArthur Highway (City of San Fernando, Pampanga section) of the <a href=\"https://en.wikipedia.org/wiki/MacArthur_Highway\" class=\"extiw\" title=\"en:MacArthur Highway\">MacArthur Highway</a> or Manila North Road (San Fernando, Pampanga), in <a href=\"https://en.wikipedia.org/wiki/Radial_Road_9\" class=\"extiw\" title=\"en:Radial Road 9\">Radial Road 9</a> interconnecting with the <a rel=\"nofollow\" class=\"external text\" href=\"http://wikimapia.org/street/15523594/Olongapo-Gapan-Road-Barangay-San-Jose-San-Fernando-Pampanga\">Olongapo-Gapan Road</a> Note: Judge Florentino Floro, the owner, to repeat, Donor <a href=\"https://en.wikipedia.org/wiki/en:Florentino_Floro\" class=\"extiw\" title=\"w:en:Florentino Floro\">Florentino Floro</a> of all these photos hereby donate gratuitously, freely and unconditionally all these photos to and for Wikimedia Commons, exclusively, for public use of the public domain, and again without any condition whatsoever).",
+                  "source": "commons-desc-page"
+                },
+                "DateTimeOriginal": {
+                  "value": "2017-02-05 15:39:29",
+                  "source": "commons-desc-page"
+                },
+                "Credit": {
+                  "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+                  "source": "commons-desc-page"
+                },
+                "Artist": {
+                  "value": "<a href=\"//commons.wikimedia.org/wiki/User:Judgefloro\" title=\"User:Judgefloro\">Judgefloro</a>",
+                  "source": "commons-desc-page"
+                },
+                "LicenseShortName": {
+                  "value": "CC0",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "UsageTerms": {
+                  "value": "Creative Commons Zero, Public Domain Dedication",
+                  "source": "commons-desc-page"
+                },
+                "AttributionRequired": {
+                  "value": "false",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "LicenseUrl": {
+                  "value": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+                  "source": "commons-desc-page"
+                },
+                "Copyrighted": {
+                  "value": "True",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "Restrictions": {
+                  "value": "",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "License": {
+                  "value": "cc0",
+                  "source": "commons-templates",
+                  "hidden": ""
+                }
+              }
+            }
+          ]
+        },
+        {
+          "pageid": 106532710,
+          "ns": 6,
+          "title": "File:Capilla de San Simón y San Judas, Mezquita-Catedral de Córdoba.jpg",
+          "index": 5,
+          "imagerepository": "local",
+          "imageinfo": [
+            {
+              "size": 7664335,
+              "width": 2929,
+              "height": 3905,
+              "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d5/Capilla_de_San_Sim%C3%B3n_y_San_Judas%2C_Mezquita-Catedral_de_C%C3%B3rdoba.jpg/500px-Capilla_de_San_Sim%C3%B3n_y_San_Judas%2C_Mezquita-Catedral_de_C%C3%B3rdoba.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+              "thumbwidth": 400,
+              "thumbheight": 533,
+              "responsiveUrls": {
+                "2": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d5/Capilla_de_San_Sim%C3%B3n_y_San_Judas%2C_Mezquita-Catedral_de_C%C3%B3rdoba.jpg/960px-Capilla_de_San_Sim%C3%B3n_y_San_Judas%2C_Mezquita-Catedral_de_C%C3%B3rdoba.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+              },
+              "thumbattribs": {
+                "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d5/Capilla_de_San_Sim%C3%B3n_y_San_Judas%2C_Mezquita-Catedral_de_C%C3%B3rdoba.jpg/500px-Capilla_de_San_Sim%C3%B3n_y_San_Judas%2C_Mezquita-Catedral_de_C%C3%B3rdoba.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+                "decoding": "async",
+                "loading": "lazy",
+                "width": 400,
+                "height": 533,
+                "srcset": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d5/Capilla_de_San_Sim%C3%B3n_y_San_Judas%2C_Mezquita-Catedral_de_C%C3%B3rdoba.jpg/960px-Capilla_de_San_Sim%C3%B3n_y_San_Judas%2C_Mezquita-Catedral_de_C%C3%B3rdoba.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail 2x"
+              },
+              "url": "https://upload.wikimedia.org/wikipedia/commons/d/d5/Capilla_de_San_Sim%C3%B3n_y_San_Judas%2C_Mezquita-Catedral_de_C%C3%B3rdoba.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+              "descriptionurl": "https://commons.wikimedia.org/wiki/File:Capilla_de_San_Sim%C3%B3n_y_San_Judas,_Mezquita-Catedral_de_C%C3%B3rdoba.jpg",
+              "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=106532710",
+              "extmetadata": {
+                "DateTime": {
+                  "value": "2021-06-13 08:36:48",
+                  "source": "mediawiki-metadata",
+                  "hidden": ""
+                },
+                "ObjectName": {
+                  "value": "Capilla de San Simón y San Judas, Mezquita-Catedral de Córdoba",
+                  "source": "mediawiki-metadata"
+                },
+                "CommonsMetadataExtension": {
+                  "value": 1.2,
+                  "source": "extension",
+                  "hidden": ""
+                },
+                "Categories": {
+                  "value": "Images with annotations|Self-published work|May 2021 in Córdoba, Spain|Files with coordinates missing SDC location of creation|Altar piece of the Capilla de los Santos Simón y Judas, Mosque-Cathedral of Córdoba",
+                  "source": "commons-categories",
+                  "hidden": ""
+                },
+                "Assessments": {
+                  "value": "",
+                  "source": "commons-categories",
+                  "hidden": ""
+                },
+                "GPSLatitude": {
+                  "value": "37.878780",
+                  "source": "commons-desc-page"
+                },
+                "GPSLongitude": {
+                  "value": "-4.780120",
+                  "source": "commons-desc-page"
+                },
+                "GPSMapDatum": {
+                  "value": "WGS-84",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "ImageDescription": {
+                  "value": "Capilla funeraria con orígenes en el siglo XV. La imagen de Cristo camino del Calvario, datada en el siglo XVI.",
+                  "source": "commons-desc-page"
+                },
+                "DateTimeOriginal": {
+                  "value": "2021-05-15",
+                  "source": "commons-desc-page"
+                },
+                "Credit": {
+                  "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+                  "source": "commons-desc-page"
+                },
+                "Artist": {
+                  "value": "<a href=\"//commons.wikimedia.org/wiki/User:Jl_FilpoC\" title=\"User:Jl FilpoC\">Jl FilpoC</a>",
+                  "source": "commons-desc-page"
+                },
+                "LicenseShortName": {
+                  "value": "CC BY-SA 4.0",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "UsageTerms": {
+                  "value": "Creative Commons Attribution-Share Alike 4.0",
+                  "source": "commons-desc-page"
+                },
+                "AttributionRequired": {
+                  "value": "true",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "LicenseUrl": {
+                  "value": "https://creativecommons.org/licenses/by-sa/4.0",
+                  "source": "commons-desc-page"
+                },
+                "Copyrighted": {
+                  "value": "True",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "Restrictions": {
+                  "value": "",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "License": {
+                  "value": "cc-by-sa-4.0",
+                  "source": "commons-templates",
+                  "hidden": ""
+                }
+              }
+            }
+          ]
+        },
+        {
+          "pageid": 107688308,
+          "ns": 6,
+          "title": "File:(Albi) Saint Jude Thaddée 1620 - Georges de La Tour Inv.166.jpg",
+          "index": 1,
+          "imagerepository": "local",
+          "imageinfo": [
+            {
+              "size": 28333540,
+              "width": 4725,
+              "height": 5870,
+              "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f5/%28Albi%29_Saint_Jude_Thadd%C3%A9e_1620_-_Georges_de_La_Tour_Inv.166.jpg/500px-%28Albi%29_Saint_Jude_Thadd%C3%A9e_1620_-_Georges_de_La_Tour_Inv.166.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+              "thumbwidth": 400,
+              "thumbheight": 497,
+              "responsiveUrls": {
+                "2": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f5/%28Albi%29_Saint_Jude_Thadd%C3%A9e_1620_-_Georges_de_La_Tour_Inv.166.jpg/960px-%28Albi%29_Saint_Jude_Thadd%C3%A9e_1620_-_Georges_de_La_Tour_Inv.166.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+              },
+              "thumbattribs": {
+                "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f5/%28Albi%29_Saint_Jude_Thadd%C3%A9e_1620_-_Georges_de_La_Tour_Inv.166.jpg/500px-%28Albi%29_Saint_Jude_Thadd%C3%A9e_1620_-_Georges_de_La_Tour_Inv.166.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+                "decoding": "async",
+                "loading": "lazy",
+                "width": 400,
+                "height": 497,
+                "srcset": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f5/%28Albi%29_Saint_Jude_Thadd%C3%A9e_1620_-_Georges_de_La_Tour_Inv.166.jpg/960px-%28Albi%29_Saint_Jude_Thadd%C3%A9e_1620_-_Georges_de_La_Tour_Inv.166.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail 2x"
+              },
+              "url": "https://upload.wikimedia.org/wikipedia/commons/f/f5/%28Albi%29_Saint_Jude_Thadd%C3%A9e_1620_-_Georges_de_La_Tour_Inv.166.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+              "descriptionurl": "https://commons.wikimedia.org/wiki/File:(Albi)_Saint_Jude_Thadd%C3%A9e_1620_-_Georges_de_La_Tour_Inv.166.jpg",
+              "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=107688308",
+              "extmetadata": {
+                "DateTime": {
+                  "value": "2021-07-19 19:45:40",
+                  "source": "mediawiki-metadata",
+                  "hidden": ""
+                },
+                "ObjectName": {
+                  "value": "(Albi) Saint Jude Thaddée 1620 - Georges de La Tour Inv.166",
+                  "source": "mediawiki-metadata"
+                },
+                "CommonsMetadataExtension": {
+                  "value": 1.2,
+                  "source": "extension",
+                  "hidden": ""
+                },
+                "Categories": {
+                  "value": "May 2021 in Tarn|Saint Jude Thaddée 1620 - Georges de La Tour|PD-old-100-expired|Artworks with Wikidata item|Artworks with known accession number|CC-PD-Mark|Files with coordinates missing SDC location of creation|Occitanie photographs taken on 2021-05-21|Artworks digital representation of 2D work|Images by Archaeodontosaurus Albi Musée Toulouse-Lautrec",
+                  "source": "commons-categories",
+                  "hidden": ""
+                },
+                "Assessments": {
+                  "value": "valued",
+                  "source": "commons-categories",
+                  "hidden": ""
+                },
+                "GPSLatitude": {
+                  "value": "43.929444",
+                  "source": "commons-desc-page"
+                },
+                "GPSLongitude": {
+                  "value": "2.142789",
+                  "source": "commons-desc-page"
+                },
+                "GPSMapDatum": {
+                  "value": "WGS-84",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "ImageDescription": {
+                  "value": "Saint Jude, Albi Apostles series (c. 1620), by Georges de La Tour. Toulouse-Lautrec Museum, Albi, France <span class=\"mw-valign-text-top noprint\" typeof=\"mw:File/Frameless\"><a href=\"//commons.wikimedia.org/wiki/File:(Albi)_Saint_Jude_Thadd%C3%A9e_1620_-_Georges_de_La_Tour_Inv.166.jpg#ooui-php-4\" title=\"Edit this at Structured Data on Commons\"><img alt=\"Edit this at Structured Data on Commons\" src=\"https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8a/OOjs_UI_icon_edit-ltr-progressive.svg/20px-OOjs_UI_icon_edit-ltr-progressive.svg.png?utm_source=commons.wikimedia.org&amp;utm_campaign=parser&amp;utm_content=thumbnail\" decoding=\"async\" loading=\"lazy\" width=\"10\" height=\"10\" class=\"mw-file-element\" data-file-width=\"20\" data-file-height=\"20\"></a></span>",
+                  "source": "commons-desc-page"
+                },
+                "DateTimeOriginal": {
+                  "value": "Taken on 21 May 2021",
+                  "source": "commons-desc-page"
+                },
+                "Credit": {
+                  "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+                  "source": "commons-desc-page"
+                },
+                "Artist": {
+                  "value": "<a href=\"//commons.wikimedia.org/wiki/User:Archaeodontosaurus\" title=\"User:Archaeodontosaurus\">Didier Descouens</a>",
+                  "source": "commons-desc-page"
+                },
+                "Permission": {
+                  "value": "<div class=\"wpImageAnnotatorControl wpImageAnnotatorOff\"><span typeof=\"mw:File\"><a href=\"//commons.wikimedia.org/wiki/File:No_Facebook.svg\" class=\"mw-file-description\"><img src=\"https://thumb.wikimedia.org/wikipedia/commons/thumb/4/48/No_Facebook.svg/120px-No_Facebook.svg.png?utm_source=commons.wikimedia.org&amp;utm_campaign=parser&amp;utm_content=thumbnail\" decoding=\"async\" loading=\"lazy\" width=\"80\" height=\"18\" class=\"mw-file-element\" srcset=\"https://thumb.wikimedia.org/wikipedia/commons/thumb/4/48/No_Facebook.svg/250px-No_Facebook.svg.png?utm_source=commons.wikimedia.org&amp;utm_campaign=parser&amp;utm_content=thumbnail 2x\" data-file-width=\"64\" data-file-height=\"14\"></a></span>\nThis file is copyrighted and has been released under a license which is incompatible with <a rel=\"nofollow\" class=\"external text\" href=\"https://www.facebook.com/legal/terms\">Facebook's licensing terms</a>. <b>It is <u>not</u> permitted to upload this file at Facebook.</b></div><div class=\"responsive-license-cc layouttemplate licensetpl\" dir=\"ltr\" lang=\"en\"><div class=\"rlicense-icons\"><span class=\"skin-invert\" typeof=\"mw:File\"><span title=\"w:en:Creative Commons\"><img alt=\"w:en:Creative Commons\" src=\"https://thumb.wikimedia.org/wikipedia/commons/thumb/7/79/CC_some_rights_reserved.svg/120px-CC_some_rights_reserved.svg.png?utm_source=commons.wikimedia.org&amp;utm_campaign=parser&amp;utm_content=thumbnail\" decoding=\"async\" loading=\"lazy\" width=\"90\" height=\"36\" class=\"mw-file-element\" srcset=\"https://thumb.wikimedia.org/wikipedia/commons/thumb/7/79/CC_some_rights_reserved.svg/250px-CC_some_rights_reserved.svg.png?utm_source=commons.wikimedia.org&amp;utm_campaign=parser&amp;utm_content=thumbnail 2x\" data-file-width=\"744\" data-file-height=\"300\"></span></span><br>\n<span class=\"skin-invert\" typeof=\"mw:File\"><span title=\"attribution\"><img alt=\"attribution\" src=\"https://thumb.wikimedia.org/wikipedia/commons/thumb/1/11/Cc-by_new_white.svg/40px-Cc-by_new_white.svg.png?utm_source=commons.wikimedia.org&amp;utm_campaign=parser&amp;utm_content=thumbnail\" decoding=\"async\" loading=\"lazy\" width=\"24\" height=\"24\" class=\"mw-file-element\" srcset=\"https://thumb.wikimedia.org/wikipedia/commons/thumb/1/11/Cc-by_new_white.svg/60px-Cc-by_new_white.svg.png?utm_source=commons.wikimedia.org&amp;utm_campaign=parser&amp;utm_content=thumbnail 2x\" data-file-width=\"64\" data-file-height=\"64\"></span></span> <span class=\"skin-invert\" typeof=\"mw:File\"><span title=\"share alike\"><img alt=\"share alike\" src=\"https://thumb.wikimedia.org/wikipedia/commons/thumb/d/df/Cc-sa_white.svg/40px-Cc-sa_white.svg.png?utm_source=commons.wikimedia.org&amp;utm_campaign=parser&amp;utm_content=thumbnail\" decoding=\"async\" loading=\"lazy\" width=\"24\" height=\"24\" class=\"mw-file-element\" srcset=\"https://thumb.wikimedia.org/wikipedia/commons/thumb/d/df/Cc-sa_white.svg/60px-Cc-sa_white.svg.png?utm_source=commons.wikimedia.org&amp;utm_campaign=parser&amp;utm_content=thumbnail 2x\" data-file-width=\"64\" data-file-height=\"64\"></span></span></div><div class=\"rlicense-text\"><div class=\"rlicense-declaration\">This file is licensed under the <a href=\"https://en.wikipedia.org/wiki/en:Creative_Commons\" class=\"extiw\" title=\"w:en:Creative Commons\">Creative Commons</a> <a href=\"//creativecommons.org/licenses/by-sa/4.0/deed.en\" class=\"extiw\" title=\"creativecommons:by-sa/4.0/deed.en\">Attribution-Share Alike 4.0 International</a> license.</div><div class=\"rlicense-desc\" style=\"text-align:start;\" lang=\"en\">\n<dl><dd>You are free:\n<ul><li><b>to share</b> – to copy, distribute and transmit the work</li>\n<li><b>to remix</b> – to adapt the work</li></ul></dd>\n<dd>Under the following conditions:\n<ul><li><b>attribution</b> – You must give appropriate credit, provide a link to the license, and indicate if changes were made. You may do so in any reasonable manner, but not in any way that suggests the licensor endorses you or your use.</li>\n<li><b>share alike</b> – If you remix, transform, or build upon the material, you must distribute your contributions under the <a href=\"https://creativecommons.org/share-your-work/licensing-considerations/compatible-licenses\" class=\"extiw\" title=\"ccorg:share-your-work/licensing-considerations/compatible-licenses\">same or compatible license</a> as the original.</li></ul></dd></dl></div><span class=\"licensetpl_link\" style=\"display:none;\">https://creativecommons.org/licenses/by-sa/4.0</span><span class=\"licensetpl_short\" style=\"display:none;\">CC BY-SA 4.0 </span><span class=\"licensetpl_long\" style=\"display:none;\">Creative Commons Attribution-Share Alike 4.0 </span><span class=\"licensetpl_link_req\" style=\"display:none;\">true</span><span class=\"licensetpl_attr_req\" style=\"display:none;\">true</span></div></div>",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "AuthorCount": {
+                  "value": 2,
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "LicenseShortName": {
+                  "value": "Public domain",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "UsageTerms": {
+                  "value": "Public domain",
+                  "source": "commons-desc-page"
+                },
+                "AttributionRequired": {
+                  "value": "false",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "Copyrighted": {
+                  "value": "False",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "Restrictions": {
+                  "value": "",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "License": {
+                  "value": "pd",
+                  "source": "commons-templates",
+                  "hidden": ""
+                }
+              }
+            }
+          ]
+        },
+        {
+          "pageid": 117476709,
+          "ns": 6,
+          "title": "File:Figuras de San Judas Tadeo.jpg",
+          "index": 2,
+          "imagerepository": "local",
+          "imageinfo": [
+            {
+              "size": 4312922,
+              "width": 6000,
+              "height": 4000,
+              "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/64/Figuras_de_San_Judas_Tadeo.jpg/500px-Figuras_de_San_Judas_Tadeo.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+              "thumbwidth": 400,
+              "thumbheight": 267,
+              "responsiveUrls": {
+                "2": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/64/Figuras_de_San_Judas_Tadeo.jpg/960px-Figuras_de_San_Judas_Tadeo.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+              },
+              "thumbattribs": {
+                "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/64/Figuras_de_San_Judas_Tadeo.jpg/500px-Figuras_de_San_Judas_Tadeo.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+                "decoding": "async",
+                "loading": "lazy",
+                "width": 400,
+                "height": 267,
+                "srcset": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/64/Figuras_de_San_Judas_Tadeo.jpg/960px-Figuras_de_San_Judas_Tadeo.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail 2x"
+              },
+              "url": "https://upload.wikimedia.org/wikipedia/commons/6/64/Figuras_de_San_Judas_Tadeo.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+              "descriptionurl": "https://commons.wikimedia.org/wiki/File:Figuras_de_San_Judas_Tadeo.jpg",
+              "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=117476709",
+              "extmetadata": {
+                "DateTime": {
+                  "value": "2022-04-28 18:56:39",
+                  "source": "mediawiki-metadata",
+                  "hidden": ""
+                },
+                "ObjectName": {
+                  "value": "Figuras de San Judas Tadeo",
+                  "source": "mediawiki-metadata"
+                },
+                "CommonsMetadataExtension": {
+                  "value": 1.2,
+                  "source": "extension",
+                  "hidden": ""
+                },
+                "Categories": {
+                  "value": "Atempan Municipality|Self-published work|Uploaded with Mobile/Android|Photographs taken on 2022-04-10|Sculptures of Saint Jude Thaddeus",
+                  "source": "commons-categories",
+                  "hidden": ""
+                },
+                "Assessments": {
+                  "value": "",
+                  "source": "commons-categories",
+                  "hidden": ""
+                },
+                "ImageDescription": {
+                  "value": "Figuras de San Judas Tadeo de venta en la feria de Atempan, Puebla",
+                  "source": "commons-desc-page"
+                },
+                "DateTimeOriginal": {
+                  "value": "10 April 2022 (according to <span lang=\"en\" dir=\"ltr\"><a href=\"https://en.wikipedia.org/wiki/Exif\" class=\"extiw\" title=\"en:Exif\">Exif</a></span> data)",
+                  "source": "commons-desc-page"
+                },
+                "Credit": {
+                  "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+                  "source": "commons-desc-page"
+                },
+                "Artist": {
+                  "value": "Ehécatl Cabrera",
+                  "source": "commons-desc-page"
+                },
+                "LicenseShortName": {
+                  "value": "CC BY-SA 4.0",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "UsageTerms": {
+                  "value": "Creative Commons Attribution-Share Alike 4.0",
+                  "source": "commons-desc-page"
+                },
+                "AttributionRequired": {
+                  "value": "true",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "LicenseUrl": {
+                  "value": "https://creativecommons.org/licenses/by-sa/4.0",
+                  "source": "commons-desc-page"
+                },
+                "Copyrighted": {
+                  "value": "True",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "Restrictions": {
+                  "value": "",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "License": {
+                  "value": "cc-by-sa-4.0",
+                  "source": "commons-templates",
+                  "hidden": ""
+                }
+              }
+            }
+          ]
+        },
+        {
+          "pageid": 142207898,
+          "ns": 6,
+          "title": "File:Parroquia de San Judas Tadeo en Av Instituto Politécnico Nacional.jpg",
+          "index": 3,
+          "imagerepository": "local",
+          "imageinfo": [
+            {
+              "size": 3477798,
+              "width": 3024,
+              "height": 4032,
+              "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d5/Parroquia_de_San_Judas_Tadeo_en_Av_Instituto_Polit%C3%A9cnico_Nacional.jpg/500px-Parroquia_de_San_Judas_Tadeo_en_Av_Instituto_Polit%C3%A9cnico_Nacional.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+              "thumbwidth": 400,
+              "thumbheight": 533,
+              "responsiveUrls": {
+                "2": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d5/Parroquia_de_San_Judas_Tadeo_en_Av_Instituto_Polit%C3%A9cnico_Nacional.jpg/960px-Parroquia_de_San_Judas_Tadeo_en_Av_Instituto_Polit%C3%A9cnico_Nacional.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+              },
+              "thumbattribs": {
+                "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d5/Parroquia_de_San_Judas_Tadeo_en_Av_Instituto_Polit%C3%A9cnico_Nacional.jpg/500px-Parroquia_de_San_Judas_Tadeo_en_Av_Instituto_Polit%C3%A9cnico_Nacional.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+                "decoding": "async",
+                "loading": "lazy",
+                "width": 400,
+                "height": 533,
+                "srcset": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d5/Parroquia_de_San_Judas_Tadeo_en_Av_Instituto_Polit%C3%A9cnico_Nacional.jpg/960px-Parroquia_de_San_Judas_Tadeo_en_Av_Instituto_Polit%C3%A9cnico_Nacional.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail 2x"
+              },
+              "url": "https://upload.wikimedia.org/wikipedia/commons/d/d5/Parroquia_de_San_Judas_Tadeo_en_Av_Instituto_Polit%C3%A9cnico_Nacional.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+              "descriptionurl": "https://commons.wikimedia.org/wiki/File:Parroquia_de_San_Judas_Tadeo_en_Av_Instituto_Polit%C3%A9cnico_Nacional.jpg",
+              "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=142207898",
+              "extmetadata": {
+                "DateTime": {
+                  "value": "2023-12-16 01:54:34",
+                  "source": "mediawiki-metadata",
+                  "hidden": ""
+                },
+                "ObjectName": {
+                  "value": "Parroquia de San Judas Tadeo en Av Instituto Politécnico Nacional",
+                  "source": "mediawiki-metadata"
+                },
+                "CommonsMetadataExtension": {
+                  "value": 1.2,
+                  "source": "extension",
+                  "hidden": ""
+                },
+                "Categories": {
+                  "value": "CC-Zero|Self-published work|Files with coordinates missing SDC location of creation|San Judas Tadeo church",
+                  "source": "commons-categories",
+                  "hidden": ""
+                },
+                "Assessments": {
+                  "value": "",
+                  "source": "commons-categories",
+                  "hidden": ""
+                },
+                "GPSLatitude": {
+                  "value": "19.478686",
+                  "source": "commons-desc-page"
+                },
+                "GPSLongitude": {
+                  "value": "-99.136069",
+                  "source": "commons-desc-page"
+                },
+                "GPSMapDatum": {
+                  "value": "WGS-84",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "ImageDescription": {
+                  "value": "Parroquia de San Judas Tadeo en Av Instituto Politécnico Nacional",
+                  "source": "commons-desc-page"
+                },
+                "DateTimeOriginal": {
+                  "value": "2023-12-12 15:40:23",
+                  "source": "commons-desc-page"
+                },
+                "Credit": {
+                  "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+                  "source": "commons-desc-page"
+                },
+                "Artist": {
+                  "value": "Koffermejia",
+                  "source": "commons-desc-page"
+                },
+                "LicenseShortName": {
+                  "value": "CC0",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "UsageTerms": {
+                  "value": "Creative Commons Zero, Public Domain Dedication",
+                  "source": "commons-desc-page"
+                },
+                "AttributionRequired": {
+                  "value": "false",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "LicenseUrl": {
+                  "value": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+                  "source": "commons-desc-page"
+                },
+                "Copyrighted": {
+                  "value": "True",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "Restrictions": {
+                  "value": "",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "License": {
+                  "value": "cc0",
+                  "source": "commons-templates",
+                  "hidden": ""
+                }
+              }
+            }
+          ]
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,299 @@
+{
+  "batchcomplete": true,
+  "query": {
+    "normalized": [
+      {
+        "fromencoded": false,
+        "from": "File:Marcia_Aurelia_Ceionia_(cropped).png",
+        "to": "File:Marcia Aurelia Ceionia (cropped).png"
+      },
+      {
+        "fromencoded": false,
+        "from": "File:Julia_Maesa_antoninianus_2.png",
+        "to": "File:Julia Maesa antoninianus 2.png"
+      },
+      {
+        "fromencoded": false,
+        "from": "File:Eusebius_of_Caesarea_Rabbula_Gospels_Icon.jpg",
+        "to": "File:Eusebius of Caesarea Rabbula Gospels Icon.jpg"
+      },
+      {
+        "fromencoded": false,
+        "from": "File:Coin_of_Flavia_Julia_Constantia_(obverse).jpg",
+        "to": "File:Coin of Flavia Julia Constantia (obverse).jpg"
+      }
+    ],
+    "pages": [
+      {
+        "pageid": 460925,
+        "ns": 6,
+        "title": "File:Origen3.jpg",
+        "imagerepository": "local",
+        "imageinfo": [
+          {
+            "size": 34005,
+            "width": 220,
+            "height": 343,
+            "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c7/Origen3.jpg/120px-Origen3.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+            "thumbwidth": 120,
+            "thumbheight": 187,
+            "responsiveUrls": {
+              "2": "https://upload.wikimedia.org/wikipedia/commons/c/c7/Origen3.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled"
+            },
+            "thumbattribs": {
+              "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c7/Origen3.jpg/120px-Origen3.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+              "decoding": "async",
+              "loading": "lazy",
+              "width": 120,
+              "height": 187,
+              "srcset": "https://upload.wikimedia.org/wikipedia/commons/c/c7/Origen3.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled 2x"
+            },
+            "url": "https://upload.wikimedia.org/wikipedia/commons/c/c7/Origen3.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:Origen3.jpg",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=460925"
+          }
+        ]
+      },
+      {
+        "pageid": 832862,
+        "ns": 6,
+        "title": "File:NumerianusAntoninianus.jpg",
+        "imagerepository": "local",
+        "imageinfo": [
+          {
+            "size": 21759,
+            "width": 250,
+            "height": 240,
+            "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f5/NumerianusAntoninianus.jpg/120px-NumerianusAntoninianus.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+            "thumbwidth": 120,
+            "thumbheight": 115,
+            "responsiveUrls": {
+              "2": "https://upload.wikimedia.org/wikipedia/commons/f/f5/NumerianusAntoninianus.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled"
+            },
+            "thumbattribs": {
+              "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f5/NumerianusAntoninianus.jpg/120px-NumerianusAntoninianus.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+              "decoding": "async",
+              "loading": "lazy",
+              "width": 120,
+              "height": 115,
+              "srcset": "https://upload.wikimedia.org/wikipedia/commons/f/f5/NumerianusAntoninianus.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled 2x"
+            },
+            "url": "https://upload.wikimedia.org/wikipedia/commons/f/f5/NumerianusAntoninianus.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:NumerianusAntoninianus.jpg",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=832862"
+          }
+        ]
+      },
+      {
+        "pageid": 15835896,
+        "ns": 6,
+        "title": "File:Alexander.john.paul.jpg",
+        "imagerepository": "local",
+        "imageinfo": [
+          {
+            "size": 31196,
+            "width": 125,
+            "height": 208,
+            "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8b/Alexander.john.paul.jpg/120px-Alexander.john.paul.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+            "thumbwidth": 120,
+            "thumbheight": 200,
+            "responsiveUrls": {
+              "2": "https://upload.wikimedia.org/wikipedia/commons/8/8b/Alexander.john.paul.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled"
+            },
+            "thumbattribs": {
+              "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8b/Alexander.john.paul.jpg/120px-Alexander.john.paul.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+              "decoding": "async",
+              "loading": "lazy",
+              "width": 120,
+              "height": 200,
+              "srcset": "https://upload.wikimedia.org/wikipedia/commons/8/8b/Alexander.john.paul.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled 2x"
+            },
+            "url": "https://upload.wikimedia.org/wikipedia/commons/8/8b/Alexander.john.paul.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:Alexander.john.paul.jpg",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=15835896"
+          }
+        ]
+      },
+      {
+        "pageid": 70158425,
+        "ns": 6,
+        "title": "File:Julia Maesa antoninianus 2.png",
+        "imagerepository": "local",
+        "imageinfo": [
+          {
+            "size": 103414,
+            "width": 250,
+            "height": 230,
+            "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a4/Julia_Maesa_antoninianus_2.png/120px-Julia_Maesa_antoninianus_2.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+            "thumbwidth": 120,
+            "thumbheight": 110,
+            "responsiveUrls": {
+              "2": "https://upload.wikimedia.org/wikipedia/commons/a/a4/Julia_Maesa_antoninianus_2.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled"
+            },
+            "thumbattribs": {
+              "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a4/Julia_Maesa_antoninianus_2.png/120px-Julia_Maesa_antoninianus_2.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+              "decoding": "async",
+              "loading": "lazy",
+              "width": 120,
+              "height": 110,
+              "srcset": "https://upload.wikimedia.org/wikipedia/commons/a/a4/Julia_Maesa_antoninianus_2.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled 2x"
+            },
+            "url": "https://upload.wikimedia.org/wikipedia/commons/a/a4/Julia_Maesa_antoninianus_2.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:Julia_Maesa_antoninianus_2.png",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=70158425"
+          }
+        ]
+      },
+      {
+        "pageid": 90580676,
+        "ns": 6,
+        "title": "File:Brutusidesobv.gif",
+        "imagerepository": "local",
+        "imageinfo": [
+          {
+            "size": 54299,
+            "width": 250,
+            "height": 240,
+            "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fc/Brutusidesobv.gif/120px-Brutusidesobv.gif?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+            "thumbwidth": 120,
+            "thumbheight": 115,
+            "responsiveUrls": {
+              "2": "https://upload.wikimedia.org/wikipedia/commons/f/fc/Brutusidesobv.gif?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled"
+            },
+            "thumbattribs": {
+              "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fc/Brutusidesobv.gif/120px-Brutusidesobv.gif?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+              "decoding": "async",
+              "loading": "lazy",
+              "width": 120,
+              "height": 115,
+              "srcset": "https://upload.wikimedia.org/wikipedia/commons/f/fc/Brutusidesobv.gif?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled 2x"
+            },
+            "url": "https://upload.wikimedia.org/wikipedia/commons/f/fc/Brutusidesobv.gif?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:Brutusidesobv.gif",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=90580676"
+          }
+        ]
+      },
+      {
+        "pageid": 116845500,
+        "ns": 6,
+        "title": "File:Eusebius of Caesarea Rabbula Gospels Icon.jpg",
+        "imagerepository": "local",
+        "imageinfo": [
+          {
+            "size": 23585,
+            "width": 246,
+            "height": 589,
+            "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/70/Eusebius_of_Caesarea_Rabbula_Gospels_Icon.jpg/120px-Eusebius_of_Caesarea_Rabbula_Gospels_Icon.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+            "thumbwidth": 120,
+            "thumbheight": 287,
+            "responsiveUrls": {
+              "2": "https://upload.wikimedia.org/wikipedia/commons/7/70/Eusebius_of_Caesarea_Rabbula_Gospels_Icon.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled"
+            },
+            "thumbattribs": {
+              "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/70/Eusebius_of_Caesarea_Rabbula_Gospels_Icon.jpg/120px-Eusebius_of_Caesarea_Rabbula_Gospels_Icon.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+              "decoding": "async",
+              "loading": "lazy",
+              "width": 120,
+              "height": 287,
+              "srcset": "https://upload.wikimedia.org/wikipedia/commons/7/70/Eusebius_of_Caesarea_Rabbula_Gospels_Icon.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled 2x"
+            },
+            "url": "https://upload.wikimedia.org/wikipedia/commons/7/70/Eusebius_of_Caesarea_Rabbula_Gospels_Icon.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:Eusebius_of_Caesarea_Rabbula_Gospels_Icon.jpg",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=116845500"
+          }
+        ]
+      },
+      {
+        "pageid": 130238253,
+        "ns": 6,
+        "title": "File:Coin of Flavia Julia Constantia (obverse).jpg",
+        "imagerepository": "local",
+        "imageinfo": [
+          {
+            "size": 15931,
+            "width": 223,
+            "height": 232,
+            "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/58/Coin_of_Flavia_Julia_Constantia_%28obverse%29.jpg/120px-Coin_of_Flavia_Julia_Constantia_%28obverse%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+            "thumbwidth": 120,
+            "thumbheight": 125,
+            "responsiveUrls": {
+              "2": "https://upload.wikimedia.org/wikipedia/commons/5/58/Coin_of_Flavia_Julia_Constantia_%28obverse%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled"
+            },
+            "thumbattribs": {
+              "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/58/Coin_of_Flavia_Julia_Constantia_%28obverse%29.jpg/120px-Coin_of_Flavia_Julia_Constantia_%28obverse%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+              "decoding": "async",
+              "loading": "lazy",
+              "width": 120,
+              "height": 125,
+              "srcset": "https://upload.wikimedia.org/wikipedia/commons/5/58/Coin_of_Flavia_Julia_Constantia_%28obverse%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled 2x"
+            },
+            "url": "https://upload.wikimedia.org/wikipedia/commons/5/58/Coin_of_Flavia_Julia_Constantia_%28obverse%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:Coin_of_Flavia_Julia_Constantia_(obverse).jpg",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=130238253"
+          }
+        ]
+      },
+      {
+        "pageid": 138434751,
+        "ns": 6,
+        "title": "File:Marcia Aurelia Ceionia (cropped).png",
+        "imagerepository": "local",
+        "imageinfo": [
+          {
+            "size": 31013,
+            "width": 232,
+            "height": 316,
+            "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9b/Marcia_Aurelia_Ceionia_%28cropped%29.png/120px-Marcia_Aurelia_Ceionia_%28cropped%29.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+            "thumbwidth": 120,
+            "thumbheight": 163,
+            "responsiveUrls": {
+              "2": "https://upload.wikimedia.org/wikipedia/commons/9/9b/Marcia_Aurelia_Ceionia_%28cropped%29.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled"
+            },
+            "thumbattribs": {
+              "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9b/Marcia_Aurelia_Ceionia_%28cropped%29.png/120px-Marcia_Aurelia_Ceionia_%28cropped%29.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+              "decoding": "async",
+              "loading": "lazy",
+              "width": 120,
+              "height": 163,
+              "srcset": "https://upload.wikimedia.org/wikipedia/commons/9/9b/Marcia_Aurelia_Ceionia_%28cropped%29.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled 2x"
+            },
+            "url": "https://upload.wikimedia.org/wikipedia/commons/9/9b/Marcia_Aurelia_Ceionia_%28cropped%29.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:Marcia_Aurelia_Ceionia_(cropped).png",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=138434751"
+          }
+        ]
+      },
+      {
+        "pageid": 197346463,
+        "ns": 6,
+        "title": "File:Agios Pavlos Omologetes Dionysiou.jpg",
+        "imagerepository": "local",
+        "imageinfo": [
+          {
+            "size": 83686,
+            "width": 246,
+            "height": 768,
+            "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/78/Agios_Pavlos_Omologetes_Dionysiou.jpg/120px-Agios_Pavlos_Omologetes_Dionysiou.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+            "thumbwidth": 120,
+            "thumbheight": 375,
+            "responsiveUrls": {
+              "2": "https://upload.wikimedia.org/wikipedia/commons/7/78/Agios_Pavlos_Omologetes_Dionysiou.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled"
+            },
+            "thumbattribs": {
+              "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/78/Agios_Pavlos_Omologetes_Dionysiou.jpg/120px-Agios_Pavlos_Omologetes_Dionysiou.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+              "decoding": "async",
+              "loading": "lazy",
+              "width": 120,
+              "height": 375,
+              "srcset": "https://upload.wikimedia.org/wikipedia/commons/7/78/Agios_Pavlos_Omologetes_Dionysiou.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled 2x"
+            },
+            "url": "https://upload.wikimedia.org/wikipedia/commons/7/78/Agios_Pavlos_Omologetes_Dionysiou.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:Agios_Pavlos_Omologetes_Dionysiou.jpg",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=197346463"
+          }
+        ]
+      }
+    ]
+  }
+}

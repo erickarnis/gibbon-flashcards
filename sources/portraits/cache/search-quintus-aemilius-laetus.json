@@ -1,0 +1,505 @@
+{
+  "person_id": "quintus-aemilius-laetus",
+  "query": "Quintus Aemilius Laetus",
+  "response": {
+    "batchcomplete": true,
+    "continue": {
+      "gsroffset": 5,
+      "continue": "gsroffset||"
+    },
+    "query": {
+      "pages": [
+        {
+          "pageid": 92598744,
+          "ns": 6,
+          "title": "File:Suetonius (IA suetonius01suet).pdf",
+          "index": 4,
+          "imagerepository": "local",
+          "imageinfo": [
+            {
+              "size": 36123905,
+              "width": 672,
+              "height": 1010,
+              "pagecount": 552,
+              "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ed/Suetonius_%28IA_suetonius01suet%29.pdf/page1-500px-Suetonius_%28IA_suetonius01suet%29.pdf.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+              "thumbwidth": 400,
+              "thumbheight": 601,
+              "thumbattribs": {
+                "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ed/Suetonius_%28IA_suetonius01suet%29.pdf/page1-500px-Suetonius_%28IA_suetonius01suet%29.pdf.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+                "decoding": "async",
+                "loading": "lazy",
+                "width": 400,
+                "height": 601
+              },
+              "url": "https://upload.wikimedia.org/wikipedia/commons/e/ed/Suetonius_%28IA_suetonius01suet%29.pdf?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+              "descriptionurl": "https://commons.wikimedia.org/wiki/File:Suetonius_(IA_suetonius01suet).pdf",
+              "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=92598744",
+              "extmetadata": {
+                "DateTime": {
+                  "value": "2020-07-25 17:34:59",
+                  "source": "mediawiki-metadata",
+                  "hidden": ""
+                },
+                "ObjectName": {
+                  "value": "<div class=\"fn\">\nSuetonius</div>",
+                  "source": "commons-desc-page"
+                },
+                "CommonsMetadataExtension": {
+                  "value": 1.2,
+                  "source": "extension",
+                  "hidden": ""
+                },
+                "Categories": {
+                  "value": "The Twelve Caesars|Loeb Classical Library|Books from New York (state)|PD-old-100-expired|Scans from the Internet Archive/unverified|CC-PD-Mark|Scans from the Internet Archive|Books published in London|Books uploaded by Fæ|Books without Wikidata item|PD-old missing SDC copyright status",
+                  "source": "commons-categories",
+                  "hidden": ""
+                },
+                "Assessments": {
+                  "value": "",
+                  "source": "commons-categories",
+                  "hidden": ""
+                },
+                "Artist": {
+                  "value": "<div class=\"fn value\">\n<dl><dd>Suetonius, ca. 69-ca. 122</dd>\n<dd>Rolfe, John Carew, 1859-1943, tr. trl</dd></dl></div>",
+                  "source": "commons-desc-page"
+                },
+                "ImageDescription": {
+                  "value": "<div class=\"description\">\n<dl><dd>\"The translation of the Lives of the Caesars is based upon the text of Maximillan Ihm. Leipzig, 1907 (editio minor, 1909)\"--Pref</dd>\n<dd>Bibliography: v. 2 p. xxvii-xxiv includes Editor's note (1979) p. xxiv</dd>\n<dd>Includes index</dd>\n<dd>I. Preface. The life and works of Suetonius. The lives of the Caesars, books I-IV -- II. The lives of the Caesars, books V-VIII. The lives of illustrious men</dd>\n<dd>Later reprints have imprint: Cambridge, Mass. : Harvard University Press ; London : W. Heinemann</dd>\n<dd>1</dd></dl>\n<br>Subjects:</div>",
+                  "source": "commons-desc-page"
+                },
+                "Credit": {
+                  "value": "<dl><dd><a href=\"//archive.org/details/suetonius01suet\" class=\"extiw\" title=\"iarchive:suetonius01suet\"><bdi class=\"description en\" lang=\"en\" dir=\"ltr\">Internet Archive identifier</bdi>: suetonius01suet</a></dd>\n<dd><a rel=\"nofollow\" class=\"external free\" href=\"https://archive.org/download/suetonius01suet/suetonius01suet.pdf\">https://archive.org/download/suetonius01suet/suetonius01suet.pdf</a></dd></dl>",
+                  "source": "commons-desc-page"
+                },
+                "LicenseShortName": {
+                  "value": "Public domain",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "UsageTerms": {
+                  "value": "Public domain",
+                  "source": "commons-desc-page"
+                },
+                "AttributionRequired": {
+                  "value": "false",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "Copyrighted": {
+                  "value": "False",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "Restrictions": {
+                  "value": "",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "License": {
+                  "value": "pd",
+                  "source": "commons-templates",
+                  "hidden": ""
+                }
+              }
+            }
+          ]
+        },
+        {
+          "pageid": 98155375,
+          "ns": 6,
+          "title": "File:De Roma prisca et nova varii auctores prout in sequenti pagella cernere est (IA gri 33125008174373).pdf",
+          "index": 5,
+          "imagerepository": "local",
+          "imageinfo": [
+            {
+              "size": 26732913,
+              "width": 991,
+              "height": 1345,
+              "pagecount": 342,
+              "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/45/De_Roma_prisca_et_nova_varii_auctores_prout_in_sequenti_pagella_cernere_est_%28IA_gri_33125008174373%29.pdf/page1-500px-De_Roma_prisca_et_nova_varii_auctores_prout_in_sequenti_pagella_cernere_est_%28IA_gri_33125008174373%29.pdf.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+              "thumbwidth": 400,
+              "thumbheight": 543,
+              "responsiveUrls": {
+                "2": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/45/De_Roma_prisca_et_nova_varii_auctores_prout_in_sequenti_pagella_cernere_est_%28IA_gri_33125008174373%29.pdf/page1-960px-De_Roma_prisca_et_nova_varii_auctores_prout_in_sequenti_pagella_cernere_est_%28IA_gri_33125008174373%29.pdf.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+              },
+              "thumbattribs": {
+                "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/45/De_Roma_prisca_et_nova_varii_auctores_prout_in_sequenti_pagella_cernere_est_%28IA_gri_33125008174373%29.pdf/page1-500px-De_Roma_prisca_et_nova_varii_auctores_prout_in_sequenti_pagella_cernere_est_%28IA_gri_33125008174373%29.pdf.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+                "decoding": "async",
+                "loading": "lazy",
+                "width": 400,
+                "height": 543,
+                "srcset": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/45/De_Roma_prisca_et_nova_varii_auctores_prout_in_sequenti_pagella_cernere_est_%28IA_gri_33125008174373%29.pdf/page1-960px-De_Roma_prisca_et_nova_varii_auctores_prout_in_sequenti_pagella_cernere_est_%28IA_gri_33125008174373%29.pdf.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail 2x"
+              },
+              "url": "https://upload.wikimedia.org/wikipedia/commons/4/45/De_Roma_prisca_et_nova_varii_auctores_prout_in_sequenti_pagella_cernere_est_%28IA_gri_33125008174373%29.pdf?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+              "descriptionurl": "https://commons.wikimedia.org/wiki/File:De_Roma_prisca_et_nova_varii_auctores_prout_in_sequenti_pagella_cernere_est_(IA_gri_33125008174373).pdf",
+              "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=98155375",
+              "extmetadata": {
+                "DateTime": {
+                  "value": "2020-12-28 07:09:54",
+                  "source": "mediawiki-metadata",
+                  "hidden": ""
+                },
+                "ObjectName": {
+                  "value": "<div class=\"fn\">\nDe Roma prisca et nova varii auctores prout in sequenti pagella cernere est</div>",
+                  "source": "commons-desc-page"
+                },
+                "CommonsMetadataExtension": {
+                  "value": 1.2,
+                  "source": "extension",
+                  "hidden": ""
+                },
+                "Categories": {
+                  "value": "PD-old-100-expired|Scans from the Internet Archive/unverified|CC-PD-Mark|Scans from the Internet Archive|Books uploaded by Fæ|Books without Wikidata item|Old books from American Libraries|PD-old missing SDC copyright status|Latin-language books",
+                  "source": "commons-categories",
+                  "hidden": ""
+                },
+                "Assessments": {
+                  "value": "",
+                  "source": "commons-categories",
+                  "hidden": ""
+                },
+                "Artist": {
+                  "value": "<div class=\"fn value\">\nAlbertini, Francesco, fl. 1493-1510. Opusculum de mirabilibus novae &amp; veteris urbis Romae</div>",
+                  "source": "commons-desc-page"
+                },
+                "ImageDescription": {
+                  "value": "<div class=\"description\">\n<dl><dd>Imprint from colophon</dd>\n<dd>Signatures: a⁴ A-V⁴ X⁸ Y⁴ Z⁶ 2b-2k⁴ 2l⁶ 2m-2r⁴ (Z6 blank)</dd>\n<dd>Woodcut t.p. border incorporating papal arms</dd>\n<dd>Contains Francesco Albertini's Opusculum de mirabilibus novae et veteris urbis Romae, leaves I-LXXX, which includes a reference to Vespucci, leaf LXXX</dd>\n<dd>Alden, J.E. European Americana</dd>\n<dd>Sloan candidate</dd>\n<dd>Binding: vellum (old but not original, as marginal annotations and top of t.p. border show trimming). Title written on spine. The edges blue</dd>\n<dd>Centered on front pastedown is bookplate of Robert Weiss. Ownership inscription at foot of t.p. by Hieronymus Aspinus. Signature of Walter Bowman on t.p. verso. Marginal annotations in several hands, in places frequent</dd></dl>\n<br>Subjects:</div>",
+                  "source": "commons-desc-page"
+                },
+                "Credit": {
+                  "value": "<dl><dd><a href=\"//archive.org/details/gri_33125008174373\" class=\"extiw\" title=\"iarchive:gri 33125008174373\"><bdi class=\"description en\" lang=\"en\" dir=\"ltr\">Internet Archive identifier</bdi>: gri_33125008174373</a></dd>\n<dd><a rel=\"nofollow\" class=\"external free\" href=\"https://archive.org/download/gri_33125008174373/gri_33125008174373.pdf\">https://archive.org/download/gri_33125008174373/gri_33125008174373.pdf</a></dd></dl>\n<ul><li>IA contributor: Getty Research Institute</li></ul>",
+                  "source": "commons-desc-page"
+                },
+                "LicenseShortName": {
+                  "value": "Public domain",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "UsageTerms": {
+                  "value": "Public domain",
+                  "source": "commons-desc-page"
+                },
+                "AttributionRequired": {
+                  "value": "false",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "Copyrighted": {
+                  "value": "False",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "Restrictions": {
+                  "value": "",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "License": {
+                  "value": "pd",
+                  "source": "commons-templates",
+                  "hidden": ""
+                }
+              }
+            }
+          ]
+        },
+        {
+          "pageid": 99798847,
+          "ns": 6,
+          "title": "File:Histoire romaine de Tite-Live, traduction nouvelle par Dureau de Lamalle, de l'Académie française, traducteur de Tacide et de Salluste, et par M. Noël. Troisième décade (IA histoireromainedurreau8).pdf",
+          "index": 2,
+          "imagerepository": "local",
+          "imageinfo": [
+            {
+              "size": 21806496,
+              "width": 775,
+              "height": 1247,
+              "pagecount": 458,
+              "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ea/Histoire_romaine_de_Tite-Live%2C_traduction_nouvelle_par_Dureau_de_Lamalle%2C_de_l%27Acad%C3%A9mie_fran%C3%A7aise%2C_traducteur_de_Tacide_et_de_Salluste%2C_et_par_M._No%C3%ABl._Troisi%C3%A8me_d%C3%A9cade_%28IA_histoireromainedurreau8%29.pdf/page1-500px-thumbnail.pdf.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+              "thumbwidth": 400,
+              "thumbheight": 644,
+              "thumbattribs": {
+                "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ea/Histoire_romaine_de_Tite-Live%2C_traduction_nouvelle_par_Dureau_de_Lamalle%2C_de_l%27Acad%C3%A9mie_fran%C3%A7aise%2C_traducteur_de_Tacide_et_de_Salluste%2C_et_par_M._No%C3%ABl._Troisi%C3%A8me_d%C3%A9cade_%28IA_histoireromainedurreau8%29.pdf/page1-500px-thumbnail.pdf.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+                "decoding": "async",
+                "loading": "lazy",
+                "width": 400,
+                "height": 644
+              },
+              "url": "https://upload.wikimedia.org/wikipedia/commons/e/ea/Histoire_romaine_de_Tite-Live%2C_traduction_nouvelle_par_Dureau_de_Lamalle%2C_de_l%27Acad%C3%A9mie_fran%C3%A7aise%2C_traducteur_de_Tacide_et_de_Salluste%2C_et_par_M._No%C3%ABl._Troisi%C3%A8me_d%C3%A9cade_%28IA_histoireromainedurreau8%29.pdf?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+              "descriptionurl": "https://commons.wikimedia.org/wiki/File:Histoire_romaine_de_Tite-Live,_traduction_nouvelle_par_Dureau_de_Lamalle,_de_l%27Acad%C3%A9mie_fran%C3%A7aise,_traducteur_de_Tacide_et_de_Salluste,_et_par_M._No%C3%ABl._Troisi%C3%A8me_d%C3%A9cade_(IA_histoireromainedurreau8).pdf",
+              "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=99798847",
+              "extmetadata": {
+                "DateTime": {
+                  "value": "2021-05-30 11:40:55",
+                  "source": "mediawiki-metadata",
+                  "hidden": ""
+                },
+                "ObjectName": {
+                  "value": "<div class=\"fn\">\nHistoire romaine de Tite-Live, traduction nouvelle par Dureau de Lamalle, de l'Académie française, traducteur de Tacide et de Salluste, et par M. Noël. Troisième décade</div>",
+                  "source": "commons-desc-page"
+                },
+                "CommonsMetadataExtension": {
+                  "value": 1.2,
+                  "source": "extension",
+                  "hidden": ""
+                },
+                "Categories": {
+                  "value": "PD-old-100-expired|Scans from the Internet Archive/unverified|CC-PD-Mark|Scans from the Internet Archive|Books uploaded by Fæ|Books without Wikidata item|Internet Archive (Google cover page removed)|Old books in Internet Archive additional collections|PD-old missing SDC copyright status|French-language books",
+                  "source": "commons-categories",
+                  "hidden": ""
+                },
+                "Assessments": {
+                  "value": "",
+                  "source": "commons-categories",
+                  "hidden": ""
+                },
+                "Artist": {
+                  "value": "<div class=\"fn value\">\n<dl><dd>Dureau de la Malle, Jean-Baptiste-Joseph-René, 1742-1807</dd>\n<dd>Noël, François-Joseph-Michel, 1756-1841</dd></dl></div>",
+                  "source": "commons-desc-page"
+                },
+                "ImageDescription": {
+                  "value": "<div class=\"description\">\n<p>Book digitized by Google and uploaded by ARLIMA (<a rel=\"nofollow\" class=\"external free\" href=\"https://www.arlima.net\">https://www.arlima.net</a>)\n</p>\n<br>Subjects: Livy; Titus Livius; Roman history; Rome; Antiquity; Classics</div>",
+                  "source": "commons-desc-page"
+                },
+                "Credit": {
+                  "value": "<dl><dd><a href=\"//archive.org/details/histoireromainedurreau8\" class=\"extiw\" title=\"iarchive:histoireromainedurreau8\"><bdi class=\"description en\" lang=\"en\" dir=\"ltr\">Internet Archive identifier</bdi>: histoireromainedurreau8</a></dd>\n<dd><a rel=\"nofollow\" class=\"external free\" href=\"https://archive.org/download/histoireromainedurreau8/histoireromainedurreau8.pdf\">https://archive.org/download/histoireromainedurreau8/histoireromainedurreau8.pdf</a></dd></dl>",
+                  "source": "commons-desc-page"
+                },
+                "LicenseShortName": {
+                  "value": "Public domain",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "UsageTerms": {
+                  "value": "Public domain",
+                  "source": "commons-desc-page"
+                },
+                "AttributionRequired": {
+                  "value": "false",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "Copyrighted": {
+                  "value": "False",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "Restrictions": {
+                  "value": "",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "License": {
+                  "value": "pd",
+                  "source": "commons-templates",
+                  "hidden": ""
+                }
+              }
+            }
+          ]
+        },
+        {
+          "pageid": 115393021,
+          "ns": 6,
+          "title": "File:Commodus is strangled by Narcissus.png",
+          "index": 1,
+          "imagerepository": "local",
+          "imageinfo": [
+            {
+              "size": 876195,
+              "width": 694,
+              "height": 515,
+              "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/75/Commodus_is_strangled_by_Narcissus.png/500px-Commodus_is_strangled_by_Narcissus.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+              "thumbwidth": 400,
+              "thumbheight": 297,
+              "responsiveUrls": {
+                "2": "https://upload.wikimedia.org/wikipedia/commons/7/75/Commodus_is_strangled_by_Narcissus.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled"
+              },
+              "thumbattribs": {
+                "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/75/Commodus_is_strangled_by_Narcissus.png/500px-Commodus_is_strangled_by_Narcissus.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+                "decoding": "async",
+                "loading": "lazy",
+                "width": 400,
+                "height": 297,
+                "srcset": "https://upload.wikimedia.org/wikipedia/commons/7/75/Commodus_is_strangled_by_Narcissus.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled 2x"
+              },
+              "url": "https://upload.wikimedia.org/wikipedia/commons/7/75/Commodus_is_strangled_by_Narcissus.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+              "descriptionurl": "https://commons.wikimedia.org/wiki/File:Commodus_is_strangled_by_Narcissus.png",
+              "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=115393021",
+              "extmetadata": {
+                "DateTime": {
+                  "value": "2022-02-20 02:00:13",
+                  "source": "mediawiki-metadata",
+                  "hidden": ""
+                },
+                "ObjectName": {
+                  "value": "Commodus is strangled by Narcissus",
+                  "source": "mediawiki-metadata"
+                },
+                "CommonsMetadataExtension": {
+                  "value": 1.2,
+                  "source": "extension",
+                  "hidden": ""
+                },
+                "Categories": {
+                  "value": "Marcia Aurelia Ceionia|Quintus Aemilius Laetus|Narcissus (wrestler)|Lucius Aurelius Eclectus|PD-old-100-expired|CC-PD-Mark|PD-old missing SDC copyright status|Commodus in art",
+                  "source": "commons-categories",
+                  "hidden": ""
+                },
+                "Assessments": {
+                  "value": "",
+                  "source": "commons-categories",
+                  "hidden": ""
+                },
+                "ImageDescription": {
+                  "value": "Engraving by Matthaeus Merian the Elder",
+                  "source": "commons-desc-page"
+                },
+                "DateTimeOriginal": {
+                  "value": "1593–1650",
+                  "source": "commons-desc-page"
+                },
+                "Credit": {
+                  "value": "<a rel=\"nofollow\" class=\"external free\" href=\"https://www.akg-images.co.uk/archive/Commodus-is-strangled-by-Narcissus-2UMDHURGY52T.html\">https://www.akg-images.co.uk/archive/Commodus-is-strangled-by-Narcissus-2UMDHURGY52T.html</a>",
+                  "source": "commons-desc-page"
+                },
+                "Artist": {
+                  "value": "Matthaeus Merian the Elder",
+                  "source": "commons-desc-page"
+                },
+                "LicenseShortName": {
+                  "value": "Public domain",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "UsageTerms": {
+                  "value": "Public domain",
+                  "source": "commons-desc-page"
+                },
+                "AttributionRequired": {
+                  "value": "false",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "Copyrighted": {
+                  "value": "False",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "Restrictions": {
+                  "value": "",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "License": {
+                  "value": "pd",
+                  "source": "commons-templates",
+                  "hidden": ""
+                }
+              }
+            }
+          ]
+        },
+        {
+          "pageid": 194377930,
+          "ns": 6,
+          "title": "File:Cosmographiae vniuersalis lib. VI. in quibus iuxta certioris fidei scriptores, sine omni cuiuscunq(ue) molestia, uel læsione, describuntur, omnium habitabilis orbis partium (IA cosmographiaevni00mnst).pdf",
+          "index": 3,
+          "imagerepository": "local",
+          "imageinfo": [
+            {
+              "size": 285866786,
+              "width": 1247,
+              "height": 2002,
+              "pagecount": 1624,
+              "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/96/Cosmographiae_vniuersalis_lib._VI._in_quibus_iuxta_certioris_fidei_scriptores%2C_sine_omni_cuiuscunq%28ue%29_molestia%2C_uel_l%C3%A6sione%2C_describuntur%2C_omnium_habitabilis_orbis_partium_%28IA_cosmographiaevni00mnst%29.pdf/page1-500px-thumbnail.pdf.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+              "thumbwidth": 400,
+              "thumbheight": 642,
+              "responsiveUrls": {
+                "2": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/96/Cosmographiae_vniuersalis_lib._VI._in_quibus_iuxta_certioris_fidei_scriptores%2C_sine_omni_cuiuscunq%28ue%29_molestia%2C_uel_l%C3%A6sione%2C_describuntur%2C_omnium_habitabilis_orbis_partium_%28IA_cosmographiaevni00mnst%29.pdf/page1-960px-thumbnail.pdf.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+              },
+              "thumbattribs": {
+                "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/96/Cosmographiae_vniuersalis_lib._VI._in_quibus_iuxta_certioris_fidei_scriptores%2C_sine_omni_cuiuscunq%28ue%29_molestia%2C_uel_l%C3%A6sione%2C_describuntur%2C_omnium_habitabilis_orbis_partium_%28IA_cosmographiaevni00mnst%29.pdf/page1-500px-thumbnail.pdf.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+                "decoding": "async",
+                "loading": "lazy",
+                "width": 400,
+                "height": 642,
+                "srcset": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/96/Cosmographiae_vniuersalis_lib._VI._in_quibus_iuxta_certioris_fidei_scriptores%2C_sine_omni_cuiuscunq%28ue%29_molestia%2C_uel_l%C3%A6sione%2C_describuntur%2C_omnium_habitabilis_orbis_partium_%28IA_cosmographiaevni00mnst%29.pdf/page1-960px-thumbnail.pdf.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail 2x"
+              },
+              "url": "https://upload.wikimedia.org/wikipedia/commons/9/96/Cosmographiae_vniuersalis_lib._VI._in_quibus_iuxta_certioris_fidei_scriptores%2C_sine_omni_cuiuscunq%28ue%29_molestia%2C_uel_l%C3%A6sione%2C_describuntur%2C_omnium_habitabilis_orbis_partium_%28IA_cosmographiaevni00mnst%29.pdf?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+              "descriptionurl": "https://commons.wikimedia.org/wiki/File:Cosmographiae_vniuersalis_lib._VI._in_quibus_iuxta_certioris_fidei_scriptores,_sine_omni_cuiuscunq(ue)_molestia,_uel_l%C3%A6sione,_describuntur,_omnium_habitabilis_orbis_partium_(IA_cosmographiaevni00mnst).pdf",
+              "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=194377930",
+              "extmetadata": {
+                "DateTime": {
+                  "value": "2026-06-23 03:08:21",
+                  "source": "mediawiki-metadata",
+                  "hidden": ""
+                },
+                "ObjectName": {
+                  "value": "<div class=\"fn\">\nCosmographiae vniuersalis lib. VI. in quibus iuxta certioris fidei scriptores, sine omni cuiuscunq[ue] molestia, uel læsione, describuntur, omnium habitabilis orbis partium situs propriæq[ue] dotes. regionum topographicæ picturæ. ...</div>",
+                  "source": "commons-desc-page"
+                },
+                "CommonsMetadataExtension": {
+                  "value": 1.2,
+                  "source": "extension",
+                  "hidden": ""
+                },
+                "Categories": {
+                  "value": "PD-old-100-expired|Scans from the Internet Archive/unverified|CC-PD-Mark|Scans from the Internet Archive|Books uploaded by Fæ|Books without Wikidata item|IA uploads needing categories|Old books from American Libraries|PD-old missing SDC copyright status|Books from John Carter Brown Library",
+                  "source": "commons-categories",
+                  "hidden": ""
+                },
+                "Assessments": {
+                  "value": "",
+                  "source": "commons-categories",
+                  "hidden": ""
+                },
+                "Artist": {
+                  "value": "<div class=\"fn value\">\nMünster, Sebastian, 1489-1552</div>",
+                  "source": "commons-desc-page"
+                },
+                "ImageDescription": {
+                  "value": "<div class=\"description\">\n<dl><dd>Translation of: Cosmographia. Beschreibung aller Lender. 1544. First published in Latin: 1550</dd>\n<dd>Date of publication from colophon</dd>\n<dd>Signatures: pi⁶ a-l⁸ A-B⁸ C-F⁸/⁶ G-R² S-X⁸ Y-Bb⁴/² Cc⁸ Dd-Gg⁴/² Hh² Ii⁴ Kk-Mm⁸ Nn² Oo-Tt⁸ Vu⁶ Xx² Yy-Zz⁸ AA-BB⁴ CC-FF⁸ GG-II² KK⁴ LL-MM² NN⁴ OO⁴ PP⁶ QQ⁴ RR-VV²/⁸ XX⁴ YY¹° ZZ⁸ AAa⁴ BBb-CCc⁸ DDd⁴ EEe² FFf-GGg⁸ HHh⁶ IIi² KKk⁴ LLl² MMm⁶ NNn⁸ OOo⁴ PPp-QQq² RRr⁶ SSs⁴ TTt² VVu⁸ XXx² YYy¹° ZZz⁶ AAA⁴ BBB-III⁸ KKK⁶ LLL⁴ MMM-PPP⁸ QQQ⁶ RRR⁴ SSS-YYY⁸ ZZZ⁶ AAAa⁴ BBBb-CCCc⁸ DDDd⁴ EEEe⁸ (EEEe7 verso blank; Yy5, YY5, FFf4, LLL3, AAAa3 missigned Yy4, FF5, EFf4, LLL2, AAAa2)</dd>\n<dd>Numerous errors in pagination</dd>\n<dd>Printer's device on title page</dd>\n<dd>There are 3 folding views which comprise eight pages each: the first found between pages 588 and 593 is numbered 589-590 and has the first leaf signed 003; the second and third found between pages 750-755, and 822 and 827, are numbered 751-752 and 823-825 and are signed EEe2-EEe3 and MMm4-MMm5</dd>\n<dd>Includes index</dd>\n<dd>Pages 1260-1279: De novis insulis</dd>\n<dd>JCB Lib. cat., pre-1675</dd>\n<dd>Alden, J.E. European Americana</dd>\n<dd>John Carter Brown Library copy lacks 2nd half of the view of Worms (between pages 588 and 593); lacks maps 10, 11, 12; title page, leaves EEE7-8 mounted; sides trimmed with some loss of marginalia</dd></dl>\n<br>Subjects: Geography; Imprint 1572</div>",
+                  "source": "commons-desc-page"
+                },
+                "Credit": {
+                  "value": "<dl><dd><a href=\"//archive.org/details/cosmographiaevni00mnst\" class=\"extiw\" title=\"iarchive:cosmographiaevni00mnst\"><bdi class=\"description en\" lang=\"en\" dir=\"ltr\">Internet Archive identifier</bdi>: cosmographiaevni00mnst</a></dd>\n<dd><a rel=\"nofollow\" class=\"external free\" href=\"https://archive.org/download/cosmographiaevni00mnst/cosmographiaevni00mnst.pdf\">https://archive.org/download/cosmographiaevni00mnst/cosmographiaevni00mnst.pdf</a></dd></dl>\n<ul><li>IA contributor: John Carter Brown Library</li></ul>",
+                  "source": "commons-desc-page"
+                },
+                "LicenseShortName": {
+                  "value": "Public domain",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "UsageTerms": {
+                  "value": "Public domain",
+                  "source": "commons-desc-page"
+                },
+                "AttributionRequired": {
+                  "value": "false",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "Copyrighted": {
+                  "value": "False",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "Restrictions": {
+                  "value": "",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "License": {
+                  "value": "pd",
+                  "source": "commons-templates",
+                  "hidden": ""
+                }
+              }
+            }
+          ]
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,109 @@
+{
+  "continue": {
+    "iistart": "2007-12-16T06:33:05Z",
+    "continue": "||"
+  },
+  "query": {
+    "pages": [
+      {
+        "pageid": 3235203,
+        "ns": 6,
+        "title": "File:HerodtheGreat2.jpg",
+        "imagerepository": "local",
+        "imageinfo": [
+          {
+            "size": 300248,
+            "width": 600,
+            "height": 551,
+            "thumburl": "https://upload.wikimedia.org/wikipedia/commons/f/f6/HerodtheGreat2.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+            "thumbwidth": 1600,
+            "thumbheight": 1469,
+            "thumbattribs": {
+              "src": "https://upload.wikimedia.org/wikipedia/commons/f/f6/HerodtheGreat2.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+              "decoding": "async",
+              "loading": "lazy",
+              "width": 1600,
+              "height": 1469
+            },
+            "url": "https://upload.wikimedia.org/wikipedia/commons/f/f6/HerodtheGreat2.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:HerodtheGreat2.jpg",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=3235203",
+            "sha1": "b1687a009afc773fa962fa3d4d0f1e3facdd566b",
+            "extmetadata": {
+              "DateTime": {
+                "value": "2014-07-13 00:30:20",
+                "source": "mediawiki-metadata",
+                "hidden": ""
+              },
+              "ObjectName": {
+                "value": "HerodtheGreat2",
+                "source": "mediawiki-metadata"
+              },
+              "CommonsMetadataExtension": {
+                "value": 1.2,
+                "source": "extension",
+                "hidden": ""
+              },
+              "Categories": {
+                "value": "Herod the Great|PD Old|Images with extracted images|Unknown date|Template Unknown (author)|CC-PD-Mark|PD-old missing SDC copyright status",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "Assessments": {
+                "value": "",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "ImageDescription": {
+                "value": "Herodes o Grande, which translates: \"Herod the Great\"",
+                "source": "commons-desc-page"
+              },
+              "DateTimeOriginal": {
+                "value": "Unknown date",
+                "source": "commons-desc-page"
+              },
+              "Credit": {
+                "value": "File from <a rel=\"nofollow\" class=\"external autonumber\" href=\"https://thisblogisratedpgforpropheticguidance.files.wordpress.com/2013/11/herod.jpg\">[1]</a>, cf larger copy at Getty: <a rel=\"nofollow\" class=\"external autonumber\" href=\"https://media.gettyimages.com/photos/circa-4-ad-bust-of-emperor-herod-the-great-picture-id51243879?s=2048x2048\">[2]</a>. Original publication: probably from a print edition of <i>La court sainte</i> by <a href=\"https://en.wikipedia.org/wiki/Nicolas_Caussin\" class=\"extiw\" title=\"en:Nicolas Caussin\">Nicolas Caussin</a>, 17th century. See copy of the same print in a contemporary translation of the same book here: <a rel=\"nofollow\" class=\"external autonumber\" href=\"http://www.pitts.emory.edu/dia/image_details.cfm?ID=132659\">[3]</a>",
+                "source": "commons-desc-page"
+              },
+              "Artist": {
+                "value": "Unknown author<span style=\"display: none;\">Unknown author</span>",
+                "source": "commons-desc-page"
+              },
+              "LicenseShortName": {
+                "value": "Public domain",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "UsageTerms": {
+                "value": "Public domain",
+                "source": "commons-desc-page"
+              },
+              "AttributionRequired": {
+                "value": "false",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Copyrighted": {
+                "value": "False",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Restrictions": {
+                "value": "",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "License": {
+                "value": "pd",
+                "source": "commons-templates",
+                "hidden": ""
+              }
+            },
+            "mime": "image/jpeg"
+          }
+        ]
+      }
+    ]
+  }
+}

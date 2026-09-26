@@ -1,0 +1,304 @@
+{
+  "person_id": "fadilla",
+  "query": "Fadilla portrait",
+  "response": {
+    "batchcomplete": true,
+    "query": {
+      "pages": [
+        {
+          "pageid": 393087,
+          "ns": 6,
+          "title": "File:Faustina Minor Louvre Ma1144.jpg",
+          "index": 1,
+          "imagerepository": "local",
+          "imageinfo": [
+            {
+              "size": 71080,
+              "width": 440,
+              "height": 600,
+              "thumburl": "https://upload.wikimedia.org/wikipedia/commons/c/c7/Faustina_Minor_Louvre_Ma1144.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+              "thumbwidth": 400,
+              "thumbheight": 545,
+              "thumbattribs": {
+                "src": "https://upload.wikimedia.org/wikipedia/commons/c/c7/Faustina_Minor_Louvre_Ma1144.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+                "decoding": "async",
+                "loading": "lazy",
+                "width": 400,
+                "height": 545
+              },
+              "url": "https://upload.wikimedia.org/wikipedia/commons/c/c7/Faustina_Minor_Louvre_Ma1144.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+              "descriptionurl": "https://commons.wikimedia.org/wiki/File:Faustina_Minor_Louvre_Ma1144.jpg",
+              "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=393087",
+              "extmetadata": {
+                "DateTime": {
+                  "value": "2005-10-29 19:06:08",
+                  "source": "mediawiki-metadata",
+                  "hidden": ""
+                },
+                "ObjectName": {
+                  "value": "Faustina Minor Louvre Ma1144",
+                  "source": "mediawiki-metadata"
+                },
+                "CommonsMetadataExtension": {
+                  "value": 1.2,
+                  "source": "extension",
+                  "hidden": ""
+                },
+                "Categories": {
+                  "value": "GFDL|Files with no machine-readable author|License migration completed|Artworks without Wikidata item|Bust of Faustina Minor (Louvre, Ma 1144)|Self-published work|Artworks with known accession number",
+                  "source": "commons-categories",
+                  "hidden": ""
+                },
+                "Assessments": {
+                  "value": "",
+                  "source": "commons-categories",
+                  "hidden": ""
+                },
+                "ImageDescription": {
+                  "value": "Faustina the Younger (130–175 AD). Marble, ca. 161 AD. From the area of Tivoli.",
+                  "source": "commons-desc-page"
+                },
+                "Credit": {
+                  "value": "<a href=\"https://en.wikipedia.org/wiki/User:ChrisO\" class=\"extiw\" title=\"en:User:ChrisO\">ChrisO</a>, first uploaded on the English-speaking Wikipedia (<a class=\"external text\" data-mw-original-href=\"http://en.wikipedia.org/w/index.php?title=Special:Log&amp;page=File:Faustina%20the%20younger.jpg\" href=\"https://en.wikipedia.org/w/index.php?title=Special:Log&amp;page=File:Faustina%20the%20younger.jpg\">log</a>) on <a href=\"//commons.wikimedia.org/w/index.php?title=2004-06-04&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"2004-06-04 (page does not exist)\">2004-06-04</a>",
+                  "source": "commons-desc-page"
+                },
+                "LicenseShortName": {
+                  "value": "CC BY-SA 3.0",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "UsageTerms": {
+                  "value": "Creative Commons Attribution-Share Alike 3.0",
+                  "source": "commons-desc-page"
+                },
+                "AttributionRequired": {
+                  "value": "true",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "Attribution": {
+                  "value": "​<a href=\"https://en.wikipedia.org/wiki/Main_Page\" class=\"extiw\" title=\"en:Main Page\">English-speaking Wikipedia</a> user <a href=\"https://en.wikipedia.org/wiki/User:ChrisO\" class=\"extiw\" title=\"en:User:ChrisO\">ChrisO</a>",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "LicenseUrl": {
+                  "value": "http://creativecommons.org/licenses/by-sa/3.0/",
+                  "source": "commons-desc-page"
+                },
+                "Copyrighted": {
+                  "value": "True",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "Restrictions": {
+                  "value": "",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "License": {
+                  "value": "cc-by-sa-3.0",
+                  "source": "commons-templates",
+                  "hidden": ""
+                }
+              }
+            }
+          ]
+        },
+        {
+          "pageid": 95322231,
+          "ns": 6,
+          "title": "File:L'antique Rome, ou, Description historique et pittoresque de tout ce qui concerne le peuple romain, dans ses costumes civiles, militaires et religieux (IA lantiqueromeoude00gras).pdf",
+          "index": 3,
+          "imagerepository": "local",
+          "imageinfo": [
+            {
+              "size": 20228049,
+              "width": 1287,
+              "height": 1752,
+              "pagecount": 340,
+              "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4e/L%27antique_Rome%2C_ou%2C_Description_historique_et_pittoresque_de_tout_ce_qui_concerne_le_peuple_romain%2C_dans_ses_costumes_civiles%2C_militaires_et_religieux_%28IA_lantiqueromeoude00gras%29.pdf/page1-500px-thumbnail.pdf.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+              "thumbwidth": 400,
+              "thumbheight": 545,
+              "responsiveUrls": {
+                "2": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4e/L%27antique_Rome%2C_ou%2C_Description_historique_et_pittoresque_de_tout_ce_qui_concerne_le_peuple_romain%2C_dans_ses_costumes_civiles%2C_militaires_et_religieux_%28IA_lantiqueromeoude00gras%29.pdf/page1-960px-thumbnail.pdf.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+              },
+              "thumbattribs": {
+                "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4e/L%27antique_Rome%2C_ou%2C_Description_historique_et_pittoresque_de_tout_ce_qui_concerne_le_peuple_romain%2C_dans_ses_costumes_civiles%2C_militaires_et_religieux_%28IA_lantiqueromeoude00gras%29.pdf/page1-500px-thumbnail.pdf.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+                "decoding": "async",
+                "loading": "lazy",
+                "width": 400,
+                "height": 545,
+                "srcset": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4e/L%27antique_Rome%2C_ou%2C_Description_historique_et_pittoresque_de_tout_ce_qui_concerne_le_peuple_romain%2C_dans_ses_costumes_civiles%2C_militaires_et_religieux_%28IA_lantiqueromeoude00gras%29.pdf/page1-960px-thumbnail.pdf.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail 2x"
+              },
+              "url": "https://upload.wikimedia.org/wikipedia/commons/4/4e/L%27antique_Rome%2C_ou%2C_Description_historique_et_pittoresque_de_tout_ce_qui_concerne_le_peuple_romain%2C_dans_ses_costumes_civiles%2C_militaires_et_religieux_%28IA_lantiqueromeoude00gras%29.pdf?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+              "descriptionurl": "https://commons.wikimedia.org/wiki/File:L%27antique_Rome,_ou,_Description_historique_et_pittoresque_de_tout_ce_qui_concerne_le_peuple_romain,_dans_ses_costumes_civiles,_militaires_et_religieux_(IA_lantiqueromeoude00gras).pdf",
+              "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=95322231",
+              "extmetadata": {
+                "DateTime": {
+                  "value": "2020-10-22 13:25:57",
+                  "source": "mediawiki-metadata",
+                  "hidden": ""
+                },
+                "ObjectName": {
+                  "value": "<div class=\"fn\">\nL'antique Rome, ou, Description historique et pittoresque de tout ce qui concerne le peuple romain, dans ses costumes civiles, militaires et religieux, dans ses moeurs publiques et privées depuis Romulus jusqu'à Augustule : ouvrage orné de cinquante tableaux</div>",
+                  "source": "commons-desc-page"
+                },
+                "CommonsMetadataExtension": {
+                  "value": 1.2,
+                  "source": "extension",
+                  "hidden": ""
+                },
+                "Categories": {
+                  "value": "Scans from the Internet Archive/unverified|PD US expired|Scans from the Internet Archive|Books uploaded by Fæ|Images from the Getty Research Institute|French-language books",
+                  "source": "commons-categories",
+                  "hidden": ""
+                },
+                "Assessments": {
+                  "value": "",
+                  "source": "commons-categories",
+                  "hidden": ""
+                },
+                "Artist": {
+                  "value": "<div class=\"fn value\">\n<dl><dd>Grasset de Saint-Sauveur, Jacques, 1757-1810</dd>\n<dd>Labrousse, printmaker</dd>\n<dd>Deroy, publisher</dd>\n<dd>Campenon, printer</dd></dl></div>",
+                  "source": "commons-desc-page"
+                },
+                "ImageDescription": {
+                  "value": "<div class=\"description\">\n<dl><dd>Binding: red morocco; spine, edges of boards and turn-ins gilt tooled; all edges gilt</dd>\n<dd>Signatures: pi² 1-28⁴</dd>\n<dd>With 2 hand-painted frontispieces and 48 colored aquatint plates, by Labrousse after Saint-Sauveur</dd>\n<dd>Cohen-De Ricci</dd></dl>\n<br>Subjects: Clothing and dress</div>",
+                  "source": "commons-desc-page"
+                },
+                "Credit": {
+                  "value": "<dl><dd><a href=\"//archive.org/details/lantiqueromeoude00gras\" class=\"extiw\" title=\"iarchive:lantiqueromeoude00gras\"><bdi class=\"description en\" lang=\"en\" dir=\"ltr\">Internet Archive identifier</bdi>: lantiqueromeoude00gras</a></dd>\n<dd><a rel=\"nofollow\" class=\"external free\" href=\"https://archive.org/download/lantiqueromeoude00gras/lantiqueromeoude00gras.pdf\">https://archive.org/download/lantiqueromeoude00gras/lantiqueromeoude00gras.pdf</a></dd></dl>",
+                  "source": "commons-desc-page"
+                },
+                "LicenseShortName": {
+                  "value": "Public domain",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "UsageTerms": {
+                  "value": "Public domain",
+                  "source": "commons-desc-page"
+                },
+                "AttributionRequired": {
+                  "value": "false",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "Copyrighted": {
+                  "value": "False",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "Restrictions": {
+                  "value": "",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "License": {
+                  "value": "pd",
+                  "source": "commons-templates",
+                  "hidden": ""
+                }
+              }
+            }
+          ]
+        },
+        {
+          "pageid": 97975206,
+          "ns": 6,
+          "title": "File:Life and writings of Juán de Valdés, otherwise Valdesso, Spanish reformer in the sixteenth century (IA cu31924029228370).pdf",
+          "index": 2,
+          "imagerepository": "local",
+          "imageinfo": [
+            {
+              "size": 16762393,
+              "width": 762,
+              "height": 1268,
+              "pagecount": 618,
+              "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6f/Life_and_writings_of_Ju%C3%A1n_de_Vald%C3%A9s%2C_otherwise_Valdesso%2C_Spanish_reformer_in_the_sixteenth_century_%28IA_cu31924029228370%29.pdf/page1-500px-Life_and_writings_of_Ju%C3%A1n_de_Vald%C3%A9s%2C_otherwise_Valdesso%2C_Spanish_reformer_in_the_sixteenth_century_%28IA_cu31924029228370%29.pdf.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+              "thumbwidth": 400,
+              "thumbheight": 666,
+              "thumbattribs": {
+                "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6f/Life_and_writings_of_Ju%C3%A1n_de_Vald%C3%A9s%2C_otherwise_Valdesso%2C_Spanish_reformer_in_the_sixteenth_century_%28IA_cu31924029228370%29.pdf/page1-500px-Life_and_writings_of_Ju%C3%A1n_de_Vald%C3%A9s%2C_otherwise_Valdesso%2C_Spanish_reformer_in_the_sixteenth_century_%28IA_cu31924029228370%29.pdf.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+                "decoding": "async",
+                "loading": "lazy",
+                "width": 400,
+                "height": 666
+              },
+              "url": "https://upload.wikimedia.org/wikipedia/commons/6/6f/Life_and_writings_of_Ju%C3%A1n_de_Vald%C3%A9s%2C_otherwise_Valdesso%2C_Spanish_reformer_in_the_sixteenth_century_%28IA_cu31924029228370%29.pdf?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+              "descriptionurl": "https://commons.wikimedia.org/wiki/File:Life_and_writings_of_Ju%C3%A1n_de_Vald%C3%A9s,_otherwise_Valdesso,_Spanish_reformer_in_the_sixteenth_century_(IA_cu31924029228370).pdf",
+              "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=97975206",
+              "extmetadata": {
+                "DateTime": {
+                  "value": "2020-12-23 06:59:02",
+                  "source": "mediawiki-metadata",
+                  "hidden": ""
+                },
+                "ObjectName": {
+                  "value": "<div class=\"fn\">\nLife and writings of Juán de Valdés, otherwise Valdesso, Spanish reformer in the sixteenth century</div>",
+                  "source": "commons-desc-page"
+                },
+                "CommonsMetadataExtension": {
+                  "value": 1.2,
+                  "source": "extension",
+                  "hidden": ""
+                },
+                "Categories": {
+                  "value": "Juan de Valdés|PD-old-100-expired|Scans from the Internet Archive/unverified|CC-PD-Mark|Scans from the Internet Archive|Books published in London|Books uploaded by Fæ|Books without Wikidata item|Scans from Cornell University Library",
+                  "source": "commons-categories",
+                  "hidden": ""
+                },
+                "Assessments": {
+                  "value": "",
+                  "source": "commons-categories",
+                  "hidden": ""
+                },
+                "Artist": {
+                  "value": "<div class=\"fn value\">\n<dl><dd>Wiffen, Benjamin B. (Benjamin Barron), 1794-1867</dd>\n<dd>Valdés, Juan de, d. 1541. Consideraciones divinas</dd>\n<dd>Betts, John T. (John Thomas)</dd></dl></div>",
+                  "source": "commons-desc-page"
+                },
+                "ImageDescription": {
+                  "value": "<div class=\"description\">\n<dl><dd>The metadata below describe the original scanning. Follow the \"All Files: HTTP\" link in the \"View the book\" box to the left to find XML files that contain more metadata about the original images and the derived formats (OCR results, PDF etc.). See also the <a rel=\"nofollow\" class=\"external text\" href=\"https://archive.org/about/faqs.php#140\">What is the directory structure for the texts?</a> FAQ for information about file content and naming conventions.</dd>\n<dd>\"Titles of the editions of the cx. considerations\": p. 179-192</dd></dl>\n<br>Subjects: Valdés, Juan de, d. 1541</div>",
+                  "source": "commons-desc-page"
+                },
+                "Credit": {
+                  "value": "<dl><dd><a href=\"//archive.org/details/cu31924029228370\" class=\"extiw\" title=\"iarchive:cu31924029228370\"><bdi class=\"description en\" lang=\"en\" dir=\"ltr\">Internet Archive identifier</bdi>: cu31924029228370</a></dd>\n<dd><a rel=\"nofollow\" class=\"external free\" href=\"https://archive.org/download/cu31924029228370/cu31924029228370.pdf\">https://archive.org/download/cu31924029228370/cu31924029228370.pdf</a></dd></dl>",
+                  "source": "commons-desc-page"
+                },
+                "LicenseShortName": {
+                  "value": "Public domain",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "UsageTerms": {
+                  "value": "Public domain",
+                  "source": "commons-desc-page"
+                },
+                "AttributionRequired": {
+                  "value": "false",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "Copyrighted": {
+                  "value": "False",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "Restrictions": {
+                  "value": "",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "License": {
+                  "value": "pd",
+                  "source": "commons-templates",
+                  "hidden": ""
+                }
+              }
+            }
+          ]
+        }
+      ]
+    }
+  }
+}

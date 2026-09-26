@@ -1,0 +1,584 @@
+{
+  "batchcomplete": true,
+  "continue": {
+    "gsroffset": 5,
+    "continue": "gsroffset||"
+  },
+  "query": {
+    "pages": [
+      {
+        "pageid": 17193731,
+        "ns": 6,
+        "title": "File:AURELIAN-RIC V 151-156851.jpg",
+        "index": 4,
+        "imagerepository": "local",
+        "imageinfo": [
+          {
+            "size": 40675,
+            "width": 500,
+            "height": 245,
+            "thumburl": "https://upload.wikimedia.org/wikipedia/commons/5/52/AURELIAN-RIC_V_151-156851.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+            "thumbwidth": 960,
+            "thumbheight": 470,
+            "thumbattribs": {
+              "src": "https://upload.wikimedia.org/wikipedia/commons/5/52/AURELIAN-RIC_V_151-156851.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+              "decoding": "async",
+              "loading": "lazy",
+              "width": 960,
+              "height": 470
+            },
+            "url": "https://upload.wikimedia.org/wikipedia/commons/5/52/AURELIAN-RIC_V_151-156851.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:AURELIAN-RIC_V_151-156851.jpg",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=17193731",
+            "extmetadata": {
+              "DateTime": {
+                "value": "2011-10-31 19:39:30",
+                "source": "mediawiki-metadata",
+                "hidden": ""
+              },
+              "ObjectName": {
+                "value": "AURELIAN-RIC V 151-156851",
+                "source": "mediawiki-metadata"
+              },
+              "CommonsMetadataExtension": {
+                "value": 1.2,
+                "source": "extension",
+                "hidden": ""
+              },
+              "Categories": {
+                "value": "GFDL|Antoninianus|License migration not eligible|Self-published work|CNG coins|Items with VRTS permission confirmed|Helios on coins|274 coins|Captives on coins|Radiant crowns on Roman coins and medals|Coins of Aurelianus|Both sides of coins of Ticinum",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "Assessments": {
+                "value": "",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "ImageDescription": {
+                "value": "AURELIAN. 270-275 AD. \n<dl><dd>Antoninianus (22mm, 3.44 gm, 5h). Ticinum mint, 4th officina, 3rd emission, October 274 AD.\n<dl><dd><dl><dd>IMP C AVRELIANVS AVG, radiate and cuirassed bust right</dd>\n<dd>ORIENS AVG, Sol, radiate, standing left, chlamys across shoulder, right hand raised, holding globe; two bound captives seated to left and right below; QXXT.</dd></dl></dd></dl></dd>\n<dd>RIC V 151; MIR 47, 71b4; BN 615.</dd></dl>",
+                "source": "commons-desc-page"
+              },
+              "DateTimeOriginal": {
+                "value": "2011-10-31",
+                "source": "commons-desc-page"
+              },
+              "Credit": {
+                "value": "<a rel=\"nofollow\" class=\"external free\" href=\"http://www.cngcoins.com/Coin.aspx?CoinID=64406\">http://www.cngcoins.com/Coin.aspx?CoinID=64406</a>",
+                "source": "commons-desc-page"
+              },
+              "Artist": {
+                "value": "CNG",
+                "source": "commons-desc-page"
+              },
+              "Permission": {
+                "value": "You may select the license of your choice.",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "LicenseShortName": {
+                "value": "CC BY-SA 2.5",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "UsageTerms": {
+                "value": "Creative Commons Attribution-Share Alike 2.5",
+                "source": "commons-desc-page"
+              },
+              "AttributionRequired": {
+                "value": "true",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Attribution": {
+                "value": "Classical Numismatic Group, Inc. <a rel=\"nofollow\" class=\"external free\" href=\"http://www.cngcoins.com\">http://www.cngcoins.com</a>",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "LicenseUrl": {
+                "value": "https://creativecommons.org/licenses/by-sa/2.5",
+                "source": "commons-desc-page"
+              },
+              "Copyrighted": {
+                "value": "True",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Restrictions": {
+                "value": "",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "License": {
+                "value": "cc-by-sa-2.5",
+                "source": "commons-templates",
+                "hidden": ""
+              }
+            }
+          }
+        ]
+      },
+      {
+        "pageid": 55747807,
+        "ns": 6,
+        "title": "File:Radiate , Aurelian (FindID 514854).jpg",
+        "index": 5,
+        "imagerepository": "local",
+        "imageinfo": [
+          {
+            "size": 679152,
+            "width": 1927,
+            "height": 1256,
+            "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/95/Radiate_%2C_Aurelian_%28FindID_514854%29.jpg/960px-Radiate_%2C_Aurelian_%28FindID_514854%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+            "thumbwidth": 960,
+            "thumbheight": 626,
+            "responsiveUrls": {
+              "2": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/95/Radiate_%2C_Aurelian_%28FindID_514854%29.jpg/1920px-Radiate_%2C_Aurelian_%28FindID_514854%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+            },
+            "thumbattribs": {
+              "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/95/Radiate_%2C_Aurelian_%28FindID_514854%29.jpg/960px-Radiate_%2C_Aurelian_%28FindID_514854%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+              "decoding": "async",
+              "loading": "lazy",
+              "width": 960,
+              "height": 626,
+              "srcset": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/95/Radiate_%2C_Aurelian_%28FindID_514854%29.jpg/1920px-Radiate_%2C_Aurelian_%28FindID_514854%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail 2x"
+            },
+            "url": "https://upload.wikimedia.org/wikipedia/commons/9/95/Radiate_%2C_Aurelian_%28FindID_514854%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:Radiate_,_Aurelian_(FindID_514854).jpg",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=55747807",
+            "extmetadata": {
+              "DateTime": {
+                "value": "2017-02-02 05:55:00",
+                "source": "mediawiki-metadata",
+                "hidden": ""
+              },
+              "ObjectName": {
+                "value": "<div class=\"fn\">\nRadiate : Aurelian</div>",
+                "source": "commons-desc-page"
+              },
+              "CommonsMetadataExtension": {
+                "value": 1.2,
+                "source": "extension",
+                "hidden": ""
+              },
+              "Categories": {
+                "value": "Portable Antiquities Scheme|Images uploaded by Fæ|Portable Antiquities Scheme, YORYM",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "Assessments": {
+                "value": "",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "Artist": {
+                "value": "<div class=\"fn value\">\nYork Museums Trust, Ellie Cox, 2012-08-02 14:29:39</div>",
+                "source": "commons-desc-page"
+              },
+              "ImageDescription": {
+                "value": "A complete copper alloy radiate of Vabalathvs (king of Palmyra), joint coinage with Aurelian dated to AD 271-272, Reece Period 13. Reverse type IMP C AVRELIANVS AVG, double busted. Antioch mint.",
+                "source": "commons-desc-page"
+              },
+              "DateTimeOriginal": {
+                "value": "between 260 and 275",
+                "source": "commons-desc-page"
+              },
+              "Credit": {
+                "value": "<a rel=\"nofollow\" class=\"external free\" href=\"https://finds.org.uk/database/ajax/download/id/391059\">https://finds.org.uk/database/ajax/download/id/391059</a><br>Catalog: <a rel=\"nofollow\" class=\"external free\" href=\"https://finds.org.uk/database/images/image/id/391059\">https://finds.org.uk/database/images/image/id/391059</a><br>Artefact: <a rel=\"nofollow\" class=\"external free\" href=\"https://finds.org.uk/database/artefacts/record/id/514854\">https://finds.org.uk/database/artefacts/record/id/514854</a>",
+                "source": "commons-desc-page"
+              },
+              "Permission": {
+                "value": "Attribution-ShareAlike License",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "LicenseShortName": {
+                "value": "CC BY-SA 2.0",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "UsageTerms": {
+                "value": "Creative Commons Attribution-Share Alike 2.0",
+                "source": "commons-desc-page"
+              },
+              "AttributionRequired": {
+                "value": "true",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Attribution": {
+                "value": "The Portable Antiquities Scheme/ The Trustees of the British Museum",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "LicenseUrl": {
+                "value": "https://creativecommons.org/licenses/by-sa/2.0",
+                "source": "commons-desc-page"
+              },
+              "Copyrighted": {
+                "value": "True",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Restrictions": {
+                "value": "",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "License": {
+                "value": "cc-by-sa-2.0",
+                "source": "commons-templates",
+                "hidden": ""
+              }
+            }
+          }
+        ]
+      },
+      {
+        "pageid": 105305276,
+        "ns": 6,
+        "title": "File:Antoninianus of Aurelian - Obverse.jpg",
+        "index": 1,
+        "imagerepository": "local",
+        "imageinfo": [
+          {
+            "size": 831751,
+            "width": 2576,
+            "height": 1932,
+            "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d1/Antoninianus_of_Aurelian_-_Obverse.jpg/960px-Antoninianus_of_Aurelian_-_Obverse.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+            "thumbwidth": 960,
+            "thumbheight": 720,
+            "responsiveUrls": {
+              "2": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d1/Antoninianus_of_Aurelian_-_Obverse.jpg/1920px-Antoninianus_of_Aurelian_-_Obverse.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+            },
+            "thumbattribs": {
+              "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d1/Antoninianus_of_Aurelian_-_Obverse.jpg/960px-Antoninianus_of_Aurelian_-_Obverse.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+              "decoding": "async",
+              "loading": "lazy",
+              "width": 960,
+              "height": 720,
+              "srcset": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d1/Antoninianus_of_Aurelian_-_Obverse.jpg/1920px-Antoninianus_of_Aurelian_-_Obverse.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail 2x"
+            },
+            "url": "https://upload.wikimedia.org/wikipedia/commons/d/d1/Antoninianus_of_Aurelian_-_Obverse.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:Antoninianus_of_Aurelian_-_Obverse.jpg",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=105305276",
+            "extmetadata": {
+              "DateTime": {
+                "value": "2021-05-14 22:38:10",
+                "source": "mediawiki-metadata",
+                "hidden": ""
+              },
+              "ObjectName": {
+                "value": "Antoninianus of Aurelian - Obverse",
+                "source": "mediawiki-metadata"
+              },
+              "CommonsMetadataExtension": {
+                "value": 1.2,
+                "source": "extension",
+                "hidden": ""
+              },
+              "Categories": {
+                "value": "Antoninianus|Flickr images reviewed by FlickreviewR 2|Files with coordinates missing SDC location of creation (50° N, 2° W)|Radiant crowns on Roman coins and medals|Coins of Aurelianus",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "Assessments": {
+                "value": "",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "GPSLatitude": {
+                "value": "50.937844",
+                "source": "commons-desc-page"
+              },
+              "GPSLongitude": {
+                "value": "-1.003185",
+                "source": "commons-desc-page"
+              },
+              "GPSMapDatum": {
+                "value": "WGS-84",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "ImageDescription": {
+                "value": "Minted in Cyzicus between AD 270 and 275.\n<p>RIC V, 347-349.\n</p><p>Obverse: Bust of Aurelian, radiate, cuirassed, right, with legend IMP C AVRELIANVS AVG.\n</p><p>Reverse: Female, draped, standing right, presenting wreath to Aurelian, standing left, holding spear; between them, kneeling figure, with legend RESTITVTOR ORBIS.\n</p><p>Mintmark of Star and Gamma in exergue.\n</p><p>Weight: 4g.\nDiameter: 22mm.\n</p>\nAcquired from Roma Numismatics in October 2018.",
+                "source": "commons-desc-page"
+              },
+              "DateTimeOriginal": {
+                "value": "2021-03-23 15:57:04",
+                "source": "commons-desc-page"
+              },
+              "Credit": {
+                "value": "<a rel=\"nofollow\" class=\"external free\" href=\"https://www.flickr.com/photos/184393744@N06/51070674978/\">https://www.flickr.com/photos/184393744@N06/51070674978/</a>",
+                "source": "commons-desc-page"
+              },
+              "Artist": {
+                "value": "MumblerJamie",
+                "source": "commons-desc-page"
+              },
+              "LicenseShortName": {
+                "value": "CC BY-SA 2.0",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "UsageTerms": {
+                "value": "Creative Commons Attribution-Share Alike 2.0",
+                "source": "commons-desc-page"
+              },
+              "AttributionRequired": {
+                "value": "true",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "LicenseUrl": {
+                "value": "https://creativecommons.org/licenses/by-sa/2.0",
+                "source": "commons-desc-page"
+              },
+              "Copyrighted": {
+                "value": "True",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Restrictions": {
+                "value": "",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "License": {
+                "value": "cc-by-sa-2.0",
+                "source": "commons-templates",
+                "hidden": ""
+              }
+            }
+          }
+        ]
+      },
+      {
+        "pageid": 105305279,
+        "ns": 6,
+        "title": "File:Antoninianus of Aurelian - Reverse.jpg",
+        "index": 2,
+        "imagerepository": "local",
+        "imageinfo": [
+          {
+            "size": 915904,
+            "width": 2576,
+            "height": 1932,
+            "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2b/Antoninianus_of_Aurelian_-_Reverse.jpg/960px-Antoninianus_of_Aurelian_-_Reverse.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+            "thumbwidth": 960,
+            "thumbheight": 720,
+            "responsiveUrls": {
+              "2": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2b/Antoninianus_of_Aurelian_-_Reverse.jpg/1920px-Antoninianus_of_Aurelian_-_Reverse.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+            },
+            "thumbattribs": {
+              "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2b/Antoninianus_of_Aurelian_-_Reverse.jpg/960px-Antoninianus_of_Aurelian_-_Reverse.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+              "decoding": "async",
+              "loading": "lazy",
+              "width": 960,
+              "height": 720,
+              "srcset": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2b/Antoninianus_of_Aurelian_-_Reverse.jpg/1920px-Antoninianus_of_Aurelian_-_Reverse.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail 2x"
+            },
+            "url": "https://upload.wikimedia.org/wikipedia/commons/2/2b/Antoninianus_of_Aurelian_-_Reverse.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:Antoninianus_of_Aurelian_-_Reverse.jpg",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=105305279",
+            "extmetadata": {
+              "DateTime": {
+                "value": "2021-05-14 22:38:10",
+                "source": "mediawiki-metadata",
+                "hidden": ""
+              },
+              "ObjectName": {
+                "value": "Antoninianus of Aurelian - Reverse",
+                "source": "mediawiki-metadata"
+              },
+              "CommonsMetadataExtension": {
+                "value": 1.2,
+                "source": "extension",
+                "hidden": ""
+              },
+              "Categories": {
+                "value": "Antoninianus|Flickr images reviewed by FlickreviewR 2|Files with coordinates missing SDC location of creation (50° N, 2° W)|Coins of Aurelianus",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "Assessments": {
+                "value": "",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "GPSLatitude": {
+                "value": "50.937834",
+                "source": "commons-desc-page"
+              },
+              "GPSLongitude": {
+                "value": "-1.003179",
+                "source": "commons-desc-page"
+              },
+              "GPSMapDatum": {
+                "value": "WGS-84",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "ImageDescription": {
+                "value": "Minted in Cyzicus between AD 270 and 275.\n<p>RIC V, 347-349.\n</p><p>Obverse: Bust of Aurelian, radiate, cuirassed, right, with legend IMP C AVRELIANVS AVG.\n</p><p>Reverse: Female, draped, standing right, presenting wreath to Aurelian, standing left, holding spear; between them, kneeling figure, with legend RESTITVTOR ORBIS.\n</p><p>Weight: 4g.\nDiameter: 22mm.\n</p>\nAcquired from Roma Numismatics in October 2018.",
+                "source": "commons-desc-page"
+              },
+              "DateTimeOriginal": {
+                "value": "2021-03-23 15:57:11",
+                "source": "commons-desc-page"
+              },
+              "Credit": {
+                "value": "<a rel=\"nofollow\" class=\"external free\" href=\"https://www.flickr.com/photos/184393744@N06/51071370121/\">https://www.flickr.com/photos/184393744@N06/51071370121/</a>",
+                "source": "commons-desc-page"
+              },
+              "Artist": {
+                "value": "MumblerJamie",
+                "source": "commons-desc-page"
+              },
+              "LicenseShortName": {
+                "value": "CC BY-SA 2.0",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "UsageTerms": {
+                "value": "Creative Commons Attribution-Share Alike 2.0",
+                "source": "commons-desc-page"
+              },
+              "AttributionRequired": {
+                "value": "true",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "LicenseUrl": {
+                "value": "https://creativecommons.org/licenses/by-sa/2.0",
+                "source": "commons-desc-page"
+              },
+              "Copyrighted": {
+                "value": "True",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Restrictions": {
+                "value": "",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "License": {
+                "value": "cc-by-sa-2.0",
+                "source": "commons-templates",
+                "hidden": ""
+              }
+            }
+          }
+        ]
+      },
+      {
+        "pageid": 126326256,
+        "ns": 6,
+        "title": "File:Aurelian-with-vabalathus (reverse).jpg",
+        "index": 3,
+        "imagerepository": "local",
+        "imageinfo": [
+          {
+            "size": 51031,
+            "width": 396,
+            "height": 383,
+            "thumburl": "https://upload.wikimedia.org/wikipedia/commons/5/5b/Aurelian-with-vabalathus_%28reverse%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+            "thumbwidth": 960,
+            "thumbheight": 928,
+            "thumbattribs": {
+              "src": "https://upload.wikimedia.org/wikipedia/commons/5/5b/Aurelian-with-vabalathus_%28reverse%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+              "decoding": "async",
+              "loading": "lazy",
+              "width": 960,
+              "height": 928
+            },
+            "url": "https://upload.wikimedia.org/wikipedia/commons/5/5b/Aurelian-with-vabalathus_%28reverse%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:Aurelian-with-vabalathus_(reverse).jpg",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=126326256",
+            "extmetadata": {
+              "DateTime": {
+                "value": "2022-12-05 05:25:47",
+                "source": "mediawiki-metadata",
+                "hidden": ""
+              },
+              "ObjectName": {
+                "value": "Aurelian-with-vabalathus (reverse)",
+                "source": "mediawiki-metadata"
+              },
+              "CommonsMetadataExtension": {
+                "value": 1.2,
+                "source": "extension",
+                "hidden": ""
+              },
+              "Categories": {
+                "value": "GFDL|License migration not eligible|Self-published work|CNG coins|Items with VRTS permission confirmed|Extracted images|Men facing right and looking right|Aureus of Aurelianus|Coins of Vaballathus",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "Assessments": {
+                "value": "",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "ImageDescription": {
+                "value": "Lot 840. <a href=\"https://en.wikipedia.org/wiki/Aurelian\" class=\"extiw\" title=\"w:Aurelian\">Aurelian</a>, with <a href=\"https://en.wikipedia.org/wiki/Vabalathus\" class=\"extiw\" title=\"w:Vabalathus\">Vabalathus</a>. AD 270-275. AV Light Aureus (17mm, 2.09 g, 6h). Antioch mint. Struck November AD 270-March AD 272. IMP C AVRELIANVS AVG, laureate and cuirassed bust right / VABALATHVS V C R IM D R, laureate, draped, and cuirassed bust right. Unpublished. Fully lustrous, scratches beneath Aurelian’s bust, small metal flaw on Vabalathus’ face. Superb EF. Unique. A monumental discovery piece.",
+                "source": "commons-desc-page"
+              },
+              "DateTimeOriginal": {
+                "value": "2020",
+                "source": "commons-desc-page"
+              },
+              "Credit": {
+                "value": "<a rel=\"nofollow\" class=\"external free\" href=\"https://www.sixbid.com/en/classical-numismatic-group/6952/roman-imperial/5686793/b-aurelian-with-vabalathus-b-ad-270-275\">https://www.sixbid.com/en/classical-numismatic-group/6952/roman-imperial/5686793/b-aurelian-with-vabalathus-b-ad-270-275</a>",
+                "source": "commons-desc-page"
+              },
+              "Artist": {
+                "value": "CNG",
+                "source": "commons-desc-page"
+              },
+              "LicenseShortName": {
+                "value": "CC BY-SA 2.5",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "UsageTerms": {
+                "value": "Creative Commons Attribution-Share Alike 2.5",
+                "source": "commons-desc-page"
+              },
+              "AttributionRequired": {
+                "value": "true",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Attribution": {
+                "value": "Classical Numismatic Group, Inc. <a rel=\"nofollow\" class=\"external free\" href=\"http://www.cngcoins.com\">http://www.cngcoins.com</a>",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "LicenseUrl": {
+                "value": "https://creativecommons.org/licenses/by-sa/2.5",
+                "source": "commons-desc-page"
+              },
+              "Copyrighted": {
+                "value": "True",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Restrictions": {
+                "value": "",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "License": {
+                "value": "cc-by-sa-2.5",
+                "source": "commons-templates",
+                "hidden": ""
+              }
+            }
+          }
+        ]
+      }
+    ]
+  }
+}

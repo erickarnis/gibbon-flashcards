@@ -1,0 +1,296 @@
+{
+  "person_id": "anulinus-master-of-diocletian-s-parents",
+  "query": "Anulinus (master of Diocletian's parents)",
+  "response": {
+    "batchcomplete": true,
+    "query": {
+      "pages": [
+        {
+          "pageid": 94927334,
+          "ns": 6,
+          "title": "File:Dalmatia, the Quarnero and Istria, with Cettigne in Montenegro and the island of Grado (IA dalmatiaquarnero02jack 0).pdf",
+          "index": 3,
+          "imagerepository": "local",
+          "imageinfo": [
+            {
+              "size": 26220864,
+              "width": 800,
+              "height": 1310,
+              "pagecount": 486,
+              "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c8/Dalmatia%2C_the_Quarnero_and_Istria%2C_with_Cettigne_in_Montenegro_and_the_island_of_Grado_%28IA_dalmatiaquarnero02jack_0%29.pdf/page1-500px-Dalmatia%2C_the_Quarnero_and_Istria%2C_with_Cettigne_in_Montenegro_and_the_island_of_Grado_%28IA_dalmatiaquarnero02jack_0%29.pdf.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+              "thumbwidth": 400,
+              "thumbheight": 655,
+              "thumbattribs": {
+                "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c8/Dalmatia%2C_the_Quarnero_and_Istria%2C_with_Cettigne_in_Montenegro_and_the_island_of_Grado_%28IA_dalmatiaquarnero02jack_0%29.pdf/page1-500px-Dalmatia%2C_the_Quarnero_and_Istria%2C_with_Cettigne_in_Montenegro_and_the_island_of_Grado_%28IA_dalmatiaquarnero02jack_0%29.pdf.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+                "decoding": "async",
+                "loading": "lazy",
+                "width": 400,
+                "height": 655
+              },
+              "url": "https://upload.wikimedia.org/wikipedia/commons/c/c8/Dalmatia%2C_the_Quarnero_and_Istria%2C_with_Cettigne_in_Montenegro_and_the_island_of_Grado_%28IA_dalmatiaquarnero02jack_0%29.pdf?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+              "descriptionurl": "https://commons.wikimedia.org/wiki/File:Dalmatia,_the_Quarnero_and_Istria,_with_Cettigne_in_Montenegro_and_the_island_of_Grado_(IA_dalmatiaquarnero02jack_0).pdf",
+              "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=94927334",
+              "extmetadata": {
+                "DateTime": {
+                  "value": "2020-10-10 16:58:54",
+                  "source": "mediawiki-metadata",
+                  "hidden": ""
+                },
+                "ObjectName": {
+                  "value": "<div class=\"fn\">\nDalmatia, the Quarnero and Istria, with Cettigne in Montenegro and the island of Grado</div>",
+                  "source": "commons-desc-page"
+                },
+                "CommonsMetadataExtension": {
+                  "value": 1.2,
+                  "source": "extension",
+                  "hidden": ""
+                },
+                "Categories": {
+                  "value": "Scans from the Internet Archive/unverified|PD US expired|Scans from the Internet Archive|Books uploaded by Fæ|Books without Wikidata item|Images from the Getty Research Institute",
+                  "source": "commons-categories",
+                  "hidden": ""
+                },
+                "Assessments": {
+                  "value": "",
+                  "source": "commons-categories",
+                  "hidden": ""
+                },
+                "Artist": {
+                  "value": "<div class=\"fn value\">\nJackson, Thomas Graham, Sir, 1835-1924</div>",
+                  "source": "commons-desc-page"
+                },
+                "ImageDescription": {
+                  "value": "<div class=\"description\">\nSubjects: Art</div>",
+                  "source": "commons-desc-page"
+                },
+                "Credit": {
+                  "value": "<dl><dd><a href=\"//archive.org/details/dalmatiaquarnero02jack_0\" class=\"extiw\" title=\"iarchive:dalmatiaquarnero02jack 0\"><bdi class=\"description en\" lang=\"en\" dir=\"ltr\">Internet Archive identifier</bdi>: dalmatiaquarnero02jack_0</a></dd>\n<dd><a rel=\"nofollow\" class=\"external free\" href=\"https://archive.org/download/dalmatiaquarnero02jack_0/dalmatiaquarnero02jack_0.pdf\">https://archive.org/download/dalmatiaquarnero02jack_0/dalmatiaquarnero02jack_0.pdf</a></dd></dl>",
+                  "source": "commons-desc-page"
+                },
+                "LicenseShortName": {
+                  "value": "Public domain",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "UsageTerms": {
+                  "value": "Public domain",
+                  "source": "commons-desc-page"
+                },
+                "AttributionRequired": {
+                  "value": "false",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "Copyrighted": {
+                  "value": "False",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "Restrictions": {
+                  "value": "",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "License": {
+                  "value": "pd",
+                  "source": "commons-templates",
+                  "hidden": ""
+                }
+              }
+            }
+          ]
+        },
+        {
+          "pageid": 95038968,
+          "ns": 6,
+          "title": "File:Dalmatia, the Quarnero and Istria, with Cettigne in Montenegro and the island of Grado (IA dalmatiaquarnero02jack).pdf",
+          "index": 1,
+          "imagerepository": "local",
+          "imageinfo": [
+            {
+              "size": 25595675,
+              "width": 795,
+              "height": 1304,
+              "pagecount": 486,
+              "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7f/Dalmatia%2C_the_Quarnero_and_Istria%2C_with_Cettigne_in_Montenegro_and_the_island_of_Grado_%28IA_dalmatiaquarnero02jack%29.pdf/page1-500px-Dalmatia%2C_the_Quarnero_and_Istria%2C_with_Cettigne_in_Montenegro_and_the_island_of_Grado_%28IA_dalmatiaquarnero02jack%29.pdf.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+              "thumbwidth": 400,
+              "thumbheight": 656,
+              "thumbattribs": {
+                "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7f/Dalmatia%2C_the_Quarnero_and_Istria%2C_with_Cettigne_in_Montenegro_and_the_island_of_Grado_%28IA_dalmatiaquarnero02jack%29.pdf/page1-500px-Dalmatia%2C_the_Quarnero_and_Istria%2C_with_Cettigne_in_Montenegro_and_the_island_of_Grado_%28IA_dalmatiaquarnero02jack%29.pdf.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+                "decoding": "async",
+                "loading": "lazy",
+                "width": 400,
+                "height": 656
+              },
+              "url": "https://upload.wikimedia.org/wikipedia/commons/7/7f/Dalmatia%2C_the_Quarnero_and_Istria%2C_with_Cettigne_in_Montenegro_and_the_island_of_Grado_%28IA_dalmatiaquarnero02jack%29.pdf?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+              "descriptionurl": "https://commons.wikimedia.org/wiki/File:Dalmatia,_the_Quarnero_and_Istria,_with_Cettigne_in_Montenegro_and_the_island_of_Grado_(IA_dalmatiaquarnero02jack).pdf",
+              "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=95038968",
+              "extmetadata": {
+                "DateTime": {
+                  "value": "2020-10-13 23:41:12",
+                  "source": "mediawiki-metadata",
+                  "hidden": ""
+                },
+                "ObjectName": {
+                  "value": "<div class=\"fn\">\nDalmatia, the Quarnero and Istria, with Cettigne in Montenegro and the island of Grado</div>",
+                  "source": "commons-desc-page"
+                },
+                "CommonsMetadataExtension": {
+                  "value": 1.2,
+                  "source": "extension",
+                  "hidden": ""
+                },
+                "Categories": {
+                  "value": "Scans from the Internet Archive/unverified|PD US expired|Scans from the Internet Archive|Books uploaded by Fæ|Books without Wikidata item|California Digital Library",
+                  "source": "commons-categories",
+                  "hidden": ""
+                },
+                "Assessments": {
+                  "value": "",
+                  "source": "commons-categories",
+                  "hidden": ""
+                },
+                "Artist": {
+                  "value": "<div class=\"fn value\">\nJackson, Thomas Graham, Sir, 1835-1924</div>",
+                  "source": "commons-desc-page"
+                },
+                "ImageDescription": {
+                  "value": "<div class=\"description\">\nSubjects: Art</div>",
+                  "source": "commons-desc-page"
+                },
+                "Credit": {
+                  "value": "<dl><dd><a href=\"//archive.org/details/dalmatiaquarnero02jack\" class=\"extiw\" title=\"iarchive:dalmatiaquarnero02jack\"><bdi class=\"description en\" lang=\"en\" dir=\"ltr\">Internet Archive identifier</bdi>: dalmatiaquarnero02jack</a></dd>\n<dd><a rel=\"nofollow\" class=\"external free\" href=\"https://archive.org/download/dalmatiaquarnero02jack/dalmatiaquarnero02jack.pdf\">https://archive.org/download/dalmatiaquarnero02jack/dalmatiaquarnero02jack.pdf</a></dd></dl>",
+                  "source": "commons-desc-page"
+                },
+                "LicenseShortName": {
+                  "value": "Public domain",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "UsageTerms": {
+                  "value": "Public domain",
+                  "source": "commons-desc-page"
+                },
+                "AttributionRequired": {
+                  "value": "false",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "Copyrighted": {
+                  "value": "False",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "Restrictions": {
+                  "value": "",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "License": {
+                  "value": "pd",
+                  "source": "commons-templates",
+                  "hidden": ""
+                }
+              }
+            }
+          ]
+        },
+        {
+          "pageid": 98195832,
+          "ns": 6,
+          "title": "File:Dalmatia, the Quarnero and Istria, with Cettigne in Montenegro and the island of Grado (IA cu31924088009653).pdf",
+          "index": 2,
+          "imagerepository": "local",
+          "imageinfo": [
+            {
+              "size": 13819873,
+              "width": 762,
+              "height": 1243,
+              "pagecount": 532,
+              "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/33/Dalmatia%2C_the_Quarnero_and_Istria%2C_with_Cettigne_in_Montenegro_and_the_island_of_Grado_%28IA_cu31924088009653%29.pdf/page1-500px-Dalmatia%2C_the_Quarnero_and_Istria%2C_with_Cettigne_in_Montenegro_and_the_island_of_Grado_%28IA_cu31924088009653%29.pdf.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+              "thumbwidth": 400,
+              "thumbheight": 652,
+              "thumbattribs": {
+                "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/33/Dalmatia%2C_the_Quarnero_and_Istria%2C_with_Cettigne_in_Montenegro_and_the_island_of_Grado_%28IA_cu31924088009653%29.pdf/page1-500px-Dalmatia%2C_the_Quarnero_and_Istria%2C_with_Cettigne_in_Montenegro_and_the_island_of_Grado_%28IA_cu31924088009653%29.pdf.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+                "decoding": "async",
+                "loading": "lazy",
+                "width": 400,
+                "height": 652
+              },
+              "url": "https://upload.wikimedia.org/wikipedia/commons/3/33/Dalmatia%2C_the_Quarnero_and_Istria%2C_with_Cettigne_in_Montenegro_and_the_island_of_Grado_%28IA_cu31924088009653%29.pdf?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+              "descriptionurl": "https://commons.wikimedia.org/wiki/File:Dalmatia,_the_Quarnero_and_Istria,_with_Cettigne_in_Montenegro_and_the_island_of_Grado_(IA_cu31924088009653).pdf",
+              "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=98195832",
+              "extmetadata": {
+                "DateTime": {
+                  "value": "2020-12-29 11:21:07",
+                  "source": "mediawiki-metadata",
+                  "hidden": ""
+                },
+                "ObjectName": {
+                  "value": "<div class=\"fn\">\nDalmatia, the Quarnero and Istria, with Cettigne in Montenegro and the island of Grado</div>",
+                  "source": "commons-desc-page"
+                },
+                "CommonsMetadataExtension": {
+                  "value": 1.2,
+                  "source": "extension",
+                  "hidden": ""
+                },
+                "Categories": {
+                  "value": "PD-old-100-expired|Scans from the Internet Archive/unverified|CC-PD-Mark|Scans from the Internet Archive|Books uploaded by Fæ|Books without Wikidata item|Scans from Cornell University Library",
+                  "source": "commons-categories",
+                  "hidden": ""
+                },
+                "Assessments": {
+                  "value": "",
+                  "source": "commons-categories",
+                  "hidden": ""
+                },
+                "Artist": {
+                  "value": "<div class=\"fn value\">\nJackson, Thomas Graham, Sir, 1835-1924</div>",
+                  "source": "commons-desc-page"
+                },
+                "ImageDescription": {
+                  "value": "<div class=\"description\">\n<p>The metadata below describe the original scanning. Follow the \"All Files: HTTP\" link in the \"View the book\" box to the left to find XML files that contain more metadata about the original images and the derived formats (OCR results, PDF etc.). See also the <a rel=\"nofollow\" class=\"external text\" href=\"https://archive.org/about/faqs.php#140\">What is the directory structure for the texts?</a> FAQ for information about file content and naming conventions.\n</p>\n<br>Subjects: Art</div>",
+                  "source": "commons-desc-page"
+                },
+                "Credit": {
+                  "value": "<dl><dd><a href=\"//archive.org/details/cu31924088009653\" class=\"extiw\" title=\"iarchive:cu31924088009653\"><bdi class=\"description en\" lang=\"en\" dir=\"ltr\">Internet Archive identifier</bdi>: cu31924088009653</a></dd>\n<dd><a rel=\"nofollow\" class=\"external free\" href=\"https://archive.org/download/cu31924088009653/cu31924088009653.pdf\">https://archive.org/download/cu31924088009653/cu31924088009653.pdf</a></dd></dl>",
+                  "source": "commons-desc-page"
+                },
+                "LicenseShortName": {
+                  "value": "Public domain",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "UsageTerms": {
+                  "value": "Public domain",
+                  "source": "commons-desc-page"
+                },
+                "AttributionRequired": {
+                  "value": "false",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "Copyrighted": {
+                  "value": "False",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "Restrictions": {
+                  "value": "",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "License": {
+                  "value": "pd",
+                  "source": "commons-templates",
+                  "hidden": ""
+                }
+              }
+            }
+          ]
+        }
+      ]
+    }
+  }
+}

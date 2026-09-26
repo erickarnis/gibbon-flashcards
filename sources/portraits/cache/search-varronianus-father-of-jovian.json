@@ -1,0 +1,490 @@
+{
+  "person_id": "varronianus-father-of-jovian",
+  "query": "Varronianus (father of Jovian)",
+  "response": {
+    "batchcomplete": true,
+    "continue": {
+      "gsroffset": 5,
+      "continue": "gsroffset||"
+    },
+    "query": {
+      "pages": [
+        {
+          "pageid": 91604945,
+          "ns": 6,
+          "title": "File:Varronianus- a critical and historical introduction to the philological study of the Latin language (IA varronianuscriti00don).pdf",
+          "index": 3,
+          "imagerepository": "local",
+          "imageinfo": [
+            {
+              "size": 15927051,
+              "width": 641,
+              "height": 1045,
+              "pagecount": 326,
+              "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f7/Varronianus-_a_critical_and_historical_introduction_to_the_philological_study_of_the_Latin_language_%28IA_varronianuscriti00don%29.pdf/page1-500px-Varronianus-_a_critical_and_historical_introduction_to_the_philological_study_of_the_Latin_language_%28IA_varronianuscriti00don%29.pdf.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+              "thumbwidth": 400,
+              "thumbheight": 652,
+              "thumbattribs": {
+                "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f7/Varronianus-_a_critical_and_historical_introduction_to_the_philological_study_of_the_Latin_language_%28IA_varronianuscriti00don%29.pdf/page1-500px-Varronianus-_a_critical_and_historical_introduction_to_the_philological_study_of_the_Latin_language_%28IA_varronianuscriti00don%29.pdf.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+                "decoding": "async",
+                "loading": "lazy",
+                "width": 400,
+                "height": 652
+              },
+              "url": "https://upload.wikimedia.org/wikipedia/commons/f/f7/Varronianus-_a_critical_and_historical_introduction_to_the_philological_study_of_the_Latin_language_%28IA_varronianuscriti00don%29.pdf?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+              "descriptionurl": "https://commons.wikimedia.org/wiki/File:Varronianus-_a_critical_and_historical_introduction_to_the_philological_study_of_the_Latin_language_(IA_varronianuscriti00don).pdf",
+              "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=91604945",
+              "extmetadata": {
+                "DateTime": {
+                  "value": "2020-06-26 18:57:19",
+                  "source": "mediawiki-metadata",
+                  "hidden": ""
+                },
+                "ObjectName": {
+                  "value": "<div class=\"fn\">\nVarronianus: a critical and historical introduction to the philological study of the Latin language</div>",
+                  "source": "commons-desc-page"
+                },
+                "CommonsMetadataExtension": {
+                  "value": 1.2,
+                  "source": "extension",
+                  "hidden": ""
+                },
+                "Categories": {
+                  "value": "John William Donaldson|Scans from the Internet Archive/unverified|PD US expired|Scans from the Internet Archive|Books uploaded by Fæ|Books without Wikidata item|Books in the Library of Congress",
+                  "source": "commons-categories",
+                  "hidden": ""
+                },
+                "Assessments": {
+                  "value": "",
+                  "source": "commons-categories",
+                  "hidden": ""
+                },
+                "Artist": {
+                  "value": "<div class=\"fn value\">\nDonaldson, John William, 1811-1861</div>",
+                  "source": "commons-desc-page"
+                },
+                "ImageDescription": {
+                  "value": "<div class=\"description\">\nSubjects: Latin language; Italic languages and dialects; Ethnology</div>",
+                  "source": "commons-desc-page"
+                },
+                "Credit": {
+                  "value": "<dl><dd><a href=\"//archive.org/details/varronianuscriti00don\" class=\"extiw\" title=\"iarchive:varronianuscriti00don\"><bdi class=\"description en\" lang=\"en\" dir=\"ltr\">Internet Archive identifier</bdi>: varronianuscriti00don</a></dd>\n<dd><a rel=\"nofollow\" class=\"external free\" href=\"https://archive.org/download/varronianuscriti00don/varronianuscriti00don.pdf\">https://archive.org/download/varronianuscriti00don/varronianuscriti00don.pdf</a></dd></dl>",
+                  "source": "commons-desc-page"
+                },
+                "LicenseShortName": {
+                  "value": "Public domain",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "UsageTerms": {
+                  "value": "Public domain",
+                  "source": "commons-desc-page"
+                },
+                "AttributionRequired": {
+                  "value": "false",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "Copyrighted": {
+                  "value": "False",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "Restrictions": {
+                  "value": "",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "License": {
+                  "value": "pd",
+                  "source": "commons-templates",
+                  "hidden": ""
+                }
+              }
+            }
+          ]
+        },
+        {
+          "pageid": 97016237,
+          "ns": 6,
+          "title": "File:Varronianus- a critical and historical introduction to the ethnography of ancient Italy and to the philological study of the Latin language (IA varronianuscriti00donaiala).pdf",
+          "index": 4,
+          "imagerepository": "local",
+          "imageinfo": [
+            {
+              "size": 35499639,
+              "width": 814,
+              "height": 1333,
+              "pagecount": 614,
+              "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5b/Varronianus-_a_critical_and_historical_introduction_to_the_ethnography_of_ancient_Italy_and_to_the_philological_study_of_the_Latin_language_%28IA_varronianuscriti00donaiala%29.pdf/page1-500px-thumbnail.pdf.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+              "thumbwidth": 400,
+              "thumbheight": 655,
+              "thumbattribs": {
+                "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5b/Varronianus-_a_critical_and_historical_introduction_to_the_ethnography_of_ancient_Italy_and_to_the_philological_study_of_the_Latin_language_%28IA_varronianuscriti00donaiala%29.pdf/page1-500px-thumbnail.pdf.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+                "decoding": "async",
+                "loading": "lazy",
+                "width": 400,
+                "height": 655
+              },
+              "url": "https://upload.wikimedia.org/wikipedia/commons/5/5b/Varronianus-_a_critical_and_historical_introduction_to_the_ethnography_of_ancient_Italy_and_to_the_philological_study_of_the_Latin_language_%28IA_varronianuscriti00donaiala%29.pdf?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+              "descriptionurl": "https://commons.wikimedia.org/wiki/File:Varronianus-_a_critical_and_historical_introduction_to_the_ethnography_of_ancient_Italy_and_to_the_philological_study_of_the_Latin_language_(IA_varronianuscriti00donaiala).pdf",
+              "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=97016237",
+              "extmetadata": {
+                "DateTime": {
+                  "value": "2020-11-27 05:15:15",
+                  "source": "mediawiki-metadata",
+                  "hidden": ""
+                },
+                "ObjectName": {
+                  "value": "<div class=\"fn\">\nVarronianus: a critical and historical introduction to the ethnography of ancient Italy and to the philological study of the Latin language</div>",
+                  "source": "commons-desc-page"
+                },
+                "CommonsMetadataExtension": {
+                  "value": 1.2,
+                  "source": "extension",
+                  "hidden": ""
+                },
+                "Categories": {
+                  "value": "John William Donaldson|Scans from the Internet Archive/unverified|PD US expired|Scans from the Internet Archive|Books uploaded by Fæ|Books without Wikidata item|California Digital Library|PD-US missing SDC copyright status",
+                  "source": "commons-categories",
+                  "hidden": ""
+                },
+                "Assessments": {
+                  "value": "",
+                  "source": "commons-categories",
+                  "hidden": ""
+                },
+                "Artist": {
+                  "value": "<div class=\"fn value\">\nDonaldson, John William, 1811-1861</div>",
+                  "source": "commons-desc-page"
+                },
+                "ImageDescription": {
+                  "value": "<div class=\"description\">\nSubjects: Latin language -- History; Italic languages and dialects; Ethnology -- Italy</div>",
+                  "source": "commons-desc-page"
+                },
+                "Credit": {
+                  "value": "<dl><dd><a href=\"//archive.org/details/varronianuscriti00donaiala\" class=\"extiw\" title=\"iarchive:varronianuscriti00donaiala\"><bdi class=\"description en\" lang=\"en\" dir=\"ltr\">Internet Archive identifier</bdi>: varronianuscriti00donaiala</a></dd>\n<dd><a rel=\"nofollow\" class=\"external free\" href=\"https://archive.org/download/varronianuscriti00donaiala/varronianuscriti00donaiala.pdf\">https://archive.org/download/varronianuscriti00donaiala/varronianuscriti00donaiala.pdf</a></dd></dl>",
+                  "source": "commons-desc-page"
+                },
+                "LicenseShortName": {
+                  "value": "Public domain",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "UsageTerms": {
+                  "value": "Public domain",
+                  "source": "commons-desc-page"
+                },
+                "AttributionRequired": {
+                  "value": "false",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "Copyrighted": {
+                  "value": "False",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "Restrictions": {
+                  "value": "",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "License": {
+                  "value": "pd",
+                  "source": "commons-templates",
+                  "hidden": ""
+                }
+              }
+            }
+          ]
+        },
+        {
+          "pageid": 97016286,
+          "ns": 6,
+          "title": "File:Varronianus- a critical and historical introduction to the ethnography of ancient Italy and to the philological study of the Latin language (IA varronianuscriti00donarich).pdf",
+          "index": 5,
+          "imagerepository": "local",
+          "imageinfo": [
+            {
+              "size": 36651830,
+              "width": 772,
+              "height": 1241,
+              "pagecount": 512,
+              "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/bc/Varronianus-_a_critical_and_historical_introduction_to_the_ethnography_of_ancient_Italy_and_to_the_philological_study_of_the_Latin_language_%28IA_varronianuscriti00donarich%29.pdf/page1-500px-thumbnail.pdf.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+              "thumbwidth": 400,
+              "thumbheight": 643,
+              "thumbattribs": {
+                "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/bc/Varronianus-_a_critical_and_historical_introduction_to_the_ethnography_of_ancient_Italy_and_to_the_philological_study_of_the_Latin_language_%28IA_varronianuscriti00donarich%29.pdf/page1-500px-thumbnail.pdf.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+                "decoding": "async",
+                "loading": "lazy",
+                "width": 400,
+                "height": 643
+              },
+              "url": "https://upload.wikimedia.org/wikipedia/commons/b/bc/Varronianus-_a_critical_and_historical_introduction_to_the_ethnography_of_ancient_Italy_and_to_the_philological_study_of_the_Latin_language_%28IA_varronianuscriti00donarich%29.pdf?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+              "descriptionurl": "https://commons.wikimedia.org/wiki/File:Varronianus-_a_critical_and_historical_introduction_to_the_ethnography_of_ancient_Italy_and_to_the_philological_study_of_the_Latin_language_(IA_varronianuscriti00donarich).pdf",
+              "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=97016286",
+              "extmetadata": {
+                "DateTime": {
+                  "value": "2020-11-27 05:16:07",
+                  "source": "mediawiki-metadata",
+                  "hidden": ""
+                },
+                "ObjectName": {
+                  "value": "<div class=\"fn\">\nVarronianus: a critical and historical introduction to the ethnography of ancient Italy and to the philological study of the Latin language</div>",
+                  "source": "commons-desc-page"
+                },
+                "CommonsMetadataExtension": {
+                  "value": 1.2,
+                  "source": "extension",
+                  "hidden": ""
+                },
+                "Categories": {
+                  "value": "John William Donaldson|Scans from the Internet Archive/unverified|PD US expired|Scans from the Internet Archive|Books published in London|Books uploaded by Fæ|Books without Wikidata item|California Digital Library",
+                  "source": "commons-categories",
+                  "hidden": ""
+                },
+                "Assessments": {
+                  "value": "",
+                  "source": "commons-categories",
+                  "hidden": ""
+                },
+                "Artist": {
+                  "value": "<div class=\"fn value\">\nDonaldson, John William, 1811-1861</div>",
+                  "source": "commons-desc-page"
+                },
+                "ImageDescription": {
+                  "value": "<div class=\"description\">\nSubjects: Latin language -- History; Italic languages and dialects; Ethnology -- Italy</div>",
+                  "source": "commons-desc-page"
+                },
+                "Credit": {
+                  "value": "<dl><dd><a href=\"//archive.org/details/varronianuscriti00donarich\" class=\"extiw\" title=\"iarchive:varronianuscriti00donarich\"><bdi class=\"description en\" lang=\"en\" dir=\"ltr\">Internet Archive identifier</bdi>: varronianuscriti00donarich</a></dd>\n<dd><a rel=\"nofollow\" class=\"external free\" href=\"https://archive.org/download/varronianuscriti00donarich/varronianuscriti00donarich.pdf\">https://archive.org/download/varronianuscriti00donarich/varronianuscriti00donarich.pdf</a></dd></dl>",
+                  "source": "commons-desc-page"
+                },
+                "LicenseShortName": {
+                  "value": "Public domain",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "UsageTerms": {
+                  "value": "Public domain",
+                  "source": "commons-desc-page"
+                },
+                "AttributionRequired": {
+                  "value": "false",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "Copyrighted": {
+                  "value": "False",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "Restrictions": {
+                  "value": "",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "License": {
+                  "value": "pd",
+                  "source": "commons-templates",
+                  "hidden": ""
+                }
+              }
+            }
+          ]
+        },
+        {
+          "pageid": 198369238,
+          "ns": 6,
+          "title": "File:Jovian. Or, an answer, ... 1683 (IA bim early-english-books-1641-1700 jovian-or-an-answer- hickes-george 1683).pdf",
+          "index": 1,
+          "imagerepository": "local",
+          "imageinfo": [
+            {
+              "size": 120767777,
+              "width": 645,
+              "height": 1020,
+              "pagecount": 418,
+              "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f9/Jovian._Or%2C_an_answer%2C_..._1683_%28IA_bim_early-english-books-1641-1700_jovian-or-an-answer-_hickes-george_1683%29.pdf/page1-500px-Jovian._Or%2C_an_answer%2C_..._1683_%28IA_bim_early-english-books-1641-1700_jovian-or-an-answer-_hickes-george_1683%29.pdf.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+              "thumbwidth": 400,
+              "thumbheight": 633,
+              "thumbattribs": {
+                "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f9/Jovian._Or%2C_an_answer%2C_..._1683_%28IA_bim_early-english-books-1641-1700_jovian-or-an-answer-_hickes-george_1683%29.pdf/page1-500px-Jovian._Or%2C_an_answer%2C_..._1683_%28IA_bim_early-english-books-1641-1700_jovian-or-an-answer-_hickes-george_1683%29.pdf.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+                "decoding": "async",
+                "loading": "lazy",
+                "width": 400,
+                "height": 633
+              },
+              "url": "https://upload.wikimedia.org/wikipedia/commons/f/f9/Jovian._Or%2C_an_answer%2C_..._1683_%28IA_bim_early-english-books-1641-1700_jovian-or-an-answer-_hickes-george_1683%29.pdf?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+              "descriptionurl": "https://commons.wikimedia.org/wiki/File:Jovian._Or,_an_answer,_..._1683_(IA_bim_early-english-books-1641-1700_jovian-or-an-answer-_hickes-george_1683).pdf",
+              "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=198369238",
+              "extmetadata": {
+                "DateTime": {
+                  "value": "2026-08-29 01:10:51",
+                  "source": "mediawiki-metadata",
+                  "hidden": ""
+                },
+                "ObjectName": {
+                  "value": "<div class=\"fn\">\nJovian. Or, an answer, ...  1683</div>",
+                  "source": "commons-desc-page"
+                },
+                "CommonsMetadataExtension": {
+                  "value": 1.2,
+                  "source": "extension",
+                  "hidden": ""
+                },
+                "Categories": {
+                  "value": "Scans from the Internet Archive/unverified|PD-old-100-1996|CC-PD-Mark|Scans from the Internet Archive|Books uploaded by Fæ|Books without Wikidata item|IA uploads needing categories|PD-old missing SDC copyright status|Early English Books, 1683",
+                  "source": "commons-categories",
+                  "hidden": ""
+                },
+                "Assessments": {
+                  "value": "",
+                  "source": "commons-categories",
+                  "hidden": ""
+                },
+                "Artist": {
+                  "value": "<div class=\"fn value\">\nHickes, George.</div>",
+                  "source": "commons-desc-page"
+                },
+                "ImageDescription": {
+                  "value": "<div class=\"description\">\n<p>Jovian. Or, an answer, ... 1683..<br>Digitized from <a rel=\"nofollow\" class=\"external text\" href=\"https://archive.org/details/sim_raw_scan_IA40313701-16/page/n214\">IA40313701-16</a>.<br>Previous issue: <a rel=\"nofollow\" class=\"external text\" href=\"https://archive.org/details/bim_early-english-books-1641-1700_the-testament-of-cressei_henryson-robert_1663\">bim_early-english-books-1641-1700_the-testament-of-cressei_henryson-robert_1663</a>.<br>Next issue: <a rel=\"nofollow\" class=\"external text\" href=\"https://archive.org/details/bim_early-english-books-1641-1700_a-letter-from-a-person-o_hickes-george_1685\">bim_early-english-books-1641-1700_a-letter-from-a-person-o_hickes-george_1685</a>.\n</p>\n<br>Subjects: Books; microfilm</div>",
+                  "source": "commons-desc-page"
+                },
+                "Credit": {
+                  "value": "<dl><dd><a href=\"//archive.org/details/bim_early-english-books-1641-1700_jovian-or-an-answer-_hickes-george_1683\" class=\"extiw\" title=\"iarchive:bim early-english-books-1641-1700 jovian-or-an-answer- hickes-george 1683\"><bdi class=\"description en\" lang=\"en\" dir=\"ltr\">Internet Archive identifier</bdi>: bim_early-english-books-1641-1700_jovian-or-an-answer-_hickes-george_1683</a></dd>\n<dd><a rel=\"nofollow\" class=\"external free\" href=\"https://archive.org/download/bim_early-english-books-1641-1700_jovian-or-an-answer-_hickes-george_1683/bim_early-english-books-1641-1700_jovian-or-an-answer-_hickes-george_1683.pdf\">https://archive.org/download/bim_early-english-books-1641-1700_jovian-or-an-answer-_hickes-george_1683/bim_early-english-books-1641-1700_jovian-or-an-answer-_hickes-george_1683.pdf</a></dd></dl>",
+                  "source": "commons-desc-page"
+                },
+                "LicenseShortName": {
+                  "value": "Public domain",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "UsageTerms": {
+                  "value": "Public domain",
+                  "source": "commons-desc-page"
+                },
+                "AttributionRequired": {
+                  "value": "false",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "Copyrighted": {
+                  "value": "False",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "Restrictions": {
+                  "value": "",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "License": {
+                  "value": "pd",
+                  "source": "commons-templates",
+                  "hidden": ""
+                }
+              }
+            }
+          ]
+        },
+        {
+          "pageid": 198369322,
+          "ns": 6,
+          "title": "File:Jovian. Or, an answer to Julian the apostate. 1683 (IA bim early-english-books-1641-1700 jovian-or-an-answer-to hickes-george 1683).pdf",
+          "index": 2,
+          "imagerepository": "local",
+          "imageinfo": [
+            {
+              "size": 184400982,
+              "width": 845,
+              "height": 1289,
+              "pagecount": 391,
+              "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d7/Jovian._Or%2C_an_answer_to_Julian_the_apostate._1683_%28IA_bim_early-english-books-1641-1700_jovian-or-an-answer-to_hickes-george_1683%29.pdf/page1-500px-Jovian._Or%2C_an_answer_to_Julian_the_apostate._1683_%28IA_bim_early-english-books-1641-1700_jovian-or-an-answer-to_hickes-george_1683%29.pdf.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+              "thumbwidth": 400,
+              "thumbheight": 610,
+              "thumbattribs": {
+                "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d7/Jovian._Or%2C_an_answer_to_Julian_the_apostate._1683_%28IA_bim_early-english-books-1641-1700_jovian-or-an-answer-to_hickes-george_1683%29.pdf/page1-500px-Jovian._Or%2C_an_answer_to_Julian_the_apostate._1683_%28IA_bim_early-english-books-1641-1700_jovian-or-an-answer-to_hickes-george_1683%29.pdf.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+                "decoding": "async",
+                "loading": "lazy",
+                "width": 400,
+                "height": 610
+              },
+              "url": "https://upload.wikimedia.org/wikipedia/commons/d/d7/Jovian._Or%2C_an_answer_to_Julian_the_apostate._1683_%28IA_bim_early-english-books-1641-1700_jovian-or-an-answer-to_hickes-george_1683%29.pdf?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+              "descriptionurl": "https://commons.wikimedia.org/wiki/File:Jovian._Or,_an_answer_to_Julian_the_apostate._1683_(IA_bim_early-english-books-1641-1700_jovian-or-an-answer-to_hickes-george_1683).pdf",
+              "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=198369322",
+              "extmetadata": {
+                "DateTime": {
+                  "value": "2026-08-29 01:12:41",
+                  "source": "mediawiki-metadata",
+                  "hidden": ""
+                },
+                "ObjectName": {
+                  "value": "<div class=\"fn\">\nJovian. Or, an answer to Julian the apostate.  1683</div>",
+                  "source": "commons-desc-page"
+                },
+                "CommonsMetadataExtension": {
+                  "value": 1.2,
+                  "source": "extension",
+                  "hidden": ""
+                },
+                "Categories": {
+                  "value": "Scans from the Internet Archive/unverified|PD-old-100-1996|CC-PD-Mark|Scans from the Internet Archive|Books uploaded by Fæ|Books without Wikidata item|IA uploads needing categories|PD-old missing SDC copyright status|Early English Books, 1683",
+                  "source": "commons-categories",
+                  "hidden": ""
+                },
+                "Assessments": {
+                  "value": "",
+                  "source": "commons-categories",
+                  "hidden": ""
+                },
+                "Artist": {
+                  "value": "<div class=\"fn value\">\nHickes, George</div>",
+                  "source": "commons-desc-page"
+                },
+                "ImageDescription": {
+                  "value": "<div class=\"description\">\n<p>Jovian. Or, an answer to Julian the apostate. 1683..<br>Digitized from <a rel=\"nofollow\" class=\"external text\" href=\"https://archive.org/details/sim_raw_scan_IA40310608-42/page/n139\">IA40310608-42</a>.<br>Previous issue: <a rel=\"nofollow\" class=\"external text\" href=\"https://archive.org/details/bim_early-english-books-1641-1700_closet-prayer-a-christi_heywood-oliver_1671_0\">bim_early-english-books-1641-1700_closet-prayer-a-christi_heywood-oliver_1671_0</a>.<br>Next issue: <a rel=\"nofollow\" class=\"external text\" href=\"https://archive.org/details/bim_early-english-books-1641-1700_-hierocli-p_hierocles_1654\">bim_early-english-books-1641-1700_-hierocli-p_hierocles_1654</a>.\n</p>\n<br>Subjects: Books; microfilm</div>",
+                  "source": "commons-desc-page"
+                },
+                "Credit": {
+                  "value": "<dl><dd><a href=\"//archive.org/details/bim_early-english-books-1641-1700_jovian-or-an-answer-to_hickes-george_1683\" class=\"extiw\" title=\"iarchive:bim early-english-books-1641-1700 jovian-or-an-answer-to hickes-george 1683\"><bdi class=\"description en\" lang=\"en\" dir=\"ltr\">Internet Archive identifier</bdi>: bim_early-english-books-1641-1700_jovian-or-an-answer-to_hickes-george_1683</a></dd>\n<dd><a rel=\"nofollow\" class=\"external free\" href=\"https://archive.org/download/bim_early-english-books-1641-1700_jovian-or-an-answer-to_hickes-george_1683/bim_early-english-books-1641-1700_jovian-or-an-answer-to_hickes-george_1683.pdf\">https://archive.org/download/bim_early-english-books-1641-1700_jovian-or-an-answer-to_hickes-george_1683/bim_early-english-books-1641-1700_jovian-or-an-answer-to_hickes-george_1683.pdf</a></dd></dl>",
+                  "source": "commons-desc-page"
+                },
+                "LicenseShortName": {
+                  "value": "Public domain",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "UsageTerms": {
+                  "value": "Public domain",
+                  "source": "commons-desc-page"
+                },
+                "AttributionRequired": {
+                  "value": "false",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "Copyrighted": {
+                  "value": "False",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "Restrictions": {
+                  "value": "",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "License": {
+                  "value": "pd",
+                  "source": "commons-templates",
+                  "hidden": ""
+                }
+              }
+            }
+          ]
+        }
+      ]
+    }
+  }
+}

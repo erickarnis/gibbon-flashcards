@@ -1,0 +1,5 @@
+{
+  "host": "upload.wikimedia.org",
+  "retry_after_seconds": 600,
+  "resume_at_epoch": 1790402385.118334
+}

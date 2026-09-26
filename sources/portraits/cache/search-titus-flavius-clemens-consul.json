@@ -1,0 +1,505 @@
+{
+  "person_id": "titus-flavius-clemens-consul",
+  "query": "Titus Flavius Clemens (consul)",
+  "response": {
+    "batchcomplete": true,
+    "continue": {
+      "gsroffset": 5,
+      "continue": "gsroffset||"
+    },
+    "query": {
+      "pages": [
+        {
+          "pageid": 17428326,
+          "ns": 6,
+          "title": "File:Mithraeum San Clemente Rom.JPG",
+          "index": 1,
+          "imagerepository": "local",
+          "imageinfo": [
+            {
+              "size": 5604293,
+              "width": 4288,
+              "height": 2848,
+              "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c6/Mithraeum_San_Clemente_Rom.JPG/500px-Mithraeum_San_Clemente_Rom.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+              "thumbwidth": 400,
+              "thumbheight": 266,
+              "responsiveUrls": {
+                "2": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c6/Mithraeum_San_Clemente_Rom.JPG/960px-Mithraeum_San_Clemente_Rom.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+              },
+              "thumbattribs": {
+                "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c6/Mithraeum_San_Clemente_Rom.JPG/500px-Mithraeum_San_Clemente_Rom.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+                "decoding": "async",
+                "loading": "lazy",
+                "width": 400,
+                "height": 266,
+                "srcset": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c6/Mithraeum_San_Clemente_Rom.JPG/960px-Mithraeum_San_Clemente_Rom.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail 2x"
+              },
+              "url": "https://upload.wikimedia.org/wikipedia/commons/c/c6/Mithraeum_San_Clemente_Rom.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+              "descriptionurl": "https://commons.wikimedia.org/wiki/File:Mithraeum_San_Clemente_Rom.JPG",
+              "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=17428326",
+              "extmetadata": {
+                "DateTime": {
+                  "value": "2011-11-21 08:33:10",
+                  "source": "mediawiki-metadata",
+                  "hidden": ""
+                },
+                "ObjectName": {
+                  "value": "Mithraeum San Clemente Rom",
+                  "source": "mediawiki-metadata"
+                },
+                "CommonsMetadataExtension": {
+                  "value": 1.2,
+                  "source": "extension",
+                  "hidden": ""
+                },
+                "Categories": {
+                  "value": "Taken with Pentax K-x|San Clemente (Rome) - Mithraeum|Self-published work|Ice Boy Tell",
+                  "source": "commons-categories",
+                  "hidden": ""
+                },
+                "Assessments": {
+                  "value": "",
+                  "source": "commons-categories",
+                  "hidden": ""
+                },
+                "ImageDescription": {
+                  "value": "Mithraeum in lowest floor in San Clemente in Rome",
+                  "source": "commons-desc-page"
+                },
+                "DateTimeOriginal": {
+                  "value": "2011-06-21",
+                  "source": "commons-desc-page"
+                },
+                "Credit": {
+                  "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+                  "source": "commons-desc-page"
+                },
+                "Artist": {
+                  "value": "<a href=\"//commons.wikimedia.org/wiki/User:Ice_Boy_Tell\" title=\"User:Ice Boy Tell\">Ice Boy Tell</a>",
+                  "source": "commons-desc-page"
+                },
+                "LicenseShortName": {
+                  "value": "CC BY-SA 3.0",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "UsageTerms": {
+                  "value": "Creative Commons Attribution-Share Alike 3.0",
+                  "source": "commons-desc-page"
+                },
+                "AttributionRequired": {
+                  "value": "true",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "LicenseUrl": {
+                  "value": "https://creativecommons.org/licenses/by-sa/3.0",
+                  "source": "commons-desc-page"
+                },
+                "Copyrighted": {
+                  "value": "True",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "Restrictions": {
+                  "value": "",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "License": {
+                  "value": "cc-by-sa-3.0",
+                  "source": "commons-templates",
+                  "hidden": ""
+                }
+              }
+            }
+          ]
+        },
+        {
+          "pageid": 91605546,
+          "ns": 6,
+          "title": "File:Vies de Probus, de Firmus, de Saturnin, de Proculus, de Bonose, de Carus, de Numérien, de Carin (IA viesdeprobusdefi00vopi).pdf",
+          "index": 3,
+          "imagerepository": "local",
+          "imageinfo": [
+            {
+              "size": 7942899,
+              "width": 781,
+              "height": 1275,
+              "pagecount": 132,
+              "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/33/Vies_de_Probus%2C_de_Firmus%2C_de_Saturnin%2C_de_Proculus%2C_de_Bonose%2C_de_Carus%2C_de_Num%C3%A9rien%2C_de_Carin_%28IA_viesdeprobusdefi00vopi%29.pdf/page1-500px-Vies_de_Probus%2C_de_Firmus%2C_de_Saturnin%2C_de_Proculus%2C_de_Bonose%2C_de_Carus%2C_de_Num%C3%A9rien%2C_de_Carin_%28IA_viesdeprobusdefi00vopi%29.pdf.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+              "thumbwidth": 400,
+              "thumbheight": 653,
+              "thumbattribs": {
+                "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/33/Vies_de_Probus%2C_de_Firmus%2C_de_Saturnin%2C_de_Proculus%2C_de_Bonose%2C_de_Carus%2C_de_Num%C3%A9rien%2C_de_Carin_%28IA_viesdeprobusdefi00vopi%29.pdf/page1-500px-Vies_de_Probus%2C_de_Firmus%2C_de_Saturnin%2C_de_Proculus%2C_de_Bonose%2C_de_Carus%2C_de_Num%C3%A9rien%2C_de_Carin_%28IA_viesdeprobusdefi00vopi%29.pdf.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+                "decoding": "async",
+                "loading": "lazy",
+                "width": 400,
+                "height": 653
+              },
+              "url": "https://upload.wikimedia.org/wikipedia/commons/3/33/Vies_de_Probus%2C_de_Firmus%2C_de_Saturnin%2C_de_Proculus%2C_de_Bonose%2C_de_Carus%2C_de_Num%C3%A9rien%2C_de_Carin_%28IA_viesdeprobusdefi00vopi%29.pdf?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+              "descriptionurl": "https://commons.wikimedia.org/wiki/File:Vies_de_Probus,_de_Firmus,_de_Saturnin,_de_Proculus,_de_Bonose,_de_Carus,_de_Num%C3%A9rien,_de_Carin_(IA_viesdeprobusdefi00vopi).pdf",
+              "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=91605546",
+              "extmetadata": {
+                "DateTime": {
+                  "value": "2020-06-26 19:22:07",
+                  "source": "mediawiki-metadata",
+                  "hidden": ""
+                },
+                "ObjectName": {
+                  "value": "<div class=\"fn\">\nVies de Probus, de Firmus, de Saturnin, de Proculus, de Bonose, de Carus, de Numérien, de Carin</div>",
+                  "source": "commons-desc-page"
+                },
+                "CommonsMetadataExtension": {
+                  "value": 1.2,
+                  "source": "extension",
+                  "hidden": ""
+                },
+                "Categories": {
+                  "value": "PD US expired|Books uploaded by Fæ|Books without Wikidata item|Books in the Library of Congress|French-language books",
+                  "source": "commons-categories",
+                  "hidden": ""
+                },
+                "Assessments": {
+                  "value": "",
+                  "source": "commons-categories",
+                  "hidden": ""
+                },
+                "Artist": {
+                  "value": "<div class=\"fn value\">\n<dl><dd>Vopiscus, Flavius. [from old catalog]</dd>\n<dd>Chenu, Jules François, [from old catalog] tr</dd></dl></div>",
+                  "source": "commons-desc-page"
+                },
+                "ImageDescription": {
+                  "value": "<div class=\"description\">\n<p>Latin and French on opposite pages\n</p>\n<br>Subjects:</div>",
+                  "source": "commons-desc-page"
+                },
+                "Credit": {
+                  "value": "<dl><dd><a rel=\"nofollow\" class=\"external free\" href=\"https://archive.org/details/viesdeprobusdefi00vopi\">https://archive.org/details/viesdeprobusdefi00vopi</a></dd>\n<dd><a rel=\"nofollow\" class=\"external free\" href=\"https://archive.org/download/viesdeprobusdefi00vopi/viesdeprobusdefi00vopi.pdf\">https://archive.org/download/viesdeprobusdefi00vopi/viesdeprobusdefi00vopi.pdf</a></dd></dl>",
+                  "source": "commons-desc-page"
+                },
+                "LicenseShortName": {
+                  "value": "Public domain",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "UsageTerms": {
+                  "value": "Public domain",
+                  "source": "commons-desc-page"
+                },
+                "AttributionRequired": {
+                  "value": "false",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "Copyrighted": {
+                  "value": "False",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "Restrictions": {
+                  "value": "",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "License": {
+                  "value": "pd",
+                  "source": "commons-templates",
+                  "hidden": ""
+                }
+              }
+            }
+          ]
+        },
+        {
+          "pageid": 93147953,
+          "ns": 6,
+          "title": "File:The epigraphical evidence for the reigns of Vespasian and Titus .. (IA epigraphicalevid00newt).pdf",
+          "index": 2,
+          "imagerepository": "local",
+          "imageinfo": [
+            {
+              "size": 11694253,
+              "width": 1089,
+              "height": 1704,
+              "pagecount": 160,
+              "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/db/The_epigraphical_evidence_for_the_reigns_of_Vespasian_and_Titus_.._%28IA_epigraphicalevid00newt%29.pdf/page1-500px-The_epigraphical_evidence_for_the_reigns_of_Vespasian_and_Titus_.._%28IA_epigraphicalevid00newt%29.pdf.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+              "thumbwidth": 400,
+              "thumbheight": 626,
+              "responsiveUrls": {
+                "2": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/db/The_epigraphical_evidence_for_the_reigns_of_Vespasian_and_Titus_.._%28IA_epigraphicalevid00newt%29.pdf/page1-960px-The_epigraphical_evidence_for_the_reigns_of_Vespasian_and_Titus_.._%28IA_epigraphicalevid00newt%29.pdf.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+              },
+              "thumbattribs": {
+                "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/db/The_epigraphical_evidence_for_the_reigns_of_Vespasian_and_Titus_.._%28IA_epigraphicalevid00newt%29.pdf/page1-500px-The_epigraphical_evidence_for_the_reigns_of_Vespasian_and_Titus_.._%28IA_epigraphicalevid00newt%29.pdf.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+                "decoding": "async",
+                "loading": "lazy",
+                "width": 400,
+                "height": 626,
+                "srcset": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/db/The_epigraphical_evidence_for_the_reigns_of_Vespasian_and_Titus_.._%28IA_epigraphicalevid00newt%29.pdf/page1-960px-The_epigraphical_evidence_for_the_reigns_of_Vespasian_and_Titus_.._%28IA_epigraphicalevid00newt%29.pdf.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail 2x"
+              },
+              "url": "https://upload.wikimedia.org/wikipedia/commons/d/db/The_epigraphical_evidence_for_the_reigns_of_Vespasian_and_Titus_.._%28IA_epigraphicalevid00newt%29.pdf?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+              "descriptionurl": "https://commons.wikimedia.org/wiki/File:The_epigraphical_evidence_for_the_reigns_of_Vespasian_and_Titus_.._(IA_epigraphicalevid00newt).pdf",
+              "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=93147953",
+              "extmetadata": {
+                "DateTime": {
+                  "value": "2020-08-14 21:13:05",
+                  "source": "mediawiki-metadata",
+                  "hidden": ""
+                },
+                "ObjectName": {
+                  "value": "<div class=\"fn\">\nThe epigraphical evidence for the reigns of Vespasian and Titus ..</div>",
+                  "source": "commons-desc-page"
+                },
+                "CommonsMetadataExtension": {
+                  "value": 1.2,
+                  "source": "extension",
+                  "hidden": ""
+                },
+                "Categories": {
+                  "value": "Books from New York (state)|Scans from the Internet Archive/unverified|PD US expired|Scans from the Internet Archive|Books uploaded by Fæ|Books without Wikidata item|Books in the Library of Congress",
+                  "source": "commons-categories",
+                  "hidden": ""
+                },
+                "Assessments": {
+                  "value": "",
+                  "source": "commons-categories",
+                  "hidden": ""
+                },
+                "Artist": {
+                  "value": "<div class=\"fn value\">\nNewton, Homer Curtis, 1879- [from old catalog]</div>",
+                  "source": "commons-desc-page"
+                },
+                "ImageDescription": {
+                  "value": "<div class=\"description\">\nSubjects: Inscriptions, Latin</div>",
+                  "source": "commons-desc-page"
+                },
+                "Credit": {
+                  "value": "<dl><dd><a href=\"//archive.org/details/epigraphicalevid00newt\" class=\"extiw\" title=\"iarchive:epigraphicalevid00newt\"><bdi class=\"description en\" lang=\"en\" dir=\"ltr\">Internet Archive identifier</bdi>: epigraphicalevid00newt</a></dd>\n<dd><a rel=\"nofollow\" class=\"external free\" href=\"https://archive.org/download/epigraphicalevid00newt/epigraphicalevid00newt.pdf\">https://archive.org/download/epigraphicalevid00newt/epigraphicalevid00newt.pdf</a></dd></dl>",
+                  "source": "commons-desc-page"
+                },
+                "LicenseShortName": {
+                  "value": "Public domain",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "UsageTerms": {
+                  "value": "Public domain",
+                  "source": "commons-desc-page"
+                },
+                "AttributionRequired": {
+                  "value": "false",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "Copyrighted": {
+                  "value": "False",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "Restrictions": {
+                  "value": "",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "License": {
+                  "value": "pd",
+                  "source": "commons-templates",
+                  "hidden": ""
+                }
+              }
+            }
+          ]
+        },
+        {
+          "pageid": 93228883,
+          "ns": 6,
+          "title": "File:History of the Catholic Church, for Catholic parochial and high schools (IA historyofcatholi00mari).pdf",
+          "index": 5,
+          "imagerepository": "local",
+          "imageinfo": [
+            {
+              "size": 10258963,
+              "width": 602,
+              "height": 912,
+              "pagecount": 264,
+              "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/db/History_of_the_Catholic_Church%2C_for_Catholic_parochial_and_high_schools_%28IA_historyofcatholi00mari%29.pdf/page1-500px-History_of_the_Catholic_Church%2C_for_Catholic_parochial_and_high_schools_%28IA_historyofcatholi00mari%29.pdf.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+              "thumbwidth": 400,
+              "thumbheight": 606,
+              "thumbattribs": {
+                "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/db/History_of_the_Catholic_Church%2C_for_Catholic_parochial_and_high_schools_%28IA_historyofcatholi00mari%29.pdf/page1-500px-History_of_the_Catholic_Church%2C_for_Catholic_parochial_and_high_schools_%28IA_historyofcatholi00mari%29.pdf.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+                "decoding": "async",
+                "loading": "lazy",
+                "width": 400,
+                "height": 606
+              },
+              "url": "https://upload.wikimedia.org/wikipedia/commons/d/db/History_of_the_Catholic_Church%2C_for_Catholic_parochial_and_high_schools_%28IA_historyofcatholi00mari%29.pdf?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+              "descriptionurl": "https://commons.wikimedia.org/wiki/File:History_of_the_Catholic_Church,_for_Catholic_parochial_and_high_schools_(IA_historyofcatholi00mari).pdf",
+              "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=93228883",
+              "extmetadata": {
+                "DateTime": {
+                  "value": "2020-08-17 14:04:25",
+                  "source": "mediawiki-metadata",
+                  "hidden": ""
+                },
+                "ObjectName": {
+                  "value": "<div class=\"fn\">\nHistory of the Catholic Church, for Catholic parochial and high schools</div>",
+                  "source": "commons-desc-page"
+                },
+                "CommonsMetadataExtension": {
+                  "value": 1.2,
+                  "source": "extension",
+                  "hidden": ""
+                },
+                "Categories": {
+                  "value": "Scans from the Internet Archive/unverified|PD US expired|Scans from the Internet Archive|Books uploaded by Fæ|Books without Wikidata item|Books in the Library of Congress|PD-US missing SDC copyright status",
+                  "source": "commons-categories",
+                  "hidden": ""
+                },
+                "Assessments": {
+                  "value": "",
+                  "source": "commons-categories",
+                  "hidden": ""
+                },
+                "Artist": {
+                  "value": "<div class=\"fn value\">\n<dl><dd>Marianists</dd>\n<dd>Hetterich, Gustavus Joseph, 1868-1904</dd></dl></div>",
+                  "source": "commons-desc-page"
+                },
+                "ImageDescription": {
+                  "value": "<div class=\"description\">\n<p>\"References for reading\" at end of each chapter\n</p>\n<br>Subjects: Catholic Church</div>",
+                  "source": "commons-desc-page"
+                },
+                "Credit": {
+                  "value": "<dl><dd><a href=\"//archive.org/details/historyofcatholi00mari\" class=\"extiw\" title=\"iarchive:historyofcatholi00mari\"><bdi class=\"description en\" lang=\"en\" dir=\"ltr\">Internet Archive identifier</bdi>: historyofcatholi00mari</a></dd>\n<dd><a rel=\"nofollow\" class=\"external free\" href=\"https://archive.org/download/historyofcatholi00mari/historyofcatholi00mari.pdf\">https://archive.org/download/historyofcatholi00mari/historyofcatholi00mari.pdf</a></dd></dl>",
+                  "source": "commons-desc-page"
+                },
+                "LicenseShortName": {
+                  "value": "Public domain",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "UsageTerms": {
+                  "value": "Public domain",
+                  "source": "commons-desc-page"
+                },
+                "AttributionRequired": {
+                  "value": "false",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "Copyrighted": {
+                  "value": "False",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "Restrictions": {
+                  "value": "",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "License": {
+                  "value": "pd",
+                  "source": "commons-templates",
+                  "hidden": ""
+                }
+              }
+            }
+          ]
+        },
+        {
+          "pageid": 94945376,
+          "ns": 6,
+          "title": "File:California Digital Library (IA classicaldiction00lempiala).pdf",
+          "index": 4,
+          "imagerepository": "local",
+          "imageinfo": [
+            {
+              "size": 116353024,
+              "width": 750,
+              "height": 1250,
+              "pagecount": 886,
+              "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c9/California_Digital_Library_%28IA_classicaldiction00lempiala%29.pdf/page1-500px-California_Digital_Library_%28IA_classicaldiction00lempiala%29.pdf.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+              "thumbwidth": 400,
+              "thumbheight": 667,
+              "thumbattribs": {
+                "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c9/California_Digital_Library_%28IA_classicaldiction00lempiala%29.pdf/page1-500px-California_Digital_Library_%28IA_classicaldiction00lempiala%29.pdf.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+                "decoding": "async",
+                "loading": "lazy",
+                "width": 400,
+                "height": 667
+              },
+              "url": "https://upload.wikimedia.org/wikipedia/commons/c/c9/California_Digital_Library_%28IA_classicaldiction00lempiala%29.pdf?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+              "descriptionurl": "https://commons.wikimedia.org/wiki/File:California_Digital_Library_(IA_classicaldiction00lempiala).pdf",
+              "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=94945376",
+              "extmetadata": {
+                "DateTime": {
+                  "value": "2020-10-11 07:07:47",
+                  "source": "mediawiki-metadata",
+                  "hidden": ""
+                },
+                "ObjectName": {
+                  "value": "<div class=\"fn\">\nA classical dictionary : containing a copious account of all the proper names mentioned in ancient authors, with the value of coins, weights, and measures, used among the Greeks and Romans, and a chronological table</div>",
+                  "source": "commons-desc-page"
+                },
+                "CommonsMetadataExtension": {
+                  "value": 1.2,
+                  "source": "extension",
+                  "hidden": ""
+                },
+                "Categories": {
+                  "value": "John Lemprière|Scans from the Internet Archive/unverified|PD US expired|Scans from the Internet Archive|Books published in London|Books uploaded by Fæ|Books without Wikidata item|California Digital Library",
+                  "source": "commons-categories",
+                  "hidden": ""
+                },
+                "Assessments": {
+                  "value": "",
+                  "source": "commons-categories",
+                  "hidden": ""
+                },
+                "Artist": {
+                  "value": "<div class=\"fn value\">\nLemprière, John, 1765?-1824</div>",
+                  "source": "commons-desc-page"
+                },
+                "ImageDescription": {
+                  "value": "<div class=\"description\">\nSubjects:</div>",
+                  "source": "commons-desc-page"
+                },
+                "Credit": {
+                  "value": "<dl><dd><a href=\"//archive.org/details/classicaldiction00lempiala\" class=\"extiw\" title=\"iarchive:classicaldiction00lempiala\"><bdi class=\"description en\" lang=\"en\" dir=\"ltr\">Internet Archive identifier</bdi>: classicaldiction00lempiala</a></dd>\n<dd><a rel=\"nofollow\" class=\"external free\" href=\"https://archive.org/download/classicaldiction00lempiala/classicaldiction00lempiala.pdf\">https://archive.org/download/classicaldiction00lempiala/classicaldiction00lempiala.pdf</a></dd></dl>",
+                  "source": "commons-desc-page"
+                },
+                "LicenseShortName": {
+                  "value": "Public domain",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "UsageTerms": {
+                  "value": "Public domain",
+                  "source": "commons-desc-page"
+                },
+                "AttributionRequired": {
+                  "value": "false",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "Copyrighted": {
+                  "value": "False",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "Restrictions": {
+                  "value": "",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "License": {
+                  "value": "pd",
+                  "source": "commons-templates",
+                  "hidden": ""
+                }
+              }
+            }
+          ]
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,490 @@
+{
+  "person_id": "mellobaudes",
+  "query": "Mellobaudes",
+  "response": {
+    "batchcomplete": true,
+    "continue": {
+      "gsroffset": 5,
+      "continue": "gsroffset||"
+    },
+    "query": {
+      "pages": [
+        {
+          "pageid": 95038428,
+          "ns": 6,
+          "title": "File:Galeries historiques de Versailles - histoire de France, servant de texte explicatif aux tableaux des Galeries de Versailles (IA galerieshistoriq12unse).pdf",
+          "index": 1,
+          "imagerepository": "local",
+          "imageinfo": [
+            {
+              "size": 88701680,
+              "width": 912,
+              "height": 2241,
+              "pagecount": 856,
+              "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b2/Galeries_historiques_de_Versailles_-_histoire_de_France%2C_servant_de_texte_explicatif_aux_tableaux_des_Galeries_de_Versailles_%28IA_galerieshistoriq12unse%29.pdf/page1-500px-Galeries_historiques_de_Versailles_-_histoire_de_France%2C_servant_de_texte_explicatif_aux_tableaux_des_Galeries_de_Versailles_%28IA_galerieshistoriq12unse%29.pdf.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+              "thumbwidth": 400,
+              "thumbheight": 983,
+              "thumbattribs": {
+                "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b2/Galeries_historiques_de_Versailles_-_histoire_de_France%2C_servant_de_texte_explicatif_aux_tableaux_des_Galeries_de_Versailles_%28IA_galerieshistoriq12unse%29.pdf/page1-500px-Galeries_historiques_de_Versailles_-_histoire_de_France%2C_servant_de_texte_explicatif_aux_tableaux_des_Galeries_de_Versailles_%28IA_galerieshistoriq12unse%29.pdf.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+                "decoding": "async",
+                "loading": "lazy",
+                "width": 400,
+                "height": 983
+              },
+              "url": "https://upload.wikimedia.org/wikipedia/commons/b/b2/Galeries_historiques_de_Versailles_-_histoire_de_France%2C_servant_de_texte_explicatif_aux_tableaux_des_Galeries_de_Versailles_%28IA_galerieshistoriq12unse%29.pdf?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+              "descriptionurl": "https://commons.wikimedia.org/wiki/File:Galeries_historiques_de_Versailles_-_histoire_de_France,_servant_de_texte_explicatif_aux_tableaux_des_Galeries_de_Versailles_(IA_galerieshistoriq12unse).pdf",
+              "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=95038428",
+              "extmetadata": {
+                "DateTime": {
+                  "value": "2020-10-13 23:14:21",
+                  "source": "mediawiki-metadata",
+                  "hidden": ""
+                },
+                "ObjectName": {
+                  "value": "<div class=\"fn\">\nGaleries historiques de Versailles : histoire de France, servant de texte explicatif aux tableaux des Galeries de Versailles</div>",
+                  "source": "commons-desc-page"
+                },
+                "CommonsMetadataExtension": {
+                  "value": 1.2,
+                  "source": "extension",
+                  "hidden": ""
+                },
+                "Categories": {
+                  "value": "Files with no machine-readable author|Scans from the Internet Archive/unverified|PD US expired|Scans from the Internet Archive|Books uploaded by Fæ|Books without Wikidata item|Images from the Getty Research Institute|PD-US missing SDC copyright status|French-language books",
+                  "source": "commons-categories",
+                  "hidden": ""
+                },
+                "Assessments": {
+                  "value": "",
+                  "source": "commons-categories",
+                  "hidden": ""
+                },
+                "ImageDescription": {
+                  "value": "<div class=\"description\">\n<dl><dd>4 v. ; 36 cm</dd>\n<dd>Half title: Histoire de France</dd>\n<dd>Includes bibliographical references</dd></dl>\n<br>Subjects: Musée national de Versailles -- Catalogs; Art -- France -- Versailles -- Catalogs; France -- Kings and rulers -- Portraits -- Catalogs; France -- History -- Pictorial works; France -- Biography -- Portraits</div>",
+                  "source": "commons-desc-page"
+                },
+                "Credit": {
+                  "value": "<dl><dd><a href=\"//archive.org/details/galerieshistoriq12unse\" class=\"extiw\" title=\"iarchive:galerieshistoriq12unse\"><bdi class=\"description en\" lang=\"en\" dir=\"ltr\">Internet Archive identifier</bdi>: galerieshistoriq12unse</a></dd>\n<dd><a rel=\"nofollow\" class=\"external free\" href=\"https://archive.org/download/galerieshistoriq12unse/galerieshistoriq12unse.pdf\">https://archive.org/download/galerieshistoriq12unse/galerieshistoriq12unse.pdf</a></dd></dl>",
+                  "source": "commons-desc-page"
+                },
+                "LicenseShortName": {
+                  "value": "Public domain",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "UsageTerms": {
+                  "value": "Public domain",
+                  "source": "commons-desc-page"
+                },
+                "AttributionRequired": {
+                  "value": "false",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "Copyrighted": {
+                  "value": "False",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "Restrictions": {
+                  "value": "",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "License": {
+                  "value": "pd",
+                  "source": "commons-templates",
+                  "hidden": ""
+                }
+              }
+            }
+          ]
+        },
+        {
+          "pageid": 95048471,
+          "ns": 6,
+          "title": "File:The decline and fall of the Roman Empire; (IA declineandfallof05gibb).pdf",
+          "index": 2,
+          "imagerepository": "local",
+          "imageinfo": [
+            {
+              "size": 22283192,
+              "width": 814,
+              "height": 1256,
+              "pagecount": 408,
+              "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/66/The_decline_and_fall_of_the_Roman_Empire%3B_%28IA_declineandfallof05gibb%29.pdf/page1-500px-The_decline_and_fall_of_the_Roman_Empire%3B_%28IA_declineandfallof05gibb%29.pdf.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+              "thumbwidth": 400,
+              "thumbheight": 617,
+              "thumbattribs": {
+                "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/66/The_decline_and_fall_of_the_Roman_Empire%3B_%28IA_declineandfallof05gibb%29.pdf/page1-500px-The_decline_and_fall_of_the_Roman_Empire%3B_%28IA_declineandfallof05gibb%29.pdf.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+                "decoding": "async",
+                "loading": "lazy",
+                "width": 400,
+                "height": 617
+              },
+              "url": "https://upload.wikimedia.org/wikipedia/commons/6/66/The_decline_and_fall_of_the_Roman_Empire%3B_%28IA_declineandfallof05gibb%29.pdf?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+              "descriptionurl": "https://commons.wikimedia.org/wiki/File:The_decline_and_fall_of_the_Roman_Empire;_(IA_declineandfallof05gibb).pdf",
+              "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=95048471",
+              "extmetadata": {
+                "DateTime": {
+                  "value": "2020-10-14 06:47:35",
+                  "source": "mediawiki-metadata",
+                  "hidden": ""
+                },
+                "ObjectName": {
+                  "value": "<div class=\"fn\">\nThe decline and fall of the Roman Empire;</div>",
+                  "source": "commons-desc-page"
+                },
+                "CommonsMetadataExtension": {
+                  "value": 1.2,
+                  "source": "extension",
+                  "hidden": ""
+                },
+                "Categories": {
+                  "value": "The History of the Decline and Fall of the Roman Empire|Thomas Y. Crowell & Company|Books from New York (state)|Scans from the Internet Archive/unverified|PD US expired|Scans from the Internet Archive|Books uploaded by Fæ|Books without Wikidata item|California Digital Library|Books from the United States PDF files",
+                  "source": "commons-categories",
+                  "hidden": ""
+                },
+                "Assessments": {
+                  "value": "",
+                  "source": "commons-categories",
+                  "hidden": ""
+                },
+                "Artist": {
+                  "value": "<div class=\"fn value\">\n<dl><dd>Gibbon, Edward, 1737-1794</dd>\n<dd>Milman, Henry Hart, 1791-1868</dd></dl></div>",
+                  "source": "commons-desc-page"
+                },
+                "ImageDescription": {
+                  "value": "<div class=\"description\">\nSubjects: Rome -- History Empire, 30 B.C.-476 A.D; Byzantine Empire -- History</div>",
+                  "source": "commons-desc-page"
+                },
+                "Credit": {
+                  "value": "<dl><dd><a href=\"//archive.org/details/declineandfallof05gibb\" class=\"extiw\" title=\"iarchive:declineandfallof05gibb\"><bdi class=\"description en\" lang=\"en\" dir=\"ltr\">Internet Archive identifier</bdi>: declineandfallof05gibb</a></dd>\n<dd><a rel=\"nofollow\" class=\"external free\" href=\"https://archive.org/download/declineandfallof05gibb/declineandfallof05gibb.pdf\">https://archive.org/download/declineandfallof05gibb/declineandfallof05gibb.pdf</a></dd></dl>",
+                  "source": "commons-desc-page"
+                },
+                "LicenseShortName": {
+                  "value": "Public domain",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "UsageTerms": {
+                  "value": "Public domain",
+                  "source": "commons-desc-page"
+                },
+                "AttributionRequired": {
+                  "value": "false",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "Copyrighted": {
+                  "value": "False",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "Restrictions": {
+                  "value": "",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "License": {
+                  "value": "pd",
+                  "source": "commons-templates",
+                  "hidden": ""
+                }
+              }
+            }
+          ]
+        },
+        {
+          "pageid": 95409376,
+          "ns": 6,
+          "title": "File:Histoire de Hainaut - traduite en francais avec le texte Latin en regard, et accompagnée de notes (IA histoiredehainau06guys).pdf",
+          "index": 3,
+          "imagerepository": "local",
+          "imageinfo": [
+            {
+              "size": 23558231,
+              "width": 779,
+              "height": 1250,
+              "pagecount": 530,
+              "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/57/Histoire_de_Hainaut_-_traduite_en_francais_avec_le_texte_Latin_en_regard%2C_et_accompagn%C3%A9e_de_notes_%28IA_histoiredehainau06guys%29.pdf/page1-500px-Histoire_de_Hainaut_-_traduite_en_francais_avec_le_texte_Latin_en_regard%2C_et_accompagn%C3%A9e_de_notes_%28IA_histoiredehainau06guys%29.pdf.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+              "thumbwidth": 400,
+              "thumbheight": 642,
+              "thumbattribs": {
+                "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/57/Histoire_de_Hainaut_-_traduite_en_francais_avec_le_texte_Latin_en_regard%2C_et_accompagn%C3%A9e_de_notes_%28IA_histoiredehainau06guys%29.pdf/page1-500px-Histoire_de_Hainaut_-_traduite_en_francais_avec_le_texte_Latin_en_regard%2C_et_accompagn%C3%A9e_de_notes_%28IA_histoiredehainau06guys%29.pdf.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+                "decoding": "async",
+                "loading": "lazy",
+                "width": 400,
+                "height": 642
+              },
+              "url": "https://upload.wikimedia.org/wikipedia/commons/5/57/Histoire_de_Hainaut_-_traduite_en_francais_avec_le_texte_Latin_en_regard%2C_et_accompagn%C3%A9e_de_notes_%28IA_histoiredehainau06guys%29.pdf?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+              "descriptionurl": "https://commons.wikimedia.org/wiki/File:Histoire_de_Hainaut_-_traduite_en_francais_avec_le_texte_Latin_en_regard,_et_accompagn%C3%A9e_de_notes_(IA_histoiredehainau06guys).pdf",
+              "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=95409376",
+              "extmetadata": {
+                "DateTime": {
+                  "value": "2020-10-24 14:28:19",
+                  "source": "mediawiki-metadata",
+                  "hidden": ""
+                },
+                "ObjectName": {
+                  "value": "<div class=\"fn\">\nHistoire de Hainaut : traduite en francais avec le texte Latin en regard, et accompagnée de notes</div>",
+                  "source": "commons-desc-page"
+                },
+                "CommonsMetadataExtension": {
+                  "value": 1.2,
+                  "source": "extension",
+                  "hidden": ""
+                },
+                "Categories": {
+                  "value": "Scans from the Internet Archive/unverified|PD US expired|Scans from the Internet Archive|Books uploaded by Fæ|Books without Wikidata item|California Digital Library|French-language books",
+                  "source": "commons-categories",
+                  "hidden": ""
+                },
+                "Assessments": {
+                  "value": "",
+                  "source": "commons-categories",
+                  "hidden": ""
+                },
+                "Artist": {
+                  "value": "<div class=\"fn value\">\n<dl><dd>Guyse, Jacques de, d. 1399</dd>\n<dd>Lefevre, Jean, fl. 1525</dd>\n<dd>Fortia d'Urban, Agricole Joseph François Xavier Pierre Esprit Simon Paul Antoine, Marquis de, 1756-1843</dd></dl></div>",
+                  "source": "commons-desc-page"
+                },
+                "ImageDescription": {
+                  "value": "<div class=\"description\">\n<dl><dd>Vol.15, p. 253-vol.19 by Jean Lafèvre, with title: Annales de Hainaut, publiées pour la première fois, avec des notes, par M. le marquis de Fortia d'Urban, pour servir de supplément aux Annales de Jacques de Guyse</dd>\n<dd>An abridgement of the work in French was published Paris, 1531-32, under title: Illustrations de la Gaulle belgique, antiquitez du paiis de Hainnau</dd></dl>\n<br>Subjects:</div>",
+                  "source": "commons-desc-page"
+                },
+                "Credit": {
+                  "value": "<dl><dd><a href=\"//archive.org/details/histoiredehainau06guys\" class=\"extiw\" title=\"iarchive:histoiredehainau06guys\"><bdi class=\"description en\" lang=\"en\" dir=\"ltr\">Internet Archive identifier</bdi>: histoiredehainau06guys</a></dd>\n<dd><a rel=\"nofollow\" class=\"external free\" href=\"https://archive.org/download/histoiredehainau06guys/histoiredehainau06guys.pdf\">https://archive.org/download/histoiredehainau06guys/histoiredehainau06guys.pdf</a></dd></dl>",
+                  "source": "commons-desc-page"
+                },
+                "LicenseShortName": {
+                  "value": "Public domain",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "UsageTerms": {
+                  "value": "Public domain",
+                  "source": "commons-desc-page"
+                },
+                "AttributionRequired": {
+                  "value": "false",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "Copyrighted": {
+                  "value": "False",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "Restrictions": {
+                  "value": "",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "License": {
+                  "value": "pd",
+                  "source": "commons-templates",
+                  "hidden": ""
+                }
+              }
+            }
+          ]
+        },
+        {
+          "pageid": 103765920,
+          "ns": 6,
+          "title": "File:The History of the Decline and Fall of the Roman Empire, in Twelve Volumes, New ed., Vol. V (IA dli.granth.17547).pdf",
+          "index": 5,
+          "imagerepository": "local",
+          "imageinfo": [
+            {
+              "size": 15534869,
+              "width": 750,
+              "height": 1243,
+              "pagecount": 448,
+              "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/de/The_History_of_the_Decline_and_Fall_of_the_Roman_Empire%2C_in_Twelve_Volumes%2C_New_ed.%2C_Vol._V_%28IA_dli.granth.17547%29.pdf/page1-500px-The_History_of_the_Decline_and_Fall_of_the_Roman_Empire%2C_in_Twelve_Volumes%2C_New_ed.%2C_Vol._V_%28IA_dli.granth.17547%29.pdf.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+              "thumbwidth": 400,
+              "thumbheight": 663,
+              "thumbattribs": {
+                "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/de/The_History_of_the_Decline_and_Fall_of_the_Roman_Empire%2C_in_Twelve_Volumes%2C_New_ed.%2C_Vol._V_%28IA_dli.granth.17547%29.pdf/page1-500px-The_History_of_the_Decline_and_Fall_of_the_Roman_Empire%2C_in_Twelve_Volumes%2C_New_ed.%2C_Vol._V_%28IA_dli.granth.17547%29.pdf.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+                "decoding": "async",
+                "loading": "lazy",
+                "width": 400,
+                "height": 663
+              },
+              "url": "https://upload.wikimedia.org/wikipedia/commons/d/de/The_History_of_the_Decline_and_Fall_of_the_Roman_Empire%2C_in_Twelve_Volumes%2C_New_ed.%2C_Vol._V_%28IA_dli.granth.17547%29.pdf?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+              "descriptionurl": "https://commons.wikimedia.org/wiki/File:The_History_of_the_Decline_and_Fall_of_the_Roman_Empire,_in_Twelve_Volumes,_New_ed.,_Vol._V_(IA_dli.granth.17547).pdf",
+              "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=103765920",
+              "extmetadata": {
+                "DateTime": {
+                  "value": "2021-04-16 17:06:18",
+                  "source": "mediawiki-metadata",
+                  "hidden": ""
+                },
+                "ObjectName": {
+                  "value": "<div class=\"fn\">\nThe History of the Decline and Fall of the Roman Empire, in Twelve Volumes, New ed., Vol. V</div>",
+                  "source": "commons-desc-page"
+                },
+                "CommonsMetadataExtension": {
+                  "value": 1.2,
+                  "source": "extension",
+                  "hidden": ""
+                },
+                "Categories": {
+                  "value": "PD-old-100-expired|Scans from the Internet Archive/unverified|CC-PD-Mark|Scans from the Internet Archive|Books uploaded by Fæ|Books without Wikidata item|Bharat Ek Khoj|PD-old missing SDC copyright status",
+                  "source": "commons-categories",
+                  "hidden": ""
+                },
+                "Assessments": {
+                  "value": "",
+                  "source": "commons-categories",
+                  "hidden": ""
+                },
+                "Artist": {
+                  "value": "<div class=\"fn value\">\nGibbon, Edward</div>",
+                  "source": "commons-desc-page"
+                },
+                "ImageDescription": {
+                  "value": "<div class=\"description\">\n<dl><dd><p>Source: Asiatic Society of Mumbai<br>Pages/Folios: 432p.<br>Identifier: BK_00017291<br>Digitization Sponsor: Government of Maharashtra</p></dd>\n<dd>Original Source: &lt;a href=\"<a rel=\"nofollow\" class=\"external free\" href=\"https://granthsanjeevani.com/jspui/handle/123456789/17547\">https://granthsanjeevani.com/jspui/handle/123456789/17547</a>\" rel=\"nofollow\"&gt;Item 17547&lt;/a&gt;</dd></dl>\n<br>Subjects: Book; History of Ancient World; Granth Sanjeevani</div>",
+                  "source": "commons-desc-page"
+                },
+                "Credit": {
+                  "value": "<dl><dd><a href=\"//archive.org/details/dli.granth.17547\" class=\"extiw\" title=\"iarchive:dli.granth.17547\"><bdi class=\"description en\" lang=\"en\" dir=\"ltr\">Internet Archive identifier</bdi>: dli.granth.17547</a></dd>\n<dd><a rel=\"nofollow\" class=\"external free\" href=\"https://archive.org/download/dli.granth.17547/17547.pdf\">https://archive.org/download/dli.granth.17547/17547.pdf</a></dd></dl>",
+                  "source": "commons-desc-page"
+                },
+                "LicenseShortName": {
+                  "value": "Public domain",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "UsageTerms": {
+                  "value": "Public domain",
+                  "source": "commons-desc-page"
+                },
+                "AttributionRequired": {
+                  "value": "false",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "Copyrighted": {
+                  "value": "False",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "Restrictions": {
+                  "value": "",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "License": {
+                  "value": "pd",
+                  "source": "commons-templates",
+                  "hidden": ""
+                }
+              }
+            }
+          ]
+        },
+        {
+          "pageid": 195644131,
+          "ns": 6,
+          "title": "File:A general chronological history of France, ... 1683 (IA bim early-english-books-1641-1700 a-general-chronological- mezeray-francois-eudes- 1683).pdf",
+          "index": 4,
+          "imagerepository": "local",
+          "imageinfo": [
+            {
+              "size": 880057853,
+              "width": 1106,
+              "height": 1762,
+              "pagecount": 1017,
+              "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/49/A_general_chronological_history_of_France%2C_..._1683_%28IA_bim_early-english-books-1641-1700_a-general-chronological-_mezeray-francois-eudes-_1683%29.pdf/page1-500px-A_general_chronological_history_of_France%2C_..._1683_%28IA_bim_early-english-books-1641-1700_a-general-chronological-_mezeray-francois-eudes-_1683%29.pdf.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+              "thumbwidth": 400,
+              "thumbheight": 637,
+              "responsiveUrls": {
+                "2": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/49/A_general_chronological_history_of_France%2C_..._1683_%28IA_bim_early-english-books-1641-1700_a-general-chronological-_mezeray-francois-eudes-_1683%29.pdf/page1-960px-A_general_chronological_history_of_France%2C_..._1683_%28IA_bim_early-english-books-1641-1700_a-general-chronological-_mezeray-francois-eudes-_1683%29.pdf.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+              },
+              "thumbattribs": {
+                "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/49/A_general_chronological_history_of_France%2C_..._1683_%28IA_bim_early-english-books-1641-1700_a-general-chronological-_mezeray-francois-eudes-_1683%29.pdf/page1-500px-A_general_chronological_history_of_France%2C_..._1683_%28IA_bim_early-english-books-1641-1700_a-general-chronological-_mezeray-francois-eudes-_1683%29.pdf.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+                "decoding": "async",
+                "loading": "lazy",
+                "width": 400,
+                "height": 637,
+                "srcset": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/49/A_general_chronological_history_of_France%2C_..._1683_%28IA_bim_early-english-books-1641-1700_a-general-chronological-_mezeray-francois-eudes-_1683%29.pdf/page1-960px-A_general_chronological_history_of_France%2C_..._1683_%28IA_bim_early-english-books-1641-1700_a-general-chronological-_mezeray-francois-eudes-_1683%29.pdf.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail 2x"
+              },
+              "url": "https://upload.wikimedia.org/wikipedia/commons/4/49/A_general_chronological_history_of_France%2C_..._1683_%28IA_bim_early-english-books-1641-1700_a-general-chronological-_mezeray-francois-eudes-_1683%29.pdf?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+              "descriptionurl": "https://commons.wikimedia.org/wiki/File:A_general_chronological_history_of_France,_..._1683_(IA_bim_early-english-books-1641-1700_a-general-chronological-_mezeray-francois-eudes-_1683).pdf",
+              "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=195644131",
+              "extmetadata": {
+                "DateTime": {
+                  "value": "2026-07-13 23:17:56",
+                  "source": "mediawiki-metadata",
+                  "hidden": ""
+                },
+                "ObjectName": {
+                  "value": "<div class=\"fn\">\nA general chronological history of France, ...  1683</div>",
+                  "source": "commons-desc-page"
+                },
+                "CommonsMetadataExtension": {
+                  "value": 1.2,
+                  "source": "extension",
+                  "hidden": ""
+                },
+                "Categories": {
+                  "value": "Scans from the Internet Archive/unverified|PD-old-100-1996|CC-PD-Mark|Scans from the Internet Archive|Books uploaded by Fæ|Books without Wikidata item|IA uploads needing categories|PD-old missing SDC copyright status|Early English Books, 1683",
+                  "source": "commons-categories",
+                  "hidden": ""
+                },
+                "Assessments": {
+                  "value": "",
+                  "source": "commons-categories",
+                  "hidden": ""
+                },
+                "Artist": {
+                  "value": "<div class=\"fn value\">\nMezeray, Francois-Eudes de.</div>",
+                  "source": "commons-desc-page"
+                },
+                "ImageDescription": {
+                  "value": "<div class=\"description\">\n<p>A general chronological history of France, ... 1683..<br>Digitized from <a rel=\"nofollow\" class=\"external text\" href=\"https://archive.org/details/sim_raw_scan_IA40313708-43/page/n257\">IA40313708-43</a>.<br>Previous issue: <a rel=\"nofollow\" class=\"external text\" href=\"https://archive.org/details/bim_early-english-books-1641-1700_a-collection-of-acts-of-_merret-christopher_1660\">bim_early-english-books-1641-1700_a-collection-of-acts-of-_merret-christopher_1660</a>.<br>Next issue: <a rel=\"nofollow\" class=\"external text\" href=\"https://archive.org/details/bim_early-english-books-1641-1700_a-complete-history-of-th_miege-guy_1691\">bim_early-english-books-1641-1700_a-complete-history-of-th_miege-guy_1691</a>.\n</p>\n<br>Subjects: Books; microfilm</div>",
+                  "source": "commons-desc-page"
+                },
+                "Credit": {
+                  "value": "<dl><dd><a href=\"//archive.org/details/bim_early-english-books-1641-1700_a-general-chronological-_mezeray-francois-eudes-_1683\" class=\"extiw\" title=\"iarchive:bim early-english-books-1641-1700 a-general-chronological- mezeray-francois-eudes- 1683\"><bdi class=\"description en\" lang=\"en\" dir=\"ltr\">Internet Archive identifier</bdi>: bim_early-english-books-1641-1700_a-general-chronological-_mezeray-francois-eudes-_1683</a></dd>\n<dd><a rel=\"nofollow\" class=\"external free\" href=\"https://archive.org/download/bim_early-english-books-1641-1700_a-general-chronological-_mezeray-francois-eudes-_1683/bim_early-english-books-1641-1700_a-general-chronological-_mezeray-francois-eudes-_1683.pdf\">https://archive.org/download/bim_early-english-books-1641-1700_a-general-chronological-_mezeray-francois-eudes-_1683/bim_early-english-books-1641-1700_a-general-chronological-_mezeray-francois-eudes-_1683.pdf</a></dd></dl>",
+                  "source": "commons-desc-page"
+                },
+                "LicenseShortName": {
+                  "value": "Public domain",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "UsageTerms": {
+                  "value": "Public domain",
+                  "source": "commons-desc-page"
+                },
+                "AttributionRequired": {
+                  "value": "false",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "Copyrighted": {
+                  "value": "False",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "Restrictions": {
+                  "value": "",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "License": {
+                  "value": "pd",
+                  "source": "commons-templates",
+                  "hidden": ""
+                }
+              }
+            }
+          ]
+        }
+      ]
+    }
+  }
+}

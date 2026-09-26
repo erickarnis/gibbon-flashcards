@@ -1,0 +1,529 @@
+{
+  "person_id": "maximilian-of-tebessa",
+  "query": "Maximilian of Tebessa",
+  "response": {
+    "batchcomplete": true,
+    "continue": {
+      "gsroffset": 5,
+      "continue": "gsroffset||"
+    },
+    "query": {
+      "pages": [
+        {
+          "pageid": 154259763,
+          "ns": 6,
+          "title": "File:Mons. Dr. Maximilianus Rex.jpg",
+          "index": 1,
+          "imagerepository": "local",
+          "imageinfo": [
+            {
+              "size": 54309,
+              "width": 720,
+              "height": 960,
+              "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/22/Mons._Dr._Maximilianus_Rex.jpg/500px-Mons._Dr._Maximilianus_Rex.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+              "thumbwidth": 400,
+              "thumbheight": 533,
+              "responsiveUrls": {
+                "2": "https://upload.wikimedia.org/wikipedia/commons/2/22/Mons._Dr._Maximilianus_Rex.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled"
+              },
+              "thumbattribs": {
+                "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/22/Mons._Dr._Maximilianus_Rex.jpg/500px-Mons._Dr._Maximilianus_Rex.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+                "decoding": "async",
+                "loading": "lazy",
+                "width": 400,
+                "height": 533,
+                "srcset": "https://upload.wikimedia.org/wikipedia/commons/2/22/Mons._Dr._Maximilianus_Rex.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled 2x"
+              },
+              "url": "https://upload.wikimedia.org/wikipedia/commons/2/22/Mons._Dr._Maximilianus_Rex.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+              "descriptionurl": "https://commons.wikimedia.org/wiki/File:Mons._Dr._Maximilianus_Rex.jpg",
+              "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=154259763",
+              "extmetadata": {
+                "DateTime": {
+                  "value": "2024-10-25 02:56:14",
+                  "source": "mediawiki-metadata",
+                  "hidden": ""
+                },
+                "ObjectName": {
+                  "value": "Mons. Dr. Maximilianus Rex",
+                  "source": "mediawiki-metadata"
+                },
+                "CommonsMetadataExtension": {
+                  "value": 1.2,
+                  "source": "extension",
+                  "hidden": ""
+                },
+                "Categories": {
+                  "value": "CC-Zero|Self-published work|Maximilianus Rex",
+                  "source": "commons-categories",
+                  "hidden": ""
+                },
+                "Assessments": {
+                  "value": "",
+                  "source": "commons-categories",
+                  "hidden": ""
+                },
+                "ImageDescription": {
+                  "value": "The first bishop of Labuan Bajo",
+                  "source": "commons-desc-page"
+                },
+                "DateTimeOriginal": {
+                  "value": "2024-10-25",
+                  "source": "commons-desc-page"
+                },
+                "Credit": {
+                  "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+                  "source": "commons-desc-page"
+                },
+                "Artist": {
+                  "value": "<a href=\"//commons.wikimedia.org/w/index.php?title=User:Ybosco12&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"User:Ybosco12 (page does not exist)\">Ybosco12</a>",
+                  "source": "commons-desc-page"
+                },
+                "LicenseShortName": {
+                  "value": "CC0",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "UsageTerms": {
+                  "value": "Creative Commons Zero, Public Domain Dedication",
+                  "source": "commons-desc-page"
+                },
+                "AttributionRequired": {
+                  "value": "false",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "LicenseUrl": {
+                  "value": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+                  "source": "commons-desc-page"
+                },
+                "Copyrighted": {
+                  "value": "True",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "Restrictions": {
+                  "value": "",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "License": {
+                  "value": "cc0",
+                  "source": "commons-templates",
+                  "hidden": ""
+                }
+              }
+            }
+          ]
+        },
+        {
+          "pageid": 165431943,
+          "ns": 6,
+          "title": "File:Maximilianus Emanuel, PA01644.jpg",
+          "index": 5,
+          "imagerepository": "local",
+          "imageinfo": [
+            {
+              "size": 484083,
+              "width": 1061,
+              "height": 1499,
+              "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/09/Maximilianus_Emanuel%2C_PA01644.jpg/500px-Maximilianus_Emanuel%2C_PA01644.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+              "thumbwidth": 400,
+              "thumbheight": 565,
+              "responsiveUrls": {
+                "2": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/09/Maximilianus_Emanuel%2C_PA01644.jpg/960px-Maximilianus_Emanuel%2C_PA01644.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+              },
+              "thumbattribs": {
+                "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/09/Maximilianus_Emanuel%2C_PA01644.jpg/500px-Maximilianus_Emanuel%2C_PA01644.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+                "decoding": "async",
+                "loading": "lazy",
+                "width": 400,
+                "height": 565,
+                "srcset": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/09/Maximilianus_Emanuel%2C_PA01644.jpg/960px-Maximilianus_Emanuel%2C_PA01644.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail 2x"
+              },
+              "url": "https://upload.wikimedia.org/wikipedia/commons/0/09/Maximilianus_Emanuel%2C_PA01644.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+              "descriptionurl": "https://commons.wikimedia.org/wiki/File:Maximilianus_Emanuel,_PA01644.jpg",
+              "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=165431943",
+              "extmetadata": {
+                "DateTime": {
+                  "value": "2025-05-17 05:46:11",
+                  "source": "mediawiki-metadata",
+                  "hidden": ""
+                },
+                "ObjectName": {
+                  "value": "Maximilianus Emanuel, PA01644",
+                  "source": "mediawiki-metadata"
+                },
+                "CommonsMetadataExtension": {
+                  "value": 1.2,
+                  "source": "extension",
+                  "hidden": ""
+                },
+                "Categories": {
+                  "value": "PD Old|CC-PD-Mark|PD-old missing SDC copyright status|Prints of Leuven University Libraries|Prints by Gaspar Bouttats",
+                  "source": "commons-categories",
+                  "hidden": ""
+                },
+                "Assessments": {
+                  "value": "",
+                  "source": "commons-categories",
+                  "hidden": ""
+                },
+                "ImageDescription": {
+                  "value": "<br>Title<br>Maximilianus Emanuel<br>Contributor<br>Maximilian Emanuel II, Elector of Bavaria (Habsburg, 1662-1726) (depicted)<br>Bouttats, Gaspar I (Dutch engraver, ca. 1640-1695/1696) (artist) (graphic artist)<br>Date<br>s.d<br>Publisher<br>(1650-1750)<br>Genre<br>Portraits<br>Extent<br>voorstelling: 112 x 80 mm plaatrand: 117 x 85 mm.<br>Graphic<br>Black-and-white ;<br>Language<br>Latin<br>Typographical details<br>etching(s)<br>Additional info<br>Inscriptions: MAXIMILIANUS EMANUEL D.G. / Utriusque Bavariæ et Super: Pal: dux. / Comes Pal: Rhemi S.R.I. Archi-Dapie: et Elec: (in de voorstelling: onderaan, centraal)<br>Inscriptions: Gasp: Bouttats fecit (in de voorstelling: onderaan, links)<br>Source<br>Library Catalog<br>Source ID<br>lbsn9981133430101471<br>",
+                  "source": "commons-desc-page"
+                },
+                "DateTimeOriginal": {
+                  "value": "{Unknown}",
+                  "source": "commons-desc-page"
+                },
+                "Credit": {
+                  "value": "<a rel=\"nofollow\" class=\"external free\" href=\"https://libis-kul.primo.exlibrisgroup.com/discovery/collectionDiscovery?vid=32KUL_KUL:KULeuven&amp;collectionId=81531994540001488&amp;lang=en&amp;sortItemsBy=date_a&amp;query=any,contains,PA01644\">https://libis-kul.primo.exlibrisgroup.com/discovery/collectionDiscovery?vid=32KUL_KUL:KULeuven&amp;collectionId=81531994540001488&amp;lang=en&amp;sortItemsBy=date_a&amp;query=any,contains,PA01644</a>",
+                  "source": "commons-desc-page"
+                },
+                "Artist": {
+                  "value": "Bouttats, Gaspar I (Dutch engraver, ca. 1640-1695/1696) (artist) (graphic artist)",
+                  "source": "commons-desc-page"
+                },
+                "LicenseShortName": {
+                  "value": "Public domain",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "UsageTerms": {
+                  "value": "Public domain",
+                  "source": "commons-desc-page"
+                },
+                "AttributionRequired": {
+                  "value": "false",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "Copyrighted": {
+                  "value": "False",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "Restrictions": {
+                  "value": "",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "License": {
+                  "value": "pd",
+                  "source": "commons-templates",
+                  "hidden": ""
+                }
+              }
+            }
+          ]
+        },
+        {
+          "pageid": 165617592,
+          "ns": 6,
+          "title": "File:Maximilianus imperator, PA04677.jpg",
+          "index": 4,
+          "imagerepository": "local",
+          "imageinfo": [
+            {
+              "size": 2473348,
+              "width": 2117,
+              "height": 4325,
+              "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/43/Maximilianus_imperator%2C_PA04677.jpg/500px-Maximilianus_imperator%2C_PA04677.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+              "thumbwidth": 400,
+              "thumbheight": 817,
+              "responsiveUrls": {
+                "2": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/43/Maximilianus_imperator%2C_PA04677.jpg/960px-Maximilianus_imperator%2C_PA04677.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+              },
+              "thumbattribs": {
+                "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/43/Maximilianus_imperator%2C_PA04677.jpg/500px-Maximilianus_imperator%2C_PA04677.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+                "decoding": "async",
+                "loading": "lazy",
+                "width": 400,
+                "height": 817,
+                "srcset": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/43/Maximilianus_imperator%2C_PA04677.jpg/960px-Maximilianus_imperator%2C_PA04677.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail 2x"
+              },
+              "url": "https://upload.wikimedia.org/wikipedia/commons/4/43/Maximilianus_imperator%2C_PA04677.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+              "descriptionurl": "https://commons.wikimedia.org/wiki/File:Maximilianus_imperator,_PA04677.jpg",
+              "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=165617592",
+              "extmetadata": {
+                "DateTime": {
+                  "value": "2025-05-19 20:00:37",
+                  "source": "mediawiki-metadata",
+                  "hidden": ""
+                },
+                "ObjectName": {
+                  "value": "Maximilianus imperator, PA04677",
+                  "source": "mediawiki-metadata"
+                },
+                "CommonsMetadataExtension": {
+                  "value": 1.2,
+                  "source": "extension",
+                  "hidden": ""
+                },
+                "Categories": {
+                  "value": "PD Old|CC-PD-Mark|PD-old missing SDC copyright status|Prints of Leuven University Libraries",
+                  "source": "commons-categories",
+                  "hidden": ""
+                },
+                "Assessments": {
+                  "value": "",
+                  "source": "commons-categories",
+                  "hidden": ""
+                },
+                "ImageDescription": {
+                  "value": "<br>Title<br>Maximilianus imperator<br>Contributor<br>Maximilian I, archduke of Austria, king of Germany and Holy Roman emperor (Habsburg, 1459-1519) (depicted)<br>Date<br>s.d<br>Publisher<br>(1550-1700)<br>Genre<br>Portraits<br>Extent<br>voorstelling: 300 x 126 mm plaatrand: 302 x 128 mm voorstelling met tekst: 345 x 160 mm.<br>Graphic<br>Black-and-white ;<br>Language<br>Latin<br>Typographical details<br>engraving(s)<br>Additional info<br>General note: prent uitgeknipt uit een boek<br>Inscriptions: MAXIMILIANVS IMPERATOR. 29 Comes (in de voorstelling: onderaan, centraal)<br>Inscriptions: [...] (buiten de voorstelling: rondom de prent)<br>Source<br>Library Catalog<br>Source ID<br>lbsn9983140590101471<br>",
+                  "source": "commons-desc-page"
+                },
+                "DateTimeOriginal": {
+                  "value": "{Unknown}",
+                  "source": "commons-desc-page"
+                },
+                "Credit": {
+                  "value": "<a rel=\"nofollow\" class=\"external free\" href=\"https://libis-kul.primo.exlibrisgroup.com/discovery/collectionDiscovery?vid=32KUL_KUL:KULeuven&amp;collectionId=81531994540001488&amp;lang=en&amp;sortItemsBy=date_a&amp;query=any,contains,PA04677\">https://libis-kul.primo.exlibrisgroup.com/discovery/collectionDiscovery?vid=32KUL_KUL:KULeuven&amp;collectionId=81531994540001488&amp;lang=en&amp;sortItemsBy=date_a&amp;query=any,contains,PA04677</a>",
+                  "source": "commons-desc-page"
+                },
+                "Artist": {
+                  "value": "Maximilian I, archduke of Austria, king of Germany and Holy Roman emperor (Habsburg, 1459-1519) (depicted)",
+                  "source": "commons-desc-page"
+                },
+                "LicenseShortName": {
+                  "value": "Public domain",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "UsageTerms": {
+                  "value": "Public domain",
+                  "source": "commons-desc-page"
+                },
+                "AttributionRequired": {
+                  "value": "false",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "Copyrighted": {
+                  "value": "False",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "Restrictions": {
+                  "value": "",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "License": {
+                  "value": "pd",
+                  "source": "commons-templates",
+                  "hidden": ""
+                }
+              }
+            }
+          ]
+        },
+        {
+          "pageid": 165619663,
+          "ns": 6,
+          "title": "File:Maximilianus, PA04727.jpg",
+          "index": 2,
+          "imagerepository": "local",
+          "imageinfo": [
+            {
+              "size": 1087296,
+              "width": 2237,
+              "height": 2231,
+              "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ed/Maximilianus%2C_PA04727.jpg/500px-Maximilianus%2C_PA04727.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+              "thumbwidth": 400,
+              "thumbheight": 399,
+              "responsiveUrls": {
+                "2": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ed/Maximilianus%2C_PA04727.jpg/960px-Maximilianus%2C_PA04727.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+              },
+              "thumbattribs": {
+                "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ed/Maximilianus%2C_PA04727.jpg/500px-Maximilianus%2C_PA04727.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+                "decoding": "async",
+                "loading": "lazy",
+                "width": 400,
+                "height": 399,
+                "srcset": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ed/Maximilianus%2C_PA04727.jpg/960px-Maximilianus%2C_PA04727.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail 2x"
+              },
+              "url": "https://upload.wikimedia.org/wikipedia/commons/e/ed/Maximilianus%2C_PA04727.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+              "descriptionurl": "https://commons.wikimedia.org/wiki/File:Maximilianus,_PA04727.jpg",
+              "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=165619663",
+              "extmetadata": {
+                "DateTime": {
+                  "value": "2025-05-19 20:42:04",
+                  "source": "mediawiki-metadata",
+                  "hidden": ""
+                },
+                "ObjectName": {
+                  "value": "Maximilianus, PA04727",
+                  "source": "mediawiki-metadata"
+                },
+                "CommonsMetadataExtension": {
+                  "value": 1.2,
+                  "source": "extension",
+                  "hidden": ""
+                },
+                "Categories": {
+                  "value": "PD Old|CC-PD-Mark|PD-old missing SDC copyright status|Prints of Leuven University Libraries",
+                  "source": "commons-categories",
+                  "hidden": ""
+                },
+                "Assessments": {
+                  "value": "",
+                  "source": "commons-categories",
+                  "hidden": ""
+                },
+                "ImageDescription": {
+                  "value": "<br>Title<br>Maximilianus<br>Contributor<br>Maximilian I, archduke of Austria, king of Germany and Holy Roman emperor (Habsburg, 1459-1519) (depicted)<br>Date<br>s.d<br>Publisher<br>(1500-1800)<br>Genre<br>Portraits<br>Extent<br>voorstelling: 167 x 167 mm.<br>Graphic<br>Black White Yellow ;<br>Language<br>Latin<br>Typographical details<br>woodcut(s)<br>Additional info<br>Inscriptions: MAXIMILIANVS ROM.REX. (in de voorstelling: rondom het portret)<br>Source<br>Library Catalog<br>Source ID<br>lbsn9983143010101471<br>",
+                  "source": "commons-desc-page"
+                },
+                "DateTimeOriginal": {
+                  "value": "{Unknown}",
+                  "source": "commons-desc-page"
+                },
+                "Credit": {
+                  "value": "<a rel=\"nofollow\" class=\"external free\" href=\"https://libis-kul.primo.exlibrisgroup.com/discovery/collectionDiscovery?vid=32KUL_KUL:KULeuven&amp;collectionId=81531994540001488&amp;lang=en&amp;sortItemsBy=date_a&amp;query=any,contains,PA04727\">https://libis-kul.primo.exlibrisgroup.com/discovery/collectionDiscovery?vid=32KUL_KUL:KULeuven&amp;collectionId=81531994540001488&amp;lang=en&amp;sortItemsBy=date_a&amp;query=any,contains,PA04727</a>",
+                  "source": "commons-desc-page"
+                },
+                "Artist": {
+                  "value": "Maximilian I, archduke of Austria, king of Germany and Holy Roman emperor (Habsburg, 1459-1519) (depicted)",
+                  "source": "commons-desc-page"
+                },
+                "LicenseShortName": {
+                  "value": "Public domain",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "UsageTerms": {
+                  "value": "Public domain",
+                  "source": "commons-desc-page"
+                },
+                "AttributionRequired": {
+                  "value": "false",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "Copyrighted": {
+                  "value": "False",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "Restrictions": {
+                  "value": "",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "License": {
+                  "value": "pd",
+                  "source": "commons-templates",
+                  "hidden": ""
+                }
+              }
+            }
+          ]
+        },
+        {
+          "pageid": 173147035,
+          "ns": 6,
+          "title": "File:Maximilianus, PB00714.jpg",
+          "index": 3,
+          "imagerepository": "local",
+          "imageinfo": [
+            {
+              "size": 1832023,
+              "width": 1866,
+              "height": 2867,
+              "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/72/Maximilianus%2C_PB00714.jpg/500px-Maximilianus%2C_PB00714.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+              "thumbwidth": 400,
+              "thumbheight": 615,
+              "responsiveUrls": {
+                "2": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/72/Maximilianus%2C_PB00714.jpg/960px-Maximilianus%2C_PB00714.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+              },
+              "thumbattribs": {
+                "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/72/Maximilianus%2C_PB00714.jpg/500px-Maximilianus%2C_PB00714.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+                "decoding": "async",
+                "loading": "lazy",
+                "width": 400,
+                "height": 615,
+                "srcset": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/72/Maximilianus%2C_PB00714.jpg/960px-Maximilianus%2C_PB00714.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail 2x"
+              },
+              "url": "https://upload.wikimedia.org/wikipedia/commons/7/72/Maximilianus%2C_PB00714.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+              "descriptionurl": "https://commons.wikimedia.org/wiki/File:Maximilianus,_PB00714.jpg",
+              "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=173147035",
+              "extmetadata": {
+                "DateTime": {
+                  "value": "2025-08-20 12:41:18",
+                  "source": "mediawiki-metadata",
+                  "hidden": ""
+                },
+                "ObjectName": {
+                  "value": "Maximilianus, PB00714",
+                  "source": "mediawiki-metadata"
+                },
+                "CommonsMetadataExtension": {
+                  "value": 1.2,
+                  "source": "extension",
+                  "hidden": ""
+                },
+                "Categories": {
+                  "value": "PD Old|CC-PD-Mark|PD-old missing SDC copyright status|Graphic works in the Leuven University Libraries",
+                  "source": "commons-categories",
+                  "hidden": ""
+                },
+                "Assessments": {
+                  "value": "",
+                  "source": "commons-categories",
+                  "hidden": ""
+                },
+                "ImageDescription": {
+                  "value": "<br>Title<br>Maximilianus<br>Contributor<br>Maximilian Franz, Archduke of Austria, Archbishop and Elector of Cologne and Duke of Westphalia, Prince-Bishop of Münster, Grand Master of the Teutonic Order (1756-1801) (depicted)<br>Mansfeld, Johann Ernst (German; Austrian engraver, 1739-1796) (artist) (graphic artist and designer)<br>Date<br>1784<br>Publisher<br>(date mentioned on print)<br>Genre<br>Portraits<br>Extent<br>voorstelling: 264 x 194 mm voorstelling met opschrift: 297 x 194 mm. voorstelling: 328 x 229 mm.<br>Graphic<br>Black-and-white ;<br>Language<br>Latin<br>Typographical details<br>etching(s)<br>engraving(s)<br>Additional info<br>Inscriptions: Joa. Ern.e Mansfeld Sculp. Viennæ 1784 (buiten de voorstelling: onderaan, rechts)<br>Inscriptions: MAXIMILIANVS REGIVS HVNG. ET BOH. PRINCIPS, ARCHIDVX AUSTRIAE, / DVX BVRGVND. LOTHARING. ETC. MAGNI MAGISTERII IN PRVSSIA ADMINISTRATOR, / MILITIAE ORDINIS TEVTONICI PER GERMANIAM ET PARTES TRANSMARINAS / MAGNVS MAGISTER, COLONIENSIS ET MONASTERIENSIS COADIVTOR, / COMES HABSPVRGI, TYROLIS ETC. DOMINVS IN FREVDENTHAL ET EVLENBERG. (buiten de voorstelling: onderaan, centraal)<br>Source<br>Library Catalog<br>Source ID<br>lbsn9983763140101471<br>",
+                  "source": "commons-desc-page"
+                },
+                "DateTimeOriginal": {
+                  "value": "1784",
+                  "source": "commons-desc-page"
+                },
+                "Credit": {
+                  "value": "<a rel=\"nofollow\" class=\"external free\" href=\"https://libis-kul.primo.exlibrisgroup.com/discovery/collectionDiscovery?vid=32KUL_KUL:KULeuven&amp;collectionId=81531994540001488&amp;lang=en&amp;sortItemsBy=date_a&amp;query=any,contains,PB00714\">https://libis-kul.primo.exlibrisgroup.com/discovery/collectionDiscovery?vid=32KUL_KUL:KULeuven&amp;collectionId=81531994540001488&amp;lang=en&amp;sortItemsBy=date_a&amp;query=any,contains,PB00714</a>",
+                  "source": "commons-desc-page"
+                },
+                "Artist": {
+                  "value": "Mansfeld, Johann Ernst (German; Austrian engraver, 1739-1796) (artist) (graphic artist and designer)",
+                  "source": "commons-desc-page"
+                },
+                "LicenseShortName": {
+                  "value": "Public domain",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "UsageTerms": {
+                  "value": "Public domain",
+                  "source": "commons-desc-page"
+                },
+                "AttributionRequired": {
+                  "value": "false",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "Copyrighted": {
+                  "value": "False",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "Restrictions": {
+                  "value": "",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "License": {
+                  "value": "pd",
+                  "source": "commons-templates",
+                  "hidden": ""
+                }
+              }
+            }
+          ]
+        }
+      ]
+    }
+  }
+}

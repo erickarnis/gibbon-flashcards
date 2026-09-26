@@ -1,0 +1,578 @@
+{
+  "batchcomplete": true,
+  "continue": {
+    "gsroffset": 5,
+    "continue": "gsroffset||"
+  },
+  "query": {
+    "pages": [
+      {
+        "pageid": 26324917,
+        "ns": 6,
+        "title": "File:JOVIAN - RIC VIII 223 - 671793 (obverse).jpg",
+        "index": 1,
+        "imagerepository": "local",
+        "imageinfo": [
+          {
+            "size": 23684,
+            "width": 164,
+            "height": 157,
+            "thumburl": "https://upload.wikimedia.org/wikipedia/commons/d/d6/JOVIAN_-_RIC_VIII_223_-_671793_%28obverse%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+            "thumbwidth": 960,
+            "thumbheight": 919,
+            "thumbattribs": {
+              "src": "https://upload.wikimedia.org/wikipedia/commons/d/d6/JOVIAN_-_RIC_VIII_223_-_671793_%28obverse%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+              "decoding": "async",
+              "loading": "lazy",
+              "width": 960,
+              "height": 919
+            },
+            "url": "https://upload.wikimedia.org/wikipedia/commons/d/d6/JOVIAN_-_RIC_VIII_223_-_671793_%28obverse%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:JOVIAN_-_RIC_VIII_223_-_671793_(obverse).jpg",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=26324917",
+            "extmetadata": {
+              "DateTime": {
+                "value": "2013-05-26 13:32:46",
+                "source": "mediawiki-metadata",
+                "hidden": ""
+              },
+              "ObjectName": {
+                "value": "JOVIAN - RIC VIII 223 - 671793 (obverse)",
+                "source": "mediawiki-metadata"
+              },
+              "CommonsMetadataExtension": {
+                "value": 1.2,
+                "source": "extension",
+                "hidden": ""
+              },
+              "Categories": {
+                "value": "GFDL|Retouched pictures|License migration not eligible|Coins of Antioch|Self-published work|CNG coins|Items with VRTS permission confirmed|Extracted images|363 coins|Quinquennalias|Solidi of Jovian",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "Assessments": {
+                "value": "",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "ImageDescription": {
+                "value": "JOVIAN. 363-364 AD. \n<dl><dd>AV Solidus (4.41 gm). Antioch mint.\n<dl><dd><dl><dd>DL IOVIAN-US P F P AUG, Pearl-diademed, draped and cuirassed bust right</dd>\n<dd>SECURITA-S REI PUBLICAE, Roma and Constantinopolis enthroned, supporting between them shield inscribed VOT/V/MVL/X in four lines; ANTE.</dd></dl></dd></dl></dd>\n<dd>RIC VIII 223; Depeyrot 18/2.</dd>\n<dd>VF, traces of prior mounting on edge. <i>From the Garth R. Drewry Collection</i>.</dd></dl>",
+                "source": "commons-desc-page"
+              },
+              "DateTimeOriginal": {
+                "value": "2010-12-17",
+                "source": "commons-desc-page"
+              },
+              "Credit": {
+                "value": "<a rel=\"nofollow\" class=\"external free\" href=\"https://www.cngcoins.com/Coin.aspx?CoinID=54274\">https://www.cngcoins.com/Coin.aspx?CoinID=54274</a>",
+                "source": "commons-desc-page"
+              },
+              "Artist": {
+                "value": "CNG",
+                "source": "commons-desc-page"
+              },
+              "Permission": {
+                "value": "You may select the license of your choice.",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "LicenseShortName": {
+                "value": "CC BY-SA 2.5",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "UsageTerms": {
+                "value": "Creative Commons Attribution-Share Alike 2.5",
+                "source": "commons-desc-page"
+              },
+              "AttributionRequired": {
+                "value": "true",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Attribution": {
+                "value": "Classical Numismatic Group, Inc. <a rel=\"nofollow\" class=\"external free\" href=\"http://www.cngcoins.com\">http://www.cngcoins.com</a>",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "LicenseUrl": {
+                "value": "https://creativecommons.org/licenses/by-sa/2.5",
+                "source": "commons-desc-page"
+              },
+              "Copyrighted": {
+                "value": "True",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Restrictions": {
+                "value": "",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "License": {
+                "value": "cc-by-sa-2.5",
+                "source": "commons-templates",
+                "hidden": ""
+              }
+            }
+          }
+        ]
+      },
+      {
+        "pageid": 55667583,
+        "ns": 6,
+        "title": "File:Roman coin, Siliqua of Jovian (FindID 432228).jpg",
+        "index": 5,
+        "imagerepository": "local",
+        "imageinfo": [
+          {
+            "size": 1336891,
+            "width": 1733,
+            "height": 1093,
+            "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/92/Roman_coin%2C_Siliqua_of_Jovian_%28FindID_432228%29.jpg/960px-Roman_coin%2C_Siliqua_of_Jovian_%28FindID_432228%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+            "thumbwidth": 960,
+            "thumbheight": 605,
+            "responsiveUrls": {
+              "2": "https://upload.wikimedia.org/wikipedia/commons/9/92/Roman_coin%2C_Siliqua_of_Jovian_%28FindID_432228%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled"
+            },
+            "thumbattribs": {
+              "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/92/Roman_coin%2C_Siliqua_of_Jovian_%28FindID_432228%29.jpg/960px-Roman_coin%2C_Siliqua_of_Jovian_%28FindID_432228%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+              "decoding": "async",
+              "loading": "lazy",
+              "width": 960,
+              "height": 605,
+              "srcset": "https://upload.wikimedia.org/wikipedia/commons/9/92/Roman_coin%2C_Siliqua_of_Jovian_%28FindID_432228%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled 2x"
+            },
+            "url": "https://upload.wikimedia.org/wikipedia/commons/9/92/Roman_coin%2C_Siliqua_of_Jovian_%28FindID_432228%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:Roman_coin,_Siliqua_of_Jovian_(FindID_432228).jpg",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=55667583",
+            "extmetadata": {
+              "DateTime": {
+                "value": "2017-01-31 19:56:58",
+                "source": "mediawiki-metadata",
+                "hidden": ""
+              },
+              "ObjectName": {
+                "value": "<div class=\"fn\">\nRoman coin: Siliqua of Jovian</div>",
+                "source": "commons-desc-page"
+              },
+              "CommonsMetadataExtension": {
+                "value": 1.2,
+                "source": "extension",
+                "hidden": ""
+              },
+              "Categories": {
+                "value": "Portable Antiquities Scheme|Images uploaded by Fæ|Portable Antiquities Scheme, DOR|Quinquennalias|Siliquas of Jovian",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "Assessments": {
+                "value": "",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "Artist": {
+                "value": "<div class=\"fn value\">\nSomerset County Council, Chris Gosling, 2011-03-05 17:00:19</div>",
+                "source": "commons-desc-page"
+              },
+              "ImageDescription": {
+                "value": "A siliqua of Jovian. DN IOVIANVS PF AVG (draped and diademed bust facing right) obverse, VOT V MVLT X in wreath, reverse. Mint of Arles <br>\n<p>Mint Mark: //P.CONST<br>\nReference: <br>\nDate: Late Roman - AD 363-364<br>\nDiameter: 17.33 mm<br>\nWeight: 1.73 g <br>\n</p>\nDie axis: 7",
+                "source": "commons-desc-page"
+              },
+              "DateTimeOriginal": {
+                "value": "between 348 and 364",
+                "source": "commons-desc-page"
+              },
+              "Credit": {
+                "value": "<a rel=\"nofollow\" class=\"external free\" href=\"https://finds.org.uk/database/ajax/download/id/319282\">https://finds.org.uk/database/ajax/download/id/319282</a><br>Catalog: <a rel=\"nofollow\" class=\"external free\" href=\"https://finds.org.uk/database/images/image/id/319282\">https://finds.org.uk/database/images/image/id/319282</a><br>Artefact: <a rel=\"nofollow\" class=\"external free\" href=\"https://finds.org.uk/database/artefacts/record/id/432228\">https://finds.org.uk/database/artefacts/record/id/432228</a>",
+                "source": "commons-desc-page"
+              },
+              "Permission": {
+                "value": "Attribution-ShareAlike License",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "LicenseShortName": {
+                "value": "CC BY-SA 2.0",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "UsageTerms": {
+                "value": "Creative Commons Attribution-Share Alike 2.0",
+                "source": "commons-desc-page"
+              },
+              "AttributionRequired": {
+                "value": "true",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Attribution": {
+                "value": "The Portable Antiquities Scheme/ The Trustees of the British Museum",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "LicenseUrl": {
+                "value": "https://creativecommons.org/licenses/by-sa/2.0",
+                "source": "commons-desc-page"
+              },
+              "Copyrighted": {
+                "value": "True",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Restrictions": {
+                "value": "",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "License": {
+                "value": "cc-by-sa-2.0",
+                "source": "commons-templates",
+                "hidden": ""
+              }
+            }
+          }
+        ]
+      },
+      {
+        "pageid": 55729454,
+        "ns": 6,
+        "title": "File:Roman coin , Nummus of Jovian (FindID 474734).jpg",
+        "index": 4,
+        "imagerepository": "local",
+        "imageinfo": [
+          {
+            "size": 862289,
+            "width": 2566,
+            "height": 1535,
+            "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/94/Roman_coin_%2C_Nummus_of_Jovian_%28FindID_474734%29.jpg/960px-Roman_coin_%2C_Nummus_of_Jovian_%28FindID_474734%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+            "thumbwidth": 960,
+            "thumbheight": 574,
+            "responsiveUrls": {
+              "2": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/94/Roman_coin_%2C_Nummus_of_Jovian_%28FindID_474734%29.jpg/1920px-Roman_coin_%2C_Nummus_of_Jovian_%28FindID_474734%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+            },
+            "thumbattribs": {
+              "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/94/Roman_coin_%2C_Nummus_of_Jovian_%28FindID_474734%29.jpg/960px-Roman_coin_%2C_Nummus_of_Jovian_%28FindID_474734%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+              "decoding": "async",
+              "loading": "lazy",
+              "width": 960,
+              "height": 574,
+              "srcset": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/94/Roman_coin_%2C_Nummus_of_Jovian_%28FindID_474734%29.jpg/1920px-Roman_coin_%2C_Nummus_of_Jovian_%28FindID_474734%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail 2x"
+            },
+            "url": "https://upload.wikimedia.org/wikipedia/commons/9/94/Roman_coin_%2C_Nummus_of_Jovian_%28FindID_474734%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:Roman_coin_,_Nummus_of_Jovian_(FindID_474734).jpg",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=55729454",
+            "extmetadata": {
+              "DateTime": {
+                "value": "2017-02-01 21:19:02",
+                "source": "mediawiki-metadata",
+                "hidden": ""
+              },
+              "ObjectName": {
+                "value": "<div class=\"fn\">\nRoman coin : Nummus of Jovian</div>",
+                "source": "commons-desc-page"
+              },
+              "CommonsMetadataExtension": {
+                "value": 1.2,
+                "source": "extension",
+                "hidden": ""
+              },
+              "Categories": {
+                "value": "Portable Antiquities Scheme|Images uploaded by Fæ|Portable Antiquities Scheme, WILT|Quinquennalias|Siliquas of Jovian",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "Assessments": {
+                "value": "",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "Artist": {
+                "value": "<div class=\"fn value\">\nSalisbury and South Wiltshire Museum, Katie Hinds, 2011-11-27 23:43:13</div>",
+                "source": "commons-desc-page"
+              },
+              "ImageDescription": {
+                "value": "A Roman nummus of Jovian (AD 363-4), reverse: Wreath around VOT / V / MVLT / X. Measures 19mm, die axis 6, worn.<br><br>\n<p>Obverse: Pearl diademed draped cuirassed bust right<br>\nD N IOVIA  NVS P F AVG<br>\nReverse: Wreath around VOT / V / MVLT / X<br><br>\n</p>\nDate: AD 363-364",
+                "source": "commons-desc-page"
+              },
+              "DateTimeOriginal": {
+                "value": "between 348 and 364",
+                "source": "commons-desc-page"
+              },
+              "Credit": {
+                "value": "<a rel=\"nofollow\" class=\"external free\" href=\"https://finds.org.uk/database/ajax/download/id/357874\">https://finds.org.uk/database/ajax/download/id/357874</a><br>Catalog: <a rel=\"nofollow\" class=\"external free\" href=\"https://finds.org.uk/database/images/image/id/357874\">https://finds.org.uk/database/images/image/id/357874</a><br>Artefact: <a rel=\"nofollow\" class=\"external free\" href=\"https://finds.org.uk/database/artefacts/record/id/474734\">https://finds.org.uk/database/artefacts/record/id/474734</a>",
+                "source": "commons-desc-page"
+              },
+              "Permission": {
+                "value": "Attribution-ShareAlike License",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "LicenseShortName": {
+                "value": "CC BY-SA 2.0",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "UsageTerms": {
+                "value": "Creative Commons Attribution-Share Alike 2.0",
+                "source": "commons-desc-page"
+              },
+              "AttributionRequired": {
+                "value": "true",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Attribution": {
+                "value": "The Portable Antiquities Scheme/ The Trustees of the British Museum",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "LicenseUrl": {
+                "value": "https://creativecommons.org/licenses/by-sa/2.0",
+                "source": "commons-desc-page"
+              },
+              "Copyrighted": {
+                "value": "True",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Restrictions": {
+                "value": "",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "License": {
+                "value": "cc-by-sa-2.0",
+                "source": "commons-templates",
+                "hidden": ""
+              }
+            }
+          }
+        ]
+      },
+      {
+        "pageid": 74894147,
+        "ns": 6,
+        "title": "File:NARC-FDC1E0 , Siliqua , Jovian (FindID 570311).jpg",
+        "index": 3,
+        "imagerepository": "local",
+        "imageinfo": [
+          {
+            "size": 1780872,
+            "width": 3498,
+            "height": 1776,
+            "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d9/NARC-FDC1E0_%2C_Siliqua_%2C_Jovian_%28FindID_570311%29.jpg/960px-NARC-FDC1E0_%2C_Siliqua_%2C_Jovian_%28FindID_570311%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+            "thumbwidth": 960,
+            "thumbheight": 487,
+            "responsiveUrls": {
+              "2": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d9/NARC-FDC1E0_%2C_Siliqua_%2C_Jovian_%28FindID_570311%29.jpg/1920px-NARC-FDC1E0_%2C_Siliqua_%2C_Jovian_%28FindID_570311%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+            },
+            "thumbattribs": {
+              "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d9/NARC-FDC1E0_%2C_Siliqua_%2C_Jovian_%28FindID_570311%29.jpg/960px-NARC-FDC1E0_%2C_Siliqua_%2C_Jovian_%28FindID_570311%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+              "decoding": "async",
+              "loading": "lazy",
+              "width": 960,
+              "height": 487,
+              "srcset": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d9/NARC-FDC1E0_%2C_Siliqua_%2C_Jovian_%28FindID_570311%29.jpg/1920px-NARC-FDC1E0_%2C_Siliqua_%2C_Jovian_%28FindID_570311%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail 2x"
+            },
+            "url": "https://upload.wikimedia.org/wikipedia/commons/d/d9/NARC-FDC1E0_%2C_Siliqua_%2C_Jovian_%28FindID_570311%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:NARC-FDC1E0_,_Siliqua_,_Jovian_(FindID_570311).jpg",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=74894147",
+            "extmetadata": {
+              "DateTime": {
+                "value": "2018-12-06 18:16:06",
+                "source": "mediawiki-metadata",
+                "hidden": ""
+              },
+              "ObjectName": {
+                "value": "<div class=\"fn\">\nNARC-FDC1E0 : Siliqua : Jovian</div>",
+                "source": "commons-desc-page"
+              },
+              "CommonsMetadataExtension": {
+                "value": 1.2,
+                "source": "extension",
+                "hidden": ""
+              },
+              "Categories": {
+                "value": "Portable Antiquities Scheme|Images uploaded by Fæ|Portable Antiquities Scheme, NARC|Quinquennalias|Siliquas of Jovian",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "Assessments": {
+                "value": "",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "Artist": {
+                "value": "<div class=\"fn value\">\nNorthamptonshire County Council, Eleanore Cox, 2017-11-20 13:38:47</div>",
+                "source": "commons-desc-page"
+              },
+              "ImageDescription": {
+                "value": "<pre>A silver silliqua of JOVIAN. Minted in Nicomedia. (363-364 AD). \nObverse: Pearl-diademed, draped and cuirassed bust right. \nReverse: VOT V MVLT X in wreath. \nMintmark: - // SMN\nReference: RIC VIII 127; RSC 33Ae.\nVery fine condition, but cracks in two places. \n</pre>",
+                "source": "commons-desc-page"
+              },
+              "DateTimeOriginal": {
+                "value": "between 348 and 364",
+                "source": "commons-desc-page"
+              },
+              "Credit": {
+                "value": "<a rel=\"nofollow\" class=\"external free\" href=\"https://finds.org.uk/database/ajax/download/id/637703\">https://finds.org.uk/database/ajax/download/id/637703</a><br>Catalog: <a rel=\"nofollow\" class=\"external free\" href=\"https://finds.org.uk/database/images/image/id/637703/recordtype/artefacts\">https://finds.org.uk/database/images/image/id/637703/recordtype/artefacts</a> <bdi lang=\"en\" dir=\"ltr\" title=\"archived on 6 December 2018 at the Wayback Machine\"><a rel=\"nofollow\" class=\"external text\" href=\"https://web.archive.org/web/20181206182653/https%3A//finds.org.uk/database/images/image/id/637703/recordtype/artefacts\">archive copy</a> at the <span lang=\"en\" dir=\"ltr\"><a href=\"https://en.wikipedia.org/wiki/Wayback_Machine\" class=\"extiw\" title=\"en:Wayback Machine\"><span lang=\"en\" dir=\"ltr\">Wayback Machine</span></a></span></bdi><br>Artefact: <a rel=\"nofollow\" class=\"external free\" href=\"https://finds.org.uk/database/artefacts/record/id/570311\">https://finds.org.uk/database/artefacts/record/id/570311</a>",
+                "source": "commons-desc-page"
+              },
+              "Permission": {
+                "value": "Attribution-ShareAlike License",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "LicenseShortName": {
+                "value": "CC BY-SA 2.0",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "UsageTerms": {
+                "value": "Creative Commons Attribution-Share Alike 2.0",
+                "source": "commons-desc-page"
+              },
+              "AttributionRequired": {
+                "value": "true",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Attribution": {
+                "value": "Northamptonshire County Council",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "LicenseUrl": {
+                "value": "https://creativecommons.org/licenses/by-sa/2.0",
+                "source": "commons-desc-page"
+              },
+              "Copyrighted": {
+                "value": "True",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Restrictions": {
+                "value": "",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "License": {
+                "value": "cc-by-sa-2.0",
+                "source": "commons-templates",
+                "hidden": ""
+              }
+            }
+          }
+        ]
+      },
+      {
+        "pageid": 122653582,
+        "ns": 6,
+        "title": "File:Solidus of Jovian (obverse).jpg",
+        "index": 2,
+        "imagerepository": "local",
+        "imageinfo": [
+          {
+            "size": 64447,
+            "width": 394,
+            "height": 396,
+            "thumburl": "https://upload.wikimedia.org/wikipedia/commons/e/e6/Solidus_of_Jovian_%28obverse%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+            "thumbwidth": 960,
+            "thumbheight": 965,
+            "thumbattribs": {
+              "src": "https://upload.wikimedia.org/wikipedia/commons/e/e6/Solidus_of_Jovian_%28obverse%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+              "decoding": "async",
+              "loading": "lazy",
+              "width": 960,
+              "height": 965
+            },
+            "url": "https://upload.wikimedia.org/wikipedia/commons/e/e6/Solidus_of_Jovian_%28obverse%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:Solidus_of_Jovian_(obverse).jpg",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=122653582",
+            "extmetadata": {
+              "DateTime": {
+                "value": "2022-09-04 19:21:56",
+                "source": "mediawiki-metadata",
+                "hidden": ""
+              },
+              "ObjectName": {
+                "value": "Solidus of Jovian (obverse)",
+                "source": "mediawiki-metadata"
+              },
+              "CommonsMetadataExtension": {
+                "value": 1.2,
+                "source": "extension",
+                "hidden": ""
+              },
+              "Categories": {
+                "value": "GFDL|License migration not eligible|Self-published work|CNG coins|Items with VRTS permission confirmed|Extracted images|Solidi of Jovian",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "Assessments": {
+                "value": "",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "ImageDescription": {
+                "value": "Jovian. AD 363-364. AV Solidus (22mm, 4.38 g, 12h). Sirmium mint. Struck 363/4. D N IOVIA NVS P F AVG, pearl-diademed, draped, and cuirassed bust right / SECVRITAS REIPVBLICE, Jovian, diademed and in military attire, standing facing, head left, holding labarum in right hand; to left, bound captive left with head right; * SIRM •. RIC VIII 110; Depeyrot 6/4; Biaggi 2228 (this coin). Choice EF.",
+                "source": "commons-desc-page"
+              },
+              "DateTimeOriginal": {
+                "value": "0364",
+                "source": "commons-desc-page"
+              },
+              "Credit": {
+                "value": "<a rel=\"nofollow\" class=\"external free\" href=\"https://www.cngcoins.com/Coin.aspx?CoinID=300818\">https://www.cngcoins.com/Coin.aspx?CoinID=300818</a>",
+                "source": "commons-desc-page"
+              },
+              "Artist": {
+                "value": "CNG",
+                "source": "commons-desc-page"
+              },
+              "LicenseShortName": {
+                "value": "CC BY-SA 2.5",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "UsageTerms": {
+                "value": "Creative Commons Attribution-Share Alike 2.5",
+                "source": "commons-desc-page"
+              },
+              "AttributionRequired": {
+                "value": "true",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Attribution": {
+                "value": "Classical Numismatic Group, Inc. <a rel=\"nofollow\" class=\"external free\" href=\"http://www.cngcoins.com\">http://www.cngcoins.com</a>",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "LicenseUrl": {
+                "value": "https://creativecommons.org/licenses/by-sa/2.5",
+                "source": "commons-desc-page"
+              },
+              "Copyrighted": {
+                "value": "True",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Restrictions": {
+                "value": "",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "License": {
+                "value": "cc-by-sa-2.5",
+                "source": "commons-templates",
+                "hidden": ""
+              }
+            }
+          }
+        ]
+      }
+    ]
+  }
+}

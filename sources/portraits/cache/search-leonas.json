@@ -1,0 +1,509 @@
+{
+  "person_id": "leonas",
+  "query": "Leonas",
+  "response": {
+    "batchcomplete": true,
+    "continue": {
+      "gsroffset": 5,
+      "continue": "gsroffset||"
+    },
+    "query": {
+      "pages": [
+        {
+          "pageid": 26844408,
+          "ns": 6,
+          "title": "File:Leonas Juozapaitis.jpg",
+          "index": 1,
+          "imagerepository": "local",
+          "imageinfo": [
+            {
+              "size": 2059,
+              "width": 65,
+              "height": 85,
+              "thumburl": "https://upload.wikimedia.org/wikipedia/commons/a/a5/Leonas_Juozapaitis.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+              "thumbwidth": 400,
+              "thumbheight": 523,
+              "thumbattribs": {
+                "src": "https://upload.wikimedia.org/wikipedia/commons/a/a5/Leonas_Juozapaitis.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+                "decoding": "async",
+                "loading": "lazy",
+                "width": 400,
+                "height": 523
+              },
+              "url": "https://upload.wikimedia.org/wikipedia/commons/a/a5/Leonas_Juozapaitis.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+              "descriptionurl": "https://commons.wikimedia.org/wiki/File:Leonas_Juozapaitis.jpg",
+              "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=26844408",
+              "extmetadata": {
+                "DateTime": {
+                  "value": "2013-06-24 08:25:35",
+                  "source": "mediawiki-metadata",
+                  "hidden": ""
+                },
+                "ObjectName": {
+                  "value": "Leonas Juozapaitis",
+                  "source": "mediawiki-metadata"
+                },
+                "CommonsMetadataExtension": {
+                  "value": 1.2,
+                  "source": "extension",
+                  "hidden": ""
+                },
+                "Categories": {
+                  "value": "PD Old|Leonas Juozapaitis|Template Unknown (author)|CC-PD-Mark|PD-old missing SDC copyright status",
+                  "source": "commons-categories",
+                  "hidden": ""
+                },
+                "Assessments": {
+                  "value": "",
+                  "source": "commons-categories",
+                  "hidden": ""
+                },
+                "ImageDescription": {
+                  "value": "Leonas Juozapaitis, Lithuanian football player at the Olympics (1924)",
+                  "source": "commons-desc-page"
+                },
+                "DateTimeOriginal": {
+                  "value": "before 1940<div style=\"display: none;\">date QS:P,+1940-00-00T00:00:00Z/7,P1326,+1940-00-00T00:00:00Z/9</div>",
+                  "source": "commons-desc-page"
+                },
+                "Credit": {
+                  "value": "<a rel=\"nofollow\" class=\"external autonumber\" href=\"http://www.lse.lt/index.php?3006161757\">[1]</a>",
+                  "source": "commons-desc-page"
+                },
+                "Artist": {
+                  "value": "Unknown author<span style=\"display: none;\">Unknown author</span>",
+                  "source": "commons-desc-page"
+                },
+                "LicenseShortName": {
+                  "value": "Public domain",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "UsageTerms": {
+                  "value": "Public domain",
+                  "source": "commons-desc-page"
+                },
+                "AttributionRequired": {
+                  "value": "false",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "Copyrighted": {
+                  "value": "False",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "Restrictions": {
+                  "value": "",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "License": {
+                  "value": "pd",
+                  "source": "commons-templates",
+                  "hidden": ""
+                }
+              }
+            }
+          ]
+        },
+        {
+          "pageid": 38464338,
+          "ns": 6,
+          "title": "File:Leonas Baltrunas.JPG",
+          "index": 4,
+          "imagerepository": "local",
+          "imageinfo": [
+            {
+              "size": 23030,
+              "width": 221,
+              "height": 371,
+              "thumburl": "https://upload.wikimedia.org/wikipedia/commons/2/2a/Leonas_Baltrunas.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+              "thumbwidth": 400,
+              "thumbheight": 671,
+              "thumbattribs": {
+                "src": "https://upload.wikimedia.org/wikipedia/commons/2/2a/Leonas_Baltrunas.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+                "decoding": "async",
+                "loading": "lazy",
+                "width": 400,
+                "height": 671
+              },
+              "url": "https://upload.wikimedia.org/wikipedia/commons/2/2a/Leonas_Baltrunas.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+              "descriptionurl": "https://commons.wikimedia.org/wiki/File:Leonas_Baltrunas.JPG",
+              "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=38464338",
+              "extmetadata": {
+                "DateTime": {
+                  "value": "2015-02-18 17:56:46",
+                  "source": "mediawiki-metadata",
+                  "hidden": ""
+                },
+                "ObjectName": {
+                  "value": "Leonas Baltrunas",
+                  "source": "mediawiki-metadata"
+                },
+                "CommonsMetadataExtension": {
+                  "value": 1.2,
+                  "source": "extension",
+                  "hidden": ""
+                },
+                "Categories": {
+                  "value": "PD-anon-70-EU|Template Unknown (author)|Leonas Baltrūnas",
+                  "source": "commons-categories",
+                  "hidden": ""
+                },
+                "Assessments": {
+                  "value": "",
+                  "source": "commons-categories",
+                  "hidden": ""
+                },
+                "ImageDescription": {
+                  "value": "Photo of Leonas Baltrūnas in 1939.",
+                  "source": "commons-desc-page"
+                },
+                "DateTimeOriginal": {
+                  "value": "1939",
+                  "source": "commons-desc-page"
+                },
+                "Credit": {
+                  "value": "Vidas Mačiulis, Vytautas Gudelis book \"Halė, kurioje žaidė Lubinas ir Sabonis\" (1989). Picture author is not provided. The 1989's book is just a source of this image. It already was published before.",
+                  "source": "commons-desc-page"
+                },
+                "Artist": {
+                  "value": "Unknown author<span style=\"display: none;\">Unknown author</span>",
+                  "source": "commons-desc-page"
+                },
+                "LicenseShortName": {
+                  "value": "Public domain",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "UsageTerms": {
+                  "value": "Public domain",
+                  "source": "commons-desc-page"
+                },
+                "AttributionRequired": {
+                  "value": "false",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "Copyrighted": {
+                  "value": "False",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "Restrictions": {
+                  "value": "",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "License": {
+                  "value": "pd",
+                  "source": "commons-templates",
+                  "hidden": ""
+                }
+              }
+            }
+          ]
+        },
+        {
+          "pageid": 38464466,
+          "ns": 6,
+          "title": "File:Leonas Petrauskas.JPG",
+          "index": 3,
+          "imagerepository": "local",
+          "imageinfo": [
+            {
+              "size": 22362,
+              "width": 220,
+              "height": 374,
+              "thumburl": "https://upload.wikimedia.org/wikipedia/commons/8/84/Leonas_Petrauskas.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+              "thumbwidth": 400,
+              "thumbheight": 680,
+              "thumbattribs": {
+                "src": "https://upload.wikimedia.org/wikipedia/commons/8/84/Leonas_Petrauskas.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+                "decoding": "async",
+                "loading": "lazy",
+                "width": 400,
+                "height": 680
+              },
+              "url": "https://upload.wikimedia.org/wikipedia/commons/8/84/Leonas_Petrauskas.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+              "descriptionurl": "https://commons.wikimedia.org/wiki/File:Leonas_Petrauskas.JPG",
+              "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=38464466",
+              "extmetadata": {
+                "DateTime": {
+                  "value": "2015-02-18 18:03:22",
+                  "source": "mediawiki-metadata",
+                  "hidden": ""
+                },
+                "ObjectName": {
+                  "value": "Leonas Petrauskas",
+                  "source": "mediawiki-metadata"
+                },
+                "CommonsMetadataExtension": {
+                  "value": 1.2,
+                  "source": "extension",
+                  "hidden": ""
+                },
+                "Categories": {
+                  "value": "Leonas Petrauskas|PD-anon-70-EU|Template Unknown (author)",
+                  "source": "commons-categories",
+                  "hidden": ""
+                },
+                "Assessments": {
+                  "value": "",
+                  "source": "commons-categories",
+                  "hidden": ""
+                },
+                "ImageDescription": {
+                  "value": "Photo of Leonas Petrauskas in 1939.",
+                  "source": "commons-desc-page"
+                },
+                "DateTimeOriginal": {
+                  "value": "1939",
+                  "source": "commons-desc-page"
+                },
+                "Credit": {
+                  "value": "Vidas Mačiulis, Vytautas Gudelis book \"Halė, kurioje žaidė Lubinas ir Sabonis\" (1989). Picture author is not provided. The 1989's book is just a source of this image. It already was published before.",
+                  "source": "commons-desc-page"
+                },
+                "Artist": {
+                  "value": "Unknown author<span style=\"display: none;\">Unknown author</span>",
+                  "source": "commons-desc-page"
+                },
+                "LicenseShortName": {
+                  "value": "Public domain",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "UsageTerms": {
+                  "value": "Public domain",
+                  "source": "commons-desc-page"
+                },
+                "AttributionRequired": {
+                  "value": "false",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "Copyrighted": {
+                  "value": "False",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "Restrictions": {
+                  "value": "",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "License": {
+                  "value": "pd",
+                  "source": "commons-templates",
+                  "hidden": ""
+                }
+              }
+            }
+          ]
+        },
+        {
+          "pageid": 59153616,
+          "ns": 6,
+          "title": "File:Leonas Bistras.jpg",
+          "index": 2,
+          "imagerepository": "local",
+          "imageinfo": [
+            {
+              "size": 9030,
+              "width": 204,
+              "height": 320,
+              "thumburl": "https://upload.wikimedia.org/wikipedia/commons/5/5f/Leonas_Bistras.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+              "thumbwidth": 400,
+              "thumbheight": 627,
+              "thumbattribs": {
+                "src": "https://upload.wikimedia.org/wikipedia/commons/5/5f/Leonas_Bistras.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+                "decoding": "async",
+                "loading": "lazy",
+                "width": 400,
+                "height": 627
+              },
+              "url": "https://upload.wikimedia.org/wikipedia/commons/5/5f/Leonas_Bistras.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+              "descriptionurl": "https://commons.wikimedia.org/wiki/File:Leonas_Bistras.jpg",
+              "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=59153616",
+              "extmetadata": {
+                "DateTime": {
+                  "value": "2017-05-21 19:23:25",
+                  "source": "mediawiki-metadata",
+                  "hidden": ""
+                },
+                "ObjectName": {
+                  "value": "Leonas Bistras",
+                  "source": "mediawiki-metadata"
+                },
+                "CommonsMetadataExtension": {
+                  "value": 1.2,
+                  "source": "extension",
+                  "hidden": ""
+                },
+                "Categories": {
+                  "value": "Leonas Bistras|PD-Art (PD-old-70)|PD-Art (PD-old default)|Images with extracted images|Template Unknown (author)|CC-PD-Mark|PD-Art missing SDC copyright status|PD-old missing SDC copyright status",
+                  "source": "commons-categories",
+                  "hidden": ""
+                },
+                "Assessments": {
+                  "value": "",
+                  "source": "commons-categories",
+                  "hidden": ""
+                },
+                "ImageDescription": {
+                  "value": "Ляонас Бістрас",
+                  "source": "commons-desc-page"
+                },
+                "DateTimeOriginal": {
+                  "value": "1925",
+                  "source": "commons-desc-page"
+                },
+                "Credit": {
+                  "value": "<a rel=\"nofollow\" class=\"external text\" href=\"https://web.archive.org/web/20140814172945/http://lrv.lt/lt/vyriausybe/apie-vyriausybe/ankstesnes-vyriausybes/laikotarpiu-1918-1940/leonas-bistras/\">Сайт Уряду Литовської Республіки</a>",
+                  "source": "commons-desc-page"
+                },
+                "Artist": {
+                  "value": "Unknown author<span style=\"display: none;\">Unknown author</span>",
+                  "source": "commons-desc-page"
+                },
+                "LicenseShortName": {
+                  "value": "Public domain",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "UsageTerms": {
+                  "value": "Public domain",
+                  "source": "commons-desc-page"
+                },
+                "AttributionRequired": {
+                  "value": "false",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "Copyrighted": {
+                  "value": "False",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "Restrictions": {
+                  "value": "",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "License": {
+                  "value": "pd",
+                  "source": "commons-templates",
+                  "hidden": ""
+                }
+              }
+            }
+          ]
+        },
+        {
+          "pageid": 173729219,
+          "ns": 6,
+          "title": "File:EuroBasket 1939 participant entrance ticket, issued to Lithuanian basketball player Leonas Baltrūnas.jpg",
+          "index": 5,
+          "imagerepository": "local",
+          "imageinfo": [
+            {
+              "size": 64352,
+              "width": 628,
+              "height": 383,
+              "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e1/EuroBasket_1939_participant_entrance_ticket%2C_issued_to_Lithuanian_basketball_player_Leonas_Baltr%C5%ABnas.jpg/500px-EuroBasket_1939_participant_entrance_ticket%2C_issued_to_Lithuanian_basketball_player_Leonas_Baltr%C5%ABnas.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+              "thumbwidth": 400,
+              "thumbheight": 244,
+              "responsiveUrls": {
+                "2": "https://upload.wikimedia.org/wikipedia/commons/e/e1/EuroBasket_1939_participant_entrance_ticket%2C_issued_to_Lithuanian_basketball_player_Leonas_Baltr%C5%ABnas.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled"
+              },
+              "thumbattribs": {
+                "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e1/EuroBasket_1939_participant_entrance_ticket%2C_issued_to_Lithuanian_basketball_player_Leonas_Baltr%C5%ABnas.jpg/500px-EuroBasket_1939_participant_entrance_ticket%2C_issued_to_Lithuanian_basketball_player_Leonas_Baltr%C5%ABnas.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+                "decoding": "async",
+                "loading": "lazy",
+                "width": 400,
+                "height": 244,
+                "srcset": "https://upload.wikimedia.org/wikipedia/commons/e/e1/EuroBasket_1939_participant_entrance_ticket%2C_issued_to_Lithuanian_basketball_player_Leonas_Baltr%C5%ABnas.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled 2x"
+              },
+              "url": "https://upload.wikimedia.org/wikipedia/commons/e/e1/EuroBasket_1939_participant_entrance_ticket%2C_issued_to_Lithuanian_basketball_player_Leonas_Baltr%C5%ABnas.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+              "descriptionurl": "https://commons.wikimedia.org/wiki/File:EuroBasket_1939_participant_entrance_ticket,_issued_to_Lithuanian_basketball_player_Leonas_Baltr%C5%ABnas.jpg",
+              "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=173729219",
+              "extmetadata": {
+                "DateTime": {
+                  "value": "2025-08-27 17:53:24",
+                  "source": "mediawiki-metadata",
+                  "hidden": ""
+                },
+                "ObjectName": {
+                  "value": "EuroBasket 1939 participant entrance ticket, issued to Lithuanian basketball player Leonas Baltrūnas",
+                  "source": "mediawiki-metadata"
+                },
+                "CommonsMetadataExtension": {
+                  "value": 1.2,
+                  "source": "extension",
+                  "hidden": ""
+                },
+                "Categories": {
+                  "value": "EuroBasket 1939|PD-anon-70-EU|Template Unknown (author)|Entrance tickets of Lithuania|Leonas Baltrūnas",
+                  "source": "commons-categories",
+                  "hidden": ""
+                },
+                "Assessments": {
+                  "value": "",
+                  "source": "commons-categories",
+                  "hidden": ""
+                },
+                "ImageDescription": {
+                  "value": "EuroBasket 1939 participant entrance ticket, issued to Lithuanian basketball player Leonas Baltrūnas",
+                  "source": "commons-desc-page"
+                },
+                "DateTimeOriginal": {
+                  "value": "1939",
+                  "source": "commons-desc-page"
+                },
+                "Credit": {
+                  "value": "<a rel=\"nofollow\" class=\"external text\" href=\"https://www.australianlithuanians.org/basketball/\">AustralianLithuanians.org</a>",
+                  "source": "commons-desc-page"
+                },
+                "Artist": {
+                  "value": "Unknown author<span style=\"display: none;\">Unknown author</span> (both portrait and entrance ticket)",
+                  "source": "commons-desc-page"
+                },
+                "LicenseShortName": {
+                  "value": "Public domain",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "UsageTerms": {
+                  "value": "Public domain",
+                  "source": "commons-desc-page"
+                },
+                "AttributionRequired": {
+                  "value": "false",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "Copyrighted": {
+                  "value": "False",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "Restrictions": {
+                  "value": "",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "License": {
+                  "value": "pd",
+                  "source": "commons-templates",
+                  "hidden": ""
+                }
+              }
+            }
+          ]
+        }
+      ]
+    }
+  }
+}

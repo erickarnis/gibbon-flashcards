@@ -1,0 +1,630 @@
+{
+  "person_id": "flavius-philippus",
+  "query": "Flavius Philippus",
+  "response": {
+    "batchcomplete": true,
+    "continue": {
+      "gsroffset": 5,
+      "continue": "gsroffset||"
+    },
+    "query": {
+      "pages": [
+        {
+          "pageid": 60115579,
+          "ns": 6,
+          "title": "File:Brückl Sankt Filippen Pfarrkirche hll. Philippus und Jakobus SO-Ansicht 19062017 9564.jpg",
+          "index": 4,
+          "imagerepository": "local",
+          "imageinfo": [
+            {
+              "size": 17984231,
+              "width": 6273,
+              "height": 4845,
+              "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c8/Br%C3%BCckl_Sankt_Filippen_Pfarrkirche_hll._Philippus_und_Jakobus_SO-Ansicht_19062017_9564.jpg/500px-Br%C3%BCckl_Sankt_Filippen_Pfarrkirche_hll._Philippus_und_Jakobus_SO-Ansicht_19062017_9564.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+              "thumbwidth": 400,
+              "thumbheight": 309,
+              "responsiveUrls": {
+                "2": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c8/Br%C3%BCckl_Sankt_Filippen_Pfarrkirche_hll._Philippus_und_Jakobus_SO-Ansicht_19062017_9564.jpg/960px-Br%C3%BCckl_Sankt_Filippen_Pfarrkirche_hll._Philippus_und_Jakobus_SO-Ansicht_19062017_9564.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+              },
+              "thumbattribs": {
+                "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c8/Br%C3%BCckl_Sankt_Filippen_Pfarrkirche_hll._Philippus_und_Jakobus_SO-Ansicht_19062017_9564.jpg/500px-Br%C3%BCckl_Sankt_Filippen_Pfarrkirche_hll._Philippus_und_Jakobus_SO-Ansicht_19062017_9564.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+                "decoding": "async",
+                "loading": "lazy",
+                "width": 400,
+                "height": 309,
+                "srcset": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c8/Br%C3%BCckl_Sankt_Filippen_Pfarrkirche_hll._Philippus_und_Jakobus_SO-Ansicht_19062017_9564.jpg/960px-Br%C3%BCckl_Sankt_Filippen_Pfarrkirche_hll._Philippus_und_Jakobus_SO-Ansicht_19062017_9564.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail 2x"
+              },
+              "url": "https://upload.wikimedia.org/wikipedia/commons/c/c8/Br%C3%BCckl_Sankt_Filippen_Pfarrkirche_hll._Philippus_und_Jakobus_SO-Ansicht_19062017_9564.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+              "descriptionurl": "https://commons.wikimedia.org/wiki/File:Br%C3%BCckl_Sankt_Filippen_Pfarrkirche_hll._Philippus_und_Jakobus_SO-Ansicht_19062017_9564.jpg",
+              "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=60115579",
+              "extmetadata": {
+                "DateTime": {
+                  "value": "2017-06-19 15:31:51",
+                  "source": "mediawiki-metadata",
+                  "hidden": ""
+                },
+                "ObjectName": {
+                  "value": "Brückl Sankt Filippen Pfarrkirche hll. Philippus und Jakobus SO-Ansicht 19062017 9564",
+                  "source": "mediawiki-metadata"
+                },
+                "CommonsMetadataExtension": {
+                  "value": 1.2,
+                  "source": "extension",
+                  "hidden": ""
+                },
+                "Categories": {
+                  "value": "Pfarrkirche hll. Philippus und Jakobus, Sankt Filippen, Brückl|Self-published work|Images by Johann Jaritz|Cultural heritage monuments in Austria with known IDs|Austria photographs taken on 2017-06-19|Spring 2017 in Bezirk St. Veit",
+                  "source": "commons-categories",
+                  "hidden": ""
+                },
+                "Assessments": {
+                  "value": "quality",
+                  "source": "commons-categories",
+                  "hidden": ""
+                },
+                "GPSLatitude": {
+                  "value": "46.702250",
+                  "source": "commons-desc-page"
+                },
+                "GPSLongitude": {
+                  "value": "14.498444",
+                  "source": "commons-desc-page"
+                },
+                "GPSMapDatum": {
+                  "value": "WGS-84",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "ImageDescription": {
+                  "value": "Parish church Saints Philip and James on Kirchenweg #7 in Sankt Filippen, market town <a href=\"https://en.wikipedia.org/wiki/Br%C3%BCckl\" class=\"extiw\" title=\"w:Brückl\">Brückl</a>, district Sankt Veit, <a href=\"https://en.wikipedia.org/wiki/Carinthia\" class=\"extiw\" title=\"en:Carinthia\">Carinthia</a>, <a href=\"https://en.wikipedia.org/wiki/Austria\" class=\"extiw\" title=\"en:Austria\">Austria</a>, <a href=\"https://en.wikipedia.org/wiki/European_Union\" class=\"extiw\" title=\"en:European Union\">EU</a>",
+                  "source": "commons-desc-page"
+                },
+                "DateTimeOriginal": {
+                  "value": "2017-06-19",
+                  "source": "commons-desc-page"
+                },
+                "Credit": {
+                  "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+                  "source": "commons-desc-page"
+                },
+                "Artist": {
+                  "value": "<a href=\"//commons.wikimedia.org/wiki/User:Johann_Jaritz\" title=\"User:Johann Jaritz\">Johann Jaritz</a>",
+                  "source": "commons-desc-page"
+                },
+                "LicenseShortName": {
+                  "value": "CC BY-SA 4.0",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "UsageTerms": {
+                  "value": "Creative Commons Attribution-Share Alike 4.0",
+                  "source": "commons-desc-page"
+                },
+                "AttributionRequired": {
+                  "value": "true",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "Attribution": {
+                  "value": "Johann Jaritz / <a rel=\"nofollow\" class=\"external text\" href=\"https://creativecommons.org/licenses/by-sa/4.0/legalcode\">CC BY-SA 4.0</a>",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "LicenseUrl": {
+                  "value": "https://creativecommons.org/licenses/by-sa/4.0",
+                  "source": "commons-desc-page"
+                },
+                "Copyrighted": {
+                  "value": "True",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "Restrictions": {
+                  "value": "",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "License": {
+                  "value": "cc-by-sa-4.0",
+                  "source": "commons-templates",
+                  "hidden": ""
+                }
+              }
+            }
+          ]
+        },
+        {
+          "pageid": 60118590,
+          "ns": 6,
+          "title": "File:Brückl Sankt Filippen Pfarrkirche hll. Philippus und Jakobus NW-Ansicht 19062017 9581.jpg",
+          "index": 5,
+          "imagerepository": "local",
+          "imageinfo": [
+            {
+              "size": 15859976,
+              "width": 6462,
+              "height": 4605,
+              "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/cf/Br%C3%BCckl_Sankt_Filippen_Pfarrkirche_hll._Philippus_und_Jakobus_NW-Ansicht_19062017_9581.jpg/500px-Br%C3%BCckl_Sankt_Filippen_Pfarrkirche_hll._Philippus_und_Jakobus_NW-Ansicht_19062017_9581.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+              "thumbwidth": 400,
+              "thumbheight": 285,
+              "responsiveUrls": {
+                "2": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/cf/Br%C3%BCckl_Sankt_Filippen_Pfarrkirche_hll._Philippus_und_Jakobus_NW-Ansicht_19062017_9581.jpg/960px-Br%C3%BCckl_Sankt_Filippen_Pfarrkirche_hll._Philippus_und_Jakobus_NW-Ansicht_19062017_9581.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+              },
+              "thumbattribs": {
+                "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/cf/Br%C3%BCckl_Sankt_Filippen_Pfarrkirche_hll._Philippus_und_Jakobus_NW-Ansicht_19062017_9581.jpg/500px-Br%C3%BCckl_Sankt_Filippen_Pfarrkirche_hll._Philippus_und_Jakobus_NW-Ansicht_19062017_9581.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+                "decoding": "async",
+                "loading": "lazy",
+                "width": 400,
+                "height": 285,
+                "srcset": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/cf/Br%C3%BCckl_Sankt_Filippen_Pfarrkirche_hll._Philippus_und_Jakobus_NW-Ansicht_19062017_9581.jpg/960px-Br%C3%BCckl_Sankt_Filippen_Pfarrkirche_hll._Philippus_und_Jakobus_NW-Ansicht_19062017_9581.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail 2x"
+              },
+              "url": "https://upload.wikimedia.org/wikipedia/commons/c/cf/Br%C3%BCckl_Sankt_Filippen_Pfarrkirche_hll._Philippus_und_Jakobus_NW-Ansicht_19062017_9581.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+              "descriptionurl": "https://commons.wikimedia.org/wiki/File:Br%C3%BCckl_Sankt_Filippen_Pfarrkirche_hll._Philippus_und_Jakobus_NW-Ansicht_19062017_9581.jpg",
+              "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=60118590",
+              "extmetadata": {
+                "DateTime": {
+                  "value": "2022-06-30 10:36:59",
+                  "source": "mediawiki-metadata",
+                  "hidden": ""
+                },
+                "ObjectName": {
+                  "value": "Brückl Sankt Filippen Pfarrkirche hll. Philippus und Jakobus NW-Ansicht 19062017 9581",
+                  "source": "mediawiki-metadata"
+                },
+                "CommonsMetadataExtension": {
+                  "value": 1.2,
+                  "source": "extension",
+                  "hidden": ""
+                },
+                "Categories": {
+                  "value": "Cemeteries in Carinthia|Pfarrkirche hll. Philippus und Jakobus, Sankt Filippen, Brückl|Self-published work|Images by Johann Jaritz|Cultural heritage monuments in Austria with known IDs|Austria photographs taken on 2017-06-19|Spring 2017 in Bezirk St. Veit",
+                  "source": "commons-categories",
+                  "hidden": ""
+                },
+                "Assessments": {
+                  "value": "quality",
+                  "source": "commons-categories",
+                  "hidden": ""
+                },
+                "GPSLatitude": {
+                  "value": "46.702250",
+                  "source": "commons-desc-page"
+                },
+                "GPSLongitude": {
+                  "value": "14.498444",
+                  "source": "commons-desc-page"
+                },
+                "GPSMapDatum": {
+                  "value": "WGS-84",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "ImageDescription": {
+                  "value": "Parish church Saints Philip and James on Kirchenweg #7 in Sankt Filippen, market town <a href=\"https://en.wikipedia.org/wiki/Br%C3%BCckl\" class=\"extiw\" title=\"w:Brückl\">Brückl</a>, district Sankt Veit, <a href=\"https://en.wikipedia.org/wiki/Carinthia\" class=\"extiw\" title=\"en:Carinthia\">Carinthia</a>, <a href=\"https://en.wikipedia.org/wiki/Austria\" class=\"extiw\" title=\"en:Austria\">Austria</a>, <a href=\"https://en.wikipedia.org/wiki/European_Union\" class=\"extiw\" title=\"en:European Union\">EU</a>",
+                  "source": "commons-desc-page"
+                },
+                "DateTimeOriginal": {
+                  "value": "2017-06-19",
+                  "source": "commons-desc-page"
+                },
+                "Credit": {
+                  "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+                  "source": "commons-desc-page"
+                },
+                "Artist": {
+                  "value": "<a href=\"//commons.wikimedia.org/wiki/User:Johann_Jaritz\" title=\"User:Johann Jaritz\">Johann Jaritz</a>",
+                  "source": "commons-desc-page"
+                },
+                "LicenseShortName": {
+                  "value": "CC BY-SA 4.0",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "UsageTerms": {
+                  "value": "Creative Commons Attribution-Share Alike 4.0",
+                  "source": "commons-desc-page"
+                },
+                "AttributionRequired": {
+                  "value": "true",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "Attribution": {
+                  "value": "Johann Jaritz / <a rel=\"nofollow\" class=\"external text\" href=\"https://creativecommons.org/licenses/by-sa/4.0/legalcode\">CC BY-SA 4.0</a>",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "LicenseUrl": {
+                  "value": "https://creativecommons.org/licenses/by-sa/4.0",
+                  "source": "commons-desc-page"
+                },
+                "Copyrighted": {
+                  "value": "True",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "Restrictions": {
+                  "value": "",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "License": {
+                  "value": "cc-by-sa-4.0",
+                  "source": "commons-templates",
+                  "hidden": ""
+                }
+              }
+            }
+          ]
+        },
+        {
+          "pageid": 60140366,
+          "ns": 6,
+          "title": "File:Brückl Sankt Filippen Pfarrkirche hll. Philippus und Jakobus Schulterbogenportal 19062017 9573.jpg",
+          "index": 2,
+          "imagerepository": "local",
+          "imageinfo": [
+            {
+              "size": 16197390,
+              "width": 4912,
+              "height": 7360,
+              "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b9/Br%C3%BCckl_Sankt_Filippen_Pfarrkirche_hll._Philippus_und_Jakobus_Schulterbogenportal_19062017_9573.jpg/500px-Br%C3%BCckl_Sankt_Filippen_Pfarrkirche_hll._Philippus_und_Jakobus_Schulterbogenportal_19062017_9573.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+              "thumbwidth": 400,
+              "thumbheight": 599,
+              "responsiveUrls": {
+                "2": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b9/Br%C3%BCckl_Sankt_Filippen_Pfarrkirche_hll._Philippus_und_Jakobus_Schulterbogenportal_19062017_9573.jpg/960px-Br%C3%BCckl_Sankt_Filippen_Pfarrkirche_hll._Philippus_und_Jakobus_Schulterbogenportal_19062017_9573.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+              },
+              "thumbattribs": {
+                "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b9/Br%C3%BCckl_Sankt_Filippen_Pfarrkirche_hll._Philippus_und_Jakobus_Schulterbogenportal_19062017_9573.jpg/500px-Br%C3%BCckl_Sankt_Filippen_Pfarrkirche_hll._Philippus_und_Jakobus_Schulterbogenportal_19062017_9573.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+                "decoding": "async",
+                "loading": "lazy",
+                "width": 400,
+                "height": 599,
+                "srcset": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b9/Br%C3%BCckl_Sankt_Filippen_Pfarrkirche_hll._Philippus_und_Jakobus_Schulterbogenportal_19062017_9573.jpg/960px-Br%C3%BCckl_Sankt_Filippen_Pfarrkirche_hll._Philippus_und_Jakobus_Schulterbogenportal_19062017_9573.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail 2x"
+              },
+              "url": "https://upload.wikimedia.org/wikipedia/commons/b/b9/Br%C3%BCckl_Sankt_Filippen_Pfarrkirche_hll._Philippus_und_Jakobus_Schulterbogenportal_19062017_9573.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+              "descriptionurl": "https://commons.wikimedia.org/wiki/File:Br%C3%BCckl_Sankt_Filippen_Pfarrkirche_hll._Philippus_und_Jakobus_Schulterbogenportal_19062017_9573.jpg",
+              "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=60140366",
+              "extmetadata": {
+                "DateTime": {
+                  "value": "2017-06-20 06:58:35",
+                  "source": "mediawiki-metadata",
+                  "hidden": ""
+                },
+                "ObjectName": {
+                  "value": "Brückl Sankt Filippen Pfarrkirche hll. Philippus und Jakobus Schulterbogenportal 19062017 9573",
+                  "source": "mediawiki-metadata"
+                },
+                "CommonsMetadataExtension": {
+                  "value": 1.2,
+                  "source": "extension",
+                  "hidden": ""
+                },
+                "Categories": {
+                  "value": "Cemeteries in Carinthia|Pfarrkirche hll. Philippus und Jakobus, Sankt Filippen, Brückl|Self-published work|Images by Johann Jaritz|Cultural heritage monuments in Austria with known IDs|Church portals in Carinthia|Austria photographs taken on 2017-06-19|Schulterbogenportale in Carinthia|Spring 2017 in Bezirk St. Veit",
+                  "source": "commons-categories",
+                  "hidden": ""
+                },
+                "Assessments": {
+                  "value": "quality",
+                  "source": "commons-categories",
+                  "hidden": ""
+                },
+                "GPSLatitude": {
+                  "value": "46.702250",
+                  "source": "commons-desc-page"
+                },
+                "GPSLongitude": {
+                  "value": "14.498444",
+                  "source": "commons-desc-page"
+                },
+                "GPSMapDatum": {
+                  "value": "WGS-84",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "ImageDescription": {
+                  "value": "Portal of the parish church Saints Philip and James on Kirchenweg #7 in Sankt Filippen, market town <a href=\"https://en.wikipedia.org/wiki/Br%C3%BCckl\" class=\"extiw\" title=\"w:Brückl\">Brückl</a>, district Sankt Veit, <a href=\"https://en.wikipedia.org/wiki/Carinthia\" class=\"extiw\" title=\"en:Carinthia\">Carinthia</a>, <a href=\"https://en.wikipedia.org/wiki/Austria\" class=\"extiw\" title=\"en:Austria\">Austria</a>, <a href=\"https://en.wikipedia.org/wiki/European_Union\" class=\"extiw\" title=\"en:European Union\">EU</a>",
+                  "source": "commons-desc-page"
+                },
+                "DateTimeOriginal": {
+                  "value": "2017-06-19",
+                  "source": "commons-desc-page"
+                },
+                "Credit": {
+                  "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+                  "source": "commons-desc-page"
+                },
+                "Artist": {
+                  "value": "<a href=\"//commons.wikimedia.org/wiki/User:Johann_Jaritz\" title=\"User:Johann Jaritz\">Johann Jaritz</a>",
+                  "source": "commons-desc-page"
+                },
+                "LicenseShortName": {
+                  "value": "CC BY-SA 4.0",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "UsageTerms": {
+                  "value": "Creative Commons Attribution-Share Alike 4.0",
+                  "source": "commons-desc-page"
+                },
+                "AttributionRequired": {
+                  "value": "true",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "Attribution": {
+                  "value": "Johann Jaritz / <a rel=\"nofollow\" class=\"external text\" href=\"https://creativecommons.org/licenses/by-sa/4.0/legalcode\">CC BY-SA 4.0</a>",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "LicenseUrl": {
+                  "value": "https://creativecommons.org/licenses/by-sa/4.0",
+                  "source": "commons-desc-page"
+                },
+                "Copyrighted": {
+                  "value": "True",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "Restrictions": {
+                  "value": "",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "License": {
+                  "value": "cc-by-sa-4.0",
+                  "source": "commons-templates",
+                  "hidden": ""
+                }
+              }
+            }
+          ]
+        },
+        {
+          "pageid": 60154166,
+          "ns": 6,
+          "title": "File:Brückl Sankt Filippen Pfarrkirche hll. Philippus und Jakobus N-Ansicht 19062017 9579.jpg",
+          "index": 3,
+          "imagerepository": "local",
+          "imageinfo": [
+            {
+              "size": 9198112,
+              "width": 5277,
+              "height": 4796,
+              "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a0/Br%C3%BCckl_Sankt_Filippen_Pfarrkirche_hll._Philippus_und_Jakobus_N-Ansicht_19062017_9579.jpg/500px-Br%C3%BCckl_Sankt_Filippen_Pfarrkirche_hll._Philippus_und_Jakobus_N-Ansicht_19062017_9579.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+              "thumbwidth": 400,
+              "thumbheight": 364,
+              "responsiveUrls": {
+                "2": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a0/Br%C3%BCckl_Sankt_Filippen_Pfarrkirche_hll._Philippus_und_Jakobus_N-Ansicht_19062017_9579.jpg/960px-Br%C3%BCckl_Sankt_Filippen_Pfarrkirche_hll._Philippus_und_Jakobus_N-Ansicht_19062017_9579.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+              },
+              "thumbattribs": {
+                "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a0/Br%C3%BCckl_Sankt_Filippen_Pfarrkirche_hll._Philippus_und_Jakobus_N-Ansicht_19062017_9579.jpg/500px-Br%C3%BCckl_Sankt_Filippen_Pfarrkirche_hll._Philippus_und_Jakobus_N-Ansicht_19062017_9579.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+                "decoding": "async",
+                "loading": "lazy",
+                "width": 400,
+                "height": 364,
+                "srcset": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a0/Br%C3%BCckl_Sankt_Filippen_Pfarrkirche_hll._Philippus_und_Jakobus_N-Ansicht_19062017_9579.jpg/960px-Br%C3%BCckl_Sankt_Filippen_Pfarrkirche_hll._Philippus_und_Jakobus_N-Ansicht_19062017_9579.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail 2x"
+              },
+              "url": "https://upload.wikimedia.org/wikipedia/commons/a/a0/Br%C3%BCckl_Sankt_Filippen_Pfarrkirche_hll._Philippus_und_Jakobus_N-Ansicht_19062017_9579.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+              "descriptionurl": "https://commons.wikimedia.org/wiki/File:Br%C3%BCckl_Sankt_Filippen_Pfarrkirche_hll._Philippus_und_Jakobus_N-Ansicht_19062017_9579.jpg",
+              "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=60154166",
+              "extmetadata": {
+                "DateTime": {
+                  "value": "2017-06-20 14:47:26",
+                  "source": "mediawiki-metadata",
+                  "hidden": ""
+                },
+                "ObjectName": {
+                  "value": "Brückl Sankt Filippen Pfarrkirche hll. Philippus und Jakobus N-Ansicht 19062017 9579",
+                  "source": "mediawiki-metadata"
+                },
+                "CommonsMetadataExtension": {
+                  "value": 1.2,
+                  "source": "extension",
+                  "hidden": ""
+                },
+                "Categories": {
+                  "value": "Cemeteries in Carinthia|Pfarrkirche hll. Philippus und Jakobus, Sankt Filippen, Brückl|Self-published work|Images by Johann Jaritz|Cultural heritage monuments in Austria with known IDs|Austria photographs taken on 2017-06-19|Spring 2017 in Bezirk St. Veit",
+                  "source": "commons-categories",
+                  "hidden": ""
+                },
+                "Assessments": {
+                  "value": "quality",
+                  "source": "commons-categories",
+                  "hidden": ""
+                },
+                "GPSLatitude": {
+                  "value": "46.702250",
+                  "source": "commons-desc-page"
+                },
+                "GPSLongitude": {
+                  "value": "14.498444",
+                  "source": "commons-desc-page"
+                },
+                "GPSMapDatum": {
+                  "value": "WGS-84",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "ImageDescription": {
+                  "value": "Parish church Saints Philip and James on Kirchenweg #7 in Sankt Filippen, market town <a href=\"https://en.wikipedia.org/wiki/Br%C3%BCckl\" class=\"extiw\" title=\"w:Brückl\">Brückl</a>, district Sankt Veit, <a href=\"https://en.wikipedia.org/wiki/Carinthia\" class=\"extiw\" title=\"en:Carinthia\">Carinthia</a>, <a href=\"https://en.wikipedia.org/wiki/Austria\" class=\"extiw\" title=\"en:Austria\">Austria</a>, <a href=\"https://en.wikipedia.org/wiki/European_Union\" class=\"extiw\" title=\"en:European Union\">EU</a>",
+                  "source": "commons-desc-page"
+                },
+                "DateTimeOriginal": {
+                  "value": "2017-06-19",
+                  "source": "commons-desc-page"
+                },
+                "Credit": {
+                  "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+                  "source": "commons-desc-page"
+                },
+                "Artist": {
+                  "value": "<a href=\"//commons.wikimedia.org/wiki/User:Johann_Jaritz\" title=\"User:Johann Jaritz\">Johann Jaritz</a>",
+                  "source": "commons-desc-page"
+                },
+                "LicenseShortName": {
+                  "value": "CC BY-SA 4.0",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "UsageTerms": {
+                  "value": "Creative Commons Attribution-Share Alike 4.0",
+                  "source": "commons-desc-page"
+                },
+                "AttributionRequired": {
+                  "value": "true",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "Attribution": {
+                  "value": "Johann Jaritz / <a rel=\"nofollow\" class=\"external text\" href=\"https://creativecommons.org/licenses/by-sa/4.0/legalcode\">CC BY-SA 4.0</a>",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "LicenseUrl": {
+                  "value": "https://creativecommons.org/licenses/by-sa/4.0",
+                  "source": "commons-desc-page"
+                },
+                "Copyrighted": {
+                  "value": "True",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "Restrictions": {
+                  "value": "",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "License": {
+                  "value": "cc-by-sa-4.0",
+                  "source": "commons-templates",
+                  "hidden": ""
+                }
+              }
+            }
+          ]
+        },
+        {
+          "pageid": 83640809,
+          "ns": 6,
+          "title": "File:Leipzig Philippus-Kirche.jpg",
+          "index": 1,
+          "imagerepository": "local",
+          "imageinfo": [
+            {
+              "size": 3047842,
+              "width": 2134,
+              "height": 3355,
+              "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6a/Leipzig_Philippus-Kirche.jpg/500px-Leipzig_Philippus-Kirche.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+              "thumbwidth": 400,
+              "thumbheight": 629,
+              "responsiveUrls": {
+                "2": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6a/Leipzig_Philippus-Kirche.jpg/960px-Leipzig_Philippus-Kirche.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+              },
+              "thumbattribs": {
+                "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6a/Leipzig_Philippus-Kirche.jpg/500px-Leipzig_Philippus-Kirche.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+                "decoding": "async",
+                "loading": "lazy",
+                "width": 400,
+                "height": 629,
+                "srcset": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6a/Leipzig_Philippus-Kirche.jpg/960px-Leipzig_Philippus-Kirche.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail 2x"
+              },
+              "url": "https://upload.wikimedia.org/wikipedia/commons/6/6a/Leipzig_Philippus-Kirche.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+              "descriptionurl": "https://commons.wikimedia.org/wiki/File:Leipzig_Philippus-Kirche.jpg",
+              "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=83640809",
+              "extmetadata": {
+                "DateTime": {
+                  "value": "2019-11-06 18:41:56",
+                  "source": "mediawiki-metadata",
+                  "hidden": ""
+                },
+                "ObjectName": {
+                  "value": "Leipzig Philippus-Kirche",
+                  "source": "mediawiki-metadata"
+                },
+                "CommonsMetadataExtension": {
+                  "value": 1.2,
+                  "source": "extension",
+                  "hidden": ""
+                },
+                "Categories": {
+                  "value": "Philippuskirche (Leipzig)|Self-published work|Files with coordinates missing SDC location of creation|November 2019 in Leipzig",
+                  "source": "commons-categories",
+                  "hidden": ""
+                },
+                "Assessments": {
+                  "value": "quality|valued",
+                  "source": "commons-categories",
+                  "hidden": ""
+                },
+                "GPSLatitude": {
+                  "value": "51.331944",
+                  "source": "commons-desc-page"
+                },
+                "GPSLongitude": {
+                  "value": "12.329444",
+                  "source": "commons-desc-page"
+                },
+                "GPSMapDatum": {
+                  "value": "WGS-84",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "ImageDescription": {
+                  "value": "St. Philip's Church in Leipzig, Germany (view SE)<br>\n<a class=\"external text\" href=\"https://de.wikipedia.org/wiki/Liste_der_Kulturdenkmale_in_Leipzig\">Liste der Kulturdenkmale in Leipzig</a>, ID 09292605 (Landesamt für Denkmalpflege Sachsen).",
+                  "source": "commons-desc-page"
+                },
+                "DateTimeOriginal": {
+                  "value": "2019-11-02",
+                  "source": "commons-desc-page"
+                },
+                "Credit": {
+                  "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+                  "source": "commons-desc-page"
+                },
+                "Artist": {
+                  "value": "<a href=\"//commons.wikimedia.org/wiki/User:Palauenc05\" title=\"User:Palauenc05\">Palauenc05</a>",
+                  "source": "commons-desc-page"
+                },
+                "LicenseShortName": {
+                  "value": "CC BY-SA 4.0",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "UsageTerms": {
+                  "value": "Creative Commons Attribution-Share Alike 4.0",
+                  "source": "commons-desc-page"
+                },
+                "AttributionRequired": {
+                  "value": "true",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "LicenseUrl": {
+                  "value": "https://creativecommons.org/licenses/by-sa/4.0",
+                  "source": "commons-desc-page"
+                },
+                "Copyrighted": {
+                  "value": "True",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "Restrictions": {
+                  "value": "",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "License": {
+                  "value": "cc-by-sa-4.0",
+                  "source": "commons-templates",
+                  "hidden": ""
+                }
+              }
+            }
+          ]
+        }
+      ]
+    }
+  }
+}

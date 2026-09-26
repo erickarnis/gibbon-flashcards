@@ -1,0 +1,1265 @@
+{
+  "query": {
+    "pages": [
+      {
+        "pageid": 86282702,
+        "ns": 6,
+        "title": "File:Portrait of Galba (1st cent. A.D.) at the Archaeological Museum of Corinth (1-10-2020).jpg",
+        "imagerepository": "local",
+        "imageinfo": [
+          {
+            "size": 5809554,
+            "width": 2677,
+            "height": 4015,
+            "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f0/Portrait_of_Galba_%281st_cent._A.D.%29_at_the_Archaeological_Museum_of_Corinth_%281-10-2020%29.jpg/960px-Portrait_of_Galba_%281st_cent._A.D.%29_at_the_Archaeological_Museum_of_Corinth_%281-10-2020%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+            "thumbwidth": 960,
+            "thumbheight": 1440,
+            "responsiveUrls": {
+              "2": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f0/Portrait_of_Galba_%281st_cent._A.D.%29_at_the_Archaeological_Museum_of_Corinth_%281-10-2020%29.jpg/1920px-Portrait_of_Galba_%281st_cent._A.D.%29_at_the_Archaeological_Museum_of_Corinth_%281-10-2020%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+            },
+            "thumbattribs": {
+              "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f0/Portrait_of_Galba_%281st_cent._A.D.%29_at_the_Archaeological_Museum_of_Corinth_%281-10-2020%29.jpg/960px-Portrait_of_Galba_%281st_cent._A.D.%29_at_the_Archaeological_Museum_of_Corinth_%281-10-2020%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+              "decoding": "async",
+              "loading": "lazy",
+              "width": 960,
+              "height": 1440,
+              "srcset": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f0/Portrait_of_Galba_%281st_cent._A.D.%29_at_the_Archaeological_Museum_of_Corinth_%281-10-2020%29.jpg/1920px-Portrait_of_Galba_%281st_cent._A.D.%29_at_the_Archaeological_Museum_of_Corinth_%281-10-2020%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail 2x"
+            },
+            "url": "https://upload.wikimedia.org/wikipedia/commons/f/f0/Portrait_of_Galba_%281st_cent._A.D.%29_at_the_Archaeological_Museum_of_Corinth_%281-10-2020%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:Portrait_of_Galba_(1st_cent._A.D.)_at_the_Archaeological_Museum_of_Corinth_(1-10-2020).jpg",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=86282702",
+            "sha1": "112236599a12aa4c70f69ca83f2d2b701346e545",
+            "extmetadata": {
+              "DateTime": {
+                "value": "2023-02-13 05:19:20",
+                "source": "mediawiki-metadata",
+                "hidden": ""
+              },
+              "ObjectName": {
+                "value": "Portrait of Galba (1st cent. A.D.) at the Archaeological Museum of Corinth (1-10-2020)",
+                "source": "mediawiki-metadata"
+              },
+              "CommonsMetadataExtension": {
+                "value": 1.2,
+                "source": "extension",
+                "hidden": ""
+              },
+              "Categories": {
+                "value": "Self-published work|Files with coordinates missing SDC location of creation|Ancient Roman busts in the Archaeological Museum of Ancient Corinth|Busts of Galba|1st-century busts in Corinth|60s busts in Greece|68 sculptures in Greece|69 sculptures in Greece",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "Assessments": {
+                "value": "",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "GPSLatitude": {
+                "value": "37.905203",
+                "source": "commons-desc-page"
+              },
+              "GPSLongitude": {
+                "value": "22.878431",
+                "source": "commons-desc-page"
+              },
+              "GPSMapDatum": {
+                "value": "WGS-84",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "ImageDescription": {
+                "value": "Portrait of Galba, A.D. 68-69. Inv. No. T-291, Corinth, Archaeological Museum (1-10-2020).",
+                "source": "commons-desc-page"
+              },
+              "DateTimeOriginal": {
+                "value": "2020-01-10 14:58:58",
+                "source": "commons-desc-page"
+              },
+              "Credit": {
+                "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+                "source": "commons-desc-page"
+              },
+              "Artist": {
+                "value": "<a href=\"//commons.wikimedia.org/wiki/User:George_E._Koronaios\" title=\"User:George E. Koronaios\">George E. Koronaios</a>",
+                "source": "commons-desc-page"
+              },
+              "LicenseShortName": {
+                "value": "CC BY-SA 4.0",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "UsageTerms": {
+                "value": "Creative Commons Attribution-Share Alike 4.0",
+                "source": "commons-desc-page"
+              },
+              "AttributionRequired": {
+                "value": "true",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "LicenseUrl": {
+                "value": "https://creativecommons.org/licenses/by-sa/4.0",
+                "source": "commons-desc-page"
+              },
+              "Copyrighted": {
+                "value": "True",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Restrictions": {
+                "value": "",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "License": {
+                "value": "cc-by-sa-4.0",
+                "source": "commons-templates",
+                "hidden": ""
+              }
+            },
+            "mime": "image/jpeg"
+          }
+        ]
+      },
+      {
+        "pageid": 11933182,
+        "ns": 6,
+        "title": "File:Tunis Bardo Buste 8.jpg",
+        "imagerepository": "local",
+        "imageinfo": [
+          {
+            "size": 3229889,
+            "width": 2003,
+            "height": 3072,
+            "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/ae/Tunis_Bardo_Buste_8.jpg/960px-Tunis_Bardo_Buste_8.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+            "thumbwidth": 960,
+            "thumbheight": 1472,
+            "responsiveUrls": {
+              "2": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/ae/Tunis_Bardo_Buste_8.jpg/1920px-Tunis_Bardo_Buste_8.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+            },
+            "thumbattribs": {
+              "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/ae/Tunis_Bardo_Buste_8.jpg/960px-Tunis_Bardo_Buste_8.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+              "decoding": "async",
+              "loading": "lazy",
+              "width": 960,
+              "height": 1472,
+              "srcset": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/ae/Tunis_Bardo_Buste_8.jpg/1920px-Tunis_Bardo_Buste_8.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail 2x"
+            },
+            "url": "https://upload.wikimedia.org/wikipedia/commons/a/ae/Tunis_Bardo_Buste_8.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:Tunis_Bardo_Buste_8.jpg",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=11933182",
+            "sha1": "1c84bc6a164fec3a7f027b966541daf91359a053",
+            "extmetadata": {
+              "DateTime": {
+                "value": "2022-08-09 02:31:54",
+                "source": "mediawiki-metadata",
+                "hidden": ""
+              },
+              "ObjectName": {
+                "value": "Tunis Bardo Buste 8",
+                "source": "mediawiki-metadata"
+              },
+              "CommonsMetadataExtension": {
+                "value": 1.2,
+                "source": "extension",
+                "hidden": ""
+              },
+              "Categories": {
+                "value": "Vitellius (Tunis)|Self-published work|PD-self|Files with derivative versions",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "Assessments": {
+                "value": "",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "ImageDescription": {
+                "value": "Ancient Roman bust of emperor <a href=\"//commons.wikimedia.org/wiki/Vitellius\" class=\"mw-redirect\" title=\"Vitellius\">Vitellius</a>, in the <a href=\"//commons.wikimedia.org/wiki/Museo_del_Bardo_a_Tunisi\" class=\"mw-redirect\" title=\"Museo del Bardo a Tunisi\">Bardo National Museum (Tunis)</a>.",
+                "source": "commons-desc-page"
+              },
+              "DateTimeOriginal": {
+                "value": "2010",
+                "source": "commons-desc-page"
+              },
+              "Credit": {
+                "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+                "source": "commons-desc-page"
+              },
+              "Artist": {
+                "value": "<a href=\"//commons.wikimedia.org/wiki/User:Rais67\" title=\"User:Rais67\">M.Rais</a>",
+                "source": "commons-desc-page"
+              },
+              "Permission": {
+                "value": "<table class=\"licensetpl\" style=\"display:none\">\n<tbody><tr>\n<td><span class=\"licensetpl_short\">Public domain</span><span class=\"licensetpl_long\">Public domain</span><span class=\"licensetpl_link_req\">false</span><span class=\"licensetpl_attr_req\">false</span>\n</td></tr></tbody></table>\n<table style=\"width: 100%; clear: both; margin: 0.5em auto; background-color: var(--background-color-progressive-subtle, #f7f8ff); color: var(--color-base, #202122); border: var(--border-subtle, 2px solid #8888aa); border-spacing: 8px; padding: 0px;\" dir=\"ltr\" class=\"layouttemplate\" lang=\"en\">\n<tbody><tr>\n<td><span typeof=\"mw:File\"><span title=\"Public domain\"><img alt=\"Public domain\" src=\"https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/PD-icon.svg/120px-PD-icon.svg.png?utm_source=commons.wikimedia.org&amp;utm_campaign=parser&amp;utm_content=thumbnail\" decoding=\"async\" width=\"64\" height=\"64\" class=\"mw-file-element\" srcset=\"https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/PD-icon.svg/250px-PD-icon.svg.png?utm_source=commons.wikimedia.org&amp;utm_campaign=parser&amp;utm_content=thumbnail 2x\" data-file-width=\"196\" data-file-height=\"196\"></span></span>\n</td>\n<td>I, the copyright holder of this work, release this work into the <b><a href=\"https://en.wikipedia.org/wiki/en:public_domain\" class=\"extiw\" title=\"w:en:public domain\">public domain</a></b>. This applies worldwide.<br><small>In some countries this may not be legally possible; if so:</small><br><i>I grant anyone the right to use this work <b>for any purpose</b>, without any conditions, unless such conditions are required by law.</i>\n</td></tr></tbody></table>",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "LicenseShortName": {
+                "value": "Public domain",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "UsageTerms": {
+                "value": "Public domain",
+                "source": "commons-desc-page"
+              },
+              "AttributionRequired": {
+                "value": "false",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Copyrighted": {
+                "value": "False",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Restrictions": {
+                "value": "",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "License": {
+                "value": "pd",
+                "source": "commons-templates",
+                "hidden": ""
+              }
+            },
+            "mime": "image/jpeg"
+          }
+        ]
+      },
+      {
+        "pageid": 99812604,
+        "ns": 6,
+        "title": "File:Head of Julia Meza.jpg",
+        "imagerepository": "local",
+        "imageinfo": [
+          {
+            "size": 630675,
+            "width": 2536,
+            "height": 3560,
+            "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/90/Head_of_Julia_Meza.jpg/960px-Head_of_Julia_Meza.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+            "thumbwidth": 960,
+            "thumbheight": 1348,
+            "responsiveUrls": {
+              "2": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/90/Head_of_Julia_Meza.jpg/1920px-Head_of_Julia_Meza.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+            },
+            "thumbattribs": {
+              "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/90/Head_of_Julia_Meza.jpg/960px-Head_of_Julia_Meza.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+              "decoding": "async",
+              "loading": "lazy",
+              "width": 960,
+              "height": 1348,
+              "srcset": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/90/Head_of_Julia_Meza.jpg/1920px-Head_of_Julia_Meza.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail 2x"
+            },
+            "url": "https://upload.wikimedia.org/wikipedia/commons/9/90/Head_of_Julia_Meza.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:Head_of_Julia_Meza.jpg",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=99812604",
+            "sha1": "255226f9651c2a96e4111246d2616528c9644aab",
+            "extmetadata": {
+              "DateTime": {
+                "value": "2021-02-13 06:46:11",
+                "source": "mediawiki-metadata",
+                "hidden": ""
+              },
+              "ObjectName": {
+                "value": "Head of Julia Meza",
+                "source": "mediawiki-metadata"
+              },
+              "CommonsMetadataExtension": {
+                "value": 1.2,
+                "source": "extension",
+                "hidden": ""
+              },
+              "Categories": {
+                "value": "National History Museum, Bulgaria|Self-published work|Files with coordinates missing SDC location of creation|Sculptures of Julia Maesa|Pictures by Biser Todorov|Ancient Roman silverware|Severan portraiture",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "Assessments": {
+                "value": "",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "GPSLatitude": {
+                "value": "42.655074",
+                "source": "commons-desc-page"
+              },
+              "GPSLongitude": {
+                "value": "23.271069",
+                "source": "commons-desc-page"
+              },
+              "GPSMapDatum": {
+                "value": "WGS-84",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "ImageDescription": {
+                "value": "Head of Julia Meza, silver, National History Museum, Sofia., National History Museum, Sofia.",
+                "source": "commons-desc-page"
+              },
+              "DateTimeOriginal": {
+                "value": "2021-01-15 10:48:54",
+                "source": "commons-desc-page"
+              },
+              "Credit": {
+                "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+                "source": "commons-desc-page"
+              },
+              "Artist": {
+                "value": "<a href=\"//commons.wikimedia.org/wiki/User:Biso\" title=\"User:Biso\">Biser Todorov</a>",
+                "source": "commons-desc-page"
+              },
+              "LicenseShortName": {
+                "value": "CC BY 4.0",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "UsageTerms": {
+                "value": "Creative Commons Attribution 4.0",
+                "source": "commons-desc-page"
+              },
+              "AttributionRequired": {
+                "value": "true",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "LicenseUrl": {
+                "value": "https://creativecommons.org/licenses/by/4.0",
+                "source": "commons-desc-page"
+              },
+              "Copyrighted": {
+                "value": "True",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Restrictions": {
+                "value": "",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "License": {
+                "value": "cc-by-4.0",
+                "source": "commons-templates",
+                "hidden": ""
+              }
+            },
+            "mime": "image/jpeg"
+          }
+        ]
+      },
+      {
+        "pageid": 1332399,
+        "ns": 6,
+        "title": "File:Gordian I Musei Capitolini MC475.jpg",
+        "imagerepository": "local",
+        "imageinfo": [
+          {
+            "size": 2517992,
+            "width": 1720,
+            "height": 2590,
+            "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0f/Gordian_I_Musei_Capitolini_MC475.jpg/960px-Gordian_I_Musei_Capitolini_MC475.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+            "thumbwidth": 960,
+            "thumbheight": 1446,
+            "responsiveUrls": {
+              "2": "https://upload.wikimedia.org/wikipedia/commons/0/0f/Gordian_I_Musei_Capitolini_MC475.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled"
+            },
+            "thumbattribs": {
+              "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0f/Gordian_I_Musei_Capitolini_MC475.jpg/960px-Gordian_I_Musei_Capitolini_MC475.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+              "decoding": "async",
+              "loading": "lazy",
+              "width": 960,
+              "height": 1446,
+              "srcset": "https://upload.wikimedia.org/wikipedia/commons/0/0f/Gordian_I_Musei_Capitolini_MC475.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled 2x"
+            },
+            "url": "https://upload.wikimedia.org/wikipedia/commons/0/0f/Gordian_I_Musei_Capitolini_MC475.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:Gordian_I_Musei_Capitolini_MC475.jpg",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=1332399",
+            "sha1": "7d8175b028f89608d6d40d8ac282d8dabcc95e16",
+            "extmetadata": {
+              "DateTime": {
+                "value": "2006-11-02 09:04:43",
+                "source": "mediawiki-metadata",
+                "hidden": ""
+              },
+              "ObjectName": {
+                "value": "Gordian I Musei Capitolini MC475",
+                "source": "mediawiki-metadata"
+              },
+              "CommonsMetadataExtension": {
+                "value": 1.2,
+                "source": "extension",
+                "hidden": ""
+              },
+              "Categories": {
+                "value": "Taken with Nikon D70|Artworks without Wikidata item|PD-old-100-expired|Self-published work|PD-self|Artworks with known accession number|Files with derivative versions|Template Unknown (artist)|CC-PD-Mark|Musei Capitolini MC 475 (Gordiano I)",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "Assessments": {
+                "value": "",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "Artist": {
+                "value": "<div class=\"fn value\">\nUnknown artist<span style=\"display: none;\">Unknown artist</span></div>",
+                "source": "commons-desc-page"
+              },
+              "ImageDescription": {
+                "value": "Portrait of <a href=\"//commons.wikimedia.org/wiki/Gordian_I\" class=\"mw-redirect\" title=\"Gordian I\">Gordian I</a>. Marble, Roman artwork, 220–230 CE.",
+                "source": "commons-desc-page"
+              },
+              "Credit": {
+                "value": "<a href=\"//commons.wikimedia.org/wiki/User:Jastrow\" title=\"User:Jastrow\">Jastrow</a> (2006)",
+                "source": "commons-desc-page"
+              },
+              "LicenseShortName": {
+                "value": "Public domain",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "UsageTerms": {
+                "value": "Public domain",
+                "source": "commons-desc-page"
+              },
+              "AttributionRequired": {
+                "value": "false",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Copyrighted": {
+                "value": "False",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Restrictions": {
+                "value": "",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "License": {
+                "value": "pd",
+                "source": "commons-templates",
+                "hidden": ""
+              }
+            },
+            "mime": "image/jpeg"
+          }
+        ]
+      },
+      {
+        "pageid": 15683121,
+        "ns": 6,
+        "title": "File:5305 - Brescia - S. Giulia - Ritratto di Claudio II il Gotico - Foto Giovanni Dall'Orto, 25 Giu 2011.jpg",
+        "imagerepository": "local",
+        "imageinfo": [
+          {
+            "size": 1269383,
+            "width": 1288,
+            "height": 1936,
+            "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4e/5305_-_Brescia_-_S._Giulia_-_Ritratto_di_Claudio_II_il_Gotico_-_Foto_Giovanni_Dall%27Orto%2C_25_Giu_2011.jpg/960px-5305_-_Brescia_-_S._Giulia_-_Ritratto_di_Claudio_II_il_Gotico_-_Foto_Giovanni_Dall%27Orto%2C_25_Giu_2011.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+            "thumbwidth": 960,
+            "thumbheight": 1443,
+            "responsiveUrls": {
+              "2": "https://upload.wikimedia.org/wikipedia/commons/4/4e/5305_-_Brescia_-_S._Giulia_-_Ritratto_di_Claudio_II_il_Gotico_-_Foto_Giovanni_Dall%27Orto%2C_25_Giu_2011.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled"
+            },
+            "thumbattribs": {
+              "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4e/5305_-_Brescia_-_S._Giulia_-_Ritratto_di_Claudio_II_il_Gotico_-_Foto_Giovanni_Dall%27Orto%2C_25_Giu_2011.jpg/960px-5305_-_Brescia_-_S._Giulia_-_Ritratto_di_Claudio_II_il_Gotico_-_Foto_Giovanni_Dall%27Orto%2C_25_Giu_2011.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+              "decoding": "async",
+              "loading": "lazy",
+              "width": 960,
+              "height": 1443,
+              "srcset": "https://upload.wikimedia.org/wikipedia/commons/4/4e/5305_-_Brescia_-_S._Giulia_-_Ritratto_di_Claudio_II_il_Gotico_-_Foto_Giovanni_Dall%27Orto%2C_25_Giu_2011.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled 2x"
+            },
+            "url": "https://upload.wikimedia.org/wikipedia/commons/4/4e/5305_-_Brescia_-_S._Giulia_-_Ritratto_di_Claudio_II_il_Gotico_-_Foto_Giovanni_Dall%27Orto%2C_25_Giu_2011.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:5305_-_Brescia_-_S._Giulia_-_Ritratto_di_Claudio_II_il_Gotico_-_Foto_Giovanni_Dall%27Orto,_25_Giu_2011.jpg",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=15683121",
+            "sha1": "dd7adc1723e09d6fe7202012c49bf48932274681",
+            "extmetadata": {
+              "DateTime": {
+                "value": "2011-07-02 16:51:43",
+                "source": "mediawiki-metadata",
+                "hidden": ""
+              },
+              "ObjectName": {
+                "value": "5305 - Brescia - S. Giulia - Ritratto di Claudio II il Gotico - Foto Giovanni Dall'Orto, 25 Giu 2011",
+                "source": "mediawiki-metadata"
+              },
+              "CommonsMetadataExtension": {
+                "value": 1.2,
+                "source": "extension",
+                "hidden": ""
+              },
+              "Categories": {
+                "value": "Taken with Canon EOS 1000D|Attribution only license|Self-published work|Files with derivative versions|Photographs by Giovanni Dall'Orto|Gilded busts of Claudius II or Aurelianus (Brescia)",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "Assessments": {
+                "value": "",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "ImageDescription": {
+                "value": "The first one of the two twin bronze busts of <a href=\"//commons.wikimedia.org/w/index.php?title=Claudius_II_Gothicus&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"Claudius II Gothicus (page does not exist)\">Claudius II \"Gothicus\"</a> (268/269 d.C.). The gilded bronze portraits, five of Roman emperors and one of an empress, were hidden beneath the <a href=\"//commons.wikimedia.org/wiki/Tempio_capitolino_a_Brescia\" class=\"mw-redirect\" title=\"Tempio capitolino a Brescia\">Capitoline temple in Brescia</a>, together with other bronze objects, to prevent the consequences of a possible sack of the town in the 4th or 5th century, and unearthed only in 1826. They are now exhibited in the archaeological <a href=\"//commons.wikimedia.org/wiki/Museo_di_Santa_Giulia_a_Brescia\" class=\"mw-redirect\" title=\"Museo di Santa Giulia a Brescia\">Santa Giulia Museum, in Brescia</a>, Italy. Picture by <a href=\"//commons.wikimedia.org/wiki/User:G.dallorto\" title=\"User:G.dallorto\">Giovanni Dall'Orto</a>, June 25 2011.",
+                "source": "commons-desc-page"
+              },
+              "DateTimeOriginal": {
+                "value": "2011-06-25",
+                "source": "commons-desc-page"
+              },
+              "Credit": {
+                "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+                "source": "commons-desc-page"
+              },
+              "Artist": {
+                "value": "<a href=\"//commons.wikimedia.org/wiki/User:G.dallorto\" title=\"User:G.dallorto\">Giovanni Dall'Orto</a>.",
+                "source": "commons-desc-page"
+              },
+              "Permission": {
+                "value": "I, the copyright holder of this work, hereby publish it under the following license:",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "LicenseShortName": {
+                "value": "Attribution",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Restrictions": {
+                "value": "",
+                "source": "commons-desc-page",
+                "hidden": ""
+              }
+            },
+            "mime": "image/jpeg"
+          }
+        ]
+      },
+      {
+        "pageid": 180542958,
+        "ns": 6,
+        "title": "File:Bust of Maximinus II.png",
+        "imagerepository": "local",
+        "imageinfo": [
+          {
+            "size": 512110,
+            "width": 406,
+            "height": 550,
+            "thumburl": "https://upload.wikimedia.org/wikipedia/commons/a/ad/Bust_of_Maximinus_II.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+            "thumbwidth": 960,
+            "thumbheight": 1300,
+            "thumbattribs": {
+              "src": "https://upload.wikimedia.org/wikipedia/commons/a/ad/Bust_of_Maximinus_II.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+              "decoding": "async",
+              "loading": "lazy",
+              "width": 960,
+              "height": 1300
+            },
+            "url": "https://upload.wikimedia.org/wikipedia/commons/a/ad/Bust_of_Maximinus_II.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:Bust_of_Maximinus_II.png",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=180542958",
+            "sha1": "0a58695c32279fd303859b09e0fb9adc0a681f06",
+            "extmetadata": {
+              "DateTime": {
+                "value": "2025-12-23 11:24:58",
+                "source": "mediawiki-metadata",
+                "hidden": ""
+              },
+              "ObjectName": {
+                "value": "Bust of Maximinus II",
+                "source": "mediawiki-metadata"
+              },
+              "CommonsMetadataExtension": {
+                "value": 1.2,
+                "source": "extension",
+                "hidden": ""
+              },
+              "Categories": {
+                "value": "Athribis, Lower Egypt|Self-published work|Busts of Maximinus II|Ancient Roman porphyry sculptures|Tetrarchic art",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "Assessments": {
+                "value": "",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "ImageDescription": {
+                "value": "bust of Maximinus II",
+                "source": "commons-desc-page"
+              },
+              "DateTimeOriginal": {
+                "value": "2025-12-11",
+                "source": "commons-desc-page"
+              },
+              "Credit": {
+                "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+                "source": "commons-desc-page"
+              },
+              "Artist": {
+                "value": "<a href=\"//commons.wikimedia.org/wiki/User:Udimu\" title=\"User:Udimu\">Udimu</a>",
+                "source": "commons-desc-page"
+              },
+              "LicenseShortName": {
+                "value": "CC BY-SA 4.0",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "UsageTerms": {
+                "value": "Creative Commons Attribution-Share Alike 4.0",
+                "source": "commons-desc-page"
+              },
+              "AttributionRequired": {
+                "value": "true",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "LicenseUrl": {
+                "value": "https://creativecommons.org/licenses/by-sa/4.0",
+                "source": "commons-desc-page"
+              },
+              "Copyrighted": {
+                "value": "True",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Restrictions": {
+                "value": "",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "License": {
+                "value": "cc-by-sa-4.0",
+                "source": "commons-templates",
+                "hidden": ""
+              }
+            },
+            "mime": "image/png"
+          }
+        ]
+      },
+      {
+        "pageid": 137547216,
+        "ns": 6,
+        "title": "File:Chalcedony bust of Julian (1).png",
+        "imagerepository": "local",
+        "imageinfo": [
+          {
+            "size": 495389,
+            "width": 425,
+            "height": 673,
+            "thumburl": "https://upload.wikimedia.org/wikipedia/commons/5/54/Chalcedony_bust_of_Julian_%281%29.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+            "thumbwidth": 960,
+            "thumbheight": 1520,
+            "thumbattribs": {
+              "src": "https://upload.wikimedia.org/wikipedia/commons/5/54/Chalcedony_bust_of_Julian_%281%29.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+              "decoding": "async",
+              "loading": "lazy",
+              "width": 960,
+              "height": 1520
+            },
+            "url": "https://upload.wikimedia.org/wikipedia/commons/5/54/Chalcedony_bust_of_Julian_%281%29.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:Chalcedony_bust_of_Julian_(1).png",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=137547216",
+            "sha1": "4e5ec5f169733a554eddf15bbd60af746a526cd0",
+            "extmetadata": {
+              "DateTime": {
+                "value": "2023-09-13 21:46:59",
+                "source": "mediawiki-metadata",
+                "hidden": ""
+              },
+              "ObjectName": {
+                "value": "Chalcedony bust of Julian (1)",
+                "source": "mediawiki-metadata"
+              },
+              "CommonsMetadataExtension": {
+                "value": 1.2,
+                "source": "extension",
+                "hidden": ""
+              },
+              "Categories": {
+                "value": "Images with extracted images|Miniature busts|Iulianus in art|Intaglios of Julian|Busts of Julian|Constantinian portraiture",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "Assessments": {
+                "value": "",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "ImageDescription": {
+                "value": "For the identification, see: Pierre Lévêque (1963) <i><a rel=\"nofollow\" class=\"external text\" href=\"https://www.jstor.org/stable/41522488\">De nouveaux portraits de l'empereur Julien</a></i>. pp. 74-84",
+                "source": "commons-desc-page"
+              },
+              "DateTimeOriginal": {
+                "value": "2018",
+                "source": "commons-desc-page"
+              },
+              "Credit": {
+                "value": "<a rel=\"nofollow\" class=\"external free\" href=\"https://ancientrome.ru/art/artworken/img.htm?id=8167\">https://ancientrome.ru/art/artworken/img.htm?id=8167</a>",
+                "source": "commons-desc-page"
+              },
+              "Artist": {
+                "value": "Sergey Sosnovskiy",
+                "source": "commons-desc-page"
+              },
+              "LicenseShortName": {
+                "value": "CC BY-SA 4.0",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "UsageTerms": {
+                "value": "Creative Commons Attribution-Share Alike 4.0",
+                "source": "commons-desc-page"
+              },
+              "AttributionRequired": {
+                "value": "true",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "LicenseUrl": {
+                "value": "https://creativecommons.org/licenses/by-sa/4.0",
+                "source": "commons-desc-page"
+              },
+              "Copyrighted": {
+                "value": "True",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Restrictions": {
+                "value": "",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "License": {
+                "value": "cc-by-sa-4.0",
+                "source": "commons-templates",
+                "hidden": ""
+              }
+            },
+            "mime": "image/png"
+          }
+        ]
+      },
+      {
+        "pageid": 116448097,
+        "ns": 6,
+        "title": "File:Marble bust of Mark Antony (Vatican Museums).jpg",
+        "imagerepository": "local",
+        "imageinfo": [
+          {
+            "size": 71690,
+            "width": 800,
+            "height": 1046,
+            "thumburl": "https://upload.wikimedia.org/wikipedia/commons/1/19/Marble_bust_of_Mark_Antony_%28Vatican_Museums%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+            "thumbwidth": 960,
+            "thumbheight": 1255,
+            "thumbattribs": {
+              "src": "https://upload.wikimedia.org/wikipedia/commons/1/19/Marble_bust_of_Mark_Antony_%28Vatican_Museums%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+              "decoding": "async",
+              "loading": "lazy",
+              "width": 960,
+              "height": 1255
+            },
+            "url": "https://upload.wikimedia.org/wikipedia/commons/1/19/Marble_bust_of_Mark_Antony_%28Vatican_Museums%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:Marble_bust_of_Mark_Antony_(Vatican_Museums).jpg",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=116448097",
+            "sha1": "0373b3fd206bad96948e8bfc86ccce3d9da4a408",
+            "extmetadata": {
+              "DateTime": {
+                "value": "2022-03-27 12:44:53",
+                "source": "mediawiki-metadata",
+                "hidden": ""
+              },
+              "ObjectName": {
+                "value": "Marble bust of Mark Antony (Vatican Museums)",
+                "source": "mediawiki-metadata"
+              },
+              "CommonsMetadataExtension": {
+                "value": 1.2,
+                "source": "extension",
+                "hidden": ""
+              },
+              "Categories": {
+                "value": "Bust of Marcus Antonius in the Museo Chiaramonti",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "Assessments": {
+                "value": "",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "ImageDescription": {
+                "value": "Roman male portrait bust of Marcus Antonius. Fine-grained yellowish marble. Flavian age (69—96 A.D.). Rome, Vatican Museums, Chiaramonti Museum. Height: 68 cm. Found near Tor Sapienza before Porta Maggiore in 1830 or 1831.",
+                "source": "commons-desc-page"
+              },
+              "DateTimeOriginal": {
+                "value": "2022-03-27",
+                "source": "commons-desc-page"
+              },
+              "Credit": {
+                "value": "<a rel=\"nofollow\" class=\"external autonumber\" href=\"https://laciviltaegizia.files.wordpress.com/2021/12/c14.jpg\">[1]</a>",
+                "source": "commons-desc-page"
+              },
+              "Artist": {
+                "value": "Bust: unknown ancient Roman artist of the 1st century AD; photo: unknown photographer.",
+                "source": "commons-desc-page"
+              },
+              "LicenseShortName": {
+                "value": "CC BY-SA 4.0",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "UsageTerms": {
+                "value": "Creative Commons Attribution-Share Alike 4.0",
+                "source": "commons-desc-page"
+              },
+              "AttributionRequired": {
+                "value": "true",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "LicenseUrl": {
+                "value": "https://creativecommons.org/licenses/by-sa/4.0",
+                "source": "commons-desc-page"
+              },
+              "Copyrighted": {
+                "value": "True",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Restrictions": {
+                "value": "",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "License": {
+                "value": "cc-by-sa-4.0",
+                "source": "commons-templates",
+                "hidden": ""
+              }
+            },
+            "mime": "image/jpeg"
+          }
+        ]
+      },
+      {
+        "pageid": 1228435,
+        "ns": 6,
+        "title": "File:Portrait Brutus Massimo.jpg",
+        "imagerepository": "local",
+        "imageinfo": [
+          {
+            "size": 3064764,
+            "width": 1720,
+            "height": 2444,
+            "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e9/Portrait_Brutus_Massimo.jpg/960px-Portrait_Brutus_Massimo.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+            "thumbwidth": 960,
+            "thumbheight": 1364,
+            "responsiveUrls": {
+              "2": "https://upload.wikimedia.org/wikipedia/commons/e/e9/Portrait_Brutus_Massimo.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled"
+            },
+            "thumbattribs": {
+              "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e9/Portrait_Brutus_Massimo.jpg/960px-Portrait_Brutus_Massimo.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+              "decoding": "async",
+              "loading": "lazy",
+              "width": 960,
+              "height": 1364,
+              "srcset": "https://upload.wikimedia.org/wikipedia/commons/e/e9/Portrait_Brutus_Massimo.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled 2x"
+            },
+            "url": "https://upload.wikimedia.org/wikipedia/commons/e/e9/Portrait_Brutus_Massimo.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:Portrait_Brutus_Massimo.jpg",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=1228435",
+            "sha1": "2e44ebb53aa11a0cbb7e7a8f5532be3d6866bfa9",
+            "extmetadata": {
+              "DateTime": {
+                "value": "2019-05-23 12:39:37",
+                "source": "mediawiki-metadata",
+                "hidden": ""
+              },
+              "ObjectName": {
+                "value": "Portrait Brutus Massimo",
+                "source": "mediawiki-metadata"
+              },
+              "CommonsMetadataExtension": {
+                "value": 1.2,
+                "source": "extension",
+                "hidden": ""
+              },
+              "Categories": {
+                "value": "Files with no machine-readable author|Artworks without Wikidata item|Self-published work|PD-self|Male portrait, so-called Brutus (PMT 048)",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "Assessments": {
+                "value": "",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "ImageDescription": {
+                "value": "Male portrait, so-called “Brutus”. Marble, Roman artwork, 30–15 BC. From the Tiber, Rome.",
+                "source": "commons-desc-page"
+              },
+              "Credit": {
+                "value": "<a href=\"//commons.wikimedia.org/wiki/User:Jastrow\" title=\"User:Jastrow\">Marie-Lan Nguyen</a> (2006)",
+                "source": "commons-desc-page"
+              },
+              "Permission": {
+                "value": "<table class=\"licensetpl\" style=\"display:none\">\n<tbody><tr>\n<td><span class=\"licensetpl_short\">Public domain</span><span class=\"licensetpl_long\">Public domain</span><span class=\"licensetpl_link_req\">false</span><span class=\"licensetpl_attr_req\">false</span>\n</td></tr></tbody></table>\n<table style=\"width: 100%; clear: both; margin: 0.5em auto; background-color: var(--background-color-progressive-subtle, #f7f8ff); color: var(--color-base, #202122); border: var(--border-subtle, 2px solid #8888aa); border-spacing: 8px; padding: 0px;\" dir=\"ltr\" class=\"layouttemplate\" lang=\"en\">\n<tbody><tr>\n<td><span typeof=\"mw:File\"><span title=\"Public domain\"><img alt=\"Public domain\" src=\"https://thumb.wikimedia.org/wikipedia/commons/thumb/6/62/PD-icon.svg/120px-PD-icon.svg.png?utm_source=commons.wikimedia.org&amp;utm_campaign=parser&amp;utm_content=thumbnail\" decoding=\"async\" loading=\"lazy\" width=\"64\" height=\"64\" class=\"mw-file-element\" srcset=\"https://thumb.wikimedia.org/wikipedia/commons/thumb/6/62/PD-icon.svg/250px-PD-icon.svg.png?utm_source=commons.wikimedia.org&amp;utm_campaign=parser&amp;utm_content=thumbnail 2x\" data-file-width=\"196\" data-file-height=\"196\"></span></span>\n</td>\n<td>I, the copyright holder of this work, release this work into the <b><a href=\"https://en.wikipedia.org/wiki/en:public_domain\" class=\"extiw\" title=\"w:en:public domain\">public domain</a></b>. This applies worldwide.<br><small>In some countries this may not be legally possible; if so:</small><br><i>I grant anyone the right to use this work <b>for any purpose</b>, without any conditions, unless such conditions are required by law.</i>\n</td></tr></tbody></table>",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "LicenseShortName": {
+                "value": "Public domain",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "UsageTerms": {
+                "value": "Public domain",
+                "source": "commons-desc-page"
+              },
+              "AttributionRequired": {
+                "value": "false",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Copyrighted": {
+                "value": "False",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Restrictions": {
+                "value": "",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "License": {
+                "value": "pd",
+                "source": "commons-templates",
+                "hidden": ""
+              }
+            },
+            "mime": "image/jpeg"
+          }
+        ]
+      },
+      {
+        "pageid": 18368658,
+        "ns": 6,
+        "title": "File:P1070865 Louvre tête de Fausta Ma4881 rwk.JPG",
+        "index": 3,
+        "imagerepository": "local",
+        "imageinfo": [
+          {
+            "size": 2386640,
+            "width": 1921,
+            "height": 2485,
+            "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c0/P1070865_Louvre_t%C3%AAte_de_Fausta_Ma4881_rwk.JPG/960px-P1070865_Louvre_t%C3%AAte_de_Fausta_Ma4881_rwk.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+            "thumbwidth": 960,
+            "thumbheight": 1242,
+            "responsiveUrls": {
+              "2": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c0/P1070865_Louvre_t%C3%AAte_de_Fausta_Ma4881_rwk.JPG/1920px-P1070865_Louvre_t%C3%AAte_de_Fausta_Ma4881_rwk.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+            },
+            "thumbattribs": {
+              "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c0/P1070865_Louvre_t%C3%AAte_de_Fausta_Ma4881_rwk.JPG/960px-P1070865_Louvre_t%C3%AAte_de_Fausta_Ma4881_rwk.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+              "decoding": "async",
+              "loading": "lazy",
+              "width": 960,
+              "height": 1242,
+              "srcset": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c0/P1070865_Louvre_t%C3%AAte_de_Fausta_Ma4881_rwk.JPG/1920px-P1070865_Louvre_t%C3%AAte_de_Fausta_Ma4881_rwk.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail 2x"
+            },
+            "url": "https://upload.wikimedia.org/wikipedia/commons/c/c0/P1070865_Louvre_t%C3%AAte_de_Fausta_Ma4881_rwk.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:P1070865_Louvre_t%C3%AAte_de_Fausta_Ma4881_rwk.JPG",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=18368658",
+            "extmetadata": {
+              "DateTime": {
+                "value": "2023-04-12 23:56:52",
+                "source": "mediawiki-metadata",
+                "hidden": ""
+              },
+              "ObjectName": {
+                "value": "<div class=\"fn\">\n<div style=\"font-weight:bold;display:inline-block;\"><div style=\"display:inline-block\" dir=\"ltr\" lang=\"en\"><i>Musée du Louvre, Ma 4881</i></div></div><div style=\"display: none;\">label QS:Lfr,\"tête de Fausta\"</div><div style=\"display: none;\">label QS:Len,\"Musée du Louvre, Ma 4881\"</div></div>",
+                "source": "commons-desc-page"
+              },
+              "CommonsMetadataExtension": {
+                "value": 1.2,
+                "source": "extension",
+                "hidden": ""
+              },
+              "Categories": {
+                "value": "GFDL|License migration redundant|Self-published work|Artworks with Wikidata item|Artworks with known accession number|Pages with complex technique templates|Artworks with accession number from Wikidata|Artworks main subject 3D work|Ancient Roman busts in the Louvre|Sculptures of Fausta|Busts of Byzantine empresses|Constantinian portraiture",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "Assessments": {
+                "value": "",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "Artist": {
+                "value": "<div class=\"fn value\">\n<table cellpadding=\"0\" cellspacing=\"0\"><tbody><tr><td><a href=\"https://www.wikidata.org/wiki/Q4233718\" class=\"extiw\" title=\"d:Q4233718\"><span title='unknown creator of a work (do not use as value of P50; use \"unknown value\" instead)'>anonymous</span></a></td><td valign=\"top\"> <span class=\"mw-valign-text-top noprint\" typeof=\"mw:File/Frameless\"><a href=\"https://www.wikidata.org/wiki/Q113191870#P170\" title=\"Edit this at Wikidata\"><img alt=\"Edit this at Wikidata\" src=\"https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8a/OOjs_UI_icon_edit-ltr-progressive.svg/20px-OOjs_UI_icon_edit-ltr-progressive.svg.png?utm_source=commons.wikimedia.org&amp;utm_campaign=parser&amp;utm_content=thumbnail\" decoding=\"async\" loading=\"lazy\" width=\"10\" height=\"10\" class=\"mw-file-element\" data-file-width=\"20\" data-file-height=\"20\"></a></span></td></tr></tbody></table></div>",
+                "source": "commons-desc-page"
+              },
+              "ImageDescription": {
+                "value": "Tête de Fausta, impératrice et épouse de l’empereur Constantin.<br> Sans doute un portrait de Fausta avant son mariage en 307.",
+                "source": "commons-desc-page"
+              },
+              "DateTimeOriginal": {
+                "value": "0310s<div style=\"display: none;\">date QS:P,+0310-00-00T00:00:00Z/8</div> <span class=\"mw-valign-text-top noprint\" typeof=\"mw:File/Frameless\"><a href=\"https://www.wikidata.org/wiki/Q113191870#P571\" title=\"Edit this at Wikidata\"><img alt=\"Edit this at Wikidata\" src=\"https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8a/OOjs_UI_icon_edit-ltr-progressive.svg/20px-OOjs_UI_icon_edit-ltr-progressive.svg.png?utm_source=commons.wikimedia.org&amp;utm_campaign=parser&amp;utm_content=thumbnail\" decoding=\"async\" loading=\"lazy\" width=\"10\" height=\"10\" class=\"mw-file-element\" data-file-width=\"20\" data-file-height=\"20\"></a></span>",
+                "source": "commons-desc-page"
+              },
+              "Credit": {
+                "value": "(<a href=\"//commons.wikimedia.org/wiki/User:Mbzt\" title=\"User:Mbzt\">User:Mbzt</a>), 2012",
+                "source": "commons-desc-page"
+              },
+              "LicenseShortName": {
+                "value": "CC BY 3.0",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "UsageTerms": {
+                "value": "Creative Commons Attribution 3.0",
+                "source": "commons-desc-page"
+              },
+              "AttributionRequired": {
+                "value": "true",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "LicenseUrl": {
+                "value": "https://creativecommons.org/licenses/by/3.0",
+                "source": "commons-desc-page"
+              },
+              "Copyrighted": {
+                "value": "True",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Restrictions": {
+                "value": "",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "License": {
+                "value": "cc-by-3.0",
+                "source": "commons-templates",
+                "hidden": ""
+              }
+            }
+          }
+        ]
+      },
+      {
+        "pageid": 98689831,
+        "ns": 6,
+        "title": "File:Bust of Sulla (Ny Carlsberg Glyptotek, Copenhagen) 1.jpg",
+        "index": 2,
+        "imagerepository": "local",
+        "imageinfo": [
+          {
+            "size": 107046,
+            "width": 697,
+            "height": 850,
+            "thumburl": "https://upload.wikimedia.org/wikipedia/commons/7/78/Bust_of_Sulla_%28Ny_Carlsberg_Glyptotek%2C_Copenhagen%29_1.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+            "thumbwidth": 960,
+            "thumbheight": 1171,
+            "thumbattribs": {
+              "src": "https://upload.wikimedia.org/wikipedia/commons/7/78/Bust_of_Sulla_%28Ny_Carlsberg_Glyptotek%2C_Copenhagen%29_1.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+              "decoding": "async",
+              "loading": "lazy",
+              "width": 960,
+              "height": 1171
+            },
+            "url": "https://upload.wikimedia.org/wikipedia/commons/7/78/Bust_of_Sulla_%28Ny_Carlsberg_Glyptotek%2C_Copenhagen%29_1.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:Bust_of_Sulla_(Ny_Carlsberg_Glyptotek,_Copenhagen)_1.jpg",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=98689831",
+            "extmetadata": {
+              "DateTime": {
+                "value": "2021-01-09 17:51:13",
+                "source": "mediawiki-metadata",
+                "hidden": ""
+              },
+              "ObjectName": {
+                "value": "Bust of Sulla (Ny Carlsberg Glyptotek, Copenhagen) 1",
+                "source": "mediawiki-metadata"
+              },
+              "CommonsMetadataExtension": {
+                "value": 1.2,
+                "source": "extension",
+                "hidden": ""
+              },
+              "Categories": {
+                "value": "Unknown date|Bust of Sulla in Ny Carlsberg Glyptotek",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "Assessments": {
+                "value": "",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "ImageDescription": {
+                "value": "Colossal male bust, made of white marble covered by a yellowish patina, cut below the neck. The elaboration of the neck indicates that it might have been part of a statue with toga (the \"Sulla Orator\" at the Louvre could be a copy of that statue [see François Hinard, <i>Silla</i>, Salerno, Rome, 2003, pp. 267-268]). H 47 cm. The nose is missing and the ears are damaged.\nCopy from c. 40 B.C. of an original from the 2nd century B.C. (the style of the hair suggests that it might be from Hadrian's reign). The identification with Sulla, roman dictator between 82 and 81 B.C., comes from a 1642 engraving in Palazzo Barberini, Rome, where it was exposed in front of a \"<a href=\"//commons.wikimedia.org/wiki/File:Marius_Glyptothek_Munich_319.jpg\" title=\"File:Marius Glyptothek Munich 319.jpg\">Marius</a>\", now in the Glyptotek in Munich. In 1897 the bust was acquired by the Ny Carlsberg Glyptotek, Copenhagen, its current location, thanks to the mediation of Wolfgang Helbig.",
+                "source": "commons-desc-page"
+              },
+              "DateTimeOriginal": {
+                "value": "Unknown date",
+                "source": "commons-desc-page"
+              },
+              "Credit": {
+                "value": "<p><a rel=\"nofollow\" class=\"external free\" href=\"http://ancientrome.ru/art/artworken/img.htm?id=2431\">http://ancientrome.ru/art/artworken/img.htm?id=2431</a>\n</p>\n<a rel=\"nofollow\" class=\"external free\" href=\"http://ancientrome.ru/art/artworken/img.htm?id=2432\">http://ancientrome.ru/art/artworken/img.htm?id=2432</a>",
+                "source": "commons-desc-page"
+              },
+              "Artist": {
+                "value": "Sergey Sosnovskiy",
+                "source": "commons-desc-page"
+              },
+              "LicenseShortName": {
+                "value": "CC BY-SA 4.0",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "UsageTerms": {
+                "value": "Creative Commons Attribution-Share Alike 4.0",
+                "source": "commons-desc-page"
+              },
+              "AttributionRequired": {
+                "value": "true",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "LicenseUrl": {
+                "value": "https://creativecommons.org/licenses/by-sa/4.0",
+                "source": "commons-desc-page"
+              },
+              "Copyrighted": {
+                "value": "True",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Restrictions": {
+                "value": "",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "License": {
+                "value": "cc-by-sa-4.0",
+                "source": "commons-templates",
+                "hidden": ""
+              }
+            }
+          }
+        ]
+      },
+      {
+        "pageid": 15191872,
+        "ns": 6,
+        "title": "File:The Colossal Statue of Shapur I.jpg",
+        "index": 1,
+        "imagerepository": "local",
+        "imageinfo": [
+          {
+            "size": 242810,
+            "width": 1012,
+            "height": 759,
+            "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d7/The_Colossal_Statue_of_Shapur_I.jpg/960px-The_Colossal_Statue_of_Shapur_I.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+            "thumbwidth": 960,
+            "thumbheight": 720,
+            "responsiveUrls": {
+              "2": "https://upload.wikimedia.org/wikipedia/commons/d/d7/The_Colossal_Statue_of_Shapur_I.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled"
+            },
+            "thumbattribs": {
+              "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d7/The_Colossal_Statue_of_Shapur_I.jpg/960px-The_Colossal_Statue_of_Shapur_I.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+              "decoding": "async",
+              "loading": "lazy",
+              "width": 960,
+              "height": 720,
+              "srcset": "https://upload.wikimedia.org/wikipedia/commons/d/d7/The_Colossal_Statue_of_Shapur_I.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled 2x"
+            },
+            "url": "https://upload.wikimedia.org/wikipedia/commons/d/d7/The_Colossal_Statue_of_Shapur_I.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:The_Colossal_Statue_of_Shapur_I.jpg",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=15191872",
+            "extmetadata": {
+              "DateTime": {
+                "value": "2014-03-25 21:33:00",
+                "source": "mediawiki-metadata",
+                "hidden": ""
+              },
+              "ObjectName": {
+                "value": "The Colossal Statue of Shapur I",
+                "source": "mediawiki-metadata"
+              },
+              "CommonsMetadataExtension": {
+                "value": 1.2,
+                "source": "extension",
+                "hidden": ""
+              },
+              "Categories": {
+                "value": "Shapur Cave|GFDL|Taken with Konica Minolta Dimage A200|Colossal Statue of Shapur I|License migration redundant|Tourists in Fars Province|Self-published work|Iran photographs taken on 2005-10-30|Women of Fars Province",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "Assessments": {
+                "value": "",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "ImageDescription": {
+                "value": "The Colossal Statue of <a href=\"//commons.wikimedia.org/wiki/Category:Sassanid_Empire\" title=\"Category:Sassanid Empire\">Sassanid</a> king <b><a href=\"//commons.wikimedia.org/wiki/Category:Shapur_I\" title=\"Category:Shapur I\">Shapur I</a></b>.",
+                "source": "commons-desc-page"
+              },
+              "DateTimeOriginal": {
+                "value": "Taken on 30 October 2005",
+                "source": "commons-desc-page"
+              },
+              "Credit": {
+                "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+                "source": "commons-desc-page"
+              },
+              "Artist": {
+                "value": "<a href=\"//commons.wikimedia.org/w/index.php?title=User:Wiki-in-basel&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"User:Wiki-in-basel (page does not exist)\">Wiki-in-basel</a>",
+                "source": "commons-desc-page"
+              },
+              "LicenseShortName": {
+                "value": "CC BY-SA 3.0",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "UsageTerms": {
+                "value": "Creative Commons Attribution-Share Alike 3.0",
+                "source": "commons-desc-page"
+              },
+              "AttributionRequired": {
+                "value": "true",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "LicenseUrl": {
+                "value": "https://creativecommons.org/licenses/by-sa/3.0",
+                "source": "commons-desc-page"
+              },
+              "Copyrighted": {
+                "value": "True",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Restrictions": {
+                "value": "",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "License": {
+                "value": "cc-by-sa-3.0",
+                "source": "commons-templates",
+                "hidden": ""
+              }
+            }
+          }
+        ]
+      }
+    ]
+  }
+}

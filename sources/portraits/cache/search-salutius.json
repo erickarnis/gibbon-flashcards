@@ -1,0 +1,536 @@
+{
+  "person_id": "salutius",
+  "query": "Salutius",
+  "response": {
+    "batchcomplete": true,
+    "continue": {
+      "gsroffset": 5,
+      "continue": "gsroffset||"
+    },
+    "query": {
+      "pages": [
+        {
+          "pageid": 2212592,
+          "ns": 6,
+          "title": "File:EPMA-10401-CILIII459-Julian letter-3.JPG",
+          "index": 2,
+          "imagerepository": "local",
+          "imageinfo": [
+            {
+              "size": 1478755,
+              "width": 1440,
+              "height": 2955,
+              "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8c/EPMA-10401-CILIII459-Julian_letter-3.JPG/500px-EPMA-10401-CILIII459-Julian_letter-3.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+              "thumbwidth": 400,
+              "thumbheight": 821,
+              "responsiveUrls": {
+                "2": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8c/EPMA-10401-CILIII459-Julian_letter-3.JPG/960px-EPMA-10401-CILIII459-Julian_letter-3.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+              },
+              "thumbattribs": {
+                "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8c/EPMA-10401-CILIII459-Julian_letter-3.JPG/500px-EPMA-10401-CILIII459-Julian_letter-3.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+                "decoding": "async",
+                "loading": "lazy",
+                "width": 400,
+                "height": 821,
+                "srcset": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8c/EPMA-10401-CILIII459-Julian_letter-3.JPG/960px-EPMA-10401-CILIII459-Julian_letter-3.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail 2x"
+              },
+              "url": "https://upload.wikimedia.org/wikipedia/commons/8/8c/EPMA-10401-CILIII459-Julian_letter-3.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+              "descriptionurl": "https://commons.wikimedia.org/wiki/File:EPMA-10401-CILIII459-Julian_letter-3.JPG",
+              "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=2212592",
+              "extmetadata": {
+                "DateTime": {
+                  "value": "2007-06-07 06:09:50",
+                  "source": "mediawiki-metadata",
+                  "hidden": ""
+                },
+                "ObjectName": {
+                  "value": "EPMA-10401-CILIII459-Julian letter-3",
+                  "source": "mediawiki-metadata"
+                },
+                "CommonsMetadataExtension": {
+                  "value": 1.2,
+                  "source": "extension",
+                  "hidden": ""
+                },
+                "Categories": {
+                  "value": "GFDL|License migration redundant|Artworks without Wikidata item|Self-published work|Artworks with known accession number|Linked to EDH|AE 2000, 1370a|CIL III 000459",
+                  "source": "commons-categories",
+                  "hidden": ""
+                },
+                "Assessments": {
+                  "value": "",
+                  "source": "commons-categories",
+                  "hidden": ""
+                },
+                "Artist": {
+                  "value": "<div class=\"fn value\">\nNA</div>",
+                  "source": "commons-desc-page"
+                },
+                "ImageDescription": {
+                  "value": "Letter - edict of Emperor Julien to Secundus, prefect of the Oriental court regarding the judgment of minor cases. Latin copy found at Amorgos. vers 362 ap. J.-C ..",
+                  "source": "commons-desc-page"
+                },
+                "Credit": {
+                  "value": "<a href=\"https://fr.wikipedia.org/wiki/Utilisateur:Marsyas\" class=\"extiw\" title=\"fr:Utilisateur:Marsyas\">Μαρσύας</a> (29.05.2007)",
+                  "source": "commons-desc-page"
+                },
+                "LicenseShortName": {
+                  "value": "CC BY 2.5",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "UsageTerms": {
+                  "value": "Creative Commons Attribution 2.5",
+                  "source": "commons-desc-page"
+                },
+                "AttributionRequired": {
+                  "value": "true",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "LicenseUrl": {
+                  "value": "https://creativecommons.org/licenses/by/2.5",
+                  "source": "commons-desc-page"
+                },
+                "Copyrighted": {
+                  "value": "True",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "Restrictions": {
+                  "value": "",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "License": {
+                  "value": "cc-by-2.5",
+                  "source": "commons-templates",
+                  "hidden": ""
+                }
+              }
+            }
+          ]
+        },
+        {
+          "pageid": 35383849,
+          "ns": 6,
+          "title": "File:CILII-5-34.JPG",
+          "index": 3,
+          "imagerepository": "local",
+          "imageinfo": [
+            {
+              "size": 753730,
+              "width": 2048,
+              "height": 1536,
+              "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/01/CILII-5-34.JPG/500px-CILII-5-34.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+              "thumbwidth": 400,
+              "thumbheight": 300,
+              "responsiveUrls": {
+                "2": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/01/CILII-5-34.JPG/960px-CILII-5-34.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+              },
+              "thumbattribs": {
+                "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/01/CILII-5-34.JPG/500px-CILII-5-34.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+                "decoding": "async",
+                "loading": "lazy",
+                "width": 400,
+                "height": 300,
+                "srcset": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/01/CILII-5-34.JPG/960px-CILII-5-34.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail 2x"
+              },
+              "url": "https://upload.wikimedia.org/wikipedia/commons/0/01/CILII-5-34.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+              "descriptionurl": "https://commons.wikimedia.org/wiki/File:CILII-5-34.JPG",
+              "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=35383849",
+              "extmetadata": {
+                "DateTime": {
+                  "value": "2014-09-15 10:27:32",
+                  "source": "mediawiki-metadata",
+                  "hidden": ""
+                },
+                "ObjectName": {
+                  "value": "CILII-5-34",
+                  "source": "mediawiki-metadata"
+                },
+                "CommonsMetadataExtension": {
+                  "value": 1.2,
+                  "source": "extension",
+                  "hidden": ""
+                },
+                "Categories": {
+                  "value": "Taken with Olympus X-350 / D-575Z / C-360Z|Self-published work|Ancient Roman inscriptions in Andalusia|Files with coordinates missing SDC location of creation|Roman antiquities in the Museo Arqueológico Nacional de España|Archaeology in Cabra, Spain",
+                  "source": "commons-categories",
+                  "hidden": ""
+                },
+                "Assessments": {
+                  "value": "",
+                  "source": "commons-categories",
+                  "hidden": ""
+                },
+                "GPSLatitude": {
+                  "value": "40.423355",
+                  "source": "commons-desc-page"
+                },
+                "GPSLongitude": {
+                  "value": "-3.688779",
+                  "source": "commons-desc-page"
+                },
+                "GPSMapDatum": {
+                  "value": "WGS-84",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "ImageDescription": {
+                  "value": "Inscripción funeraria paleocristiana depositada en el Museo Arqueológico Nacional en Madrid (España), procedente de Cabra (Córdoba, España), correspondiente con CIL II<sup>A2</sup> 5, 334 = ILCV 1511a (add) = IHC 102 = ICERV 154: Vixit Fla(vius) / Salutius an/nis LXIII me[ns(ibus)] / VI recessi[t -----] / Martias [in pa]/ce",
+                  "source": "commons-desc-page"
+                },
+                "DateTimeOriginal": {
+                  "value": "2014-08-29",
+                  "source": "commons-desc-page"
+                },
+                "Credit": {
+                  "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+                  "source": "commons-desc-page"
+                },
+                "Artist": {
+                  "value": "<a href=\"//commons.wikimedia.org/wiki/User:Caligatus\" title=\"User:Caligatus\">Caligatus</a>",
+                  "source": "commons-desc-page"
+                },
+                "LicenseShortName": {
+                  "value": "CC BY-SA 4.0",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "UsageTerms": {
+                  "value": "Creative Commons Attribution-Share Alike 4.0",
+                  "source": "commons-desc-page"
+                },
+                "AttributionRequired": {
+                  "value": "true",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "LicenseUrl": {
+                  "value": "https://creativecommons.org/licenses/by-sa/4.0",
+                  "source": "commons-desc-page"
+                },
+                "Copyrighted": {
+                  "value": "True",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "Restrictions": {
+                  "value": "",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "License": {
+                  "value": "cc-by-sa-4.0",
+                  "source": "commons-templates",
+                  "hidden": ""
+                }
+              }
+            }
+          ]
+        },
+        {
+          "pageid": 101869481,
+          "ns": 6,
+          "title": "File:Salustios-Kontorniat.jpeg",
+          "index": 4,
+          "imagerepository": "local",
+          "imageinfo": [
+            {
+              "size": 90880,
+              "width": 438,
+              "height": 428,
+              "thumburl": "https://upload.wikimedia.org/wikipedia/commons/3/32/Salustios-Kontorniat.jpeg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+              "thumbwidth": 400,
+              "thumbheight": 391,
+              "thumbattribs": {
+                "src": "https://upload.wikimedia.org/wikipedia/commons/3/32/Salustios-Kontorniat.jpeg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+                "decoding": "async",
+                "loading": "lazy",
+                "width": 400,
+                "height": 391
+              },
+              "url": "https://upload.wikimedia.org/wikipedia/commons/3/32/Salustios-Kontorniat.jpeg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+              "descriptionurl": "https://commons.wikimedia.org/wiki/File:Salustios-Kontorniat.jpeg",
+              "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=101869481",
+              "extmetadata": {
+                "DateTime": {
+                  "value": "2010-11-26 11:32:50",
+                  "source": "mediawiki-metadata",
+                  "hidden": ""
+                },
+                "ObjectName": {
+                  "value": "Salustios-Kontorniat",
+                  "source": "mediawiki-metadata"
+                },
+                "CommonsMetadataExtension": {
+                  "value": 1.2,
+                  "source": "extension",
+                  "hidden": ""
+                },
+                "Categories": {
+                  "value": "Sallust|Contorniates|PD-old-100-expired|PD-anon-expired|Template Unknown (author)|CC-PD-Mark|Revue des études anciennes|PD-old missing SDC copyright status|Salusti (surname)",
+                  "source": "commons-categories",
+                  "hidden": ""
+                },
+                "Assessments": {
+                  "value": "",
+                  "source": "commons-categories",
+                  "hidden": ""
+                },
+                "ImageDescription": {
+                  "value": "Porträt des <a href=\"https://en.wikipedia.org/wiki/de:Salustios_(Neuplatoniker)\" class=\"extiw\" title=\"w:de:Salustios (Neuplatoniker)\">Salustios</a> auf einem <a href=\"https://en.wikipedia.org/wiki/de:Kontorniaten\" class=\"extiw\" title=\"w:de:Kontorniaten\">w:de:Kontorniaten</a> mit der <a href=\"https://en.wikipedia.org/wiki/de:Legende_(Numismatik)\" class=\"extiw\" title=\"w:de:Legende (Numismatik)\">Legende</a> <i>Salustius autor</i>, 2. Hälfte 4. Jahrhundert; zur Identifizierung als Salustios siehe Jean-Luc Desnier: <i>Salutius – Salustius</i>. In: <i>Revue des Études Anciennes</i> 85, 1983, S. 53–65.",
+                  "source": "commons-desc-page"
+                },
+                "DateTimeOriginal": {
+                  "value": "Münze 4. Jahrhundert; Photographie vor 1882",
+                  "source": "commons-desc-page"
+                },
+                "Credit": {
+                  "value": "Johann Jacob Bernoulli, <i>Römische Ikonographie</i>, Bd. 1: <i>Die Bildnisse berühmter Römer mit Ausschluss der Kaiser und ihrer Angehörigen</i>. Stuttgart u.a. 1882, Münztaf. 5,115.",
+                  "source": "commons-desc-page"
+                },
+                "Artist": {
+                  "value": "Unknown author<span style=\"display: none;\">Unknown author</span>",
+                  "source": "commons-desc-page"
+                },
+                "Permission": {
+                  "value": "<table class=\"licensetpl\" style=\"display:none\">\n<tbody><tr>\n<td><span class=\"licensetpl_short\">Public domain</span><span class=\"licensetpl_long\">Public domain</span><span class=\"licensetpl_link_req\">false</span><span class=\"licensetpl_attr_req\">false</span>\n</td></tr></tbody></table>\n<table style=\"width: 100%; clear: both; margin: 0.5em auto; background-color: var(--background-color-progressive-subtle, #f7f8ff); color: var(--color-base, #202122); border: var(--border-subtle, 2px solid #8888aa); border-spacing: 8px; padding: 0px;\" dir=\"ltr\" class=\"layouttemplate\" lang=\"en\">\n<tbody><tr>\n<td><span typeof=\"mw:File\"><span title=\"Public domain\"><img alt=\"Public domain\" src=\"https://thumb.wikimedia.org/wikipedia/commons/thumb/6/62/PD-icon.svg/120px-PD-icon.svg.png?utm_source=commons.wikimedia.org&amp;utm_campaign=parser&amp;utm_content=thumbnail\" decoding=\"async\" loading=\"lazy\" width=\"64\" height=\"64\" class=\"mw-file-element\" srcset=\"https://thumb.wikimedia.org/wikipedia/commons/thumb/6/62/PD-icon.svg/250px-PD-icon.svg.png?utm_source=commons.wikimedia.org&amp;utm_campaign=parser&amp;utm_content=thumbnail 2x\" data-file-width=\"196\" data-file-height=\"196\"></span></span>\n</td>\n<td>\n<p>This work is in the <b><a href=\"https://en.wikipedia.org/wiki/public_domain\" class=\"extiw\" title=\"en:public domain\">public domain</a></b> in its country of origin and other countries and areas where the <a href=\"https://en.wikipedia.org/wiki/List_of_countries%27_copyright_lengths\" class=\"extiw\" title=\"w:List of countries' copyright lengths\">copyright term</a> is the author's <b>life plus 100 years or fewer</b>.\n</p>\n<hr>\n<p>This work is in the <b><a href=\"https://en.wikipedia.org/wiki/public_domain\" class=\"extiw\" title=\"en:public domain\">public domain</a></b> in the <a href=\"https://en.wikipedia.org/wiki/United_States\" class=\"extiw\" title=\"en:United States\">United States</a> because it was <a href=\"//commons.wikimedia.org/wiki/Commons:Publication\" title=\"Commons:Publication\">published</a> (or registered with the <a href=\"https://en.wikipedia.org/wiki/United_States_Copyright_Office\" class=\"extiw\" title=\"en:United States Copyright Office\">U.S. Copyright Office</a>) before January 1, 1931.\n</p>\n</td></tr>\n<tr>\n<td colspan=\"2\" style=\"text-align:center;font-size:x-small;line-height:140%;\"><a href=\"https://creativecommons.org/publicdomain/mark/1.0/deed.en\" class=\"extiw\" title=\"ccorg:publicdomain/mark/1.0/deed.en\">This file has been identified as being free of known restrictions under copyright law, including all related and neighboring rights.</a>\n</td></tr></tbody></table><span class=\"licensetpl_link\" style=\"display:none;\">https://creativecommons.org/publicdomain/mark/1.0/</span><span class=\"licensetpl_short\" style=\"display:none;\">PDM</span><span class=\"licensetpl_long\" style=\"display:none;\">Creative Commons Public Domain Mark 1.0</span><span class=\"licensetpl_link_req\" style=\"display:none;\">false</span><span class=\"licensetpl_attr_req\" style=\"display:none;\">false</span>",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "LicenseShortName": {
+                  "value": "Public domain",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "UsageTerms": {
+                  "value": "Public domain",
+                  "source": "commons-desc-page"
+                },
+                "AttributionRequired": {
+                  "value": "false",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "Copyrighted": {
+                  "value": "False",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "Restrictions": {
+                  "value": "",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "License": {
+                  "value": "pd",
+                  "source": "commons-templates",
+                  "hidden": ""
+                }
+              }
+            }
+          ]
+        },
+        {
+          "pageid": 107163368,
+          "ns": 6,
+          "title": "File:Historiae patriae monumenta edita iussu regis Caroli Alberti. Chartarum tomus II (IA HistoriaePatriaeMonumenta6).pdf",
+          "index": 5,
+          "imagerepository": "local",
+          "imageinfo": [
+            {
+              "size": 134358772,
+              "width": 1275,
+              "height": 1650,
+              "pagecount": 1222,
+              "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/08/Historiae_patriae_monumenta_edita_iussu_regis_Caroli_Alberti._Chartarum_tomus_II_%28IA_HistoriaePatriaeMonumenta6%29.pdf/page1-500px-Historiae_patriae_monumenta_edita_iussu_regis_Caroli_Alberti._Chartarum_tomus_II_%28IA_HistoriaePatriaeMonumenta6%29.pdf.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+              "thumbwidth": 400,
+              "thumbheight": 518,
+              "responsiveUrls": {
+                "2": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/08/Historiae_patriae_monumenta_edita_iussu_regis_Caroli_Alberti._Chartarum_tomus_II_%28IA_HistoriaePatriaeMonumenta6%29.pdf/page1-960px-Historiae_patriae_monumenta_edita_iussu_regis_Caroli_Alberti._Chartarum_tomus_II_%28IA_HistoriaePatriaeMonumenta6%29.pdf.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+              },
+              "thumbattribs": {
+                "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/08/Historiae_patriae_monumenta_edita_iussu_regis_Caroli_Alberti._Chartarum_tomus_II_%28IA_HistoriaePatriaeMonumenta6%29.pdf/page1-500px-Historiae_patriae_monumenta_edita_iussu_regis_Caroli_Alberti._Chartarum_tomus_II_%28IA_HistoriaePatriaeMonumenta6%29.pdf.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+                "decoding": "async",
+                "loading": "lazy",
+                "width": 400,
+                "height": 518,
+                "srcset": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/08/Historiae_patriae_monumenta_edita_iussu_regis_Caroli_Alberti._Chartarum_tomus_II_%28IA_HistoriaePatriaeMonumenta6%29.pdf/page1-960px-Historiae_patriae_monumenta_edita_iussu_regis_Caroli_Alberti._Chartarum_tomus_II_%28IA_HistoriaePatriaeMonumenta6%29.pdf.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail 2x"
+              },
+              "url": "https://upload.wikimedia.org/wikipedia/commons/0/08/Historiae_patriae_monumenta_edita_iussu_regis_Caroli_Alberti._Chartarum_tomus_II_%28IA_HistoriaePatriaeMonumenta6%29.pdf?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+              "descriptionurl": "https://commons.wikimedia.org/wiki/File:Historiae_patriae_monumenta_edita_iussu_regis_Caroli_Alberti._Chartarum_tomus_II_(IA_HistoriaePatriaeMonumenta6).pdf",
+              "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=107163368",
+              "extmetadata": {
+                "DateTime": {
+                  "value": "2021-07-01 23:33:14",
+                  "source": "mediawiki-metadata",
+                  "hidden": ""
+                },
+                "ObjectName": {
+                  "value": "<div class=\"fn\">\nHistoriae patriae monumenta edita iussu regis Caroli Alberti. Chartarum tomus II</div>",
+                  "source": "commons-desc-page"
+                },
+                "CommonsMetadataExtension": {
+                  "value": 1.2,
+                  "source": "extension",
+                  "hidden": ""
+                },
+                "Categories": {
+                  "value": "Files with no machine-readable author|PD-old-100-expired|Scans from the Internet Archive/unverified|CC-PD-Mark|Scans from the Internet Archive|Books uploaded by Fæ|Books without Wikidata item|PD-old missing SDC copyright status|Folkscanomy",
+                  "source": "commons-categories",
+                  "hidden": ""
+                },
+                "Assessments": {
+                  "value": "",
+                  "source": "commons-categories",
+                  "hidden": ""
+                },
+                "ImageDescription": {
+                  "value": "<div class=\"description\">\n<p>Book digitized by Google and uploaded by ARLIMA (<a rel=\"nofollow\" class=\"external free\" href=\"http://www.arlima.net\">http://www.arlima.net</a>)\n</p>\n<br>Subjects: history; Turin; Torino; Italy</div>",
+                  "source": "commons-desc-page"
+                },
+                "Credit": {
+                  "value": "<dl><dd><a href=\"//archive.org/details/HistoriaePatriaeMonumenta6\" class=\"extiw\" title=\"iarchive:HistoriaePatriaeMonumenta6\"><bdi class=\"description en\" lang=\"en\" dir=\"ltr\">Internet Archive identifier</bdi>: HistoriaePatriaeMonumenta6</a></dd>\n<dd><a rel=\"nofollow\" class=\"external free\" href=\"https://archive.org/download/HistoriaePatriaeMonumenta6/Historiae_patriae_monumenta_6.pdf\">https://archive.org/download/HistoriaePatriaeMonumenta6/Historiae_patriae_monumenta_6.pdf</a></dd></dl>",
+                  "source": "commons-desc-page"
+                },
+                "LicenseShortName": {
+                  "value": "Public domain",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "UsageTerms": {
+                  "value": "Public domain",
+                  "source": "commons-desc-page"
+                },
+                "AttributionRequired": {
+                  "value": "false",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "Copyrighted": {
+                  "value": "False",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "Restrictions": {
+                  "value": "",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "License": {
+                  "value": "pd",
+                  "source": "commons-templates",
+                  "hidden": ""
+                }
+              }
+            }
+          ]
+        },
+        {
+          "pageid": 125017335,
+          "ns": 6,
+          "title": "File:Principatus Pedemontii, Ducatus Augustae Praetoriae, Salutii Marchionatus, Astae, Vercellarum et Niceae Comitatus. Nova Tabula.jpg",
+          "index": 1,
+          "imagerepository": "local",
+          "imageinfo": [
+            {
+              "size": 12282151,
+              "width": 4080,
+              "height": 3404,
+              "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4e/Principatus_Pedemontii%2C_Ducatus_Augustae_Praetoriae%2C_Salutii_Marchionatus%2C_Astae%2C_Vercellarum_et_Niceae_Comitatus._Nova_Tabula.jpg/500px-Principatus_Pedemontii%2C_Ducatus_Augustae_Praetoriae%2C_Salutii_Marchionatus%2C_Astae%2C_Vercellarum_et_Niceae_Comitatus._Nova_Tabula.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+              "thumbwidth": 400,
+              "thumbheight": 334,
+              "responsiveUrls": {
+                "2": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4e/Principatus_Pedemontii%2C_Ducatus_Augustae_Praetoriae%2C_Salutii_Marchionatus%2C_Astae%2C_Vercellarum_et_Niceae_Comitatus._Nova_Tabula.jpg/960px-Principatus_Pedemontii%2C_Ducatus_Augustae_Praetoriae%2C_Salutii_Marchionatus%2C_Astae%2C_Vercellarum_et_Niceae_Comitatus._Nova_Tabula.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+              },
+              "thumbattribs": {
+                "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4e/Principatus_Pedemontii%2C_Ducatus_Augustae_Praetoriae%2C_Salutii_Marchionatus%2C_Astae%2C_Vercellarum_et_Niceae_Comitatus._Nova_Tabula.jpg/500px-Principatus_Pedemontii%2C_Ducatus_Augustae_Praetoriae%2C_Salutii_Marchionatus%2C_Astae%2C_Vercellarum_et_Niceae_Comitatus._Nova_Tabula.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+                "decoding": "async",
+                "loading": "lazy",
+                "width": 400,
+                "height": 334,
+                "srcset": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4e/Principatus_Pedemontii%2C_Ducatus_Augustae_Praetoriae%2C_Salutii_Marchionatus%2C_Astae%2C_Vercellarum_et_Niceae_Comitatus._Nova_Tabula.jpg/960px-Principatus_Pedemontii%2C_Ducatus_Augustae_Praetoriae%2C_Salutii_Marchionatus%2C_Astae%2C_Vercellarum_et_Niceae_Comitatus._Nova_Tabula.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail 2x"
+              },
+              "url": "https://upload.wikimedia.org/wikipedia/commons/4/4e/Principatus_Pedemontii%2C_Ducatus_Augustae_Praetoriae%2C_Salutii_Marchionatus%2C_Astae%2C_Vercellarum_et_Niceae_Comitatus._Nova_Tabula.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+              "descriptionurl": "https://commons.wikimedia.org/wiki/File:Principatus_Pedemontii,_Ducatus_Augustae_Praetoriae,_Salutii_Marchionatus,_Astae,_Vercellarum_et_Niceae_Comitatus._Nova_Tabula.jpg",
+              "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=125017335",
+              "extmetadata": {
+                "DateTime": {
+                  "value": "2022-11-04 11:33:44",
+                  "source": "mediawiki-metadata",
+                  "hidden": ""
+                },
+                "ObjectName": {
+                  "value": "Principatus Pedemontii, Ducatus Augustae Praetoriae, Salutii Marchionatus, Astae, Vercellarum et Niceae Comitatus. Nova Tabula",
+                  "source": "mediawiki-metadata"
+                },
+                "CommonsMetadataExtension": {
+                  "value": 1.2,
+                  "source": "extension",
+                  "hidden": ""
+                },
+                "Categories": {
+                  "value": "Maps of Italy|PD Italy (20 years after creation)|Biblioteca di storia e cultura del Piemonte \"Giuseppe Grosso\"|Media from Giuseppe Grosso Library|PD-1996|Images with extracted images|Maps by Hendrik Hondius the Younger|16th-century maps of Piedmont|Maps with cartouches (extracted)",
+                  "source": "commons-categories",
+                  "hidden": ""
+                },
+                "Assessments": {
+                  "value": "",
+                  "source": "commons-categories",
+                  "hidden": ""
+                },
+                "ImageDescription": {
+                  "value": "Principality of Piedmont\n<p>(Title lower left inside the frieze frame)\nPrincipality / Pedemontii, / Ducatus / Augustae Praetoriae, / Salutii Marchionatus, / Astae, Vercellarum / et Niceae Comitatus. / Nova Tabula.\nInside, cartouche surmounted by putto with globe on the right and compass on the left, bottom right: Amstelodami Henricus Hondius excudit.\nItalian mile scale 15\nGerman mile scale 4\nmm. 530 x 400\n</p>\nAmsterdam, 1581",
+                  "source": "commons-desc-page"
+                },
+                "DateTimeOriginal": {
+                  "value": "1581",
+                  "source": "commons-desc-page"
+                },
+                "Credit": {
+                  "value": "<bdi><a href=\"https://www.wikidata.org/wiki/Q64154030\" class=\"extiw\" title=\"d:Q64154030\"><span title=\"University specialist Library\">Library of History and Culture \"G. Grosso\"</span></a>\n</bdi>",
+                  "source": "commons-desc-page"
+                },
+                "Artist": {
+                  "value": "Enrico Hondt",
+                  "source": "commons-desc-page"
+                },
+                "LicenseShortName": {
+                  "value": "Public domain",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "UsageTerms": {
+                  "value": "Public domain",
+                  "source": "commons-desc-page"
+                },
+                "AttributionRequired": {
+                  "value": "false",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "Copyrighted": {
+                  "value": "False",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "Restrictions": {
+                  "value": "",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "License": {
+                  "value": "pd",
+                  "source": "commons-templates",
+                  "hidden": ""
+                }
+              }
+            }
+          ]
+        }
+      ]
+    }
+  }
+}

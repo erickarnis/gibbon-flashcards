@@ -1,0 +1,502 @@
+{
+  "person_id": "bineses",
+  "query": "Bineses",
+  "response": {
+    "batchcomplete": true,
+    "continue": {
+      "gsroffset": 5,
+      "continue": "gsroffset||"
+    },
+    "query": {
+      "pages": [
+        {
+          "pageid": 24464089,
+          "ns": 6,
+          "title": "File:Monitorul Oficial al României. Partea 1 1949-01-12, nr. 009.pdf",
+          "index": 4,
+          "imagerepository": "local",
+          "imageinfo": [
+            {
+              "size": 4044752,
+              "width": 1306,
+              "height": 1852,
+              "pagecount": 20,
+              "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8a/Monitorul_Oficial_al_Rom%C3%A2niei._Partea_1_1949-01-12%2C_nr._009.pdf/page1-500px-Monitorul_Oficial_al_Rom%C3%A2niei._Partea_1_1949-01-12%2C_nr._009.pdf.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+              "thumbwidth": 400,
+              "thumbheight": 567,
+              "responsiveUrls": {
+                "2": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8a/Monitorul_Oficial_al_Rom%C3%A2niei._Partea_1_1949-01-12%2C_nr._009.pdf/page1-960px-Monitorul_Oficial_al_Rom%C3%A2niei._Partea_1_1949-01-12%2C_nr._009.pdf.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+              },
+              "thumbattribs": {
+                "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8a/Monitorul_Oficial_al_Rom%C3%A2niei._Partea_1_1949-01-12%2C_nr._009.pdf/page1-500px-Monitorul_Oficial_al_Rom%C3%A2niei._Partea_1_1949-01-12%2C_nr._009.pdf.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+                "decoding": "async",
+                "loading": "lazy",
+                "width": 400,
+                "height": 567,
+                "srcset": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8a/Monitorul_Oficial_al_Rom%C3%A2niei._Partea_1_1949-01-12%2C_nr._009.pdf/page1-960px-Monitorul_Oficial_al_Rom%C3%A2niei._Partea_1_1949-01-12%2C_nr._009.pdf.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail 2x"
+              },
+              "url": "https://upload.wikimedia.org/wikipedia/commons/8/8a/Monitorul_Oficial_al_Rom%C3%A2niei._Partea_1_1949-01-12%2C_nr._009.pdf?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+              "descriptionurl": "https://commons.wikimedia.org/wiki/File:Monitorul_Oficial_al_Rom%C3%A2niei._Partea_1_1949-01-12,_nr._009.pdf",
+              "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=24464089",
+              "extmetadata": {
+                "DateTime": {
+                  "value": "2013-02-05 07:41:16",
+                  "source": "mediawiki-metadata",
+                  "hidden": ""
+                },
+                "ObjectName": {
+                  "value": "Monitorul Oficial al României. Partea 1 1949-01-12, nr. 009",
+                  "source": "mediawiki-metadata"
+                },
+                "CommonsMetadataExtension": {
+                  "value": 1.2,
+                  "source": "extension",
+                  "hidden": ""
+                },
+                "Categories": {
+                  "value": "PD-RO-exempt (documents)|Monitorul Oficial January 1949",
+                  "source": "commons-categories",
+                  "hidden": ""
+                },
+                "Assessments": {
+                  "value": "",
+                  "source": "commons-categories",
+                  "hidden": ""
+                },
+                "ImageDescription": {
+                  "value": "Monitorul Oficial al României. Partea 1, no. 009, year 117",
+                  "source": "commons-desc-page"
+                },
+                "DateTimeOriginal": {
+                  "value": "1949-01-12",
+                  "source": "commons-desc-page"
+                },
+                "Credit": {
+                  "value": "<a rel=\"nofollow\" class=\"external text\" href=\"http://www.dacoromanica.ro/\">Dacoromanica</a>, Biblioteca Digitală a României",
+                  "source": "commons-desc-page"
+                },
+                "Artist": {
+                  "value": "Romanian government; scan by Biblioteca Metropolitană București",
+                  "source": "commons-desc-page"
+                },
+                "LicenseShortName": {
+                  "value": "Public domain",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "UsageTerms": {
+                  "value": "Public domain",
+                  "source": "commons-desc-page"
+                },
+                "AttributionRequired": {
+                  "value": "false",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "Copyrighted": {
+                  "value": "False",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "Restrictions": {
+                  "value": "",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "License": {
+                  "value": "pd",
+                  "source": "commons-templates",
+                  "hidden": ""
+                }
+              }
+            }
+          ]
+        },
+        {
+          "pageid": 93614348,
+          "ns": 6,
+          "title": "File:Jules Vigneron - Souv’nance.djvu",
+          "index": 1,
+          "imagerepository": "local",
+          "imageinfo": [
+            {
+              "size": 29584750,
+              "width": 1900,
+              "height": 2700,
+              "pagecount": 124,
+              "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2b/Jules_Vigneron_-_Souv%E2%80%99nance.djvu/page1-500px-Jules_Vigneron_-_Souv%E2%80%99nance.djvu.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+              "thumbwidth": 400,
+              "thumbheight": 568,
+              "responsiveUrls": {
+                "2": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2b/Jules_Vigneron_-_Souv%E2%80%99nance.djvu/page1-960px-Jules_Vigneron_-_Souv%E2%80%99nance.djvu.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+              },
+              "thumbattribs": {
+                "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2b/Jules_Vigneron_-_Souv%E2%80%99nance.djvu/page1-500px-Jules_Vigneron_-_Souv%E2%80%99nance.djvu.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+                "decoding": "async",
+                "loading": "lazy",
+                "width": 400,
+                "height": 568,
+                "srcset": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2b/Jules_Vigneron_-_Souv%E2%80%99nance.djvu/page1-960px-Jules_Vigneron_-_Souv%E2%80%99nance.djvu.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail 2x"
+              },
+              "url": "https://upload.wikimedia.org/wikipedia/commons/2/2b/Jules_Vigneron_-_Souv%E2%80%99nance.djvu?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+              "descriptionurl": "https://commons.wikimedia.org/wiki/File:Jules_Vigneron_-_Souv%E2%80%99nance.djvu",
+              "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=93614348",
+              "extmetadata": {
+                "DateTime": {
+                  "value": "2020-08-28 09:41:25",
+                  "source": "mediawiki-metadata",
+                  "hidden": ""
+                },
+                "ObjectName": {
+                  "value": "Jules Vigneron - Souv’nance",
+                  "source": "mediawiki-metadata"
+                },
+                "CommonsMetadataExtension": {
+                  "value": 1.2,
+                  "source": "extension",
+                  "hidden": ""
+                },
+                "Categories": {
+                  "value": "Author died more than 70 years ago public domain images|Jules Vigneron|CC-PD-Mark|PD-old missing SDC copyright status|Djvu files in Walloon",
+                  "source": "commons-categories",
+                  "hidden": ""
+                },
+                "Assessments": {
+                  "value": "",
+                  "source": "commons-categories",
+                  "hidden": ""
+                },
+                "ImageDescription": {
+                  "value": "<i>Souv’nance</i> de Jules Vigneron. Une partie du livre est encore protégée par le droit d'auteur : le <i>liminaire</i> rédigé par George FAY (1899-1986), l'<i>introduction</i> et la <i>notice biographique</i> de <a href=\"https://en.wikipedia.org/wiki/wa:Henri_Van_Cutsem\" class=\"extiw\" title=\"w:wa:Henri Van Cutsem\">Henri VAN CUSTEM</a> (1884-1958) et les <i>illustrations</i> de <a href=\"https://en.wikipedia.org/wiki/fr:Ben_Genaux\" class=\"extiw\" title=\"w:fr:Ben Genaux\">Ben GENAUX</a> (1911-1996). Les pages concernées ont été remplacées par une page factice en attendant leur libération.",
+                  "source": "commons-desc-page"
+                },
+                "DateTimeOriginal": {
+                  "value": "circa 1941<div style=\"display: none;\">date QS:P,+1941-00-00T00:00:00Z/9,P1480,Q5727902</div>",
+                  "source": "commons-desc-page"
+                },
+                "Credit": {
+                  "value": "scan from personal library",
+                  "source": "commons-desc-page"
+                },
+                "Artist": {
+                  "value": "Jules Vigneron",
+                  "source": "commons-desc-page"
+                },
+                "LicenseShortName": {
+                  "value": "Public domain",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "UsageTerms": {
+                  "value": "Public domain",
+                  "source": "commons-desc-page"
+                },
+                "AttributionRequired": {
+                  "value": "false",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "Copyrighted": {
+                  "value": "False",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "Restrictions": {
+                  "value": "",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "License": {
+                  "value": "pd",
+                  "source": "commons-templates",
+                  "hidden": ""
+                }
+              }
+            }
+          ]
+        },
+        {
+          "pageid": 94885157,
+          "ns": 6,
+          "title": "File:California coast trails; a horseback ride from Mexico to Oregon (IA californiacoast00chas).pdf",
+          "index": 3,
+          "imagerepository": "local",
+          "imageinfo": [
+            {
+              "size": 13778969,
+              "width": 743,
+              "height": 1191,
+              "pagecount": 388,
+              "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a8/California_coast_trails%3B_a_horseback_ride_from_Mexico_to_Oregon_%28IA_californiacoast00chas%29.pdf/page1-500px-California_coast_trails%3B_a_horseback_ride_from_Mexico_to_Oregon_%28IA_californiacoast00chas%29.pdf.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+              "thumbwidth": 400,
+              "thumbheight": 641,
+              "thumbattribs": {
+                "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a8/California_coast_trails%3B_a_horseback_ride_from_Mexico_to_Oregon_%28IA_californiacoast00chas%29.pdf/page1-500px-California_coast_trails%3B_a_horseback_ride_from_Mexico_to_Oregon_%28IA_californiacoast00chas%29.pdf.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+                "decoding": "async",
+                "loading": "lazy",
+                "width": 400,
+                "height": 641
+              },
+              "url": "https://upload.wikimedia.org/wikipedia/commons/a/a8/California_coast_trails%3B_a_horseback_ride_from_Mexico_to_Oregon_%28IA_californiacoast00chas%29.pdf?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+              "descriptionurl": "https://commons.wikimedia.org/wiki/File:California_coast_trails;_a_horseback_ride_from_Mexico_to_Oregon_(IA_californiacoast00chas).pdf",
+              "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=94885157",
+              "extmetadata": {
+                "DateTime": {
+                  "value": "2020-10-09 08:06:40",
+                  "source": "mediawiki-metadata",
+                  "hidden": ""
+                },
+                "ObjectName": {
+                  "value": "<div class=\"fn\">\nCalifornia coast trails; a horseback ride from Mexico to Oregon</div>",
+                  "source": "commons-desc-page"
+                },
+                "CommonsMetadataExtension": {
+                  "value": 1.2,
+                  "source": "extension",
+                  "hidden": ""
+                },
+                "Categories": {
+                  "value": "Travelogues|Books about California|Books from New York (state)|Scans from the Internet Archive/unverified|PD US expired|Scans from the Internet Archive|Books uploaded by Fæ|Books without Wikidata item|California Digital Library|J. Smeaton Chase|Books published in Boston",
+                  "source": "commons-categories",
+                  "hidden": ""
+                },
+                "Assessments": {
+                  "value": "",
+                  "source": "commons-categories",
+                  "hidden": ""
+                },
+                "Artist": {
+                  "value": "<div class=\"fn value\">\nChase, J. Smeaton (Joseph Smeaton), b. 1864</div>",
+                  "source": "commons-desc-page"
+                },
+                "ImageDescription": {
+                  "value": "<div class=\"description\">\nSubjects: California -- Description and travel</div>",
+                  "source": "commons-desc-page"
+                },
+                "Credit": {
+                  "value": "<dl><dd><a href=\"//archive.org/details/californiacoast00chas\" class=\"extiw\" title=\"iarchive:californiacoast00chas\"><bdi class=\"description en\" lang=\"en\" dir=\"ltr\">Internet Archive identifier</bdi>: californiacoast00chas</a></dd>\n<dd><a rel=\"nofollow\" class=\"external free\" href=\"https://archive.org/download/californiacoast00chas/californiacoast00chas.pdf\">https://archive.org/download/californiacoast00chas/californiacoast00chas.pdf</a></dd></dl>",
+                  "source": "commons-desc-page"
+                },
+                "LicenseShortName": {
+                  "value": "Public domain",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "UsageTerms": {
+                  "value": "Public domain",
+                  "source": "commons-desc-page"
+                },
+                "AttributionRequired": {
+                  "value": "false",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "Copyrighted": {
+                  "value": "False",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "Restrictions": {
+                  "value": "",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "License": {
+                  "value": "pd",
+                  "source": "commons-templates",
+                  "hidden": ""
+                }
+              }
+            }
+          ]
+        },
+        {
+          "pageid": 95442487,
+          "ns": 6,
+          "title": "File:Monumenti dello Stato pontificio e relazione topografica di ogni paese (IA monumentidellost03maro).pdf",
+          "index": 5,
+          "imagerepository": "local",
+          "imageinfo": [
+            {
+              "size": 14880778,
+              "width": 772,
+              "height": 1260,
+              "pagecount": 196,
+              "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/73/Monumenti_dello_Stato_pontificio_e_relazione_topografica_di_ogni_paese_%28IA_monumentidellost03maro%29.pdf/page1-500px-Monumenti_dello_Stato_pontificio_e_relazione_topografica_di_ogni_paese_%28IA_monumentidellost03maro%29.pdf.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+              "thumbwidth": 400,
+              "thumbheight": 653,
+              "thumbattribs": {
+                "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/73/Monumenti_dello_Stato_pontificio_e_relazione_topografica_di_ogni_paese_%28IA_monumentidellost03maro%29.pdf/page1-500px-Monumenti_dello_Stato_pontificio_e_relazione_topografica_di_ogni_paese_%28IA_monumentidellost03maro%29.pdf.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+                "decoding": "async",
+                "loading": "lazy",
+                "width": 400,
+                "height": 653
+              },
+              "url": "https://upload.wikimedia.org/wikipedia/commons/7/73/Monumenti_dello_Stato_pontificio_e_relazione_topografica_di_ogni_paese_%28IA_monumentidellost03maro%29.pdf?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+              "descriptionurl": "https://commons.wikimedia.org/wiki/File:Monumenti_dello_Stato_pontificio_e_relazione_topografica_di_ogni_paese_(IA_monumentidellost03maro).pdf",
+              "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=95442487",
+              "extmetadata": {
+                "DateTime": {
+                  "value": "2020-10-25 10:23:53",
+                  "source": "mediawiki-metadata",
+                  "hidden": ""
+                },
+                "ObjectName": {
+                  "value": "<div class=\"fn\">\nMonumenti dello Stato pontificio e relazione topografica di ogni paese</div>",
+                  "source": "commons-desc-page"
+                },
+                "CommonsMetadataExtension": {
+                  "value": 1.2,
+                  "source": "extension",
+                  "hidden": ""
+                },
+                "Categories": {
+                  "value": "Scans from the Internet Archive/unverified|PD US expired|Scans from the Internet Archive|Books uploaded by Fæ|Books without Wikidata item|Images from the Getty Research Institute|PD-US missing SDC copyright status",
+                  "source": "commons-categories",
+                  "hidden": ""
+                },
+                "Assessments": {
+                  "value": "",
+                  "source": "commons-categories",
+                  "hidden": ""
+                },
+                "Artist": {
+                  "value": "<div class=\"fn value\">\nMarocco, Giuseppe, 1773-1829</div>",
+                  "source": "commons-desc-page"
+                },
+                "ImageDescription": {
+                  "value": "<div class=\"description\">\n<dl><dd>Imprint of v. 14: Roma, Nell' Ospizio di S. Maria degli angeli, 1837</dd>\n<dd>No more published?</dd>\n<dd>Sloan candidate</dd></dl>\n<br>Subjects:</div>",
+                  "source": "commons-desc-page"
+                },
+                "Credit": {
+                  "value": "<dl><dd><a href=\"//archive.org/details/monumentidellost03maro\" class=\"extiw\" title=\"iarchive:monumentidellost03maro\"><bdi class=\"description en\" lang=\"en\" dir=\"ltr\">Internet Archive identifier</bdi>: monumentidellost03maro</a></dd>\n<dd><a rel=\"nofollow\" class=\"external free\" href=\"https://archive.org/download/monumentidellost03maro/monumentidellost03maro.pdf\">https://archive.org/download/monumentidellost03maro/monumentidellost03maro.pdf</a></dd></dl>",
+                  "source": "commons-desc-page"
+                },
+                "LicenseShortName": {
+                  "value": "Public domain",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "UsageTerms": {
+                  "value": "Public domain",
+                  "source": "commons-desc-page"
+                },
+                "AttributionRequired": {
+                  "value": "false",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "Copyrighted": {
+                  "value": "False",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "Restrictions": {
+                  "value": "",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "License": {
+                  "value": "pd",
+                  "source": "commons-templates",
+                  "hidden": ""
+                }
+              }
+            }
+          ]
+        },
+        {
+          "pageid": 106307953,
+          "ns": 6,
+          "title": "File:The Preliminary debate at the East India House, on tuesday, the 5th january, 1813 on the negociation with his majesty’s ministers relative to a renewal of the charter (IA dli.ministry.05352).pdf",
+          "index": 2,
+          "imagerepository": "local",
+          "imageinfo": [
+            {
+              "size": 18372595,
+              "width": 675,
+              "height": 1125,
+              "pagecount": 80,
+              "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/17/The_Preliminary_debate_at_the_East_India_House%2C_on_tuesday%2C_the_5th_january%2C_1813_on_the_negociation_with_his_majesty%E2%80%99s_ministers_relative_to_a_renewal_of_the_charter_%28IA_dli.ministry.05352%29.pdf/page1-500px-thumbnail.pdf.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+              "thumbwidth": 400,
+              "thumbheight": 667,
+              "thumbattribs": {
+                "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/17/The_Preliminary_debate_at_the_East_India_House%2C_on_tuesday%2C_the_5th_january%2C_1813_on_the_negociation_with_his_majesty%E2%80%99s_ministers_relative_to_a_renewal_of_the_charter_%28IA_dli.ministry.05352%29.pdf/page1-500px-thumbnail.pdf.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+                "decoding": "async",
+                "loading": "lazy",
+                "width": 400,
+                "height": 667
+              },
+              "url": "https://upload.wikimedia.org/wikipedia/commons/1/17/The_Preliminary_debate_at_the_East_India_House%2C_on_tuesday%2C_the_5th_january%2C_1813_on_the_negociation_with_his_majesty%E2%80%99s_ministers_relative_to_a_renewal_of_the_charter_%28IA_dli.ministry.05352%29.pdf?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+              "descriptionurl": "https://commons.wikimedia.org/wiki/File:The_Preliminary_debate_at_the_East_India_House,_on_tuesday,_the_5th_january,_1813_on_the_negociation_with_his_majesty%E2%80%99s_ministers_relative_to_a_renewal_of_the_charter_(IA_dli.ministry.05352).pdf",
+              "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=106307953",
+              "extmetadata": {
+                "DateTime": {
+                  "value": "2021-06-05 21:11:38",
+                  "source": "mediawiki-metadata",
+                  "hidden": ""
+                },
+                "ObjectName": {
+                  "value": "<div class=\"fn\">\nThe Preliminary debate at the East India House, on tuesday, the 5th january, 1813 on the negociation with his majesty’s ministers relative to a renewal of the charter</div>",
+                  "source": "commons-desc-page"
+                },
+                "CommonsMetadataExtension": {
+                  "value": 1.2,
+                  "source": "extension",
+                  "hidden": ""
+                },
+                "Categories": {
+                  "value": "Files with no machine-readable author|PD-old-100-expired|Scans from the Internet Archive/unverified|CC-PD-Mark|Scans from the Internet Archive|Books uploaded by Fæ|Books without Wikidata item|Bharat Ek Khoj|PD-old missing SDC copyright status",
+                  "source": "commons-categories",
+                  "hidden": ""
+                },
+                "Assessments": {
+                  "value": "",
+                  "source": "commons-categories",
+                  "hidden": ""
+                },
+                "ImageDescription": {
+                  "value": "<div class=\"description\">\n<p>With an Appendix Containing all The Letters and Documents Referred to Upon The Subjects\n</p>\n<br>Subjects: East India Company-History, 19th Century-Sources:East India Company; MinistryOfCulture</div>",
+                  "source": "commons-desc-page"
+                },
+                "Credit": {
+                  "value": "<dl><dd><a href=\"//archive.org/details/dli.ministry.05352\" class=\"extiw\" title=\"iarchive:dli.ministry.05352\"><bdi class=\"description en\" lang=\"en\" dir=\"ltr\">Internet Archive identifier</bdi>: dli.ministry.05352</a></dd>\n<dd><a rel=\"nofollow\" class=\"external free\" href=\"https://archive.org/download/dli.ministry.05352/10979.5634-The%2520Preliminary%2520Debate%2520at%2520The%2520East%2520India%2520House%252C%2520on%2520Tuesday%2520%2528part-9%2529.pdf\">https://archive.org/download/dli.ministry.05352/10979.5634-The%2520Preliminary%2520Debate%2520at%2520The%2520East%2520India%2520House%252C%2520on%2520Tuesday%2520%2528part-9%2529.pdf</a></dd></dl>",
+                  "source": "commons-desc-page"
+                },
+                "LicenseShortName": {
+                  "value": "Public domain",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "UsageTerms": {
+                  "value": "Public domain",
+                  "source": "commons-desc-page"
+                },
+                "AttributionRequired": {
+                  "value": "false",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "Copyrighted": {
+                  "value": "False",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "Restrictions": {
+                  "value": "",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "License": {
+                  "value": "pd",
+                  "source": "commons-templates",
+                  "hidden": ""
+                }
+              }
+            }
+          ]
+        }
+      ]
+    }
+  }
+}

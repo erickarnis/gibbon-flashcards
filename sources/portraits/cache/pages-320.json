@@ -1,0 +1,1801 @@
+{
+  "batchcomplete": true,
+  "query": {
+    "redirects": [
+      {
+        "from": "Mellobaudes",
+        "to": "Mallobaudes"
+      },
+      {
+        "from": "Pharandzem",
+        "to": "Parandzem"
+      }
+    ],
+    "pages": [
+      {
+        "ns": 0,
+        "title": "Mistrianus",
+        "missing": true
+      },
+      {
+        "ns": 0,
+        "title": "Mucapor",
+        "missing": true
+      },
+      {
+        "ns": 0,
+        "title": "Cecrops (officer of Gallienus)",
+        "missing": true
+      },
+      {
+        "ns": 0,
+        "title": "Anullinus (praetorian prefect)",
+        "missing": true
+      },
+      {
+        "ns": 0,
+        "title": "Anulinus (master of Diocletian's parents)",
+        "missing": true
+      },
+      {
+        "ns": 0,
+        "title": "Anullinus (prefect of Maximinus)",
+        "missing": true
+      },
+      {
+        "ns": 0,
+        "title": "Paulus (gladiator)",
+        "missing": true
+      },
+      {
+        "ns": 0,
+        "title": "Pylades (dancer under Didius Julianus)",
+        "missing": true
+      },
+      {
+        "ns": 0,
+        "title": "Gaius Petronius Magnus",
+        "missing": true
+      },
+      {
+        "pageid": 1006,
+        "ns": 0,
+        "title": "Aaron",
+        "original": {
+          "source": "https://upload.wikimedia.org/wikipedia/commons/e/e2/El_sumo_sacerdote_Aar%C3%B3n_%28Museo_del_Prado%29_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original",
+          "width": 735,
+          "height": 984
+        },
+        "pageimage": "El_sumo_sacerdote_Aarón_(Museo_del_Prado)_(cropped).jpg",
+        "images": [
+          {
+            "ns": 6,
+            "title": "File:Aaron-icon.jpg"
+          },
+          {
+            "ns": 6,
+            "title": "File:Ambox important.svg"
+          },
+          {
+            "ns": 6,
+            "title": "File:Commons-logo.svg"
+          },
+          {
+            "ns": 6,
+            "title": "File:Descendants of Aaron according to the book of Esdras Carthage Judges of Israel- Jephthah, Elon, Abdon, Ibzan Saul Odysse - Schedell Hartmann - 1493.jpg"
+          },
+          {
+            "ns": 6,
+            "title": "File:El sumo sacerdote Aarón (Museo del Prado) (cropped).jpg"
+          },
+          {
+            "ns": 6,
+            "title": "File:En-Aaron.ogg"
+          },
+          {
+            "ns": 6,
+            "title": "File:Harun sleeping next to two angels.jpg"
+          },
+          {
+            "ns": 6,
+            "title": "File:Hirschvogel The Blossoming of Aarons Rod.jpg"
+          },
+          {
+            "ns": 6,
+            "title": "File:Jacques Bergé, Aaron- Aaron, KBS-FRB.jpg"
+          },
+          {
+            "ns": 6,
+            "title": "File:LL-Q1860 (eng)-Naomi Persephone Amethyst (NaomiAmethyst)-Aaron (alt).wav"
+          },
+          {
+            "ns": 6,
+            "title": "File:Moses and Aron before Paraoh.jpg"
+          },
+          {
+            "ns": 6,
+            "title": "File:Mozes met Aäron en Mirjam, c 1650, Jacob Jordaens.jpg"
+          },
+          {
+            "ns": 6,
+            "title": "File:OOjs UI icon edit-ltr-progressive.svg"
+          },
+          {
+            "ns": 6,
+            "title": "File:Question book-new.svg"
+          },
+          {
+            "ns": 6,
+            "title": "File:Sandro Botticelli - The Punishment of Korah and the Stoning of Moses and Aaron (detail) - WGA2748.jpg"
+          },
+          {
+            "ns": 6,
+            "title": "File:Wikisource-logo.svg"
+          },
+          {
+            "ns": 6,
+            "title": "File:Wiktionary-logo-en-v2.svg"
+          }
+        ],
+        "pageprops": {
+          "defaultsort": "Aaron",
+          "page_image_free": "El_sumo_sacerdote_Aarón_(Museo_del_Prado)_(cropped).jpg",
+          "wikibase-shortdesc": "Prophet in the Abrahamic faiths",
+          "wikibase_item": "Q51676"
+        }
+      },
+      {
+        "pageid": 1767,
+        "ns": 0,
+        "title": "Ammianus Marcellinus",
+        "original": {
+          "source": "https://upload.wikimedia.org/wikipedia/commons/6/62/Ammianus_Marcellinus.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original",
+          "width": 1357,
+          "height": 1920
+        },
+        "pageimage": "Ammianus_Marcellinus.jpg",
+        "images": [
+          {
+            "ns": 6,
+            "title": "File:Ammianus Marcellinus.jpg"
+          },
+          {
+            "ns": 6,
+            "title": "File:Ammianus Marcellinus 1533.jpg"
+          },
+          {
+            "ns": 6,
+            "title": "File:Bust of Constantius II (Mary Harrsch).jpg"
+          },
+          {
+            "ns": 6,
+            "title": "File:Diyarbakirwalls2.jpg"
+          },
+          {
+            "ns": 6,
+            "title": "File:IVLIANVS.png"
+          },
+          {
+            "ns": 6,
+            "title": "File:OOjs UI icon edit-ltr-progressive.svg"
+          },
+          {
+            "ns": 6,
+            "title": "File:Wikisource-logo.svg"
+          }
+        ],
+        "pageprops": {
+          "defaultsort": "Marcellinus, Ammianus",
+          "page_image_free": "Ammianus_Marcellinus.jpg",
+          "wikibase-shortdesc": "4th-century Roman historian and soldier",
+          "wikibase_item": "Q172198"
+        }
+      },
+      {
+        "pageid": 3246,
+        "ns": 0,
+        "title": "Anthony the Great",
+        "original": {
+          "source": "https://upload.wikimedia.org/wikipedia/commons/f/fb/Saint_Anthony_%28Damaskinos%29.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original",
+          "width": 1036,
+          "height": 1329
+        },
+        "pageimage": "Saint_Anthony_(Damaskinos).png",
+        "images": [
+          {
+            "ns": 6,
+            "title": "File:046CupolaSPietro.jpg"
+          },
+          {
+            "ns": 6,
+            "title": "File:Anthony the Great (coptic icon, 19-20 c., priv. coll).jpg"
+          },
+          {
+            "ns": 6,
+            "title": "File:Commons-logo.svg"
+          },
+          {
+            "ns": 6,
+            "title": "File:Coptic cross.svg"
+          },
+          {
+            "ns": 6,
+            "title": "File:Cretan Icon of Saint Anthony the Great with Scenes by Emmanuel Tzanes.jpg"
+          },
+          {
+            "ns": 6,
+            "title": "File:Gloriole blur.svg"
+          },
+          {
+            "ns": 6,
+            "title": "File:Master of the Osservanza (Sano di Pietro?), The Meeting of Saint Anthony and Saint Paul, c. 1430-1435, NGA 436.jpg"
+          },
+          {
+            "ns": 6,
+            "title": "File:Michelangelo Buonarroti - The Torment of Saint Anthony - Google Art Project.jpg"
+          },
+          {
+            "ns": 6,
+            "title": "File:OOjs UI icon edit-ltr-progressive.svg"
+          },
+          {
+            "ns": 6,
+            "title": "File:P christianity.svg"
+          },
+          {
+            "ns": 6,
+            "title": "File:Piero di Cosimo 025.jpg"
+          },
+          {
+            "ns": 6,
+            "title": "File:SAntoine Abbaye 01.jpg"
+          },
+          {
+            "ns": 6,
+            "title": "File:Saint Anthony (Damaskinos).png"
+          },
+          {
+            "ns": 6,
+            "title": "File:Speaker Icon.svg"
+          },
+          {
+            "ns": 6,
+            "title": "File:Unknown painter - Transfiguration of Christ - WGA23487.jpg"
+          },
+          {
+            "ns": 6,
+            "title": "File:Vaantjeantoniuswarfhuizenkleiner copy.jpg"
+          },
+          {
+            "ns": 6,
+            "title": "File:Vitale da Bologna (14e eeuw) - Vier verhalen van Antonius van Egypte (1340) - Bologna Pinacoteca Nazionale - 26-04-2012 9-22-59.jpg"
+          },
+          {
+            "ns": 6,
+            "title": "File:Wikiquote-logo.svg"
+          },
+          {
+            "ns": 6,
+            "title": "File:Wikisource-logo.svg"
+          }
+        ],
+        "pageprops": {
+          "defaultsort": "Anthony The Great",
+          "page_image_free": "Saint_Anthony_(Damaskinos).png",
+          "wikibase-shortdesc": "Egyptian Christian monk and hermit (died 356)",
+          "wikibase_item": "Q170547"
+        }
+      },
+      {
+        "pageid": 10310,
+        "ns": 0,
+        "title": "Edward Gibbon",
+        "original": {
+          "source": "https://upload.wikimedia.org/wikipedia/commons/0/05/Edward_Gibbon_by_Henry_Walton_cleaned.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original",
+          "width": 1992,
+          "height": 2552
+        },
+        "pageimage": "Edward_Gibbon_by_Henry_Walton_cleaned.jpg",
+        "images": [
+          {
+            "ns": 6,
+            "title": "File:Blue Plaque - Edward Gibbon.jpg"
+          },
+          {
+            "ns": 6,
+            "title": "File:Commons-logo.svg"
+          },
+          {
+            "ns": 6,
+            "title": "File:DodgerBlue flag waving.svg"
+          },
+          {
+            "ns": 6,
+            "title": "File:Duplessis - Suzanne Curchod, Madame Necker.jpg"
+          },
+          {
+            "ns": 6,
+            "title": "File:Edward Emily Gibbon.jpg"
+          },
+          {
+            "ns": 6,
+            "title": "File:Edward Gibbon by Henry Walton cleaned.jpg"
+          },
+          {
+            "ns": 6,
+            "title": "File:Edward Gibbon signature EMWEA.png"
+          },
+          {
+            "ns": 6,
+            "title": "File:Flag of the United Kingdom.svg"
+          },
+          {
+            "ns": 6,
+            "title": "File:Gibbon memorial tablet 1.jpg"
+          },
+          {
+            "ns": 6,
+            "title": "File:Keep of Portchester Castle, 2008.jpg"
+          },
+          {
+            "ns": 6,
+            "title": "File:Magdalen College, Oxford (7958644740).jpg"
+          },
+          {
+            "ns": 6,
+            "title": "File:OOjs UI icon edit-ltr-progressive.svg"
+          },
+          {
+            "ns": 6,
+            "title": "File:Speaker Icon.svg"
+          },
+          {
+            "ns": 6,
+            "title": "File:Symbol category class.svg"
+          },
+          {
+            "ns": 6,
+            "title": "File:UK and Blue flags.png"
+          },
+          {
+            "ns": 6,
+            "title": "File:Wikiquote-logo.svg"
+          },
+          {
+            "ns": 6,
+            "title": "File:Wikisource-logo.svg"
+          }
+        ],
+        "pageprops": {
+          "defaultsort": "Gibbon, Edward",
+          "page_image_free": "Edward_Gibbon_by_Henry_Walton_cleaned.jpg",
+          "wikibase-shortdesc": "British essayist, historian and politician (1737–1794)",
+          "wikibase_item": "Q161841"
+        }
+      },
+      {
+        "pageid": 18934,
+        "ns": 0,
+        "title": "Muhammad",
+        "original": {
+          "source": "https://upload.wikimedia.org/wikipedia/commons/7/73/Al-Masjid_AL-Nabawi_Door.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original",
+          "width": 733,
+          "height": 600
+        },
+        "pageimage": "Al-Masjid_AL-Nabawi_Door.jpg",
+        "images": [
+          {
+            "ns": 6,
+            "title": "File:Al-Masjid AL-Nabawi Door.jpg"
+          },
+          {
+            "ns": 6,
+            "title": "File:Allah-green.svg"
+          },
+          {
+            "ns": 6,
+            "title": "File:Cave Hira.jpg"
+          },
+          {
+            "ns": 6,
+            "title": "File:Commons-logo.svg"
+          },
+          {
+            "ns": 6,
+            "title": "File:Dome of the Rock Jerusalem 2010.jpg"
+          },
+          {
+            "ns": 6,
+            "title": "File:Extended-protection-shackle.svg"
+          },
+          {
+            "ns": 6,
+            "title": "File:Kaaba Masjid Haraam Makkah.jpg"
+          },
+          {
+            "ns": 6,
+            "title": "File:La.Vie.de.Mahomet Christies.jpg"
+          },
+          {
+            "ns": 6,
+            "title": "File:Madina Haram at evening.jpg"
+          },
+          {
+            "ns": 6,
+            "title": "File:Maome.jpg"
+          },
+          {
+            "ns": 6,
+            "title": "File:Map of expansion of Caliphate.svg"
+          },
+          {
+            "ns": 6,
+            "title": "File:Miniatura Maometto.jpg"
+          },
+          {
+            "ns": 6,
+            "title": "File:Mohamed peace be upon him.svg"
+          },
+          {
+            "ns": 6,
+            "title": "File:Mohammed kaaba 1315.jpg"
+          },
+          {
+            "ns": 6,
+            "title": "File:Mrs Aisha room.jpg"
+          },
+          {
+            "ns": 6,
+            "title": "File:Muhammad Masjid an-Nabawi Calligraphy.svg"
+          },
+          {
+            "ns": 6,
+            "title": "File:Muslim Conquest.sv.svg"
+          },
+          {
+            "ns": 6,
+            "title": "File:OOjs UI icon edit-ltr-progressive.svg"
+          },
+          {
+            "ns": 6,
+            "title": "File:PERF No. 665.jpg"
+          },
+          {
+            "ns": 6,
+            "title": "File:PERF No. 732.jpg"
+          },
+          {
+            "ns": 6,
+            "title": "File:P vip.svg"
+          },
+          {
+            "ns": 6,
+            "title": "File:Paris, BnF, Supplément Persan 1030 fol. 305v-306r Muhammad and Ali lead destruction of Meccan idols.jpg"
+          },
+          {
+            "ns": 6,
+            "title": "File:Portrait of the Prophet Muhammad riding the buraq steed - Google Art Project.jpg"
+          },
+          {
+            "ns": 6,
+            "title": "File:Sahadah-Topkapi-Palace.jpg"
+          },
+          {
+            "ns": 6,
+            "title": "File:Siyer-i Nebi 151b detail.png"
+          },
+          {
+            "ns": 6,
+            "title": "File:Siyer-i Nebi 298a.jpg"
+          },
+          {
+            "ns": 6,
+            "title": "File:Siyer-i Nebi 414a.jpg"
+          },
+          {
+            "ns": 6,
+            "title": "File:Siyer-i Nebi The birth of Muhammad.jpg"
+          },
+          {
+            "ns": 6,
+            "title": "File:Symbol category class.svg"
+          },
+          {
+            "ns": 6,
+            "title": "File:The Prophet Muhammad and the Muslim Army at the Battle of Uhud, from the Siyer-i Nebi, 1595.jpg"
+          },
+          {
+            "ns": 6,
+            "title": "File:Wikidata-logo.svg"
+          },
+          {
+            "ns": 6,
+            "title": "File:Wikiquote-logo.svg"
+          },
+          {
+            "ns": 6,
+            "title": "File:Wikisource-logo.svg"
+          },
+          {
+            "ns": 6,
+            "title": "File:Wikiversity logo 2017.svg"
+          },
+          {
+            "ns": 6,
+            "title": "File:Wiktionary-logo-en-v2.svg"
+          },
+          {
+            "ns": 6,
+            "title": "File:Young Muhammad meets the monk Bahira - from Jami' al-Tawarikh.jpg"
+          }
+        ],
+        "pageprops": {
+          "nomediaviewercarousel": "",
+          "page_image_free": "Al-Masjid_AL-Nabawi_Door.jpg",
+          "wikibase-shortdesc": "Founder of Islam (c. 570–632)",
+          "wikibase_item": "Q9458"
+        }
+      },
+      {
+        "pageid": 19960,
+        "ns": 0,
+        "title": "Mark Antony",
+        "original": {
+          "source": "https://upload.wikimedia.org/wikipedia/commons/d/d9/Octavian_and_Antony_denarius_%28obverse%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original",
+          "width": 395,
+          "height": 379
+        },
+        "pageimage": "Octavian_and_Antony_denarius_(obverse).jpg",
+        "images": [
+          {
+            "ns": 6,
+            "title": "File:-0035 Altes Museum Portrait Kleopatra VII anagoria.JPG"
+          },
+          {
+            "ns": 6,
+            "title": "File:1448 - Archaeological Museum, Athens - Octavia, ca. 30 BC - Photo by Giovanni Dall'Orto, Nov 13 2009.jpg"
+          },
+          {
+            "ns": 6,
+            "title": "File:Antiochia (forse), tetradracma di cleopatra VII e marcantonio, 36 ac ca.JPG"
+          },
+          {
+            "ns": 6,
+            "title": "File:Augustus Bevilacqua Glyptothek Munich 317.jpg"
+          },
+          {
+            "ns": 6,
+            "title": "File:Aureus of Antony & Octavian, 40 BC.jpg"
+          },
+          {
+            "ns": 6,
+            "title": "File:Battle of Pharsalus, 48 BC.png"
+          },
+          {
+            "ns": 6,
+            "title": "File:Busto de Catón el Joven - Museo Arqueológico de Rabat (1).jpg"
+          },
+          {
+            "ns": 6,
+            "title": "File:Caesar-Coulouris-1937.jpg"
+          },
+          {
+            "ns": 6,
+            "title": "File:Castro Battle of Actium.jpg"
+          },
+          {
+            "ns": 6,
+            "title": "File:CdM, marcantonio raffigurato come alessandro, sardonice, 40 ac. circa.JPG"
+          },
+          {
+            "ns": 6,
+            "title": "File:Cleopatra VII, Marble, 40-30 BC, Vatican Museums 001.jpg"
+          },
+          {
+            "ns": 6,
+            "title": "File:Commons-logo.svg"
+          },
+          {
+            "ns": 6,
+            "title": "File:Donations of Alexandria 34BC.gif"
+          },
+          {
+            "ns": 6,
+            "title": "File:Europe -50.png"
+          },
+          {
+            "ns": 6,
+            "title": "File:Fulvia y Marco Antonio, o La venganza de Fulvia (Museo del Prado).jpg"
+          },
+          {
+            "ns": 6,
+            "title": "File:Lucius Antonius.jpg"
+          },
+          {
+            "ns": 6,
+            "title": "File:Marble bust of Mark Antony (Vatican Museums).jpg"
+          },
+          {
+            "ns": 6,
+            "title": "File:Marc Antony's Oration at Caesar's Funeral by George Edward Robertson.jpg"
+          },
+          {
+            "ns": 6,
+            "title": "File:MarcusAntoniusCVibiusVarus.jpg"
+          },
+          {
+            "ns": 6,
+            "title": "File:Mark Antony and Octavia.jpg"
+          },
+          {
+            "ns": 6,
+            "title": "File:OOjs UI icon edit-ltr-progressive.svg"
+          },
+          {
+            "ns": 6,
+            "title": "File:Octavian and Antony denarius.jpg"
+          },
+          {
+            "ns": 6,
+            "title": "File:Octavian and Antony denarius (obverse).jpg"
+          },
+          {
+            "ns": 6,
+            "title": "File:Parthia 001ad.jpg"
+          },
+          {
+            "ns": 6,
+            "title": "File:Phil2.png"
+          },
+          {
+            "ns": 6,
+            "title": "File:Phil3.png"
+          },
+          {
+            "ns": 6,
+            "title": "File:Roman-Empire-39BC-sm.png"
+          },
+          {
+            "ns": 6,
+            "title": "File:Roman-Empire-42BC.png"
+          },
+          {
+            "ns": 6,
+            "title": "File:Roman-Empire-43BC.png"
+          },
+          {
+            "ns": 6,
+            "title": "File:Sir Lawrence Alma-Tadema - The Meeting of Antony and Cleopatra.jpg"
+          },
+          {
+            "ns": 6,
+            "title": "File:Syd 1197.jpg"
+          },
+          {
+            "ns": 6,
+            "title": "File:Symbol category class.svg"
+          },
+          {
+            "ns": 6,
+            "title": "File:Venus and Cupid from the House of Marcus Fabius Rufus at Pompeii, most likely a depiction of Cleopatra VII.jpg"
+          },
+          {
+            "ns": 6,
+            "title": "File:Vincenzo Camuccini - La morte di Cesare.jpg"
+          },
+          {
+            "ns": 6,
+            "title": "File:Wikisource-logo.svg"
+          }
+        ],
+        "pageprops": {
+          "defaultsort": "Antony, Mark",
+          "nomediaviewercarousel": "",
+          "page_image_free": "Octavian_and_Antony_denarius_(obverse).jpg",
+          "wikibase-shortdesc": "Roman politician and general (83–30 BC)",
+          "wikibase_item": "Q51673"
+        }
+      },
+      {
+        "pageid": 20665,
+        "ns": 0,
+        "title": "Minos",
+        "original": {
+          "source": "https://upload.wikimedia.org/wikipedia/commons/d/d1/Syriskos_Painter_-_ARV_259_1_-_Theseus_killing_the_Minotauros_in_the_presence_of_Minos_and_Ariadne_and_lookers_-_Athens_NAM_15115.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original",
+          "width": 3443,
+          "height": 3409
+        },
+        "pageimage": "Syriskos_Painter_-_ARV_259_1_-_Theseus_killing_the_Minotauros_in_the_presence_of_Minos_and_Ariadne_and_lookers_-_Athens_NAM_15115.jpg",
+        "images": [
+          {
+            "ns": 6,
+            "title": "File:Amphora with Theseus slaying the Minotaur.jpg"
+          },
+          {
+            "ns": 6,
+            "title": "File:Commons-logo.svg"
+          },
+          {
+            "ns": 6,
+            "title": "File:Gaziantep Zeugma Museum Daedalus mosaic 1871.jpg"
+          },
+          {
+            "ns": 6,
+            "title": "File:Henryk Siemiradzki - Orfeusz w podziemnym królestwie.jpg"
+          },
+          {
+            "ns": 6,
+            "title": "File:Illustrations to Dante's Divine Comedy object 9 Butlin 812-9Minos.jpg"
+          },
+          {
+            "ns": 6,
+            "title": "File:Knosos - 400-350 BC - silver stater - head of Ariadne - Minos - Berlin MK AM.jpg"
+          },
+          {
+            "ns": 6,
+            "title": "File:LL-Q1860 (eng)-Flame, not lame-Minos.wav"
+          },
+          {
+            "ns": 6,
+            "title": "File:Michelangelo, giudizio universale, dettagli 50.jpg"
+          },
+          {
+            "ns": 6,
+            "title": "File:Minos scylla.jpg"
+          },
+          {
+            "ns": 6,
+            "title": "File:Mural of Minos at the National And Kapodistrian University of Athens on May 22, 2022.jpg"
+          },
+          {
+            "ns": 6,
+            "title": "File:OOjs UI icon edit-ltr-progressive.svg"
+          },
+          {
+            "ns": 6,
+            "title": "File:Symbol category class.svg"
+          },
+          {
+            "ns": 6,
+            "title": "File:Syriskos Painter - ARV 259 1 - Theseus killing the Minotauros in the presence of Minos and Ariadne and lookers - Athens NAM 15115.jpg"
+          },
+          {
+            "ns": 6,
+            "title": "File:Wikisource-logo.svg"
+          }
+        ],
+        "pageprops": {
+          "page_image_free": "Syriskos_Painter_-_ARV_259_1_-_Theseus_killing_the_Minotauros_in_the_presence_of_Minos_and_Ariadne_and_lookers_-_Athens_NAM_15115.jpg",
+          "wikibase-shortdesc": "Mythological king of Crete",
+          "wikibase_item": "Q23168"
+        }
+      },
+      {
+        "pageid": 34491,
+        "ns": 0,
+        "title": "Zephaniah",
+        "original": {
+          "source": "https://upload.wikimedia.org/wikipedia/commons/c/c2/Icon_of_Zephaniah_%2817th_c.%2C_North_Russia%2C_priv._coll.%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original",
+          "width": 2000,
+          "height": 3206
+        },
+        "pageimage": "Icon_of_Zephaniah_(17th_c.,_North_Russia,_priv._coll.).jpg",
+        "images": [
+          {
+            "ns": 6,
+            "title": "File:046CupolaSPietro.jpg"
+          },
+          {
+            "ns": 6,
+            "title": "File:Commons-logo.svg"
+          },
+          {
+            "ns": 6,
+            "title": "File:Gloriole blur.svg"
+          },
+          {
+            "ns": 6,
+            "title": "File:Icon of Zephaniah (17th c., North Russia, priv. coll.).jpg"
+          },
+          {
+            "ns": 6,
+            "title": "File:OOjs UI icon edit-ltr-progressive.svg"
+          },
+          {
+            "ns": 6,
+            "title": "File:Sophonie s'adressant au peuple.jpg"
+          },
+          {
+            "ns": 6,
+            "title": "File:Wikisource-logo.svg"
+          },
+          {
+            "ns": 6,
+            "title": "File:Zephaniah.jpg"
+          }
+        ],
+        "pageprops": {
+          "page_image_free": "Icon_of_Zephaniah_(17th_c.,_North_Russia,_priv._coll.).jpg",
+          "wikibase-shortdesc": "Biblical figure",
+          "wikibase_item": "Q1761359"
+        }
+      },
+      {
+        "pageid": 37325,
+        "ns": 0,
+        "title": "Marcus Junius Brutus",
+        "original": {
+          "source": "https://upload.wikimedia.org/wikipedia/commons/f/fc/Brutusidesobv.gif?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original",
+          "width": 250,
+          "height": 240
+        },
+        "pageimage": "Brutusidesobv.gif",
+        "images": [
+          {
+            "ns": 6,
+            "title": "File:Ambox important.svg"
+          },
+          {
+            "ns": 6,
+            "title": "File:Brutus and his companions after the battle of Philippi.jpg"
+          },
+          {
+            "ns": 6,
+            "title": "File:Brutusidesobv.gif"
+          },
+          {
+            "ns": 6,
+            "title": "File:Capitoline Brutus Musei Capitolini MC1183.jpg"
+          },
+          {
+            "ns": 6,
+            "title": "File:Commons-logo.svg"
+          },
+          {
+            "ns": 6,
+            "title": "File:Edit-clear.svg"
+          },
+          {
+            "ns": 6,
+            "title": "File:Ides of March coin (2).jpg"
+          },
+          {
+            "ns": 6,
+            "title": "File:Jean-Léon Gérôme - The Death of Caesar - Walters 37884.jpg"
+          },
+          {
+            "ns": 6,
+            "title": "File:OOjs UI icon edit-ltr-progressive.svg"
+          },
+          {
+            "ns": 6,
+            "title": "File:Portrait Brutus Massimo.jpg"
+          },
+          {
+            "ns": 6,
+            "title": "File:Q. Servilius Caepio (M. Junius) Brutus, denarius, 54 BC, RRC 433-1.jpg"
+          },
+          {
+            "ns": 6,
+            "title": "File:Q. Servilius Caepio (M. Junius) Brutus, denarius, 54 BC, RRC 433-2.jpg"
+          },
+          {
+            "ns": 6,
+            "title": "File:Question book-new.svg"
+          },
+          {
+            "ns": 6,
+            "title": "File:Symbol category class.svg"
+          },
+          {
+            "ns": 6,
+            "title": "File:Vincenzo Camuccini - La morte di Cesare.jpg"
+          },
+          {
+            "ns": 6,
+            "title": "File:Wikiquote-logo.svg"
+          }
+        ],
+        "pageprops": {
+          "defaultsort": "Brutus, Marcus Junius",
+          "nomediaviewercarousel": "",
+          "page_image_free": "Brutusidesobv.gif",
+          "wikibase-shortdesc": "Roman politician and assassin of Julius Caesar (85–42 BC)",
+          "wikibase_item": "Q172248"
+        }
+      },
+      {
+        "pageid": 46605,
+        "ns": 0,
+        "title": "Demosthenes",
+        "original": {
+          "source": "https://upload.wikimedia.org/wikipedia/commons/9/94/Demosthenes_Polyeuctos_Louvre_Ma237_n01.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original",
+          "width": 2623,
+          "height": 3935
+        },
+        "pageimage": "Demosthenes_Polyeuctos_Louvre_Ma237_n01.jpg",
+        "images": [
+          {
+            "ns": 6,
+            "title": "File:AeschinesDemosthenes.jpg"
+          },
+          {
+            "ns": 6,
+            "title": "File:Alexander and Bucephalus - Battle of Issus mosaic - Museo Archeologico Nazionale - Naples BW.jpg"
+          },
+          {
+            "ns": 6,
+            "title": "File:Bust Demosthenes BM 1840.jpg"
+          },
+          {
+            "ns": 6,
+            "title": "File:Chaeronea map.png"
+          },
+          {
+            "ns": 6,
+            "title": "File:Cicero Denounces Catiline in the Roman Senate by Cesare Maccari.png"
+          },
+          {
+            "ns": 6,
+            "title": "File:Commons-logo.svg"
+          },
+          {
+            "ns": 6,
+            "title": "File:DemosthPracticing.jpg"
+          },
+          {
+            "ns": 6,
+            "title": "File:Demosthenes Polyeuctos Louvre Ma237 n01.jpg"
+          },
+          {
+            "ns": 6,
+            "title": "File:Démosthène s'exerçant à la parole (1870) by Jean-Jules-Antoine Lecomte du Nouÿ.jpg"
+          },
+          {
+            "ns": 6,
+            "title": "File:Gallipoli peninsula from space.png"
+          },
+          {
+            "ns": 6,
+            "title": "File:Global thinking.svg"
+          },
+          {
+            "ns": 6,
+            "title": "File:He lefts assembly, hiding his face in his cloak.jpg"
+          },
+          {
+            "ns": 6,
+            "title": "File:Herma Demosthenes Glyptothek Munich 292.jpg"
+          },
+          {
+            "ns": 6,
+            "title": "File:Napoli BW 2013-05-16 16-24-01.jpg"
+          },
+          {
+            "ns": 6,
+            "title": "File:OOjs UI icon edit-ltr-progressive.svg"
+          },
+          {
+            "ns": 6,
+            "title": "File:Philip II of Macedon CdM.jpg"
+          },
+          {
+            "ns": 6,
+            "title": "File:Speaker Icon.svg"
+          },
+          {
+            "ns": 6,
+            "title": "File:Symbol category class.svg"
+          },
+          {
+            "ns": 6,
+            "title": "File:Symbol portal class.svg"
+          },
+          {
+            "ns": 6,
+            "title": "File:Temple of Poseidon Poros.jpg"
+          },
+          {
+            "ns": 6,
+            "title": "File:Wikiquote-logo.svg"
+          },
+          {
+            "ns": 6,
+            "title": "File:Wikisource-logo.svg"
+          }
+        ],
+        "pageprops": {
+          "defaultsort": "Demosthenes",
+          "page_image_free": "Demosthenes_Polyeuctos_Louvre_Ma237_n01.jpg",
+          "wikibase-shortdesc": "Classical Athenian statesman and orator (384–322 BC)",
+          "wikibase_item": "Q117253"
+        }
+      },
+      {
+        "pageid": 74655,
+        "ns": 0,
+        "title": "Gratian",
+        "original": {
+          "source": "https://upload.wikimedia.org/wikipedia/commons/a/a5/Gratian_Trier_enhanced.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original",
+          "width": 2736,
+          "height": 3648
+        },
+        "pageimage": "Gratian_Trier_enhanced.jpg",
+        "images": [
+          {
+            "ns": 6,
+            "title": "File:Alemanni expansion.png"
+          },
+          {
+            "ns": 6,
+            "title": "File:Byzantine imperial flag, 14th century, square.svg"
+          },
+          {
+            "ns": 6,
+            "title": "File:Commons-logo.svg"
+          },
+          {
+            "ns": 6,
+            "title": "File:Flag of Palaeologus Dynasty.svg"
+          },
+          {
+            "ns": 6,
+            "title": "File:Gratian Trier enhanced.jpg"
+          },
+          {
+            "ns": 6,
+            "title": "File:Gratiancng721842.jpg"
+          },
+          {
+            "ns": 6,
+            "title": "File:INC-3045-r Солид. Грациан. Ок. 367—375 гг. (реверс).png"
+          },
+          {
+            "ns": 6,
+            "title": "File:Marble head of a Young Gratian. C. late 4th century A.D..png"
+          },
+          {
+            "ns": 6,
+            "title": "File:OOjs UI icon edit-ltr-progressive.svg"
+          },
+          {
+            "ns": 6,
+            "title": "File:Theodosius1cng11100822.jpg"
+          },
+          {
+            "ns": 6,
+            "title": "File:Valentinian1cng99000738.jpg"
+          }
+        ],
+        "pageprops": {
+          "nomediaviewercarousel": "",
+          "page_image_free": "Gratian_Trier_enhanced.jpg",
+          "wikibase-shortdesc": "Roman emperor from 367 to 383",
+          "wikibase_item": "Q189108"
+        }
+      },
+      {
+        "pageid": 74663,
+        "ns": 0,
+        "title": "Valentinian II",
+        "original": {
+          "source": "https://upload.wikimedia.org/wikipedia/commons/c/c5/Statue_of_emperor_Valentinian_II.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original",
+          "width": 1704,
+          "height": 2560
+        },
+        "pageimage": "Statue_of_emperor_Valentinian_II.JPG",
+        "images": [
+          {
+            "ns": 6,
+            "title": "File:Commons-logo.svg"
+          },
+          {
+            "ns": 6,
+            "title": "File:Disc of Theodosius (Valentinian II).png"
+          },
+          {
+            "ns": 6,
+            "title": "File:INC-2965-a Солид. Валентиниан II. Ок. 388—392 гг. (аверс).png"
+          },
+          {
+            "ns": 6,
+            "title": "File:OOjs UI icon edit-ltr-progressive.svg"
+          },
+          {
+            "ns": 6,
+            "title": "File:Solidus of Valentinian II, AD 390.png"
+          },
+          {
+            "ns": 6,
+            "title": "File:Statue of emperor Valentinian II.JPG"
+          },
+          {
+            "ns": 6,
+            "title": "File:Valentinian II, Aphrodisias.jpg"
+          },
+          {
+            "ns": 6,
+            "title": "File:Wikisource-logo.svg"
+          }
+        ],
+        "pageprops": {
+          "defaultsort": "Valentinian 02",
+          "nomediaviewercarousel": "",
+          "page_image_free": "Statue_of_emperor_Valentinian_II.JPG",
+          "wikibase-shortdesc": "Roman emperor from 375 to 392",
+          "wikibase_item": "Q46846"
+        }
+      },
+      {
+        "pageid": 165457,
+        "ns": 0,
+        "title": "Lucian",
+        "images": [
+          {
+            "ns": 6,
+            "title": "File:Atargatis, Nabatean, c.100 AD, Jordan Archaeological Museum.jpg"
+          },
+          {
+            "ns": 6,
+            "title": "File:Cicero Denounces Catiline in the Roman Senate by Cesare Maccari.png"
+          },
+          {
+            "ns": 6,
+            "title": "File:Commons-logo.svg"
+          },
+          {
+            "ns": 6,
+            "title": "File:Epicurus Louvre.jpg"
+          },
+          {
+            "ns": 6,
+            "title": "File:Global thinking.svg"
+          },
+          {
+            "ns": 6,
+            "title": "File:Glycon.JPG"
+          },
+          {
+            "ns": 6,
+            "title": "File:Lock-green.svg"
+          },
+          {
+            "ns": 6,
+            "title": "File:Lucian of Samosata.png"
+          },
+          {
+            "ns": 6,
+            "title": "File:Nordkirchen-100415-12241-Lucian.jpg"
+          },
+          {
+            "ns": 6,
+            "title": "File:OOjs UI icon edit-ltr-progressive.svg"
+          },
+          {
+            "ns": 6,
+            "title": "File:P vip.svg"
+          },
+          {
+            "ns": 6,
+            "title": "File:Parthenon from west.jpg"
+          },
+          {
+            "ns": 6,
+            "title": "File:Red pog.svg"
+          },
+          {
+            "ns": 6,
+            "title": "File:Sandro Botticelli La calumnia de Apeles.jpg"
+          },
+          {
+            "ns": 6,
+            "title": "File:Speaker Icon.svg"
+          },
+          {
+            "ns": 6,
+            "title": "File:Statue Hermes Chiaramonti.jpg"
+          },
+          {
+            "ns": 6,
+            "title": "File:Symbol category class.svg"
+          },
+          {
+            "ns": 6,
+            "title": "File:Symbol portal class.svg"
+          },
+          {
+            "ns": 6,
+            "title": "File:Symbol support vote.svg"
+          },
+          {
+            "ns": 6,
+            "title": "File:Turkey adm location map.svg"
+          },
+          {
+            "ns": 6,
+            "title": "File:Wikiquote-logo.svg"
+          },
+          {
+            "ns": 6,
+            "title": "File:Wikisource-logo.svg"
+          },
+          {
+            "ns": 6,
+            "title": "File:William Strang spider battle in 1894 True History.svg"
+          }
+        ],
+        "pageprops": {
+          "wikibase-badge-Q17437798": "",
+          "wikibase-shortdesc": "2nd-century Syrian satirist and rhetorician",
+          "wikibase_item": "Q177847"
+        }
+      },
+      {
+        "pageid": 169915,
+        "ns": 0,
+        "title": "Lucius Junius Brutus",
+        "original": {
+          "source": "https://upload.wikimedia.org/wikipedia/commons/5/51/M._Junius_Brutus%2C_denarius%2C_54_BC%2C_RRC_433-2_%28obverse_L._Junius%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original",
+          "width": 414,
+          "height": 380
+        },
+        "pageimage": "M._Junius_Brutus,_denarius,_54_BC,_RRC_433-2_(obverse_L._Junius).jpg",
+        "images": [
+          {
+            "ns": 6,
+            "title": "File:Capitoline Brutus Musei Capitolini MC1183.jpg"
+          },
+          {
+            "ns": 6,
+            "title": "File:Commons-logo.svg"
+          },
+          {
+            "ns": 6,
+            "title": "File:David Brutus.jpg"
+          },
+          {
+            "ns": 6,
+            "title": "File:François-Joseph Navez001.jpg"
+          },
+          {
+            "ns": 6,
+            "title": "File:James Northcote (1746-1831) - Edmund Kean - NPG 6088 - National Portrait Gallery.jpg"
+          },
+          {
+            "ns": 6,
+            "title": "File:M. Junius Brutus, Aureus, 42 BC, RRC 506-1.jpg"
+          },
+          {
+            "ns": 6,
+            "title": "File:M. Junius Brutus, denarius, 54 BC, RRC 433-2 (obverse L. Junius).jpg"
+          },
+          {
+            "ns": 6,
+            "title": "File:OOjs UI icon edit-ltr-progressive.svg"
+          }
+        ],
+        "pageprops": {
+          "defaultsort": "Junius Brutus, Lucius",
+          "page_image_free": "M._Junius_Brutus,_denarius,_54_BC,_RRC_433-2_(obverse_L._Junius).jpg",
+          "wikibase-shortdesc": "Semi-legendary 6th-century BC founder of Roman Republic",
+          "wikibase_item": "Q223440"
+        }
+      },
+      {
+        "pageid": 364899,
+        "ns": 0,
+        "title": "Ermanaric",
+        "original": {
+          "source": "https://upload.wikimedia.org/wikipedia/commons/2/23/Chernyakhov.PNG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original",
+          "width": 777,
+          "height": 471
+        },
+        "pageimage": "Chernyakhov.PNG",
+        "images": [
+          {
+            "ns": 6,
+            "title": "File:Chernyakhov.PNG"
+          },
+          {
+            "ns": 6,
+            "title": "File:Imperio Romano.jpg"
+          },
+          {
+            "ns": 6,
+            "title": "File:OOjs UI icon edit-ltr-progressive.svg"
+          }
+        ],
+        "pageprops": {
+          "defaultsort": "Ermanaric",
+          "page_image_free": "Chernyakhov.PNG",
+          "wikibase-shortdesc": "4th-century king of the Goths",
+          "wikibase_item": "Q28987"
+        }
+      },
+      {
+        "pageid": 1371873,
+        "ns": 0,
+        "title": "Zosimus",
+        "images": [
+          {
+            "ns": 6,
+            "title": "File:Disambig gray.svg"
+          }
+        ],
+        "pageprops": {
+          "disambiguation": "",
+          "expectshortpage": "",
+          "wikibase-shortdesc": "Topics referred to by the same term",
+          "wikibase_item": "Q119166668"
+        }
+      },
+      {
+        "pageid": 1401089,
+        "ns": 0,
+        "title": "Eutropius (historian)",
+        "original": {
+          "source": "https://upload.wikimedia.org/wikipedia/commons/d/df/Miniature_of_Eutropius.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original",
+          "width": 356,
+          "height": 660
+        },
+        "pageimage": "Miniature_of_Eutropius.jpg",
+        "images": [
+          {
+            "ns": 6,
+            "title": "File:Commons-logo.svg"
+          },
+          {
+            "ns": 6,
+            "title": "File:Miniature of Eutropius.jpg"
+          },
+          {
+            "ns": 6,
+            "title": "File:OOjs UI icon edit-ltr-progressive.svg"
+          },
+          {
+            "ns": 6,
+            "title": "File:Wikisource-logo.svg"
+          }
+        ],
+        "pageprops": {
+          "page_image_free": "Miniature_of_Eutropius.jpg",
+          "wikibase-shortdesc": "4th century Roman historian and official",
+          "wikibase_item": "Q314694"
+        }
+      },
+      {
+        "pageid": 2393949,
+        "ns": 0,
+        "title": "Justina (empress)",
+        "images": [
+          {
+            "ns": 6,
+            "title": "File:INC-1558-a Солид Валентиниан I ок. 364-367 гг. (аверс).png"
+          },
+          {
+            "ns": 6,
+            "title": "File:OOjs UI icon edit-ltr-progressive.svg"
+          }
+        ],
+        "pageprops": {
+          "wikibase-shortdesc": "Roman empress c. 370–375",
+          "wikibase_item": "Q254471"
+        }
+      },
+      {
+        "pageid": 2536973,
+        "ns": 0,
+        "title": "Pap of Armenia",
+        "images": [
+          {
+            "ns": 6,
+            "title": "File:General (Sparapet) Mushegh Mamikonian (right), the King Pap and Armenian cavalry soldiers. Miniature from the 16th century..jpg"
+          },
+          {
+            "ns": 6,
+            "title": "File:Nerses.jpg"
+          },
+          {
+            "ns": 6,
+            "title": "File:OOjs UI icon edit-ltr-progressive.svg"
+          },
+          {
+            "ns": 6,
+            "title": "File:Symbol support vote.svg"
+          }
+        ],
+        "pageprops": {
+          "wikibase-badge-Q17437798": "",
+          "wikibase-shortdesc": "King of Armenia from 370 to 374",
+          "wikibase_item": "Q936761"
+        }
+      },
+      {
+        "pageid": 8102563,
+        "ns": 0,
+        "title": "Marcellinus (magister officiorum)",
+        "original": {
+          "source": "https://upload.wikimedia.org/wikipedia/commons/5/5a/Double_Centenionalis_Magnentius-XR-s4017.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original",
+          "width": 557,
+          "height": 269
+        },
+        "pageimage": "Double_Centenionalis_Magnentius-XR-s4017.jpg",
+        "images": [
+          {
+            "ns": 6,
+            "title": "File:Centenionalis-Nepotianus-rome RIC 200.2.jpg"
+          },
+          {
+            "ns": 6,
+            "title": "File:Double Centenionalis Magnentius-XR-s4017.jpg"
+          },
+          {
+            "ns": 6,
+            "title": "File:Julius Caesar.jpg"
+          }
+        ],
+        "pageprops": {
+          "defaultsort": "Marcellinus",
+          "notoc": "",
+          "page_image_free": "Double_Centenionalis_Magnentius-XR-s4017.jpg",
+          "wikibase_item": "Q671320"
+        }
+      },
+      {
+        "pageid": 9324927,
+        "ns": 0,
+        "title": "Richomeres",
+        "pageprops": {
+          "wikibase-shortdesc": "4th century Roman army officer",
+          "wikibase_item": "Q741377"
+        }
+      },
+      {
+        "pageid": 15412023,
+        "ns": 0,
+        "title": "Mallobaudes",
+        "images": [
+          {
+            "ns": 6,
+            "title": "File:OOjs UI icon edit-ltr-progressive.svg"
+          },
+          {
+            "ns": 6,
+            "title": "File:Question book-new.svg"
+          }
+        ],
+        "pageprops": {
+          "wikibase-shortdesc": "Fourth-century Frankish ruler",
+          "wikibase_item": "Q982667"
+        }
+      },
+      {
+        "pageid": 15463814,
+        "ns": 0,
+        "title": "Marina Severa",
+        "original": {
+          "source": "https://upload.wikimedia.org/wikipedia/commons/7/79/Severa%2C_wife_of_Valentinian_I.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original",
+          "width": 256,
+          "height": 349
+        },
+        "pageimage": "Severa,_wife_of_Valentinian_I.png",
+        "images": [
+          {
+            "ns": 6,
+            "title": "File:Severa, wife of Valentinian I.png"
+          }
+        ],
+        "pageprops": {
+          "defaultsort": "Severa, Marina",
+          "page_image_free": "Severa,_wife_of_Valentinian_I.png",
+          "wikibase-shortdesc": "Roman empress from 364 to 370",
+          "wikibase_item": "Q1233341"
+        }
+      },
+      {
+        "pageid": 19179497,
+        "ns": 0,
+        "title": "Mithridates VI Eupator",
+        "original": {
+          "source": "https://upload.wikimedia.org/wikipedia/commons/0/06/Mithridates_VI_Louvre.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original",
+          "width": 1944,
+          "height": 2592
+        },
+        "pageimage": "Mithridates_VI_Louvre.jpg",
+        "images": [
+          {
+            "ns": 6,
+            "title": "File:Bellum mithridaticum 87-86aC.png"
+          },
+          {
+            "ns": 6,
+            "title": "File:Commons-logo.svg"
+          },
+          {
+            "ns": 6,
+            "title": "File:De medicina V00117 00000006.tif"
+          },
+          {
+            "ns": 6,
+            "title": "File:Mithridates VI Louvre.jpg"
+          },
+          {
+            "ns": 6,
+            "title": "File:OOjs UI icon edit-ltr-progressive.svg"
+          },
+          {
+            "ns": 6,
+            "title": "File:PonticKingdom.png"
+          },
+          {
+            "ns": 6,
+            "title": "File:Q. Pompeius Rufus, denarius, 54 BC, RRC 434-1 (Sulla only).jpg"
+          },
+          {
+            "ns": 6,
+            "title": "File:Question book-new.svg"
+          }
+        ],
+        "pageprops": {
+          "page_image_free": "Mithridates_VI_Louvre.jpg",
+          "wikibase-shortdesc": "King of Pontus from 120 to 63 BC",
+          "wikibase_item": "Q185126"
+        }
+      },
+      {
+        "pageid": 22320943,
+        "ns": 0,
+        "title": "Equitius",
+        "images": [
+          {
+            "ns": 6,
+            "title": "File:046CupolaSPietro.jpg"
+          },
+          {
+            "ns": 6,
+            "title": "File:Flag of Italy.svg"
+          },
+          {
+            "ns": 6,
+            "title": "File:Gloriole blur.svg"
+          },
+          {
+            "ns": 6,
+            "title": "File:P vip.svg"
+          }
+        ],
+        "pageprops": {
+          "wikibase_item": "Q3730957"
+        }
+      },
+      {
+        "pageid": 25664190,
+        "ns": 0,
+        "title": "Socrates",
+        "original": {
+          "source": "https://upload.wikimedia.org/wikipedia/commons/a/a4/Socrates_Louvre.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original",
+          "width": 1944,
+          "height": 2592
+        },
+        "pageimage": "Socrates_Louvre.jpg",
+        "images": [
+          {
+            "ns": 6,
+            "title": "File:Alcibades being taught by Socrates, François-André Vincent.jpg"
+          },
+          {
+            "ns": 6,
+            "title": "File:Battle of Potidaea Socrates saving Alcibiades (detail).jpg"
+          },
+          {
+            "ns": 6,
+            "title": "File:Commons-logo.svg"
+          },
+          {
+            "ns": 6,
+            "title": "File:David - The Death of Socrates.jpg"
+          },
+          {
+            "ns": 6,
+            "title": "File:Delfi Apollons tempel.jpg"
+          },
+          {
+            "ns": 6,
+            "title": "File:Euthyphro Stephanus 1578 p 2.jpg"
+          },
+          {
+            "ns": 6,
+            "title": "File:Global thinking.svg"
+          },
+          {
+            "ns": 6,
+            "title": "File:OOjs UI icon edit-ltr-progressive.svg"
+          },
+          {
+            "ns": 6,
+            "title": "File:P vip.svg"
+          },
+          {
+            "ns": 6,
+            "title": "File:Parthenon from west.jpg"
+          },
+          {
+            "ns": 6,
+            "title": "File:People icon.svg"
+          },
+          {
+            "ns": 6,
+            "title": "File:Question book-new.svg"
+          },
+          {
+            "ns": 6,
+            "title": "File:Reyer Jacobsz. van Blommendael, Socrate, ses deux épouses et Alcibiade, 1675. Huile sur toile, 210 x 198 cm. Strasbourg, Musée des Beaux-Art.jpg"
+          },
+          {
+            "ns": 6,
+            "title": "File:Semi-protection-shackle.svg"
+          },
+          {
+            "ns": 6,
+            "title": "File:Socrates.png"
+          },
+          {
+            "ns": 6,
+            "title": "File:SocratesCarnelianGemImprintRome1stBCE1stCE.jpg"
+          },
+          {
+            "ns": 6,
+            "title": "File:Socrates Efes Museum.JPG"
+          },
+          {
+            "ns": 6,
+            "title": "File:Socrates Louvre.jpg"
+          },
+          {
+            "ns": 6,
+            "title": "File:Socrates Pio-Clementino Inv314.jpg"
+          },
+          {
+            "ns": 6,
+            "title": "File:Socrates and Alcibiades, Christoffer Wilhelm Eckersberg.jpg"
+          },
+          {
+            "ns": 6,
+            "title": "File:Socrates en Biblioteca Nacional.JPG"
+          },
+          {
+            "ns": 6,
+            "title": "File:Sughrat.jpg"
+          },
+          {
+            "ns": 6,
+            "title": "File:Symbol category class.svg"
+          },
+          {
+            "ns": 6,
+            "title": "File:Symbol portal class.svg"
+          },
+          {
+            "ns": 6,
+            "title": "File:Symbol support vote.svg"
+          },
+          {
+            "ns": 6,
+            "title": "File:The Debate Of Socrates And Aspasia (2).jpg"
+          },
+          {
+            "ns": 6,
+            "title": "File:UWASocrates gobeirne cropped.jpg"
+          },
+          {
+            "ns": 6,
+            "title": "File:Wikidata-logo.svg"
+          },
+          {
+            "ns": 6,
+            "title": "File:Wikiquote-logo.svg"
+          },
+          {
+            "ns": 6,
+            "title": "File:Wikisource-logo.svg"
+          }
+        ],
+        "pageprops": {
+          "page_image_free": "Socrates_Louvre.jpg",
+          "toc": "",
+          "wikibase-badge-Q17437798": "",
+          "wikibase-shortdesc": "Ancient Greek philosopher (c. 470–399 BC)",
+          "wikibase_item": "Q913"
+        }
+      },
+      {
+        "pageid": 26825385,
+        "ns": 0,
+        "title": "Traianus (magister peditum)",
+        "images": [
+          {
+            "ns": 6,
+            "title": "File:Question book-new.svg"
+          },
+          {
+            "ns": 6,
+            "title": "File:Valens Honorius Musei Capitolini MC494.jpg"
+          }
+        ],
+        "pageprops": {
+          "displaytitle": "Traianus (<i>magister peditum</i>)",
+          "wikibase-shortdesc": "Roman army officer (died 378)",
+          "wikibase_item": "Q1292158"
+        }
+      },
+      {
+        "pageid": 36477356,
+        "ns": 0,
+        "title": "Victor (magister equitum)",
+        "pageprops": {
+          "displaytitle": "Victor (<i>magister equitum</i>)",
+          "wikibase-shortdesc": "Roman army officer and politician",
+          "wikibase_item": "Q18874"
+        }
+      },
+      {
+        "pageid": 36566480,
+        "ns": 0,
+        "title": "Aspasius Paternus",
+        "pageprops": {
+          "defaultsort": "Aspasius Paternus",
+          "wikibase-shortdesc": "3rd century Roman senator and governor",
+          "wikibase_item": "Q550504"
+        }
+      },
+      {
+        "pageid": 36692019,
+        "ns": 0,
+        "title": "Parandzem",
+        "original": {
+          "source": "https://upload.wikimedia.org/wikipedia/commons/1/1a/Last_Battle_of_Queen_Pharandzem.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original",
+          "width": 2096,
+          "height": 2905
+        },
+        "pageimage": "Last_Battle_of_Queen_Pharandzem.jpg",
+        "images": [
+          {
+            "ns": 6,
+            "title": "File:Last Battle of Queen Pharandzem.jpg"
+          },
+          {
+            "ns": 6,
+            "title": "File:OOjs UI icon edit-ltr-progressive.svg"
+          }
+        ],
+        "pageprops": {
+          "page_image_free": "Last_Battle_of_Queen_Pharandzem.jpg",
+          "wikibase-shortdesc": "4th-century Armenian queen",
+          "wikibase_item": "Q2750254"
+        }
+      },
+      {
+        "pageid": 56874256,
+        "ns": 0,
+        "title": "Vindicius",
+        "images": [
+          {
+            "ns": 6,
+            "title": "File:Julius Caesar.jpg"
+          },
+          {
+            "ns": 6,
+            "title": "File:KHM - Iupiter Dolichenus Mauer Statue 2 Victoria.jpg"
+          }
+        ],
+        "pageprops": {
+          "wikibase-shortdesc": "Roman slave who exposed king Tarquin's plot to regain throne",
+          "wikibase_item": "Q3559987"
+        }
+      }
+    ]
+  },
+  "limits": {
+    "images": 500
+  }
+}

@@ -1,0 +1,217 @@
+{
+  "batchcomplete": true,
+  "query": {
+    "pages": [
+      {
+        "pageid": 40949993,
+        "ns": 6,
+        "title": "File:Khosrov II of Armenia killed by Anak.jpg",
+        "imagerepository": "local",
+        "imageinfo": [
+          {
+            "size": 3393727,
+            "width": 2033,
+            "height": 3217,
+            "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c1/Khosrov_II_of_Armenia_killed_by_Anak.jpg/1920px-Khosrov_II_of_Armenia_killed_by_Anak.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+            "thumbwidth": 1600,
+            "thumbheight": 2532,
+            "responsiveUrls": {
+              "2": "https://upload.wikimedia.org/wikipedia/commons/c/c1/Khosrov_II_of_Armenia_killed_by_Anak.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled"
+            },
+            "thumbattribs": {
+              "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c1/Khosrov_II_of_Armenia_killed_by_Anak.jpg/1920px-Khosrov_II_of_Armenia_killed_by_Anak.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+              "decoding": "async",
+              "loading": "lazy",
+              "width": 1600,
+              "height": 2532,
+              "srcset": "https://upload.wikimedia.org/wikipedia/commons/c/c1/Khosrov_II_of_Armenia_killed_by_Anak.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled 2x"
+            },
+            "url": "https://upload.wikimedia.org/wikipedia/commons/c/c1/Khosrov_II_of_Armenia_killed_by_Anak.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:Khosrov_II_of_Armenia_killed_by_Anak.jpg",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=40949993",
+            "sha1": "c796448f24e57348a0c01c39dc05c71f96502e03",
+            "extmetadata": {
+              "DateTime": {
+                "value": "2015-06-13 21:25:51",
+                "source": "mediawiki-metadata",
+                "hidden": ""
+              },
+              "ObjectName": {
+                "value": "Khosrov II of Armenia killed by Anak",
+                "source": "mediawiki-metadata"
+              },
+              "CommonsMetadataExtension": {
+                "value": 1.2,
+                "source": "extension",
+                "hidden": ""
+              },
+              "Categories": {
+                "value": "Khosrov II of Armenia|PD Old|CC-PD-Mark|PD-old missing SDC copyright status|The experience of writing of the history of the Kingdom of Armenia",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "Assessments": {
+                "value": "",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "ImageDescription": {
+                "value": "Царь Армении Хосров II, убитый Анаком.",
+                "source": "commons-desc-page"
+              },
+              "DateTimeOriginal": {
+                "value": "1827",
+                "source": "commons-desc-page"
+              },
+              "Credit": {
+                "value": "Yakov Arzanov and David Arzanov // «The experience of writing of the hostory of the Kingdom of Armenia» (Яков и Давид Арзановы // «Опыт написания истории Армянского царства»)",
+                "source": "commons-desc-page"
+              },
+              "Artist": {
+                "value": "Yakov Arzanov and David Arzanov",
+                "source": "commons-desc-page"
+              },
+              "LicenseShortName": {
+                "value": "Public domain",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "UsageTerms": {
+                "value": "Public domain",
+                "source": "commons-desc-page"
+              },
+              "AttributionRequired": {
+                "value": "false",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Copyrighted": {
+                "value": "False",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Restrictions": {
+                "value": "",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "License": {
+                "value": "pd",
+                "source": "commons-templates",
+                "hidden": ""
+              }
+            },
+            "mime": "image/jpeg"
+          }
+        ]
+      },
+      {
+        "pageid": 182916066,
+        "ns": 6,
+        "title": "File:Gothic king Cniva and Emperor Decius at the battle of Abritus.jpg",
+        "imagerepository": "local",
+        "imageinfo": [
+          {
+            "size": 4535851,
+            "width": 2821,
+            "height": 3941,
+            "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6a/Gothic_king_Cniva_and_Emperor_Decius_at_the_battle_of_Abritus.jpg/1920px-Gothic_king_Cniva_and_Emperor_Decius_at_the_battle_of_Abritus.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+            "thumbwidth": 1600,
+            "thumbheight": 2235,
+            "responsiveUrls": {
+              "2": "https://upload.wikimedia.org/wikipedia/commons/6/6a/Gothic_king_Cniva_and_Emperor_Decius_at_the_battle_of_Abritus.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled"
+            },
+            "thumbattribs": {
+              "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6a/Gothic_king_Cniva_and_Emperor_Decius_at_the_battle_of_Abritus.jpg/1920px-Gothic_king_Cniva_and_Emperor_Decius_at_the_battle_of_Abritus.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+              "decoding": "async",
+              "loading": "lazy",
+              "width": 1600,
+              "height": 2235,
+              "srcset": "https://upload.wikimedia.org/wikipedia/commons/6/6a/Gothic_king_Cniva_and_Emperor_Decius_at_the_battle_of_Abritus.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled 2x"
+            },
+            "url": "https://upload.wikimedia.org/wikipedia/commons/6/6a/Gothic_king_Cniva_and_Emperor_Decius_at_the_battle_of_Abritus.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:Gothic_king_Cniva_and_Emperor_Decius_at_the_battle_of_Abritus.jpg",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=182916066",
+            "sha1": "61de64b1853ccc64e7cda96cdb5dcae68401f9e0",
+            "extmetadata": {
+              "DateTime": {
+                "value": "2026-02-01 23:13:35",
+                "source": "mediawiki-metadata",
+                "hidden": ""
+              },
+              "ObjectName": {
+                "value": "Gothic king Cniva and Emperor Decius at the battle of Abritus",
+                "source": "mediawiki-metadata"
+              },
+              "CommonsMetadataExtension": {
+                "value": 1.2,
+                "source": "extension",
+                "hidden": ""
+              },
+              "Categories": {
+                "value": "CC-Zero|Roman Empire|Decius|Crisis of the Third Century|Late Roman army|Self-published work|Gothic War (248–253)|Battle of Abritus|Decius in art",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "Assessments": {
+                "value": "",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "ImageDescription": {
+                "value": "Illustration of Gothic king Cniva and Emperor Decius at the battle of Abritus by pigeonduckthing",
+                "source": "commons-desc-page"
+              },
+              "DateTimeOriginal": {
+                "value": "2025-12-08 09:56:29",
+                "source": "commons-desc-page"
+              },
+              "Credit": {
+                "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+                "source": "commons-desc-page"
+              },
+              "Artist": {
+                "value": "<a href=\"//commons.wikimedia.org/wiki/User:Rowyn_flowerdew\" title=\"User:Rowyn flowerdew\">Rowyn flowerdew</a>",
+                "source": "commons-desc-page"
+              },
+              "LicenseShortName": {
+                "value": "CC0",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "UsageTerms": {
+                "value": "Creative Commons Zero, Public Domain Dedication",
+                "source": "commons-desc-page"
+              },
+              "AttributionRequired": {
+                "value": "false",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "LicenseUrl": {
+                "value": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+                "source": "commons-desc-page"
+              },
+              "Copyrighted": {
+                "value": "True",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Restrictions": {
+                "value": "",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "License": {
+                "value": "cc0",
+                "source": "commons-templates",
+                "hidden": ""
+              }
+            },
+            "mime": "image/jpeg"
+          }
+        ]
+      }
+    ]
+  }
+}

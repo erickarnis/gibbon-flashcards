@@ -1,0 +1,501 @@
+{
+  "person_id": "flavius-optatus",
+  "query": "Flavius Optatus",
+  "response": {
+    "batchcomplete": true,
+    "continue": {
+      "gsroffset": 5,
+      "continue": "gsroffset||"
+    },
+    "query": {
+      "pages": [
+        {
+          "pageid": 468402,
+          "ns": 6,
+          "title": "File:Kalender.jpg",
+          "index": 1,
+          "imagerepository": "local",
+          "imageinfo": [
+            {
+              "size": 308947,
+              "width": 1224,
+              "height": 1496,
+              "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b6/Kalender.jpg/500px-Kalender.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+              "thumbwidth": 400,
+              "thumbheight": 489,
+              "responsiveUrls": {
+                "2": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b6/Kalender.jpg/960px-Kalender.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+              },
+              "thumbattribs": {
+                "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b6/Kalender.jpg/500px-Kalender.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+                "decoding": "async",
+                "loading": "lazy",
+                "width": 400,
+                "height": 489,
+                "srcset": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b6/Kalender.jpg/960px-Kalender.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail 2x"
+              },
+              "url": "https://upload.wikimedia.org/wikipedia/commons/b/b6/Kalender.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+              "descriptionurl": "https://commons.wikimedia.org/wiki/File:Kalender.jpg",
+              "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=468402",
+              "extmetadata": {
+                "DateTime": {
+                  "value": "2007-04-04 20:35:22",
+                  "source": "mediawiki-metadata",
+                  "hidden": ""
+                },
+                "ObjectName": {
+                  "value": "Kalender",
+                  "source": "mediawiki-metadata"
+                },
+                "CommonsMetadataExtension": {
+                  "value": 1.2,
+                  "source": "extension",
+                  "hidden": ""
+                },
+                "Categories": {
+                  "value": "GFDL|Lucius Cornelius Lentulus|Gnaeus Cornelius Lentulus Clodianus|Aelius Caesar|Aulus Plautius|Paullus Fabius Maximus|Iullus Antonius|Cnaeus Calpurnius Piso|Gaius Sosius|Gens Caesonia|Decimus Laelius|Africanus Fabius Maximus|License migration redundant|Self-published work|Roman calendar (pre-Julian calendar)|Marcus Aemilius Lepidus (consul 187 BC)|Ancient Roman inscriptions in the Museo delle Terme di Diocleziano|AE 1937, 0062|AE 1938, 0066|AE 2002, 0206|CIL VI 010286|CIL VI 010287|Caius Memmius|Caius Valgius Rufus|Cnaeus Arrius Augur|Cossus Cornelius|Fasti magistrorum vici|Lucius Marcius|Marcus Plautius|Paulus Aemilius|Publius Cornelius Lentulus Sura|Quintus Aelius Tubero|Quintus Aemilius|Quintus Fabricius",
+                  "source": "commons-categories",
+                  "hidden": ""
+                },
+                "Assessments": {
+                  "value": "",
+                  "source": "commons-categories",
+                  "hidden": ""
+                },
+                "ImageDescription": {
+                  "value": "<b>Fragment of an imperial-age consular <a href=\"https://en.wikipedia.org/wiki/en:Fasti\" class=\"extiw\" title=\"w:en:Fasti\">fasti</a></b> (<a href=\"https://en.wikipedia.org/wiki/en:Roman_calendar\" class=\"extiw\" title=\"w:en:Roman calendar\">Roman calendar</a>) (<a href=\"https://en.wikipedia.org/wiki/en:Corpus_Inscriptionum_Latinarum\" class=\"extiw\" title=\"w:en:Corpus Inscriptionum Latinarum\">Corpus Inscriptionum Latinarum (CIL) I</a>, CIL VI), Museo Epigrafico, Rome",
+                  "source": "commons-desc-page"
+                },
+                "DateTimeOriginal": {
+                  "value": "2005-12-19",
+                  "source": "commons-desc-page"
+                },
+                "Credit": {
+                  "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+                  "source": "commons-desc-page"
+                },
+                "Artist": {
+                  "value": "Foto: <a href=\"//commons.wikimedia.org/wiki/User:Kleuske\" title=\"User:Kleuske\">Kleuske</a>",
+                  "source": "commons-desc-page"
+                },
+                "LicenseShortName": {
+                  "value": "CC BY 2.5",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "UsageTerms": {
+                  "value": "Creative Commons Attribution 2.5",
+                  "source": "commons-desc-page"
+                },
+                "AttributionRequired": {
+                  "value": "true",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "LicenseUrl": {
+                  "value": "https://creativecommons.org/licenses/by/2.5",
+                  "source": "commons-desc-page"
+                },
+                "Copyrighted": {
+                  "value": "True",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "Restrictions": {
+                  "value": "",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "License": {
+                  "value": "cc-by-2.5",
+                  "source": "commons-templates",
+                  "hidden": ""
+                }
+              }
+            }
+          ]
+        },
+        {
+          "pageid": 64060294,
+          "ns": 6,
+          "title": "File:Gallia christiana 08.pdf",
+          "index": 4,
+          "imagerepository": "local",
+          "imageinfo": [
+            {
+              "size": 71919454,
+              "width": 625,
+              "height": 983,
+              "pagecount": 586,
+              "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d6/Gallia_christiana_08.pdf/page1-500px-Gallia_christiana_08.pdf.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+              "thumbwidth": 400,
+              "thumbheight": 629,
+              "thumbattribs": {
+                "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d6/Gallia_christiana_08.pdf/page1-500px-Gallia_christiana_08.pdf.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+                "decoding": "async",
+                "loading": "lazy",
+                "width": 400,
+                "height": 629
+              },
+              "url": "https://upload.wikimedia.org/wikipedia/commons/d/d6/Gallia_christiana_08.pdf?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+              "descriptionurl": "https://commons.wikimedia.org/wiki/File:Gallia_christiana_08.pdf",
+              "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=64060294",
+              "extmetadata": {
+                "DateTime": {
+                  "value": "2017-11-14 12:59:17",
+                  "source": "mediawiki-metadata",
+                  "hidden": ""
+                },
+                "ObjectName": {
+                  "value": "Gallia christiana 08",
+                  "source": "mediawiki-metadata"
+                },
+                "CommonsMetadataExtension": {
+                  "value": 1.2,
+                  "source": "extension",
+                  "hidden": ""
+                },
+                "Categories": {
+                  "value": "Gallia Christiana|PD-old-70-expired|CC-PD-Mark|PD-old missing SDC copyright status",
+                  "source": "commons-categories",
+                  "hidden": ""
+                },
+                "Assessments": {
+                  "value": "",
+                  "source": "commons-categories",
+                  "hidden": ""
+                },
+                "ImageDescription": {
+                  "value": "Gallia Christiana tome 08 : Paris",
+                  "source": "commons-desc-page"
+                },
+                "DateTimeOriginal": {
+                  "value": "2017-11-14",
+                  "source": "commons-desc-page"
+                },
+                "Credit": {
+                  "value": "<a rel=\"nofollow\" class=\"external free\" href=\"https://archive.org/search.php?query=gallia%20christiana\">https://archive.org/search.php?query=gallia%20christiana</a>",
+                  "source": "commons-desc-page"
+                },
+                "Artist": {
+                  "value": "Congrégation de Saint-Maur",
+                  "source": "commons-desc-page"
+                },
+                "LicenseShortName": {
+                  "value": "Public domain",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "UsageTerms": {
+                  "value": "Public domain",
+                  "source": "commons-desc-page"
+                },
+                "AttributionRequired": {
+                  "value": "false",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "Copyrighted": {
+                  "value": "False",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "Restrictions": {
+                  "value": "",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "License": {
+                  "value": "pd",
+                  "source": "commons-templates",
+                  "hidden": ""
+                }
+              }
+            }
+          ]
+        },
+        {
+          "pageid": 98153481,
+          "ns": 6,
+          "title": "File:The Apostolic Fathers .. (IA cu31924072226073).pdf",
+          "index": 3,
+          "imagerepository": "local",
+          "imageinfo": [
+            {
+              "size": 17115409,
+              "width": 789,
+              "height": 1316,
+              "pagecount": 516,
+              "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/43/The_Apostolic_Fathers_.._%28IA_cu31924072226073%29.pdf/page1-500px-The_Apostolic_Fathers_.._%28IA_cu31924072226073%29.pdf.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+              "thumbwidth": 400,
+              "thumbheight": 667,
+              "thumbattribs": {
+                "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/43/The_Apostolic_Fathers_.._%28IA_cu31924072226073%29.pdf/page1-500px-The_Apostolic_Fathers_.._%28IA_cu31924072226073%29.pdf.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+                "decoding": "async",
+                "loading": "lazy",
+                "width": 400,
+                "height": 667
+              },
+              "url": "https://upload.wikimedia.org/wikipedia/commons/4/43/The_Apostolic_Fathers_.._%28IA_cu31924072226073%29.pdf?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+              "descriptionurl": "https://commons.wikimedia.org/wiki/File:The_Apostolic_Fathers_.._(IA_cu31924072226073).pdf",
+              "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=98153481",
+              "extmetadata": {
+                "DateTime": {
+                  "value": "2020-12-28 04:56:45",
+                  "source": "mediawiki-metadata",
+                  "hidden": ""
+                },
+                "ObjectName": {
+                  "value": "<div class=\"fn\">\nThe Apostolic Fathers ..</div>",
+                  "source": "commons-desc-page"
+                },
+                "CommonsMetadataExtension": {
+                  "value": 1.2,
+                  "source": "extension",
+                  "hidden": ""
+                },
+                "Categories": {
+                  "value": "Books from New York (state)|PD-old-100-expired|Scans from the Internet Archive/unverified|CC-PD-Mark|Scans from the Internet Archive|Books published in London|Books uploaded by Fæ|Books without Wikidata item|Scans from Cornell University Library|Books from the United States PDF files",
+                  "source": "commons-categories",
+                  "hidden": ""
+                },
+                "Assessments": {
+                  "value": "",
+                  "source": "commons-categories",
+                  "hidden": ""
+                },
+                "Artist": {
+                  "value": "<div class=\"fn value\">\nLightfoot, Joseph Barber, 1828-1889</div>",
+                  "source": "commons-desc-page"
+                },
+                "ImageDescription": {
+                  "value": "<div class=\"description\">\n<dl><dd>The metadata below describe the original scanning. Follow the \"All Files: HTTP\" link in the \"View the book\" box to the left to find XML files that contain more metadata about the original images and the derived formats (OCR results, PDF etc.). See also the <a rel=\"nofollow\" class=\"external text\" href=\"https://archive.org/about/faqs.php#140\">What is the directory structure for the texts?</a> FAQ for information about file content and naming conventions.</dd>\n<dd>\"An autotype of the Constantinople manuscript\" : pt. I, vol. I, p. [421]-474</dd>\n<dd>Title varies slightly</dd>\n<dd>Includes bibliographical references</dd>\n<dd>Pt. 2 has imprint: London, Macmillan and co., 1885</dd>\n<dd>pt. I. S. Clement of Rome. A revised text with introductions, notes, dissertations, and translations. 1890. 2 v.--pt. II. S. Ignatius. S. Polycarp. Revised texts, with introductions, dissertations, and translations. 1885. 3 v</dd></dl>\n<br>Subjects: Christian literature, Early</div>",
+                  "source": "commons-desc-page"
+                },
+                "Credit": {
+                  "value": "<dl><dd><a href=\"//archive.org/details/cu31924072226073\" class=\"extiw\" title=\"iarchive:cu31924072226073\"><bdi class=\"description en\" lang=\"en\" dir=\"ltr\">Internet Archive identifier</bdi>: cu31924072226073</a></dd>\n<dd><a rel=\"nofollow\" class=\"external free\" href=\"https://archive.org/download/cu31924072226073/cu31924072226073.pdf\">https://archive.org/download/cu31924072226073/cu31924072226073.pdf</a></dd></dl>",
+                  "source": "commons-desc-page"
+                },
+                "LicenseShortName": {
+                  "value": "Public domain",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "UsageTerms": {
+                  "value": "Public domain",
+                  "source": "commons-desc-page"
+                },
+                "AttributionRequired": {
+                  "value": "false",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "Copyrighted": {
+                  "value": "False",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "Restrictions": {
+                  "value": "",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "License": {
+                  "value": "pd",
+                  "source": "commons-templates",
+                  "hidden": ""
+                }
+              }
+            }
+          ]
+        },
+        {
+          "pageid": 103644293,
+          "ns": 6,
+          "title": "File:Historiae Augustae Scriptores VI., Vol. I (IA dli.granth.112229).pdf",
+          "index": 2,
+          "imagerepository": "local",
+          "imageinfo": [
+            {
+              "size": 28358164,
+              "width": 654,
+              "height": 1100,
+              "pagecount": 509,
+              "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3f/Historiae_Augustae_Scriptores_VI.%2C_Vol._I_%28IA_dli.granth.112229%29.pdf/page1-500px-Historiae_Augustae_Scriptores_VI.%2C_Vol._I_%28IA_dli.granth.112229%29.pdf.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+              "thumbwidth": 400,
+              "thumbheight": 673,
+              "thumbattribs": {
+                "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3f/Historiae_Augustae_Scriptores_VI.%2C_Vol._I_%28IA_dli.granth.112229%29.pdf/page1-500px-Historiae_Augustae_Scriptores_VI.%2C_Vol._I_%28IA_dli.granth.112229%29.pdf.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+                "decoding": "async",
+                "loading": "lazy",
+                "width": 400,
+                "height": 673
+              },
+              "url": "https://upload.wikimedia.org/wikipedia/commons/3/3f/Historiae_Augustae_Scriptores_VI.%2C_Vol._I_%28IA_dli.granth.112229%29.pdf?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+              "descriptionurl": "https://commons.wikimedia.org/wiki/File:Historiae_Augustae_Scriptores_VI.,_Vol._I_(IA_dli.granth.112229).pdf",
+              "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=103644293",
+              "extmetadata": {
+                "DateTime": {
+                  "value": "2021-04-14 15:40:39",
+                  "source": "mediawiki-metadata",
+                  "hidden": ""
+                },
+                "ObjectName": {
+                  "value": "<div class=\"fn\">\nHistoriae Augustae Scriptores VI., Vol. I</div>",
+                  "source": "commons-desc-page"
+                },
+                "CommonsMetadataExtension": {
+                  "value": 1.2,
+                  "source": "extension",
+                  "hidden": ""
+                },
+                "Categories": {
+                  "value": "Files with no machine-readable author|PD-old-100-expired|Scans from the Internet Archive/unverified|CC-PD-Mark|Scans from the Internet Archive|Books uploaded by Fæ|Books without Wikidata item|Bharat Ek Khoj|PD-old missing SDC copyright status",
+                  "source": "commons-categories",
+                  "hidden": ""
+                },
+                "Assessments": {
+                  "value": "",
+                  "source": "commons-categories",
+                  "hidden": ""
+                },
+                "ImageDescription": {
+                  "value": "<div class=\"description\">\n<dl><dd><p>Source: Asiatic Society of Mumbai<br>Identifier: BK_00079553<br>Digitization Sponsor: Special Collection</p></dd>\n<dd>Original Source: &lt;a href=\"<a rel=\"nofollow\" class=\"external free\" href=\"https://granthsanjeevani.com/jspui/handle/123456789/112229\">https://granthsanjeevani.com/jspui/handle/123456789/112229</a>\" rel=\"nofollow\"&gt;Item 112229&lt;/a&gt;</dd></dl>\n<br>Subjects: BOOK;  History of Ancient World; Granth Sanjeevani</div>",
+                  "source": "commons-desc-page"
+                },
+                "Credit": {
+                  "value": "<dl><dd><a href=\"//archive.org/details/dli.granth.112229\" class=\"extiw\" title=\"iarchive:dli.granth.112229\"><bdi class=\"description en\" lang=\"en\" dir=\"ltr\">Internet Archive identifier</bdi>: dli.granth.112229</a></dd>\n<dd><a rel=\"nofollow\" class=\"external free\" href=\"https://archive.org/download/dli.granth.112229/112229.pdf\">https://archive.org/download/dli.granth.112229/112229.pdf</a></dd></dl>",
+                  "source": "commons-desc-page"
+                },
+                "LicenseShortName": {
+                  "value": "Public domain",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "UsageTerms": {
+                  "value": "Public domain",
+                  "source": "commons-desc-page"
+                },
+                "AttributionRequired": {
+                  "value": "false",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "Copyrighted": {
+                  "value": "False",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "Restrictions": {
+                  "value": "",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "License": {
+                  "value": "pd",
+                  "source": "commons-templates",
+                  "hidden": ""
+                }
+              }
+            }
+          ]
+        },
+        {
+          "pageid": 194574362,
+          "ns": 6,
+          "title": "File:Apologeticus adversus gentes pro Christianis (IA apologeticusadve00tertuoft).pdf",
+          "index": 5,
+          "imagerepository": "local",
+          "imageinfo": [
+            {
+              "size": 14025148,
+              "width": 600,
+              "height": 1020,
+              "pagecount": 222,
+              "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f6/Apologeticus_adversus_gentes_pro_Christianis_%28IA_apologeticusadve00tertuoft%29.pdf/page1-500px-Apologeticus_adversus_gentes_pro_Christianis_%28IA_apologeticusadve00tertuoft%29.pdf.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+              "thumbwidth": 400,
+              "thumbheight": 680,
+              "thumbattribs": {
+                "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f6/Apologeticus_adversus_gentes_pro_Christianis_%28IA_apologeticusadve00tertuoft%29.pdf/page1-500px-Apologeticus_adversus_gentes_pro_Christianis_%28IA_apologeticusadve00tertuoft%29.pdf.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+                "decoding": "async",
+                "loading": "lazy",
+                "width": 400,
+                "height": 680
+              },
+              "url": "https://upload.wikimedia.org/wikipedia/commons/f/f6/Apologeticus_adversus_gentes_pro_Christianis_%28IA_apologeticusadve00tertuoft%29.pdf?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+              "descriptionurl": "https://commons.wikimedia.org/wiki/File:Apologeticus_adversus_gentes_pro_Christianis_(IA_apologeticusadve00tertuoft).pdf",
+              "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=194574362",
+              "extmetadata": {
+                "DateTime": {
+                  "value": "2026-06-26 07:09:42",
+                  "source": "mediawiki-metadata",
+                  "hidden": ""
+                },
+                "ObjectName": {
+                  "value": "<div class=\"fn\">\nApologeticus adversus gentes pro Christianis</div>",
+                  "source": "commons-desc-page"
+                },
+                "CommonsMetadataExtension": {
+                  "value": 1.2,
+                  "source": "extension",
+                  "hidden": ""
+                },
+                "Categories": {
+                  "value": "PD-old-100-expired|Scans from the Internet Archive/unverified|CC-PD-Mark|Scans from the Internet Archive|Books uploaded by Fæ|Books without Wikidata item|IA uploads needing categories|Scans from University of Toronto|PD-old missing SDC copyright status",
+                  "source": "commons-categories",
+                  "hidden": ""
+                },
+                "Assessments": {
+                  "value": "",
+                  "source": "commons-categories",
+                  "hidden": ""
+                },
+                "Artist": {
+                  "value": "<div class=\"fn value\">\n<dl><dd>Tertullian, ca. 160-ca. 230</dd>\n<dd>Bindley, T. Herbert (Thomas Herbert), 1861-1931</dd></dl></div>",
+                  "source": "commons-desc-page"
+                },
+                "ImageDescription": {
+                  "value": "<div class=\"description\">\n<p>26 27\n</p>\n<br>Subjects:</div>",
+                  "source": "commons-desc-page"
+                },
+                "Credit": {
+                  "value": "<dl><dd><a href=\"//archive.org/details/apologeticusadve00tertuoft\" class=\"extiw\" title=\"iarchive:apologeticusadve00tertuoft\"><bdi class=\"description en\" lang=\"en\" dir=\"ltr\">Internet Archive identifier</bdi>: apologeticusadve00tertuoft</a></dd>\n<dd><a rel=\"nofollow\" class=\"external free\" href=\"https://archive.org/download/apologeticusadve00tertuoft/apologeticusadve00tertuoft.pdf\">https://archive.org/download/apologeticusadve00tertuoft/apologeticusadve00tertuoft.pdf</a></dd></dl>\n<ul><li>IA contributor: Robarts - University of Toronto</li>\n<li>IA digitizing sponsor: MSN</li></ul>",
+                  "source": "commons-desc-page"
+                },
+                "LicenseShortName": {
+                  "value": "Public domain",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "UsageTerms": {
+                  "value": "Public domain",
+                  "source": "commons-desc-page"
+                },
+                "AttributionRequired": {
+                  "value": "false",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "Copyrighted": {
+                  "value": "False",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "Restrictions": {
+                  "value": "",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "License": {
+                  "value": "pd",
+                  "source": "commons-templates",
+                  "hidden": ""
+                }
+              }
+            }
+          ]
+        }
+      ]
+    }
+  }
+}

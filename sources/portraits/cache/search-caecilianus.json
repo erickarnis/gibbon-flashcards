@@ -1,0 +1,546 @@
+{
+  "person_id": "caecilianus",
+  "query": "Caecilianus",
+  "response": {
+    "batchcomplete": true,
+    "continue": {
+      "gsroffset": 5,
+      "continue": "gsroffset||"
+    },
+    "query": {
+      "pages": [
+        {
+          "pageid": 20057847,
+          "ns": 6,
+          "title": "File:EEVIII35.JPG",
+          "index": 4,
+          "imagerepository": "local",
+          "imageinfo": [
+            {
+              "size": 685965,
+              "width": 1536,
+              "height": 2048,
+              "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a9/EEVIII35.JPG/500px-EEVIII35.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+              "thumbwidth": 400,
+              "thumbheight": 533,
+              "responsiveUrls": {
+                "2": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a9/EEVIII35.JPG/960px-EEVIII35.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+              },
+              "thumbattribs": {
+                "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a9/EEVIII35.JPG/500px-EEVIII35.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+                "decoding": "async",
+                "loading": "lazy",
+                "width": 400,
+                "height": 533,
+                "srcset": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a9/EEVIII35.JPG/960px-EEVIII35.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail 2x"
+              },
+              "url": "https://upload.wikimedia.org/wikipedia/commons/a/a9/EEVIII35.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+              "descriptionurl": "https://commons.wikimedia.org/wiki/File:EEVIII35.JPG",
+              "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=20057847",
+              "extmetadata": {
+                "DateTime": {
+                  "value": "2012-06-28 09:49:23",
+                  "source": "mediawiki-metadata",
+                  "hidden": ""
+                },
+                "ObjectName": {
+                  "value": "EEVIII35",
+                  "source": "mediawiki-metadata"
+                },
+                "CommonsMetadataExtension": {
+                  "value": 1.2,
+                  "source": "extension",
+                  "hidden": ""
+                },
+                "Categories": {
+                  "value": "Taken with Olympus X-350 / D-575Z / C-360Z|Dis Manibus inscriptions|Gens Valeria|Self-published work|Ancient Roman aras in Spain|Ancient Roman inscriptions in the Museo Nacional de Arte Romano|Linked to HEp",
+                  "source": "commons-categories",
+                  "hidden": ""
+                },
+                "Assessments": {
+                  "value": "",
+                  "source": "commons-categories",
+                  "hidden": ""
+                },
+                "ImageDescription": {
+                  "value": "Hispania Epigraphica <a rel=\"nofollow\" class=\"external text\" href=\"http://eda-bea.es/pub/record_card_1.php?refpage=%2Fpub%2Fsearch_select.php&amp;quicksearch=EE+VIII%2C+35&amp;rec=24231\">24231</a>",
+                  "source": "commons-desc-page"
+                },
+                "DateTimeOriginal": {
+                  "value": "2012-04-27",
+                  "source": "commons-desc-page"
+                },
+                "Credit": {
+                  "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+                  "source": "commons-desc-page"
+                },
+                "Artist": {
+                  "value": "<a href=\"//commons.wikimedia.org/wiki/User:Caligatus\" title=\"User:Caligatus\">Caligatus</a>",
+                  "source": "commons-desc-page"
+                },
+                "LicenseShortName": {
+                  "value": "CC BY-SA 3.0",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "UsageTerms": {
+                  "value": "Creative Commons Attribution-Share Alike 3.0",
+                  "source": "commons-desc-page"
+                },
+                "AttributionRequired": {
+                  "value": "true",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "LicenseUrl": {
+                  "value": "https://creativecommons.org/licenses/by-sa/3.0",
+                  "source": "commons-desc-page"
+                },
+                "Copyrighted": {
+                  "value": "True",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "Restrictions": {
+                  "value": "",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "License": {
+                  "value": "cc-by-sa-3.0",
+                  "source": "commons-templates",
+                  "hidden": ""
+                }
+              }
+            }
+          ]
+        },
+        {
+          "pageid": 22870602,
+          "ns": 6,
+          "title": "File:CIL XIII 1799.JPG",
+          "index": 5,
+          "imagerepository": "local",
+          "imageinfo": [
+            {
+              "size": 5823733,
+              "width": 2400,
+              "height": 4225,
+              "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/60/CIL_XIII_1799.JPG/500px-CIL_XIII_1799.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+              "thumbwidth": 400,
+              "thumbheight": 704,
+              "responsiveUrls": {
+                "2": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/60/CIL_XIII_1799.JPG/960px-CIL_XIII_1799.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+              },
+              "thumbattribs": {
+                "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/60/CIL_XIII_1799.JPG/500px-CIL_XIII_1799.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+                "decoding": "async",
+                "loading": "lazy",
+                "width": 400,
+                "height": 704,
+                "srcset": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/60/CIL_XIII_1799.JPG/960px-CIL_XIII_1799.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail 2x"
+              },
+              "url": "https://upload.wikimedia.org/wikipedia/commons/6/60/CIL_XIII_1799.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+              "descriptionurl": "https://commons.wikimedia.org/wiki/File:CIL_XIII_1799.JPG",
+              "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=22870602",
+              "extmetadata": {
+                "DateTime": {
+                  "value": "2012-11-26 11:28:18",
+                  "source": "mediawiki-metadata",
+                  "hidden": ""
+                },
+                "ObjectName": {
+                  "value": "CIL XIII 1799",
+                  "source": "mediawiki-metadata"
+                },
+                "CommonsMetadataExtension": {
+                  "value": 1.2,
+                  "source": "extension",
+                  "hidden": ""
+                },
+                "Categories": {
+                  "value": "Self-published work|User:Nonopoly/all|Ancient Roman inscriptions in Musée gallo-romain de Fourvière|CIL XIII 001799",
+                  "source": "commons-categories",
+                  "hidden": ""
+                },
+                "Assessments": {
+                  "value": "",
+                  "source": "commons-categories",
+                  "hidden": ""
+                },
+                "ImageDescription": {
+                  "value": "Musée gallo-romain de Fourvière (Lyon) - Jardin archéologique du théâtre antique de Lyon - Cippe avec base et couronnement remployé dans une corniche du couvent des Génovéfains, montée des Génovéfains à Lyon et extrait avant 1816. Haut. 150cm ; larg. 70cm. <i>Memoriae / Aureli(i) / Ca[e]/ciliani, pra[e]positi vectig/alium posui[t] / Epictetus / alumnus</i> : A la mémoire d'Aurelius Caecilianus, préposé à l'exploitation des mines de fer, Epictetus, son <i>alumnus</i>  a élevé (ce tombeau).",
+                  "source": "commons-desc-page"
+                },
+                "DateTimeOriginal": {
+                  "value": "2012-11-26 12:23:39",
+                  "source": "commons-desc-page"
+                },
+                "Credit": {
+                  "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+                  "source": "commons-desc-page"
+                },
+                "Artist": {
+                  "value": "<a href=\"//commons.wikimedia.org/wiki/User:Nonopoly\" title=\"User:Nonopoly\">Arnaud Fafournoux</a>",
+                  "source": "commons-desc-page"
+                },
+                "LicenseShortName": {
+                  "value": "CC BY-SA 3.0",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "UsageTerms": {
+                  "value": "Creative Commons Attribution-Share Alike 3.0",
+                  "source": "commons-desc-page"
+                },
+                "AttributionRequired": {
+                  "value": "true",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "LicenseUrl": {
+                  "value": "https://creativecommons.org/licenses/by-sa/3.0",
+                  "source": "commons-desc-page"
+                },
+                "Copyrighted": {
+                  "value": "True",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "Restrictions": {
+                  "value": "",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "License": {
+                  "value": "cc-by-sa-3.0",
+                  "source": "commons-templates",
+                  "hidden": ""
+                }
+              }
+            }
+          ]
+        },
+        {
+          "pageid": 38502133,
+          "ns": 6,
+          "title": "File:Latin inscription of Volubilis 04.jpg",
+          "index": 3,
+          "imagerepository": "local",
+          "imageinfo": [
+            {
+              "size": 2138052,
+              "width": 2448,
+              "height": 3264,
+              "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/bd/Latin_inscription_of_Volubilis_04.jpg/500px-Latin_inscription_of_Volubilis_04.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+              "thumbwidth": 400,
+              "thumbheight": 533,
+              "responsiveUrls": {
+                "2": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/bd/Latin_inscription_of_Volubilis_04.jpg/960px-Latin_inscription_of_Volubilis_04.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+              },
+              "thumbattribs": {
+                "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/bd/Latin_inscription_of_Volubilis_04.jpg/500px-Latin_inscription_of_Volubilis_04.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+                "decoding": "async",
+                "loading": "lazy",
+                "width": 400,
+                "height": 533,
+                "srcset": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/bd/Latin_inscription_of_Volubilis_04.jpg/960px-Latin_inscription_of_Volubilis_04.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail 2x"
+              },
+              "url": "https://upload.wikimedia.org/wikipedia/commons/b/bd/Latin_inscription_of_Volubilis_04.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+              "descriptionurl": "https://commons.wikimedia.org/wiki/File:Latin_inscription_of_Volubilis_04.jpg",
+              "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=38502133",
+              "extmetadata": {
+                "DateTime": {
+                  "value": "2015-02-20 21:08:42",
+                  "source": "mediawiki-metadata",
+                  "hidden": ""
+                },
+                "ObjectName": {
+                  "value": "Latin inscription of Volubilis 04",
+                  "source": "mediawiki-metadata"
+                },
+                "CommonsMetadataExtension": {
+                  "value": 1.2,
+                  "source": "extension",
+                  "hidden": ""
+                },
+                "Categories": {
+                  "value": "Self-published work|Taken with Samsung GT-I9300|November 2014 Morocco photographs|Ancient Roman funerary steles in Morocco|Photographs by User:Dorieo|Ancient Roman inscriptions in Volubilis|2014 in Volubilis",
+                  "source": "commons-categories",
+                  "hidden": ""
+                },
+                "Assessments": {
+                  "value": "",
+                  "source": "commons-categories",
+                  "hidden": ""
+                },
+                "ImageDescription": {
+                  "value": "Estela con un frontón triangular de un niño. Dedicatoria de Lucius Valeriius Caecilianus para su hijo Valerius Quadratinus que vivió 6 años, diez meses y diez días. Encontrada en el suburbio oeste de Volubilis. Calcárea.",
+                  "source": "commons-desc-page"
+                },
+                "DateTimeOriginal": {
+                  "value": "2014-11-03 12:12:22",
+                  "source": "commons-desc-page"
+                },
+                "Credit": {
+                  "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+                  "source": "commons-desc-page"
+                },
+                "Artist": {
+                  "value": "<a href=\"//commons.wikimedia.org/wiki/User:Dorieo\" title=\"User:Dorieo\">Dorieo</a>",
+                  "source": "commons-desc-page"
+                },
+                "LicenseShortName": {
+                  "value": "CC BY-SA 4.0",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "UsageTerms": {
+                  "value": "Creative Commons Attribution-Share Alike 4.0",
+                  "source": "commons-desc-page"
+                },
+                "AttributionRequired": {
+                  "value": "true",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "Attribution": {
+                  "value": "Jerónimo Roure Pérez",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "LicenseUrl": {
+                  "value": "https://creativecommons.org/licenses/by-sa/4.0",
+                  "source": "commons-desc-page"
+                },
+                "Copyrighted": {
+                  "value": "True",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "Restrictions": {
+                  "value": "",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "License": {
+                  "value": "cc-by-sa-4.0",
+                  "source": "commons-templates",
+                  "hidden": ""
+                }
+              }
+            }
+          ]
+        },
+        {
+          "pageid": 38581094,
+          "ns": 6,
+          "title": "File:Epitaphe en grec du père de la synagogue de Volubilis.jpg",
+          "index": 2,
+          "imagerepository": "local",
+          "imageinfo": [
+            {
+              "size": 2623410,
+              "width": 3264,
+              "height": 2448,
+              "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/54/Epitaphe_en_grec_du_p%C3%A8re_de_la_synagogue_de_Volubilis.jpg/500px-Epitaphe_en_grec_du_p%C3%A8re_de_la_synagogue_de_Volubilis.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+              "thumbwidth": 400,
+              "thumbheight": 300,
+              "responsiveUrls": {
+                "2": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/54/Epitaphe_en_grec_du_p%C3%A8re_de_la_synagogue_de_Volubilis.jpg/960px-Epitaphe_en_grec_du_p%C3%A8re_de_la_synagogue_de_Volubilis.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+              },
+              "thumbattribs": {
+                "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/54/Epitaphe_en_grec_du_p%C3%A8re_de_la_synagogue_de_Volubilis.jpg/500px-Epitaphe_en_grec_du_p%C3%A8re_de_la_synagogue_de_Volubilis.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+                "decoding": "async",
+                "loading": "lazy",
+                "width": 400,
+                "height": 300,
+                "srcset": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/54/Epitaphe_en_grec_du_p%C3%A8re_de_la_synagogue_de_Volubilis.jpg/960px-Epitaphe_en_grec_du_p%C3%A8re_de_la_synagogue_de_Volubilis.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail 2x"
+              },
+              "url": "https://upload.wikimedia.org/wikipedia/commons/5/54/Epitaphe_en_grec_du_p%C3%A8re_de_la_synagogue_de_Volubilis.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+              "descriptionurl": "https://commons.wikimedia.org/wiki/File:Epitaphe_en_grec_du_p%C3%A8re_de_la_synagogue_de_Volubilis.jpg",
+              "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=38581094",
+              "extmetadata": {
+                "DateTime": {
+                  "value": "2015-02-24 20:54:47",
+                  "source": "mediawiki-metadata",
+                  "hidden": ""
+                },
+                "ObjectName": {
+                  "value": "Epitaphe en grec du père de la synagogue de Volubilis",
+                  "source": "mediawiki-metadata"
+                },
+                "CommonsMetadataExtension": {
+                  "value": 1.2,
+                  "source": "extension",
+                  "hidden": ""
+                },
+                "Categories": {
+                  "value": "Self-published work|Taken with Samsung GT-I9300|November 2014 in Morocco|Greek inscriptions|November 2014 Morocco photographs|Epitaphs in Morocco|Synagogues in Meknes|2014 in Volubilis",
+                  "source": "commons-categories",
+                  "hidden": ""
+                },
+                "Assessments": {
+                  "value": "",
+                  "source": "commons-categories",
+                  "hidden": ""
+                },
+                "ImageDescription": {
+                  "value": "Epitafio con el nombre en griego de Caecilianus, muerto a la edad de cuarenta y cinco años, ocho meses, tres días. El difunto es calificado de jefe de la comunidad judía de Volubllis y padre de su sinagoga. Calcárea. Siglo III.",
+                  "source": "commons-desc-page"
+                },
+                "DateTimeOriginal": {
+                  "value": "2014-11-03 12:27:14",
+                  "source": "commons-desc-page"
+                },
+                "Credit": {
+                  "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+                  "source": "commons-desc-page"
+                },
+                "Artist": {
+                  "value": "<a href=\"//commons.wikimedia.org/wiki/User:Dorieo\" title=\"User:Dorieo\">Dorieo</a>",
+                  "source": "commons-desc-page"
+                },
+                "LicenseShortName": {
+                  "value": "CC BY-SA 4.0",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "UsageTerms": {
+                  "value": "Creative Commons Attribution-Share Alike 4.0",
+                  "source": "commons-desc-page"
+                },
+                "AttributionRequired": {
+                  "value": "true",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "LicenseUrl": {
+                  "value": "https://creativecommons.org/licenses/by-sa/4.0",
+                  "source": "commons-desc-page"
+                },
+                "Copyrighted": {
+                  "value": "True",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "Restrictions": {
+                  "value": "",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "License": {
+                  "value": "cc-by-sa-4.0",
+                  "source": "commons-templates",
+                  "hidden": ""
+                }
+              }
+            }
+          ]
+        },
+        {
+          "pageid": 146487162,
+          "ns": 6,
+          "title": "File:Rooms Katholieke Kerkmuziekschool St, SFA006001407.jpg",
+          "index": 1,
+          "imagerepository": "local",
+          "imageinfo": [
+            {
+              "size": 478322,
+              "width": 2324,
+              "height": 1676,
+              "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/40/Rooms_Katholieke_Kerkmuziekschool_St%2C_SFA006001407.jpg/500px-Rooms_Katholieke_Kerkmuziekschool_St%2C_SFA006001407.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+              "thumbwidth": 400,
+              "thumbheight": 288,
+              "responsiveUrls": {
+                "2": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/40/Rooms_Katholieke_Kerkmuziekschool_St%2C_SFA006001407.jpg/960px-Rooms_Katholieke_Kerkmuziekschool_St%2C_SFA006001407.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+              },
+              "thumbattribs": {
+                "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/40/Rooms_Katholieke_Kerkmuziekschool_St%2C_SFA006001407.jpg/500px-Rooms_Katholieke_Kerkmuziekschool_St%2C_SFA006001407.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+                "decoding": "async",
+                "loading": "lazy",
+                "width": 400,
+                "height": 288,
+                "srcset": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/40/Rooms_Katholieke_Kerkmuziekschool_St%2C_SFA006001407.jpg/960px-Rooms_Katholieke_Kerkmuziekschool_St%2C_SFA006001407.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail 2x"
+              },
+              "url": "https://upload.wikimedia.org/wikipedia/commons/4/40/Rooms_Katholieke_Kerkmuziekschool_St%2C_SFA006001407.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+              "descriptionurl": "https://commons.wikimedia.org/wiki/File:Rooms_Katholieke_Kerkmuziekschool_St,_SFA006001407.jpg",
+              "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=146487162",
+              "extmetadata": {
+                "DateTime": {
+                  "value": "2024-03-17 11:24:56",
+                  "source": "mediawiki-metadata",
+                  "hidden": ""
+                },
+                "ObjectName": {
+                  "value": "Rooms Katholieke Kerkmuziekschool St, SFA006001407",
+                  "source": "mediawiki-metadata"
+                },
+                "CommonsMetadataExtension": {
+                  "value": 1.2,
+                  "source": "extension",
+                  "hidden": ""
+                },
+                "Categories": {
+                  "value": "Images from Spaarnestad Photo|PD Old|CC-PD-Mark|PD-old missing SDC copyright status|Photographs by Wiel van der Randen|Kerkmuziekschool St. Caecilia (Utrecht)|Caecilianus Huigens",
+                  "source": "commons-categories",
+                  "hidden": ""
+                },
+                "Assessments": {
+                  "value": "",
+                  "source": "commons-categories",
+                  "hidden": ""
+                },
+                "ImageDescription": {
+                  "value": "Omschrijving: Rooms Katholieke Kerkmuziekschool \"St. Caecilia\" in Utrecht. De Pater Directeur op zijn kamer, lezend vóór zijn boekenkast. [1936].",
+                  "source": "commons-desc-page"
+                },
+                "DateTimeOriginal": {
+                  "value": "before 1936<div style=\"display: none;\">date QS:P,+1936-00-00T00:00:00Z/7,P1326,+1936-00-00T00:00:00Z/9</div>",
+                  "source": "commons-desc-page"
+                },
+                "Credit": {
+                  "value": "<a rel=\"nofollow\" class=\"external free\" href=\"https://beeldbank.spaarnestadphoto.com/search.pp?flush=1&amp;multikeyword=SFA006001407&amp;searchtype=0#ctr-thumbnails\">https://beeldbank.spaarnestadphoto.com/search.pp?flush=1&amp;multikeyword=SFA006001407&amp;searchtype=0#ctr-thumbnails</a>",
+                  "source": "commons-desc-page"
+                },
+                "Artist": {
+                  "value": "<bdi><a href=\"https://www.wikidata.org/wiki/Q18065666\" class=\"extiw\" title=\"d:Q18065666\"><span title=\"Dutch photojournalist (1897–1949)\">Wiel van der Randen</span></a></bdi>",
+                  "source": "commons-desc-page"
+                },
+                "LicenseShortName": {
+                  "value": "Public domain",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "UsageTerms": {
+                  "value": "Public domain",
+                  "source": "commons-desc-page"
+                },
+                "AttributionRequired": {
+                  "value": "false",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "Copyrighted": {
+                  "value": "False",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "Restrictions": {
+                  "value": "",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "License": {
+                  "value": "pd",
+                  "source": "commons-templates",
+                  "hidden": ""
+                }
+              }
+            }
+          ]
+        }
+      ]
+    }
+  }
+}

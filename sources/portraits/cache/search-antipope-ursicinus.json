@@ -1,0 +1,555 @@
+{
+  "person_id": "antipope-ursicinus",
+  "query": "Antipope Ursicinus",
+  "response": {
+    "batchcomplete": true,
+    "continue": {
+      "gsroffset": 5,
+      "continue": "gsroffset||"
+    },
+    "query": {
+      "pages": [
+        {
+          "pageid": 37560664,
+          "ns": 6,
+          "title": "File:Lápida Ursicinus 02.JPG",
+          "index": 1,
+          "imagerepository": "local",
+          "imageinfo": [
+            {
+              "size": 5567693,
+              "width": 3456,
+              "height": 5184,
+              "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/41/L%C3%A1pida_Ursicinus_02.JPG/500px-L%C3%A1pida_Ursicinus_02.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+              "thumbwidth": 400,
+              "thumbheight": 600,
+              "responsiveUrls": {
+                "2": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/41/L%C3%A1pida_Ursicinus_02.JPG/960px-L%C3%A1pida_Ursicinus_02.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+              },
+              "thumbattribs": {
+                "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/41/L%C3%A1pida_Ursicinus_02.JPG/500px-L%C3%A1pida_Ursicinus_02.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+                "decoding": "async",
+                "loading": "lazy",
+                "width": 400,
+                "height": 600,
+                "srcset": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/41/L%C3%A1pida_Ursicinus_02.JPG/960px-L%C3%A1pida_Ursicinus_02.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail 2x"
+              },
+              "url": "https://upload.wikimedia.org/wikipedia/commons/4/41/L%C3%A1pida_Ursicinus_02.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+              "descriptionurl": "https://commons.wikimedia.org/wiki/File:L%C3%A1pida_Ursicinus_02.JPG",
+              "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=37560664",
+              "extmetadata": {
+                "DateTime": {
+                  "value": "2014-12-29 13:19:11",
+                  "source": "mediawiki-metadata",
+                  "hidden": ""
+                },
+                "ObjectName": {
+                  "value": "Lápida Ursicinus 02",
+                  "source": "mediawiki-metadata"
+                },
+                "CommonsMetadataExtension": {
+                  "value": 1.2,
+                  "source": "extension",
+                  "hidden": ""
+                },
+                "Categories": {
+                  "value": "Taken with Canon EOS 600D|Mosaico de Ursicinus (Madrid, M.A.N.)|Self-published work",
+                  "source": "commons-categories",
+                  "hidden": ""
+                },
+                "Assessments": {
+                  "value": "",
+                  "source": "commons-categories",
+                  "hidden": ""
+                },
+                "ImageDescription": {
+                  "value": "Mosaico de Ursicinus. Madrid, M.A.N.",
+                  "source": "commons-desc-page"
+                },
+                "DateTimeOriginal": {
+                  "value": "2014-04-10 18:07:08",
+                  "source": "commons-desc-page"
+                },
+                "Credit": {
+                  "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+                  "source": "commons-desc-page"
+                },
+                "Artist": {
+                  "value": "<a href=\"//commons.wikimedia.org/wiki/User:MiguelHermoso\" title=\"User:MiguelHermoso\">Miguel Hermoso Cuesta</a>",
+                  "source": "commons-desc-page"
+                },
+                "LicenseShortName": {
+                  "value": "CC BY-SA 4.0",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "UsageTerms": {
+                  "value": "Creative Commons Attribution-Share Alike 4.0",
+                  "source": "commons-desc-page"
+                },
+                "AttributionRequired": {
+                  "value": "true",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "LicenseUrl": {
+                  "value": "https://creativecommons.org/licenses/by-sa/4.0",
+                  "source": "commons-desc-page"
+                },
+                "Copyrighted": {
+                  "value": "True",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "Restrictions": {
+                  "value": "",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "License": {
+                  "value": "cc-by-sa-4.0",
+                  "source": "commons-templates",
+                  "hidden": ""
+                }
+              }
+            }
+          ]
+        },
+        {
+          "pageid": 37560665,
+          "ns": 6,
+          "title": "File:Lápida Ursicinus 01.JPG",
+          "index": 2,
+          "imagerepository": "local",
+          "imageinfo": [
+            {
+              "size": 3263624,
+              "width": 2046,
+              "height": 5059,
+              "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/cb/L%C3%A1pida_Ursicinus_01.JPG/500px-L%C3%A1pida_Ursicinus_01.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+              "thumbwidth": 400,
+              "thumbheight": 989,
+              "responsiveUrls": {
+                "2": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/cb/L%C3%A1pida_Ursicinus_01.JPG/960px-L%C3%A1pida_Ursicinus_01.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+              },
+              "thumbattribs": {
+                "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/cb/L%C3%A1pida_Ursicinus_01.JPG/500px-L%C3%A1pida_Ursicinus_01.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+                "decoding": "async",
+                "loading": "lazy",
+                "width": 400,
+                "height": 989,
+                "srcset": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/cb/L%C3%A1pida_Ursicinus_01.JPG/960px-L%C3%A1pida_Ursicinus_01.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail 2x"
+              },
+              "url": "https://upload.wikimedia.org/wikipedia/commons/c/cb/L%C3%A1pida_Ursicinus_01.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+              "descriptionurl": "https://commons.wikimedia.org/wiki/File:L%C3%A1pida_Ursicinus_01.JPG",
+              "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=37560665",
+              "extmetadata": {
+                "DateTime": {
+                  "value": "2014-12-29 13:19:11",
+                  "source": "mediawiki-metadata",
+                  "hidden": ""
+                },
+                "ObjectName": {
+                  "value": "Lápida Ursicinus 01",
+                  "source": "mediawiki-metadata"
+                },
+                "CommonsMetadataExtension": {
+                  "value": 1.2,
+                  "source": "extension",
+                  "hidden": ""
+                },
+                "Categories": {
+                  "value": "Taken with Canon EOS 600D|Mosaico de Ursicinus (Madrid, M.A.N.)|Self-published work",
+                  "source": "commons-categories",
+                  "hidden": ""
+                },
+                "Assessments": {
+                  "value": "",
+                  "source": "commons-categories",
+                  "hidden": ""
+                },
+                "ImageDescription": {
+                  "value": "Mosaico de Ursicinus. Madrid, M.A.N.",
+                  "source": "commons-desc-page"
+                },
+                "DateTimeOriginal": {
+                  "value": "2014-04-10 18:07:02",
+                  "source": "commons-desc-page"
+                },
+                "Credit": {
+                  "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+                  "source": "commons-desc-page"
+                },
+                "Artist": {
+                  "value": "<a href=\"//commons.wikimedia.org/wiki/User:MiguelHermoso\" title=\"User:MiguelHermoso\">Miguel Hermoso Cuesta</a>",
+                  "source": "commons-desc-page"
+                },
+                "LicenseShortName": {
+                  "value": "CC BY-SA 4.0",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "UsageTerms": {
+                  "value": "Creative Commons Attribution-Share Alike 4.0",
+                  "source": "commons-desc-page"
+                },
+                "AttributionRequired": {
+                  "value": "true",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "LicenseUrl": {
+                  "value": "https://creativecommons.org/licenses/by-sa/4.0",
+                  "source": "commons-desc-page"
+                },
+                "Copyrighted": {
+                  "value": "True",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "Restrictions": {
+                  "value": "",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "License": {
+                  "value": "cc-by-sa-4.0",
+                  "source": "commons-templates",
+                  "hidden": ""
+                }
+              }
+            }
+          ]
+        },
+        {
+          "pageid": 52776309,
+          "ns": 6,
+          "title": "File:Saint Ursicinus of Ravenna mosaic - Sant'Apollinare in Classe - Ravenna 2016.jpg",
+          "index": 5,
+          "imagerepository": "local",
+          "imageinfo": [
+            {
+              "size": 10925641,
+              "width": 2240,
+              "height": 4992,
+              "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6c/Saint_Ursicinus_of_Ravenna_mosaic_-_Sant%27Apollinare_in_Classe_-_Ravenna_2016.jpg/500px-Saint_Ursicinus_of_Ravenna_mosaic_-_Sant%27Apollinare_in_Classe_-_Ravenna_2016.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+              "thumbwidth": 400,
+              "thumbheight": 891,
+              "responsiveUrls": {
+                "2": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6c/Saint_Ursicinus_of_Ravenna_mosaic_-_Sant%27Apollinare_in_Classe_-_Ravenna_2016.jpg/960px-Saint_Ursicinus_of_Ravenna_mosaic_-_Sant%27Apollinare_in_Classe_-_Ravenna_2016.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+              },
+              "thumbattribs": {
+                "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6c/Saint_Ursicinus_of_Ravenna_mosaic_-_Sant%27Apollinare_in_Classe_-_Ravenna_2016.jpg/500px-Saint_Ursicinus_of_Ravenna_mosaic_-_Sant%27Apollinare_in_Classe_-_Ravenna_2016.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+                "decoding": "async",
+                "loading": "lazy",
+                "width": 400,
+                "height": 891,
+                "srcset": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6c/Saint_Ursicinus_of_Ravenna_mosaic_-_Sant%27Apollinare_in_Classe_-_Ravenna_2016.jpg/960px-Saint_Ursicinus_of_Ravenna_mosaic_-_Sant%27Apollinare_in_Classe_-_Ravenna_2016.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail 2x"
+              },
+              "url": "https://upload.wikimedia.org/wikipedia/commons/6/6c/Saint_Ursicinus_of_Ravenna_mosaic_-_Sant%27Apollinare_in_Classe_-_Ravenna_2016.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+              "descriptionurl": "https://commons.wikimedia.org/wiki/File:Saint_Ursicinus_of_Ravenna_mosaic_-_Sant%27Apollinare_in_Classe_-_Ravenna_2016.jpg",
+              "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=52776309",
+              "extmetadata": {
+                "DateTime": {
+                  "value": "2016-11-03 21:55:06",
+                  "source": "mediawiki-metadata",
+                  "hidden": ""
+                },
+                "ObjectName": {
+                  "value": "Saint Ursicinus of Ravenna mosaic - Sant'Apollinare in Classe - Ravenna 2016",
+                  "source": "mediawiki-metadata"
+                },
+                "CommonsMetadataExtension": {
+                  "value": 1.2,
+                  "source": "extension",
+                  "hidden": ""
+                },
+                "Categories": {
+                  "value": "Self-published work|Information field template with formatting|José Luiz uploads|Files with coordinates missing SDC location of creation|September 2016 in Ravenna|Sant'Apollinare in Classe (Ravenna) - Ursicinus of Ravenna",
+                  "source": "commons-categories",
+                  "hidden": ""
+                },
+                "Assessments": {
+                  "value": "",
+                  "source": "commons-categories",
+                  "hidden": ""
+                },
+                "GPSLatitude": {
+                  "value": "44.380289",
+                  "source": "commons-desc-page"
+                },
+                "GPSLongitude": {
+                  "value": "12.233072",
+                  "source": "commons-desc-page"
+                },
+                "GPSMapDatum": {
+                  "value": "WGS-84",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "ImageDescription": {
+                  "value": "Sant'Apollinare in Classe - Ravenna",
+                  "source": "commons-desc-page"
+                },
+                "DateTimeOriginal": {
+                  "value": "2016-09-18 10:23:05",
+                  "source": "commons-desc-page"
+                },
+                "Credit": {
+                  "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+                  "source": "commons-desc-page"
+                },
+                "Artist": {
+                  "value": "<bdi><big>José Luiz</big></bdi>",
+                  "source": "commons-desc-page"
+                },
+                "Attribution": {
+                  "value": "© José Luiz Bernardes Ribeiro",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "LicenseShortName": {
+                  "value": "CC BY-SA 4.0",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "UsageTerms": {
+                  "value": "Creative Commons Attribution-Share Alike 4.0",
+                  "source": "commons-desc-page"
+                },
+                "AttributionRequired": {
+                  "value": "true",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "LicenseUrl": {
+                  "value": "https://creativecommons.org/licenses/by-sa/4.0",
+                  "source": "commons-desc-page"
+                },
+                "Copyrighted": {
+                  "value": "True",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "Restrictions": {
+                  "value": "",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "License": {
+                  "value": "cc-by-sa-4.0",
+                  "source": "commons-templates",
+                  "hidden": ""
+                }
+              }
+            }
+          ]
+        },
+        {
+          "pageid": 155428101,
+          "ns": 6,
+          "title": "File:Venerable Saints Himerius, Ursicinus and Fromondus - Orthodox Icon.jpg",
+          "index": 4,
+          "imagerepository": "local",
+          "imageinfo": [
+            {
+              "size": 9232438,
+              "width": 3124,
+              "height": 5358,
+              "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f0/Venerable_Saints_Himerius%2C_Ursicinus_and_Fromondus_-_Orthodox_Icon.jpg/500px-Venerable_Saints_Himerius%2C_Ursicinus_and_Fromondus_-_Orthodox_Icon.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+              "thumbwidth": 400,
+              "thumbheight": 686,
+              "responsiveUrls": {
+                "2": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f0/Venerable_Saints_Himerius%2C_Ursicinus_and_Fromondus_-_Orthodox_Icon.jpg/960px-Venerable_Saints_Himerius%2C_Ursicinus_and_Fromondus_-_Orthodox_Icon.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+              },
+              "thumbattribs": {
+                "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f0/Venerable_Saints_Himerius%2C_Ursicinus_and_Fromondus_-_Orthodox_Icon.jpg/500px-Venerable_Saints_Himerius%2C_Ursicinus_and_Fromondus_-_Orthodox_Icon.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+                "decoding": "async",
+                "loading": "lazy",
+                "width": 400,
+                "height": 686,
+                "srcset": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f0/Venerable_Saints_Himerius%2C_Ursicinus_and_Fromondus_-_Orthodox_Icon.jpg/960px-Venerable_Saints_Himerius%2C_Ursicinus_and_Fromondus_-_Orthodox_Icon.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail 2x"
+              },
+              "url": "https://upload.wikimedia.org/wikipedia/commons/f/f0/Venerable_Saints_Himerius%2C_Ursicinus_and_Fromondus_-_Orthodox_Icon.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+              "descriptionurl": "https://commons.wikimedia.org/wiki/File:Venerable_Saints_Himerius,_Ursicinus_and_Fromondus_-_Orthodox_Icon.jpg",
+              "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=155428101",
+              "extmetadata": {
+                "DateTime": {
+                  "value": "2024-11-20 18:31:10",
+                  "source": "mediawiki-metadata",
+                  "hidden": ""
+                },
+                "ObjectName": {
+                  "value": "Venerable Saints Himerius, Ursicinus and Fromondus - Orthodox Icon",
+                  "source": "mediawiki-metadata"
+                },
+                "CommonsMetadataExtension": {
+                  "value": 1.2,
+                  "source": "extension",
+                  "hidden": ""
+                },
+                "Categories": {
+                  "value": "Halo (religious iconography)|Saints of Switzerland|Saint Ursicinus|Saint Himerius|Extracted images|Monks in art|Byzantine art in Switzerland|Template Unknown (author)|Male saints in art|Synaxis of All Saints of Switzerland",
+                  "source": "commons-categories",
+                  "hidden": ""
+                },
+                "Assessments": {
+                  "value": "",
+                  "source": "commons-categories",
+                  "hidden": ""
+                },
+                "ImageDescription": {
+                  "value": "An Orthodox icon of the Venerable Saints Himerius, Ursicinus and Fromondus of Switzerland.",
+                  "source": "commons-desc-page"
+                },
+                "DateTimeOriginal": {
+                  "value": "21<sup>st</sup> century<div style=\"display: none;\">date QS:P,+2050-00-00T00:00:00Z/7</div>",
+                  "source": "commons-desc-page"
+                },
+                "Credit": {
+                  "value": "<a rel=\"nofollow\" class=\"external free\" href=\"https://en.orthodoxe-heilige.ch/die-ikone\">https://en.orthodoxe-heilige.ch/die-ikone</a>",
+                  "source": "commons-desc-page"
+                },
+                "Artist": {
+                  "value": "Unknown author<span style=\"display: none;\">Unknown author</span>",
+                  "source": "commons-desc-page"
+                },
+                "LicenseShortName": {
+                  "value": "CC BY 4.0",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "UsageTerms": {
+                  "value": "Creative Commons Attribution 4.0",
+                  "source": "commons-desc-page"
+                },
+                "AttributionRequired": {
+                  "value": "true",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "LicenseUrl": {
+                  "value": "https://creativecommons.org/licenses/by/4.0",
+                  "source": "commons-desc-page"
+                },
+                "Copyrighted": {
+                  "value": "True",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "Restrictions": {
+                  "value": "",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "License": {
+                  "value": "cc-by-4.0",
+                  "source": "commons-templates",
+                  "hidden": ""
+                }
+              }
+            }
+          ]
+        },
+        {
+          "pageid": 195997439,
+          "ns": 6,
+          "title": "File:Sanctus Ursicinus Ravenna.jpg",
+          "index": 3,
+          "imagerepository": "local",
+          "imageinfo": [
+            {
+              "size": 133815,
+              "width": 317,
+              "height": 785,
+              "thumburl": "https://upload.wikimedia.org/wikipedia/commons/4/4a/Sanctus_Ursicinus_Ravenna.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+              "thumbwidth": 400,
+              "thumbheight": 991,
+              "thumbattribs": {
+                "src": "https://upload.wikimedia.org/wikipedia/commons/4/4a/Sanctus_Ursicinus_Ravenna.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+                "decoding": "async",
+                "loading": "lazy",
+                "width": 400,
+                "height": 991
+              },
+              "url": "https://upload.wikimedia.org/wikipedia/commons/4/4a/Sanctus_Ursicinus_Ravenna.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+              "descriptionurl": "https://commons.wikimedia.org/wiki/File:Sanctus_Ursicinus_Ravenna.jpg",
+              "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=195997439",
+              "extmetadata": {
+                "DateTime": {
+                  "value": "2026-07-22 05:28:43",
+                  "source": "mediawiki-metadata",
+                  "hidden": ""
+                },
+                "ObjectName": {
+                  "value": "Sanctus Ursicinus Ravenna",
+                  "source": "mediawiki-metadata"
+                },
+                "CommonsMetadataExtension": {
+                  "value": 1.2,
+                  "source": "extension",
+                  "hidden": ""
+                },
+                "Categories": {
+                  "value": "Author died more than 70 years ago public domain images|CC-PD-Mark|PD-old missing SDC copyright status|Mosaic of the holy martyrs in Sant'Apollinare Nuovo (Ravenna) - Details|Ursicinus of Ravenna (martyr)",
+                  "source": "commons-categories",
+                  "hidden": ""
+                },
+                "Assessments": {
+                  "value": "",
+                  "source": "commons-categories",
+                  "hidden": ""
+                },
+                "ImageDescription": {
+                  "value": "Mosaic of Saint Ursicinus from Sant'Apollinare Nuovo in Ravenna",
+                  "source": "commons-desc-page"
+                },
+                "DateTimeOriginal": {
+                  "value": "6<sup>th</sup> century<div style=\"display: none;\">date QS:P,+550-00-00T00:00:00Z/7</div>",
+                  "source": "commons-desc-page"
+                },
+                "Credit": {
+                  "value": "<a href=\"//commons.wikimedia.org/wiki/File:Ravenna,_sant%27apollinare_nuovo,_int.,_santi_martiri_offerenti,_epoca_del_vescovo_agnello,_03.JPG\" title=\"File:Ravenna, sant'apollinare nuovo, int., santi martiri offerenti, epoca del vescovo agnello, 03.JPG\">File:Ravenna,_sant'apollinare_nuovo,_int.,_santi_martiri_offerenti,_epoca_del_vescovo_agnello,_03.JPG</a>",
+                  "source": "commons-desc-page"
+                },
+                "Artist": {
+                  "value": "Sailko",
+                  "source": "commons-desc-page"
+                },
+                "LicenseShortName": {
+                  "value": "Public domain",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "UsageTerms": {
+                  "value": "Public domain",
+                  "source": "commons-desc-page"
+                },
+                "AttributionRequired": {
+                  "value": "false",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "Copyrighted": {
+                  "value": "False",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "Restrictions": {
+                  "value": "",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "License": {
+                  "value": "pd",
+                  "source": "commons-templates",
+                  "hidden": ""
+                }
+              }
+            }
+          ]
+        }
+      ]
+    }
+  }
+}

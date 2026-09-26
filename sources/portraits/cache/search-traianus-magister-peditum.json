@@ -1,0 +1,546 @@
+{
+  "person_id": "traianus-magister-peditum",
+  "query": "Traianus (magister peditum)",
+  "response": {
+    "batchcomplete": true,
+    "continue": {
+      "gsroffset": 5,
+      "continue": "gsroffset||"
+    },
+    "query": {
+      "pages": [
+        {
+          "pageid": 12024391,
+          "ns": 6,
+          "title": "File:Marcus Ulpius Nerva Traianus Trajan.jpg",
+          "index": 2,
+          "imagerepository": "local",
+          "imageinfo": [
+            {
+              "size": 3291963,
+              "width": 3456,
+              "height": 4712,
+              "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ef/Marcus_Ulpius_Nerva_Traianus_Trajan.jpg/500px-Marcus_Ulpius_Nerva_Traianus_Trajan.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+              "thumbwidth": 400,
+              "thumbheight": 545,
+              "responsiveUrls": {
+                "2": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ef/Marcus_Ulpius_Nerva_Traianus_Trajan.jpg/960px-Marcus_Ulpius_Nerva_Traianus_Trajan.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+              },
+              "thumbattribs": {
+                "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ef/Marcus_Ulpius_Nerva_Traianus_Trajan.jpg/500px-Marcus_Ulpius_Nerva_Traianus_Trajan.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+                "decoding": "async",
+                "loading": "lazy",
+                "width": 400,
+                "height": 545,
+                "srcset": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ef/Marcus_Ulpius_Nerva_Traianus_Trajan.jpg/960px-Marcus_Ulpius_Nerva_Traianus_Trajan.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail 2x"
+              },
+              "url": "https://upload.wikimedia.org/wikipedia/commons/e/ef/Marcus_Ulpius_Nerva_Traianus_Trajan.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+              "descriptionurl": "https://commons.wikimedia.org/wiki/File:Marcus_Ulpius_Nerva_Traianus_Trajan.jpg",
+              "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=12024391",
+              "extmetadata": {
+                "DateTime": {
+                  "value": "2010-11-12 18:36:25",
+                  "source": "mediawiki-metadata",
+                  "hidden": ""
+                },
+                "ObjectName": {
+                  "value": "Marcus Ulpius Nerva Traianus Trajan",
+                  "source": "mediawiki-metadata"
+                },
+                "CommonsMetadataExtension": {
+                  "value": 1.2,
+                  "source": "extension",
+                  "hidden": ""
+                },
+                "Categories": {
+                  "value": "Taken with Sony DSLR-A550|Files with no machine-readable author|Palissy|Images with unicolor background|Artworks without Wikidata item|Self-published work|PD-self|Objets monuments historiques classés|Cultural heritage monument objects in France with known IDs|Objets monuments historiques in Seine-et-Marne (statues)|17th-century marble busts of men|17th-century marble busts from Italy|17th-century busts in Seine-et-Marne|Marble busts in Seine-et-Marne|17th-century marble busts in France|Files with coordinates missing SDC location of creation (48° N, 2° E)|Sculptures in the Château de Vaux-le-Vicomte|Palissy with PM parameter|Château de Vaux-le-Vicomte - Grand salon|Post-antique busts of Traianus",
+                  "source": "commons-categories",
+                  "hidden": ""
+                },
+                "Assessments": {
+                  "value": "quality",
+                  "source": "commons-categories",
+                  "hidden": ""
+                },
+                "GPSLatitude": {
+                  "value": "48.565750",
+                  "source": "commons-desc-page"
+                },
+                "GPSLongitude": {
+                  "value": "2.714167",
+                  "source": "commons-desc-page"
+                },
+                "GPSMapDatum": {
+                  "value": "WGS-84",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "ImageDescription": {
+                  "value": "Marcus Ulpius Nerva Traianus. Roman Emperor <a href=\"https://en.wikipedia.org/wiki/Trajan\" class=\"extiw\" title=\"en:Trajan\">Trajan</a> (53-117). Florentine bust.",
+                  "source": "commons-desc-page"
+                },
+                "DateTimeOriginal": {
+                  "value": "17<sup>th</sup> century<div style=\"display: none;\">date QS:P571,+1650-00-00T00:00:00Z/7</div>",
+                  "source": "commons-desc-page"
+                },
+                "Credit": {
+                  "value": "Photograph:  <a href=\"//commons.wikimedia.org/wiki/User:Jebulon\" title=\"User:Jebulon\">Jebulon</a>, 5 September 2010",
+                  "source": "commons-desc-page"
+                },
+                "LicenseShortName": {
+                  "value": "Public domain",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "UsageTerms": {
+                  "value": "Public domain",
+                  "source": "commons-desc-page"
+                },
+                "AttributionRequired": {
+                  "value": "false",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "Copyrighted": {
+                  "value": "False",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "Restrictions": {
+                  "value": "",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "License": {
+                  "value": "pd",
+                  "source": "commons-templates",
+                  "hidden": ""
+                }
+              }
+            }
+          ]
+        },
+        {
+          "pageid": 49948585,
+          "ns": 6,
+          "title": "File:Statue of Traianus, Louvre.jpg",
+          "index": 3,
+          "imagerepository": "local",
+          "imageinfo": [
+            {
+              "size": 4347514,
+              "width": 3264,
+              "height": 4928,
+              "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/78/Statue_of_Traianus%2C_Louvre.jpg/500px-Statue_of_Traianus%2C_Louvre.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+              "thumbwidth": 400,
+              "thumbheight": 604,
+              "responsiveUrls": {
+                "2": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/78/Statue_of_Traianus%2C_Louvre.jpg/960px-Statue_of_Traianus%2C_Louvre.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+              },
+              "thumbattribs": {
+                "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/78/Statue_of_Traianus%2C_Louvre.jpg/500px-Statue_of_Traianus%2C_Louvre.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+                "decoding": "async",
+                "loading": "lazy",
+                "width": 400,
+                "height": 604,
+                "srcset": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/78/Statue_of_Traianus%2C_Louvre.jpg/960px-Statue_of_Traianus%2C_Louvre.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail 2x"
+              },
+              "url": "https://upload.wikimedia.org/wikipedia/commons/7/78/Statue_of_Traianus%2C_Louvre.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+              "descriptionurl": "https://commons.wikimedia.org/wiki/File:Statue_of_Traianus,_Louvre.jpg",
+              "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=49948585",
+              "extmetadata": {
+                "DateTime": {
+                  "value": "2016-07-06 11:32:15",
+                  "source": "mediawiki-metadata",
+                  "hidden": ""
+                },
+                "ObjectName": {
+                  "value": "Statue of Traianus, Louvre",
+                  "source": "mediawiki-metadata"
+                },
+                "CommonsMetadataExtension": {
+                  "value": 1.2,
+                  "source": "extension",
+                  "hidden": ""
+                },
+                "Categories": {
+                  "value": "Uploaded with VicuñaUploader|Statue of Traianus (Louvre, Ma 1150)|Photos by Darafsh Kaviyani",
+                  "source": "commons-categories",
+                  "hidden": ""
+                },
+                "Assessments": {
+                  "value": "",
+                  "source": "commons-categories",
+                  "hidden": ""
+                },
+                "ImageDescription": {
+                  "value": "<a href=\"https://en.wikipedia.org/wiki/Louvre\" class=\"extiw\" title=\"en:Louvre\">Louvre</a> museum",
+                  "source": "commons-desc-page"
+                },
+                "DateTimeOriginal": {
+                  "value": "2016-07-01",
+                  "source": "commons-desc-page"
+                },
+                "Credit": {
+                  "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+                  "source": "commons-desc-page"
+                },
+                "Artist": {
+                  "value": "<a href=\"//commons.wikimedia.org/wiki/User:%D8%AF%D8%B1%D9%81%D8%B4_%DA%A9%D8%A7%D9%88%DB%8C%D8%A7%D9%86%DB%8C\" class=\"mw-redirect\" title=\"User:درفش کاویانی\">Darafsh</a>",
+                  "source": "commons-desc-page"
+                },
+                "LicenseShortName": {
+                  "value": "CC BY-SA 3.0",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "UsageTerms": {
+                  "value": "Creative Commons Attribution-Share Alike 3.0",
+                  "source": "commons-desc-page"
+                },
+                "AttributionRequired": {
+                  "value": "true",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "LicenseUrl": {
+                  "value": "https://creativecommons.org/licenses/by-sa/3.0",
+                  "source": "commons-desc-page"
+                },
+                "Copyrighted": {
+                  "value": "True",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "Restrictions": {
+                  "value": "",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "License": {
+                  "value": "cc-by-sa-3.0",
+                  "source": "commons-templates",
+                  "hidden": ""
+                }
+              }
+            }
+          ]
+        },
+        {
+          "pageid": 69935564,
+          "ns": 6,
+          "title": "File:Traianus (par «Nicholo»).jpg",
+          "index": 5,
+          "imagerepository": "local",
+          "imageinfo": [
+            {
+              "size": 3498453,
+              "width": 3520,
+              "height": 4622,
+              "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/72/Traianus_%28par_%C2%ABNicholo%C2%BB%29.jpg/500px-Traianus_%28par_%C2%ABNicholo%C2%BB%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+              "thumbwidth": 400,
+              "thumbheight": 525,
+              "responsiveUrls": {
+                "2": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/72/Traianus_%28par_%C2%ABNicholo%C2%BB%29.jpg/960px-Traianus_%28par_%C2%ABNicholo%C2%BB%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+              },
+              "thumbattribs": {
+                "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/72/Traianus_%28par_%C2%ABNicholo%C2%BB%29.jpg/500px-Traianus_%28par_%C2%ABNicholo%C2%BB%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+                "decoding": "async",
+                "loading": "lazy",
+                "width": 400,
+                "height": 525,
+                "srcset": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/72/Traianus_%28par_%C2%ABNicholo%C2%BB%29.jpg/960px-Traianus_%28par_%C2%ABNicholo%C2%BB%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail 2x"
+              },
+              "url": "https://upload.wikimedia.org/wikipedia/commons/7/72/Traianus_%28par_%C2%ABNicholo%C2%BB%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+              "descriptionurl": "https://commons.wikimedia.org/wiki/File:Traianus_(par_%C2%ABNicholo%C2%BB).jpg",
+              "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=69935564",
+              "extmetadata": {
+                "DateTime": {
+                  "value": "2018-06-14 11:58:43",
+                  "source": "mediawiki-metadata",
+                  "hidden": ""
+                },
+                "ObjectName": {
+                  "value": "Traianus (par «Nicholo»)",
+                  "source": "mediawiki-metadata"
+                },
+                "CommonsMetadataExtension": {
+                  "value": 1.2,
+                  "source": "extension",
+                  "hidden": ""
+                },
+                "Categories": {
+                  "value": "Traianus|PD-Art (PD-old-70)|Unknown date|CC-PD-Mark|PD-Art missing SDC copyright status|PD-old missing SDC copyright status",
+                  "source": "commons-categories",
+                  "hidden": ""
+                },
+                "Assessments": {
+                  "value": "",
+                  "source": "commons-categories",
+                  "hidden": ""
+                },
+                "ImageDescription": {
+                  "value": "portrait gravé",
+                  "source": "commons-desc-page"
+                },
+                "DateTimeOriginal": {
+                  "value": "Unknown date",
+                  "source": "commons-desc-page"
+                },
+                "Credit": {
+                  "value": "tirage original",
+                  "source": "commons-desc-page"
+                },
+                "Artist": {
+                  "value": "«J<sup>n</sup> Nicholo»",
+                  "source": "commons-desc-page"
+                },
+                "LicenseShortName": {
+                  "value": "Public domain",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "UsageTerms": {
+                  "value": "Public domain",
+                  "source": "commons-desc-page"
+                },
+                "AttributionRequired": {
+                  "value": "false",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "Copyrighted": {
+                  "value": "False",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "Restrictions": {
+                  "value": "",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "License": {
+                  "value": "pd",
+                  "source": "commons-templates",
+                  "hidden": ""
+                }
+              }
+            }
+          ]
+        },
+        {
+          "pageid": 111137400,
+          "ns": 6,
+          "title": "File:A bust of Traianus-Museo Chiaramonti.jpg",
+          "index": 4,
+          "imagerepository": "local",
+          "imageinfo": [
+            {
+              "size": 747410,
+              "width": 1344,
+              "height": 2334,
+              "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/22/A_bust_of_Traianus-Museo_Chiaramonti.jpg/500px-A_bust_of_Traianus-Museo_Chiaramonti.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+              "thumbwidth": 400,
+              "thumbheight": 695,
+              "responsiveUrls": {
+                "2": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/22/A_bust_of_Traianus-Museo_Chiaramonti.jpg/960px-A_bust_of_Traianus-Museo_Chiaramonti.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+              },
+              "thumbattribs": {
+                "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/22/A_bust_of_Traianus-Museo_Chiaramonti.jpg/500px-A_bust_of_Traianus-Museo_Chiaramonti.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+                "decoding": "async",
+                "loading": "lazy",
+                "width": 400,
+                "height": 695,
+                "srcset": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/22/A_bust_of_Traianus-Museo_Chiaramonti.jpg/960px-A_bust_of_Traianus-Museo_Chiaramonti.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail 2x"
+              },
+              "url": "https://upload.wikimedia.org/wikipedia/commons/2/22/A_bust_of_Traianus-Museo_Chiaramonti.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+              "descriptionurl": "https://commons.wikimedia.org/wiki/File:A_bust_of_Traianus-Museo_Chiaramonti.jpg",
+              "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=111137400",
+              "extmetadata": {
+                "DateTime": {
+                  "value": "2021-10-17 10:03:34",
+                  "source": "mediawiki-metadata",
+                  "hidden": ""
+                },
+                "ObjectName": {
+                  "value": "A bust of Traianus-Museo Chiaramonti",
+                  "source": "mediawiki-metadata"
+                },
+                "CommonsMetadataExtension": {
+                  "value": 1.2,
+                  "source": "extension",
+                  "hidden": ""
+                },
+                "Categories": {
+                  "value": "Self-published work|Bust of Traianus (Vatican Museums, Chiaramonti, 3)",
+                  "source": "commons-categories",
+                  "hidden": ""
+                },
+                "Assessments": {
+                  "value": "",
+                  "source": "commons-categories",
+                  "hidden": ""
+                },
+                "ImageDescription": {
+                  "value": "A bust of Traianus",
+                  "source": "commons-desc-page"
+                },
+                "DateTimeOriginal": {
+                  "value": "2009-10-02 11:37:29",
+                  "source": "commons-desc-page"
+                },
+                "Credit": {
+                  "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+                  "source": "commons-desc-page"
+                },
+                "Artist": {
+                  "value": "<a href=\"//commons.wikimedia.org/wiki/User:Yair-haklai\" title=\"User:Yair-haklai\">Yair Haklai</a>",
+                  "source": "commons-desc-page"
+                },
+                "LicenseShortName": {
+                  "value": "CC BY-SA 4.0",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "UsageTerms": {
+                  "value": "Creative Commons Attribution-Share Alike 4.0",
+                  "source": "commons-desc-page"
+                },
+                "AttributionRequired": {
+                  "value": "true",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "LicenseUrl": {
+                  "value": "https://creativecommons.org/licenses/by-sa/4.0",
+                  "source": "commons-desc-page"
+                },
+                "Copyrighted": {
+                  "value": "True",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "Restrictions": {
+                  "value": "",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "License": {
+                  "value": "cc-by-sa-4.0",
+                  "source": "commons-templates",
+                  "hidden": ""
+                }
+              }
+            }
+          ]
+        },
+        {
+          "pageid": 145710704,
+          "ns": 6,
+          "title": "File:Budapest, Békásmegyer, Traianus tér, 3.jpg",
+          "index": 1,
+          "imagerepository": "local",
+          "imageinfo": [
+            {
+              "size": 2267916,
+              "width": 3648,
+              "height": 2736,
+              "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/85/Budapest%2C_B%C3%A9k%C3%A1smegyer%2C_Traianus_t%C3%A9r%2C_3.jpg/500px-Budapest%2C_B%C3%A9k%C3%A1smegyer%2C_Traianus_t%C3%A9r%2C_3.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+              "thumbwidth": 400,
+              "thumbheight": 300,
+              "responsiveUrls": {
+                "2": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/85/Budapest%2C_B%C3%A9k%C3%A1smegyer%2C_Traianus_t%C3%A9r%2C_3.jpg/960px-Budapest%2C_B%C3%A9k%C3%A1smegyer%2C_Traianus_t%C3%A9r%2C_3.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+              },
+              "thumbattribs": {
+                "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/85/Budapest%2C_B%C3%A9k%C3%A1smegyer%2C_Traianus_t%C3%A9r%2C_3.jpg/500px-Budapest%2C_B%C3%A9k%C3%A1smegyer%2C_Traianus_t%C3%A9r%2C_3.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+                "decoding": "async",
+                "loading": "lazy",
+                "width": 400,
+                "height": 300,
+                "srcset": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/85/Budapest%2C_B%C3%A9k%C3%A1smegyer%2C_Traianus_t%C3%A9r%2C_3.jpg/960px-Budapest%2C_B%C3%A9k%C3%A1smegyer%2C_Traianus_t%C3%A9r%2C_3.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail 2x"
+              },
+              "url": "https://upload.wikimedia.org/wikipedia/commons/8/85/Budapest%2C_B%C3%A9k%C3%A1smegyer%2C_Traianus_t%C3%A9r%2C_3.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+              "descriptionurl": "https://commons.wikimedia.org/wiki/File:Budapest,_B%C3%A9k%C3%A1smegyer,_Traianus_t%C3%A9r,_3.jpg",
+              "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=145710704",
+              "extmetadata": {
+                "DateTime": {
+                  "value": "2024-02-23 04:40:53",
+                  "source": "mediawiki-metadata",
+                  "hidden": ""
+                },
+                "ObjectName": {
+                  "value": "Budapest, Békásmegyer, Traianus tér, 3",
+                  "source": "mediawiki-metadata"
+                },
+                "CommonsMetadataExtension": {
+                  "value": 1.2,
+                  "source": "extension",
+                  "hidden": ""
+                },
+                "Categories": {
+                  "value": "CC-Zero|Self-published work|Traianus tér",
+                  "source": "commons-categories",
+                  "hidden": ""
+                },
+                "Assessments": {
+                  "value": "",
+                  "source": "commons-categories",
+                  "hidden": ""
+                },
+                "ImageDescription": {
+                  "value": "Budapest, Békásmegyer, Traianus tér",
+                  "source": "commons-desc-page"
+                },
+                "DateTimeOriginal": {
+                  "value": "2024-01-11 16:44:26",
+                  "source": "commons-desc-page"
+                },
+                "Credit": {
+                  "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+                  "source": "commons-desc-page"
+                },
+                "Artist": {
+                  "value": "<a href=\"//commons.wikimedia.org/w/index.php?title=User:Random_photos_1989&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"User:Random photos 1989 (page does not exist)\">Random photos 1989</a>",
+                  "source": "commons-desc-page"
+                },
+                "LicenseShortName": {
+                  "value": "CC0",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "UsageTerms": {
+                  "value": "Creative Commons Zero, Public Domain Dedication",
+                  "source": "commons-desc-page"
+                },
+                "AttributionRequired": {
+                  "value": "false",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "LicenseUrl": {
+                  "value": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+                  "source": "commons-desc-page"
+                },
+                "Copyrighted": {
+                  "value": "True",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "Restrictions": {
+                  "value": "",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "License": {
+                  "value": "cc0",
+                  "source": "commons-templates",
+                  "hidden": ""
+                }
+              }
+            }
+          ]
+        }
+      ]
+    }
+  }
+}

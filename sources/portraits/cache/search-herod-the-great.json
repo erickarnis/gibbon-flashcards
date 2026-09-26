@@ -1,0 +1,513 @@
+{
+  "person_id": "herod-the-great",
+  "query": "Herod portrait",
+  "response": {
+    "batchcomplete": true,
+    "continue": {
+      "gsroffset": 5,
+      "continue": "gsroffset||"
+    },
+    "query": {
+      "pages": [
+        {
+          "pageid": 432354,
+          "ns": 6,
+          "title": "File:Herod (horse).jpg",
+          "index": 3,
+          "imagerepository": "local",
+          "imageinfo": [
+            {
+              "size": 56442,
+              "width": 300,
+              "height": 217,
+              "thumburl": "https://upload.wikimedia.org/wikipedia/commons/f/fd/Herod_%28horse%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+              "thumbwidth": 400,
+              "thumbheight": 289,
+              "thumbattribs": {
+                "src": "https://upload.wikimedia.org/wikipedia/commons/f/fd/Herod_%28horse%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+                "decoding": "async",
+                "loading": "lazy",
+                "width": 400,
+                "height": 289
+              },
+              "url": "https://upload.wikimedia.org/wikipedia/commons/f/fd/Herod_%28horse%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+              "descriptionurl": "https://commons.wikimedia.org/wiki/File:Herod_(horse).jpg",
+              "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=432354",
+              "extmetadata": {
+                "DateTime": {
+                  "value": "2005-11-24 09:33:31",
+                  "source": "mediawiki-metadata",
+                  "hidden": ""
+                },
+                "ObjectName": {
+                  "value": "Herod (horse)",
+                  "source": "mediawiki-metadata"
+                },
+                "CommonsMetadataExtension": {
+                  "value": 1.2,
+                  "source": "extension",
+                  "hidden": ""
+                },
+                "Categories": {
+                  "value": "Files with no machine-readable source|Artworks without Wikidata item|PD Old auto: no death date|PD-Art (PD-old-auto-expired)|Images without source|PD US expired|Template Unknown (author)|PD-Art missing SDC copyright status|PD-old missing SDC copyright status|PD-US missing SDC copyright status|Portrait paintings of Thoroughbred racehorses|Herod (horse)",
+                  "source": "commons-categories",
+                  "hidden": ""
+                },
+                "Assessments": {
+                  "value": "",
+                  "source": "commons-categories",
+                  "hidden": ""
+                },
+                "Artist": {
+                  "value": "<div class=\"fn value\">\nUnknown author<span style=\"display: none;\">Unknown author</span></div>",
+                  "source": "commons-desc-page"
+                },
+                "ImageDescription": {
+                  "value": "<div class=\"description\">\n<a href=\"https://en.wikipedia.org/wiki/Herod_(horse)\" class=\"extiw\" title=\"en:Herod (horse)\">Herod</a> (British racehorses of the 18th century)</div>",
+                  "source": "commons-desc-page"
+                },
+                "DateTimeOriginal": {
+                  "value": "18th century",
+                  "source": "commons-desc-page"
+                },
+                "LicenseShortName": {
+                  "value": "Public domain",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "UsageTerms": {
+                  "value": "Public domain",
+                  "source": "commons-desc-page"
+                },
+                "AttributionRequired": {
+                  "value": "false",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "Copyrighted": {
+                  "value": "False",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "Restrictions": {
+                  "value": "",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "License": {
+                  "value": "pd",
+                  "source": "commons-templates",
+                  "hidden": ""
+                }
+              }
+            }
+          ]
+        },
+        {
+          "pageid": 52504999,
+          "ns": 6,
+          "title": "File:Her Majesty's Theatre - Maud Jeffries in Herod, 1902.gif",
+          "index": 5,
+          "imagerepository": "local",
+          "imageinfo": [
+            {
+              "size": 87170,
+              "width": 382,
+              "height": 500,
+              "thumburl": "https://upload.wikimedia.org/wikipedia/commons/4/4c/Her_Majesty%27s_Theatre_-_Maud_Jeffries_in_Herod%2C_1902.gif?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+              "thumbwidth": 400,
+              "thumbheight": 524,
+              "thumbattribs": {
+                "src": "https://upload.wikimedia.org/wikipedia/commons/4/4c/Her_Majesty%27s_Theatre_-_Maud_Jeffries_in_Herod%2C_1902.gif?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+                "decoding": "async",
+                "loading": "lazy",
+                "width": 400,
+                "height": 524
+              },
+              "url": "https://upload.wikimedia.org/wikipedia/commons/4/4c/Her_Majesty%27s_Theatre_-_Maud_Jeffries_in_Herod%2C_1902.gif?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+              "descriptionurl": "https://commons.wikimedia.org/wiki/File:Her_Majesty%27s_Theatre_-_Maud_Jeffries_in_Herod,_1902.gif",
+              "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=52504999",
+              "extmetadata": {
+                "DateTime": {
+                  "value": "2016-10-25 16:38:54",
+                  "source": "mediawiki-metadata",
+                  "hidden": ""
+                },
+                "ObjectName": {
+                  "value": "Her Majesty's Theatre - Maud Jeffries in Herod, 1902",
+                  "source": "mediawiki-metadata"
+                },
+                "CommonsMetadataExtension": {
+                  "value": 1.2,
+                  "source": "extension",
+                  "hidden": ""
+                },
+                "Categories": {
+                  "value": "Mariamne (second wife of Herod)|1900 in theatre|PD-old-70-expired|Files, uploaded by Shakko from various sources|CC-PD-Mark|PD-old missing SDC copyright status|Maud Jeffries|Herod: A Tragedy",
+                  "source": "commons-categories",
+                  "hidden": ""
+                },
+                "Assessments": {
+                  "value": "",
+                  "source": "commons-categories",
+                  "hidden": ""
+                },
+                "ImageDescription": {
+                  "value": "Maud Jeffries in Herod. Players of the Day, a Series of portraits in colour of theatrical celebrities of the present time. Published by George Newnes, Southampton St. Strand, London, 1902",
+                  "source": "commons-desc-page"
+                },
+                "DateTimeOriginal": {
+                  "value": "1902",
+                  "source": "commons-desc-page"
+                },
+                "Credit": {
+                  "value": "<a rel=\"nofollow\" class=\"external free\" href=\"http://www.theatreprogrammes.co.uk/Phillips/Herod.html\">http://www.theatreprogrammes.co.uk/Phillips/Herod.html</a>",
+                  "source": "commons-desc-page"
+                },
+                "Artist": {
+                  "value": "Her Majesty's Theatre",
+                  "source": "commons-desc-page"
+                },
+                "LicenseShortName": {
+                  "value": "Public domain",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "UsageTerms": {
+                  "value": "Public domain",
+                  "source": "commons-desc-page"
+                },
+                "AttributionRequired": {
+                  "value": "false",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "Copyrighted": {
+                  "value": "False",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "Restrictions": {
+                  "value": "",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "License": {
+                  "value": "pd",
+                  "source": "commons-templates",
+                  "hidden": ""
+                }
+              }
+            }
+          ]
+        },
+        {
+          "pageid": 67951393,
+          "ns": 6,
+          "title": "File:Portrait of Herod Atticus (ca. 150 A.D.) at the National Archaeological Museum (27 March 2018).jpg",
+          "index": 4,
+          "imagerepository": "local",
+          "imageinfo": [
+            {
+              "size": 21107067,
+              "width": 3999,
+              "height": 5999,
+              "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/98/Portrait_of_Herod_Atticus_%28ca._150_A.D.%29_at_the_National_Archaeological_Museum_%2827_March_2018%29.jpg/500px-Portrait_of_Herod_Atticus_%28ca._150_A.D.%29_at_the_National_Archaeological_Museum_%2827_March_2018%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+              "thumbwidth": 400,
+              "thumbheight": 600,
+              "responsiveUrls": {
+                "2": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/98/Portrait_of_Herod_Atticus_%28ca._150_A.D.%29_at_the_National_Archaeological_Museum_%2827_March_2018%29.jpg/960px-Portrait_of_Herod_Atticus_%28ca._150_A.D.%29_at_the_National_Archaeological_Museum_%2827_March_2018%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+              },
+              "thumbattribs": {
+                "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/98/Portrait_of_Herod_Atticus_%28ca._150_A.D.%29_at_the_National_Archaeological_Museum_%2827_March_2018%29.jpg/500px-Portrait_of_Herod_Atticus_%28ca._150_A.D.%29_at_the_National_Archaeological_Museum_%2827_March_2018%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+                "decoding": "async",
+                "loading": "lazy",
+                "width": 400,
+                "height": 600,
+                "srcset": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/98/Portrait_of_Herod_Atticus_%28ca._150_A.D.%29_at_the_National_Archaeological_Museum_%2827_March_2018%29.jpg/960px-Portrait_of_Herod_Atticus_%28ca._150_A.D.%29_at_the_National_Archaeological_Museum_%2827_March_2018%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail 2x"
+              },
+              "url": "https://upload.wikimedia.org/wikipedia/commons/9/98/Portrait_of_Herod_Atticus_%28ca._150_A.D.%29_at_the_National_Archaeological_Museum_%2827_March_2018%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+              "descriptionurl": "https://commons.wikimedia.org/wiki/File:Portrait_of_Herod_Atticus_(ca._150_A.D.)_at_the_National_Archaeological_Museum_(27_March_2018).jpg",
+              "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=67951393",
+              "extmetadata": {
+                "DateTime": {
+                  "value": "2023-03-28 23:38:29",
+                  "source": "mediawiki-metadata",
+                  "hidden": ""
+                },
+                "ObjectName": {
+                  "value": "Portrait of Herod Atticus (ca. 150 A.D.) at the National Archaeological Museum (27 March 2018)",
+                  "source": "mediawiki-metadata"
+                },
+                "CommonsMetadataExtension": {
+                  "value": 1.2,
+                  "source": "extension",
+                  "hidden": ""
+                },
+                "Categories": {
+                  "value": "Herodes Atticus|Self-published work|2018 in Athens|Busts of men in Greece|Greece photographs taken on 2018-03-27|Hellenistic busts in the National Archaeological Museum of Athens",
+                  "source": "commons-categories",
+                  "hidden": ""
+                },
+                "Assessments": {
+                  "value": "",
+                  "source": "commons-categories",
+                  "hidden": ""
+                },
+                "ImageDescription": {
+                  "value": "Portrait of Herod Atticus. Pentelic marble. Probably from Attica. The portrait depicts Vibullius Hipparchus Tiberius Claudius Atticus Herodes (101-178 A.D.), a prominent Athenian orator, sophist and philosopher, who was a benefactor mainly of Athens, but also of many other cities, adorning them with public buildings. As main representative of the Second Sophistic, Herodes had as role model in his public and personal life Hadrian (imitation Hadriani), who was one of his numerous pupils. Ca. 150 A.D. Accession Number: 572. National Archaeological Museum of Athens. Athens, Greece. Text credit: Museum inscription.",
+                  "source": "commons-desc-page"
+                },
+                "DateTimeOriginal": {
+                  "value": "2018-03-27 11:46:41",
+                  "source": "commons-desc-page"
+                },
+                "Credit": {
+                  "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+                  "source": "commons-desc-page"
+                },
+                "Artist": {
+                  "value": "<a href=\"//commons.wikimedia.org/wiki/User:George_E._Koronaios\" title=\"User:George E. Koronaios\">George E. Koronaios</a>",
+                  "source": "commons-desc-page"
+                },
+                "LicenseShortName": {
+                  "value": "CC BY-SA 4.0",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "UsageTerms": {
+                  "value": "Creative Commons Attribution-Share Alike 4.0",
+                  "source": "commons-desc-page"
+                },
+                "AttributionRequired": {
+                  "value": "true",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "LicenseUrl": {
+                  "value": "https://creativecommons.org/licenses/by-sa/4.0",
+                  "source": "commons-desc-page"
+                },
+                "Copyrighted": {
+                  "value": "True",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "Restrictions": {
+                  "value": "",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "License": {
+                  "value": "cc-by-sa-4.0",
+                  "source": "commons-templates",
+                  "hidden": ""
+                }
+              }
+            }
+          ]
+        },
+        {
+          "pageid": 116196634,
+          "ns": 6,
+          "title": "File:James A. Herod (1860-1948) portrait.jpg",
+          "index": 1,
+          "imagerepository": "local",
+          "imageinfo": [
+            {
+              "size": 50767,
+              "width": 320,
+              "height": 303,
+              "thumburl": "https://upload.wikimedia.org/wikipedia/commons/b/b7/James_A._Herod_%281860-1948%29_portrait.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+              "thumbwidth": 400,
+              "thumbheight": 379,
+              "thumbattribs": {
+                "src": "https://upload.wikimedia.org/wikipedia/commons/b/b7/James_A._Herod_%281860-1948%29_portrait.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+                "decoding": "async",
+                "loading": "lazy",
+                "width": 400,
+                "height": 379
+              },
+              "url": "https://upload.wikimedia.org/wikipedia/commons/b/b7/James_A._Herod_%281860-1948%29_portrait.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+              "descriptionurl": "https://commons.wikimedia.org/wiki/File:James_A._Herod_(1860-1948)_portrait.jpg",
+              "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=116196634",
+              "extmetadata": {
+                "DateTime": {
+                  "value": "2022-03-18 22:36:03",
+                  "source": "mediawiki-metadata",
+                  "hidden": ""
+                },
+                "ObjectName": {
+                  "value": "James A. Herod (1860-1948) portrait",
+                  "source": "mediawiki-metadata"
+                },
+                "CommonsMetadataExtension": {
+                  "value": 1.2,
+                  "source": "extension",
+                  "hidden": ""
+                },
+                "Categories": {
+                  "value": "James A. Herod|PD US expired",
+                  "source": "commons-categories",
+                  "hidden": ""
+                },
+                "Assessments": {
+                  "value": "",
+                  "source": "commons-categories",
+                  "hidden": ""
+                },
+                "ImageDescription": {
+                  "value": "James A. Herod (1860-1948) portrait",
+                  "source": "commons-desc-page"
+                },
+                "DateTimeOriginal": {
+                  "value": "circa 1900<div style=\"display: none;\">date QS:P,+1900-00-00T00:00:00Z/9,P1480,Q5727902</div>",
+                  "source": "commons-desc-page"
+                },
+                "Credit": {
+                  "value": "<a rel=\"nofollow\" class=\"external free\" href=\"http://vermilionhistorical.com/archives/features/biographies/james_a_herod.htm\">http://vermilionhistorical.com/archives/features/biographies/james_a_herod.htm</a>",
+                  "source": "commons-desc-page"
+                },
+                "Artist": {
+                  "value": "<span lang=\"en\">Anonymous</span><span style=\"display:none\">Unknown author</span>",
+                  "source": "commons-desc-page"
+                },
+                "LicenseShortName": {
+                  "value": "Public domain",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "UsageTerms": {
+                  "value": "Public domain",
+                  "source": "commons-desc-page"
+                },
+                "AttributionRequired": {
+                  "value": "false",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "Copyrighted": {
+                  "value": "False",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "Restrictions": {
+                  "value": "",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "License": {
+                  "value": "pd",
+                  "source": "commons-templates",
+                  "hidden": ""
+                }
+              }
+            }
+          ]
+        },
+        {
+          "pageid": 141006468,
+          "ns": 6,
+          "title": "File:Herbert Beerbohm Tree (1853–1917) as Herod and Maud Jeffries (1869–1946) as Mariamne in Herod.png",
+          "index": 2,
+          "imagerepository": "local",
+          "imageinfo": [
+            {
+              "size": 467887,
+              "width": 918,
+              "height": 999,
+              "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b1/Herbert_Beerbohm_Tree_%281853%E2%80%931917%29_as_Herod_and_Maud_Jeffries_%281869%E2%80%931946%29_as_Mariamne_in_Herod.png/500px-Herbert_Beerbohm_Tree_%281853%E2%80%931917%29_as_Herod_and_Maud_Jeffries_%281869%E2%80%931946%29_as_Mariamne_in_Herod.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+              "thumbwidth": 400,
+              "thumbheight": 435,
+              "responsiveUrls": {
+                "2": "https://upload.wikimedia.org/wikipedia/commons/b/b1/Herbert_Beerbohm_Tree_%281853%E2%80%931917%29_as_Herod_and_Maud_Jeffries_%281869%E2%80%931946%29_as_Mariamne_in_Herod.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled"
+              },
+              "thumbattribs": {
+                "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b1/Herbert_Beerbohm_Tree_%281853%E2%80%931917%29_as_Herod_and_Maud_Jeffries_%281869%E2%80%931946%29_as_Mariamne_in_Herod.png/500px-Herbert_Beerbohm_Tree_%281853%E2%80%931917%29_as_Herod_and_Maud_Jeffries_%281869%E2%80%931946%29_as_Mariamne_in_Herod.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+                "decoding": "async",
+                "loading": "lazy",
+                "width": 400,
+                "height": 435,
+                "srcset": "https://upload.wikimedia.org/wikipedia/commons/b/b1/Herbert_Beerbohm_Tree_%281853%E2%80%931917%29_as_Herod_and_Maud_Jeffries_%281869%E2%80%931946%29_as_Mariamne_in_Herod.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled 2x"
+              },
+              "url": "https://upload.wikimedia.org/wikipedia/commons/b/b1/Herbert_Beerbohm_Tree_%281853%E2%80%931917%29_as_Herod_and_Maud_Jeffries_%281869%E2%80%931946%29_as_Mariamne_in_Herod.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+              "descriptionurl": "https://commons.wikimedia.org/wiki/File:Herbert_Beerbohm_Tree_(1853%E2%80%931917)_as_Herod_and_Maud_Jeffries_(1869%E2%80%931946)_as_Mariamne_in_Herod.png",
+              "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=141006468",
+              "extmetadata": {
+                "DateTime": {
+                  "value": "2023-11-18 04:40:24",
+                  "source": "mediawiki-metadata",
+                  "hidden": ""
+                },
+                "ObjectName": {
+                  "value": "Herbert Beerbohm Tree (1853–1917) as Herod and Maud Jeffries (1869–1946) as Mariamne in Herod",
+                  "source": "mediawiki-metadata"
+                },
+                "CommonsMetadataExtension": {
+                  "value": 1.2,
+                  "source": "extension",
+                  "hidden": ""
+                },
+                "Categories": {
+                  "value": "Herbert Beerbohm Tree|Mariamne (second wife of Herod)|1900 in theatre|PD US expired|Maud Jeffries|The Sketch, 1900|Herod: A Tragedy",
+                  "source": "commons-categories",
+                  "hidden": ""
+                },
+                "Assessments": {
+                  "value": "",
+                  "source": "commons-categories",
+                  "hidden": ""
+                },
+                "ImageDescription": {
+                  "value": "Portrait of Herbert Beerbohm Tree (1853–1917) as Herod and Maud Jeffries (1869–1946) as Mariamne in Herod from The Sketch, Vol. XXXII, No. 409, November 28, 1900, page 231",
+                  "source": "commons-desc-page"
+                },
+                "DateTimeOriginal": {
+                  "value": "1900-11-28",
+                  "source": "commons-desc-page"
+                },
+                "Credit": {
+                  "value": "The Sketch, Vol. XXXII, No. 409, November 28, 1900, page 231",
+                  "source": "commons-desc-page"
+                },
+                "Artist": {
+                  "value": "Langfier, Old Bond Street (no individual credited)",
+                  "source": "commons-desc-page"
+                },
+                "LicenseShortName": {
+                  "value": "Public domain",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "UsageTerms": {
+                  "value": "Public domain",
+                  "source": "commons-desc-page"
+                },
+                "AttributionRequired": {
+                  "value": "false",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "Copyrighted": {
+                  "value": "False",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "Restrictions": {
+                  "value": "",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "License": {
+                  "value": "pd",
+                  "source": "commons-templates",
+                  "hidden": ""
+                }
+              }
+            }
+          ]
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,779 @@
+{
+  "batchcomplete": true,
+  "query": {
+    "normalized": [
+      {
+        "fromencoded": false,
+        "from": "File:Septimius_Severus_busto-Musei_Capitolini.jpg",
+        "to": "File:Septimius Severus busto-Musei Capitolini.jpg"
+      },
+      {
+        "fromencoded": false,
+        "from": "File:6865_-_Plauziano(Museo_Pio-Clementino)_-_Foto_Giovanni_Dall'Orto,_10_june_2011.jpg",
+        "to": "File:6865 - Plauziano(Museo Pio-Clementino) - Foto Giovanni Dall'Orto, 10 june 2011.jpg"
+      },
+      {
+        "fromencoded": false,
+        "from": "File:Perge_-_Julia_Soemias_2.jpg",
+        "to": "File:Perge - Julia Soemias 2.jpg"
+      },
+      {
+        "fromencoded": false,
+        "from": "File:Hannibal_Barca_bust_from_Capua_photo.jpg",
+        "to": "File:Hannibal Barca bust from Capua photo.jpg"
+      },
+      {
+        "fromencoded": false,
+        "from": "File:Bust_of_Licinius,_Kunsthistorisches_Museum.jpg",
+        "to": "File:Bust of Licinius, Kunsthistorisches Museum.jpg"
+      },
+      {
+        "fromencoded": false,
+        "from": "File:Salluste_(cropped).jpg",
+        "to": "File:Salluste (cropped).jpg"
+      },
+      {
+        "fromencoded": false,
+        "from": "File:Michelangelo,_Creation_of_Adam_03.jpg",
+        "to": "File:Michelangelo, Creation of Adam 03.jpg"
+      },
+      {
+        "fromencoded": false,
+        "from": "File:Saint_irenee_saint_irenee.jpg",
+        "to": "File:Saint irenee saint irenee.jpg"
+      },
+      {
+        "fromencoded": false,
+        "from": "File:Jan_Victors_-_Jacob_Seeking_the_Forgiveness_of_Esau_-_79.330_-_Indianapolis_Museum_of_Art_(cropped).jpg",
+        "to": "File:Jan Victors - Jacob Seeking the Forgiveness of Esau - 79.330 - Indianapolis Museum of Art (cropped).jpg"
+      },
+      {
+        "fromencoded": false,
+        "from": "File:Hosios_Loukas_(south_west_chapel,_south_side)_-_Ignatios.jpg",
+        "to": "File:Hosios Loukas (south west chapel, south side) - Ignatios.jpg"
+      },
+      {
+        "fromencoded": false,
+        "from": "File:Solidus_Licinius_Jr_AF21_CdM_Paris.jpg",
+        "to": "File:Solidus Licinius Jr AF21 CdM Paris.jpg"
+      },
+      {
+        "fromencoded": false,
+        "from": "File:Medallion_of_Magnentius.png",
+        "to": "File:Medallion of Magnentius.png"
+      },
+      {
+        "fromencoded": false,
+        "from": "File:Fethiye_Camii,_parekklesion,_diakonikon,_mosaics,_Istanbul,_Turkey_-_South_wall,_St._Athanasius,_detail_of_upper_half_-_MSBZ004_BF_T_F_027_B_-_Dumbarton_Oaks.jpg",
+        "to": "File:Fethiye Camii, parekklesion, diakonikon, mosaics, Istanbul, Turkey - South wall, St. Athanasius, detail of upper half - MSBZ004 BF T F 027 B - Dumbarton Oaks.jpg"
+      },
+      {
+        "fromencoded": false,
+        "from": "File:Saint_Eustathios_of_Antioch_Fresco_Peribleptos.jpg",
+        "to": "File:Saint Eustathios of Antioch Fresco Peribleptos.jpg"
+      },
+      {
+        "fromencoded": false,
+        "from": "File:Patrician_John_Reveals_his_Dream_to_Pope_Liberius.png",
+        "to": "File:Patrician John Reveals his Dream to Pope Liberius.png"
+      },
+      {
+        "fromencoded": false,
+        "from": "File:Saint_Anthony_(Damaskinos).png",
+        "to": "File:Saint Anthony (Damaskinos).png"
+      }
+    ],
+    "pages": [
+      {
+        "pageid": 390233,
+        "ns": 6,
+        "title": "File:Septimius Severus busto-Musei Capitolini.jpg",
+        "imagerepository": "local",
+        "imageinfo": [
+          {
+            "size": 239479,
+            "width": 1109,
+            "height": 1600,
+            "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/13/Septimius_Severus_busto-Musei_Capitolini.jpg/960px-Septimius_Severus_busto-Musei_Capitolini.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+            "thumbwidth": 960,
+            "thumbheight": 1385,
+            "responsiveUrls": {
+              "2": "https://upload.wikimedia.org/wikipedia/commons/1/13/Septimius_Severus_busto-Musei_Capitolini.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled"
+            },
+            "thumbattribs": {
+              "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/13/Septimius_Severus_busto-Musei_Capitolini.jpg/960px-Septimius_Severus_busto-Musei_Capitolini.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+              "decoding": "async",
+              "loading": "lazy",
+              "width": 960,
+              "height": 1385,
+              "srcset": "https://upload.wikimedia.org/wikipedia/commons/1/13/Septimius_Severus_busto-Musei_Capitolini.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled 2x"
+            },
+            "url": "https://upload.wikimedia.org/wikipedia/commons/1/13/Septimius_Severus_busto-Musei_Capitolini.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:Septimius_Severus_busto-Musei_Capitolini.jpg",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=390233"
+          }
+        ]
+      },
+      {
+        "pageid": 1430874,
+        "ns": 6,
+        "title": "File:Lucian of Samosata.png",
+        "imagerepository": "local",
+        "imageinfo": [
+          {
+            "size": 4349968,
+            "width": 970,
+            "height": 1536,
+            "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/35/Lucian_of_Samosata.png/960px-Lucian_of_Samosata.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+            "thumbwidth": 960,
+            "thumbheight": 1520,
+            "responsiveUrls": {
+              "2": "https://upload.wikimedia.org/wikipedia/commons/3/35/Lucian_of_Samosata.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled"
+            },
+            "thumbattribs": {
+              "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/35/Lucian_of_Samosata.png/960px-Lucian_of_Samosata.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+              "decoding": "async",
+              "loading": "lazy",
+              "width": 960,
+              "height": 1520,
+              "srcset": "https://upload.wikimedia.org/wikipedia/commons/3/35/Lucian_of_Samosata.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled 2x"
+            },
+            "url": "https://upload.wikimedia.org/wikipedia/commons/3/35/Lucian_of_Samosata.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:Lucian_of_Samosata.png",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=1430874"
+          }
+        ]
+      },
+      {
+        "pageid": 2597825,
+        "ns": 6,
+        "title": "File:Kleopatra-VII.-Altes-Museum-Berlin1.jpg",
+        "imagerepository": "local",
+        "imageinfo": [
+          {
+            "size": 352135,
+            "width": 1149,
+            "height": 1523,
+            "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3e/Kleopatra-VII.-Altes-Museum-Berlin1.jpg/960px-Kleopatra-VII.-Altes-Museum-Berlin1.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+            "thumbwidth": 960,
+            "thumbheight": 1272,
+            "responsiveUrls": {
+              "2": "https://upload.wikimedia.org/wikipedia/commons/3/3e/Kleopatra-VII.-Altes-Museum-Berlin1.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled"
+            },
+            "thumbattribs": {
+              "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3e/Kleopatra-VII.-Altes-Museum-Berlin1.jpg/960px-Kleopatra-VII.-Altes-Museum-Berlin1.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+              "decoding": "async",
+              "loading": "lazy",
+              "width": 960,
+              "height": 1272,
+              "srcset": "https://upload.wikimedia.org/wikipedia/commons/3/3e/Kleopatra-VII.-Altes-Museum-Berlin1.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled 2x"
+            },
+            "url": "https://upload.wikimedia.org/wikipedia/commons/3/3e/Kleopatra-VII.-Altes-Museum-Berlin1.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:Kleopatra-VII.-Altes-Museum-Berlin1.jpg",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=2597825"
+          }
+        ]
+      },
+      {
+        "pageid": 3833759,
+        "ns": 6,
+        "title": "File:Solidus Licinius Jr AF21 CdM Paris.jpg",
+        "imagerepository": "local",
+        "imageinfo": [
+          {
+            "size": 1399276,
+            "width": 1250,
+            "height": 1250,
+            "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/46/Solidus_Licinius_Jr_AF21_CdM_Paris.jpg/960px-Solidus_Licinius_Jr_AF21_CdM_Paris.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+            "thumbwidth": 960,
+            "thumbheight": 960,
+            "responsiveUrls": {
+              "2": "https://upload.wikimedia.org/wikipedia/commons/4/46/Solidus_Licinius_Jr_AF21_CdM_Paris.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled"
+            },
+            "thumbattribs": {
+              "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/46/Solidus_Licinius_Jr_AF21_CdM_Paris.jpg/960px-Solidus_Licinius_Jr_AF21_CdM_Paris.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+              "decoding": "async",
+              "loading": "lazy",
+              "width": 960,
+              "height": 960,
+              "srcset": "https://upload.wikimedia.org/wikipedia/commons/4/46/Solidus_Licinius_Jr_AF21_CdM_Paris.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled 2x"
+            },
+            "url": "https://upload.wikimedia.org/wikipedia/commons/4/46/Solidus_Licinius_Jr_AF21_CdM_Paris.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:Solidus_Licinius_Jr_AF21_CdM_Paris.jpg",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=3833759"
+          }
+        ]
+      },
+      {
+        "pageid": 10063840,
+        "ns": 6,
+        "title": "File:Perge - Julia Soemias 2.jpg",
+        "imagerepository": "local",
+        "imageinfo": [
+          {
+            "size": 480562,
+            "width": 1200,
+            "height": 1600,
+            "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/05/Perge_-_Julia_Soemias_2.jpg/960px-Perge_-_Julia_Soemias_2.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+            "thumbwidth": 960,
+            "thumbheight": 1280,
+            "responsiveUrls": {
+              "2": "https://upload.wikimedia.org/wikipedia/commons/0/05/Perge_-_Julia_Soemias_2.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled"
+            },
+            "thumbattribs": {
+              "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/05/Perge_-_Julia_Soemias_2.jpg/960px-Perge_-_Julia_Soemias_2.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+              "decoding": "async",
+              "loading": "lazy",
+              "width": 960,
+              "height": 1280,
+              "srcset": "https://upload.wikimedia.org/wikipedia/commons/0/05/Perge_-_Julia_Soemias_2.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled 2x"
+            },
+            "url": "https://upload.wikimedia.org/wikipedia/commons/0/05/Perge_-_Julia_Soemias_2.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:Perge_-_Julia_Soemias_2.jpg",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=10063840"
+          }
+        ]
+      },
+      {
+        "pageid": 10565837,
+        "ns": 6,
+        "title": "File:Saint irenee saint irenee.jpg",
+        "imagerepository": "local",
+        "imageinfo": [
+          {
+            "size": 4533301,
+            "width": 1276,
+            "height": 3012,
+            "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/38/Saint_irenee_saint_irenee.jpg/960px-Saint_irenee_saint_irenee.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+            "thumbwidth": 960,
+            "thumbheight": 2266,
+            "responsiveUrls": {
+              "2": "https://upload.wikimedia.org/wikipedia/commons/3/38/Saint_irenee_saint_irenee.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled"
+            },
+            "thumbattribs": {
+              "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/38/Saint_irenee_saint_irenee.jpg/960px-Saint_irenee_saint_irenee.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+              "decoding": "async",
+              "loading": "lazy",
+              "width": 960,
+              "height": 2266,
+              "srcset": "https://upload.wikimedia.org/wikipedia/commons/3/38/Saint_irenee_saint_irenee.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled 2x"
+            },
+            "url": "https://upload.wikimedia.org/wikipedia/commons/3/38/Saint_irenee_saint_irenee.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:Saint_irenee_saint_irenee.jpg",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=10565837"
+          }
+        ]
+      },
+      {
+        "pageid": 11420883,
+        "ns": 6,
+        "title": "File:Michelangelo, Creation of Adam 03.jpg",
+        "imagerepository": "local",
+        "imageinfo": [
+          {
+            "size": 121065,
+            "width": 1042,
+            "height": 840,
+            "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d4/Michelangelo%2C_Creation_of_Adam_03.jpg/960px-Michelangelo%2C_Creation_of_Adam_03.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+            "thumbwidth": 960,
+            "thumbheight": 774,
+            "responsiveUrls": {
+              "2": "https://upload.wikimedia.org/wikipedia/commons/d/d4/Michelangelo%2C_Creation_of_Adam_03.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled"
+            },
+            "thumbattribs": {
+              "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d4/Michelangelo%2C_Creation_of_Adam_03.jpg/960px-Michelangelo%2C_Creation_of_Adam_03.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+              "decoding": "async",
+              "loading": "lazy",
+              "width": 960,
+              "height": 774,
+              "srcset": "https://upload.wikimedia.org/wikipedia/commons/d/d4/Michelangelo%2C_Creation_of_Adam_03.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled 2x"
+            },
+            "url": "https://upload.wikimedia.org/wikipedia/commons/d/d4/Michelangelo%2C_Creation_of_Adam_03.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:Michelangelo,_Creation_of_Adam_03.jpg",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=11420883"
+          }
+        ]
+      },
+      {
+        "pageid": 15621282,
+        "ns": 6,
+        "title": "File:6865 - Plauziano(Museo Pio-Clementino) - Foto Giovanni Dall'Orto, 10 june 2011.jpg",
+        "imagerepository": "local",
+        "imageinfo": [
+          {
+            "size": 796028,
+            "width": 1214,
+            "height": 1555,
+            "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/cd/6865_-_Plauziano%28Museo_Pio-Clementino%29_-_Foto_Giovanni_Dall%27Orto%2C_10_june_2011.jpg/960px-6865_-_Plauziano%28Museo_Pio-Clementino%29_-_Foto_Giovanni_Dall%27Orto%2C_10_june_2011.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+            "thumbwidth": 960,
+            "thumbheight": 1230,
+            "responsiveUrls": {
+              "2": "https://upload.wikimedia.org/wikipedia/commons/c/cd/6865_-_Plauziano%28Museo_Pio-Clementino%29_-_Foto_Giovanni_Dall%27Orto%2C_10_june_2011.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled"
+            },
+            "thumbattribs": {
+              "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/cd/6865_-_Plauziano%28Museo_Pio-Clementino%29_-_Foto_Giovanni_Dall%27Orto%2C_10_june_2011.jpg/960px-6865_-_Plauziano%28Museo_Pio-Clementino%29_-_Foto_Giovanni_Dall%27Orto%2C_10_june_2011.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+              "decoding": "async",
+              "loading": "lazy",
+              "width": 960,
+              "height": 1230,
+              "srcset": "https://upload.wikimedia.org/wikipedia/commons/c/cd/6865_-_Plauziano%28Museo_Pio-Clementino%29_-_Foto_Giovanni_Dall%27Orto%2C_10_june_2011.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled 2x"
+            },
+            "url": "https://upload.wikimedia.org/wikipedia/commons/c/cd/6865_-_Plauziano%28Museo_Pio-Clementino%29_-_Foto_Giovanni_Dall%27Orto%2C_10_june_2011.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:6865_-_Plauziano(Museo_Pio-Clementino)_-_Foto_Giovanni_Dall%27Orto,_10_june_2011.jpg",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=15621282"
+          }
+        ]
+      },
+      {
+        "pageid": 32917418,
+        "ns": 6,
+        "title": "File:Severus II Aureus Joanneum.jpg",
+        "imagerepository": "local",
+        "imageinfo": [
+          {
+            "size": 392570,
+            "width": 1215,
+            "height": 1214,
+            "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7b/Severus_II_Aureus_Joanneum.jpg/960px-Severus_II_Aureus_Joanneum.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+            "thumbwidth": 960,
+            "thumbheight": 959,
+            "responsiveUrls": {
+              "2": "https://upload.wikimedia.org/wikipedia/commons/7/7b/Severus_II_Aureus_Joanneum.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled"
+            },
+            "thumbattribs": {
+              "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7b/Severus_II_Aureus_Joanneum.jpg/960px-Severus_II_Aureus_Joanneum.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+              "decoding": "async",
+              "loading": "lazy",
+              "width": 960,
+              "height": 959,
+              "srcset": "https://upload.wikimedia.org/wikipedia/commons/7/7b/Severus_II_Aureus_Joanneum.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled 2x"
+            },
+            "url": "https://upload.wikimedia.org/wikipedia/commons/7/7b/Severus_II_Aureus_Joanneum.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:Severus_II_Aureus_Joanneum.jpg",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=32917418"
+          }
+        ]
+      },
+      {
+        "pageid": 34700946,
+        "ns": 6,
+        "title": "File:Ariusz.JPG",
+        "imagerepository": "local",
+        "imageinfo": [
+          {
+            "size": 106765,
+            "width": 1000,
+            "height": 494,
+            "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/dd/Ariusz.JPG/960px-Ariusz.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+            "thumbwidth": 960,
+            "thumbheight": 474,
+            "responsiveUrls": {
+              "2": "https://upload.wikimedia.org/wikipedia/commons/d/dd/Ariusz.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled"
+            },
+            "thumbattribs": {
+              "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/dd/Ariusz.JPG/960px-Ariusz.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+              "decoding": "async",
+              "loading": "lazy",
+              "width": 960,
+              "height": 474,
+              "srcset": "https://upload.wikimedia.org/wikipedia/commons/d/dd/Ariusz.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled 2x"
+            },
+            "url": "https://upload.wikimedia.org/wikipedia/commons/d/dd/Ariusz.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:Ariusz.JPG",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=34700946"
+          }
+        ]
+      },
+      {
+        "pageid": 38028471,
+        "ns": 6,
+        "title": "File:Hosios Loukas (south west chapel, south side) - Ignatios.jpg",
+        "imagerepository": "local",
+        "imageinfo": [
+          {
+            "size": 2730379,
+            "width": 1080,
+            "height": 2307,
+            "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/bf/Hosios_Loukas_%28south_west_chapel%2C_south_side%29_-_Ignatios.jpg/960px-Hosios_Loukas_%28south_west_chapel%2C_south_side%29_-_Ignatios.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+            "thumbwidth": 960,
+            "thumbheight": 2051,
+            "responsiveUrls": {
+              "2": "https://upload.wikimedia.org/wikipedia/commons/b/bf/Hosios_Loukas_%28south_west_chapel%2C_south_side%29_-_Ignatios.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled"
+            },
+            "thumbattribs": {
+              "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/bf/Hosios_Loukas_%28south_west_chapel%2C_south_side%29_-_Ignatios.jpg/960px-Hosios_Loukas_%28south_west_chapel%2C_south_side%29_-_Ignatios.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+              "decoding": "async",
+              "loading": "lazy",
+              "width": 960,
+              "height": 2051,
+              "srcset": "https://upload.wikimedia.org/wikipedia/commons/b/bf/Hosios_Loukas_%28south_west_chapel%2C_south_side%29_-_Ignatios.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled 2x"
+            },
+            "url": "https://upload.wikimedia.org/wikipedia/commons/b/bf/Hosios_Loukas_%28south_west_chapel%2C_south_side%29_-_Ignatios.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:Hosios_Loukas_(south_west_chapel,_south_side)_-_Ignatios.jpg",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=38028471"
+          }
+        ]
+      },
+      {
+        "pageid": 84784268,
+        "ns": 6,
+        "title": "File:Sextus Julius Africanus Julius aphricanus (titel op object) Liber Chronicarum (serietitel), RP-P-2016-49-79-4.jpg",
+        "imagerepository": "local",
+        "imageinfo": [
+          {
+            "size": 249300,
+            "width": 1044,
+            "height": 1488,
+            "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/67/Sextus_Julius_Africanus_Julius_aphricanus_%28titel_op_object%29_Liber_Chronicarum_%28serietitel%29%2C_RP-P-2016-49-79-4.jpg/960px-Sextus_Julius_Africanus_Julius_aphricanus_%28titel_op_object%29_Liber_Chronicarum_%28serietitel%29%2C_RP-P-2016-49-79-4.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+            "thumbwidth": 960,
+            "thumbheight": 1368,
+            "responsiveUrls": {
+              "2": "https://upload.wikimedia.org/wikipedia/commons/6/67/Sextus_Julius_Africanus_Julius_aphricanus_%28titel_op_object%29_Liber_Chronicarum_%28serietitel%29%2C_RP-P-2016-49-79-4.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled"
+            },
+            "thumbattribs": {
+              "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/67/Sextus_Julius_Africanus_Julius_aphricanus_%28titel_op_object%29_Liber_Chronicarum_%28serietitel%29%2C_RP-P-2016-49-79-4.jpg/960px-Sextus_Julius_Africanus_Julius_aphricanus_%28titel_op_object%29_Liber_Chronicarum_%28serietitel%29%2C_RP-P-2016-49-79-4.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+              "decoding": "async",
+              "loading": "lazy",
+              "width": 960,
+              "height": 1368,
+              "srcset": "https://upload.wikimedia.org/wikipedia/commons/6/67/Sextus_Julius_Africanus_Julius_aphricanus_%28titel_op_object%29_Liber_Chronicarum_%28serietitel%29%2C_RP-P-2016-49-79-4.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled 2x"
+            },
+            "url": "https://upload.wikimedia.org/wikipedia/commons/6/67/Sextus_Julius_Africanus_Julius_aphricanus_%28titel_op_object%29_Liber_Chronicarum_%28serietitel%29%2C_RP-P-2016-49-79-4.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:Sextus_Julius_Africanus_Julius_aphricanus_(titel_op_object)_Liber_Chronicarum_(serietitel),_RP-P-2016-49-79-4.jpg",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=84784268"
+          }
+        ]
+      },
+      {
+        "pageid": 89039803,
+        "ns": 6,
+        "title": "File:Fethiye Camii, parekklesion, diakonikon, mosaics, Istanbul, Turkey - South wall, St. Athanasius, detail of upper half - MSBZ004 BF T F 027 B - Dumbarton Oaks.jpg",
+        "imagerepository": "local",
+        "imageinfo": [
+          {
+            "size": 561179,
+            "width": 1039,
+            "height": 1500,
+            "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1a/Fethiye_Camii%2C_parekklesion%2C_diakonikon%2C_mosaics%2C_Istanbul%2C_Turkey_-_South_wall%2C_St._Athanasius%2C_detail_of_upper_half_-_MSBZ004_BF_T_F_027_B_-_Dumbarton_Oaks.jpg/960px-thumbnail.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+            "thumbwidth": 960,
+            "thumbheight": 1386,
+            "responsiveUrls": {
+              "2": "https://upload.wikimedia.org/wikipedia/commons/1/1a/Fethiye_Camii%2C_parekklesion%2C_diakonikon%2C_mosaics%2C_Istanbul%2C_Turkey_-_South_wall%2C_St._Athanasius%2C_detail_of_upper_half_-_MSBZ004_BF_T_F_027_B_-_Dumbarton_Oaks.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled"
+            },
+            "thumbattribs": {
+              "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1a/Fethiye_Camii%2C_parekklesion%2C_diakonikon%2C_mosaics%2C_Istanbul%2C_Turkey_-_South_wall%2C_St._Athanasius%2C_detail_of_upper_half_-_MSBZ004_BF_T_F_027_B_-_Dumbarton_Oaks.jpg/960px-thumbnail.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+              "decoding": "async",
+              "loading": "lazy",
+              "width": 960,
+              "height": 1386,
+              "srcset": "https://upload.wikimedia.org/wikipedia/commons/1/1a/Fethiye_Camii%2C_parekklesion%2C_diakonikon%2C_mosaics%2C_Istanbul%2C_Turkey_-_South_wall%2C_St._Athanasius%2C_detail_of_upper_half_-_MSBZ004_BF_T_F_027_B_-_Dumbarton_Oaks.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled 2x"
+            },
+            "url": "https://upload.wikimedia.org/wikipedia/commons/1/1a/Fethiye_Camii%2C_parekklesion%2C_diakonikon%2C_mosaics%2C_Istanbul%2C_Turkey_-_South_wall%2C_St._Athanasius%2C_detail_of_upper_half_-_MSBZ004_BF_T_F_027_B_-_Dumbarton_Oaks.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:Fethiye_Camii,_parekklesion,_diakonikon,_mosaics,_Istanbul,_Turkey_-_South_wall,_St._Athanasius,_detail_of_upper_half_-_MSBZ004_BF_T_F_027_B_-_Dumbarton_Oaks.jpg",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=89039803"
+          }
+        ]
+      },
+      {
+        "pageid": 110790928,
+        "ns": 6,
+        "title": "File:Numapisocng6371obverse.jpg",
+        "imagerepository": "local",
+        "imageinfo": [
+          {
+            "size": 372767,
+            "width": 1094,
+            "height": 1028,
+            "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/60/Numapisocng6371obverse.jpg/960px-Numapisocng6371obverse.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+            "thumbwidth": 960,
+            "thumbheight": 902,
+            "responsiveUrls": {
+              "2": "https://upload.wikimedia.org/wikipedia/commons/6/60/Numapisocng6371obverse.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled"
+            },
+            "thumbattribs": {
+              "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/60/Numapisocng6371obverse.jpg/960px-Numapisocng6371obverse.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+              "decoding": "async",
+              "loading": "lazy",
+              "width": 960,
+              "height": 902,
+              "srcset": "https://upload.wikimedia.org/wikipedia/commons/6/60/Numapisocng6371obverse.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled 2x"
+            },
+            "url": "https://upload.wikimedia.org/wikipedia/commons/6/60/Numapisocng6371obverse.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:Numapisocng6371obverse.jpg",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=110790928"
+          }
+        ]
+      },
+      {
+        "pageid": 120775716,
+        "ns": 6,
+        "title": "File:Saint Anthony (Damaskinos).png",
+        "imagerepository": "local",
+        "imageinfo": [
+          {
+            "size": 2262408,
+            "width": 1036,
+            "height": 1329,
+            "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fb/Saint_Anthony_%28Damaskinos%29.png/960px-Saint_Anthony_%28Damaskinos%29.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+            "thumbwidth": 960,
+            "thumbheight": 1232,
+            "responsiveUrls": {
+              "2": "https://upload.wikimedia.org/wikipedia/commons/f/fb/Saint_Anthony_%28Damaskinos%29.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled"
+            },
+            "thumbattribs": {
+              "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fb/Saint_Anthony_%28Damaskinos%29.png/960px-Saint_Anthony_%28Damaskinos%29.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+              "decoding": "async",
+              "loading": "lazy",
+              "width": 960,
+              "height": 1232,
+              "srcset": "https://upload.wikimedia.org/wikipedia/commons/f/fb/Saint_Anthony_%28Damaskinos%29.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled 2x"
+            },
+            "url": "https://upload.wikimedia.org/wikipedia/commons/f/fb/Saint_Anthony_%28Damaskinos%29.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:Saint_Anthony_(Damaskinos).png",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=120775716"
+          }
+        ]
+      },
+      {
+        "pageid": 122518568,
+        "ns": 6,
+        "title": "File:Bust of Licinius, Kunsthistorisches Museum.jpg",
+        "imagerepository": "local",
+        "imageinfo": [
+          {
+            "size": 356216,
+            "width": 1139,
+            "height": 1715,
+            "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/35/Bust_of_Licinius%2C_Kunsthistorisches_Museum.jpg/960px-Bust_of_Licinius%2C_Kunsthistorisches_Museum.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+            "thumbwidth": 960,
+            "thumbheight": 1445,
+            "responsiveUrls": {
+              "2": "https://upload.wikimedia.org/wikipedia/commons/3/35/Bust_of_Licinius%2C_Kunsthistorisches_Museum.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled"
+            },
+            "thumbattribs": {
+              "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/35/Bust_of_Licinius%2C_Kunsthistorisches_Museum.jpg/960px-Bust_of_Licinius%2C_Kunsthistorisches_Museum.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+              "decoding": "async",
+              "loading": "lazy",
+              "width": 960,
+              "height": 1445,
+              "srcset": "https://upload.wikimedia.org/wikipedia/commons/3/35/Bust_of_Licinius%2C_Kunsthistorisches_Museum.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled 2x"
+            },
+            "url": "https://upload.wikimedia.org/wikipedia/commons/3/35/Bust_of_Licinius%2C_Kunsthistorisches_Museum.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:Bust_of_Licinius,_Kunsthistorisches_Museum.jpg",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=122518568"
+          }
+        ]
+      },
+      {
+        "pageid": 136420363,
+        "ns": 6,
+        "title": "File:Salluste (cropped).jpg",
+        "imagerepository": "local",
+        "imageinfo": [
+          {
+            "size": 1418883,
+            "width": 1275,
+            "height": 2294,
+            "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6b/Salluste_%28cropped%29.jpg/960px-Salluste_%28cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+            "thumbwidth": 960,
+            "thumbheight": 1727,
+            "responsiveUrls": {
+              "2": "https://upload.wikimedia.org/wikipedia/commons/6/6b/Salluste_%28cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled"
+            },
+            "thumbattribs": {
+              "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6b/Salluste_%28cropped%29.jpg/960px-Salluste_%28cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+              "decoding": "async",
+              "loading": "lazy",
+              "width": 960,
+              "height": 1727,
+              "srcset": "https://upload.wikimedia.org/wikipedia/commons/6/6b/Salluste_%28cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled 2x"
+            },
+            "url": "https://upload.wikimedia.org/wikipedia/commons/6/6b/Salluste_%28cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:Salluste_(cropped).jpg",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=136420363"
+          }
+        ]
+      },
+      {
+        "pageid": 137212911,
+        "ns": 6,
+        "title": "File:Medallion of Magnentius.png",
+        "imagerepository": "local",
+        "imageinfo": [
+          {
+            "size": 2679143,
+            "width": 1280,
+            "height": 1241,
+            "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f0/Medallion_of_Magnentius.png/960px-Medallion_of_Magnentius.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+            "thumbwidth": 960,
+            "thumbheight": 931,
+            "responsiveUrls": {
+              "2": "https://upload.wikimedia.org/wikipedia/commons/f/f0/Medallion_of_Magnentius.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled"
+            },
+            "thumbattribs": {
+              "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f0/Medallion_of_Magnentius.png/960px-Medallion_of_Magnentius.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+              "decoding": "async",
+              "loading": "lazy",
+              "width": 960,
+              "height": 931,
+              "srcset": "https://upload.wikimedia.org/wikipedia/commons/f/f0/Medallion_of_Magnentius.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled 2x"
+            },
+            "url": "https://upload.wikimedia.org/wikipedia/commons/f/f0/Medallion_of_Magnentius.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:Medallion_of_Magnentius.png",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=137212911"
+          }
+        ]
+      },
+      {
+        "pageid": 143548234,
+        "ns": 6,
+        "title": "File:Felix II Pontificum.jpg",
+        "imagerepository": "local",
+        "imageinfo": [
+          {
+            "size": 483242,
+            "width": 1112,
+            "height": 1708,
+            "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/de/Felix_II_Pontificum.jpg/960px-Felix_II_Pontificum.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+            "thumbwidth": 960,
+            "thumbheight": 1475,
+            "responsiveUrls": {
+              "2": "https://upload.wikimedia.org/wikipedia/commons/d/de/Felix_II_Pontificum.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled"
+            },
+            "thumbattribs": {
+              "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/de/Felix_II_Pontificum.jpg/960px-Felix_II_Pontificum.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+              "decoding": "async",
+              "loading": "lazy",
+              "width": 960,
+              "height": 1475,
+              "srcset": "https://upload.wikimedia.org/wikipedia/commons/d/de/Felix_II_Pontificum.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled 2x"
+            },
+            "url": "https://upload.wikimedia.org/wikipedia/commons/d/de/Felix_II_Pontificum.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:Felix_II_Pontificum.jpg",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=143548234"
+          }
+        ]
+      },
+      {
+        "pageid": 143554037,
+        "ns": 6,
+        "title": "File:Hannibal Barca bust from Capua photo.jpg",
+        "imagerepository": "local",
+        "imageinfo": [
+          {
+            "size": 124098,
+            "width": 1157,
+            "height": 1400,
+            "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b4/Hannibal_Barca_bust_from_Capua_photo.jpg/960px-Hannibal_Barca_bust_from_Capua_photo.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+            "thumbwidth": 960,
+            "thumbheight": 1162,
+            "responsiveUrls": {
+              "2": "https://upload.wikimedia.org/wikipedia/commons/b/b4/Hannibal_Barca_bust_from_Capua_photo.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled"
+            },
+            "thumbattribs": {
+              "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b4/Hannibal_Barca_bust_from_Capua_photo.jpg/960px-Hannibal_Barca_bust_from_Capua_photo.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+              "decoding": "async",
+              "loading": "lazy",
+              "width": 960,
+              "height": 1162,
+              "srcset": "https://upload.wikimedia.org/wikipedia/commons/b/b4/Hannibal_Barca_bust_from_Capua_photo.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled 2x"
+            },
+            "url": "https://upload.wikimedia.org/wikipedia/commons/b/b4/Hannibal_Barca_bust_from_Capua_photo.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:Hannibal_Barca_bust_from_Capua_photo.jpg",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=143554037"
+          }
+        ]
+      },
+      {
+        "pageid": 148477161,
+        "ns": 6,
+        "title": "File:Jan Victors - Jacob Seeking the Forgiveness of Esau - 79.330 - Indianapolis Museum of Art (cropped).jpg",
+        "imagerepository": "local",
+        "imageinfo": [
+          {
+            "size": 580507,
+            "width": 1260,
+            "height": 1679,
+            "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/39/Jan_Victors_-_Jacob_Seeking_the_Forgiveness_of_Esau_-_79.330_-_Indianapolis_Museum_of_Art_%28cropped%29.jpg/960px-Jan_Victors_-_Jacob_Seeking_the_Forgiveness_of_Esau_-_79.330_-_Indianapolis_Museum_of_Art_%28cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+            "thumbwidth": 960,
+            "thumbheight": 1279,
+            "responsiveUrls": {
+              "2": "https://upload.wikimedia.org/wikipedia/commons/3/39/Jan_Victors_-_Jacob_Seeking_the_Forgiveness_of_Esau_-_79.330_-_Indianapolis_Museum_of_Art_%28cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled"
+            },
+            "thumbattribs": {
+              "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/39/Jan_Victors_-_Jacob_Seeking_the_Forgiveness_of_Esau_-_79.330_-_Indianapolis_Museum_of_Art_%28cropped%29.jpg/960px-Jan_Victors_-_Jacob_Seeking_the_Forgiveness_of_Esau_-_79.330_-_Indianapolis_Museum_of_Art_%28cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+              "decoding": "async",
+              "loading": "lazy",
+              "width": 960,
+              "height": 1279,
+              "srcset": "https://upload.wikimedia.org/wikipedia/commons/3/39/Jan_Victors_-_Jacob_Seeking_the_Forgiveness_of_Esau_-_79.330_-_Indianapolis_Museum_of_Art_%28cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled 2x"
+            },
+            "url": "https://upload.wikimedia.org/wikipedia/commons/3/39/Jan_Victors_-_Jacob_Seeking_the_Forgiveness_of_Esau_-_79.330_-_Indianapolis_Museum_of_Art_%28cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:Jan_Victors_-_Jacob_Seeking_the_Forgiveness_of_Esau_-_79.330_-_Indianapolis_Museum_of_Art_(cropped).jpg",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=148477161"
+          }
+        ]
+      },
+      {
+        "pageid": 180099785,
+        "ns": 6,
+        "title": "File:Patrician John Reveals his Dream to Pope Liberius.png",
+        "imagerepository": "local",
+        "imageinfo": [
+          {
+            "size": 2098592,
+            "width": 1026,
+            "height": 1332,
+            "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/50/Patrician_John_Reveals_his_Dream_to_Pope_Liberius.png/960px-Patrician_John_Reveals_his_Dream_to_Pope_Liberius.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+            "thumbwidth": 960,
+            "thumbheight": 1246,
+            "responsiveUrls": {
+              "2": "https://upload.wikimedia.org/wikipedia/commons/5/50/Patrician_John_Reveals_his_Dream_to_Pope_Liberius.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled"
+            },
+            "thumbattribs": {
+              "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/50/Patrician_John_Reveals_his_Dream_to_Pope_Liberius.png/960px-Patrician_John_Reveals_his_Dream_to_Pope_Liberius.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+              "decoding": "async",
+              "loading": "lazy",
+              "width": 960,
+              "height": 1246,
+              "srcset": "https://upload.wikimedia.org/wikipedia/commons/5/50/Patrician_John_Reveals_his_Dream_to_Pope_Liberius.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled 2x"
+            },
+            "url": "https://upload.wikimedia.org/wikipedia/commons/5/50/Patrician_John_Reveals_his_Dream_to_Pope_Liberius.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:Patrician_John_Reveals_his_Dream_to_Pope_Liberius.png",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=180099785"
+          }
+        ]
+      },
+      {
+        "pageid": 195697797,
+        "ns": 6,
+        "title": "File:Saint Eustathios of Antioch Fresco Peribleptos.jpg",
+        "imagerepository": "local",
+        "imageinfo": [
+          {
+            "size": 611535,
+            "width": 1237,
+            "height": 1536,
+            "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d7/Saint_Eustathios_of_Antioch_Fresco_Peribleptos.jpg/960px-Saint_Eustathios_of_Antioch_Fresco_Peribleptos.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+            "thumbwidth": 960,
+            "thumbheight": 1192,
+            "responsiveUrls": {
+              "2": "https://upload.wikimedia.org/wikipedia/commons/d/d7/Saint_Eustathios_of_Antioch_Fresco_Peribleptos.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled"
+            },
+            "thumbattribs": {
+              "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d7/Saint_Eustathios_of_Antioch_Fresco_Peribleptos.jpg/960px-Saint_Eustathios_of_Antioch_Fresco_Peribleptos.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+              "decoding": "async",
+              "loading": "lazy",
+              "width": 960,
+              "height": 1192,
+              "srcset": "https://upload.wikimedia.org/wikipedia/commons/d/d7/Saint_Eustathios_of_Antioch_Fresco_Peribleptos.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled 2x"
+            },
+            "url": "https://upload.wikimedia.org/wikipedia/commons/d/d7/Saint_Eustathios_of_Antioch_Fresco_Peribleptos.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:Saint_Eustathios_of_Antioch_Fresco_Peribleptos.jpg",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=195697797"
+          }
+        ]
+      }
+    ]
+  }
+}

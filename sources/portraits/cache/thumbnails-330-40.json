@@ -1,0 +1,209 @@
+{
+  "batchcomplete": true,
+  "query": {
+    "normalized": [
+      {
+        "fromencoded": false,
+        "from": "File:Bust_of_Theodosius_I.jpg",
+        "to": "File:Bust of Theodosius I.jpg"
+      },
+      {
+        "fromencoded": false,
+        "from": "File:Miniature_of_Eutropius.jpg",
+        "to": "File:Miniature of Eutropius.jpg"
+      },
+      {
+        "fromencoded": false,
+        "from": "File:M._Junius_Brutus,_denarius,_54_BC,_RRC_433-2_(obverse_L._Junius).jpg",
+        "to": "File:M. Junius Brutus, denarius, 54 BC, RRC 433-2 (obverse L. Junius).jpg"
+      },
+      {
+        "fromencoded": false,
+        "from": "File:Perseus_of_Macedon_coin_cropped.png",
+        "to": "File:Perseus of Macedon coin cropped.png"
+      }
+    ],
+    "pages": [
+      {
+        "pageid": 1232515,
+        "ns": 6,
+        "title": "File:MarcusAntoniusCVibiusVarus.jpg",
+        "imagerepository": "local",
+        "imageinfo": [
+          {
+            "size": 64316,
+            "width": 500,
+            "height": 253,
+            "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4b/MarcusAntoniusCVibiusVarus.jpg/330px-MarcusAntoniusCVibiusVarus.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+            "thumbwidth": 330,
+            "thumbheight": 167,
+            "responsiveUrls": {
+              "2": "https://upload.wikimedia.org/wikipedia/commons/4/4b/MarcusAntoniusCVibiusVarus.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled"
+            },
+            "thumbattribs": {
+              "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4b/MarcusAntoniusCVibiusVarus.jpg/330px-MarcusAntoniusCVibiusVarus.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+              "decoding": "async",
+              "loading": "lazy",
+              "width": 330,
+              "height": 167,
+              "srcset": "https://upload.wikimedia.org/wikipedia/commons/4/4b/MarcusAntoniusCVibiusVarus.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled 2x"
+            },
+            "url": "https://upload.wikimedia.org/wikipedia/commons/4/4b/MarcusAntoniusCVibiusVarus.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:MarcusAntoniusCVibiusVarus.jpg",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=1232515"
+          }
+        ]
+      },
+      {
+        "pageid": 10285609,
+        "ns": 6,
+        "title": "File:MatthiasStom-SaintJerome-Nantes.jpg",
+        "imagerepository": "local",
+        "imageinfo": [
+          {
+            "size": 61540,
+            "width": 450,
+            "height": 548,
+            "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5f/MatthiasStom-SaintJerome-Nantes.jpg/330px-MatthiasStom-SaintJerome-Nantes.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+            "thumbwidth": 330,
+            "thumbheight": 402,
+            "responsiveUrls": {
+              "2": "https://upload.wikimedia.org/wikipedia/commons/5/5f/MatthiasStom-SaintJerome-Nantes.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled"
+            },
+            "thumbattribs": {
+              "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5f/MatthiasStom-SaintJerome-Nantes.jpg/330px-MatthiasStom-SaintJerome-Nantes.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+              "decoding": "async",
+              "loading": "lazy",
+              "width": 330,
+              "height": 402,
+              "srcset": "https://upload.wikimedia.org/wikipedia/commons/5/5f/MatthiasStom-SaintJerome-Nantes.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled 2x"
+            },
+            "url": "https://upload.wikimedia.org/wikipedia/commons/5/5f/MatthiasStom-SaintJerome-Nantes.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:MatthiasStom-SaintJerome-Nantes.jpg",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=10285609"
+          }
+        ]
+      },
+      {
+        "pageid": 84898362,
+        "ns": 6,
+        "title": "File:M. Junius Brutus, denarius, 54 BC, RRC 433-2 (obverse L. Junius).jpg",
+        "imagerepository": "local",
+        "imageinfo": [
+          {
+            "size": 109954,
+            "width": 414,
+            "height": 380,
+            "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/51/M._Junius_Brutus%2C_denarius%2C_54_BC%2C_RRC_433-2_%28obverse_L._Junius%29.jpg/330px-M._Junius_Brutus%2C_denarius%2C_54_BC%2C_RRC_433-2_%28obverse_L._Junius%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+            "thumbwidth": 330,
+            "thumbheight": 303,
+            "responsiveUrls": {
+              "2": "https://upload.wikimedia.org/wikipedia/commons/5/51/M._Junius_Brutus%2C_denarius%2C_54_BC%2C_RRC_433-2_%28obverse_L._Junius%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled"
+            },
+            "thumbattribs": {
+              "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/51/M._Junius_Brutus%2C_denarius%2C_54_BC%2C_RRC_433-2_%28obverse_L._Junius%29.jpg/330px-M._Junius_Brutus%2C_denarius%2C_54_BC%2C_RRC_433-2_%28obverse_L._Junius%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+              "decoding": "async",
+              "loading": "lazy",
+              "width": 330,
+              "height": 303,
+              "srcset": "https://upload.wikimedia.org/wikipedia/commons/5/51/M._Junius_Brutus%2C_denarius%2C_54_BC%2C_RRC_433-2_%28obverse_L._Junius%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled 2x"
+            },
+            "url": "https://upload.wikimedia.org/wikipedia/commons/5/51/M._Junius_Brutus%2C_denarius%2C_54_BC%2C_RRC_433-2_%28obverse_L._Junius%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:M._Junius_Brutus,_denarius,_54_BC,_RRC_433-2_(obverse_L._Junius).jpg",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=84898362"
+          }
+        ]
+      },
+      {
+        "pageid": 92452046,
+        "ns": 6,
+        "title": "File:Bust of Theodosius I.jpg",
+        "imagerepository": "local",
+        "imageinfo": [
+          {
+            "size": 100423,
+            "width": 431,
+            "height": 671,
+            "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f7/Bust_of_Theodosius_I.jpg/330px-Bust_of_Theodosius_I.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+            "thumbwidth": 330,
+            "thumbheight": 514,
+            "responsiveUrls": {
+              "2": "https://upload.wikimedia.org/wikipedia/commons/f/f7/Bust_of_Theodosius_I.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled"
+            },
+            "thumbattribs": {
+              "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f7/Bust_of_Theodosius_I.jpg/330px-Bust_of_Theodosius_I.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+              "decoding": "async",
+              "loading": "lazy",
+              "width": 330,
+              "height": 514,
+              "srcset": "https://upload.wikimedia.org/wikipedia/commons/f/f7/Bust_of_Theodosius_I.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled 2x"
+            },
+            "url": "https://upload.wikimedia.org/wikipedia/commons/f/f7/Bust_of_Theodosius_I.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:Bust_of_Theodosius_I.jpg",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=92452046"
+          }
+        ]
+      },
+      {
+        "pageid": 113241241,
+        "ns": 6,
+        "title": "File:Perseus of Macedon coin cropped.png",
+        "imagerepository": "local",
+        "imageinfo": [
+          {
+            "size": 276418,
+            "width": 395,
+            "height": 388,
+            "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fc/Perseus_of_Macedon_coin_cropped.png/330px-Perseus_of_Macedon_coin_cropped.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+            "thumbwidth": 330,
+            "thumbheight": 324,
+            "responsiveUrls": {
+              "2": "https://upload.wikimedia.org/wikipedia/commons/f/fc/Perseus_of_Macedon_coin_cropped.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled"
+            },
+            "thumbattribs": {
+              "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fc/Perseus_of_Macedon_coin_cropped.png/330px-Perseus_of_Macedon_coin_cropped.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+              "decoding": "async",
+              "loading": "lazy",
+              "width": 330,
+              "height": 324,
+              "srcset": "https://upload.wikimedia.org/wikipedia/commons/f/fc/Perseus_of_Macedon_coin_cropped.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled 2x"
+            },
+            "url": "https://upload.wikimedia.org/wikipedia/commons/f/fc/Perseus_of_Macedon_coin_cropped.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:Perseus_of_Macedon_coin_cropped.png",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=113241241"
+          }
+        ]
+      },
+      {
+        "pageid": 151306543,
+        "ns": 6,
+        "title": "File:Miniature of Eutropius.jpg",
+        "imagerepository": "local",
+        "imageinfo": [
+          {
+            "size": 85750,
+            "width": 356,
+            "height": 660,
+            "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/df/Miniature_of_Eutropius.jpg/330px-Miniature_of_Eutropius.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+            "thumbwidth": 330,
+            "thumbheight": 612,
+            "responsiveUrls": {
+              "2": "https://upload.wikimedia.org/wikipedia/commons/d/df/Miniature_of_Eutropius.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled"
+            },
+            "thumbattribs": {
+              "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/df/Miniature_of_Eutropius.jpg/330px-Miniature_of_Eutropius.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+              "decoding": "async",
+              "loading": "lazy",
+              "width": 330,
+              "height": 612,
+              "srcset": "https://upload.wikimedia.org/wikipedia/commons/d/df/Miniature_of_Eutropius.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled 2x"
+            },
+            "url": "https://upload.wikimedia.org/wikipedia/commons/d/df/Miniature_of_Eutropius.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:Miniature_of_Eutropius.jpg",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=151306543"
+          }
+        ]
+      }
+    ]
+  }
+}

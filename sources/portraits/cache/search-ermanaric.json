@@ -1,0 +1,533 @@
+{
+  "person_id": "ermanaric",
+  "query": "Ermanaric",
+  "response": {
+    "batchcomplete": true,
+    "continue": {
+      "gsroffset": 5,
+      "continue": "gsroffset||"
+    },
+    "query": {
+      "pages": [
+        {
+          "pageid": 4625789,
+          "ns": 6,
+          "title": "File:Sigmunds Schwert (1889) by Johannes Gehrts.jpg",
+          "index": 2,
+          "imagerepository": "local",
+          "imageinfo": [
+            {
+              "size": 417925,
+              "width": 639,
+              "height": 683,
+              "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d5/Sigmunds_Schwert_%281889%29_by_Johannes_Gehrts.jpg/500px-Sigmunds_Schwert_%281889%29_by_Johannes_Gehrts.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+              "thumbwidth": 400,
+              "thumbheight": 428,
+              "responsiveUrls": {
+                "2": "https://upload.wikimedia.org/wikipedia/commons/d/d5/Sigmunds_Schwert_%281889%29_by_Johannes_Gehrts.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled"
+              },
+              "thumbattribs": {
+                "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d5/Sigmunds_Schwert_%281889%29_by_Johannes_Gehrts.jpg/500px-Sigmunds_Schwert_%281889%29_by_Johannes_Gehrts.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+                "decoding": "async",
+                "loading": "lazy",
+                "width": 400,
+                "height": 428,
+                "srcset": "https://upload.wikimedia.org/wikipedia/commons/d/d5/Sigmunds_Schwert_%281889%29_by_Johannes_Gehrts.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled 2x"
+              },
+              "url": "https://upload.wikimedia.org/wikipedia/commons/d/d5/Sigmunds_Schwert_%281889%29_by_Johannes_Gehrts.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+              "descriptionurl": "https://commons.wikimedia.org/wiki/File:Sigmunds_Schwert_(1889)_by_Johannes_Gehrts.jpg",
+              "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=4625789",
+              "extmetadata": {
+                "DateTime": {
+                  "value": "2008-08-25 05:27:11",
+                  "source": "mediawiki-metadata",
+                  "hidden": ""
+                },
+                "ObjectName": {
+                  "value": "Sigmunds Schwert (1889) by Johannes Gehrts",
+                  "source": "mediawiki-metadata"
+                },
+                "CommonsMetadataExtension": {
+                  "value": 1.2,
+                  "source": "extension",
+                  "hidden": ""
+                },
+                "Categories": {
+                  "value": "Barnstokkr|Völsunga saga|PD-old-100-expired|Prints by Eduard Ade|CC-PD-Mark|Illustrations of Odin|Walhall: Germanische Götter-und Heldensagen, für Alt und Jung am Deutschen Herd Erzählt",
+                  "source": "commons-categories",
+                  "hidden": ""
+                },
+                "Assessments": {
+                  "value": "",
+                  "source": "commons-categories",
+                  "hidden": ""
+                },
+                "ImageDescription": {
+                  "value": "\"Sigmunds Schwert\" (1889) by Johannes Gehrts. A mysterious, Odin-like figure presents the sword he has stuck into the tree Barnstokk.",
+                  "source": "commons-desc-page"
+                },
+                "DateTimeOriginal": {
+                  "value": "Judging by the image, created in 1889. Published in 1901.",
+                  "source": "commons-desc-page"
+                },
+                "Credit": {
+                  "value": "Felix Dahn, Therese Dahn, Therese (von Droste-Hülshoff) Dahn, Frau, Therese von Droste-Hülshoff Dahn (1901). <i>Walhall: Germanische Götter- und Heldensagen. Für Alt und Jung am deutschen Herd</i>. Breitkopf und Härtel.",
+                  "source": "commons-desc-page"
+                },
+                "Artist": {
+                  "value": "<bdi><a href=\"https://www.wikidata.org/wiki/Q40551709\" class=\"extiw\" title=\"d:Q40551709\"><span title=\"German woodcutter\">Eduard Ade</span></a></bdi> / <bdi><a href=\"https://en.wikipedia.org/wiki/en:Johannes_Gehrts\" class=\"extiw\" title=\"w:en:Johannes Gehrts\"><span title=\"German illustrator (1855-1921)\">Johannes Gehrts</span></a></bdi>",
+                  "source": "commons-desc-page"
+                },
+                "LicenseShortName": {
+                  "value": "Public domain",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "UsageTerms": {
+                  "value": "Public domain",
+                  "source": "commons-desc-page"
+                },
+                "AttributionRequired": {
+                  "value": "false",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "Copyrighted": {
+                  "value": "False",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "Restrictions": {
+                  "value": "",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "License": {
+                  "value": "pd",
+                  "source": "commons-templates",
+                  "hidden": ""
+                }
+              }
+            }
+          ]
+        },
+        {
+          "pageid": 8240560,
+          "ns": 6,
+          "title": "File:Gizur and the Huns.jpg",
+          "index": 1,
+          "imagerepository": "local",
+          "imageinfo": [
+            {
+              "size": 67260,
+              "width": 662,
+              "height": 389,
+              "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/12/Gizur_and_the_Huns.jpg/500px-Gizur_and_the_Huns.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+              "thumbwidth": 400,
+              "thumbheight": 235,
+              "responsiveUrls": {
+                "2": "https://upload.wikimedia.org/wikipedia/commons/1/12/Gizur_and_the_Huns.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled"
+              },
+              "thumbattribs": {
+                "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/12/Gizur_and_the_Huns.jpg/500px-Gizur_and_the_Huns.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+                "decoding": "async",
+                "loading": "lazy",
+                "width": 400,
+                "height": 235,
+                "srcset": "https://upload.wikimedia.org/wikipedia/commons/1/12/Gizur_and_the_Huns.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled 2x"
+              },
+              "url": "https://upload.wikimedia.org/wikipedia/commons/1/12/Gizur_and_the_Huns.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+              "descriptionurl": "https://commons.wikimedia.org/wiki/File:Gizur_and_the_Huns.jpg",
+              "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=8240560",
+              "extmetadata": {
+                "DateTime": {
+                  "value": "2009-10-23 21:02:05",
+                  "source": "mediawiki-metadata",
+                  "hidden": ""
+                },
+                "ObjectName": {
+                  "value": "<div class=\"fn\">\n<div style=\"font-weight:bold;display:inline-block;\"><div style=\"display:inline-block\" dir=\"ltr\" lang=\"en\"><i>Painting <span class=\"mw-valign-text-top noprint\" typeof=\"mw:File/Frameless\"><a href=\"https://www.wikidata.org/wiki/Q55418415#P1476\" title=\"Edit this at Wikidata\"><img alt=\"Edit this at Wikidata\" src=\"https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8a/OOjs_UI_icon_edit-ltr-progressive.svg/20px-OOjs_UI_icon_edit-ltr-progressive.svg.png?utm_source=commons.wikimedia.org&amp;utm_campaign=parser&amp;utm_content=thumbnail\" decoding=\"async\" loading=\"lazy\" width=\"10\" height=\"10\" class=\"mw-file-element\" data-file-width=\"20\" data-file-height=\"20\"></a></span></i></div></div><div style=\"display: none;\">title QS:P1476,en:\"Painting <span class=\"mw-valign-text-top noprint\" typeof=\"mw:File/Frameless\"><a href=\"https://www.wikidata.org/wiki/Q55418415#P1476\" title=\"Edit this at Wikidata\"><img alt=\"Edit this at Wikidata\" src=\"https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8a/OOjs_UI_icon_edit-ltr-progressive.svg/20px-OOjs_UI_icon_edit-ltr-progressive.svg.png?utm_source=commons.wikimedia.org&amp;utm_campaign=parser&amp;utm_content=thumbnail\" decoding=\"async\" loading=\"lazy\" width=\"10\" height=\"10\" class=\"mw-file-element\" data-file-width=\"20\" data-file-height=\"20\"></a></span>\"</div><div style=\"display: none;\">label QS:Len,\"Painting <span class=\"mw-valign-text-top noprint\" typeof=\"mw:File/Frameless\"><a href=\"https://www.wikidata.org/wiki/Q55418415#P1476\" title=\"Edit this at Wikidata\"><img alt=\"Edit this at Wikidata\" src=\"https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8a/OOjs_UI_icon_edit-ltr-progressive.svg/20px-OOjs_UI_icon_edit-ltr-progressive.svg.png?utm_source=commons.wikimedia.org&amp;utm_campaign=parser&amp;utm_content=thumbnail\" decoding=\"async\" loading=\"lazy\" width=\"10\" height=\"10\" class=\"mw-file-element\" data-file-width=\"20\" data-file-height=\"20\"></a></span>\"</div><div style=\"display: none;\">label QS:Lnb,\"Gissur den gamle utfordrer hunnerne på kong Angantyrs vegne\"</div></div>",
+                  "source": "commons-desc-page"
+                },
+                "CommonsMetadataExtension": {
+                  "value": 1.2,
+                  "source": "extension",
+                  "hidden": ""
+                },
+                "Categories": {
+                  "value": "1886 paintings from Norway|1886 paintings in Norway|1886 paintings|Author died more than 100 years ago public domain images|Tyrfing Cycle|Germanic heroic legends|Artworks with Wikidata item|Artworks with known accession number|19th-century paintings, location missing|Paintings of Norse mythology|1880s oil on canvas paintings in Norway|CC-PD-Mark|Artworks with accession number from Wikidata|Artworks with the same artist and author|19th-century paintings of horse riding|1880s mythological paintings|Artworks with Wikidata item redundant author|Artworks digital representation of 2D work|Paintings of knights on horses|Equestrian portrait paintings of kings|Migration period in art|Mythological paintings by Peter Nicolai Arbo|19th-century paintings in the Nasjonalmuseet for kunst, arkitektur og design|Mythological paintings in the Nasjonalmuseet for kunst, arkitektur og design|Paintings by Peter Nicolai Arbo in the Nasjonalmuseet for kunst, arkitektur og design|Huns in paintings|Gizur|Gizur (given name)",
+                  "source": "commons-categories",
+                  "hidden": ""
+                },
+                "Assessments": {
+                  "value": "",
+                  "source": "commons-categories",
+                  "hidden": ""
+                },
+                "Artist": {
+                  "value": "<bdi><a href=\"https://en.wikipedia.org/wiki/en:Peter_Nicolai_Arbo\" class=\"extiw\" title=\"w:en:Peter Nicolai Arbo\"><span title=\"Norwegian painter (1831–1892)\">Peter Nicolai Arbo</span></a></bdi>",
+                  "source": "commons-desc-page"
+                },
+                "ImageDescription": {
+                  "value": "<div class=\"description\">\n<div style=\"font-weight:bold;display:inline-block;\">Gizur and the Huns</div></div>",
+                  "source": "commons-desc-page"
+                },
+                "DateTimeOriginal": {
+                  "value": "1886<div style=\"display: none;\">date QS:P571,+1886-00-00T00:00:00Z/9</div>",
+                  "source": "commons-desc-page"
+                },
+                "Credit": {
+                  "value": "Peter Nicolai Arbo",
+                  "source": "commons-desc-page"
+                },
+                "LicenseShortName": {
+                  "value": "Public domain",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "UsageTerms": {
+                  "value": "Public domain",
+                  "source": "commons-desc-page"
+                },
+                "AttributionRequired": {
+                  "value": "false",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "Copyrighted": {
+                  "value": "False",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "Restrictions": {
+                  "value": "",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "License": {
+                  "value": "pd",
+                  "source": "commons-templates",
+                  "hidden": ""
+                }
+              }
+            }
+          ]
+        },
+        {
+          "pageid": 69829579,
+          "ns": 6,
+          "title": "File:Caroline Brady dissertation defense programme.jpg",
+          "index": 3,
+          "imagerepository": "local",
+          "imageinfo": [
+            {
+              "size": 339963,
+              "width": 2035,
+              "height": 3399,
+              "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/68/Caroline_Brady_dissertation_defense_programme.jpg/500px-Caroline_Brady_dissertation_defense_programme.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+              "thumbwidth": 400,
+              "thumbheight": 668,
+              "responsiveUrls": {
+                "2": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/68/Caroline_Brady_dissertation_defense_programme.jpg/960px-Caroline_Brady_dissertation_defense_programme.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+              },
+              "thumbattribs": {
+                "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/68/Caroline_Brady_dissertation_defense_programme.jpg/500px-Caroline_Brady_dissertation_defense_programme.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+                "decoding": "async",
+                "loading": "lazy",
+                "width": 400,
+                "height": 668,
+                "srcset": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/68/Caroline_Brady_dissertation_defense_programme.jpg/960px-Caroline_Brady_dissertation_defense_programme.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail 2x"
+              },
+              "url": "https://upload.wikimedia.org/wikipedia/commons/6/68/Caroline_Brady_dissertation_defense_programme.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+              "descriptionurl": "https://commons.wikimedia.org/wiki/File:Caroline_Brady_dissertation_defense_programme.jpg",
+              "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=69829579",
+              "extmetadata": {
+                "DateTime": {
+                  "value": "2018-06-09 15:36:29",
+                  "source": "mediawiki-metadata",
+                  "hidden": ""
+                },
+                "ObjectName": {
+                  "value": "Caroline Brady dissertation defense programme",
+                  "source": "mediawiki-metadata"
+                },
+                "CommonsMetadataExtension": {
+                  "value": 1.2,
+                  "source": "extension",
+                  "hidden": ""
+                },
+                "Categories": {
+                  "value": "PD ineligible|Academic theses and dissertations|Caroline Agnes Brady",
+                  "source": "commons-categories",
+                  "hidden": ""
+                },
+                "Assessments": {
+                  "value": "",
+                  "source": "commons-categories",
+                  "hidden": ""
+                },
+                "ImageDescription": {
+                  "value": "<i>Programme of the Final Examination for the Degree of Doctor of Philosophy of Caroline Agnes von Egmont Brady</i>",
+                  "source": "commons-desc-page"
+                },
+                "DateTimeOriginal": {
+                  "value": "1935-06-17",
+                  "source": "commons-desc-page"
+                },
+                "Credit": {
+                  "value": "Caroline Brady dissertation (<i>The Legends of Ermanaric</i>) final examination programme",
+                  "source": "commons-desc-page"
+                },
+                "Artist": {
+                  "value": "University of California, Berkeley",
+                  "source": "commons-desc-page"
+                },
+                "LicenseShortName": {
+                  "value": "Public domain",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "UsageTerms": {
+                  "value": "Public domain",
+                  "source": "commons-desc-page"
+                },
+                "AttributionRequired": {
+                  "value": "false",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "Copyrighted": {
+                  "value": "False",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "Restrictions": {
+                  "value": "",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "License": {
+                  "value": "pd",
+                  "source": "commons-templates",
+                  "hidden": ""
+                }
+              }
+            }
+          ]
+        },
+        {
+          "pageid": 195772055,
+          "ns": 6,
+          "title": "File:Gauksland1.jpg",
+          "index": 5,
+          "imagerepository": "local",
+          "imageinfo": [
+            {
+              "size": 14354657,
+              "width": 10121,
+              "height": 3917,
+              "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/51/Gauksland1.jpg/500px-Gauksland1.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+              "thumbwidth": 400,
+              "thumbheight": 155,
+              "responsiveUrls": {
+                "2": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/51/Gauksland1.jpg/960px-Gauksland1.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+              },
+              "thumbattribs": {
+                "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/51/Gauksland1.jpg/500px-Gauksland1.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+                "decoding": "async",
+                "loading": "lazy",
+                "width": 400,
+                "height": 155,
+                "srcset": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/51/Gauksland1.jpg/960px-Gauksland1.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail 2x"
+              },
+              "url": "https://upload.wikimedia.org/wikipedia/commons/5/51/Gauksland1.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+              "descriptionurl": "https://commons.wikimedia.org/wiki/File:Gauksland1.jpg",
+              "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=195772055",
+              "extmetadata": {
+                "DateTime": {
+                  "value": "2026-07-16 17:50:36",
+                  "source": "mediawiki-metadata",
+                  "hidden": ""
+                },
+                "ObjectName": {
+                  "value": "Gauksland1",
+                  "source": "mediawiki-metadata"
+                },
+                "CommonsMetadataExtension": {
+                  "value": 1.2,
+                  "source": "extension",
+                  "hidden": ""
+                },
+                "Categories": {
+                  "value": "CC-Zero|Creative Commons CC0 1.0 Universal Public Domain Dedication missing SDC copyright license|Self-published work|Self-published work missing SDC copyright license|Archaeology in Vinje",
+                  "source": "commons-categories",
+                  "hidden": ""
+                },
+                "Assessments": {
+                  "value": "",
+                  "source": "commons-categories",
+                  "hidden": ""
+                },
+                "ImageDescription": {
+                  "value": "Dronninghaugen in Gaukslandsneset/Gaukslandstoe, Vinje. Local legend says it is the grave of Jorunn Joklekåpa. Just on the edge of the field there are two flat graves (flatmarksgrav), with some bones found there. One of them is dated 255-425 CE. Behind Dronninghaugen there are 2 or 3 burial mounds. Another mound with a menhir is in the forest just behind the road, at the right corner of the photo. The legend tells about war between king of Øvrebø hillfort on the opposite side of the lake, and king Gause of Gauksland, and Jorunn was the queen of Gauksland, according to Rikard Berge. Arne Vinje, the former gouvernor, tells, that the battle was on the water, so Gause drowned, and that is why he got no mound called after him. Jorunn Joklekåpa is know from a ballad sungen in Telemark, Spind and Agder, where she is an ally of king of Gautland in his war against king Herredag, who’s ally are Thor (the Old Norse god) and Sigurd Svein (Sigurd Fåvnesbane). In another ballad, about count Gunseli, Jorunn Joklekåpa is mentioned too. In the light of that Gunseli is obviously Jormunrek (Ermanaric), she must be Gudrun. According to Molke Moe and Sophus Bugge (see \"Torsvisen i sin norske form\"), the name Joklekåpa is a mix between names of Gjuki and Budli, Brunhild's father in the Völsunga saga.",
+                  "source": "commons-desc-page"
+                },
+                "DateTimeOriginal": {
+                  "value": "2026-07-15 16:03:35",
+                  "source": "commons-desc-page"
+                },
+                "Credit": {
+                  "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+                  "source": "commons-desc-page"
+                },
+                "Artist": {
+                  "value": "<a href=\"//commons.wikimedia.org/wiki/User:Tollef_Salemann\" title=\"User:Tollef Salemann\">Tollef Salemann</a>",
+                  "source": "commons-desc-page"
+                },
+                "LicenseShortName": {
+                  "value": "CC0",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "UsageTerms": {
+                  "value": "Creative Commons Zero, Public Domain Dedication",
+                  "source": "commons-desc-page"
+                },
+                "AttributionRequired": {
+                  "value": "false",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "LicenseUrl": {
+                  "value": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+                  "source": "commons-desc-page"
+                },
+                "Copyrighted": {
+                  "value": "True",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "Restrictions": {
+                  "value": "",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "License": {
+                  "value": "cc0",
+                  "source": "commons-templates",
+                  "hidden": ""
+                }
+              }
+            }
+          ]
+        },
+        {
+          "pageid": 195772091,
+          "ns": 6,
+          "title": "File:Gauksland2.jpg",
+          "index": 4,
+          "imagerepository": "local",
+          "imageinfo": [
+            {
+              "size": 7877485,
+              "width": 6322,
+              "height": 3928,
+              "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a5/Gauksland2.jpg/500px-Gauksland2.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+              "thumbwidth": 400,
+              "thumbheight": 249,
+              "responsiveUrls": {
+                "2": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a5/Gauksland2.jpg/960px-Gauksland2.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+              },
+              "thumbattribs": {
+                "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a5/Gauksland2.jpg/500px-Gauksland2.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+                "decoding": "async",
+                "loading": "lazy",
+                "width": 400,
+                "height": 249,
+                "srcset": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a5/Gauksland2.jpg/960px-Gauksland2.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail 2x"
+              },
+              "url": "https://upload.wikimedia.org/wikipedia/commons/a/a5/Gauksland2.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+              "descriptionurl": "https://commons.wikimedia.org/wiki/File:Gauksland2.jpg",
+              "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=195772091",
+              "extmetadata": {
+                "DateTime": {
+                  "value": "2026-07-16 17:52:33",
+                  "source": "mediawiki-metadata",
+                  "hidden": ""
+                },
+                "ObjectName": {
+                  "value": "Gauksland2",
+                  "source": "mediawiki-metadata"
+                },
+                "CommonsMetadataExtension": {
+                  "value": 1.2,
+                  "source": "extension",
+                  "hidden": ""
+                },
+                "Categories": {
+                  "value": "CC-Zero|Self-published work|Archaeology in Vinje",
+                  "source": "commons-categories",
+                  "hidden": ""
+                },
+                "Assessments": {
+                  "value": "",
+                  "source": "commons-categories",
+                  "hidden": ""
+                },
+                "ImageDescription": {
+                  "value": "Dronninghaugen in Gaukslandsneset/Gaukslandstoe, Vinje. Local legend says it is the grave of Jorunn Joklekåpa. Behind the photographer there are 2 or 3 burial mounds, and two in front behind Dronninghaugen, and two flat graves behind Dronninghaugen dated to the Migration Period. The legend tells about war between king of Øvrebø hillfort on the opposite side of the lake, and king Gause of Gauksland, and Jorunn was the queen of Gauksland, according to Rikard Berge. Arne Vinje, the former gouvernor, tells, that the battle was on the water, so Gause drowned, and that is why he got no mound called after him. Jorunn Joklekåpa is known from a ballad sungen in Telemark, Spind and Agder, where she is an ally of king of Gautland in his war against king Herredag, who’s ally are Thor (the Old Norse god) and Sigurd Svein (Sigurd Fåvnesbane). In another ballad, about count Gunseli, Jorunn Joklekåpa is mentioned too. In the light of that Gunseli is obviously Jormunrek (Ermanaric), she must be Gudrun. According to Molke Moe and Sophus Bugge (see \"Torsvisen i sin norske form\"), the name Joklekåpa is a mix between names of Gjuki and Budli, Brunhild's father in the Völsunga saga.",
+                  "source": "commons-desc-page"
+                },
+                "DateTimeOriginal": {
+                  "value": "2026-07-15 16:05:12",
+                  "source": "commons-desc-page"
+                },
+                "Credit": {
+                  "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+                  "source": "commons-desc-page"
+                },
+                "Artist": {
+                  "value": "<a href=\"//commons.wikimedia.org/wiki/User:Tollef_Salemann\" title=\"User:Tollef Salemann\">Tollef Salemann</a>",
+                  "source": "commons-desc-page"
+                },
+                "LicenseShortName": {
+                  "value": "CC0",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "UsageTerms": {
+                  "value": "Creative Commons Zero, Public Domain Dedication",
+                  "source": "commons-desc-page"
+                },
+                "AttributionRequired": {
+                  "value": "false",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "LicenseUrl": {
+                  "value": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+                  "source": "commons-desc-page"
+                },
+                "Copyrighted": {
+                  "value": "True",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "Restrictions": {
+                  "value": "",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "License": {
+                  "value": "cc0",
+                  "source": "commons-templates",
+                  "hidden": ""
+                }
+              }
+            }
+          ]
+        }
+      ]
+    }
+  }
+}

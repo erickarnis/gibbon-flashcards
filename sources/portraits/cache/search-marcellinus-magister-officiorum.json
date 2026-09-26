@@ -1,0 +1,569 @@
+{
+  "person_id": "marcellinus-magister-officiorum",
+  "query": "Marcellinus (magister officiorum)",
+  "response": {
+    "batchcomplete": true,
+    "continue": {
+      "gsroffset": 5,
+      "continue": "gsroffset||"
+    },
+    "query": {
+      "pages": [
+        {
+          "pageid": 380138,
+          "ns": 6,
+          "title": "File:Double Centenionalis Magnentius-XR-s4017.jpg",
+          "index": 1,
+          "imagerepository": "local",
+          "imageinfo": [
+            {
+              "size": 54399,
+              "width": 557,
+              "height": 269,
+              "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5a/Double_Centenionalis_Magnentius-XR-s4017.jpg/500px-Double_Centenionalis_Magnentius-XR-s4017.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+              "thumbwidth": 400,
+              "thumbheight": 193,
+              "responsiveUrls": {
+                "2": "https://upload.wikimedia.org/wikipedia/commons/5/5a/Double_Centenionalis_Magnentius-XR-s4017.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled"
+              },
+              "thumbattribs": {
+                "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5a/Double_Centenionalis_Magnentius-XR-s4017.jpg/500px-Double_Centenionalis_Magnentius-XR-s4017.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+                "decoding": "async",
+                "loading": "lazy",
+                "width": 400,
+                "height": 193,
+                "srcset": "https://upload.wikimedia.org/wikipedia/commons/5/5a/Double_Centenionalis_Magnentius-XR-s4017.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled 2x"
+              },
+              "url": "https://upload.wikimedia.org/wikipedia/commons/5/5a/Double_Centenionalis_Magnentius-XR-s4017.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+              "descriptionurl": "https://commons.wikimedia.org/wiki/File:Double_Centenionalis_Magnentius-XR-s4017.jpg",
+              "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=380138",
+              "extmetadata": {
+                "DateTime": {
+                  "value": "2005-10-21 00:02:05",
+                  "source": "mediawiki-metadata",
+                  "hidden": ""
+                },
+                "ObjectName": {
+                  "value": "Double Centenionalis Magnentius-XR-s4017",
+                  "source": "mediawiki-metadata"
+                },
+                "CommonsMetadataExtension": {
+                  "value": 1.2,
+                  "source": "extension",
+                  "hidden": ""
+                },
+                "Categories": {
+                  "value": "GFDL|Files with no machine-readable author|Files with no machine-readable source|License migration completed|Media missing infobox template|Self-published work|CNG coins|Items with VRTS permission confirmed|Images with extracted images|Coins on white background|Alpha Omega on coins|Media missing infobox template (personal templates)|Chi Rho Alpha Omega on coins|Centenionales of Magnentius|Chi Rho on coins|Magnentius on coins",
+                  "source": "commons-categories",
+                  "hidden": ""
+                },
+                "Assessments": {
+                  "value": "",
+                  "source": "commons-categories",
+                  "hidden": ""
+                },
+                "LicenseShortName": {
+                  "value": "CC BY-SA 3.0",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "UsageTerms": {
+                  "value": "Creative Commons Attribution-Share Alike 3.0",
+                  "source": "commons-desc-page"
+                },
+                "AttributionRequired": {
+                  "value": "true",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "Attribution": {
+                  "value": "Classical Numismatic Group, Inc. <a rel=\"nofollow\" class=\"external free\" href=\"http://www.cngcoins.com\">http://www.cngcoins.com</a>",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "LicenseUrl": {
+                  "value": "http://creativecommons.org/licenses/by-sa/3.0/",
+                  "source": "commons-desc-page"
+                },
+                "Copyrighted": {
+                  "value": "True",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "Restrictions": {
+                  "value": "",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "License": {
+                  "value": "cc-by-sa-3.0",
+                  "source": "commons-templates",
+                  "hidden": ""
+                }
+              }
+            }
+          ]
+        },
+        {
+          "pageid": 81770081,
+          "ns": 6,
+          "title": "File:St. Marcellinus und Petrus (Seligenstadt).jpg",
+          "index": 3,
+          "imagerepository": "local",
+          "imageinfo": [
+            {
+              "size": 43551692,
+              "width": 7337,
+              "height": 10151,
+              "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/15/St._Marcellinus_und_Petrus_%28Seligenstadt%29.jpg/500px-St._Marcellinus_und_Petrus_%28Seligenstadt%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+              "thumbwidth": 400,
+              "thumbheight": 553,
+              "responsiveUrls": {
+                "2": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/15/St._Marcellinus_und_Petrus_%28Seligenstadt%29.jpg/960px-St._Marcellinus_und_Petrus_%28Seligenstadt%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+              },
+              "thumbattribs": {
+                "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/15/St._Marcellinus_und_Petrus_%28Seligenstadt%29.jpg/500px-St._Marcellinus_und_Petrus_%28Seligenstadt%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+                "decoding": "async",
+                "loading": "lazy",
+                "width": 400,
+                "height": 553,
+                "srcset": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/15/St._Marcellinus_und_Petrus_%28Seligenstadt%29.jpg/960px-St._Marcellinus_und_Petrus_%28Seligenstadt%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail 2x"
+              },
+              "url": "https://upload.wikimedia.org/wikipedia/commons/1/15/St._Marcellinus_und_Petrus_%28Seligenstadt%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+              "descriptionurl": "https://commons.wikimedia.org/wiki/File:St._Marcellinus_und_Petrus_(Seligenstadt).jpg",
+              "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=81770081",
+              "extmetadata": {
+                "DateTime": {
+                  "value": "2019-09-01 14:14:28",
+                  "source": "mediawiki-metadata",
+                  "hidden": ""
+                },
+                "ObjectName": {
+                  "value": "St. Marcellinus und Petrus (Seligenstadt)",
+                  "source": "mediawiki-metadata"
+                },
+                "CommonsMetadataExtension": {
+                  "value": 1.2,
+                  "source": "extension",
+                  "hidden": ""
+                },
+                "Categories": {
+                  "value": "Images from Wiki Loves Monuments 2019 in Germany|Landkreis Offenbach|Images from Wiki Loves Monuments 2019|Self-published work|Images from Wiki Loves Monuments 2019, DE-HE|Uploaded via Campaign:wlm-de-he|Cultural heritage monuments in Hesse without ID|Images from Wiki Loves Monuments missing SDC location of creation|Template Unknown (unspecified)|Cultural heritage monuments in Hesse missing SDC location of creation|Files with coordinates missing SDC location of creation (50° N, 8° E)|St. Marcellinus und Petrus (Seligenstadt)",
+                  "source": "commons-categories",
+                  "hidden": ""
+                },
+                "Assessments": {
+                  "value": "quality",
+                  "source": "commons-categories",
+                  "hidden": ""
+                },
+                "GPSLatitude": {
+                  "value": "50.042595",
+                  "source": "commons-desc-page"
+                },
+                "GPSLongitude": {
+                  "value": "8.977449",
+                  "source": "commons-desc-page"
+                },
+                "GPSMapDatum": {
+                  "value": "WGS-84",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "ImageDescription": {
+                  "value": "The Basilica Ss. Marcellinus and Peter (aka Einhard's Basilica) in Seligenstadt, Hesse, Germany",
+                  "source": "commons-desc-page"
+                },
+                "DateTimeOriginal": {
+                  "value": "2019-03-30 14:56:28",
+                  "source": "commons-desc-page"
+                },
+                "Credit": {
+                  "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+                  "source": "commons-desc-page"
+                },
+                "Artist": {
+                  "value": "<a href=\"//commons.wikimedia.org/wiki/User:Milseburg\" title=\"User:Milseburg\">Jörg braukmann</a>",
+                  "source": "commons-desc-page"
+                },
+                "LicenseShortName": {
+                  "value": "CC BY-SA 4.0",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "UsageTerms": {
+                  "value": "Creative Commons Attribution-Share Alike 4.0",
+                  "source": "commons-desc-page"
+                },
+                "AttributionRequired": {
+                  "value": "true",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "LicenseUrl": {
+                  "value": "https://creativecommons.org/licenses/by-sa/4.0",
+                  "source": "commons-desc-page"
+                },
+                "Copyrighted": {
+                  "value": "True",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "Restrictions": {
+                  "value": "",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "License": {
+                  "value": "cc-by-sa-4.0",
+                  "source": "commons-templates",
+                  "hidden": ""
+                }
+              }
+            }
+          ]
+        },
+        {
+          "pageid": 149132334,
+          "ns": 6,
+          "title": "File:St. Marcellinus & St. Peter.jpg",
+          "index": 4,
+          "imagerepository": "local",
+          "imageinfo": [
+            {
+              "size": 56199,
+              "width": 900,
+              "height": 500,
+              "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0e/St._Marcellinus_%26_St._Peter.jpg/500px-St._Marcellinus_%26_St._Peter.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+              "thumbwidth": 400,
+              "thumbheight": 222,
+              "responsiveUrls": {
+                "2": "https://upload.wikimedia.org/wikipedia/commons/0/0e/St._Marcellinus_%26_St._Peter.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled"
+              },
+              "thumbattribs": {
+                "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0e/St._Marcellinus_%26_St._Peter.jpg/500px-St._Marcellinus_%26_St._Peter.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+                "decoding": "async",
+                "loading": "lazy",
+                "width": 400,
+                "height": 222,
+                "srcset": "https://upload.wikimedia.org/wikipedia/commons/0/0e/St._Marcellinus_%26_St._Peter.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled 2x"
+              },
+              "url": "https://upload.wikimedia.org/wikipedia/commons/0/0e/St._Marcellinus_%26_St._Peter.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+              "descriptionurl": "https://commons.wikimedia.org/wiki/File:St._Marcellinus_%26_St._Peter.jpg",
+              "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=149132334",
+              "extmetadata": {
+                "DateTime": {
+                  "value": "2024-06-06 16:09:35",
+                  "source": "mediawiki-metadata",
+                  "hidden": ""
+                },
+                "ObjectName": {
+                  "value": "St. Marcellinus & St. Peter",
+                  "source": "mediawiki-metadata"
+                },
+                "CommonsMetadataExtension": {
+                  "value": 1.2,
+                  "source": "extension",
+                  "hidden": ""
+                },
+                "Categories": {
+                  "value": "2 June|Marcellinus and Peter|Self-published work|Uploaded with Mobile/Android",
+                  "source": "commons-categories",
+                  "hidden": ""
+                },
+                "Assessments": {
+                  "value": "",
+                  "source": "commons-categories",
+                  "hidden": ""
+                },
+                "ImageDescription": {
+                  "value": "Sts. Marcellinus &amp; Peter, Martyrs June 2nd",
+                  "source": "commons-desc-page"
+                },
+                "Credit": {
+                  "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+                  "source": "commons-desc-page"
+                },
+                "Artist": {
+                  "value": "<a href=\"//commons.wikimedia.org/wiki/User:JoeyWhisperz\" title=\"User:JoeyWhisperz\">JoeyWhisperz</a>",
+                  "source": "commons-desc-page"
+                },
+                "LicenseShortName": {
+                  "value": "CC BY-SA 4.0",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "UsageTerms": {
+                  "value": "Creative Commons Attribution-Share Alike 4.0",
+                  "source": "commons-desc-page"
+                },
+                "AttributionRequired": {
+                  "value": "true",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "LicenseUrl": {
+                  "value": "https://creativecommons.org/licenses/by-sa/4.0",
+                  "source": "commons-desc-page"
+                },
+                "Copyrighted": {
+                  "value": "True",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "Restrictions": {
+                  "value": "",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "License": {
+                  "value": "cc-by-sa-4.0",
+                  "source": "commons-templates",
+                  "hidden": ""
+                }
+              }
+            }
+          ]
+        },
+        {
+          "pageid": 175526665,
+          "ns": 6,
+          "title": "File:Blick auf St. Marcellinus und Petrus.jpg",
+          "index": 2,
+          "imagerepository": "local",
+          "imageinfo": [
+            {
+              "size": 8332267,
+              "width": 7705,
+              "height": 5000,
+              "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d6/Blick_auf_St._Marcellinus_und_Petrus.jpg/500px-Blick_auf_St._Marcellinus_und_Petrus.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+              "thumbwidth": 400,
+              "thumbheight": 260,
+              "responsiveUrls": {
+                "2": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d6/Blick_auf_St._Marcellinus_und_Petrus.jpg/960px-Blick_auf_St._Marcellinus_und_Petrus.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+              },
+              "thumbattribs": {
+                "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d6/Blick_auf_St._Marcellinus_und_Petrus.jpg/500px-Blick_auf_St._Marcellinus_und_Petrus.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+                "decoding": "async",
+                "loading": "lazy",
+                "width": 400,
+                "height": 260,
+                "srcset": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d6/Blick_auf_St._Marcellinus_und_Petrus.jpg/960px-Blick_auf_St._Marcellinus_und_Petrus.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail 2x"
+              },
+              "url": "https://upload.wikimedia.org/wikipedia/commons/d/d6/Blick_auf_St._Marcellinus_und_Petrus.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+              "descriptionurl": "https://commons.wikimedia.org/wiki/File:Blick_auf_St._Marcellinus_und_Petrus.jpg",
+              "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=175526665",
+              "extmetadata": {
+                "DateTime": {
+                  "value": "2025-09-24 15:08:32",
+                  "source": "mediawiki-metadata",
+                  "hidden": ""
+                },
+                "ObjectName": {
+                  "value": "Blick auf St. Marcellinus und Petrus",
+                  "source": "mediawiki-metadata"
+                },
+                "CommonsMetadataExtension": {
+                  "value": 1.2,
+                  "source": "extension",
+                  "hidden": ""
+                },
+                "Categories": {
+                  "value": "Reflections in rivers in Germany|Self-published work|Cultural heritage monuments in Hesse with known ID|Uploaded via Campaign:wlm-de-he|Water reflections of buildings in Hesse|Images from Wiki Loves Monuments missing SDC location of creation|Cultural heritage monuments in Hesse missing SDC location of creation|Images from Wiki Loves Monuments 2025 in Germany|Main in 2025|Files with coordinates missing SDC location of creation (50° N, 8° E)|St. Marcellinus und Petrus (Seligenstadt)|Images from Wiki Loves Monuments 2025|Images from Wiki Loves Monuments 2025, DE-HE|Fähre Seligenstadt",
+                  "source": "commons-categories",
+                  "hidden": ""
+                },
+                "Assessments": {
+                  "value": "quality",
+                  "source": "commons-categories",
+                  "hidden": ""
+                },
+                "GPSLatitude": {
+                  "value": "50.044574",
+                  "source": "commons-desc-page"
+                },
+                "GPSLongitude": {
+                  "value": "8.980332",
+                  "source": "commons-desc-page"
+                },
+                "GPSMapDatum": {
+                  "value": "WGS-84",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "ImageDescription": {
+                  "value": "View of the Seligenstadt from the opposite bank of the Main river with  the St. Marcellinus and Petrus",
+                  "source": "commons-desc-page"
+                },
+                "DateTimeOriginal": {
+                  "value": "2025-07-27 16:43:34",
+                  "source": "commons-desc-page"
+                },
+                "Credit": {
+                  "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+                  "source": "commons-desc-page"
+                },
+                "Artist": {
+                  "value": "<a href=\"//commons.wikimedia.org/wiki/User:Milseburg\" title=\"User:Milseburg\">Jörg Braukmann</a>",
+                  "source": "commons-desc-page"
+                },
+                "LicenseShortName": {
+                  "value": "CC BY-SA 4.0",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "UsageTerms": {
+                  "value": "Creative Commons Attribution-Share Alike 4.0",
+                  "source": "commons-desc-page"
+                },
+                "AttributionRequired": {
+                  "value": "true",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "LicenseUrl": {
+                  "value": "https://creativecommons.org/licenses/by-sa/4.0",
+                  "source": "commons-desc-page"
+                },
+                "Copyrighted": {
+                  "value": "True",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "Restrictions": {
+                  "value": "",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "License": {
+                  "value": "cc-by-sa-4.0",
+                  "source": "commons-templates",
+                  "hidden": ""
+                }
+              }
+            }
+          ]
+        },
+        {
+          "pageid": 175627469,
+          "ns": 6,
+          "title": "File:Blick auf St. Marcellinus und Petrus II.jpg",
+          "index": 5,
+          "imagerepository": "local",
+          "imageinfo": [
+            {
+              "size": 9504635,
+              "width": 8569,
+              "height": 5000,
+              "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/20/Blick_auf_St._Marcellinus_und_Petrus_II.jpg/500px-Blick_auf_St._Marcellinus_und_Petrus_II.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+              "thumbwidth": 400,
+              "thumbheight": 233,
+              "responsiveUrls": {
+                "2": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/20/Blick_auf_St._Marcellinus_und_Petrus_II.jpg/960px-Blick_auf_St._Marcellinus_und_Petrus_II.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+              },
+              "thumbattribs": {
+                "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/20/Blick_auf_St._Marcellinus_und_Petrus_II.jpg/500px-Blick_auf_St._Marcellinus_und_Petrus_II.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+                "decoding": "async",
+                "loading": "lazy",
+                "width": 400,
+                "height": 233,
+                "srcset": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/20/Blick_auf_St._Marcellinus_und_Petrus_II.jpg/960px-Blick_auf_St._Marcellinus_und_Petrus_II.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail 2x"
+              },
+              "url": "https://upload.wikimedia.org/wikipedia/commons/2/20/Blick_auf_St._Marcellinus_und_Petrus_II.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+              "descriptionurl": "https://commons.wikimedia.org/wiki/File:Blick_auf_St._Marcellinus_und_Petrus_II.jpg",
+              "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=175627469",
+              "extmetadata": {
+                "DateTime": {
+                  "value": "2025-09-26 13:07:58",
+                  "source": "mediawiki-metadata",
+                  "hidden": ""
+                },
+                "ObjectName": {
+                  "value": "Blick auf St. Marcellinus und Petrus II",
+                  "source": "mediawiki-metadata"
+                },
+                "CommonsMetadataExtension": {
+                  "value": 1.2,
+                  "source": "extension",
+                  "hidden": ""
+                },
+                "Categories": {
+                  "value": "Self-published work|Cultural heritage monuments in Hesse with known ID|Uploaded via Campaign:wlm-de-he|Images from Wiki Loves Monuments missing SDC location of creation|Cultural heritage monuments in Hesse missing SDC location of creation|Images from Wiki Loves Monuments 2025 in Germany|Files with coordinates missing SDC location of creation (50° N, 8° E)|St. Marcellinus und Petrus (Seligenstadt)|Images from Wiki Loves Monuments 2025|Images from Wiki Loves Monuments 2025, DE-HE",
+                  "source": "commons-categories",
+                  "hidden": ""
+                },
+                "Assessments": {
+                  "value": "quality",
+                  "source": "commons-categories",
+                  "hidden": ""
+                },
+                "GPSLatitude": {
+                  "value": "50.044574",
+                  "source": "commons-desc-page"
+                },
+                "GPSLongitude": {
+                  "value": "8.980332",
+                  "source": "commons-desc-page"
+                },
+                "GPSMapDatum": {
+                  "value": "WGS-84",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "ImageDescription": {
+                  "value": "View of St. Marcellinus and Petrus in Seligenstadt",
+                  "source": "commons-desc-page"
+                },
+                "DateTimeOriginal": {
+                  "value": "2025-07-27 16:40:30",
+                  "source": "commons-desc-page"
+                },
+                "Credit": {
+                  "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+                  "source": "commons-desc-page"
+                },
+                "Artist": {
+                  "value": "<a href=\"//commons.wikimedia.org/wiki/User:Milseburg\" title=\"User:Milseburg\">Jörg Braukmann</a>",
+                  "source": "commons-desc-page"
+                },
+                "LicenseShortName": {
+                  "value": "CC BY-SA 4.0",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "UsageTerms": {
+                  "value": "Creative Commons Attribution-Share Alike 4.0",
+                  "source": "commons-desc-page"
+                },
+                "AttributionRequired": {
+                  "value": "true",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "LicenseUrl": {
+                  "value": "https://creativecommons.org/licenses/by-sa/4.0",
+                  "source": "commons-desc-page"
+                },
+                "Copyrighted": {
+                  "value": "True",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "Restrictions": {
+                  "value": "",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "License": {
+                  "value": "cc-by-sa-4.0",
+                  "source": "commons-templates",
+                  "hidden": ""
+                }
+              }
+            }
+          ]
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,106 @@
+{
+  "person_id": "tamsapor",
+  "query": "Tamsapor",
+  "response": {
+    "batchcomplete": true,
+    "query": {
+      "pages": [
+        {
+          "pageid": 194320191,
+          "ns": 6,
+          "title": "File:Ammien Marcellin; étude d'histoire littéraire (IA ammienmarcellin00dautuoft).pdf",
+          "index": 1,
+          "imagerepository": "local",
+          "imageinfo": [
+            {
+              "size": 14513773,
+              "width": 870,
+              "height": 1414,
+              "pagecount": 264,
+              "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e5/Ammien_Marcellin%3B_%C3%A9tude_d%27histoire_litt%C3%A9raire_%28IA_ammienmarcellin00dautuoft%29.pdf/page1-500px-Ammien_Marcellin%3B_%C3%A9tude_d%27histoire_litt%C3%A9raire_%28IA_ammienmarcellin00dautuoft%29.pdf.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+              "thumbwidth": 400,
+              "thumbheight": 650,
+              "thumbattribs": {
+                "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e5/Ammien_Marcellin%3B_%C3%A9tude_d%27histoire_litt%C3%A9raire_%28IA_ammienmarcellin00dautuoft%29.pdf/page1-500px-Ammien_Marcellin%3B_%C3%A9tude_d%27histoire_litt%C3%A9raire_%28IA_ammienmarcellin00dautuoft%29.pdf.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+                "decoding": "async",
+                "loading": "lazy",
+                "width": 400,
+                "height": 650
+              },
+              "url": "https://upload.wikimedia.org/wikipedia/commons/e/e5/Ammien_Marcellin%3B_%C3%A9tude_d%27histoire_litt%C3%A9raire_%28IA_ammienmarcellin00dautuoft%29.pdf?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+              "descriptionurl": "https://commons.wikimedia.org/wiki/File:Ammien_Marcellin;_%C3%A9tude_d%27histoire_litt%C3%A9raire_(IA_ammienmarcellin00dautuoft).pdf",
+              "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=194320191",
+              "extmetadata": {
+                "DateTime": {
+                  "value": "2026-06-22 07:25:38",
+                  "source": "mediawiki-metadata",
+                  "hidden": ""
+                },
+                "ObjectName": {
+                  "value": "<div class=\"fn\">\nAmmien Marcellin; étude d'histoire littéraire</div>",
+                  "source": "commons-desc-page"
+                },
+                "CommonsMetadataExtension": {
+                  "value": 1.2,
+                  "source": "extension",
+                  "hidden": ""
+                },
+                "Categories": {
+                  "value": "PD-old-100-expired|Scans from the Internet Archive/unverified|CC-PD-Mark|Scans from the Internet Archive|Books uploaded by Fæ|Books without Wikidata item|IA uploads needing categories|Scans from University of Toronto",
+                  "source": "commons-categories",
+                  "hidden": ""
+                },
+                "Assessments": {
+                  "value": "",
+                  "source": "commons-categories",
+                  "hidden": ""
+                },
+                "Artist": {
+                  "value": "<div class=\"fn value\">\nDautremer, Léon</div>",
+                  "source": "commons-desc-page"
+                },
+                "ImageDescription": {
+                  "value": "<div class=\"description\">\n<p>26\n</p>\n<br>Subjects: Ammianus Marcellinus</div>",
+                  "source": "commons-desc-page"
+                },
+                "Credit": {
+                  "value": "<dl><dd><a href=\"//archive.org/details/ammienmarcellin00dautuoft\" class=\"extiw\" title=\"iarchive:ammienmarcellin00dautuoft\"><bdi class=\"description en\" lang=\"en\" dir=\"ltr\">Internet Archive identifier</bdi>: ammienmarcellin00dautuoft</a></dd>\n<dd><a rel=\"nofollow\" class=\"external free\" href=\"https://archive.org/download/ammienmarcellin00dautuoft/ammienmarcellin00dautuoft.pdf\">https://archive.org/download/ammienmarcellin00dautuoft/ammienmarcellin00dautuoft.pdf</a></dd></dl>\n<ul><li>IA contributor: Robarts - University of Toronto</li>\n<li>IA digitizing sponsor: MSN</li></ul>",
+                  "source": "commons-desc-page"
+                },
+                "LicenseShortName": {
+                  "value": "Public domain",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "UsageTerms": {
+                  "value": "Public domain",
+                  "source": "commons-desc-page"
+                },
+                "AttributionRequired": {
+                  "value": "false",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "Copyrighted": {
+                  "value": "False",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "Restrictions": {
+                  "value": "",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "License": {
+                  "value": "pd",
+                  "source": "commons-templates",
+                  "hidden": ""
+                }
+              }
+            }
+          ]
+        }
+      ]
+    }
+  }
+}

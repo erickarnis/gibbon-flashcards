@@ -1,0 +1,1930 @@
+{
+  "batchcomplete": true,
+  "query": {
+    "normalized": [
+      {
+        "fromencoded": false,
+        "from": "File:Gratian_Trier_enhanced.jpg",
+        "to": "File:Gratian Trier enhanced.jpg"
+      },
+      {
+        "fromencoded": false,
+        "from": "File:Severa,_wife_of_Valentinian_I.png",
+        "to": "File:Severa, wife of Valentinian I.png"
+      },
+      {
+        "fromencoded": false,
+        "from": "File:Statue_of_emperor_Valentinian_II.JPG",
+        "to": "File:Statue of emperor Valentinian II.JPG"
+      },
+      {
+        "fromencoded": false,
+        "from": "File:Icon_of_Zephaniah_(17th_c.,_North_Russia,_priv._coll.).jpg",
+        "to": "File:Icon of Zephaniah (17th c., North Russia, priv. coll.).jpg"
+      },
+      {
+        "fromencoded": false,
+        "from": "File:Edward_Gibbon_by_Henry_Walton_cleaned.jpg",
+        "to": "File:Edward Gibbon by Henry Walton cleaned.jpg"
+      },
+      {
+        "fromencoded": false,
+        "from": "File:Miniature_of_Eutropius.jpg",
+        "to": "File:Miniature of Eutropius.jpg"
+      },
+      {
+        "fromencoded": false,
+        "from": "File:Demosthenes_Polyeuctos_Louvre_Ma237_n01.jpg",
+        "to": "File:Demosthenes Polyeuctos Louvre Ma237 n01.jpg"
+      },
+      {
+        "fromencoded": false,
+        "from": "File:Mithridates_VI_Louvre.jpg",
+        "to": "File:Mithridates VI Louvre.jpg"
+      },
+      {
+        "fromencoded": false,
+        "from": "File:Octavian_and_Antony_denarius_(obverse).jpg",
+        "to": "File:Octavian and Antony denarius (obverse).jpg"
+      },
+      {
+        "fromencoded": false,
+        "from": "File:Socrates_Louvre.jpg",
+        "to": "File:Socrates Louvre.jpg"
+      },
+      {
+        "fromencoded": false,
+        "from": "File:El_sumo_sacerdote_Aarón_(Museo_del_Prado)_(cropped).jpg",
+        "to": "File:El sumo sacerdote Aarón (Museo del Prado) (cropped).jpg"
+      },
+      {
+        "fromencoded": false,
+        "from": "File:Syriskos_Painter_-_ARV_259_1_-_Theseus_killing_the_Minotauros_in_the_presence_of_Minos_and_Ariadne_and_lookers_-_Athens_NAM_15115.jpg",
+        "to": "File:Syriskos Painter - ARV 259 1 - Theseus killing the Minotauros in the presence of Minos and Ariadne and lookers - Athens NAM 15115.jpg"
+      },
+      {
+        "fromencoded": false,
+        "from": "File:Ammianus_Marcellinus.jpg",
+        "to": "File:Ammianus Marcellinus.jpg"
+      },
+      {
+        "fromencoded": false,
+        "from": "File:Saint_Anthony_(Damaskinos).png",
+        "to": "File:Saint Anthony (Damaskinos).png"
+      },
+      {
+        "fromencoded": false,
+        "from": "File:M._Junius_Brutus,_denarius,_54_BC,_RRC_433-2_(obverse_L._Junius).jpg",
+        "to": "File:M. Junius Brutus, denarius, 54 BC, RRC 433-2 (obverse L. Junius).jpg"
+      }
+    ],
+    "pages": [
+      {
+        "pageid": 408281,
+        "ns": 6,
+        "title": "File:Mithridates VI Louvre.jpg",
+        "imagerepository": "local",
+        "imageinfo": [
+          {
+            "size": 1607153,
+            "width": 1944,
+            "height": 2592,
+            "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/06/Mithridates_VI_Louvre.jpg/1920px-Mithridates_VI_Louvre.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+            "thumbwidth": 1600,
+            "thumbheight": 2133,
+            "responsiveUrls": {
+              "2": "https://upload.wikimedia.org/wikipedia/commons/0/06/Mithridates_VI_Louvre.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled"
+            },
+            "thumbattribs": {
+              "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/06/Mithridates_VI_Louvre.jpg/1920px-Mithridates_VI_Louvre.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+              "decoding": "async",
+              "loading": "lazy",
+              "width": 1600,
+              "height": 2133,
+              "srcset": "https://upload.wikimedia.org/wikipedia/commons/0/06/Mithridates_VI_Louvre.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled 2x"
+            },
+            "url": "https://upload.wikimedia.org/wikipedia/commons/0/06/Mithridates_VI_Louvre.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:Mithridates_VI_Louvre.jpg",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=408281",
+            "sha1": "6efe5a43cc682296bd7cfa5c3e9bb83120c928e9",
+            "extmetadata": {
+              "DateTime": {
+                "value": "2019-01-08 18:58:37",
+                "source": "mediawiki-metadata",
+                "hidden": ""
+              },
+              "ObjectName": {
+                "value": "<div class=\"fn\">\nFrench:  <div style=\"display:inline-block\" dir=\"ltr\" lang=\"fr\"><i>Mithridate VI Eupator</i></div>\nGreek:  <div style=\"display:inline-block\" dir=\"ltr\" lang=\"el\"><i>Μιθριδάτης Στ΄ Ευπάτωρ</i></div><div style=\"display: none;\">label QS:Lfr,\"Mithridate VI Eupator\"</div><div style=\"display: none;\">label QS:Lel,\"Μιθριδάτης Στ΄ Ευπάτωρ\"</div></div>",
+                "source": "commons-desc-page"
+              },
+              "CommonsMetadataExtension": {
+                "value": 1.2,
+                "source": "extension",
+                "hidden": ""
+              },
+              "Categories": {
+                "value": "Mithridates VI of Pontus (Louvre, Ma 2321)|Self-published work|Musée du Louvre:Inventory/Ma|Artworks with Wikidata item|Artworks with known accession number|Files with derivative versions|Template Unknown (artist)|Artworks main subject 3D work",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "Assessments": {
+                "value": "",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "Artist": {
+                "value": "<div class=\"fn value\">\nUnknown artist<span style=\"display: none;\">Unknown artist</span></div>",
+                "source": "commons-desc-page"
+              },
+              "ImageDescription": {
+                "value": "Portrait of the king of Pontus <a href=\"https://en.wikipedia.org/wiki/Mithridates_VI_of_Pontus\" class=\"extiw\" title=\"en:Mithridates VI of Pontus\">Mithridates VI</a> as <a href=\"https://en.wikipedia.org/wiki/Heracles\" class=\"extiw\" title=\"en:Heracles\">Heracles</a>. Marble, Roman imperial period (1<sup>st</sup> century).",
+                "source": "commons-desc-page"
+              },
+              "DateTimeOriginal": {
+                "value": "1<sup>st</sup> century<div style=\"display: none;\">date QS:P,+050-00-00T00:00:00Z/7</div> <span class=\"mw-valign-text-top noprint\" typeof=\"mw:File/Frameless\"><a href=\"https://www.wikidata.org/wiki/Q9526413#P571\" title=\"Edit this at Wikidata\"><img alt=\"Edit this at Wikidata\" src=\"https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8a/OOjs_UI_icon_edit-ltr-progressive.svg/20px-OOjs_UI_icon_edit-ltr-progressive.svg.png?utm_source=commons.wikimedia.org&amp;utm_campaign=parser&amp;utm_content=thumbnail\" decoding=\"async\" loading=\"lazy\" width=\"10\" height=\"10\" class=\"mw-file-element\" data-file-width=\"20\" data-file-height=\"20\"></a></span>",
+                "source": "commons-desc-page"
+              },
+              "Credit": {
+                "value": "Eric Gaba (<a href=\"//commons.wikimedia.org/wiki/User:Sting\" title=\"User:Sting\">User:Sting</a>), July 2005.",
+                "source": "commons-desc-page"
+              },
+              "LicenseShortName": {
+                "value": "CC BY-SA 2.5",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "UsageTerms": {
+                "value": "Creative Commons Attribution-Share Alike 2.5",
+                "source": "commons-desc-page"
+              },
+              "AttributionRequired": {
+                "value": "true",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Attribution": {
+                "value": "<a href=\"//commons.wikimedia.org/wiki/User:Sting\" title=\"User:Sting\">Sting</a>",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "LicenseUrl": {
+                "value": "https://creativecommons.org/licenses/by-sa/2.5",
+                "source": "commons-desc-page"
+              },
+              "Copyrighted": {
+                "value": "True",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Restrictions": {
+                "value": "",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "License": {
+                "value": "cc-by-sa-2.5",
+                "source": "commons-templates",
+                "hidden": ""
+              }
+            },
+            "mime": "image/jpeg"
+          }
+        ]
+      },
+      {
+        "pageid": 1430874,
+        "ns": 6,
+        "title": "File:Lucian of Samosata.png",
+        "imagerepository": "local",
+        "imageinfo": [
+          {
+            "size": 4349968,
+            "width": 970,
+            "height": 1536,
+            "thumburl": "https://upload.wikimedia.org/wikipedia/commons/3/35/Lucian_of_Samosata.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+            "thumbwidth": 1600,
+            "thumbheight": 2534,
+            "thumbattribs": {
+              "src": "https://upload.wikimedia.org/wikipedia/commons/3/35/Lucian_of_Samosata.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+              "decoding": "async",
+              "loading": "lazy",
+              "width": 1600,
+              "height": 2534
+            },
+            "url": "https://upload.wikimedia.org/wikipedia/commons/3/35/Lucian_of_Samosata.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:Lucian_of_Samosata.png",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=1430874",
+            "sha1": "e490a41e9ab0ec089349e0b64dcb1b9ad95643e3",
+            "extmetadata": {
+              "DateTime": {
+                "value": "2018-02-23 03:45:10",
+                "source": "mediawiki-metadata",
+                "hidden": ""
+              },
+              "ObjectName": {
+                "value": "Lucian of Samosata",
+                "source": "mediawiki-metadata"
+              },
+              "CommonsMetadataExtension": {
+                "value": 1.2,
+                "source": "extension",
+                "hidden": ""
+              },
+              "Categories": {
+                "value": "Lucian of Samosata|William Faithorne|Files with no machine-readable author|Media lacking author information|PD-Art (PD-old-70)|PD-Art (PD-old default)|Images with extracted images|CC-PD-Mark|PD-Art missing SDC copyright status|PD-old missing SDC copyright status",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "Assessments": {
+                "value": "",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "ImageDescription": {
+                "value": "<i>Lucian, the satirist</i>. Engraving by <a href=\"https://en.wikipedia.org/wiki/William_Faithorne\" class=\"extiw\" title=\"en:William Faithorne\">en:William Faithorne</a>  (1616/1691). Washington D.C., The Library of Congress, Prints and Photographs Division, LC-USZ6-71.",
+                "source": "commons-desc-page"
+              },
+              "Credit": {
+                "value": "DRYDEN, J. <i>The works of Lucian, translated from the greek by several eminent hands</i>, v. 1. London: Sam Briscoe, 1711.",
+                "source": "commons-desc-page"
+              },
+              "LicenseShortName": {
+                "value": "Public domain",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "UsageTerms": {
+                "value": "Public domain",
+                "source": "commons-desc-page"
+              },
+              "AttributionRequired": {
+                "value": "false",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Copyrighted": {
+                "value": "False",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Restrictions": {
+                "value": "",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "License": {
+                "value": "pd",
+                "source": "commons-templates",
+                "hidden": ""
+              }
+            },
+            "mime": "image/png"
+          }
+        ]
+      },
+      {
+        "pageid": 2112735,
+        "ns": 6,
+        "title": "File:Statue of emperor Valentinian II.JPG",
+        "imagerepository": "local",
+        "imageinfo": [
+          {
+            "size": 675148,
+            "width": 1704,
+            "height": 2560,
+            "thumburl": "https://upload.wikimedia.org/wikipedia/commons/c/c5/Statue_of_emperor_Valentinian_II.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+            "thumbwidth": 1600,
+            "thumbheight": 2404,
+            "thumbattribs": {
+              "src": "https://upload.wikimedia.org/wikipedia/commons/c/c5/Statue_of_emperor_Valentinian_II.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+              "decoding": "async",
+              "loading": "lazy",
+              "width": 1600,
+              "height": 2404
+            },
+            "url": "https://upload.wikimedia.org/wikipedia/commons/c/c5/Statue_of_emperor_Valentinian_II.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:Statue_of_emperor_Valentinian_II.JPG",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=2112735",
+            "sha1": "51a43aa2b76a23b4baf42b5922661a4495208dc9",
+            "extmetadata": {
+              "DateTime": {
+                "value": "2022-02-17 21:31:39",
+                "source": "mediawiki-metadata",
+                "hidden": ""
+              },
+              "ObjectName": {
+                "value": "Statue of emperor Valentinian II",
+                "source": "mediawiki-metadata"
+              },
+              "CommonsMetadataExtension": {
+                "value": 1.2,
+                "source": "extension",
+                "hidden": ""
+              },
+              "Categories": {
+                "value": "PD-user|Files with derivative versions|Valentinianus II statue, Istanbul Archaeological Museums",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "Assessments": {
+                "value": "",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "ImageDescription": {
+                "value": "A Statue of emperor Valentinian II - Marble - Aphrodisias Geyre - Aydin - 387 – 390 Ad",
+                "source": "commons-desc-page"
+              },
+              "DateTimeOriginal": {
+                "value": "1 February 2006 (original upload date)",
+                "source": "commons-desc-page"
+              },
+              "Credit": {
+                "value": "<bdi lang=\"en\" dir=\"ltr\">Transferred from <span class=\"plainlinks\"><a class=\"external text\" data-mw-original-href=\"//en.wikipedia.org\" href=\"https://en.wikipedia.org\">en.wikipedia</a></span> to Commons.</bdi>",
+                "source": "commons-desc-page"
+              },
+              "Artist": {
+                "value": "<a href=\"https://en.wikipedia.org/wiki/User:Brastite\" class=\"extiw\" title=\"wikipedia:User:Brastite\">Brastite</a> at <a href=\"https://en.wikipedia.org/wiki/\" class=\"extiw\" title=\"wikipedia:\">English Wikipedia</a>",
+                "source": "commons-desc-page"
+              },
+              "LicenseShortName": {
+                "value": "Public domain",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "UsageTerms": {
+                "value": "Public domain",
+                "source": "commons-desc-page"
+              },
+              "AttributionRequired": {
+                "value": "false",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Copyrighted": {
+                "value": "False",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Restrictions": {
+                "value": "",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "License": {
+                "value": "pd",
+                "source": "commons-templates",
+                "hidden": ""
+              }
+            },
+            "mime": "image/jpeg"
+          }
+        ]
+      },
+      {
+        "pageid": 3569936,
+        "ns": 6,
+        "title": "File:Socrates Louvre.jpg",
+        "imagerepository": "local",
+        "imageinfo": [
+          {
+            "size": 1736431,
+            "width": 1944,
+            "height": 2592,
+            "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a4/Socrates_Louvre.jpg/1920px-Socrates_Louvre.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+            "thumbwidth": 1600,
+            "thumbheight": 2133,
+            "responsiveUrls": {
+              "2": "https://upload.wikimedia.org/wikipedia/commons/a/a4/Socrates_Louvre.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled"
+            },
+            "thumbattribs": {
+              "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a4/Socrates_Louvre.jpg/1920px-Socrates_Louvre.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+              "decoding": "async",
+              "loading": "lazy",
+              "width": 1600,
+              "height": 2133,
+              "srcset": "https://upload.wikimedia.org/wikipedia/commons/a/a4/Socrates_Louvre.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled 2x"
+            },
+            "url": "https://upload.wikimedia.org/wikipedia/commons/a/a4/Socrates_Louvre.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:Socrates_Louvre.jpg",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=3569936",
+            "sha1": "0c28ee0c7e342b5173d3de0afd3991c0f2e1b420",
+            "extmetadata": {
+              "DateTime": {
+                "value": "2019-01-08 19:05:48",
+                "source": "mediawiki-metadata",
+                "hidden": ""
+              },
+              "ObjectName": {
+                "value": "<div class=\"fn\">\n<div style=\"font-weight:bold;display:inline-block;\"><div style=\"display:inline-block\" dir=\"ltr\" lang=\"en\"><i>Socrates</i></div></div><div style=\"display: none;\">label QS:Len,\"Socrates\"</div><div style=\"display: none;\">label QS:Lfr,\"Socrate\"</div><div style=\"display: none;\">label QS:Lel,\"Σωκράτης\"</div></div>",
+                "source": "commons-desc-page"
+              },
+              "CommonsMetadataExtension": {
+                "value": 1.2,
+                "source": "extension",
+                "hidden": ""
+              },
+              "Categories": {
+                "value": "Socrates bust (Louvre, Ma 59)|Images with annotations|Author died more than 100 years ago public domain images|Self-published work|Musée du Louvre:Inventory/Ma|Artworks with Wikidata item|Artworks with known accession number|Musée du Louvre:Inventory/MR|PD US expired|CC-PD-Mark|Artworks main subject 3D work",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "Assessments": {
+                "value": "",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "Artist": {
+                "value": "<div class=\"fn value\">\nCopy of <a href=\"//commons.wikimedia.org/wiki/Lysippos\" class=\"mw-redirect\" title=\"Lysippos\">Lysippos</a> (?)</div>",
+                "source": "commons-desc-page"
+              },
+              "ImageDescription": {
+                "value": "Portrait of <a href=\"https://en.wikipedia.org/wiki/Socrates\" class=\"extiw\" title=\"en:Socrates\">Socrates</a>. Marble, Roman artwork (1st century), perhaps a copy of a lost bronze statue made by Lysippos.",
+                "source": "commons-desc-page"
+              },
+              "DateTimeOriginal": {
+                "value": "1<sup>st</sup> century <a href=\"https://en.wikipedia.org/wiki/en:Anno_Domini\" class=\"extiw\" title=\"w:en:Anno Domini\">AD</a><div style=\"display: none;\">date QS:P,+050-00-00T00:00:00Z/7</div> <span class=\"mw-valign-text-top noprint\" typeof=\"mw:File/Frameless\"><a href=\"https://www.wikidata.org/wiki/Q20669515#P571\" title=\"Edit this at Wikidata\"><img alt=\"Edit this at Wikidata\" src=\"https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8a/OOjs_UI_icon_edit-ltr-progressive.svg/20px-OOjs_UI_icon_edit-ltr-progressive.svg.png?utm_source=commons.wikimedia.org&amp;utm_campaign=parser&amp;utm_content=thumbnail\" decoding=\"async\" loading=\"lazy\" width=\"10\" height=\"10\" class=\"mw-file-element\" data-file-width=\"20\" data-file-height=\"20\"></a></span>",
+                "source": "commons-desc-page"
+              },
+              "Credit": {
+                "value": "Eric Gaba (<a href=\"//commons.wikimedia.org/wiki/User:Sting\" title=\"User:Sting\">User:Sting</a>), July 2005.",
+                "source": "commons-desc-page"
+              },
+              "LicenseShortName": {
+                "value": "Public domain",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "UsageTerms": {
+                "value": "Public domain",
+                "source": "commons-desc-page"
+              },
+              "AttributionRequired": {
+                "value": "false",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Copyrighted": {
+                "value": "False",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Restrictions": {
+                "value": "",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "License": {
+                "value": "pd",
+                "source": "commons-templates",
+                "hidden": ""
+              }
+            },
+            "mime": "image/jpeg"
+          }
+        ]
+      },
+      {
+        "pageid": 6415375,
+        "ns": 6,
+        "title": "File:Edward Gibbon by Henry Walton cleaned.jpg",
+        "imagerepository": "local",
+        "imageinfo": [
+          {
+            "size": 1215432,
+            "width": 1992,
+            "height": 2552,
+            "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/05/Edward_Gibbon_by_Henry_Walton_cleaned.jpg/1920px-Edward_Gibbon_by_Henry_Walton_cleaned.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+            "thumbwidth": 1600,
+            "thumbheight": 2050,
+            "responsiveUrls": {
+              "2": "https://upload.wikimedia.org/wikipedia/commons/0/05/Edward_Gibbon_by_Henry_Walton_cleaned.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled"
+            },
+            "thumbattribs": {
+              "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/05/Edward_Gibbon_by_Henry_Walton_cleaned.jpg/1920px-Edward_Gibbon_by_Henry_Walton_cleaned.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+              "decoding": "async",
+              "loading": "lazy",
+              "width": 1600,
+              "height": 2050,
+              "srcset": "https://upload.wikimedia.org/wikipedia/commons/0/05/Edward_Gibbon_by_Henry_Walton_cleaned.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled 2x"
+            },
+            "url": "https://upload.wikimedia.org/wikipedia/commons/0/05/Edward_Gibbon_by_Henry_Walton_cleaned.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:Edward_Gibbon_by_Henry_Walton_cleaned.jpg",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=6415375",
+            "sha1": "091b363f648660596738306fea630518092414c2",
+            "extmetadata": {
+              "DateTime": {
+                "value": "2009-04-04 13:27:53",
+                "source": "mediawiki-metadata",
+                "hidden": ""
+              },
+              "ObjectName": {
+                "value": "<div class=\"fn\">\n<div style=\"font-weight:bold;display:inline-block;\"><div style=\"display:inline-block\" dir=\"ltr\" lang=\"en\"><i>Edward Gibbon <span class=\"mw-valign-text-top noprint\" typeof=\"mw:File/Frameless\"><a href=\"https://www.wikidata.org/wiki/Q28047985#P1476\" title=\"Edit this at Wikidata\"><img alt=\"Edit this at Wikidata\" src=\"https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8a/OOjs_UI_icon_edit-ltr-progressive.svg/20px-OOjs_UI_icon_edit-ltr-progressive.svg.png?utm_source=commons.wikimedia.org&amp;utm_campaign=parser&amp;utm_content=thumbnail\" decoding=\"async\" loading=\"lazy\" width=\"10\" height=\"10\" class=\"mw-file-element\" data-file-width=\"20\" data-file-height=\"20\"></a></span></i></div></div><div style=\"display: none;\">title QS:P1476,en:\"Edward Gibbon <span class=\"mw-valign-text-top noprint\" typeof=\"mw:File/Frameless\"><a href=\"https://www.wikidata.org/wiki/Q28047985#P1476\" title=\"Edit this at Wikidata\"><img alt=\"Edit this at Wikidata\" src=\"https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8a/OOjs_UI_icon_edit-ltr-progressive.svg/20px-OOjs_UI_icon_edit-ltr-progressive.svg.png?utm_source=commons.wikimedia.org&amp;utm_campaign=parser&amp;utm_content=thumbnail\" decoding=\"async\" loading=\"lazy\" width=\"10\" height=\"10\" class=\"mw-file-element\" data-file-width=\"20\" data-file-height=\"20\"></a></span>\"</div><div style=\"display: none;\">label QS:Len,\"Edward Gibbon <span class=\"mw-valign-text-top noprint\" typeof=\"mw:File/Frameless\"><a href=\"https://www.wikidata.org/wiki/Q28047985#P1476\" title=\"Edit this at Wikidata\"><img alt=\"Edit this at Wikidata\" src=\"https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8a/OOjs_UI_icon_edit-ltr-progressive.svg/20px-OOjs_UI_icon_edit-ltr-progressive.svg.png?utm_source=commons.wikimedia.org&amp;utm_campaign=parser&amp;utm_content=thumbnail\" decoding=\"async\" loading=\"lazy\" width=\"10\" height=\"10\" class=\"mw-file-element\" data-file-width=\"20\" data-file-height=\"20\"></a></span>\"</div><div style=\"display: none;\">label QS:Lbn,\"এডওয়ার্ড গিবন\"</div></div>",
+                "source": "commons-desc-page"
+              },
+              "CommonsMetadataExtension": {
+                "value": 1.2,
+                "source": "extension",
+                "hidden": ""
+              },
+              "Categories": {
+                "value": "Edward Gibbon|PD-user|Images from the National Portrait Gallery, London|Featured pictures on Wikipedia, English|PD-Art (PD-old-100)|Artworks with Wikidata item|Artworks with known accession number|Items with copyright claims|CC-PD-Mark|18th-century portrait paintings in the National Portrait Gallery, London|18th-century oil oval portraits of men at bust length|18th-century three-quarter view portrait paintings of men, facing left and looking left|1773 portrait paintings of men|1770s portrait paintings from Great Britain (male)|Artworks digital representation of 2D work|Files with Assessments template missing SDC Commons no value quality assessment|Portrait paintings by Henry Walton (English painter)",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "Assessments": {
+                "value": "",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "Artist": {
+                "value": "<bdi><a href=\"https://en.wikipedia.org/wiki/en:Henry_Walton_(English_painter)\" class=\"extiw\" title=\"w:en:Henry Walton (English painter)\"><span title=\"British painter and art dealer (1746–1813)\">Henry Walton</span></a></bdi>",
+                "source": "commons-desc-page"
+              },
+              "ImageDescription": {
+                "value": "<div class=\"description\">\n<i>Edward Gibbon</i>, by Henry Walton (died 1813). See source website for additional information. This set of images was gathered by <a href=\"//commons.wikimedia.org/wiki/User:Dcoetzee\" title=\"User:Dcoetzee\">User:Dcoetzee</a> from the National Portrait Gallery, London website using a special tool. All images in this batch have been confirmed as author died before 1939 according to the official death date listed by the NPG.</div>",
+                "source": "commons-desc-page"
+              },
+              "DateTimeOriginal": {
+                "value": "1773<div style=\"display: none;\">date QS:P571,+1773-00-00T00:00:00Z/9</div>",
+                "source": "commons-desc-page"
+              },
+              "Credit": {
+                "value": "one or more <b>third parties have made copyright claims against Wikimedia Commons in relation to the work from which this is sourced or a purely mechanical reproduction thereof</b>. This may be due to recognition of the \"<a href=\"https://en.wikipedia.org/wiki/sweat_of_the_brow\" class=\"extiw\" title=\"w:sweat of the brow\">sweat of the brow</a>\" doctrine, allowing works to be eligible for protection through skill and labour, and not purely by originality as is the case in the United States (where this website is hosted). These claims may or may not be valid in all jurisdictions.\nAs such, use of this image in the jurisdiction of the claimant or other countries <i>may</i> be regarded as <b>copyright infringement</b>. Please see <a href=\"//commons.wikimedia.org/wiki/Commons:When_to_use_the_PD-Art_tag\" title=\"Commons:When to use the PD-Art tag\">Commons:When to use the PD-Art tag</a> for more information.",
+                "source": "commons-desc-page"
+              },
+              "LicenseShortName": {
+                "value": "Public domain",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "UsageTerms": {
+                "value": "Public domain",
+                "source": "commons-desc-page"
+              },
+              "AttributionRequired": {
+                "value": "false",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Copyrighted": {
+                "value": "False",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Restrictions": {
+                "value": "",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "License": {
+                "value": "pd",
+                "source": "commons-templates",
+                "hidden": ""
+              }
+            },
+            "mime": "image/jpeg"
+          }
+        ]
+      },
+      {
+        "pageid": 16306340,
+        "ns": 6,
+        "title": "File:Demosthenes Polyeuctos Louvre Ma237 n01.jpg",
+        "imagerepository": "local",
+        "imageinfo": [
+          {
+            "size": 7594323,
+            "width": 2623,
+            "height": 3935,
+            "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/94/Demosthenes_Polyeuctos_Louvre_Ma237_n01.jpg/1920px-Demosthenes_Polyeuctos_Louvre_Ma237_n01.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+            "thumbwidth": 1600,
+            "thumbheight": 2400,
+            "responsiveUrls": {
+              "2": "https://upload.wikimedia.org/wikipedia/commons/9/94/Demosthenes_Polyeuctos_Louvre_Ma237_n01.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled"
+            },
+            "thumbattribs": {
+              "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/94/Demosthenes_Polyeuctos_Louvre_Ma237_n01.jpg/1920px-Demosthenes_Polyeuctos_Louvre_Ma237_n01.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+              "decoding": "async",
+              "loading": "lazy",
+              "width": 1600,
+              "height": 2400,
+              "srcset": "https://upload.wikimedia.org/wikipedia/commons/9/94/Demosthenes_Polyeuctos_Louvre_Ma237_n01.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled 2x"
+            },
+            "url": "https://upload.wikimedia.org/wikipedia/commons/9/94/Demosthenes_Polyeuctos_Louvre_Ma237_n01.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:Demosthenes_Polyeuctos_Louvre_Ma237_n01.jpg",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=16306340",
+            "sha1": "43871dcec3df62294e2c52dba7f12c6a17d23c42",
+            "extmetadata": {
+              "DateTime": {
+                "value": "2011-09-02 14:54:30",
+                "source": "mediawiki-metadata",
+                "hidden": ""
+              },
+              "ObjectName": {
+                "value": "<div class=\"fn\">\n<div style=\"font-weight:bold;display:inline-block;\"><div style=\"display:inline-block\" dir=\"ltr\" lang=\"en\"><i>Demosthenes</i></div></div><div style=\"display: none;\">label QS:Lfr,\"Démosthène\"</div><div style=\"display: none;\">label QS:Len,\"Demosthenes\"</div></div>",
+                "source": "commons-desc-page"
+              },
+              "CommonsMetadataExtension": {
+                "value": 1.2,
+                "source": "extension",
+                "hidden": ""
+              },
+              "Categories": {
+                "value": "Taken with Nikon D300s|Demosthenes de Polyeuctos (Louvre Ma 237)|Self-published work|Artworks with Wikidata item|Artworks with known accession number|Artworks with accession number from Wikidata|Artworks main subject 3D work",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "Assessments": {
+                "value": "",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "Artist": {
+                "value": "<bdi><a href=\"https://www.wikidata.org/wiki/Q3395557\" class=\"extiw\" title=\"d:Q3395557\"><span title=\"ancient Greek sculptor\">Polyeuctus</span></a></bdi>",
+                "source": "commons-desc-page"
+              },
+              "ImageDescription": {
+                "value": "Portrait of Demosthenes. Roman artwork of the Imperial era after a Hellenistic original.",
+                "source": "commons-desc-page"
+              },
+              "DateTimeOriginal": {
+                "value": "2<sup>nd</sup> century<div style=\"display: none;\">date QS:P,+150-00-00T00:00:00Z/7</div> <span class=\"mw-valign-text-top noprint\" typeof=\"mw:File/Frameless\"><a href=\"https://www.wikidata.org/wiki/Q106009500#P571\" title=\"Edit this at Wikidata\"><img alt=\"Edit this at Wikidata\" src=\"https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8a/OOjs_UI_icon_edit-ltr-progressive.svg/20px-OOjs_UI_icon_edit-ltr-progressive.svg.png?utm_source=commons.wikimedia.org&amp;utm_campaign=parser&amp;utm_content=thumbnail\" decoding=\"async\" loading=\"lazy\" width=\"10\" height=\"10\" class=\"mw-file-element\" data-file-width=\"20\" data-file-height=\"20\"></a></span>",
+                "source": "commons-desc-page"
+              },
+              "Credit": {
+                "value": "<a href=\"//commons.wikimedia.org/wiki/User:Jastrow\" title=\"User:Jastrow\">Marie-Lan Nguyen</a> (2011)",
+                "source": "commons-desc-page"
+              },
+              "Permission": {
+                "value": "I, the copyright holder of this work, hereby publish it under the following license:",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "LicenseShortName": {
+                "value": "CC BY 2.5",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "UsageTerms": {
+                "value": "Creative Commons Attribution 2.5",
+                "source": "commons-desc-page"
+              },
+              "AttributionRequired": {
+                "value": "true",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "LicenseUrl": {
+                "value": "https://creativecommons.org/licenses/by/2.5",
+                "source": "commons-desc-page"
+              },
+              "Copyrighted": {
+                "value": "True",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Restrictions": {
+                "value": "",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "License": {
+                "value": "cc-by-2.5",
+                "source": "commons-templates",
+                "hidden": ""
+              }
+            },
+            "mime": "image/jpeg"
+          }
+        ]
+      },
+      {
+        "pageid": 18613863,
+        "ns": 6,
+        "title": "File:Icon of Zephaniah (17th c., North Russia, priv. coll.).jpg",
+        "imagerepository": "local",
+        "imageinfo": [
+          {
+            "size": 3286769,
+            "width": 2000,
+            "height": 3206,
+            "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c2/Icon_of_Zephaniah_%2817th_c.%2C_North_Russia%2C_priv._coll.%29.jpg/1920px-Icon_of_Zephaniah_%2817th_c.%2C_North_Russia%2C_priv._coll.%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+            "thumbwidth": 1600,
+            "thumbheight": 2565,
+            "responsiveUrls": {
+              "2": "https://upload.wikimedia.org/wikipedia/commons/c/c2/Icon_of_Zephaniah_%2817th_c.%2C_North_Russia%2C_priv._coll.%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled"
+            },
+            "thumbattribs": {
+              "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c2/Icon_of_Zephaniah_%2817th_c.%2C_North_Russia%2C_priv._coll.%29.jpg/1920px-Icon_of_Zephaniah_%2817th_c.%2C_North_Russia%2C_priv._coll.%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+              "decoding": "async",
+              "loading": "lazy",
+              "width": 1600,
+              "height": 2565,
+              "srcset": "https://upload.wikimedia.org/wikipedia/commons/c/c2/Icon_of_Zephaniah_%2817th_c.%2C_North_Russia%2C_priv._coll.%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled 2x"
+            },
+            "url": "https://upload.wikimedia.org/wikipedia/commons/c/c2/Icon_of_Zephaniah_%2817th_c.%2C_North_Russia%2C_priv._coll.%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:Icon_of_Zephaniah_(17th_c.,_North_Russia,_priv._coll.).jpg",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=18613863",
+            "sha1": "e6f0877393179447c93607ad0b1a1d50ad68fe71",
+            "extmetadata": {
+              "DateTime": {
+                "value": "2012-03-07 08:45:44",
+                "source": "mediawiki-metadata",
+                "hidden": ""
+              },
+              "ObjectName": {
+                "value": "Icon of Zephaniah (17th c., North Russia, priv. coll.)",
+                "source": "mediawiki-metadata"
+              },
+              "CommonsMetadataExtension": {
+                "value": 1.2,
+                "source": "extension",
+                "hidden": ""
+              },
+              "Categories": {
+                "value": "Taken with Canon EOS 7D|PD-old-100-expired|PD-Art (PD-old-100-expired)|Files, uploaded by Shakko from various sources|CC-PD-Mark|17th-century icons of Russia|Zephaniah in icons|Private collections of Russian art|Icons of Russian North|Icons (art) with blue background",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "Assessments": {
+                "value": "",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "ImageDescription": {
+                "value": "<p>Six panels from a large iconostasis register. Tempera on wood panel with kovcheg. The Old Testament figures represented half length, turning towards the center where an image of the Mother of God would have been displayed. They are holding an unrolled scroll inscribed with the prophetic words. Teir faces and long beards rendered delicately. The faces executed in cool colours. The garments decorated with bejewelled hems. With a gold halo defined a red rim. The background dominated by tones of green, later. Norther Russian, 17th century. 62 x 39 cm.\n</p>\nNordrussland, 17. Jh.",
+                "source": "commons-desc-page"
+              },
+              "DateTimeOriginal": {
+                "value": "17<sup>th</sup> century<div style=\"display: none;\">date QS:P,+1650-00-00T00:00:00Z/7</div>",
+                "source": "commons-desc-page"
+              },
+              "Credit": {
+                "value": "<a rel=\"nofollow\" class=\"external free\" href=\"http://www.auctions-fischer.de/catalogues/online-catalogues/207-i-russian-greek-icons.html?L=1&amp;kategorie=93&amp;artikel=24650&amp;L=1&amp;cHash=0b4208411b\">http://www.auctions-fischer.de/catalogues/online-catalogues/207-i-russian-greek-icons.html?L=1&amp;kategorie=93&amp;artikel=24650&amp;L=1&amp;cHash=0b4208411b</a>",
+                "source": "commons-desc-page"
+              },
+              "Artist": {
+                "value": "<span lang=\"en\">Anonymous</span><span style=\"display:none\">Unknown author</span>",
+                "source": "commons-desc-page"
+              },
+              "LicenseShortName": {
+                "value": "Public domain",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "UsageTerms": {
+                "value": "Public domain",
+                "source": "commons-desc-page"
+              },
+              "AttributionRequired": {
+                "value": "false",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Copyrighted": {
+                "value": "False",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Restrictions": {
+                "value": "",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "License": {
+                "value": "pd",
+                "source": "commons-templates",
+                "hidden": ""
+              }
+            },
+            "mime": "image/jpeg"
+          }
+        ]
+      },
+      {
+        "pageid": 23601315,
+        "ns": 6,
+        "title": "File:Portrait of the Prophet Muhammad riding the buraq steed - Google Art Project.jpg",
+        "imagerepository": "local",
+        "imageinfo": [
+          {
+            "size": 2849371,
+            "width": 2953,
+            "height": 3823,
+            "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/07/Portrait_of_the_Prophet_Muhammad_riding_the_buraq_steed_-_Google_Art_Project.jpg/1920px-Portrait_of_the_Prophet_Muhammad_riding_the_buraq_steed_-_Google_Art_Project.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+            "thumbwidth": 1600,
+            "thumbheight": 2071,
+            "responsiveUrls": {
+              "2": "https://upload.wikimedia.org/wikipedia/commons/0/07/Portrait_of_the_Prophet_Muhammad_riding_the_buraq_steed_-_Google_Art_Project.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled"
+            },
+            "thumbattribs": {
+              "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/07/Portrait_of_the_Prophet_Muhammad_riding_the_buraq_steed_-_Google_Art_Project.jpg/1920px-Portrait_of_the_Prophet_Muhammad_riding_the_buraq_steed_-_Google_Art_Project.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+              "decoding": "async",
+              "loading": "lazy",
+              "width": 1600,
+              "height": 2071,
+              "srcset": "https://upload.wikimedia.org/wikipedia/commons/0/07/Portrait_of_the_Prophet_Muhammad_riding_the_buraq_steed_-_Google_Art_Project.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled 2x"
+            },
+            "url": "https://upload.wikimedia.org/wikipedia/commons/0/07/Portrait_of_the_Prophet_Muhammad_riding_the_buraq_steed_-_Google_Art_Project.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:Portrait_of_the_Prophet_Muhammad_riding_the_buraq_steed_-_Google_Art_Project.jpg",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=23601315",
+            "sha1": "7b875a30e6be56c911824dfa7f43cf7331192781",
+            "extmetadata": {
+              "DateTime": {
+                "value": "2013-01-05 06:15:05",
+                "source": "mediawiki-metadata",
+                "hidden": ""
+              },
+              "ObjectName": {
+                "value": "<div class=\"fn\">\n<div style=\"font-weight:bold;display:inline-block;\"><div style=\"display:inline-block\" dir=\"ltr\" lang=\"en\"><i>Portrait of the Prophet Muhammad riding the buraq steed</i></div></div><div style=\"display: none;\">title QS:P1476,en:\"Portrait of the Prophet Muhammad riding the buraq steed\"</div><div style=\"display: none;\">label QS:Len,\"Portrait of the Prophet Muhammad riding the buraq steed\"</div></div>",
+                "source": "commons-desc-page"
+              },
+              "CommonsMetadataExtension": {
+                "value": 1.2,
+                "source": "extension",
+                "hidden": ""
+              },
+              "Categories": {
+                "value": "Portrait paintings|Buraq|Muslim depictions of Muhammad|Google Art Project works by unknown artist|Google Art Project works in Art Gallery of South Australia|PD-Art (PD-old-100)|Artworks with Wikidata item|Artworks with known accession number|Template Unknown (author)|CC-PD-Mark|Files with Assessments template missing SDC Commons quality assessment|Featured pictures of paintings|Google Art Project paintings|PD-Art missing SDC copyright status|PD-old missing SDC copyright status|Artworks digital representation of 2D work|Files from Google Arts & Culture",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "Assessments": {
+                "value": "featured",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "Artist": {
+                "value": "<div class=\"fn value\">\nUnknown author<span style=\"display: none;\">Unknown author</span></div>",
+                "source": "commons-desc-page"
+              },
+              "DateTimeOriginal": {
+                "value": "18<sup>th</sup> century<div style=\"display: none;\">date QS:P571,+1750-00-00T00:00:00Z/7</div>",
+                "source": "commons-desc-page"
+              },
+              "Credit": {
+                "value": "<a rel=\"nofollow\" class=\"external text\" href=\"//www.google.com/culturalinstitute/asset-viewer/nAG1fr0NRvpY7w\">nAG1fr0NRvpY7w at Google Cultural Institute</a> maximum zoom level",
+                "source": "commons-desc-page"
+              },
+              "LicenseShortName": {
+                "value": "Public domain",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "UsageTerms": {
+                "value": "Public domain",
+                "source": "commons-desc-page"
+              },
+              "AttributionRequired": {
+                "value": "false",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Copyrighted": {
+                "value": "False",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Restrictions": {
+                "value": "",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "License": {
+                "value": "pd",
+                "source": "commons-templates",
+                "hidden": ""
+              }
+            },
+            "mime": "image/jpeg"
+          }
+        ]
+      },
+      {
+        "pageid": 26337537,
+        "ns": 6,
+        "title": "File:Gratian Trier enhanced.jpg",
+        "imagerepository": "local",
+        "imageinfo": [
+          {
+            "size": 1134484,
+            "width": 2736,
+            "height": 3648,
+            "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a5/Gratian_Trier_enhanced.jpg/1920px-Gratian_Trier_enhanced.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+            "thumbwidth": 1600,
+            "thumbheight": 2133,
+            "responsiveUrls": {
+              "2": "https://upload.wikimedia.org/wikipedia/commons/a/a5/Gratian_Trier_enhanced.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled"
+            },
+            "thumbattribs": {
+              "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a5/Gratian_Trier_enhanced.jpg/1920px-Gratian_Trier_enhanced.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+              "decoding": "async",
+              "loading": "lazy",
+              "width": 1600,
+              "height": 2133,
+              "srcset": "https://upload.wikimedia.org/wikipedia/commons/a/a5/Gratian_Trier_enhanced.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled 2x"
+            },
+            "url": "https://upload.wikimedia.org/wikipedia/commons/a/a5/Gratian_Trier_enhanced.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:Gratian_Trier_enhanced.jpg",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=26337537",
+            "sha1": "f9f8feb9618890eb414d3f59dfaf6a633ab7565b",
+            "extmetadata": {
+              "DateTime": {
+                "value": "2013-05-26 23:29:07",
+                "source": "mediawiki-metadata",
+                "hidden": ""
+              },
+              "ObjectName": {
+                "value": "Gratian Trier enhanced",
+                "source": "mediawiki-metadata"
+              },
+              "CommonsMetadataExtension": {
+                "value": 1.2,
+                "source": "extension",
+                "hidden": ""
+              },
+              "Categories": {
+                "value": "Retouched pictures|Self-published work|Extracted images|Bust of Gratianus (Rheinisches Landesmuseum Trier)",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "Assessments": {
+                "value": "",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "ImageDescription": {
+                "value": "Marble bust of the Roman Emperor Gratianus (367-383), Rheinisches Landesmuseum Trier",
+                "source": "commons-desc-page"
+              },
+              "DateTimeOriginal": {
+                "value": "2013-05-11 14:50:20",
+                "source": "commons-desc-page"
+              },
+              "Credit": {
+                "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+                "source": "commons-desc-page"
+              },
+              "Artist": {
+                "value": "<a href=\"//commons.wikimedia.org/w/index.php?title=User:SJuergen&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"User:SJuergen (page does not exist)\">SJuergen</a>",
+                "source": "commons-desc-page"
+              },
+              "LicenseShortName": {
+                "value": "CC BY-SA 3.0",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "UsageTerms": {
+                "value": "Creative Commons Attribution-Share Alike 3.0",
+                "source": "commons-desc-page"
+              },
+              "AttributionRequired": {
+                "value": "true",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "LicenseUrl": {
+                "value": "https://creativecommons.org/licenses/by-sa/3.0",
+                "source": "commons-desc-page"
+              },
+              "Copyrighted": {
+                "value": "True",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Restrictions": {
+                "value": "",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "License": {
+                "value": "cc-by-sa-3.0",
+                "source": "commons-templates",
+                "hidden": ""
+              }
+            },
+            "mime": "image/jpeg"
+          }
+        ]
+      },
+      {
+        "pageid": 84898362,
+        "ns": 6,
+        "title": "File:M. Junius Brutus, denarius, 54 BC, RRC 433-2 (obverse L. Junius).jpg",
+        "imagerepository": "local",
+        "imageinfo": [
+          {
+            "size": 109954,
+            "width": 414,
+            "height": 380,
+            "thumburl": "https://upload.wikimedia.org/wikipedia/commons/5/51/M._Junius_Brutus%2C_denarius%2C_54_BC%2C_RRC_433-2_%28obverse_L._Junius%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+            "thumbwidth": 1600,
+            "thumbheight": 1469,
+            "thumbattribs": {
+              "src": "https://upload.wikimedia.org/wikipedia/commons/5/51/M._Junius_Brutus%2C_denarius%2C_54_BC%2C_RRC_433-2_%28obverse_L._Junius%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+              "decoding": "async",
+              "loading": "lazy",
+              "width": 1600,
+              "height": 1469
+            },
+            "url": "https://upload.wikimedia.org/wikipedia/commons/5/51/M._Junius_Brutus%2C_denarius%2C_54_BC%2C_RRC_433-2_%28obverse_L._Junius%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:M._Junius_Brutus,_denarius,_54_BC,_RRC_433-2_(obverse_L._Junius).jpg",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=84898362",
+            "sha1": "d842a082c1cfb8cbbbed0989328bcba300ea04d0",
+            "extmetadata": {
+              "DateTime": {
+                "value": "2019-12-14 21:01:19",
+                "source": "mediawiki-metadata",
+                "hidden": ""
+              },
+              "ObjectName": {
+                "value": "M. Junius Brutus, denarius, 54 BC, RRC 433-2 (obverse L. Junius)",
+                "source": "mediawiki-metadata"
+              },
+              "CommonsMetadataExtension": {
+                "value": 1.2,
+                "source": "extension",
+                "hidden": ""
+              },
+              "Categories": {
+                "value": "GFDL|License migration not eligible|Author died more than 100 years ago public domain images|Self-published work|CNG coins|Items with VRTS permission confirmed|CC-PD-Mark|Coins of Marcus Junius Brutus|Roman Republican silver denari|Coins of Lucius Junius Brutus",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "Assessments": {
+                "value": "",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "ImageDescription": {
+                "value": "Q. Servilius Caepio (M. Junius) Brutus. 54 BC. AR Denarius (20mm, 4.11 g, 4h). Rome mint. Bare head of L. Junius Brutus right; BRVTVS behind / Bare head of Caius Servilius Ahala right; AHALA behind. Crawford 433/2; Sydenham 907; Kestner 3487-9; BMCRR Rome 3864-7; Junia 30. Superb EF, stunning deep gray cabinet toning. Portraits of exceptional quality.",
+                "source": "commons-desc-page"
+              },
+              "DateTimeOriginal": {
+                "value": "2011-01-04",
+                "source": "commons-desc-page"
+              },
+              "Credit": {
+                "value": "<a rel=\"nofollow\" class=\"external free\" href=\"https://www.cngcoins.com/Coin.aspx?CoinID=175690\">https://www.cngcoins.com/Coin.aspx?CoinID=175690</a>",
+                "source": "commons-desc-page"
+              },
+              "Artist": {
+                "value": "CNG",
+                "source": "commons-desc-page"
+              },
+              "LicenseShortName": {
+                "value": "Public domain",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "UsageTerms": {
+                "value": "Public domain",
+                "source": "commons-desc-page"
+              },
+              "AttributionRequired": {
+                "value": "false",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Copyrighted": {
+                "value": "False",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Restrictions": {
+                "value": "",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "License": {
+                "value": "pd",
+                "source": "commons-templates",
+                "hidden": ""
+              }
+            },
+            "mime": "image/jpeg"
+          }
+        ]
+      },
+      {
+        "pageid": 90580676,
+        "ns": 6,
+        "title": "File:Brutusidesobv.gif",
+        "imagerepository": "local",
+        "imageinfo": [
+          {
+            "size": 54299,
+            "width": 250,
+            "height": 240,
+            "thumburl": "https://upload.wikimedia.org/wikipedia/commons/f/fc/Brutusidesobv.gif?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+            "thumbwidth": 1600,
+            "thumbheight": 1536,
+            "thumbattribs": {
+              "src": "https://upload.wikimedia.org/wikipedia/commons/f/fc/Brutusidesobv.gif?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+              "decoding": "async",
+              "loading": "lazy",
+              "width": 1600,
+              "height": 1536
+            },
+            "url": "https://upload.wikimedia.org/wikipedia/commons/f/fc/Brutusidesobv.gif?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:Brutusidesobv.gif",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=90580676",
+            "sha1": "ab5c675f845a28ad7fd201b08bab2b5b537a3427",
+            "extmetadata": {
+              "DateTime": {
+                "value": "2020-05-23 20:01:04",
+                "source": "mediawiki-metadata",
+                "hidden": ""
+              },
+              "ObjectName": {
+                "value": "Brutusidesobv",
+                "source": "mediawiki-metadata"
+              },
+              "CommonsMetadataExtension": {
+                "value": 1.2,
+                "source": "extension",
+                "hidden": ""
+              },
+              "Categories": {
+                "value": "GFDL|License migration not eligible|Ides of March Coin|Self-published work|CNG coins|Items with VRTS permission confirmed|Men facing right and looking right|Roman Republican silver denari",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "Assessments": {
+                "value": "",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "ImageDescription": {
+                "value": "\"Ides of March\" denarius (obverse) of the conspirator <a href=\"https://en.wikipedia.org/wiki/Marcus_Junius_Brutus\" class=\"extiw\" title=\"w:Marcus Junius Brutus\">Brutus</a>",
+                "source": "commons-desc-page"
+              },
+              "DateTimeOriginal": {
+                "value": "2016",
+                "source": "commons-desc-page"
+              },
+              "Credit": {
+                "value": "<a rel=\"nofollow\" class=\"external free\" href=\"https://www.ngccoin.com/news/article/5243/NGC-Ancients/\">https://www.ngccoin.com/news/article/5243/NGC-Ancients/</a>",
+                "source": "commons-desc-page"
+              },
+              "Artist": {
+                "value": "CNG",
+                "source": "commons-desc-page"
+              },
+              "LicenseShortName": {
+                "value": "CC BY-SA 2.5",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "UsageTerms": {
+                "value": "Creative Commons Attribution-Share Alike 2.5",
+                "source": "commons-desc-page"
+              },
+              "AttributionRequired": {
+                "value": "true",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Attribution": {
+                "value": "Classical Numismatic Group, Inc. <a rel=\"nofollow\" class=\"external free\" href=\"http://www.cngcoins.com\">http://www.cngcoins.com</a>",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "LicenseUrl": {
+                "value": "https://creativecommons.org/licenses/by-sa/2.5",
+                "source": "commons-desc-page"
+              },
+              "Copyrighted": {
+                "value": "True",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Restrictions": {
+                "value": "",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "License": {
+                "value": "cc-by-sa-2.5",
+                "source": "commons-templates",
+                "hidden": ""
+              }
+            },
+            "mime": "image/gif"
+          }
+        ]
+      },
+      {
+        "pageid": 112625753,
+        "ns": 6,
+        "title": "File:Severa, wife of Valentinian I.png",
+        "imagerepository": "local",
+        "imageinfo": [
+          {
+            "size": 181978,
+            "width": 256,
+            "height": 349,
+            "thumburl": "https://upload.wikimedia.org/wikipedia/commons/7/79/Severa%2C_wife_of_Valentinian_I.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+            "thumbwidth": 1600,
+            "thumbheight": 2181,
+            "thumbattribs": {
+              "src": "https://upload.wikimedia.org/wikipedia/commons/7/79/Severa%2C_wife_of_Valentinian_I.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+              "decoding": "async",
+              "loading": "lazy",
+              "width": 1600,
+              "height": 2181
+            },
+            "url": "https://upload.wikimedia.org/wikipedia/commons/7/79/Severa%2C_wife_of_Valentinian_I.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:Severa,_wife_of_Valentinian_I.png",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=112625753",
+            "sha1": "bd6a17fbd75d4ce4a7d6cc8e606c5b139b815deb",
+            "extmetadata": {
+              "DateTime": {
+                "value": "2021-11-18 22:01:58",
+                "source": "mediawiki-metadata",
+                "hidden": ""
+              },
+              "ObjectName": {
+                "value": "Severa, wife of Valentinian I",
+                "source": "mediawiki-metadata"
+              },
+              "CommonsMetadataExtension": {
+                "value": 1.2,
+                "source": "extension",
+                "hidden": ""
+              },
+              "Categories": {
+                "value": "PD-old-70-expired|Bad use of creator template - option|Template Unknown (author)|CC-PD-Mark|Marina Severa|PD-old missing SDC copyright status|Roman empresses in art|Speculum Romanae Magnificentiae: Portraits of the Wives of Emperors|Byzantine empresses in engravings",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "Assessments": {
+                "value": "",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "ImageDescription": {
+                "value": "16th-century portrait of Empress Severa, wife of Valentinian I",
+                "source": "commons-desc-page"
+              },
+              "DateTimeOriginal": {
+                "value": "1587",
+                "source": "commons-desc-page"
+              },
+              "Credit": {
+                "value": "<a href=\"//commons.wikimedia.org/wiki/File:Speculum_Romanae_Magnificentiae-_Portraits_of_the_Wives_of_Emperors_MET_DP870780.jpg\" title=\"File:Speculum Romanae Magnificentiae- Portraits of the Wives of Emperors MET DP870780.jpg\">Speculum Romanae Magnificentiae: Portraits of the Wives of Emperors</a>",
+                "source": "commons-desc-page"
+              },
+              "Artist": {
+                "value": "<bdi><a href=\"https://www.wikidata.org/wiki/Q4233718\" class=\"extiw\" title=\"d:Q4233718\"><span title='unknown creator of a work (do not use as value of P50; use \"unknown value\" instead)'>anonymous</span></a></bdi>",
+                "source": "commons-desc-page"
+              },
+              "LicenseShortName": {
+                "value": "Public domain",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "UsageTerms": {
+                "value": "Public domain",
+                "source": "commons-desc-page"
+              },
+              "AttributionRequired": {
+                "value": "false",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Copyrighted": {
+                "value": "False",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Restrictions": {
+                "value": "",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "License": {
+                "value": "pd",
+                "source": "commons-templates",
+                "hidden": ""
+              }
+            },
+            "mime": "image/png"
+          }
+        ]
+      },
+      {
+        "pageid": 118477019,
+        "ns": 6,
+        "title": "File:Syriskos Painter - ARV 259 1 - Theseus killing the Minotauros in the presence of Minos and Ariadne and lookers - Athens NAM 15115.jpg",
+        "imagerepository": "local",
+        "imageinfo": [
+          {
+            "size": 5620450,
+            "width": 3443,
+            "height": 3409,
+            "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d1/Syriskos_Painter_-_ARV_259_1_-_Theseus_killing_the_Minotauros_in_the_presence_of_Minos_and_Ariadne_and_lookers_-_Athens_NAM_15115.jpg/1920px-Syriskos_Painter_-_ARV_259_1_-_Theseus_killing_the_Minotauros_in_the_presence_of_Minos_and_Ariadne_and_lookers_-_Athens_NAM_15115.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+            "thumbwidth": 1600,
+            "thumbheight": 1584,
+            "responsiveUrls": {
+              "2": "https://upload.wikimedia.org/wikipedia/commons/d/d1/Syriskos_Painter_-_ARV_259_1_-_Theseus_killing_the_Minotauros_in_the_presence_of_Minos_and_Ariadne_and_lookers_-_Athens_NAM_15115.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled"
+            },
+            "thumbattribs": {
+              "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d1/Syriskos_Painter_-_ARV_259_1_-_Theseus_killing_the_Minotauros_in_the_presence_of_Minos_and_Ariadne_and_lookers_-_Athens_NAM_15115.jpg/1920px-Syriskos_Painter_-_ARV_259_1_-_Theseus_killing_the_Minotauros_in_the_presence_of_Minos_and_Ariadne_and_lookers_-_Athens_NAM_15115.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+              "decoding": "async",
+              "loading": "lazy",
+              "width": 1600,
+              "height": 1584,
+              "srcset": "https://upload.wikimedia.org/wikipedia/commons/d/d1/Syriskos_Painter_-_ARV_259_1_-_Theseus_killing_the_Minotauros_in_the_presence_of_Minos_and_Ariadne_and_lookers_-_Athens_NAM_15115.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled 2x"
+            },
+            "url": "https://upload.wikimedia.org/wikipedia/commons/d/d1/Syriskos_Painter_-_ARV_259_1_-_Theseus_killing_the_Minotauros_in_the_presence_of_Minos_and_Ariadne_and_lookers_-_Athens_NAM_15115.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:Syriskos_Painter_-_ARV_259_1_-_Theseus_killing_the_Minotauros_in_the_presence_of_Minos_and_Ariadne_and_lookers_-_Athens_NAM_15115.jpg",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=118477019",
+            "sha1": "d5ca349171c1eb081cf31bdcb923fdfd9a36fa08",
+            "extmetadata": {
+              "DateTime": {
+                "value": "2022-05-30 17:28:29",
+                "source": "mediawiki-metadata",
+                "hidden": ""
+              },
+              "ObjectName": {
+                "value": "Syriskos Painter - ARV 259 1 - Theseus killing the Minotauros in the presence of Minos and Ariadne and lookers - Athens NAM 15115",
+                "source": "mediawiki-metadata"
+              },
+              "CommonsMetadataExtension": {
+                "value": 1.2,
+                "source": "extension",
+                "hidden": ""
+              },
+              "Categories": {
+                "value": "Self-published work|Theseus kills the Minotaur krater, NAMA 15115",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "Assessments": {
+                "value": "",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "ImageDescription": {
+                "value": "object type / vase shape: attic red figure calyx-krater\n<p>- description A: column, Minos with sceptre, Ariadne with wool or wreath, Theseus with sword killing the Minotauros; name inscriptions: ΜΙ[ΝΩΣ], [ΑΡΙΑ]ΝΝΕ, ΘΕΣΕΥΣ, ΜΙΝΟΤΑΥΡΟΣ\n- B: four Athenian heroes watching; name inscriptions: ΠΑΛΛΑΣ, ΟΡΝΕΥΣ, ΝΙ[Σ]ΟΣ, ΛΥΚΟΣ, Pallas, Orneus, Nisus and Lycus the uncles of Theseus\n- production place: Athens\n- painter: Syriskos Painter\n- period / date: late archaic, ca. 500-475 BC\n- material: pottery (clay)\n- findspot: Athens, Akropolis\n- museum / inventory number: Athens National Archaeological Museum 15115 / Akropolis-Collection 2.735\n- bibliography: John D. Beazley, Attic Red-Figure Vase-Painters, Oxford 1963(2), 259.1\n- Beazley Archive Pottery Database 202955\n</p>\n- Please note: Some museums permit photography of their exhibits for private, educational, scientific, non-commercial purposes only. If you intend to use the photo for commercial aims, I would recommend you to contact the museum.",
+                "source": "commons-desc-page"
+              },
+              "DateTimeOriginal": {
+                "value": "2022-04-30 14:00:28",
+                "source": "commons-desc-page"
+              },
+              "Credit": {
+                "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+                "source": "commons-desc-page"
+              },
+              "Artist": {
+                "value": "<a href=\"//commons.wikimedia.org/wiki/User:ArchaiOptix\" title=\"User:ArchaiOptix\">ArchaiOptix</a>",
+                "source": "commons-desc-page"
+              },
+              "LicenseShortName": {
+                "value": "CC BY-SA 4.0",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "UsageTerms": {
+                "value": "Creative Commons Attribution-Share Alike 4.0",
+                "source": "commons-desc-page"
+              },
+              "AttributionRequired": {
+                "value": "true",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "LicenseUrl": {
+                "value": "https://creativecommons.org/licenses/by-sa/4.0",
+                "source": "commons-desc-page"
+              },
+              "Copyrighted": {
+                "value": "True",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Restrictions": {
+                "value": "",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "License": {
+                "value": "cc-by-sa-4.0",
+                "source": "commons-templates",
+                "hidden": ""
+              }
+            },
+            "mime": "image/jpeg"
+          }
+        ]
+      },
+      {
+        "pageid": 120775716,
+        "ns": 6,
+        "title": "File:Saint Anthony (Damaskinos).png",
+        "imagerepository": "local",
+        "imageinfo": [
+          {
+            "size": 2262408,
+            "width": 1036,
+            "height": 1329,
+            "thumburl": "https://upload.wikimedia.org/wikipedia/commons/f/fb/Saint_Anthony_%28Damaskinos%29.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+            "thumbwidth": 1600,
+            "thumbheight": 2053,
+            "thumbattribs": {
+              "src": "https://upload.wikimedia.org/wikipedia/commons/f/fb/Saint_Anthony_%28Damaskinos%29.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+              "decoding": "async",
+              "loading": "lazy",
+              "width": 1600,
+              "height": 2053
+            },
+            "url": "https://upload.wikimedia.org/wikipedia/commons/f/fb/Saint_Anthony_%28Damaskinos%29.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:Saint_Anthony_(Damaskinos).png",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=120775716",
+            "sha1": "0bb362c65123e474381ef59c6cc1a84b4877f25c",
+            "extmetadata": {
+              "DateTime": {
+                "value": "2022-07-19 17:50:42",
+                "source": "mediawiki-metadata",
+                "hidden": ""
+              },
+              "ObjectName": {
+                "value": "<div class=\"fn\">\n<div style=\"font-size:0.9em;display:inline-block;\">American English:  <div style=\"display:inline-block\" dir=\"ltr\" lang=\"en-us\"><i>Saint Anthony <span class=\"mw-valign-text-top noprint\" typeof=\"mw:File/Frameless\"><a href=\"https://www.wikidata.org/wiki/Q113153576#P1476\" title=\"Edit this at Wikidata\"><img alt=\"Edit this at Wikidata\" src=\"https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8a/OOjs_UI_icon_edit-ltr-progressive.svg/20px-OOjs_UI_icon_edit-ltr-progressive.svg.png?utm_source=commons.wikimedia.org&amp;utm_campaign=parser&amp;utm_content=thumbnail\" decoding=\"async\" loading=\"lazy\" width=\"10\" height=\"10\" class=\"mw-file-element\" data-file-width=\"20\" data-file-height=\"20\"></a></span></i></div></div><br><div style=\"font-weight:bold;display:inline-block;\"><div style=\"display:inline-block\" dir=\"ltr\" lang=\"en\"><i>Saint Anthony (Damaskinos)</i></div></div><div style=\"display: none;\">title QS:P1476,en-us:\"Saint Anthony <span class=\"mw-valign-text-top noprint\" typeof=\"mw:File/Frameless\"><a href=\"https://www.wikidata.org/wiki/Q113153576#P1476\" title=\"Edit this at Wikidata\"><img alt=\"Edit this at Wikidata\" src=\"https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8a/OOjs_UI_icon_edit-ltr-progressive.svg/20px-OOjs_UI_icon_edit-ltr-progressive.svg.png?utm_source=commons.wikimedia.org&amp;utm_campaign=parser&amp;utm_content=thumbnail\" decoding=\"async\" loading=\"lazy\" width=\"10\" height=\"10\" class=\"mw-file-element\" data-file-width=\"20\" data-file-height=\"20\"></a></span>\"</div><div style=\"display: none;\">label QS:Len-us,\"Saint Anthony <span class=\"mw-valign-text-top noprint\" typeof=\"mw:File/Frameless\"><a href=\"https://www.wikidata.org/wiki/Q113153576#P1476\" title=\"Edit this at Wikidata\"><img alt=\"Edit this at Wikidata\" src=\"https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8a/OOjs_UI_icon_edit-ltr-progressive.svg/20px-OOjs_UI_icon_edit-ltr-progressive.svg.png?utm_source=commons.wikimedia.org&amp;utm_campaign=parser&amp;utm_content=thumbnail\" decoding=\"async\" loading=\"lazy\" width=\"10\" height=\"10\" class=\"mw-file-element\" data-file-width=\"20\" data-file-height=\"20\"></a></span>\"</div><div style=\"display: none;\">label QS:Len,\"Saint Anthony (Damaskinos)\"</div></div>",
+                "source": "commons-desc-page"
+              },
+              "CommonsMetadataExtension": {
+                "value": 1.2,
+                "source": "extension",
+                "hidden": ""
+              },
+              "Categories": {
+                "value": "Saint Anthony (Damaskinos)|Files with no machine-readable source|PD-old-100-expired|PD-Art (PD-old-100-expired)|Artworks with Wikidata item|Artworks with known accession number|Pages with complex technique templates|CC-PD-Mark|Artworks with accession number from Wikidata|PD-Art missing SDC copyright status|PD-old missing SDC copyright status|Artworks digital representation of 2D work",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "Assessments": {
+                "value": "",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "Artist": {
+                "value": "<bdi><a href=\"https://en.wikipedia.org/wiki/en:Michael_Damaskinos\" class=\"extiw\" title=\"w:en:Michael Damaskinos\"><span title=\"Greek artist (1530-1593)\">Michael Damaskinos</span></a></bdi>",
+                "source": "commons-desc-page"
+              },
+              "ImageDescription": {
+                "value": "<div class=\"description\">\n<p>The magnificent work was in the church of Zoodochos Pigi in the Kimolos island (Cyclades). It was donated in 1904 by the owner of the church, Emmanuel Androulakakis, to the collection of the Christian Archaeological Society, which has been the core of the collection of the Byzantine &amp; Christian Museum. Chronology: 2nd half 16th century.  \n</p><p><br>\n</p>\n<ul class=\"gallery mw-gallery-traditional\">\n</ul></div>",
+                "source": "commons-desc-page"
+              },
+              "DateTimeOriginal": {
+                "value": "between 1550 and 1593<div style=\"display: none;\">date QS:P,+1550-00-00T00:00:00Z/7,P1319,+1550-00-00T00:00:00Z/9,P1326,+1593-00-00T00:00:00Z/9</div> <span class=\"mw-valign-text-top noprint\" typeof=\"mw:File/Frameless\"><a href=\"https://www.wikidata.org/wiki/Q113153576#P571\" title=\"Edit this at Wikidata\"><img alt=\"Edit this at Wikidata\" src=\"https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8a/OOjs_UI_icon_edit-ltr-progressive.svg/20px-OOjs_UI_icon_edit-ltr-progressive.svg.png?utm_source=commons.wikimedia.org&amp;utm_campaign=parser&amp;utm_content=thumbnail\" decoding=\"async\" loading=\"lazy\" width=\"10\" height=\"10\" class=\"mw-file-element\" data-file-width=\"20\" data-file-height=\"20\"></a></span>",
+                "source": "commons-desc-page"
+              },
+              "LicenseShortName": {
+                "value": "Public domain",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "UsageTerms": {
+                "value": "Public domain",
+                "source": "commons-desc-page"
+              },
+              "AttributionRequired": {
+                "value": "false",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Copyrighted": {
+                "value": "False",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Restrictions": {
+                "value": "",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "License": {
+                "value": "pd",
+                "source": "commons-templates",
+                "hidden": ""
+              }
+            },
+            "mime": "image/png"
+          }
+        ]
+      },
+      {
+        "pageid": 147875258,
+        "ns": 6,
+        "title": "File:El sumo sacerdote Aarón (Museo del Prado) (cropped).jpg",
+        "imagerepository": "local",
+        "imageinfo": [
+          {
+            "size": 195355,
+            "width": 735,
+            "height": 984,
+            "thumburl": "https://upload.wikimedia.org/wikipedia/commons/e/e2/El_sumo_sacerdote_Aar%C3%B3n_%28Museo_del_Prado%29_%28cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+            "thumbwidth": 1600,
+            "thumbheight": 2142,
+            "thumbattribs": {
+              "src": "https://upload.wikimedia.org/wikipedia/commons/e/e2/El_sumo_sacerdote_Aar%C3%B3n_%28Museo_del_Prado%29_%28cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+              "decoding": "async",
+              "loading": "lazy",
+              "width": 1600,
+              "height": 2142
+            },
+            "url": "https://upload.wikimedia.org/wikipedia/commons/e/e2/El_sumo_sacerdote_Aar%C3%B3n_%28Museo_del_Prado%29_%28cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:El_sumo_sacerdote_Aar%C3%B3n_(Museo_del_Prado)_(cropped).jpg",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=147875258",
+            "sha1": "93f4ee5fa0d8151c9e3b49a16c8ee3e09e2f6130",
+            "extmetadata": {
+              "DateTime": {
+                "value": "2024-04-29 20:49:46",
+                "source": "mediawiki-metadata",
+                "hidden": ""
+              },
+              "ObjectName": {
+                "value": "<div class=\"fn\">\n<i><b><a href=\"https://es.wikipedia.org/wiki/Aar%C3%B3n\" class=\"extiw\" title=\"es:Aarón\">El sumo sacerdote Aarón</a></b></i></div>",
+                "source": "commons-desc-page"
+              },
+              "CommonsMetadataExtension": {
+                "value": 1.2,
+                "source": "extension",
+                "hidden": ""
+              },
+              "Categories": {
+                "value": "PD-old-100-expired|PD-Art (PD-old-auto-expired)|Artworks with Wikidata item|Artworks with known accession number|Extracted images|CC-PD-Mark|Retablo de la Iglesia de Ntra. Sra. de la Natividad (Fuente la Higuera)|Artworks digital representation of 2D work|Aaron in paintings",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "Assessments": {
+                "value": "",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "Artist": {
+                "value": "<bdi><a href=\"https://en.wikipedia.org/wiki/en:Vicente_Juan_Masip\" class=\"extiw\" title=\"w:en:Vicente Juan Masip\"><span title=\"Spanish painter (1510-1579)\">Juan de Juanes</span></a></bdi>",
+                "source": "commons-desc-page"
+              },
+              "ImageDescription": {
+                "value": "La obra representa al sumo sacerdote <b><a href=\"https://es.wikipedia.org/wiki/Aar%C3%B3n\" class=\"extiw\" title=\"es:Aarón\">Aarón</a></b>, hermano mayor del profeta <a href=\"//commons.wikimedia.org/w/index.php?title=Mois%C3%A9s&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"Moisés (page does not exist)\">Moisés</a> y también el primer sumo sacerdote de Israel. Esta obra formó parte del tabernáculo del retablo mayor de la iglesia de la Natividad de la Virgen del municipio valenciano de <a href=\"https://es.wikipedia.org/wiki/Fuente_de_la_Higuera\" class=\"extiw\" title=\"es:Fuente de la Higuera\">Fuente de la Higuera</a>.",
+                "source": "commons-desc-page"
+              },
+              "DateTimeOriginal": {
+                "value": "between circa 1545 and circa 1550<div style=\"display: none;\">date QS:P571,+1550-00-00T00:00:00Z/7,P1319,+1545-00-00T00:00:00Z/9,P1326,+1550-00-00T00:00:00Z/9,P1480,Q5727902</div>",
+                "source": "commons-desc-page"
+              },
+              "Credit": {
+                "value": "<a rel=\"nofollow\" class=\"external autonumber\" href=\"https://content3.museodelprado.es/imagenes/Documentos/imgsem/05/0563/0563c5a5-7947-405c-b5ee-1855fdf06629/c9b2cd57-114a-48be-a9c1-92971cd42409.jpg\">[2]</a>",
+                "source": "commons-desc-page"
+              },
+              "Permission": {
+                "value": "<table cellspacing=\"8\" cellpadding=\"0\" style=\"clear:both; margin:0.5em auto; background-color: var(--background-color-interactive, #f0f0f0); color: inherit; border: 2px solid var(--border-color-subtle, #e0e0e0); width:100%;\" class=\"layouttemplate\" dir=\"ltr\" lang=\"en\">\n<tbody><tr>\n<td>\n<div class=\"center\">This is a faithful photographic reproduction of a two-dimensional, <a href=\"//commons.wikimedia.org/wiki/Public_domain\" class=\"mw-redirect\" title=\"Public domain\">public domain</a> work of art. The work of art itself is in the public domain for the following reason:</div>\n<div dir=\"auto\">\n<table class=\"licensetpl\" style=\"display:none\">\n<tbody><tr>\n<td><span class=\"licensetpl_short\">Public domain</span><span class=\"licensetpl_long\">Public domain</span><span class=\"licensetpl_link_req\">false</span><span class=\"licensetpl_attr_req\">false</span>\n</td></tr></tbody></table>\n<table style=\"width: 100%; clear: both; margin: 0.5em auto; background-color: var(--background-color-progressive-subtle, #f7f8ff); color: var(--color-base, #202122); border: var(--border-subtle, 2px solid #8888aa); border-spacing: 8px; padding: 0px;\" dir=\"ltr\" class=\"layouttemplate\" lang=\"en\">\n<tbody><tr>\n<td><span typeof=\"mw:File\"><span title=\"Public domain\"><img alt=\"Public domain\" src=\"https://thumb.wikimedia.org/wikipedia/commons/thumb/6/62/PD-icon.svg/120px-PD-icon.svg.png?utm_source=commons.wikimedia.org&amp;utm_campaign=parser&amp;utm_content=thumbnail\" decoding=\"async\" loading=\"lazy\" width=\"64\" height=\"64\" class=\"mw-file-element\" srcset=\"https://thumb.wikimedia.org/wikipedia/commons/thumb/6/62/PD-icon.svg/250px-PD-icon.svg.png?utm_source=commons.wikimedia.org&amp;utm_campaign=parser&amp;utm_content=thumbnail 2x\" data-file-width=\"196\" data-file-height=\"196\"></span></span>\n</td>\n<td>\n<p>The author died in 1579, so this work is in the <b><a href=\"https://en.wikipedia.org/wiki/public_domain\" class=\"extiw\" title=\"en:public domain\">public domain</a></b> in its country of origin and other countries and areas where the <a href=\"https://en.wikipedia.org/wiki/List_of_countries%27_copyright_lengths\" class=\"extiw\" title=\"w:List of countries' copyright lengths\">copyright term</a> is the author's <b>life plus 100 years or fewer</b>.\n</p>\n<hr>\n<p>This work is in the <b><a href=\"https://en.wikipedia.org/wiki/public_domain\" class=\"extiw\" title=\"en:public domain\">public domain</a></b> in the <a href=\"https://en.wikipedia.org/wiki/United_States\" class=\"extiw\" title=\"en:United States\">United States</a> because it was <a href=\"//commons.wikimedia.org/wiki/Commons:Publication\" title=\"Commons:Publication\">published</a> (or registered with the <a href=\"https://en.wikipedia.org/wiki/United_States_Copyright_Office\" class=\"extiw\" title=\"en:United States Copyright Office\">U.S. Copyright Office</a>) before January 1, 1931.\n</p>\n</td></tr>\n<tr>\n<td colspan=\"2\" style=\"text-align:center;font-size:x-small;line-height:140%;\"><a href=\"https://creativecommons.org/publicdomain/mark/1.0/deed.en\" class=\"extiw\" title=\"ccorg:publicdomain/mark/1.0/deed.en\">This file has been identified as being free of known restrictions under copyright law, including all related and neighboring rights.</a>\n</td></tr></tbody></table><span class=\"licensetpl_link\" style=\"display:none;\">https://creativecommons.org/publicdomain/mark/1.0/</span><span class=\"licensetpl_short\" style=\"display:none;\">PDM</span><span class=\"licensetpl_long\" style=\"display:none;\">Creative Commons Public Domain Mark 1.0</span><span class=\"licensetpl_link_req\" style=\"display:none;\">false</span><span class=\"licensetpl_attr_req\" style=\"display:none;\">false</span></div>\n<div class=\"center\">The official position taken by the Wikimedia Foundation is that \"<i>faithful reproductions of two-dimensional public domain works of art are public domain</i>\".<br><b>This photographic reproduction is therefore also considered to be in the public domain in the United States.</b> In other jurisdictions, re-use of this content may be restricted; <b>see <a href=\"//commons.wikimedia.org/wiki/Commons:Reuse_of_PD-Art_photographs\" title=\"Commons:Reuse of PD-Art photographs\">Reuse of PD-Art photographs</a> for details.</b></div> \n</td></tr></tbody></table>",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "LicenseShortName": {
+                "value": "Public domain",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "UsageTerms": {
+                "value": "Public domain",
+                "source": "commons-desc-page"
+              },
+              "AttributionRequired": {
+                "value": "false",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Copyrighted": {
+                "value": "False",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Restrictions": {
+                "value": "",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "License": {
+                "value": "pd",
+                "source": "commons-templates",
+                "hidden": ""
+              }
+            },
+            "mime": "image/jpeg"
+          }
+        ]
+      },
+      {
+        "pageid": 149546965,
+        "ns": 6,
+        "title": "File:Octavian and Antony denarius (obverse).jpg",
+        "imagerepository": "local",
+        "imageinfo": [
+          {
+            "size": 54352,
+            "width": 395,
+            "height": 379,
+            "thumburl": "https://upload.wikimedia.org/wikipedia/commons/d/d9/Octavian_and_Antony_denarius_%28obverse%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+            "thumbwidth": 1600,
+            "thumbheight": 1535,
+            "thumbattribs": {
+              "src": "https://upload.wikimedia.org/wikipedia/commons/d/d9/Octavian_and_Antony_denarius_%28obverse%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+              "decoding": "async",
+              "loading": "lazy",
+              "width": 1600,
+              "height": 1535
+            },
+            "url": "https://upload.wikimedia.org/wikipedia/commons/d/d9/Octavian_and_Antony_denarius_%28obverse%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:Octavian_and_Antony_denarius_(obverse).jpg",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=149546965",
+            "sha1": "df995511a9c045417cee283b2ac507cfeb3b14c5",
+            "extmetadata": {
+              "DateTime": {
+                "value": "2024-06-20 02:48:04",
+                "source": "mediawiki-metadata",
+                "hidden": ""
+              },
+              "ObjectName": {
+                "value": "Octavian and Antony denarius (obverse)",
+                "source": "mediawiki-metadata"
+              },
+              "CommonsMetadataExtension": {
+                "value": 1.2,
+                "source": "extension",
+                "hidden": ""
+              },
+              "Categories": {
+                "value": "Self-published work|Extracted images|Coins of Marcus Antonius|Denarii of Augustus",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "Assessments": {
+                "value": "",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "ImageDescription": {
+                "value": "Denarius of Octavian and Mark Antony from Ephesus",
+                "source": "commons-desc-page"
+              },
+              "DateTimeOriginal": {
+                "value": "2021-11-18",
+                "source": "commons-desc-page"
+              },
+              "Credit": {
+                "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+                "source": "commons-desc-page"
+              },
+              "Artist": {
+                "value": "<a href=\"//commons.wikimedia.org/w/index.php?title=User:Byzantium565&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"User:Byzantium565 (page does not exist)\">Byzantium565</a>",
+                "source": "commons-desc-page"
+              },
+              "LicenseShortName": {
+                "value": "CC BY-SA 4.0",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "UsageTerms": {
+                "value": "Creative Commons Attribution-Share Alike 4.0",
+                "source": "commons-desc-page"
+              },
+              "AttributionRequired": {
+                "value": "true",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "LicenseUrl": {
+                "value": "https://creativecommons.org/licenses/by-sa/4.0",
+                "source": "commons-desc-page"
+              },
+              "Copyrighted": {
+                "value": "True",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Restrictions": {
+                "value": "",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "License": {
+                "value": "cc-by-sa-4.0",
+                "source": "commons-templates",
+                "hidden": ""
+              }
+            },
+            "mime": "image/jpeg"
+          }
+        ]
+      },
+      {
+        "pageid": 151306543,
+        "ns": 6,
+        "title": "File:Miniature of Eutropius.jpg",
+        "imagerepository": "local",
+        "imageinfo": [
+          {
+            "size": 85750,
+            "width": 356,
+            "height": 660,
+            "thumburl": "https://upload.wikimedia.org/wikipedia/commons/d/df/Miniature_of_Eutropius.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+            "thumbwidth": 1600,
+            "thumbheight": 2966,
+            "thumbattribs": {
+              "src": "https://upload.wikimedia.org/wikipedia/commons/d/df/Miniature_of_Eutropius.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+              "decoding": "async",
+              "loading": "lazy",
+              "width": 1600,
+              "height": 2966
+            },
+            "url": "https://upload.wikimedia.org/wikipedia/commons/d/df/Miniature_of_Eutropius.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:Miniature_of_Eutropius.jpg",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=151306543",
+            "sha1": "38e6573bdf49c66a240ea494884a0049f7ade426",
+            "extmetadata": {
+              "DateTime": {
+                "value": "2024-08-08 20:13:00",
+                "source": "mediawiki-metadata",
+                "hidden": ""
+              },
+              "ObjectName": {
+                "value": "Miniature of Eutropius",
+                "source": "mediawiki-metadata"
+              },
+              "CommonsMetadataExtension": {
+                "value": 1.2,
+                "source": "extension",
+                "hidden": ""
+              },
+              "Categories": {
+                "value": "PD Old|Eutropius (historian)|CC-PD-Mark|PD-old missing SDC copyright status|Medieval miniatures of monks",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "Assessments": {
+                "value": "",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "ImageDescription": {
+                "value": "Plut. 65.35 fol. 16v, showing Eutropius.",
+                "source": "commons-desc-page"
+              },
+              "DateTimeOriginal": {
+                "value": "10<sup>th</sup> century<div style=\"display: none;\">date QS:P,+950-00-00T00:00:00Z/7</div>",
+                "source": "commons-desc-page"
+              },
+              "Credit": {
+                "value": "Laurentian Library, Plut. 65.35, <a rel=\"nofollow\" class=\"external text\" href=\"http://teca.bmlonline.it/ImageViewer/servlet/ImageViewer?idr=TECA0000870774&amp;keyworks=Eutropius#page/38/mode/1up\">fol 16v</a>",
+                "source": "commons-desc-page"
+              },
+              "Artist": {
+                "value": "Unknown author",
+                "source": "commons-desc-page"
+              },
+              "LicenseShortName": {
+                "value": "Public domain",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "UsageTerms": {
+                "value": "Public domain",
+                "source": "commons-desc-page"
+              },
+              "AttributionRequired": {
+                "value": "false",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Copyrighted": {
+                "value": "False",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Restrictions": {
+                "value": "",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "License": {
+                "value": "pd",
+                "source": "commons-templates",
+                "hidden": ""
+              }
+            },
+            "mime": "image/jpeg"
+          }
+        ]
+      },
+      {
+        "pageid": 178028924,
+        "ns": 6,
+        "title": "File:Ammianus Marcellinus.jpg",
+        "imagerepository": "local",
+        "imageinfo": [
+          {
+            "size": 209575,
+            "width": 1357,
+            "height": 1920,
+            "thumburl": "https://upload.wikimedia.org/wikipedia/commons/6/62/Ammianus_Marcellinus.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+            "thumbwidth": 1600,
+            "thumbheight": 2264,
+            "thumbattribs": {
+              "src": "https://upload.wikimedia.org/wikipedia/commons/6/62/Ammianus_Marcellinus.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+              "decoding": "async",
+              "loading": "lazy",
+              "width": 1600,
+              "height": 2264
+            },
+            "url": "https://upload.wikimedia.org/wikipedia/commons/6/62/Ammianus_Marcellinus.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:Ammianus_Marcellinus.jpg",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=178028924",
+            "sha1": "9137583e5796c03b7beb64bac6ad4b4214ac6c67",
+            "extmetadata": {
+              "DateTime": {
+                "value": "2025-11-07 23:14:52",
+                "source": "mediawiki-metadata",
+                "hidden": ""
+              },
+              "ObjectName": {
+                "value": "Ammianus Marcellinus",
+                "source": "mediawiki-metadata"
+              },
+              "CommonsMetadataExtension": {
+                "value": 1.2,
+                "source": "extension",
+                "hidden": ""
+              },
+              "Categories": {
+                "value": "Ammianus Marcellinus",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "Assessments": {
+                "value": "",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "ImageDescription": {
+                "value": "Vth century bust of a Greek man of the late Roman Empire, now in the Archaeological Museum of Thessaloniki, Greece. Thought to be the historian Ammianus Marcellinus (as per the source whence I took it, as well as per other sources on the Internet).",
+                "source": "commons-desc-page"
+              },
+              "DateTimeOriginal": {
+                "value": "2025-11-08",
+                "source": "commons-desc-page"
+              },
+              "Credit": {
+                "value": "<a rel=\"nofollow\" class=\"external free\" href=\"https://zpe.gov.pl/a/zdania-z-cum-historicum-oraz-cum-causale/DF4rTivnH\">https://zpe.gov.pl/a/zdania-z-cum-historicum-oraz-cum-causale/DF4rTivnH</a>",
+                "source": "commons-desc-page"
+              },
+              "Artist": {
+                "value": "Author of the original work of art is long dead, while the uploader of the picture portraying it released it under a CC BY 3.0 license.",
+                "source": "commons-desc-page"
+              },
+              "LicenseShortName": {
+                "value": "CC BY 3.0",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "UsageTerms": {
+                "value": "Creative Commons Attribution 3.0",
+                "source": "commons-desc-page"
+              },
+              "AttributionRequired": {
+                "value": "true",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "LicenseUrl": {
+                "value": "https://creativecommons.org/licenses/by/3.0",
+                "source": "commons-desc-page"
+              },
+              "Copyrighted": {
+                "value": "True",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Restrictions": {
+                "value": "",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "License": {
+                "value": "cc-by-3.0",
+                "source": "commons-templates",
+                "hidden": ""
+              }
+            },
+            "mime": "image/jpeg"
+          }
+        ]
+      }
+    ]
+  }
+}

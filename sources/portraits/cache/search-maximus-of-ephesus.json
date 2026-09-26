@@ -1,0 +1,525 @@
+{
+  "person_id": "maximus-of-ephesus",
+  "query": "Maximus of Ephesus",
+  "response": {
+    "batchcomplete": true,
+    "continue": {
+      "gsroffset": 5,
+      "continue": "gsroffset||"
+    },
+    "query": {
+      "pages": [
+        {
+          "pageid": 45976370,
+          "ns": 6,
+          "title": "File:Copy inscribed in marble of a letter from Antoninus Pius to the Ephesians, from the Bouleuterion at Ephesus, 140-144 AD, British Museum (16965588461).jpg",
+          "index": 2,
+          "imagerepository": "local",
+          "imageinfo": [
+            {
+              "size": 2473941,
+              "width": 2433,
+              "height": 1672,
+              "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d2/Copy_inscribed_in_marble_of_a_letter_from_Antoninus_Pius_to_the_Ephesians%2C_from_the_Bouleuterion_at_Ephesus%2C_140-144_AD%2C_British_Museum_%2816965588461%29.jpg/500px-Copy_inscribed_in_marble_of_a_letter_from_Antoninus_Pius_to_the_Ephesians%2C_from_the_Bouleuterion_at_Ephesus%2C_140-144_AD%2C_British_Museum_%2816965588461%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+              "thumbwidth": 400,
+              "thumbheight": 275,
+              "responsiveUrls": {
+                "2": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d2/Copy_inscribed_in_marble_of_a_letter_from_Antoninus_Pius_to_the_Ephesians%2C_from_the_Bouleuterion_at_Ephesus%2C_140-144_AD%2C_British_Museum_%2816965588461%29.jpg/960px-Copy_inscribed_in_marble_of_a_letter_from_Antoninus_Pius_to_the_Ephesians%2C_from_the_Bouleuterion_at_Ephesus%2C_140-144_AD%2C_British_Museum_%2816965588461%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+              },
+              "thumbattribs": {
+                "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d2/Copy_inscribed_in_marble_of_a_letter_from_Antoninus_Pius_to_the_Ephesians%2C_from_the_Bouleuterion_at_Ephesus%2C_140-144_AD%2C_British_Museum_%2816965588461%29.jpg/500px-Copy_inscribed_in_marble_of_a_letter_from_Antoninus_Pius_to_the_Ephesians%2C_from_the_Bouleuterion_at_Ephesus%2C_140-144_AD%2C_British_Museum_%2816965588461%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+                "decoding": "async",
+                "loading": "lazy",
+                "width": 400,
+                "height": 275,
+                "srcset": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d2/Copy_inscribed_in_marble_of_a_letter_from_Antoninus_Pius_to_the_Ephesians%2C_from_the_Bouleuterion_at_Ephesus%2C_140-144_AD%2C_British_Museum_%2816965588461%29.jpg/960px-Copy_inscribed_in_marble_of_a_letter_from_Antoninus_Pius_to_the_Ephesians%2C_from_the_Bouleuterion_at_Ephesus%2C_140-144_AD%2C_British_Museum_%2816965588461%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail 2x"
+              },
+              "url": "https://upload.wikimedia.org/wikipedia/commons/d/d2/Copy_inscribed_in_marble_of_a_letter_from_Antoninus_Pius_to_the_Ephesians%2C_from_the_Bouleuterion_at_Ephesus%2C_140-144_AD%2C_British_Museum_%2816965588461%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+              "descriptionurl": "https://commons.wikimedia.org/wiki/File:Copy_inscribed_in_marble_of_a_letter_from_Antoninus_Pius_to_the_Ephesians,_from_the_Bouleuterion_at_Ephesus,_140-144_AD,_British_Museum_(16965588461).jpg",
+              "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=45976370",
+              "extmetadata": {
+                "DateTime": {
+                  "value": "2015-12-30 09:59:24",
+                  "source": "mediawiki-metadata",
+                  "hidden": ""
+                },
+                "ObjectName": {
+                  "value": "Copy inscribed in marble of a letter from Antoninus Pius to the Ephesians, from the Bouleuterion at Ephesus, 140-144 AD, British Museum (16965588461)",
+                  "source": "mediawiki-metadata"
+                },
+                "CommonsMetadataExtension": {
+                  "value": 1.2,
+                  "source": "extension",
+                  "hidden": ""
+                },
+                "Categories": {
+                  "value": "Antoninus Pius|Flickr images reviewed by FlickreviewR|Photographs by Carole Raddato|Museums with Ephesus finds|Ancient Roman inscriptions in the British Museum",
+                  "source": "commons-categories",
+                  "hidden": ""
+                },
+                "Assessments": {
+                  "value": "",
+                  "source": "commons-categories",
+                  "hidden": ""
+                },
+                "ImageDescription": {
+                  "value": "<p>The emperor resolves a dispute between the cities of Ephesus and Smyrna.\n</p><p>Inscription 489\n</p><p>Inscription Translation\n</p><p>The Emperor Caesar, son of the deified Hadrian, grandson of the deified Trajan, conqueror of Parthia, descendant from the deified Nerva, Titus Aelius Hadrianus Antoninus Augustus, Pontifex Maximus, Tribune of the people for the....time, Imperator for the .... time, Consul for the third time, Father of his country, to the Magistrates of the Ephesians, and to the Council, and the People, greeting. In my letters to you I expressed my satisfaction that the people of Pergamus had adopted the names which I had directed your city to use. I think, moreover, that the people of Smyrna have by accident passed over these in their decree concerning the joint sacrifice, and that for the future they will show their right feeling by their deliberate adoption of them, if you also in your letters to them shall always have made mention of their city in the manner that is becoming and has been decided. This decree is sent by Sulpicius Julianus, my Procurator. Farewell. This decree was drawn up by Publius Vedius Antoninus acting as scribe.\n</p>\nSource: <a rel=\"nofollow\" class=\"external text\" href=\"http://www.britishmuseum.org/research/collection_online/collection_object_details.aspx?objectId=465587&amp;partId=1&amp;place=837&amp;from=ad&amp;fromDate=118&amp;to=ad&amp;toDate=150&amp;page=1\">www.britishmuseum.org/research/collection_online/collecti...</a>",
+                  "source": "commons-desc-page"
+                },
+                "DateTimeOriginal": {
+                  "value": "2014-05-10 14:25",
+                  "source": "commons-desc-page"
+                },
+                "Credit": {
+                  "value": "<a rel=\"nofollow\" class=\"external text\" href=\"https://www.flickr.com/photos/carolemage/16965588461/\">Copy inscribed in marble of a letter from Antoninus Pius to the Ephesians, from the Bouleuterion at Ephesus, 140-144 AD, British Museum</a>",
+                  "source": "commons-desc-page"
+                },
+                "Artist": {
+                  "value": "<a rel=\"nofollow\" class=\"external text\" href=\"https://www.flickr.com/people/41523983@N08\">Carole Raddato</a> from FRANKFURT, Germany",
+                  "source": "commons-desc-page"
+                },
+                "LicenseShortName": {
+                  "value": "CC BY-SA 2.0",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "UsageTerms": {
+                  "value": "Creative Commons Attribution-Share Alike 2.0",
+                  "source": "commons-desc-page"
+                },
+                "AttributionRequired": {
+                  "value": "true",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "LicenseUrl": {
+                  "value": "https://creativecommons.org/licenses/by-sa/2.0",
+                  "source": "commons-desc-page"
+                },
+                "Copyrighted": {
+                  "value": "True",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "Restrictions": {
+                  "value": "",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "License": {
+                  "value": "cc-by-sa-2.0",
+                  "source": "commons-templates",
+                  "hidden": ""
+                }
+              }
+            }
+          ]
+        },
+        {
+          "pageid": 45976372,
+          "ns": 6,
+          "title": "File:Copy inscribed in marble of a letter from Hadrian to the magistrates and council of Ephesus, found in the Bouleuterion at Ephesus, 128-129 AD, British Museum (16965431131).jpg",
+          "index": 3,
+          "imagerepository": "local",
+          "imageinfo": [
+            {
+              "size": 2412384,
+              "width": 2330,
+              "height": 1877,
+              "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/bd/Copy_inscribed_in_marble_of_a_letter_from_Hadrian_to_the_magistrates_and_council_of_Ephesus%2C_found_in_the_Bouleuterion_at_Ephesus%2C_128-129_AD%2C_British_Museum_%2816965431131%29.jpg/500px-thumbnail.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+              "thumbwidth": 400,
+              "thumbheight": 322,
+              "responsiveUrls": {
+                "2": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/bd/Copy_inscribed_in_marble_of_a_letter_from_Hadrian_to_the_magistrates_and_council_of_Ephesus%2C_found_in_the_Bouleuterion_at_Ephesus%2C_128-129_AD%2C_British_Museum_%2816965431131%29.jpg/960px-thumbnail.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+              },
+              "thumbattribs": {
+                "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/bd/Copy_inscribed_in_marble_of_a_letter_from_Hadrian_to_the_magistrates_and_council_of_Ephesus%2C_found_in_the_Bouleuterion_at_Ephesus%2C_128-129_AD%2C_British_Museum_%2816965431131%29.jpg/500px-thumbnail.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+                "decoding": "async",
+                "loading": "lazy",
+                "width": 400,
+                "height": 322,
+                "srcset": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/bd/Copy_inscribed_in_marble_of_a_letter_from_Hadrian_to_the_magistrates_and_council_of_Ephesus%2C_found_in_the_Bouleuterion_at_Ephesus%2C_128-129_AD%2C_British_Museum_%2816965431131%29.jpg/960px-thumbnail.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail 2x"
+              },
+              "url": "https://upload.wikimedia.org/wikipedia/commons/b/bd/Copy_inscribed_in_marble_of_a_letter_from_Hadrian_to_the_magistrates_and_council_of_Ephesus%2C_found_in_the_Bouleuterion_at_Ephesus%2C_128-129_AD%2C_British_Museum_%2816965431131%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+              "descriptionurl": "https://commons.wikimedia.org/wiki/File:Copy_inscribed_in_marble_of_a_letter_from_Hadrian_to_the_magistrates_and_council_of_Ephesus,_found_in_the_Bouleuterion_at_Ephesus,_128-129_AD,_British_Museum_(16965431131).jpg",
+              "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=45976372",
+              "extmetadata": {
+                "DateTime": {
+                  "value": "2015-12-30 09:59:33",
+                  "source": "mediawiki-metadata",
+                  "hidden": ""
+                },
+                "ObjectName": {
+                  "value": "Copy inscribed in marble of a letter from Hadrian to the magistrates and council of Ephesus, found in the Bouleuterion at Ephesus, 128-129 AD, British Museum (16965431131)",
+                  "source": "mediawiki-metadata"
+                },
+                "CommonsMetadataExtension": {
+                  "value": 1.2,
+                  "source": "extension",
+                  "hidden": ""
+                },
+                "Categories": {
+                  "value": "Antoninus Pius|Flickr images reviewed by FlickreviewR|Photographs by Carole Raddato|Ancient Roman inscriptions in the British Museum|Elections and voting in ancient Rome",
+                  "source": "commons-categories",
+                  "hidden": ""
+                },
+                "Assessments": {
+                  "value": "",
+                  "source": "commons-categories",
+                  "hidden": ""
+                },
+                "ImageDescription": {
+                  "value": "<p>Hadrian recommends Lucius Erastus, owner of the boat in which the emperor and Roman governors of Asia had sailed, for honorary membership of the council.\n</p><p>Inscription 487\n</p><p>Inscription Translation\nThe Emperor Caesar, son of the deified Trajan, conqueror of Parthia, descendant of the deified Nerva, Trajanus Hadrianus Augustus, Pontifex Maximus, Tribune of the People for the third time, Consul for the third time, Father of his country, to the Magistrates of the Ephesians and to the Council, greeting. Lucius Erastus affirms that he is a citizen of yours, and sails much also on the sea, and that, as far as he can from doing this, he makes himself serviceable to his country and continually conveys over the sea the chief men of the [Ionian] race. Moreover he had interviews with me on two former occasions, first, when I made a voyage from Ephesus to Rhodes, and now on my arrival at your city from Eleusis. His wish is to become a member of the Council, and I accordingly commit to you the legal investigation of his claims; and if nothing stands in the way, and he appears to you deserving of that honour, I will give the amount of money which they pay on being admitted to the Council, and to meet the expenses of the election. Farewell.\n</p>\nSource: <a rel=\"nofollow\" class=\"external text\" href=\"http://www.britishmuseum.org/research/collection_online/collection_object_details.aspx?objectId=400352&amp;partId=1&amp;place=837&amp;from=ad&amp;fromDate=118&amp;to=ad&amp;toDate=138&amp;page=1\">www.britishmuseum.org/research/collection_online/collecti...</a>",
+                  "source": "commons-desc-page"
+                },
+                "DateTimeOriginal": {
+                  "value": "2014-05-10 14:25",
+                  "source": "commons-desc-page"
+                },
+                "Credit": {
+                  "value": "<a rel=\"nofollow\" class=\"external text\" href=\"https://www.flickr.com/photos/carolemage/16965431131/\">Copy inscribed in marble of a letter from Hadrian to the magistrates and council of Ephesus, found in the Bouleuterion at Ephesus, 128-129 AD, British Museum</a>",
+                  "source": "commons-desc-page"
+                },
+                "Artist": {
+                  "value": "<a rel=\"nofollow\" class=\"external text\" href=\"https://www.flickr.com/people/41523983@N08\">Carole Raddato</a> from FRANKFURT, Germany",
+                  "source": "commons-desc-page"
+                },
+                "LicenseShortName": {
+                  "value": "CC BY-SA 2.0",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "UsageTerms": {
+                  "value": "Creative Commons Attribution-Share Alike 2.0",
+                  "source": "commons-desc-page"
+                },
+                "AttributionRequired": {
+                  "value": "true",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "LicenseUrl": {
+                  "value": "https://creativecommons.org/licenses/by-sa/2.0",
+                  "source": "commons-desc-page"
+                },
+                "Copyrighted": {
+                  "value": "True",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "Restrictions": {
+                  "value": "",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "License": {
+                  "value": "cc-by-sa-2.0",
+                  "source": "commons-templates",
+                  "hidden": ""
+                }
+              }
+            }
+          ]
+        },
+        {
+          "pageid": 54049413,
+          "ns": 6,
+          "title": "File:The Canons of the First Four General Councils of Nicæa, Constantinople, Ephesus and Chalcedon.djvu",
+          "index": 4,
+          "imagerepository": "local",
+          "imageinfo": [
+            {
+              "size": 7415792,
+              "width": 2242,
+              "height": 3752,
+              "pagecount": 314,
+              "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8d/The_Canons_of_the_First_Four_General_Councils_of_Nic%C3%A6a%2C_Constantinople%2C_Ephesus_and_Chalcedon.djvu/page1-500px-The_Canons_of_the_First_Four_General_Councils_of_Nic%C3%A6a%2C_Constantinople%2C_Ephesus_and_Chalcedon.djvu.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+              "thumbwidth": 400,
+              "thumbheight": 669,
+              "responsiveUrls": {
+                "2": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8d/The_Canons_of_the_First_Four_General_Councils_of_Nic%C3%A6a%2C_Constantinople%2C_Ephesus_and_Chalcedon.djvu/page1-960px-The_Canons_of_the_First_Four_General_Councils_of_Nic%C3%A6a%2C_Constantinople%2C_Ephesus_and_Chalcedon.djvu.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+              },
+              "thumbattribs": {
+                "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8d/The_Canons_of_the_First_Four_General_Councils_of_Nic%C3%A6a%2C_Constantinople%2C_Ephesus_and_Chalcedon.djvu/page1-500px-The_Canons_of_the_First_Four_General_Councils_of_Nic%C3%A6a%2C_Constantinople%2C_Ephesus_and_Chalcedon.djvu.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+                "decoding": "async",
+                "loading": "lazy",
+                "width": 400,
+                "height": 669,
+                "srcset": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8d/The_Canons_of_the_First_Four_General_Councils_of_Nic%C3%A6a%2C_Constantinople%2C_Ephesus_and_Chalcedon.djvu/page1-960px-The_Canons_of_the_First_Four_General_Councils_of_Nic%C3%A6a%2C_Constantinople%2C_Ephesus_and_Chalcedon.djvu.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail 2x"
+              },
+              "url": "https://upload.wikimedia.org/wikipedia/commons/8/8d/The_Canons_of_the_First_Four_General_Councils_of_Nic%C3%A6a%2C_Constantinople%2C_Ephesus_and_Chalcedon.djvu?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+              "descriptionurl": "https://commons.wikimedia.org/wiki/File:The_Canons_of_the_First_Four_General_Councils_of_Nic%C3%A6a,_Constantinople,_Ephesus_and_Chalcedon.djvu",
+              "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=54049413",
+              "extmetadata": {
+                "DateTime": {
+                  "value": "2016-12-13 17:37:50",
+                  "source": "mediawiki-metadata",
+                  "hidden": ""
+                },
+                "ObjectName": {
+                  "value": "<div class=\"fn\">\nThe Canons of the first four general councils of Nicaea ..</div>",
+                  "source": "commons-desc-page"
+                },
+                "CommonsMetadataExtension": {
+                  "value": 1.2,
+                  "source": "extension",
+                  "hidden": ""
+                },
+                "Categories": {
+                  "value": "William Bright|PD Old|PD-scan (PD-old-70)|Scans from the Internet Archive/unverified|CC-PD-Mark|Scans from the Internet Archive|Books without Wikidata item|1892 books from Oxford",
+                  "source": "commons-categories",
+                  "hidden": ""
+                },
+                "Assessments": {
+                  "value": "",
+                  "source": "commons-categories",
+                  "hidden": ""
+                },
+                "Artist": {
+                  "value": "<div class=\"fn value\">\nBright, William, 1824-1901</div>",
+                  "source": "commons-desc-page"
+                },
+                "ImageDescription": {
+                  "value": "<div class=\"description\">\nContains Greek text of the Canons and of the Nicene creed, with lists of the subjects of the Canons in English</div>",
+                  "source": "commons-desc-page"
+                },
+                "Credit": {
+                  "value": "<a href=\"//archive.org/details/canonsoffirstfou00brig\" class=\"extiw\" title=\"iarchive:canonsoffirstfou00brig\"><bdi class=\"description en\" lang=\"en\" dir=\"ltr\">Internet Archive identifier</bdi>: canonsoffirstfou00brig</a>",
+                  "source": "commons-desc-page"
+                },
+                "LicenseShortName": {
+                  "value": "Public domain",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "UsageTerms": {
+                  "value": "Public domain",
+                  "source": "commons-desc-page"
+                },
+                "AttributionRequired": {
+                  "value": "false",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "Copyrighted": {
+                  "value": "False",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "Restrictions": {
+                  "value": "",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "License": {
+                  "value": "pd",
+                  "source": "commons-templates",
+                  "hidden": ""
+                }
+              }
+            }
+          ]
+        },
+        {
+          "pageid": 92672689,
+          "ns": 6,
+          "title": "File:Remarks on the coins of Ephesus struck during the Roman dominion (IA b31871896).pdf",
+          "index": 1,
+          "imagerepository": "local",
+          "imageinfo": [
+            {
+              "size": 3277019,
+              "width": 1160,
+              "height": 2014,
+              "pagecount": 54,
+              "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e6/Remarks_on_the_coins_of_Ephesus_struck_during_the_Roman_dominion_%28IA_b31871896%29.pdf/page1-500px-Remarks_on_the_coins_of_Ephesus_struck_during_the_Roman_dominion_%28IA_b31871896%29.pdf.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+              "thumbwidth": 400,
+              "thumbheight": 694,
+              "responsiveUrls": {
+                "2": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e6/Remarks_on_the_coins_of_Ephesus_struck_during_the_Roman_dominion_%28IA_b31871896%29.pdf/page1-960px-Remarks_on_the_coins_of_Ephesus_struck_during_the_Roman_dominion_%28IA_b31871896%29.pdf.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+              },
+              "thumbattribs": {
+                "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e6/Remarks_on_the_coins_of_Ephesus_struck_during_the_Roman_dominion_%28IA_b31871896%29.pdf/page1-500px-Remarks_on_the_coins_of_Ephesus_struck_during_the_Roman_dominion_%28IA_b31871896%29.pdf.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+                "decoding": "async",
+                "loading": "lazy",
+                "width": 400,
+                "height": 694,
+                "srcset": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e6/Remarks_on_the_coins_of_Ephesus_struck_during_the_Roman_dominion_%28IA_b31871896%29.pdf/page1-960px-Remarks_on_the_coins_of_Ephesus_struck_during_the_Roman_dominion_%28IA_b31871896%29.pdf.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail 2x"
+              },
+              "url": "https://upload.wikimedia.org/wikipedia/commons/e/e6/Remarks_on_the_coins_of_Ephesus_struck_during_the_Roman_dominion_%28IA_b31871896%29.pdf?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+              "descriptionurl": "https://commons.wikimedia.org/wiki/File:Remarks_on_the_coins_of_Ephesus_struck_during_the_Roman_dominion_(IA_b31871896).pdf",
+              "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=92672689",
+              "extmetadata": {
+                "DateTime": {
+                  "value": "2020-07-28 13:04:27",
+                  "source": "mediawiki-metadata",
+                  "hidden": ""
+                },
+                "ObjectName": {
+                  "value": "<div class=\"fn\">\nRemarks on the coins of Ephesus struck during the Roman dominion</div>",
+                  "source": "commons-desc-page"
+                },
+                "CommonsMetadataExtension": {
+                  "value": 1.2,
+                  "source": "extension",
+                  "hidden": ""
+                },
+                "Categories": {
+                  "value": "PD-old-100-expired|Scans from the Internet Archive/unverified|CC-PD-Mark|Scans from the Internet Archive|Books published in London|Books uploaded by Fæ|Books without Wikidata item|Medical Heritage Library|Publications on Ephesus",
+                  "source": "commons-categories",
+                  "hidden": ""
+                },
+                "Assessments": {
+                  "value": "",
+                  "source": "commons-categories",
+                  "hidden": ""
+                },
+                "Artist": {
+                  "value": "<div class=\"fn value\">\nAkerman, John Yonge, 1806-1873</div>",
+                  "source": "commons-desc-page"
+                },
+                "ImageDescription": {
+                  "value": "<div class=\"description\">\n<dl><dd>49 pages, 1 leaf of plates : (8vo)</dd>\n<dd>Includes bibliographic references</dd></dl>\n<br>Subjects: Coins -- History; Roman World; Numismatics -- history; Ephesus (Extinct city)</div>",
+                  "source": "commons-desc-page"
+                },
+                "Credit": {
+                  "value": "<dl><dd><a href=\"//archive.org/details/b31871896\" class=\"extiw\" title=\"iarchive:b31871896\"><bdi class=\"description en\" lang=\"en\" dir=\"ltr\">Internet Archive identifier</bdi>: b31871896</a></dd>\n<dd><a rel=\"nofollow\" class=\"external free\" href=\"https://archive.org/download/b31871896/b31871896.pdf\">https://archive.org/download/b31871896/b31871896.pdf</a></dd></dl>",
+                  "source": "commons-desc-page"
+                },
+                "Permission": {
+                  "value": "<a rel=\"nofollow\" class=\"external text\" href=\"https://creativecommons.org/publicdomain/mark/1.0/\">PDM</a> This work is available under the Creative Commons, Public Domain Mark",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "LicenseShortName": {
+                  "value": "Public domain",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "UsageTerms": {
+                  "value": "Public domain",
+                  "source": "commons-desc-page"
+                },
+                "AttributionRequired": {
+                  "value": "false",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "Copyrighted": {
+                  "value": "False",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "Restrictions": {
+                  "value": "",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "License": {
+                  "value": "pd",
+                  "source": "commons-templates",
+                  "hidden": ""
+                }
+              }
+            }
+          ]
+        },
+        {
+          "pageid": 98248825,
+          "ns": 6,
+          "title": "File:History of the development of the doctrine of the person of Christ (IA cu31924092364987).pdf",
+          "index": 5,
+          "imagerepository": "local",
+          "imageinfo": [
+            {
+              "size": 16448722,
+              "width": 804,
+              "height": 1325,
+              "pagecount": 544,
+              "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8d/History_of_the_development_of_the_doctrine_of_the_person_of_Christ_%28IA_cu31924092364987%29.pdf/page1-500px-History_of_the_development_of_the_doctrine_of_the_person_of_Christ_%28IA_cu31924092364987%29.pdf.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+              "thumbwidth": 400,
+              "thumbheight": 659,
+              "thumbattribs": {
+                "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8d/History_of_the_development_of_the_doctrine_of_the_person_of_Christ_%28IA_cu31924092364987%29.pdf/page1-500px-History_of_the_development_of_the_doctrine_of_the_person_of_Christ_%28IA_cu31924092364987%29.pdf.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+                "decoding": "async",
+                "loading": "lazy",
+                "width": 400,
+                "height": 659
+              },
+              "url": "https://upload.wikimedia.org/wikipedia/commons/8/8d/History_of_the_development_of_the_doctrine_of_the_person_of_Christ_%28IA_cu31924092364987%29.pdf?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+              "descriptionurl": "https://commons.wikimedia.org/wiki/File:History_of_the_development_of_the_doctrine_of_the_person_of_Christ_(IA_cu31924092364987).pdf",
+              "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=98248825",
+              "extmetadata": {
+                "DateTime": {
+                  "value": "2020-12-30 09:40:22",
+                  "source": "mediawiki-metadata",
+                  "hidden": ""
+                },
+                "ObjectName": {
+                  "value": "<div class=\"fn\">\nHistory of the development of the doctrine of the person of Christ</div>",
+                  "source": "commons-desc-page"
+                },
+                "CommonsMetadataExtension": {
+                  "value": 1.2,
+                  "source": "extension",
+                  "hidden": ""
+                },
+                "Categories": {
+                  "value": "PD-old-100-expired|Scans from the Internet Archive/unverified|CC-PD-Mark|Scans from the Internet Archive|Books uploaded by Fæ|Books without Wikidata item|Scans from Cornell University Library|Books published in Edinburgh|PD-old missing SDC copyright status",
+                  "source": "commons-categories",
+                  "hidden": ""
+                },
+                "Assessments": {
+                  "value": "",
+                  "source": "commons-categories",
+                  "hidden": ""
+                },
+                "Artist": {
+                  "value": "<div class=\"fn value\">\nDorner, I. A. (Isaak August), 1809-1884</div>",
+                  "source": "commons-desc-page"
+                },
+                "ImageDescription": {
+                  "value": "<div class=\"description\">\n<dl><dd>The metadata below describe the original scanning. Follow the \"All Files: HTTP\" link in the \"View the book\" box to the left to find XML files that contain more metadata about the original images and the derived formats (OCR results, PDF etc.). See also the <a rel=\"nofollow\" class=\"external text\" href=\"https://archive.org/about/faqs.php#140\">What is the directory structure for the texts?</a> FAQ for information about file content and naming conventions.</dd>\n<dd>Vol. 1, 5, 1872; v. 2, 4, 1870; v. 3, 1874</dd>\n<dd>Vol. [5] has an appendix by Patrick Fairbairn, reviewing the controversies in \"Britain\" on the subject since the middle of the 17th century</dd>\n<dd>Division first: First four centuries. 2 v.--Division second: From the end of the fourth century to the present time. 3 v</dd></dl>\n<br>Subjects: Jesus Christ; Jesus Christ</div>",
+                  "source": "commons-desc-page"
+                },
+                "Credit": {
+                  "value": "<dl><dd><a href=\"//archive.org/details/cu31924092364987\" class=\"extiw\" title=\"iarchive:cu31924092364987\"><bdi class=\"description en\" lang=\"en\" dir=\"ltr\">Internet Archive identifier</bdi>: cu31924092364987</a></dd>\n<dd><a rel=\"nofollow\" class=\"external free\" href=\"https://archive.org/download/cu31924092364987/cu31924092364987.pdf\">https://archive.org/download/cu31924092364987/cu31924092364987.pdf</a></dd></dl>",
+                  "source": "commons-desc-page"
+                },
+                "LicenseShortName": {
+                  "value": "Public domain",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "UsageTerms": {
+                  "value": "Public domain",
+                  "source": "commons-desc-page"
+                },
+                "AttributionRequired": {
+                  "value": "false",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "Copyrighted": {
+                  "value": "False",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "Restrictions": {
+                  "value": "",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "License": {
+                  "value": "pd",
+                  "source": "commons-templates",
+                  "hidden": ""
+                }
+              }
+            }
+          ]
+        }
+      ]
+    }
+  }
+}

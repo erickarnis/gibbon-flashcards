@@ -1,0 +1,522 @@
+{
+  "person_id": "marcus-aurelius-cleander",
+  "query": "Marcus Aurelius Cleander",
+  "response": {
+    "batchcomplete": true,
+    "continue": {
+      "gsroffset": 5,
+      "continue": "gsroffset||"
+    },
+    "query": {
+      "pages": [
+        {
+          "pageid": 1344599,
+          "ns": 6,
+          "title": "File:Osman Cleander Baker - Brady-Handy.jpg",
+          "index": 1,
+          "imagerepository": "local",
+          "imageinfo": [
+            {
+              "size": 1345499,
+              "width": 2896,
+              "height": 4568,
+              "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d1/Osman_Cleander_Baker_-_Brady-Handy.jpg/500px-Osman_Cleander_Baker_-_Brady-Handy.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+              "thumbwidth": 400,
+              "thumbheight": 631,
+              "responsiveUrls": {
+                "2": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d1/Osman_Cleander_Baker_-_Brady-Handy.jpg/960px-Osman_Cleander_Baker_-_Brady-Handy.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+              },
+              "thumbattribs": {
+                "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d1/Osman_Cleander_Baker_-_Brady-Handy.jpg/500px-Osman_Cleander_Baker_-_Brady-Handy.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+                "decoding": "async",
+                "loading": "lazy",
+                "width": 400,
+                "height": 631,
+                "srcset": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d1/Osman_Cleander_Baker_-_Brady-Handy.jpg/960px-Osman_Cleander_Baker_-_Brady-Handy.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail 2x"
+              },
+              "url": "https://upload.wikimedia.org/wikipedia/commons/d/d1/Osman_Cleander_Baker_-_Brady-Handy.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+              "descriptionurl": "https://commons.wikimedia.org/wiki/File:Osman_Cleander_Baker_-_Brady-Handy.jpg",
+              "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=1344599",
+              "extmetadata": {
+                "DateTime": {
+                  "value": "2006-11-06 04:14:09",
+                  "source": "mediawiki-metadata",
+                  "hidden": ""
+                },
+                "ObjectName": {
+                  "value": "Osman Cleander Baker - Brady-Handy",
+                  "source": "mediawiki-metadata"
+                },
+                "CommonsMetadataExtension": {
+                  "value": 1.2,
+                  "source": "extension",
+                  "hidden": ""
+                },
+                "Categories": {
+                  "value": "Images from the Library of Congress|Osman (given name)|Methodist bishops|PD-old-100-expired|CC-PD-Mark|Photographs by Mathew Brady|PD-old missing SDC copyright status|Cleander (given name)",
+                  "source": "commons-categories",
+                  "hidden": ""
+                },
+                "Assessments": {
+                  "value": "",
+                  "source": "commons-categories",
+                  "hidden": ""
+                },
+                "ImageDescription": {
+                  "value": "<a href=\"https://en.wikipedia.org/wiki/Osman_Cleander_Baker\" class=\"extiw\" title=\"en:Osman Cleander Baker\">Osman Cleander Baker</a>.  Library of Congress description: \"Bishop O. C. Baker\"",
+                  "source": "commons-desc-page"
+                },
+                "DateTimeOriginal": {
+                  "value": "between 1855 and 1865<div style=\"display: none;\">date QS:P,+1850-00-00T00:00:00Z/7,P1319,+1855-00-00T00:00:00Z/9,P1326,+1865-00-00T00:00:00Z/9</div>",
+                  "source": "commons-desc-page"
+                },
+                "Credit": {
+                  "value": "This image  is available from the United States <a href=\"//commons.wikimedia.org/wiki/Library_of_Congress\" title=\"Library of Congress\">Library of Congress</a>'s <a rel=\"nofollow\" class=\"external text\" href=\"//www.loc.gov/rr/print/\">Prints and Photographs division</a><br> under the digital ID <a rel=\"nofollow\" class=\"external text\" href=\"https://hdl.loc.gov/loc.pnp/cwpbh.02523\">cwpbh.02523</a>.<br><small>This tag does not indicate the copyright status of the attached work. <span style=\"white-space:nowrap\">A normal <a href=\"//commons.wikimedia.org/wiki/Special:MyLanguage/Commons:Copyright_tags\" title=\"Special:MyLanguage/Commons:Copyright tags\">copyright tag</a> is still required.</span> <span style=\"white-space:nowrap\">See <a href=\"//commons.wikimedia.org/wiki/Special:MyLanguage/Commons:Licensing\" title=\"Special:MyLanguage/Commons:Licensing\">Commons:Licensing</a>.</span></small>",
+                  "source": "commons-desc-page"
+                },
+                "Artist": {
+                  "value": "<bdi><a href=\"https://en.wikipedia.org/wiki/en:Mathew_Brady\" class=\"extiw\" title=\"w:en:Mathew Brady\"><span title=\"American photographer (c. 1823 – 1896)\">Mathew Benjamin Brady</span></a></bdi>",
+                  "source": "commons-desc-page"
+                },
+                "LicenseShortName": {
+                  "value": "Public domain",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "UsageTerms": {
+                  "value": "Public domain",
+                  "source": "commons-desc-page"
+                },
+                "AttributionRequired": {
+                  "value": "false",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "Copyrighted": {
+                  "value": "False",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "Restrictions": {
+                  "value": "",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "License": {
+                  "value": "pd",
+                  "source": "commons-templates",
+                  "hidden": ""
+                }
+              }
+            }
+          ]
+        },
+        {
+          "pageid": 15898140,
+          "ns": 6,
+          "title": "File:ArhopalaCleanderCleanderMUpUnAC1.jpg",
+          "index": 2,
+          "imagerepository": "local",
+          "imageinfo": [
+            {
+              "size": 1165254,
+              "width": 2188,
+              "height": 2004,
+              "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/31/ArhopalaCleanderCleanderMUpUnAC1.jpg/500px-ArhopalaCleanderCleanderMUpUnAC1.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+              "thumbwidth": 400,
+              "thumbheight": 366,
+              "responsiveUrls": {
+                "2": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/31/ArhopalaCleanderCleanderMUpUnAC1.jpg/960px-ArhopalaCleanderCleanderMUpUnAC1.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+              },
+              "thumbattribs": {
+                "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/31/ArhopalaCleanderCleanderMUpUnAC1.jpg/500px-ArhopalaCleanderCleanderMUpUnAC1.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+                "decoding": "async",
+                "loading": "lazy",
+                "width": 400,
+                "height": 366,
+                "srcset": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/31/ArhopalaCleanderCleanderMUpUnAC1.jpg/960px-ArhopalaCleanderCleanderMUpUnAC1.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail 2x"
+              },
+              "url": "https://upload.wikimedia.org/wikipedia/commons/3/31/ArhopalaCleanderCleanderMUpUnAC1.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+              "descriptionurl": "https://commons.wikimedia.org/wiki/File:ArhopalaCleanderCleanderMUpUnAC1.jpg",
+              "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=15898140",
+              "extmetadata": {
+                "DateTime": {
+                  "value": "2011-07-25 14:38:47",
+                  "source": "mediawiki-metadata",
+                  "hidden": ""
+                },
+                "ObjectName": {
+                  "value": "ArhopalaCleanderCleanderMUpUnAC1",
+                  "source": "mediawiki-metadata"
+                },
+                "CommonsMetadataExtension": {
+                  "value": 1.2,
+                  "source": "extension",
+                  "hidden": ""
+                },
+                "Categories": {
+                  "value": "Arhopala cleander|Taken with Canon EOS 30D|Self-published work|Arhopala specimens|Arhopala (male)",
+                  "source": "commons-categories",
+                  "hidden": ""
+                },
+                "Assessments": {
+                  "value": "",
+                  "source": "commons-categories",
+                  "hidden": ""
+                },
+                "ImageDescription": {
+                  "value": "<i>Arhopala cleander cleander</i>, male, Maluku, Halmahera, Alan Cassidy photo.",
+                  "source": "commons-desc-page"
+                },
+                "DateTimeOriginal": {
+                  "value": "2009-04-06",
+                  "source": "commons-desc-page"
+                },
+                "Credit": {
+                  "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+                  "source": "commons-desc-page"
+                },
+                "Artist": {
+                  "value": "<a href=\"//commons.wikimedia.org/wiki/User:Accassidy\" title=\"User:Accassidy\">Alan Cassidy</a>",
+                  "source": "commons-desc-page"
+                },
+                "LicenseShortName": {
+                  "value": "CC BY-SA 3.0",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "UsageTerms": {
+                  "value": "Creative Commons Attribution-Share Alike 3.0",
+                  "source": "commons-desc-page"
+                },
+                "AttributionRequired": {
+                  "value": "true",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "LicenseUrl": {
+                  "value": "https://creativecommons.org/licenses/by-sa/3.0",
+                  "source": "commons-desc-page"
+                },
+                "Copyrighted": {
+                  "value": "True",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "Restrictions": {
+                  "value": "",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "License": {
+                  "value": "cc-by-sa-3.0",
+                  "source": "commons-templates",
+                  "hidden": ""
+                }
+              }
+            }
+          ]
+        },
+        {
+          "pageid": 17062858,
+          "ns": 6,
+          "title": "File:ArhopalaCleanderMalayicaBB1903AC1.jpg",
+          "index": 3,
+          "imagerepository": "local",
+          "imageinfo": [
+            {
+              "size": 94129,
+              "width": 961,
+              "height": 652,
+              "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e0/ArhopalaCleanderMalayicaBB1903AC1.jpg/500px-ArhopalaCleanderMalayicaBB1903AC1.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+              "thumbwidth": 400,
+              "thumbheight": 271,
+              "responsiveUrls": {
+                "2": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e0/ArhopalaCleanderMalayicaBB1903AC1.jpg/960px-ArhopalaCleanderMalayicaBB1903AC1.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+              },
+              "thumbattribs": {
+                "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e0/ArhopalaCleanderMalayicaBB1903AC1.jpg/500px-ArhopalaCleanderMalayicaBB1903AC1.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+                "decoding": "async",
+                "loading": "lazy",
+                "width": 400,
+                "height": 271,
+                "srcset": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e0/ArhopalaCleanderMalayicaBB1903AC1.jpg/960px-ArhopalaCleanderMalayicaBB1903AC1.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail 2x"
+              },
+              "url": "https://upload.wikimedia.org/wikipedia/commons/e/e0/ArhopalaCleanderMalayicaBB1903AC1.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+              "descriptionurl": "https://commons.wikimedia.org/wiki/File:ArhopalaCleanderMalayicaBB1903AC1.jpg",
+              "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=17062858",
+              "extmetadata": {
+                "DateTime": {
+                  "value": "2011-10-21 15:33:33",
+                  "source": "mediawiki-metadata",
+                  "hidden": ""
+                },
+                "ObjectName": {
+                  "value": "ArhopalaCleanderMalayicaBB1903AC1",
+                  "source": "mediawiki-metadata"
+                },
+                "CommonsMetadataExtension": {
+                  "value": 1.2,
+                  "source": "extension",
+                  "hidden": ""
+                },
+                "Categories": {
+                  "value": "Arhopala cleander|PD US|A Revision of the Amblypodia Group of Butterflies of the Family Lycaenidae - Bethune-Baker (1903)",
+                  "source": "commons-categories",
+                  "hidden": ""
+                },
+                "Assessments": {
+                  "value": "",
+                  "source": "commons-categories",
+                  "hidden": ""
+                },
+                "ImageDescription": {
+                  "value": "<i>Arhopala cleander malayica</i>, male, Philippines, from original description.",
+                  "source": "commons-desc-page"
+                },
+                "DateTimeOriginal": {
+                  "value": "2011-10-21",
+                  "source": "commons-desc-page"
+                },
+                "Credit": {
+                  "value": "Transactions Zoological Society London",
+                  "source": "commons-desc-page"
+                },
+                "Artist": {
+                  "value": "G. T. Bethune-Baker",
+                  "source": "commons-desc-page"
+                },
+                "LicenseShortName": {
+                  "value": "Public domain",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "UsageTerms": {
+                  "value": "Public domain",
+                  "source": "commons-desc-page"
+                },
+                "AttributionRequired": {
+                  "value": "false",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "Copyrighted": {
+                  "value": "False",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "Restrictions": {
+                  "value": "",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "License": {
+                  "value": "pd",
+                  "source": "commons-templates",
+                  "hidden": ""
+                }
+              }
+            }
+          ]
+        },
+        {
+          "pageid": 18361062,
+          "ns": 6,
+          "title": "File:IllustrationsDiurnalLepidopteraPlate4.jpg",
+          "index": 5,
+          "imagerepository": "local",
+          "imageinfo": [
+            {
+              "size": 427066,
+              "width": 2197,
+              "height": 3032,
+              "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5a/IllustrationsDiurnalLepidopteraPlate4.jpg/500px-IllustrationsDiurnalLepidopteraPlate4.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+              "thumbwidth": 400,
+              "thumbheight": 552,
+              "responsiveUrls": {
+                "2": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5a/IllustrationsDiurnalLepidopteraPlate4.jpg/960px-IllustrationsDiurnalLepidopteraPlate4.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+              },
+              "thumbattribs": {
+                "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5a/IllustrationsDiurnalLepidopteraPlate4.jpg/500px-IllustrationsDiurnalLepidopteraPlate4.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+                "decoding": "async",
+                "loading": "lazy",
+                "width": 400,
+                "height": 552,
+                "srcset": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5a/IllustrationsDiurnalLepidopteraPlate4.jpg/960px-IllustrationsDiurnalLepidopteraPlate4.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail 2x"
+              },
+              "url": "https://upload.wikimedia.org/wikipedia/commons/5/5a/IllustrationsDiurnalLepidopteraPlate4.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+              "descriptionurl": "https://commons.wikimedia.org/wiki/File:IllustrationsDiurnalLepidopteraPlate4.jpg",
+              "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=18361062",
+              "extmetadata": {
+                "DateTime": {
+                  "value": "2012-02-12 18:10:19",
+                  "source": "mediawiki-metadata",
+                  "hidden": ""
+                },
+                "ObjectName": {
+                  "value": "IllustrationsDiurnalLepidopteraPlate4",
+                  "source": "mediawiki-metadata"
+                },
+                "CommonsMetadataExtension": {
+                  "value": 1.2,
+                  "source": "extension",
+                  "hidden": ""
+                },
+                "Categories": {
+                  "value": "Arhopala bazalus|Arhopala micale|Arhopala silhetensis|Arhopala thamyras|Arhopala cleander|Arhopala aedias|Author died more than 100 years ago public domain images|CC-PD-Mark|Arhopala eumolphus illustrations|Illustrations of diurnal Lepidoptera - Hewitson - plates",
+                  "source": "commons-categories",
+                  "hidden": ""
+                },
+                "Assessments": {
+                  "value": "",
+                  "source": "commons-categories",
+                  "hidden": ""
+                },
+                "ImageDescription": {
+                  "value": "William Chapman Hewitson, [1865] 1862-1878  ,,Illustrations of diurnal Lepidoptera : Lycaenidae<i>. London : John van Voorst Plate 4</i>\n<ul><li>Amblypodia Helius. Pl. IV. female  f. 34, male  f. 35.alid name</li></ul>\n<p>In the Collection of the British Museum from Aru.\nValid name Arhopala thamyras (Linnaeus, 1758)\nVariety a. Female. With both wings broadly margined with brown.\nIn the Collection of the British Museum from Aru.\nMy reason for again figuring this species is to endeavour to rectify the unaccountable mistakes which have been made with regard to Cramer's figure. It is one of the best in the book ; and yet Godart, when evidently describing A. Centaurus, refers it to Cramer's Helius. Dr. Horsfield, in describing the species to which I have given the name of Aedias, refers it to Cramer's Helius.\nThe butterfly represented by figs. 29, 30, 31, stands in Dr. Boisduval's collection as Helius of Cramer.\n</p>\n<ul><li>Amblypodia Aedias, Hewitson. Pl. IV. male f. 36.</li></ul>\n<p>Valid name Arhopala aedias (Hewitson, 1862)\nIn the Collection of the British Museum from Java.\n</p>\n<ul><li>Amblypodia Silhetensis. Pl. IV. male f.  27, 28.</li></ul>\n<p>Valid name  Arhopala silhetensis (Hewitson, 1862)\nIn the Collection of the British Museum from Sylhet.\n</p>\n<ul><li>Amblypodia Adatha, Hewitson. Pl. IV. male  f. 29, 30, 31.[see micale]</li></ul>\n<p>Valid name Arhopala cleander (Felder, 1860) ssp.adatha Hewitson, 1862\n</p>\n<ul><li>[Arhopala micale Blanchard, 1853 Hewitson. Pl. IV pl. 4, f. 29-31]</li></ul>\n<p>The figure of A. Micale in the ' Voyage au Pole Sud ' is so bad, that, if I had not seen the type in Dr. Boisduval's collection, I could not have believed that it was intended to represent this species.\n</p>\n<ul><li>Amblypodia Adonias, Hewitson. Pl. IV. female  f. 32, 33.</li></ul>\n<p>Valid name Arhopala eumolphus (Cramer, [1780]) ssp. adonias (Hewitson, 1862)\nIn the Collection of the British Museum from Java.\n</p>\n<ul><li>Amblypodia Bazalus. Pl. IV. female  f. 37, 38.</li></ul>\n<p>Valid name  Arhopala bazalus (Hewitson, 1862)\nIn the Collection of W. C. Hewitson from Java.\nWilliam Chapman Hewitson, [1865] 1862-1878  Illustrations of diurnal Lepidoptera : Lycaenidae. London : John van Voorst Plate 4\n</p>\n<ul><li>Amblypodia Helius. Pl. IV. female  f. 34, male  f. 35.</li></ul>\n<p>In the Collection of the British Museum from Aru.\nVariety a. Female. With both wings broadly margined with brown.\nIn the Collection of the British Museum from Aru.\nMy reason for again figuring this species is to endeavour to rectify the unaccountable mistakes which have\nbeen made with regard to Cramer's figure. It is one of the best in the book ; and yet Godart, when evidently\ndescribing A. Centaurus, refers it to Cramer's Helius. Dr. Horsfield, in describing the species to which I have given the name of Aedias, refers it to Cramer's Helius.\nThe butterfly represented by figs. 29, 30, 31, stands in Dr. Boisduval's collection as Helius of Cramer.\n</p>\n<ul><li>Amblypodia Aedias, Hewitson. Pl. IV. male f. 36.</li></ul>\n<p>Valid name Arhopala aedias (Hewitson, 1862)\nIn the Collection of the British Museum from Java.\n</p>\n<ul><li>Amblypodia Silhetensis. Pl. IV. male f.  27, 28.</li></ul>\n<p>Valid name  Arhopala silhetensis (Hewitson, 1862)\nIn the Collection of the British Museum from Sylhet.\n</p>\n<ul><li>Amblypodia Adatha, Hewitson. Pl. IV. male  f. 29, 30, 31.[see micale]</li></ul>\n<p>Valid name Arhopala cleander (Felder, 1860) ssp.adatha Hewitson, 1862\n</p>\n<ul><li>[Arhopala micale Blanchard, 1853 Hewitson. Pl. IV pl. 4, f. 29-31]</li></ul>\n<p>The figure of A. Micale in the ' Voyage au Pole Sud ' is so bad, that, if I had not seen the type in Dr. Boisduval's collection, I could not have believed that it was intended to represent this species.\n</p>\n<ul><li>Amblypodia Adonias, Hewitson. Pl. IV. female  f. 32, 33.</li></ul>\n<p>Valid name Arhopala eumolphus (Cramer, [1780]) ssp. adonias (Hewitson, 1862)\nIn the Collection of the British Museum from Java.\n</p>\n<ul><li>Amblypodia Bazalus. Pl. IV. female  f. 37, 38.</li></ul>\n<p>Valid name  Arhopala bazalus (Hewitson, 1862)\n</p>\nIn the Collection of W. C. Hewitson from Java.",
+                  "source": "commons-desc-page"
+                },
+                "DateTimeOriginal": {
+                  "value": "1860s<div style=\"display: none;\">date QS:P,+1860-00-00T00:00:00Z/8</div>",
+                  "source": "commons-desc-page"
+                },
+                "Credit": {
+                  "value": "<a rel=\"nofollow\" class=\"external free\" href=\"https://www.biodiversitylibrary.org/\">https://www.biodiversitylibrary.org/</a>",
+                  "source": "commons-desc-page"
+                },
+                "Artist": {
+                  "value": "<bdi><a href=\"https://en.wikipedia.org/wiki/en:William_Chapman_Hewitson\" class=\"extiw\" title=\"w:en:William Chapman Hewitson\"><span title=\"British naturalist (1806–1878)\">William Chapman Hewitson</span></a></bdi>",
+                  "source": "commons-desc-page"
+                },
+                "LicenseShortName": {
+                  "value": "Public domain",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "UsageTerms": {
+                  "value": "Public domain",
+                  "source": "commons-desc-page"
+                },
+                "AttributionRequired": {
+                  "value": "false",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "Copyrighted": {
+                  "value": "False",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "Restrictions": {
+                  "value": "",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "License": {
+                  "value": "pd",
+                  "source": "commons-templates",
+                  "hidden": ""
+                }
+              }
+            }
+          ]
+        },
+        {
+          "pageid": 98058718,
+          "ns": 6,
+          "title": "File:Cleander et Eudoxus, seu De provincialibus, quas vocant, litteris, dialogi e' Gallico exemplari, edito Coloniae Agrippinae typis Petri Marteau, 1694 (IA bub gb HYvPPRxbcuEC).pdf",
+          "index": 4,
+          "imagerepository": "local",
+          "imageinfo": [
+            {
+              "size": 37187750,
+              "width": 625,
+              "height": 858,
+              "pagecount": 470,
+              "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9d/Cleander_et_Eudoxus%2C_seu_De_provincialibus%2C_quas_vocant%2C_litteris%2C_dialogi_e%27_Gallico_exemplari%2C_edito_Coloniae_Agrippinae_typis_Petri_Marteau%2C_1694_%28IA_bub_gb_HYvPPRxbcuEC%29.pdf/page1-500px-thumbnail.pdf.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+              "thumbwidth": 400,
+              "thumbheight": 549,
+              "thumbattribs": {
+                "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9d/Cleander_et_Eudoxus%2C_seu_De_provincialibus%2C_quas_vocant%2C_litteris%2C_dialogi_e%27_Gallico_exemplari%2C_edito_Coloniae_Agrippinae_typis_Petri_Marteau%2C_1694_%28IA_bub_gb_HYvPPRxbcuEC%29.pdf/page1-500px-thumbnail.pdf.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+                "decoding": "async",
+                "loading": "lazy",
+                "width": 400,
+                "height": 549
+              },
+              "url": "https://upload.wikimedia.org/wikipedia/commons/9/9d/Cleander_et_Eudoxus%2C_seu_De_provincialibus%2C_quas_vocant%2C_litteris%2C_dialogi_e%27_Gallico_exemplari%2C_edito_Coloniae_Agrippinae_typis_Petri_Marteau%2C_1694_%28IA_bub_gb_HYvPPRxbcuEC%29.pdf?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+              "descriptionurl": "https://commons.wikimedia.org/wiki/File:Cleander_et_Eudoxus,_seu_De_provincialibus,_quas_vocant,_litteris,_dialogi_e%27_Gallico_exemplari,_edito_Coloniae_Agrippinae_typis_Petri_Marteau,_1694_(IA_bub_gb_HYvPPRxbcuEC).pdf",
+              "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=98058718",
+              "extmetadata": {
+                "DateTime": {
+                  "value": "2020-12-25 17:14:40",
+                  "source": "mediawiki-metadata",
+                  "hidden": ""
+                },
+                "ObjectName": {
+                  "value": "<div class=\"fn\">\nCleander et Eudoxus, seu De provincialibus, quas vocant, litteris, dialogi e' Gallico exemplari, edito Coloniae Agrippinae typis Petri Marteau, 1694</div>",
+                  "source": "commons-desc-page"
+                },
+                "CommonsMetadataExtension": {
+                  "value": 1.2,
+                  "source": "extension",
+                  "hidden": ""
+                },
+                "Categories": {
+                  "value": "PD-old-100-expired|Scans from the Internet Archive/unverified|CC-PD-Mark|Scans from the Internet Archive|Books uploaded by Fæ|Books without Wikidata item|Old books from American Libraries|PD-old missing SDC copyright status|Latin-language books",
+                  "source": "commons-categories",
+                  "hidden": ""
+                },
+                "Assessments": {
+                  "value": "",
+                  "source": "commons-categories",
+                  "hidden": ""
+                },
+                "Artist": {
+                  "value": "<div class=\"fn value\">\nGabriel Daniel</div>",
+                  "source": "commons-desc-page"
+                },
+                "ImageDescription": {
+                  "value": "<div class=\"description\">\nSubjects: bub_upload</div>",
+                  "source": "commons-desc-page"
+                },
+                "Credit": {
+                  "value": "<dl><dd><a href=\"//archive.org/details/bub_gb_HYvPPRxbcuEC\" class=\"extiw\" title=\"iarchive:bub gb HYvPPRxbcuEC\"><bdi class=\"description en\" lang=\"en\" dir=\"ltr\">Internet Archive identifier</bdi>: bub_gb_HYvPPRxbcuEC</a></dd>\n<dd><a rel=\"nofollow\" class=\"external free\" href=\"https://archive.org/download/bub_gb_HYvPPRxbcuEC/bub_gb_HYvPPRxbcuEC.pdf\">https://archive.org/download/bub_gb_HYvPPRxbcuEC/bub_gb_HYvPPRxbcuEC.pdf</a></dd></dl>\n<ul><li>IA contributor: unknown library</li>\n<li>IA digitizing sponsor: Google</li></ul>",
+                  "source": "commons-desc-page"
+                },
+                "LicenseShortName": {
+                  "value": "Public domain",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "UsageTerms": {
+                  "value": "Public domain",
+                  "source": "commons-desc-page"
+                },
+                "AttributionRequired": {
+                  "value": "false",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "Copyrighted": {
+                  "value": "False",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "Restrictions": {
+                  "value": "",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "License": {
+                  "value": "pd",
+                  "source": "commons-templates",
+                  "hidden": ""
+                }
+              }
+            }
+          ]
+        }
+      ]
+    }
+  }
+}

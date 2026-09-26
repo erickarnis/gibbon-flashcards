@@ -1,0 +1,1098 @@
+{
+  "trajan": {
+    "file": "images/people/trajan.jpg",
+    "selected_file": "File:Traianus_Glyptothek_Munich_72.jpg"
+  },
+  "hadrian": {
+    "file": "images/people/hadrian.jpg",
+    "selected_file": "File:Bust Hadrian Musei Capitolini MC817 cropped.jpg"
+  },
+  "antoninus-pius": {
+    "file": "images/people/antoninus-pius.jpg",
+    "selected_file": "File:Antoninus_Pius_bust_S2436_ancient_agora_museum_Athens.jpg"
+  },
+  "augustus": {
+    "file": "images/people/augustus.jpg",
+    "selected_file": "File:Augustus_of_Prima_Porta.jpg"
+  },
+  "julius-caesar": {
+    "file": "images/people/julius-caesar.jpg",
+    "selected_file": "https://cdn.britannica.com/11/196711-050-FA58D50D/Julius-Caesar-marble-sculpture-Andrea-di-Pietro.jpg"
+  },
+  "caratacus": {
+    "file": "images/people/caratacus.jpg",
+    "selected_file": "File:CaractacusClaudius.jpg"
+  },
+  "boudica": {
+    "file": "images/people/boudica.jpg",
+    "selected_file": "File:Queen_Boudica_by_John_Opie.jpg"
+  },
+  "decebalus": {
+    "file": "images/people/decebalus.jpg",
+    "selected_file": "File:Decebal_suicide.jpg"
+  },
+  "alexander-the-great": {
+    "file": "images/people/alexander-the-great.jpg",
+    "selected_file": "https://cdn.britannica.com/58/159658-050-70DB8771/Alexander-the-Great-marble-bust-British-Museum.jpg"
+  },
+  "philip-ii-of-macedon": {
+    "file": "images/people/philip-ii-of-macedon.jpg",
+    "selected_file": "File:Phillip_II,_king_of_Macedonia,_Roman_copy_of_Greek_original,_Ny_Carlsberg_Glyptotek,_Copenhagen_(36420294055).jpg"
+  },
+  "genghis-khan": {
+    "file": "images/people/genghis-khan.jpg",
+    "selected_file": "File:YuanEmperorAlbumGenghisPortrait.jpg"
+  },
+  "cicero": {
+    "file": "images/people/cicero.jpg",
+    "selected_file": "File:Bust_of_Cicero_(1st-cent._BC)_-_Palazzo_Nuovo_-_Musei_Capitolini_-_Rome_2016.jpg"
+  },
+  "seneca-the-younger": {
+    "file": "images/people/seneca-the-younger.jpg",
+    "selected_file": "File:Duble_herma_of_Socrates_and_Seneca_Antikensammlung_Berlin_07.jpg"
+  },
+  "servius-tullius": {
+    "file": "images/people/servius-tullius.jpg",
+    "selected_file": "File:Servius_by_Rouille.jpg"
+  },
+  "gaius-marius": {
+    "file": "images/people/gaius-marius.jpg",
+    "selected_file": "File:Marius Chiaramonti Inv1488.jpg"
+  },
+  "romulus": {
+    "file": "images/people/romulus.jpg",
+    "selected_file": "File:Brogi,_Carlo_(1850-1925)_-_n._8226_-_Certosa_di_Pavia_-_Medaglione_sullo_zoccolo_della_facciata.jpg"
+  },
+  "marcus-furius-camillus": {
+    "file": "images/people/marcus-furius-camillus.jpg",
+    "selected_file": "File:Domenico_ghirlandaio,_affreschi_della_sala_dei_gigli_02_furio_camillo.jpg"
+  },
+  "catiline": {
+    "file": "images/people/catiline.jpg",
+    "selected_file": "File:Cicero_Denounces_Catiline_in_the_Roman_Senate_by_Cesare_Maccari_-_detail_of_Catilina.jpg"
+  },
+  "titus": {
+    "file": "images/people/titus.jpg",
+    "selected_file": "File:Titus_Ny_Carlsberg_Glyptotek_IN3159.jpg"
+  },
+  "claudius": {
+    "file": "images/people/claudius.jpg",
+    "selected_file": "File:Claudius_crop.jpg"
+  },
+  "pliny-the-elder": {
+    "file": "images/people/pliny-the-elder.jpg",
+    "selected_file": "File:Grande_Illustrazione_del_Lombardo_Veneto_Vol_3_Plinio_Secondo_300dpi.jpg"
+  },
+  "homer": {
+    "file": "images/people/homer.jpg",
+    "selected_file": "File:Homer_At_the_British_Museum_2024_(3x4_cropped).jpg"
+  },
+  "virgil": {
+    "file": "images/people/virgil.jpg",
+    "selected_file": "File:Virgil_mosaic_in_the_Bardo_National_Museum_(Tunis)_(12241228546).jpg"
+  },
+  "galen": {
+    "file": "images/people/galen.jpg",
+    "selected_file": "File:Galenus.jpg"
+  },
+  "plato": {
+    "file": "images/people/plato.png",
+    "selected_file": "File:Plato_Silanion_Musei_Capitolini_MC1377.png"
+  },
+  "aristotle": {
+    "file": "images/people/aristotle.jpg",
+    "selected_file": "File:Aristotle_Altemps_Inv8575.jpg"
+  },
+  "zeno-of-citium": {
+    "file": "images/people/zeno-of-citium.jpg",
+    "selected_file": "File:Paolo_Monti_-_Servizio_fotografico_(Napoli,_1969)_-_BEIC_6353768.jpg"
+  },
+  "epicurus": {
+    "file": "images/people/epicurus.jpg",
+    "selected_file": "File:Epikouros_BM_1843.jpg"
+  },
+  "marcus-vipsanius-agrippa": {
+    "file": "images/people/marcus-vipsanius-agrippa.jpg",
+    "selected_file": "File:Agrippa_Gabii_Louvre_Ma1208.jpg"
+  },
+  "pompey": {
+    "file": "images/people/pompey.jpg",
+    "selected_file": "File:(Venice)_Pompey_the_Great,_Museo_Archeologico_Nazionale.jpg"
+  },
+  "gnaeus-cornelius-cinna-magnus": {
+    "file": "images/people/gnaeus-cornelius-cinna-magnus.jpg",
+    "selected_file": "File:Louis_André_Gabriel_Bouchet_Augustus_und_Cornelius_Cinna_Magnus_bozetto.jpg"
+  },
+  "vespasian": {
+    "file": "images/people/vespasian.jpg",
+    "selected_file": "File:Vespasian,_from_Naples,_c._AD_70,_Ny_Carlsberg_Glyptotek,_Copenhagen_(13646730625).jpg"
+  },
+  "galba": {
+    "file": "images/people/galba.jpg",
+    "selected_file": "File:Portrait of Galba (1st cent. A.D.) at the Archaeological Museum of Corinth (1-10-2020).jpg"
+  },
+  "otho": {
+    "file": "images/people/otho.jpg",
+    "selected_file": "File:Statue_of_the_emperor_Otho,_Ma_1215_(cropped1).jpg"
+  },
+  "vitellius": {
+    "file": "images/people/vitellius.jpg",
+    "selected_file": "File:Tunis Bardo Buste 8.jpg"
+  },
+  "pompeia-plotina": {
+    "file": "images/people/pompeia-plotina.jpg",
+    "selected_file": "File:Plotina_(Vatikanische_Museen).jpg"
+  },
+  "lucius-aelius-caesar": {
+    "file": "images/people/lucius-aelius-caesar.jpg",
+    "selected_file": "File:Portrait_Lucius_Aelius_Louvre_Ma1167.jpg"
+  },
+  "antinous": {
+    "file": "images/people/antinous.jpg",
+    "selected_file": "File:Bust_Antinous_Hermitage_GR-4220_n1.jpeg"
+  },
+  "lucius-verus": {
+    "file": "images/people/lucius-verus.jpg",
+    "selected_file": "File:Lucius_Verus_-_MET_-_L.2007.26_cropped.jpg"
+  },
+  "faustina-the-younger": {
+    "file": "images/people/faustina-the-younger.jpg",
+    "selected_file": "File:Faustina_Minor_Louvre_Ma1144.jpg"
+  },
+  "numa-pompilius": {
+    "file": "images/people/numa-pompilius.jpg",
+    "selected_file": "File:Numapisocng6371obverse.jpg"
+  },
+  "cato-the-younger": {
+    "file": "images/people/cato-the-younger.jpg",
+    "selected_file": "File:Catón_(52340687524).jpg"
+  },
+  "safi-ad-din-ardabili": {
+    "file": "images/people/safi-ad-din-ardabili.jpg",
+    "selected_file": "File:Shaykh_Safi_al-Din_interpreting_for_his_disciples_various_verses_by_distinguished_poets_(cropped).jpg"
+  },
+  "commodus": {
+    "file": "images/people/commodus.jpg",
+    "selected_file": "File:Commodo_vestito_da_Ercole_ai_Musei_Capitolini.jpg"
+  },
+  "germanicus": {
+    "file": "images/people/germanicus.jpg",
+    "selected_file": "File:(Toulouse)_Portrait_de_Germanicus_-_Musée_Saint-Raymond_Ra_342_c.jpg"
+  },
+  "lucilla": {
+    "file": "images/people/lucilla.jpg",
+    "selected_file": "File:Statue_of_Lucilla_detail.jpg"
+  },
+  "marcia-mistress-of-commodus": {
+    "file": "images/people/marcia-mistress-of-commodus.png",
+    "selected_file": "File:Marcia_Aurelia_Ceionia_(cropped).png"
+  },
+  "pertinax": {
+    "file": "images/people/pertinax.jpg",
+    "selected_file": "File:Galleria_degli_Uffizi,_Florence_(19676748662).jpg"
+  },
+  "didius-julianus": {
+    "file": "images/people/didius-julianus.jpg",
+    "selected_file": "File:Buste_de_Didius_Iulianus5.jpg"
+  },
+  "pescennius-niger": {
+    "file": "images/people/pescennius-niger.jpg",
+    "selected_file": "File:Aureus_Pescennius_Niger_(obverse).jpg"
+  },
+  "clodius-albinus": {
+    "file": "images/people/clodius-albinus.jpg",
+    "selected_file": "File:Bust_of_Clodius_Albinus_-_Palazzo_Nuovo_-_Musei_Capitolini_-_Rome_2016_(3).jpg"
+  },
+  "papinian": {
+    "file": "images/people/papinian.jpg",
+    "selected_file": "File:Aemilius_Paulus_Papinianus.jpg"
+  },
+  "ulpian": {
+    "file": "images/people/ulpian.jpg",
+    "selected_file": "File:Statue_dedans_le_Palais_de_justice.JPG"
+  },
+  "caracalla": {
+    "file": "images/people/caracalla.jpg",
+    "selected_file": "File:0_Caracalla_-_Museo_Massimo_alle_Terme.JPG"
+  },
+  "geta-emperor": {
+    "file": "images/people/geta-emperor.jpg",
+    "selected_file": "File:Publius_Septimius_Geta_Louvre_Ma1076.jpg"
+  },
+  "julia-domna": {
+    "file": "images/people/julia-domna.jpg",
+    "selected_file": "File:Julia_Domna_(Julia_Pia),_inv._2210,_Roman_-_Braccio_Nuovo,_Museo_Chiaramonti_-_Vatican_Museums_-_DSC00897.jpg"
+  },
+  "macrinus": {
+    "file": "images/people/macrinus.jpg",
+    "selected_file": "File:Bust_of_Macrinus_-_Palazzo_Nuovo_-_Musei_Capitolini_-_Rome_2016.jpg"
+  },
+  "julia-maesa": {
+    "file": "images/people/julia-maesa.jpg",
+    "selected_file": "File:Head of Julia Meza.jpg"
+  },
+  "julia-avita-mamaea": {
+    "file": "images/people/julia-avita-mamaea.jpg",
+    "selected_file": "File:Julia_Avita_Mamaea_Louvre_Ma3552.jpg"
+  },
+  "elagabalus": {
+    "file": "images/people/elagabalus.jpg",
+    "selected_file": "File:Marble_bust_of_Roman_emperor_Elagabalus,_ca._221_AD,_Capitoline_Museums_(20814003112).jpg"
+  },
+  "severus-alexander": {
+    "file": "images/people/severus-alexander.jpg",
+    "selected_file": "File:Alexander_Severus_Musei_Capitolini_MC471.jpg"
+  },
+  "agrippina-the-younger": {
+    "file": "images/people/agrippina-the-younger.jpg",
+    "selected_file": "File:Rome_Agrippina_Minor.jpg"
+  },
+  "maximinus-thrax": {
+    "file": "images/people/maximinus-thrax.jpg",
+    "selected_file": "File:Maximinus_Thrax_Musei_Capitolini_MC473.jpg"
+  },
+  "gaius-julius-verus-maximus": {
+    "file": "images/people/gaius-julius-verus-maximus.jpg",
+    "selected_file": "File:Maximus_Ny_Carlsberg_Glyptotek_IN823.jpg"
+  },
+  "gordian-i": {
+    "file": "images/people/gordian-i.jpg",
+    "selected_file": "File:Gordian I Musei Capitolini MC475.jpg"
+  },
+  "gordian-ii": {
+    "file": "images/people/gordian-ii.jpg",
+    "selected_file": "File:Gordiano_II_-_ritratto_da_sesterzio.jpg"
+  },
+  "gordian-iii": {
+    "file": "images/people/gordian-iii.jpg",
+    "selected_file": "File:Bust_Gordianus_III_Louvre_Ma1063.jpg"
+  },
+  "nerva": {
+    "file": "images/people/nerva.jpg",
+    "selected_file": "File:Nerva head, Rome, Vatican Museums, Pius-Clementine Museum, 96-98 CE.jpg"
+  },
+  "marcus-aurelius": {
+    "file": "images/people/marcus-aurelius.jpg",
+    "selected_file": "File:Marcus Aurelius Glyptothek München (3x4 cropped).jpg"
+  },
+  "domitian": {
+    "file": "images/people/domitian.jpg",
+    "selected_file": "File:Domiziano_da_collezione_albani,_fine_del_I_sec._dc._02.JPG"
+  },
+  "columella": {
+    "file": "images/people/columella.jpg",
+    "selected_file": "File:Lucius Junius Moderatus Columella.jpg"
+  },
+  "tiberius": {
+    "file": "images/people/tiberius.jpg",
+    "selected_file": "File:8095_-_Roma_-_Ara_Pacis_-_Tiberio_-_Foto_Giovanni_Dall'Orto_-_28-Mar-2008.jpg"
+  },
+  "ptolemy": {
+    "file": "images/people/ptolemy.jpg",
+    "selected_file": "File:Ptolemy_1476_with_armillary_sphere_model.jpg"
+  },
+  "caligula": {
+    "file": "images/people/caligula.jpg",
+    "selected_file": "File:Caligula.Carlsberg_Glyptotek.(cropped).jpg"
+  },
+  "nero": {
+    "file": "images/people/nero.jpg",
+    "selected_file": "File:Nero_Glyptothek_Munich_321.jpg"
+  },
+  "tiberius-claudius-pompeianus": {
+    "file": "images/people/tiberius-claudius-pompeianus.jpg",
+    "selected_file": "File:Ritratto di pompeiano, generale e genero di marco aurelio, 170-180 dc ca.jpg"
+  },
+  "septimius-severus": {
+    "file": "images/people/septimius-severus.jpg",
+    "selected_file": "File:Septimius_Severus_busto-Musei_Capitolini.jpg"
+  },
+  "gaius-fulvius-plautianus": {
+    "file": "images/people/gaius-fulvius-plautianus.jpg",
+    "selected_file": "File:6865_-_Plauziano(Museo_Pio-Clementino)_-_Foto_Giovanni_Dall'Orto,_10_june_2011.jpg"
+  },
+  "julia-soaemias": {
+    "file": "images/people/julia-soaemias.jpg",
+    "selected_file": "File:Perge_-_Julia_Soemias_2.jpg"
+  },
+  "sextus-afranius-burrus": {
+    "file": "images/people/sextus-afranius-burrus.jpg",
+    "selected_file": "File:Burrhus, Nero's Tutor, Prostrating Himself before his Sovereign Lord (Otto Wallgren) - Nationalmuseum - 19020.tif"
+  },
+  "pupienus": {
+    "file": "images/people/pupienus.jpg",
+    "selected_file": "File:Pupienus_Musei_Capitolini_MC477.jpg"
+  },
+  "balbinus": {
+    "file": "images/people/balbinus.jpg",
+    "selected_file": "File:Balbinus_Hermitage.jpg"
+  },
+  "philip-the-arab": {
+    "file": "images/people/philip-the-arab.jpg",
+    "selected_file": "File:Portrait_of_Philip_the_Arab._Saint-Petersburg,_The_State_Hermitage_Museum_(cropped).jpg"
+  },
+  "ardashir-i": {
+    "file": "images/people/ardashir-i.jpg",
+    "selected_file": "File:Dinar_of_Ardashir_I_(cropped).jpg"
+  },
+  "zoroaster": {
+    "file": "images/people/zoroaster.jpg",
+    "selected_file": "File:Yazd,_Templo_del_Fuego_(2000)_02_(cropped).jpg"
+  },
+  "herodotus": {
+    "file": "images/people/herodotus.jpg",
+    "selected_file": "File:Marble_bust_of_Herodotos_MET_DT11742_(cropped).jpg"
+  },
+  "confucius": {
+    "file": "images/people/confucius.jpg",
+    "selected_file": "File:Confucius,_fresco_from_a_Western_Han_tomb_of_Dongping_County,_Shandong_province,_China.jpg"
+  },
+  "cyrus-the-great": {
+    "file": "images/people/cyrus-the-great.jpg",
+    "selected_file": "File:Cyrus_II_(The_Great)_(cropped).jpg"
+  },
+  "hannibal": {
+    "file": "images/people/hannibal.jpg",
+    "selected_file": "File:Hannibal_Barca_bust_from_Capua_photo.jpg"
+  },
+  "scipio-africanus": {
+    "file": "images/people/scipio-africanus.jpg",
+    "selected_file": "File:Medieval Portrait of Scipio Africanus (Philadelphia Museum of Art).jpg"
+  },
+  "charlemagne": {
+    "file": "images/people/charlemagne.png",
+    "selected_file": "File:Bust of Charlemagne.png"
+  },
+  "veleda": {
+    "file": "images/people/veleda.jpg",
+    "selected_file": "File:Augustins_-_Velleda_-_Laurent_Marqueste_2004_1_431.jpg"
+  },
+  "torquato-tasso": {
+    "file": "images/people/torquato-tasso.jpg",
+    "selected_file": "File:Torquato_Tasso,_aged_22,_by_Jacopo_da_Ponte,_called_Jacopo_Bassano_(cropped).jpg"
+  },
+  "publius-quinctilius-varus": {
+    "file": "images/people/publius-quinctilius-varus.jpg",
+    "selected_file": "File:Varus_-_Antiquitates_Germanicæ_-_Tacitus_&_Hooft.tiff"
+  },
+  "decius": {
+    "file": "images/people/decius.jpg",
+    "selected_file": "File:Bust_of_Decius_(loan_from_Capitoline_Museums)_-_Glyptothek_-_Munich_-_Germany_2017.jpg"
+  },
+  "tiberius-claudius-marinus-pacatianus": {
+    "file": "images/people/tiberius-claudius-marinus-pacatianus.jpg",
+    "selected_file": "File:Antoninianus-Pacatianus-1001-RIC_0006cf.jpg"
+  },
+  "trebonianus-gallus": {
+    "file": "images/people/trebonianus-gallus.jpg",
+    "selected_file": "File:Bronze_statue_of_the_emperor_Trebonianus_Gallus_(detail).jpg"
+  },
+  "hostilian": {
+    "file": "images/people/hostilian.jpg",
+    "selected_file": "File:Sestertius_Hostilian-s2771_(obverse).jpg"
+  },
+  "volusianus": {
+    "file": "images/people/volusianus.jpg",
+    "selected_file": "File:Aureus Volusianus (obverse).jpg"
+  },
+  "aemilianus": {
+    "file": "images/people/aemilianus.jpg",
+    "selected_file": "File:Aemilianus_RIC_IV_20_(obverse).jpg"
+  },
+  "valerian-emperor": {
+    "file": "images/people/valerian-emperor.jpg",
+    "selected_file": "File:Valerianus_Ny_Carlsberg_Glyptotek_IN3387.jpg"
+  },
+  "gallienus": {
+    "file": "images/people/gallienus.jpg",
+    "selected_file": "File:Ritratto_di_gallieno_dalla_casa_delle_vestali.jpg"
+  },
+  "shapur-i": {
+    "file": "images/people/shapur-i.jpg",
+    "selected_file": "File:Shapur I Statue (2) by Hadi Karimi.jpg"
+  },
+  "tiridates-iii-of-armenia": {
+    "file": "images/people/tiridates-iii-of-armenia.jpg",
+    "selected_file": "File:Tiridates_III_illustration.jpeg"
+  },
+  "arsaces-i-of-parthia": {
+    "file": "images/people/arsaces-i-of-parthia.jpg",
+    "selected_file": "File:Coin_of_Arsaces_I_(1),_Nisa_mint.jpg"
+  },
+  "macrianus-major": {
+    "file": "images/people/macrianus-major.jpg",
+    "selected_file": "File:Macrianus_Major.jpg"
+  },
+  "cyriades": {
+    "file": "images/people/cyriades.jpg",
+    "selected_file": "File:Cyriades.jpg"
+  },
+  "ingenuus": {
+    "file": "images/people/ingenuus.jpg",
+    "selected_file": "File:Ingenuus.jpg"
+  },
+  "odaenathus": {
+    "file": "images/people/odaenathus.png",
+    "selected_file": "File:Tessera_from_Palmyra.png"
+  },
+  "zenobia": {
+    "file": "images/people/zenobia.png",
+    "selected_file": "File:Antoninianus_of_Zenobia_(obverse).png"
+  },
+  "plotinus": {
+    "file": "images/people/plotinus.jpg",
+    "selected_file": "File:Plotinos.jpg"
+  },
+  "claudius-gothicus": {
+    "file": "images/people/claudius-gothicus.jpg",
+    "selected_file": "File:5305 - Brescia - S. Giulia - Ritratto di Claudio II il Gotico - Foto Giovanni Dall'Orto, 25 Giu 2011.jpg"
+  },
+  "aureolus": {
+    "file": "images/people/aureolus.jpg",
+    "selected_file": "File:Aureolus.jpg"
+  },
+  "aurelian": {
+    "file": "images/people/aurelian.jpg",
+    "selected_file": "File:Aureus_of_Aurelian_(Milan)_(obverse).jpg"
+  },
+  "victorinus": {
+    "file": "images/people/victorinus.png",
+    "selected_file": "File:Aureus_Victorinus_RIC_0094_(obverse).png"
+  },
+  "victoria-gallic-empire": {
+    "file": "images/people/victoria-gallic-empire.jpg",
+    "selected_file": "File:Victria-TyranTrig.jpg"
+  },
+  "tetricus-i": {
+    "file": "images/people/tetricus-i.png",
+    "selected_file": "File:INC-2045-a_Ауреус._Тетрик_I_Старший._Ок._271—274_гг._(аверс).png"
+  },
+  "cleopatra": {
+    "file": "images/people/cleopatra.jpg",
+    "selected_file": "File:Kleopatra-VII.-Altes-Museum-Berlin1.jpg"
+  },
+  "semiramis": {
+    "file": "images/people/semiramis.png",
+    "selected_file": "File:Semiramis-Regina.png"
+  },
+  "maeonius": {
+    "file": "images/people/maeonius.jpg",
+    "selected_file": "File:Maeonius.jpg"
+  },
+  "hairan-i": {
+    "file": "images/people/hairan-i.jpg",
+    "selected_file": "File:Hairan_I.jpg"
+  },
+  "marcus-claudius-tacitus": {
+    "file": "images/people/marcus-claudius-tacitus.png",
+    "selected_file": "File:EmpereurTacite.png"
+  },
+  "tacitus": {
+    "file": "images/people/tacitus.jpg",
+    "selected_file": "File:Wien-_Parlament-Tacitus.jpg"
+  },
+  "florianus": {
+    "file": "images/people/florianus.jpg",
+    "selected_file": "File:Aureus_Florianus_Ticinum_(obverse).jpg"
+  },
+  "probus-emperor": {
+    "file": "images/people/probus-emperor.jpg",
+    "selected_file": "File:Probus_Musei_Capitolini_MC493.jpg"
+  },
+  "carus": {
+    "file": "images/people/carus.jpg",
+    "selected_file": "File:Monnaie_-_Aureus,_Carus,_Siscia_-_btv1b11344796d_(1_of_2).jpg"
+  },
+  "carinus": {
+    "file": "images/people/carinus.jpg",
+    "selected_file": "File:Montemartini_-_Carino_1030439.JPG"
+  },
+  "numerian": {
+    "file": "images/people/numerian.jpg",
+    "selected_file": "File:NumerianusAntoninianus.jpg"
+  },
+  "bahram-ii": {
+    "file": "images/people/bahram-ii.jpg",
+    "selected_file": "File:Silver_coin_of_Bahram_II_(cropped).jpg"
+  },
+  "diocletian": {
+    "file": "images/people/diocletian.jpg",
+    "selected_file": "File:Istanbul_Archaeology_Museum_Bust_of_Diocletian,_from_Nikomedia,_Izmit,_end_3rd_century_AD_1536.jpg"
+  },
+  "maximian": {
+    "file": "images/people/maximian.jpg",
+    "selected_file": "File:Musée_Saint-Raymond_-_2017-09-02_-_Inv._Ra_34b_-_4654.jpg"
+  },
+  "galerius": {
+    "file": "images/people/galerius.jpg",
+    "selected_file": "File:Romuliana_Galerius_head.jpg"
+  },
+  "constantius-chlorus": {
+    "file": "images/people/constantius-chlorus.jpg",
+    "selected_file": "File:Constantius_Chlorus_Ny_Carlsberg_Glyptotek_IN836.jpg"
+  },
+  "carausius": {
+    "file": "images/people/carausius.jpg",
+    "selected_file": "File:Antoninianus_Carausius_leg4-RIC_0069v.jpg"
+  },
+  "narseh": {
+    "file": "images/people/narseh.jpg",
+    "selected_file": "File:Narseh_relief.jpg"
+  },
+  "xenophon": {
+    "file": "images/people/xenophon.jpg",
+    "selected_file": "File:Bust_of_Xenophon.jpg"
+  },
+  "lucius-tarquinius-superbus": {
+    "file": "images/people/lucius-tarquinius-superbus.jpg",
+    "selected_file": "File:Tarquinius-Superbus.jpg"
+  },
+  "porphyry-philosopher": {
+    "file": "images/people/porphyry-philosopher.jpg",
+    "selected_file": "File:Portrait_of_Porphyry_of_Tyre_from_Les_vrais_pourtraits_et_vies_des_hommes_illustres_grecz,_latins_et_payens.jpg"
+  },
+  "constantine-the-great": {
+    "file": "images/people/constantine-the-great.jpg",
+    "selected_file": "File:Constantine_I_The_Great,_Colossal_bronze_statue_fragments,_Capitoline_Museums.jpg"
+  },
+  "severus-ii": {
+    "file": "images/people/severus-ii.jpg",
+    "selected_file": "File:Severus II Aureus Joanneum.jpg"
+  },
+  "maximinus-daza": {
+    "file": "images/people/maximinus-daza.jpg",
+    "selected_file": "File:Bust of Maximinus II.png"
+  },
+  "maxentius": {
+    "file": "images/people/maxentius.jpg",
+    "selected_file": "File:Portrait_of_Maxentius_(SK_Dresden_Hm_406)_02.jpg"
+  },
+  "licinius": {
+    "file": "images/people/licinius.jpg",
+    "selected_file": "File:Bust_of_Licinius,_Kunsthistorisches_Museum.jpg"
+  },
+  "crispus": {
+    "file": "images/people/crispus.png",
+    "selected_file": "File:INC-1822-a_Солид_Крисп_цезарь_ок._317_г._(аверс).png"
+  },
+  "helena-mother-of-constantine-i": {
+    "file": "images/people/helena-mother-of-constantine-i.jpg",
+    "selected_file": "File:Elena_Colosseo_Rome_Italy.jpg"
+  },
+  "fausta": {
+    "file": "images/people/fausta.jpg",
+    "selected_file": "File:P1070865 Louvre tête de Fausta Ma4881 rwk.JPG"
+  },
+  "sallust": {
+    "file": "images/people/sallust.jpg",
+    "selected_file": "File:Salluste_(cropped).jpg"
+  },
+  "antiochus-iv-epiphanes": {
+    "file": "images/people/antiochus-iv-epiphanes.jpg",
+    "selected_file": "File:Antiochus_IV_Epiphanes_-_Altes_Museum_-_Berlin_-_Germany_2017.jpg"
+  },
+  "herod-the-great": {
+    "file": "images/people/herod-the-great.jpg",
+    "selected_file": "File:HerodtheGreat2.jpg"
+  },
+  "moses": {
+    "file": "images/people/moses.jpg",
+    "selected_file": "File:Rembrandt_Harmensz._van_Rijn_079.jpg"
+  },
+  "abraham": {
+    "file": "images/people/abraham.jpg",
+    "selected_file": "File:Guercino_Abramo_ripudia_Agar_(cropped_2).jpg"
+  },
+  "joshua": {
+    "file": "images/people/joshua.jpg",
+    "selected_file": "File:Collection_Motais_de_Narbonne_-_Josué_arrète_la_course_du_soleil_-_Carlo_Maratta.jpg"
+  },
+  "jesus": {
+    "file": "images/people/jesus.jpg",
+    "selected_file": "File:Spas_vsederzhitel_sinay_(cropped1).jpg"
+  },
+  "justin-martyr": {
+    "file": "images/people/justin-martyr.jpg",
+    "selected_file": "File:Saint_Justin_Martyr_by_Theophanes_the_Cretan.jpg"
+  },
+  "adam": {
+    "file": "images/people/adam.jpg",
+    "selected_file": "File:Michelangelo,_Creation_of_Adam_03.jpg"
+  },
+  "ezra": {
+    "file": "images/people/ezra.jpg",
+    "selected_file": "File:109.Ezra_Reads_the_Law_to_the_People.jpg"
+  },
+  "solomon": {
+    "file": "images/people/solomon.jpg",
+    "selected_file": "File:Simeon_Solomon,_King_Solomon,_1872_or_1874,_NGA_76152_(cropped).jpg"
+  },
+  "irenaeus": {
+    "file": "images/people/irenaeus.jpg",
+    "selected_file": "File:Saint_irenee_saint_irenee.jpg"
+  },
+  "theophilus-of-antioch": {
+    "file": "images/people/theophilus-of-antioch.png",
+    "selected_file": "File:Theophilus_Antiochenus.png"
+  },
+  "tertullian": {
+    "file": "images/people/tertullian.png",
+    "selected_file": "File:Tertullian2.png"
+  },
+  "origen": {
+    "file": "images/people/origen.jpg",
+    "selected_file": "File:Origen3.jpg"
+  },
+  "jacob": {
+    "file": "images/people/jacob.jpg",
+    "selected_file": "File:Jan_Victors_-_Jacob_Seeking_the_Forgiveness_of_Esau_-_79.330_-_Indianapolis_Museum_of_Art_(cropped).jpg"
+  },
+  "david": {
+    "file": "images/people/david.jpg",
+    "selected_file": "File:King_David,_the_King_of_Israel.jpg"
+  },
+  "cyprian": {
+    "file": "images/people/cyprian.jpg",
+    "selected_file": "File:Cyprian_von_Karthago2.jpg"
+  },
+  "saint-peter": {
+    "file": "images/people/saint-peter.jpg",
+    "selected_file": "File:St._Peter_(portrayed_as_a_Roman_consul).jpg"
+  },
+  "aristides-of-athens": {
+    "file": "images/people/aristides-of-athens.png",
+    "selected_file": "File:Saint-Aristides-mural-painting-in-a-Greek-Orthodox-church.png"
+  },
+  "pythagoras": {
+    "file": "images/people/pythagoras.jpg",
+    "selected_file": "File:Pythagoras_in_the_Roman_Forum,_Colosseum.jpg"
+  },
+  "clement-of-alexandria": {
+    "file": "images/people/clement-of-alexandria.jpg",
+    "selected_file": "File:Clement_alexandrin.jpg"
+  },
+  "sextus-julius-africanus": {
+    "file": "images/people/sextus-julius-africanus.jpg",
+    "selected_file": "File:Sextus Julius Africanus Julius aphricanus (titel op object) Liber Chronicarum (serietitel), RP-P-2016-49-79-4.jpg"
+  },
+  "lactantius": {
+    "file": "images/people/lactantius.jpg",
+    "selected_file": "File:Lactantius.jpg"
+  },
+  "pliny-the-younger": {
+    "file": "images/people/pliny-the-younger.jpg",
+    "selected_file": "File:Pliny_the_Younger_and_his_Mother_at_Misenum,_79_A.D.,_by_Angelica_Kauffmann,_English,_1785,_oil_on_canvas_-_Princeton_University_Art_Museum_-_DSC06494_(cropped).jpg"
+  },
+  "plutarch": {
+    "file": "images/people/plutarch.jpg",
+    "selected_file": "File:Portrait_of_a_philosopher,_maybe_Plutarch,_2nd_century_BC,_AM_Delphi,_0135.jpg"
+  },
+  "epictetus": {
+    "file": "images/people/epictetus.jpg",
+    "selected_file": "File:Epicteti_Enchiridion_Latinis_versibus_adumbratum_(Oxford_1715)_frontispiece_(cropped).jpg"
+  },
+  "simon-bar-kokhba": {
+    "file": "images/people/simon-bar-kokhba.jpg",
+    "selected_file": "File:Arthur_Szyk_(1894-1951)._Bar_Kochba_(1927),_Paris.jpg"
+  },
+  "charles-v-holy-roman-emperor": {
+    "file": "images/people/charles-v-holy-roman-emperor.jpg",
+    "selected_file": "File:Portrait_of_Charles_V,_Holy_Roman_Emperor,_seated_(1500–1558),_formerly_attributed_to_Titian_(Alte_Pinakothek,_Munich).jpg"
+  },
+  "louis-xiv": {
+    "file": "images/people/louis-xiv.jpg",
+    "selected_file": "File:Louis_XIV_of_France.jpg"
+  },
+  "pontius-pilate": {
+    "file": "images/people/pontius-pilate.jpg",
+    "selected_file": "File:Ecce_homo_by_Antonio_Ciseri_(1).jpg"
+  },
+  "flavia-domitilla-wife-of-clemens": {
+    "file": "images/people/flavia-domitilla-wife-of-clemens.jpg",
+    "selected_file": "File:Andrea di Bonaiuto. St. Agnes and St. Domitilla. 1365. Galleria dell'Accademia, Florence..jpg"
+  },
+  "pope-stephen-i": {
+    "file": "images/people/pope-stephen-i.jpg",
+    "selected_file": "File:Head_of_Pope_Saint_Stephen_I_-_Speyer_Cathedral_-_Speyer_-_Germany_2017.jpg"
+  },
+  "ignatius-of-antioch": {
+    "file": "images/people/ignatius-of-antioch.jpg",
+    "selected_file": "File:Hosios_Loukas_(south_west_chapel,_south_side)_-_Ignatios.jpg"
+  },
+  "dionysius-of-alexandria": {
+    "file": "images/people/dionysius-of-alexandria.jpg",
+    "selected_file": "File:Dionisii_alek.jpg"
+  },
+  "prisca-empress": {
+    "file": "images/people/prisca-empress.jpg",
+    "selected_file": "File:Fig_146e_-_Mausoleum_-_Friesdetail_Siehe_Seite_113_ff.jpg"
+  },
+  "galeria-valeria": {
+    "file": "images/people/galeria-valeria.jpg",
+    "selected_file": "File:Follis_of_Galeria_Valeria_-_Cropped.jpg"
+  },
+  "gorgonius": {
+    "file": "images/people/gorgonius.jpg",
+    "selected_file": "File:Martyr_de_saint_Gorgon.jpg"
+  },
+  "marcellus-of-tangier": {
+    "file": "images/people/marcellus-of-tangier.jpg",
+    "selected_file": "File:Marcellus_Cassian.jpg"
+  },
+  "eusebius": {
+    "file": "images/people/eusebius.jpg",
+    "selected_file": "File:Eusebius_of_Caesarea_Rabbula_Gospels_Icon.jpg"
+  },
+  "hugo-grotius": {
+    "file": "images/people/hugo-grotius.jpg",
+    "selected_file": "File:Michiel_Jansz_van_Mierevelt_-_Hugo_Grotius.jpg"
+  },
+  "pericles": {
+    "file": "images/people/pericles.jpg",
+    "selected_file": "File:Pericles_Pio-Clementino_Inv269_n2.jpg"
+  },
+  "phidias": {
+    "file": "images/people/phidias.jpg",
+    "selected_file": "File:The_Sculptor_Phidias-Ny_Carlsberg_Glyptotek.jpg"
+  },
+  "marcus-valerius-messalla-corvinus": {
+    "file": "images/people/marcus-valerius-messalla-corvinus.jpg",
+    "selected_file": "File:Warsaw_2023_214_Krasinski_Palace_Valerius_Statue.jpg"
+  },
+  "justinian-i": {
+    "file": "images/people/justinian-i.jpg",
+    "selected_file": "File:Mosaic_of_Justinianus_I_-_Basilica_San_Vitale_(Ravenna).jpg"
+  },
+  "minervina": {
+    "file": "images/people/minervina.png",
+    "selected_file": "File:Minervina,_wife_of_Constantine_I.png"
+  },
+  "constantine-ii-emperor": {
+    "file": "images/people/constantine-ii-emperor.jpg",
+    "selected_file": "File:Constantine_II,_The_Capitoline_Hill.jpg"
+  },
+  "constantius-ii": {
+    "file": "images/people/constantius-ii.jpg",
+    "selected_file": "File:Bust_of_Constantius_II_(Mary_Harrsch).jpg"
+  },
+  "constans": {
+    "file": "images/people/constans.jpg",
+    "selected_file": "File:Musée_du_Louvre_-_L'empereur_Constant_(Ma_1021).jpg"
+  },
+  "dalmatius": {
+    "file": "images/people/dalmatius.jpg",
+    "selected_file": "File:Delmatius_Coin_Abverse.jpg"
+  },
+  "hannibalianus": {
+    "file": "images/people/hannibalianus.jpg",
+    "selected_file": "File:Follis_of_Hannibalianus.jpg"
+  },
+  "flavia-julia-constantia": {
+    "file": "images/people/flavia-julia-constantia.jpg",
+    "selected_file": "File:Coin_of_Flavia_Julia_Constantia_(obverse).jpg"
+  },
+  "licinius-ii": {
+    "file": "images/people/licinius-ii.jpg",
+    "selected_file": "File:Solidus_Licinius_Jr_AF21_CdM_Paris.jpg"
+  },
+  "shapur-ii": {
+    "file": "images/people/shapur-ii.jpg",
+    "selected_file": "File:Bust_of_Shapur_II_the_Great_in_the_Metropolitan_Museum_of_Art.jpg"
+  },
+  "magnentius": {
+    "file": "images/people/magnentius.png",
+    "selected_file": "File:Medallion_of_Magnentius.png"
+  },
+  "vetranio": {
+    "file": "images/people/vetranio.jpg",
+    "selected_file": "File:Solidus_Vetranio_(obverse).jpg"
+  },
+  "decentius": {
+    "file": "images/people/decentius.jpg",
+    "selected_file": "File:Impero,_decenzio,_medaglione_in_bronzo_(roma),_350-353.JPG"
+  },
+  "constantius-gallus": {
+    "file": "images/people/constantius-gallus.jpg",
+    "selected_file": "File:Galluscngsoliduslargerobverse.jpg"
+  },
+  "julian-emperor": {
+    "file": "images/people/julian-emperor.jpg",
+    "selected_file": "File:Chalcedony bust of Julian (1).png"
+  },
+  "constantina": {
+    "file": "images/people/constantina.jpg",
+    "selected_file": "File:Pietro_da_Cortona_-_Saint_Constantia's_Vision_before_the_Tomb_of_Saints_Agnes_and_Emerentiana_-_Google_Art_Project.jpg"
+  },
+  "eusebia-empress": {
+    "file": "images/people/eusebia-empress.png",
+    "selected_file": "File:Eusebia,_wife_of_Constantius_II.png"
+  },
+  "darius-the-great": {
+    "file": "images/people/darius-the-great.jpg",
+    "selected_file": "File:Darius_I.jpg"
+  },
+  "gideon": {
+    "file": "images/people/gideon.jpg",
+    "selected_file": "File:Maerten_van_Heemskerck_-_Gédéon_et_le_miracle_de_la_Toison,_MBA_1747_(b)_(cropped).jpg"
+  },
+  "frumentius": {
+    "file": "images/people/frumentius.jpg",
+    "selected_file": "File:St_Frumentius.jpg"
+  },
+  "theodosius-ii": {
+    "file": "images/people/theodosius-ii.jpg",
+    "selected_file": "File:Theodosius_II_Louvre_Ma1036.jpg"
+  },
+  "ambrose": {
+    "file": "images/people/ambrose.jpg",
+    "selected_file": "File:AmbroseOfMilan_(cropped).jpg"
+  },
+  "paul-of-samosata": {
+    "file": "images/people/paul-of-samosata.jpg",
+    "selected_file": "File:PaulusVanSamosataLuyken.jpg"
+  },
+  "donatus-magnus": {
+    "file": "images/people/donatus-magnus.jpg",
+    "selected_file": "File:Donatus_from_Nuremberg_Chronicle.jpg"
+  },
+  "clovis-i": {
+    "file": "images/people/clovis-i.jpg",
+    "selected_file": "File:Saint_Remy_baptise_Clovis_détail.jpg"
+  },
+  "theodoric-the-great": {
+    "file": "images/people/theodoric-the-great.png",
+    "selected_file": "File:Teodorico_re_dei_Goti_(493-526).png"
+  },
+  "philo": {
+    "file": "images/people/philo.jpg",
+    "selected_file": "File:PhiloThevet.jpg"
+  },
+  "arius": {
+    "file": "images/people/arius.jpg",
+    "selected_file": "File:Ariusz.JPG"
+  },
+  "athanasius-of-alexandria": {
+    "file": "images/people/athanasius-of-alexandria.jpg",
+    "selected_file": "File:Fethiye_Camii,_parekklesion,_diakonikon,_mosaics,_Istanbul,_Turkey_-_South_wall,_St._Athanasius,_detail_of_upper_half_-_MSBZ004_BF_T_F_027_B_-_Dumbarton_Oaks.jpg"
+  },
+  "hilary-of-poitiers": {
+    "file": "images/people/hilary-of-poitiers.jpg",
+    "selected_file": "File:Hilaryofpoitiers.jpg"
+  },
+  "eustathius-of-antioch": {
+    "file": "images/people/eustathius-of-antioch.jpg",
+    "selected_file": "File:Saint_Eustathios_of_Antioch_Fresco_Peribleptos.jpg"
+  },
+  "paul-i-of-constantinople": {
+    "file": "images/people/paul-i-of-constantinople.jpg",
+    "selected_file": "File:Agios Pavlos Omologetes Dionysiou.jpg"
+  },
+  "pope-liberius": {
+    "file": "images/people/pope-liberius.png",
+    "selected_file": "File:Patrician_John_Reveals_his_Dream_to_Pope_Liberius.png"
+  },
+  "antipope-felix-ii": {
+    "file": "images/people/antipope-felix-ii.jpg",
+    "selected_file": "File:Felix II Pontificum.jpg"
+  },
+  "sulla": {
+    "file": "images/people/sulla.jpg",
+    "selected_file": "File:Bust of Sulla (Ny Carlsberg Glyptotek, Copenhagen) 1.jpg"
+  },
+  "alexander-of-constantinople": {
+    "file": "images/people/alexander-of-constantinople.jpg",
+    "selected_file": "File:Alexander.john.paul.jpg"
+  },
+  "macedonius-i-of-constantinople": {
+    "file": "images/people/macedonius-i-of-constantinople.jpg",
+    "selected_file": "File:Portret_van_Macedonius_Macedonius_(titel_op_object)_Historie_der_Kerken_en_ketteren_(..)_tot_aan_het_jaar_onses_Heeren_1688_(serietitel),_RP-P-1908-4478.jpg"
+  },
+  "acacius-of-byzantium": {
+    "file": "images/people/acacius-of-byzantium.jpg",
+    "selected_file": "File:Agathius-Acacius-Acacio-martyrdom.jpg"
+  },
+  "gregory-of-nazianzus": {
+    "file": "images/people/gregory-of-nazianzus.jpg",
+    "selected_file": "File:Gregor-Chora_(cropped).jpg"
+  },
+  "libanius": {
+    "file": "images/people/libanius.jpg",
+    "selected_file": "File:Libanius_the_sophist.jpg"
+  },
+  "pachomius-the-great": {
+    "file": "images/people/pachomius-the-great.jpg",
+    "selected_file": "File:StPakhom.jpg"
+  },
+  "midas": {
+    "file": "images/people/midas.jpg",
+    "selected_file": "File:Red-figure_stamnos_Silenos_Mida_440BC_Cropped.jpg"
+  },
+  "luke-the-evangelist": {
+    "file": "images/people/luke-the-evangelist.jpg",
+    "selected_file": "File:Codexaureus_23.jpg"
+  },
+  "matthew-the-apostle": {
+    "file": "images/people/matthew-the-apostle.jpg",
+    "selected_file": "File:Codexaureus_17.jpg"
+  },
+  "gaius-fabricius-luscinus": {
+    "file": "images/people/gaius-fabricius-luscinus.gif",
+    "selected_file": "File:AN_ELEPHANT_STRETCHED_OUT_HIS_TRUNK_OVER_THE_ROMAN'S_HEAD_AND_LOUDLY_TRUMPETED.gif"
+  },
+  "jovian-emperor": {
+    "file": "images/people/jovian-emperor.jpg",
+    "selected_file": "File:Solidus_of_Jovian2_(obverse).jpg"
+  },
+  "charito": {
+    "file": "images/people/charito.png",
+    "selected_file": "File:Charito,_wife_of_Jovian.png"
+  },
+  "valentinian-i": {
+    "file": "images/people/valentinian-i.png",
+    "selected_file": "File:INC-3035-a Солид. Валентиниан I. Ок. 367—375 гг. (аверс).png"
+  },
+  "valens": {
+    "file": "images/people/valens.png",
+    "selected_file": "File:INC-3015-a_Солид._Валент_II._Ок._364_г._(аверс).png"
+  },
+  "procopius-usurper": {
+    "file": "images/people/procopius-usurper.png",
+    "selected_file": "File:INC-1866-a_Солид._Прокопий._Ок._365—366_гг._(аверс).png"
+  },
+  "pope-damasus-i": {
+    "file": "images/people/pope-damasus-i.png",
+    "selected_file": "File:Pope_Damasus_-_Biblia_Sancti_Martialis_Lemovicensis,_Folio_4v.png"
+  },
+  "jerome": {
+    "file": "images/people/jerome.jpg",
+    "selected_file": "File:MatthiasStom-SaintJerome-Nantes.jpg"
+  },
+  "david-hume": {
+    "file": "images/people/david-hume.jpg",
+    "selected_file": "File:David_Hume_Ramsay.jpg"
+  },
+  "theodosius-i": {
+    "file": "images/people/theodosius-i.jpg",
+    "selected_file": "File:Bust_of_Theodosius_I.jpg"
+  },
+  "pharandzem": {
+    "file": "images/people/pharandzem.jpg",
+    "selected_file": "File:Last_Battle_of_Queen_Pharandzem.jpg"
+  },
+  "gratian": {
+    "file": "images/people/gratian.jpg",
+    "selected_file": "File:Gratian_Trier_enhanced.jpg"
+  },
+  "marina-severa": {
+    "file": "images/people/marina-severa.png",
+    "selected_file": "File:Severa,_wife_of_Valentinian_I.png"
+  },
+  "valentinian-ii": {
+    "file": "images/people/valentinian-ii.jpg",
+    "selected_file": "File:Statue_of_emperor_Valentinian_II.JPG"
+  },
+  "zephaniah": {
+    "file": "images/people/zephaniah.jpg",
+    "selected_file": "File:Icon_of_Zephaniah_(17th_c.,_North_Russia,_priv._coll.).jpg"
+  },
+  "edward-gibbon": {
+    "file": "images/people/edward-gibbon.jpg",
+    "selected_file": "File:Edward_Gibbon_by_Henry_Walton_cleaned.jpg"
+  },
+  "eutropius-historian": {
+    "file": "images/people/eutropius-historian.jpg",
+    "selected_file": "File:Miniature_of_Eutropius.jpg"
+  },
+  "lucian": {
+    "file": "images/people/lucian.png",
+    "selected_file": "File:Lucian of Samosata.png"
+  },
+  "muhammad": {
+    "file": "images/people/muhammad.jpg",
+    "selected_file": "File:Portrait of the Prophet Muhammad riding the buraq steed - Google Art Project.jpg"
+  },
+  "demosthenes": {
+    "file": "images/people/demosthenes.jpg",
+    "selected_file": "File:Demosthenes_Polyeuctos_Louvre_Ma237_n01.jpg"
+  },
+  "mithridates-vi-eupator": {
+    "file": "images/people/mithridates-vi-eupator.jpg",
+    "selected_file": "File:Mithridates_VI_Louvre.jpg"
+  },
+  "mark-antony": {
+    "file": "images/people/mark-antony.jpg",
+    "selected_file": "File:Marble bust of Mark Antony (Vatican Museums).jpg"
+  },
+  "marcus-junius-brutus": {
+    "file": "images/people/marcus-junius-brutus.jpg",
+    "selected_file": "File:Portrait Brutus Massimo.jpg"
+  },
+  "socrates": {
+    "file": "images/people/socrates.jpg",
+    "selected_file": "File:Socrates_Louvre.jpg"
+  },
+  "aaron": {
+    "file": "images/people/aaron.jpg",
+    "selected_file": "File:El_sumo_sacerdote_Aarón_(Museo_del_Prado)_(cropped).jpg"
+  },
+  "minos": {
+    "file": "images/people/minos.jpg",
+    "selected_file": "File:Syriskos_Painter_-_ARV_259_1_-_Theseus_killing_the_Minotauros_in_the_presence_of_Minos_and_Ariadne_and_lookers_-_Athens_NAM_15115.jpg"
+  },
+  "ammianus-marcellinus": {
+    "file": "images/people/ammianus-marcellinus.jpg",
+    "selected_file": "File:Ammianus_Marcellinus.jpg"
+  },
+  "anthony-the-great": {
+    "file": "images/people/anthony-the-great.png",
+    "selected_file": "File:Saint_Anthony_(Damaskinos).png"
+  },
+  "lucius-junius-brutus": {
+    "file": "images/people/lucius-junius-brutus.jpg",
+    "selected_file": "File:M._Junius_Brutus,_denarius,_54_BC,_RRC_433-2_(obverse_L._Junius).jpg"
+  },
+  "perseus-of-macedon": {
+    "file": "images/people/perseus-of-macedon.png",
+    "selected_file": "File:Perseus_of_Macedon_coin_cropped.png"
+  },
+  "ajax-the-great": {
+    "file": "images/people/ajax-the-great.jpg",
+    "selected_file": "File:Antimenes_Painter_-_Black-figure_Amphora_with_Ajax_Carrying_the_Dead_Achilles_-_Walters_4817_-_Side_A.jpg"
+  },
+  "pelops": {
+    "file": "images/people/pelops.jpg",
+    "selected_file": "File:Coleção_Bühler-Brockhaus_(15).jpg"
+  },
+  "cadmus": {
+    "file": "images/people/cadmus.jpg",
+    "selected_file": "File:Kadmos_dragon_Louvre_N3157.jpg"
+  },
+  "hippolytus-son-of-theseus": {
+    "file": "images/people/hippolytus-son-of-theseus.jpg",
+    "selected_file": "File:Darius_Painter_-_RVAp_18-17_-_death_of_Hippolytos_-_young_warrior_in_naiskos_-_London_BM_1856-1226-1_-_15.jpg"
+  },
+  "phaedra-mythology": {
+    "file": "images/people/phaedra-mythology.jpg",
+    "selected_file": "File:Wall_painting_-_Phaidra_and_her_nurse_-_Pompeii_-_London_BM_GR_1856-0625-5_-_02.jpg"
+  },
+  "cniva": {
+    "file": "images/people/cniva.jpg",
+    "selected_file": "File:Gothic king Cniva and Emperor Decius at the battle of Abritus.jpg"
+  },
+  "khosrov-ii-of-armenia": {
+    "file": "images/people/khosrov-ii-of-armenia.jpg",
+    "selected_file": "File:Khosrov II of Armenia killed by Anak.jpg"
+  },
+  "count-theodosius": {
+    "file": "images/people/count-theodosius.png",
+    "selected_file": "File:Theodosius the Elder fights the insurrectionists in Africa, 373 or 374.png"
+  },
+  "pap-of-armenia": {
+    "file": "images/people/pap-of-armenia.jpg",
+    "selected_file": "File:General (Sparapet) Mushegh Mamikonian (right), the King Pap and Armenian cavalry soldiers. Miniature from the 16th century..jpg"
+  },
+  "dorotheus-of-nicomedia": {
+    "file": "images/people/dorotheus-of-nicomedia.jpg",
+    "selected_file": "File:Martyr_de_saint_Gorgon.jpg"
+  }
+}

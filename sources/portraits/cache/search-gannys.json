@@ -1,0 +1,635 @@
+{
+  "person_id": "gannys",
+  "query": "Gannys",
+  "response": {
+    "batchcomplete": true,
+    "continue": {
+      "gsroffset": 5,
+      "continue": "gsroffset||"
+    },
+    "query": {
+      "pages": [
+        {
+          "pageid": 130258306,
+          "ns": 6,
+          "title": "File:Port Ganny to the Amphitheatre - geograph.org.uk - 4587634.jpg",
+          "index": 2,
+          "imagerepository": "local",
+          "imageinfo": [
+            {
+              "size": 4878151,
+              "width": 3648,
+              "height": 2736,
+              "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a2/Port_Ganny_to_the_Amphitheatre_-_geograph.org.uk_-_4587634.jpg/500px-Port_Ganny_to_the_Amphitheatre_-_geograph.org.uk_-_4587634.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+              "thumbwidth": 400,
+              "thumbheight": 300,
+              "responsiveUrls": {
+                "2": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a2/Port_Ganny_to_the_Amphitheatre_-_geograph.org.uk_-_4587634.jpg/960px-Port_Ganny_to_the_Amphitheatre_-_geograph.org.uk_-_4587634.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+              },
+              "thumbattribs": {
+                "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a2/Port_Ganny_to_the_Amphitheatre_-_geograph.org.uk_-_4587634.jpg/500px-Port_Ganny_to_the_Amphitheatre_-_geograph.org.uk_-_4587634.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+                "decoding": "async",
+                "loading": "lazy",
+                "width": 400,
+                "height": 300,
+                "srcset": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a2/Port_Ganny_to_the_Amphitheatre_-_geograph.org.uk_-_4587634.jpg/960px-Port_Ganny_to_the_Amphitheatre_-_geograph.org.uk_-_4587634.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail 2x"
+              },
+              "url": "https://upload.wikimedia.org/wikipedia/commons/a/a2/Port_Ganny_to_the_Amphitheatre_-_geograph.org.uk_-_4587634.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+              "descriptionurl": "https://commons.wikimedia.org/wiki/File:Port_Ganny_to_the_Amphitheatre_-_geograph.org.uk_-_4587634.jpg",
+              "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=130258306",
+              "extmetadata": {
+                "DateTime": {
+                  "value": "2023-04-01 13:43:52",
+                  "source": "mediawiki-metadata",
+                  "hidden": ""
+                },
+                "ObjectName": {
+                  "value": "Port Ganny to the Amphitheatre - geograph.org.uk - 4587634",
+                  "source": "mediawiki-metadata"
+                },
+                "CommonsMetadataExtension": {
+                  "value": 1.2,
+                  "source": "extension",
+                  "hidden": ""
+                },
+                "Categories": {
+                  "value": "Giant's Causeway|Images from Geograph Britain and Ireland|Port Ganny",
+                  "source": "commons-categories",
+                  "hidden": ""
+                },
+                "Assessments": {
+                  "value": "",
+                  "source": "commons-categories",
+                  "hidden": ""
+                },
+                "GPSLatitude": {
+                  "value": "55.237830",
+                  "source": "commons-desc-page"
+                },
+                "GPSLongitude": {
+                  "value": "-6.515566",
+                  "source": "commons-desc-page"
+                },
+                "GPSMapDatum": {
+                  "value": "WGS-84",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "ImageDescription": {
+                  "value": "Port Ganny to the Amphitheatre <span class=\"mw-valign-text-top noprint\" typeof=\"mw:File/Frameless\"><a href=\"//commons.wikimedia.org/wiki/File:Port_Ganny_to_the_Amphitheatre_-_geograph.org.uk_-_4587634.jpg#ooui-php-4\" title=\"Edit this at Structured Data on Commons\"><img alt=\"Edit this at Structured Data on Commons\" src=\"https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8a/OOjs_UI_icon_edit-ltr-progressive.svg/20px-OOjs_UI_icon_edit-ltr-progressive.svg.png?utm_source=commons.wikimedia.org&amp;utm_campaign=parser&amp;utm_content=thumbnail\" decoding=\"async\" loading=\"lazy\" width=\"10\" height=\"10\" class=\"mw-file-element\" data-file-width=\"20\" data-file-height=\"20\"></a></span>",
+                  "source": "commons-desc-page"
+                },
+                "DateTimeOriginal": {
+                  "value": "2015-07-07",
+                  "source": "commons-desc-page"
+                },
+                "Credit": {
+                  "value": "<a rel=\"nofollow\" class=\"external text\" href=\"https://www.geograph.org.uk/photo/4587634\">Geograph Britain and Ireland</a> <span class=\"mw-valign-text-top noprint\" typeof=\"mw:File/Frameless\"><a href=\"//commons.wikimedia.org/wiki/File:Port_Ganny_to_the_Amphitheatre_-_geograph.org.uk_-_4587634.jpg#P7482\" title=\"Edit this at Structured Data on Commons\"><img alt=\"Edit this at Structured Data on Commons\" src=\"https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8a/OOjs_UI_icon_edit-ltr-progressive.svg/20px-OOjs_UI_icon_edit-ltr-progressive.svg.png?utm_source=commons.wikimedia.org&amp;utm_campaign=parser&amp;utm_content=thumbnail\" decoding=\"async\" loading=\"lazy\" width=\"10\" height=\"10\" class=\"mw-file-element\" data-file-width=\"20\" data-file-height=\"20\"></a></span>",
+                  "source": "commons-desc-page"
+                },
+                "Artist": {
+                  "value": "<a rel=\"nofollow\" class=\"external text\" href=\"https://www.geograph.org.uk/profile/80068\">Carroll Pierce</a> <span class=\"mw-valign-text-top noprint\" typeof=\"mw:File/Frameless\"><a href=\"//commons.wikimedia.org/wiki/File:Port_Ganny_to_the_Amphitheatre_-_geograph.org.uk_-_4587634.jpg#P170\" title=\"Edit this at Structured Data on Commons\"><img alt=\"Edit this at Structured Data on Commons\" src=\"https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8a/OOjs_UI_icon_edit-ltr-progressive.svg/20px-OOjs_UI_icon_edit-ltr-progressive.svg.png?utm_source=commons.wikimedia.org&amp;utm_campaign=parser&amp;utm_content=thumbnail\" decoding=\"async\" loading=\"lazy\" width=\"10\" height=\"10\" class=\"mw-file-element\" data-file-width=\"20\" data-file-height=\"20\"></a></span>",
+                  "source": "commons-desc-page"
+                },
+                "LicenseShortName": {
+                  "value": "CC BY-SA 2.0",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "UsageTerms": {
+                  "value": "Creative Commons Attribution-Share Alike 2.0",
+                  "source": "commons-desc-page"
+                },
+                "AttributionRequired": {
+                  "value": "true",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "Attribution": {
+                  "value": "<i>Port Ganny to the Amphitheatre</i> by Carroll Pierce",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "LicenseUrl": {
+                  "value": "https://creativecommons.org/licenses/by-sa/2.0",
+                  "source": "commons-desc-page"
+                },
+                "Copyrighted": {
+                  "value": "True",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "Restrictions": {
+                  "value": "",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "License": {
+                  "value": "cc-by-sa-2.0",
+                  "source": "commons-templates",
+                  "hidden": ""
+                }
+              }
+            }
+          ]
+        },
+        {
+          "pageid": 130258675,
+          "ns": 6,
+          "title": "File:Port Ganny, Giant's Causeway - geograph.org.uk - 4587691.jpg",
+          "index": 5,
+          "imagerepository": "local",
+          "imageinfo": [
+            {
+              "size": 5260556,
+              "width": 3648,
+              "height": 2736,
+              "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e9/Port_Ganny%2C_Giant%27s_Causeway_-_geograph.org.uk_-_4587691.jpg/500px-Port_Ganny%2C_Giant%27s_Causeway_-_geograph.org.uk_-_4587691.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+              "thumbwidth": 400,
+              "thumbheight": 300,
+              "responsiveUrls": {
+                "2": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e9/Port_Ganny%2C_Giant%27s_Causeway_-_geograph.org.uk_-_4587691.jpg/960px-Port_Ganny%2C_Giant%27s_Causeway_-_geograph.org.uk_-_4587691.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+              },
+              "thumbattribs": {
+                "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e9/Port_Ganny%2C_Giant%27s_Causeway_-_geograph.org.uk_-_4587691.jpg/500px-Port_Ganny%2C_Giant%27s_Causeway_-_geograph.org.uk_-_4587691.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+                "decoding": "async",
+                "loading": "lazy",
+                "width": 400,
+                "height": 300,
+                "srcset": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e9/Port_Ganny%2C_Giant%27s_Causeway_-_geograph.org.uk_-_4587691.jpg/960px-Port_Ganny%2C_Giant%27s_Causeway_-_geograph.org.uk_-_4587691.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail 2x"
+              },
+              "url": "https://upload.wikimedia.org/wikipedia/commons/e/e9/Port_Ganny%2C_Giant%27s_Causeway_-_geograph.org.uk_-_4587691.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+              "descriptionurl": "https://commons.wikimedia.org/wiki/File:Port_Ganny,_Giant%27s_Causeway_-_geograph.org.uk_-_4587691.jpg",
+              "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=130258675",
+              "extmetadata": {
+                "DateTime": {
+                  "value": "2023-04-01 14:00:21",
+                  "source": "mediawiki-metadata",
+                  "hidden": ""
+                },
+                "ObjectName": {
+                  "value": "Port Ganny, Giant's Causeway - geograph.org.uk - 4587691",
+                  "source": "mediawiki-metadata"
+                },
+                "CommonsMetadataExtension": {
+                  "value": 1.2,
+                  "source": "extension",
+                  "hidden": ""
+                },
+                "Categories": {
+                  "value": "Images from Geograph Britain and Ireland|Port Ganny",
+                  "source": "commons-categories",
+                  "hidden": ""
+                },
+                "Assessments": {
+                  "value": "",
+                  "source": "commons-categories",
+                  "hidden": ""
+                },
+                "GPSLatitude": {
+                  "value": "55.239848",
+                  "source": "commons-desc-page"
+                },
+                "GPSLongitude": {
+                  "value": "-6.511560",
+                  "source": "commons-desc-page"
+                },
+                "GPSMapDatum": {
+                  "value": "WGS-84",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "ImageDescription": {
+                  "value": "Port Ganny, Giant's Causeway <span class=\"mw-valign-text-top noprint\" typeof=\"mw:File/Frameless\"><a href=\"//commons.wikimedia.org/wiki/File:Port_Ganny,_Giant%27s_Causeway_-_geograph.org.uk_-_4587691.jpg#ooui-php-4\" title=\"Edit this at Structured Data on Commons\"><img alt=\"Edit this at Structured Data on Commons\" src=\"https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8a/OOjs_UI_icon_edit-ltr-progressive.svg/20px-OOjs_UI_icon_edit-ltr-progressive.svg.png?utm_source=commons.wikimedia.org&amp;utm_campaign=parser&amp;utm_content=thumbnail\" decoding=\"async\" loading=\"lazy\" width=\"10\" height=\"10\" class=\"mw-file-element\" data-file-width=\"20\" data-file-height=\"20\"></a></span>",
+                  "source": "commons-desc-page"
+                },
+                "DateTimeOriginal": {
+                  "value": "2015-07-07",
+                  "source": "commons-desc-page"
+                },
+                "Credit": {
+                  "value": "<a rel=\"nofollow\" class=\"external text\" href=\"https://www.geograph.org.uk/photo/4587691\">Geograph Britain and Ireland</a> <span class=\"mw-valign-text-top noprint\" typeof=\"mw:File/Frameless\"><a href=\"//commons.wikimedia.org/wiki/File:Port_Ganny,_Giant%27s_Causeway_-_geograph.org.uk_-_4587691.jpg#P7482\" title=\"Edit this at Structured Data on Commons\"><img alt=\"Edit this at Structured Data on Commons\" src=\"https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8a/OOjs_UI_icon_edit-ltr-progressive.svg/20px-OOjs_UI_icon_edit-ltr-progressive.svg.png?utm_source=commons.wikimedia.org&amp;utm_campaign=parser&amp;utm_content=thumbnail\" decoding=\"async\" loading=\"lazy\" width=\"10\" height=\"10\" class=\"mw-file-element\" data-file-width=\"20\" data-file-height=\"20\"></a></span>",
+                  "source": "commons-desc-page"
+                },
+                "Artist": {
+                  "value": "<a rel=\"nofollow\" class=\"external text\" href=\"https://www.geograph.org.uk/profile/80068\">Carroll Pierce</a> <span class=\"mw-valign-text-top noprint\" typeof=\"mw:File/Frameless\"><a href=\"//commons.wikimedia.org/wiki/File:Port_Ganny,_Giant%27s_Causeway_-_geograph.org.uk_-_4587691.jpg#P170\" title=\"Edit this at Structured Data on Commons\"><img alt=\"Edit this at Structured Data on Commons\" src=\"https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8a/OOjs_UI_icon_edit-ltr-progressive.svg/20px-OOjs_UI_icon_edit-ltr-progressive.svg.png?utm_source=commons.wikimedia.org&amp;utm_campaign=parser&amp;utm_content=thumbnail\" decoding=\"async\" loading=\"lazy\" width=\"10\" height=\"10\" class=\"mw-file-element\" data-file-width=\"20\" data-file-height=\"20\"></a></span>",
+                  "source": "commons-desc-page"
+                },
+                "LicenseShortName": {
+                  "value": "CC BY-SA 2.0",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "UsageTerms": {
+                  "value": "Creative Commons Attribution-Share Alike 2.0",
+                  "source": "commons-desc-page"
+                },
+                "AttributionRequired": {
+                  "value": "true",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "Attribution": {
+                  "value": "<i>Port Ganny, Giant's Causeway</i> by Carroll Pierce",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "LicenseUrl": {
+                  "value": "https://creativecommons.org/licenses/by-sa/2.0",
+                  "source": "commons-desc-page"
+                },
+                "Copyrighted": {
+                  "value": "True",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "Restrictions": {
+                  "value": "",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "License": {
+                  "value": "cc-by-sa-2.0",
+                  "source": "commons-templates",
+                  "hidden": ""
+                }
+              }
+            }
+          ]
+        },
+        {
+          "pageid": 156475087,
+          "ns": 6,
+          "title": "File:Ganny Bridge and Ganny Lock, Calder and Hebble Navigation, Brighouse - geograph.org.uk - 7059026.jpg",
+          "index": 1,
+          "imagerepository": "local",
+          "imageinfo": [
+            {
+              "size": 2781661,
+              "width": 2000,
+              "height": 1500,
+              "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/79/Ganny_Bridge_and_Ganny_Lock%2C_Calder_and_Hebble_Navigation%2C_Brighouse_-_geograph.org.uk_-_7059026.jpg/500px-Ganny_Bridge_and_Ganny_Lock%2C_Calder_and_Hebble_Navigation%2C_Brighouse_-_geograph.org.uk_-_7059026.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+              "thumbwidth": 400,
+              "thumbheight": 300,
+              "responsiveUrls": {
+                "2": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/79/Ganny_Bridge_and_Ganny_Lock%2C_Calder_and_Hebble_Navigation%2C_Brighouse_-_geograph.org.uk_-_7059026.jpg/960px-Ganny_Bridge_and_Ganny_Lock%2C_Calder_and_Hebble_Navigation%2C_Brighouse_-_geograph.org.uk_-_7059026.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+              },
+              "thumbattribs": {
+                "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/79/Ganny_Bridge_and_Ganny_Lock%2C_Calder_and_Hebble_Navigation%2C_Brighouse_-_geograph.org.uk_-_7059026.jpg/500px-Ganny_Bridge_and_Ganny_Lock%2C_Calder_and_Hebble_Navigation%2C_Brighouse_-_geograph.org.uk_-_7059026.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+                "decoding": "async",
+                "loading": "lazy",
+                "width": 400,
+                "height": 300,
+                "srcset": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/79/Ganny_Bridge_and_Ganny_Lock%2C_Calder_and_Hebble_Navigation%2C_Brighouse_-_geograph.org.uk_-_7059026.jpg/960px-Ganny_Bridge_and_Ganny_Lock%2C_Calder_and_Hebble_Navigation%2C_Brighouse_-_geograph.org.uk_-_7059026.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail 2x"
+              },
+              "url": "https://upload.wikimedia.org/wikipedia/commons/7/79/Ganny_Bridge_and_Ganny_Lock%2C_Calder_and_Hebble_Navigation%2C_Brighouse_-_geograph.org.uk_-_7059026.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+              "descriptionurl": "https://commons.wikimedia.org/wiki/File:Ganny_Bridge_and_Ganny_Lock,_Calder_and_Hebble_Navigation,_Brighouse_-_geograph.org.uk_-_7059026.jpg",
+              "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=156475087",
+              "extmetadata": {
+                "DateTime": {
+                  "value": "2024-12-09 17:46:48",
+                  "source": "mediawiki-metadata",
+                  "hidden": ""
+                },
+                "ObjectName": {
+                  "value": "Ganny Bridge and Ganny Lock, Calder and Hebble Navigation, Brighouse - geograph.org.uk - 7059026",
+                  "source": "mediawiki-metadata"
+                },
+                "CommonsMetadataExtension": {
+                  "value": 1.2,
+                  "source": "extension",
+                  "hidden": ""
+                },
+                "Categories": {
+                  "value": "Images from Geograph Britain and Ireland|Ganny Lock|Ganny Bridge",
+                  "source": "commons-categories",
+                  "hidden": ""
+                },
+                "Assessments": {
+                  "value": "",
+                  "source": "commons-categories",
+                  "hidden": ""
+                },
+                "GPSLatitude": {
+                  "value": "53.702256",
+                  "source": "commons-desc-page"
+                },
+                "GPSLongitude": {
+                  "value": "-1.789415",
+                  "source": "commons-desc-page"
+                },
+                "GPSMapDatum": {
+                  "value": "WGS-84",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "ImageDescription": {
+                  "value": "Ganny Bridge and Ganny Lock, Calder and Hebble Navigation, Brighouse <span class=\"mw-valign-text-top noprint\" typeof=\"mw:File/Frameless\"><a href=\"//commons.wikimedia.org/wiki/File:Ganny_Bridge_and_Ganny_Lock,_Calder_and_Hebble_Navigation,_Brighouse_-_geograph.org.uk_-_7059026.jpg#ooui-php-4\" title=\"Edit this at Structured Data on Commons\"><img alt=\"Edit this at Structured Data on Commons\" src=\"https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8a/OOjs_UI_icon_edit-ltr-progressive.svg/20px-OOjs_UI_icon_edit-ltr-progressive.svg.png?utm_source=commons.wikimedia.org&amp;utm_campaign=parser&amp;utm_content=thumbnail\" decoding=\"async\" loading=\"lazy\" width=\"10\" height=\"10\" class=\"mw-file-element\" data-file-width=\"20\" data-file-height=\"20\"></a></span>",
+                  "source": "commons-desc-page"
+                },
+                "DateTimeOriginal": {
+                  "value": "2022-01-02",
+                  "source": "commons-desc-page"
+                },
+                "Credit": {
+                  "value": "<a rel=\"nofollow\" class=\"external text\" href=\"https://www.geograph.org.uk/photo/7059026\">Geograph Britain and Ireland</a> <span class=\"mw-valign-text-top noprint\" typeof=\"mw:File/Frameless\"><a href=\"//commons.wikimedia.org/wiki/File:Ganny_Bridge_and_Ganny_Lock,_Calder_and_Hebble_Navigation,_Brighouse_-_geograph.org.uk_-_7059026.jpg#P7482\" title=\"Edit this at Structured Data on Commons\"><img alt=\"Edit this at Structured Data on Commons\" src=\"https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8a/OOjs_UI_icon_edit-ltr-progressive.svg/20px-OOjs_UI_icon_edit-ltr-progressive.svg.png?utm_source=commons.wikimedia.org&amp;utm_campaign=parser&amp;utm_content=thumbnail\" decoding=\"async\" loading=\"lazy\" width=\"10\" height=\"10\" class=\"mw-file-element\" data-file-width=\"20\" data-file-height=\"20\"></a></span>",
+                  "source": "commons-desc-page"
+                },
+                "Artist": {
+                  "value": "<a rel=\"nofollow\" class=\"external text\" href=\"https://www.geograph.org.uk/profile/127703\">habiloid</a> <span class=\"mw-valign-text-top noprint\" typeof=\"mw:File/Frameless\"><a href=\"//commons.wikimedia.org/wiki/File:Ganny_Bridge_and_Ganny_Lock,_Calder_and_Hebble_Navigation,_Brighouse_-_geograph.org.uk_-_7059026.jpg#P170\" title=\"Edit this at Structured Data on Commons\"><img alt=\"Edit this at Structured Data on Commons\" src=\"https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8a/OOjs_UI_icon_edit-ltr-progressive.svg/20px-OOjs_UI_icon_edit-ltr-progressive.svg.png?utm_source=commons.wikimedia.org&amp;utm_campaign=parser&amp;utm_content=thumbnail\" decoding=\"async\" loading=\"lazy\" width=\"10\" height=\"10\" class=\"mw-file-element\" data-file-width=\"20\" data-file-height=\"20\"></a></span>",
+                  "source": "commons-desc-page"
+                },
+                "LicenseShortName": {
+                  "value": "CC BY-SA 2.0",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "UsageTerms": {
+                  "value": "Creative Commons Attribution-Share Alike 2.0",
+                  "source": "commons-desc-page"
+                },
+                "AttributionRequired": {
+                  "value": "true",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "Attribution": {
+                  "value": "<i>Ganny Bridge and Ganny Lock, Calder and Hebble Navigation, Brighouse</i> by habiloid",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "LicenseUrl": {
+                  "value": "https://creativecommons.org/licenses/by-sa/2.0",
+                  "source": "commons-desc-page"
+                },
+                "Copyrighted": {
+                  "value": "True",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "Restrictions": {
+                  "value": "",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "License": {
+                  "value": "cc-by-sa-2.0",
+                  "source": "commons-templates",
+                  "hidden": ""
+                }
+              }
+            }
+          ]
+        },
+        {
+          "pageid": 156475106,
+          "ns": 6,
+          "title": "File:Ganny Lock, Calder and Hebble Navigation seen from Ganny Bridge, Brighouse - geograph.org.uk - 7059030.jpg",
+          "index": 4,
+          "imagerepository": "local",
+          "imageinfo": [
+            {
+              "size": 2810783,
+              "width": 2000,
+              "height": 1312,
+              "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e5/Ganny_Lock%2C_Calder_and_Hebble_Navigation_seen_from_Ganny_Bridge%2C_Brighouse_-_geograph.org.uk_-_7059030.jpg/500px-Ganny_Lock%2C_Calder_and_Hebble_Navigation_seen_from_Ganny_Bridge%2C_Brighouse_-_geograph.org.uk_-_7059030.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+              "thumbwidth": 400,
+              "thumbheight": 262,
+              "responsiveUrls": {
+                "2": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e5/Ganny_Lock%2C_Calder_and_Hebble_Navigation_seen_from_Ganny_Bridge%2C_Brighouse_-_geograph.org.uk_-_7059030.jpg/960px-Ganny_Lock%2C_Calder_and_Hebble_Navigation_seen_from_Ganny_Bridge%2C_Brighouse_-_geograph.org.uk_-_7059030.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+              },
+              "thumbattribs": {
+                "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e5/Ganny_Lock%2C_Calder_and_Hebble_Navigation_seen_from_Ganny_Bridge%2C_Brighouse_-_geograph.org.uk_-_7059030.jpg/500px-Ganny_Lock%2C_Calder_and_Hebble_Navigation_seen_from_Ganny_Bridge%2C_Brighouse_-_geograph.org.uk_-_7059030.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+                "decoding": "async",
+                "loading": "lazy",
+                "width": 400,
+                "height": 262,
+                "srcset": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e5/Ganny_Lock%2C_Calder_and_Hebble_Navigation_seen_from_Ganny_Bridge%2C_Brighouse_-_geograph.org.uk_-_7059030.jpg/960px-Ganny_Lock%2C_Calder_and_Hebble_Navigation_seen_from_Ganny_Bridge%2C_Brighouse_-_geograph.org.uk_-_7059030.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail 2x"
+              },
+              "url": "https://upload.wikimedia.org/wikipedia/commons/e/e5/Ganny_Lock%2C_Calder_and_Hebble_Navigation_seen_from_Ganny_Bridge%2C_Brighouse_-_geograph.org.uk_-_7059030.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+              "descriptionurl": "https://commons.wikimedia.org/wiki/File:Ganny_Lock,_Calder_and_Hebble_Navigation_seen_from_Ganny_Bridge,_Brighouse_-_geograph.org.uk_-_7059030.jpg",
+              "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=156475106",
+              "extmetadata": {
+                "DateTime": {
+                  "value": "2024-12-09 17:47:31",
+                  "source": "mediawiki-metadata",
+                  "hidden": ""
+                },
+                "ObjectName": {
+                  "value": "Ganny Lock, Calder and Hebble Navigation seen from Ganny Bridge, Brighouse - geograph.org.uk - 7059030",
+                  "source": "mediawiki-metadata"
+                },
+                "CommonsMetadataExtension": {
+                  "value": 1.2,
+                  "source": "extension",
+                  "hidden": ""
+                },
+                "Categories": {
+                  "value": "Images from Geograph Britain and Ireland|Ganny Lock",
+                  "source": "commons-categories",
+                  "hidden": ""
+                },
+                "Assessments": {
+                  "value": "",
+                  "source": "commons-categories",
+                  "hidden": ""
+                },
+                "GPSLatitude": {
+                  "value": "53.702303",
+                  "source": "commons-desc-page"
+                },
+                "GPSLongitude": {
+                  "value": "-1.789627",
+                  "source": "commons-desc-page"
+                },
+                "GPSMapDatum": {
+                  "value": "WGS-84",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "ImageDescription": {
+                  "value": "Ganny Lock, Calder and Hebble Navigation seen from Ganny Bridge, Brighouse <span class=\"mw-valign-text-top noprint\" typeof=\"mw:File/Frameless\"><a href=\"//commons.wikimedia.org/wiki/File:Ganny_Lock,_Calder_and_Hebble_Navigation_seen_from_Ganny_Bridge,_Brighouse_-_geograph.org.uk_-_7059030.jpg#ooui-php-4\" title=\"Edit this at Structured Data on Commons\"><img alt=\"Edit this at Structured Data on Commons\" src=\"https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8a/OOjs_UI_icon_edit-ltr-progressive.svg/20px-OOjs_UI_icon_edit-ltr-progressive.svg.png?utm_source=commons.wikimedia.org&amp;utm_campaign=parser&amp;utm_content=thumbnail\" decoding=\"async\" loading=\"lazy\" width=\"10\" height=\"10\" class=\"mw-file-element\" data-file-width=\"20\" data-file-height=\"20\"></a></span>",
+                  "source": "commons-desc-page"
+                },
+                "DateTimeOriginal": {
+                  "value": "2022-01-02",
+                  "source": "commons-desc-page"
+                },
+                "Credit": {
+                  "value": "<a rel=\"nofollow\" class=\"external text\" href=\"https://www.geograph.org.uk/photo/7059030\">Geograph Britain and Ireland</a> <span class=\"mw-valign-text-top noprint\" typeof=\"mw:File/Frameless\"><a href=\"//commons.wikimedia.org/wiki/File:Ganny_Lock,_Calder_and_Hebble_Navigation_seen_from_Ganny_Bridge,_Brighouse_-_geograph.org.uk_-_7059030.jpg#P7482\" title=\"Edit this at Structured Data on Commons\"><img alt=\"Edit this at Structured Data on Commons\" src=\"https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8a/OOjs_UI_icon_edit-ltr-progressive.svg/20px-OOjs_UI_icon_edit-ltr-progressive.svg.png?utm_source=commons.wikimedia.org&amp;utm_campaign=parser&amp;utm_content=thumbnail\" decoding=\"async\" loading=\"lazy\" width=\"10\" height=\"10\" class=\"mw-file-element\" data-file-width=\"20\" data-file-height=\"20\"></a></span>",
+                  "source": "commons-desc-page"
+                },
+                "Artist": {
+                  "value": "<a rel=\"nofollow\" class=\"external text\" href=\"https://www.geograph.org.uk/profile/127703\">habiloid</a> <span class=\"mw-valign-text-top noprint\" typeof=\"mw:File/Frameless\"><a href=\"//commons.wikimedia.org/wiki/File:Ganny_Lock,_Calder_and_Hebble_Navigation_seen_from_Ganny_Bridge,_Brighouse_-_geograph.org.uk_-_7059030.jpg#P170\" title=\"Edit this at Structured Data on Commons\"><img alt=\"Edit this at Structured Data on Commons\" src=\"https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8a/OOjs_UI_icon_edit-ltr-progressive.svg/20px-OOjs_UI_icon_edit-ltr-progressive.svg.png?utm_source=commons.wikimedia.org&amp;utm_campaign=parser&amp;utm_content=thumbnail\" decoding=\"async\" loading=\"lazy\" width=\"10\" height=\"10\" class=\"mw-file-element\" data-file-width=\"20\" data-file-height=\"20\"></a></span>",
+                  "source": "commons-desc-page"
+                },
+                "LicenseShortName": {
+                  "value": "CC BY-SA 2.0",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "UsageTerms": {
+                  "value": "Creative Commons Attribution-Share Alike 2.0",
+                  "source": "commons-desc-page"
+                },
+                "AttributionRequired": {
+                  "value": "true",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "Attribution": {
+                  "value": "<i>Ganny Lock, Calder and Hebble Navigation seen from Ganny Bridge, Brighouse</i> by habiloid",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "LicenseUrl": {
+                  "value": "https://creativecommons.org/licenses/by-sa/2.0",
+                  "source": "commons-desc-page"
+                },
+                "Copyrighted": {
+                  "value": "True",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "Restrictions": {
+                  "value": "",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "License": {
+                  "value": "cc-by-sa-2.0",
+                  "source": "commons-templates",
+                  "hidden": ""
+                }
+              }
+            }
+          ]
+        },
+        {
+          "pageid": 189659325,
+          "ns": 6,
+          "title": "File:Ganny Lock - geograph.org.uk - 8272666.jpg",
+          "index": 3,
+          "imagerepository": "local",
+          "imageinfo": [
+            {
+              "size": 353664,
+              "width": 683,
+              "height": 1024,
+              "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/86/Ganny_Lock_-_geograph.org.uk_-_8272666.jpg/500px-Ganny_Lock_-_geograph.org.uk_-_8272666.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+              "thumbwidth": 400,
+              "thumbheight": 600,
+              "responsiveUrls": {
+                "2": "https://upload.wikimedia.org/wikipedia/commons/8/86/Ganny_Lock_-_geograph.org.uk_-_8272666.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled"
+              },
+              "thumbattribs": {
+                "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/86/Ganny_Lock_-_geograph.org.uk_-_8272666.jpg/500px-Ganny_Lock_-_geograph.org.uk_-_8272666.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+                "decoding": "async",
+                "loading": "lazy",
+                "width": 400,
+                "height": 600,
+                "srcset": "https://upload.wikimedia.org/wikipedia/commons/8/86/Ganny_Lock_-_geograph.org.uk_-_8272666.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled 2x"
+              },
+              "url": "https://upload.wikimedia.org/wikipedia/commons/8/86/Ganny_Lock_-_geograph.org.uk_-_8272666.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+              "descriptionurl": "https://commons.wikimedia.org/wiki/File:Ganny_Lock_-_geograph.org.uk_-_8272666.jpg",
+              "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=189659325",
+              "extmetadata": {
+                "DateTime": {
+                  "value": "2026-04-18 22:58:15",
+                  "source": "mediawiki-metadata",
+                  "hidden": ""
+                },
+                "ObjectName": {
+                  "value": "Ganny Lock - geograph.org.uk - 8272666",
+                  "source": "mediawiki-metadata"
+                },
+                "CommonsMetadataExtension": {
+                  "value": 1.2,
+                  "source": "extension",
+                  "hidden": ""
+                },
+                "Categories": {
+                  "value": "Images from Geograph Britain and Ireland|Images by DS Pugh|Ganny Lock|England photographs taken on 2026-03-14|March 2026 in the Metropolitan Borough of Calderdale",
+                  "source": "commons-categories",
+                  "hidden": ""
+                },
+                "Assessments": {
+                  "value": "",
+                  "source": "commons-categories",
+                  "hidden": ""
+                },
+                "GPSLatitude": {
+                  "value": "53.702349",
+                  "source": "commons-desc-page"
+                },
+                "GPSLongitude": {
+                  "value": "-1.789717",
+                  "source": "commons-desc-page"
+                },
+                "GPSMapDatum": {
+                  "value": "WGS-84",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "ImageDescription": {
+                  "value": "Ganny Lock <span class=\"mw-valign-text-top noprint\" typeof=\"mw:File/Frameless\"><a href=\"//commons.wikimedia.org/wiki/File:Ganny_Lock_-_geograph.org.uk_-_8272666.jpg#ooui-php-4\" title=\"Edit this at Structured Data on Commons\"><img alt=\"Edit this at Structured Data on Commons\" src=\"https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8a/OOjs_UI_icon_edit-ltr-progressive.svg/20px-OOjs_UI_icon_edit-ltr-progressive.svg.png?utm_source=commons.wikimedia.org&amp;utm_campaign=parser&amp;utm_content=thumbnail\" decoding=\"async\" loading=\"lazy\" width=\"10\" height=\"10\" class=\"mw-file-element\" data-file-width=\"20\" data-file-height=\"20\"></a></span>",
+                  "source": "commons-desc-page"
+                },
+                "DateTimeOriginal": {
+                  "value": "2026-03-14",
+                  "source": "commons-desc-page"
+                },
+                "Credit": {
+                  "value": "<a rel=\"nofollow\" class=\"external text\" href=\"https://www.geograph.org.uk/photo/8272666\">Geograph Britain and Ireland</a> <span class=\"mw-valign-text-top noprint\" typeof=\"mw:File/Frameless\"><a href=\"//commons.wikimedia.org/wiki/File:Ganny_Lock_-_geograph.org.uk_-_8272666.jpg#P7482\" title=\"Edit this at Structured Data on Commons\"><img alt=\"Edit this at Structured Data on Commons\" src=\"https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8a/OOjs_UI_icon_edit-ltr-progressive.svg/20px-OOjs_UI_icon_edit-ltr-progressive.svg.png?utm_source=commons.wikimedia.org&amp;utm_campaign=parser&amp;utm_content=thumbnail\" decoding=\"async\" loading=\"lazy\" width=\"10\" height=\"10\" class=\"mw-file-element\" data-file-width=\"20\" data-file-height=\"20\"></a></span>",
+                  "source": "commons-desc-page"
+                },
+                "Artist": {
+                  "value": "<a rel=\"nofollow\" class=\"external text\" href=\"https://www.geograph.org.uk/profile/1469\">DS Pugh</a> <span class=\"mw-valign-text-top noprint\" typeof=\"mw:File/Frameless\"><a href=\"//commons.wikimedia.org/wiki/File:Ganny_Lock_-_geograph.org.uk_-_8272666.jpg#P170\" title=\"Edit this at Structured Data on Commons\"><img alt=\"Edit this at Structured Data on Commons\" src=\"https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8a/OOjs_UI_icon_edit-ltr-progressive.svg/20px-OOjs_UI_icon_edit-ltr-progressive.svg.png?utm_source=commons.wikimedia.org&amp;utm_campaign=parser&amp;utm_content=thumbnail\" decoding=\"async\" loading=\"lazy\" width=\"10\" height=\"10\" class=\"mw-file-element\" data-file-width=\"20\" data-file-height=\"20\"></a></span>",
+                  "source": "commons-desc-page"
+                },
+                "LicenseShortName": {
+                  "value": "CC BY-SA 2.0",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "UsageTerms": {
+                  "value": "Creative Commons Attribution-Share Alike 2.0",
+                  "source": "commons-desc-page"
+                },
+                "AttributionRequired": {
+                  "value": "true",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "Attribution": {
+                  "value": "<i>Ganny Lock</i> by DS Pugh",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "LicenseUrl": {
+                  "value": "https://creativecommons.org/licenses/by-sa/2.0",
+                  "source": "commons-desc-page"
+                },
+                "Copyrighted": {
+                  "value": "True",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "Restrictions": {
+                  "value": "",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "License": {
+                  "value": "cc-by-sa-2.0",
+                  "source": "commons-templates",
+                  "hidden": ""
+                }
+              }
+            }
+          ]
+        }
+      ]
+    }
+  }
+}

@@ -1,29 +1,60 @@
-# Gibbon — The opening emperors
+# Gibbon — Flashcards for Volumes I–II
 
-Flashcards for Edward Gibbon's *The Decline and Fall of the Roman Empire*, edited and abridged by Hans-Friedrich Mueller (Modern Library; eISBN 978-0-307-41976-7).
+Markdown flashcards for Edward Gibbon’s *The Decline and Fall of the Roman Empire*, edited and abridged by Hans-Friedrich Mueller (Modern Library, 2003; eISBN 978-0-307-41976-7).
 
-This first batch follows **Nerva → Trajan → Hadrian → Antoninus Pius → Marcus Aurelius**, with Lucius Verus included where he belongs in Marcus's accession. It covers Chapters I–III and the opening assessment of Marcus in Chapter IV. It stops before the narrative of Commodus's reign.
+The collection covers **Chapters I–XXVI**, the first two volumes as marked in this edition: the empire of the Antonines, the third-century crisis, Constantine and Christianity, Julian, Adrianople, and **Theodosius’s Gothic settlement of 382**. It follows the supplied abridgment; it does not reconstruct every passage omitted from the unabridged work.
+
+**Status: packaged for Anki at the reader’s request on 26 September 2026.** All 277 original cards have been reviewed. The revision merges nine repeated cards, adds 13 cards for missing connections and memorable passages, and brings the collection to **281 cards with 157 checked Gibbon quotation fields**. All **32 literary highlights** appear on linked cards. The Anki package contains all 281 cards in two volume subdecks.
 
 ## Study files
 
-- [Readable, editable cards](01-opening-emperors.md)
-- [Historical notes and decisions](sources/editorial-notes.md)
-- [Passages from your edition](sources/mueller-opening.md)
+| File | Coverage | Cards |
+| --- | --- | ---: |
+| [Narrative connections](00-narrative-connections.md) | Five sequences and comparisons across the volumes | 5 |
+| [Opening emperors](01-opening-emperors.md) | Nerva through Marcus Aurelius; I–III and the opening of IV | 37 |
+| [Empire and constitution](01b-empire-and-constitution.md) | Army, citizenship, public works, and Augustus; I–III | 18 |
+| [Commodus to Gallienus](02-commodus-to-gallienus.md) | IV–X; Gallienus’s death from XI | 67 |
+| [Restoration and Christianity](03-restoration-and-christianity.md) | Claudius, Aurelian, Tetrarchy, Constantine, early Christianity; XI–XVI | 68 |
+| [Constantine to the Gothic settlement](04-constantine-to-adrianople.md) | XVII–XXVI; Volume II | 86 |
+| **Total** | **Volumes I–II** | **281** |
 
-**Status: review draft. No Anki package has been created.** The reader asked to review the cards before packaging. The draft has 40 questions: Nerva 4, Trajan 7, Hadrian 7, Antoninus Pius 6, Marcus Aurelius 8, and 8 connecting questions. Counts remain open to revision.
+Read the files in this order. Numbering restarts in each file, so feedback can identify the file and card number. Stable hidden IDs preserve each card’s identity through later revisions.
+
+[**Literary highlights: 32 passages, each linked to its card**](LITERARY-HIGHLIGHTS.md) collects the most memorable selected prose with context and source links. The [timeline and regional guide](ORIENTATION.md) provides a reference for the whole narrative.
 
 ## What counts as a correct answer
 
-Recall the substance of the **Answer**, including a year when the question asks for one. Exact literary wording is never required. **More** preserves useful names, numbers, anecdotes, or qualifications without making every detail another examination. **Gibbon** contains his actual words; unquoted prose is newly written, sometimes in his cadence. An attributed ancient anecdote is a report to remember, not a fact whose authenticity the deck guarantees.
+Recall the substance of **A**, including a year when the question asks for one. Exact literary wording is never required. **More** holds worthwhile historical colour. **Gibbon** gives his actual words; unquoted connecting prose is newly written. Speeches and anecdotes are identified as reports where appropriate, and Gibbon’s interpretations are distinguished from factual claims.
 
-Dates use AD throughout. Adoption, nomination as heir, joint rule, and sole accession are distinguished. A late Roman diagnosis is not treated as a modern medical finding.
+Dates are AD unless marked BC. Adoption, designation as heir, joint rule, and sole accession are kept distinct. Reigns continuing beyond the volume boundary are not extended into later volumes simply to supply a death card.
 
-## Card-making guidelines
+## Sources and review
 
-[CARD-GUIDELINES.md](CARD-GUIDELINES.md) is the working standard for coverage, brevity, literary style, source treatment, and review. Specific historical decisions remain in [editorial notes](sources/editorial-notes.md).
+Each card has source links. The supplied text is preserved with **L anchors**, which identify extraction lines rather than printed pages. Clear chronology errors are corrected in the answers; substantial uncertainty remains visible in the claim itself. Source comparisons and selection decisions are kept outside the study text.
 
-## Review before export
+- [Revision record: changes and verification](sources/revision-2026-09-26.md)
+- [Original card-by-card review](REVIEW-2026-09-26.md)
+- [Card guidelines](CARD-GUIDELINES.md)
+- [Settled reader decisions](sources/editorial-notes.md)
+- [Source files and review notes](sources/README.md)
+- [Opening companion review](sources/review-01b.md)
+- [Chapters IV–X review](sources/review-02.md)
+- [Chapters XI–XVI review and coverage map](sources/review-03.md)
+- [Chapters XVII–XXVI review and coverage map](sources/review-04.md)
 
-Edit `01-opening-emperors.md` or give feedback by card number. The questions, answers, and amount of extra material are all provisional. Keep the IDs when revising the same card so future exports can preserve its identity.
+Run `node scripts/check-cards.mjs` from this folder to check card structure, numbering, unique IDs, exact duplicate questions, preserved source anchors, quotation wording and brackets, retired IDs, and the presence of every literary highlight on its linked card. Historical accuracy and the quality of a question still require editorial reading; the checker does not replace that review.
 
-Anki export will follow review of the content. The original ebook is untouched.
+## Anki deck
+
+Open [Gibbon-Volumes-I-II.apkg](dist/Gibbon-Volumes-I-II.apkg) in Anki to import:
+
+- **Gibbon — Decline and Fall::Volume I** — 192 cards, Chapters I–XVI.
+- **Gibbon — Decline and Fall::Volume II** — 89 cards, Chapters XVII–XXVI.
+
+Connection cards go in the volume where their narrative concludes. The church-power connection spans both volumes and belongs in Volume II. Each note generates one forward card. Stable note IDs support later updates without creating a new identity for each card.
+
+The existing layout includes 157 quotation fields and 90 bundled portraits, selected from people explicitly named in questions and answers. Pictures appear only after revealing the answer, with identity qualifications and source credits. The mapping is recorded in [the build report](dist/anki-build-report.json). It is intentionally selective; not every person has a picture. Local source links become readable edition, chapter, and extraction-line citations; external links remain clickable. The ebook and full source text are not bundled.
+
+To rebuild, create a Python virtual environment, install `scripts/requirements-anki.txt`, run `node scripts/check-cards.mjs`, then run `python scripts/build_anki.py`. The generated package and report are in the ignored `dist/` folder.
+
+Validation checks card counts, unique note identities, volume assignments, required fields, media references and bytes, ZIP integrity, and SQLite integrity. Native Anki Desktop/mobile import and rendering have not been tested. The original ebook is untouched.

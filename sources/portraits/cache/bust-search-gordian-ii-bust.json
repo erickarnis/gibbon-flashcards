@@ -1,0 +1,531 @@
+{
+  "batchcomplete": true,
+  "continue": {
+    "gsroffset": 5,
+    "continue": "gsroffset||"
+  },
+  "query": {
+    "pages": [
+      {
+        "pageid": 380114,
+        "ns": 6,
+        "title": "File:Sestertius Gordian II-RIC 0008.jpg",
+        "index": 3,
+        "imagerepository": "local",
+        "imageinfo": [
+          {
+            "size": 57355,
+            "width": 500,
+            "height": 235,
+            "thumburl": "https://upload.wikimedia.org/wikipedia/commons/3/3f/Sestertius_Gordian_II-RIC_0008.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+            "thumbwidth": 960,
+            "thumbheight": 451,
+            "thumbattribs": {
+              "src": "https://upload.wikimedia.org/wikipedia/commons/3/3f/Sestertius_Gordian_II-RIC_0008.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+              "decoding": "async",
+              "loading": "lazy",
+              "width": 960,
+              "height": 451
+            },
+            "url": "https://upload.wikimedia.org/wikipedia/commons/3/3f/Sestertius_Gordian_II-RIC_0008.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:Sestertius_Gordian_II-RIC_0008.jpg",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=380114",
+            "extmetadata": {
+              "DateTime": {
+                "value": "2005-10-20 23:28:06",
+                "source": "mediawiki-metadata",
+                "hidden": ""
+              },
+              "ObjectName": {
+                "value": "Sestertius Gordian II-RIC 0008",
+                "source": "mediawiki-metadata"
+              },
+              "CommonsMetadataExtension": {
+                "value": 1.2,
+                "source": "extension",
+                "hidden": ""
+              },
+              "Categories": {
+                "value": "GFDL|Files with no machine-readable author|Files with no machine-readable source|License migration completed|Media missing infobox template|Self-published work|CNG coins|Items with VRTS permission confirmed|Files with derivative versions|Coins on white background|Media missing infobox template (personal templates)|Coins of Gordianus II|Both sides of sestertii",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "Assessments": {
+                "value": "",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "LicenseShortName": {
+                "value": "CC BY-SA 3.0",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "UsageTerms": {
+                "value": "Creative Commons Attribution-Share Alike 3.0",
+                "source": "commons-desc-page"
+              },
+              "AttributionRequired": {
+                "value": "true",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Attribution": {
+                "value": "Classical Numismatic Group, Inc. <a rel=\"nofollow\" class=\"external free\" href=\"http://www.cngcoins.com\">http://www.cngcoins.com</a>",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "LicenseUrl": {
+                "value": "http://creativecommons.org/licenses/by-sa/3.0/",
+                "source": "commons-desc-page"
+              },
+              "Copyrighted": {
+                "value": "True",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Restrictions": {
+                "value": "",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "License": {
+                "value": "cc-by-sa-3.0",
+                "source": "commons-templates",
+                "hidden": ""
+              }
+            }
+          }
+        ]
+      },
+      {
+        "pageid": 26328474,
+        "ns": 6,
+        "title": "File:Sestertius Gordian II-RIC 0008 (obverse).jpg",
+        "index": 2,
+        "imagerepository": "local",
+        "imageinfo": [
+          {
+            "size": 37050,
+            "width": 235,
+            "height": 235,
+            "thumburl": "https://upload.wikimedia.org/wikipedia/commons/5/51/Sestertius_Gordian_II-RIC_0008_%28obverse%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+            "thumbwidth": 960,
+            "thumbheight": 960,
+            "thumbattribs": {
+              "src": "https://upload.wikimedia.org/wikipedia/commons/5/51/Sestertius_Gordian_II-RIC_0008_%28obverse%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+              "decoding": "async",
+              "loading": "lazy",
+              "width": 960,
+              "height": 960
+            },
+            "url": "https://upload.wikimedia.org/wikipedia/commons/5/51/Sestertius_Gordian_II-RIC_0008_%28obverse%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:Sestertius_Gordian_II-RIC_0008_(obverse).jpg",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=26328474",
+            "extmetadata": {
+              "DateTime": {
+                "value": "2013-05-26 16:30:54",
+                "source": "mediawiki-metadata",
+                "hidden": ""
+              },
+              "ObjectName": {
+                "value": "Sestertius Gordian II-RIC 0008 (obverse)",
+                "source": "mediawiki-metadata"
+              },
+              "CommonsMetadataExtension": {
+                "value": 1.2,
+                "source": "extension",
+                "hidden": ""
+              },
+              "Categories": {
+                "value": "GFDL|Sestertius|Retouched pictures|Files with no machine-readable author|Files with no machine-readable source|License migration completed|Media missing infobox template|Self-published work|CNG coins|Items with VRTS permission confirmed|Extracted images|Coins on white background|Media missing infobox template (personal templates)|Coins of Gordianus II",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "Assessments": {
+                "value": "",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "LicenseShortName": {
+                "value": "CC BY-SA 3.0",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "UsageTerms": {
+                "value": "Creative Commons Attribution-Share Alike 3.0",
+                "source": "commons-desc-page"
+              },
+              "AttributionRequired": {
+                "value": "true",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Attribution": {
+                "value": "Classical Numismatic Group, Inc. <a rel=\"nofollow\" class=\"external free\" href=\"http://www.cngcoins.com\">http://www.cngcoins.com</a>",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "LicenseUrl": {
+                "value": "http://creativecommons.org/licenses/by-sa/3.0/",
+                "source": "commons-desc-page"
+              },
+              "Copyrighted": {
+                "value": "True",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Restrictions": {
+                "value": "",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "License": {
+                "value": "cc-by-sa-3.0",
+                "source": "commons-templates",
+                "hidden": ""
+              }
+            }
+          }
+        ]
+      },
+      {
+        "pageid": 55340398,
+        "ns": 6,
+        "title": "File:Roman Coin, As of Gordian II (probably a limes falsum) (FindID 583152).jpg",
+        "index": 4,
+        "imagerepository": "local",
+        "imageinfo": [
+          {
+            "size": 1658878,
+            "width": 2979,
+            "height": 1600,
+            "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6b/Roman_Coin%2C_As_of_Gordian_II_%28probably_a_limes_falsum%29_%28FindID_583152%29.jpg/960px-Roman_Coin%2C_As_of_Gordian_II_%28probably_a_limes_falsum%29_%28FindID_583152%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+            "thumbwidth": 960,
+            "thumbheight": 516,
+            "responsiveUrls": {
+              "2": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6b/Roman_Coin%2C_As_of_Gordian_II_%28probably_a_limes_falsum%29_%28FindID_583152%29.jpg/1920px-Roman_Coin%2C_As_of_Gordian_II_%28probably_a_limes_falsum%29_%28FindID_583152%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+            },
+            "thumbattribs": {
+              "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6b/Roman_Coin%2C_As_of_Gordian_II_%28probably_a_limes_falsum%29_%28FindID_583152%29.jpg/960px-Roman_Coin%2C_As_of_Gordian_II_%28probably_a_limes_falsum%29_%28FindID_583152%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+              "decoding": "async",
+              "loading": "lazy",
+              "width": 960,
+              "height": 516,
+              "srcset": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6b/Roman_Coin%2C_As_of_Gordian_II_%28probably_a_limes_falsum%29_%28FindID_583152%29.jpg/1920px-Roman_Coin%2C_As_of_Gordian_II_%28probably_a_limes_falsum%29_%28FindID_583152%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail 2x"
+            },
+            "url": "https://upload.wikimedia.org/wikipedia/commons/6/6b/Roman_Coin%2C_As_of_Gordian_II_%28probably_a_limes_falsum%29_%28FindID_583152%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:Roman_Coin,_As_of_Gordian_II_(probably_a_limes_falsum)_(FindID_583152).jpg",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=55340398",
+            "extmetadata": {
+              "DateTime": {
+                "value": "2017-01-25 11:32:34",
+                "source": "mediawiki-metadata",
+                "hidden": ""
+              },
+              "ObjectName": {
+                "value": "<div class=\"fn\">\nRoman Coin: As of Gordian II (probably a limes falsum)</div>",
+                "source": "commons-desc-page"
+              },
+              "CommonsMetadataExtension": {
+                "value": 1.2,
+                "source": "extension",
+                "hidden": ""
+              },
+              "Categories": {
+                "value": "Portable Antiquities Scheme|Images uploaded by Fæ|Portable Antiquities Scheme, IOW|Coins of Gordianus II|Photographs by Frank Basford",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "Assessments": {
+                "value": "",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "Artist": {
+                "value": "<div class=\"fn value\">\nThe Portable Antiquities Scheme, Frank Basford, 2013-10-29 17:15:14</div>",
+                "source": "commons-desc-page"
+              },
+              "ImageDescription": {
+                "value": "A complete and worn Roman copper-alloy as, probably a limes falsum, of Gordian III (AD 238-244) dating to the mid third century AD. Unclear reverse type depicting figure standing left. Mint uncertain.<p class=\"mw-empty-elt\"></p>\n<p>Obverse: IMP GORD[...]; Laureate, draped bust right</p>\n<p>Reverse: Figure standing left</p>\n<p>Diameter: 22.9mm. Weight: 7.68g. DA=12:12.</p>",
+                "source": "commons-desc-page"
+              },
+              "DateTimeOriginal": {
+                "value": "between 238 and 244",
+                "source": "commons-desc-page"
+              },
+              "Credit": {
+                "value": "<a rel=\"nofollow\" class=\"external free\" href=\"https://finds.org.uk/database/ajax/download/id/444206\">https://finds.org.uk/database/ajax/download/id/444206</a><br>Catalog: <a rel=\"nofollow\" class=\"external free\" href=\"https://finds.org.uk/database/images/image/id/444206/recordtype/artefacts\">https://finds.org.uk/database/images/image/id/444206/recordtype/artefacts</a><br>Artefact: <a rel=\"nofollow\" class=\"external free\" href=\"https://finds.org.uk/database/artefacts/record/id/583152\">https://finds.org.uk/database/artefacts/record/id/583152</a>",
+                "source": "commons-desc-page"
+              },
+              "Permission": {
+                "value": "Attribution-ShareAlike License version 4.0 (verified 30 November 2020)",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "LicenseShortName": {
+                "value": "CC BY-SA 4.0",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "UsageTerms": {
+                "value": "Creative Commons Attribution-Share Alike 4.0",
+                "source": "commons-desc-page"
+              },
+              "AttributionRequired": {
+                "value": "true",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Attribution": {
+                "value": "The Portable Antiquities Scheme/ The Trustees of the British Museum",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "LicenseUrl": {
+                "value": "https://creativecommons.org/licenses/by-sa/4.0",
+                "source": "commons-desc-page"
+              },
+              "Copyrighted": {
+                "value": "True",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Restrictions": {
+                "value": "",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "License": {
+                "value": "cc-by-sa-4.0",
+                "source": "commons-templates",
+                "hidden": ""
+              }
+            }
+          }
+        ]
+      },
+      {
+        "pageid": 148699135,
+        "ns": 6,
+        "title": "File:Aureus of Gordian III.jpg",
+        "index": 5,
+        "imagerepository": "local",
+        "imageinfo": [
+          {
+            "size": 232534,
+            "width": 1500,
+            "height": 745,
+            "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/31/Aureus_of_Gordian_III.jpg/960px-Aureus_of_Gordian_III.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+            "thumbwidth": 960,
+            "thumbheight": 477,
+            "responsiveUrls": {
+              "2": "https://upload.wikimedia.org/wikipedia/commons/3/31/Aureus_of_Gordian_III.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled"
+            },
+            "thumbattribs": {
+              "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/31/Aureus_of_Gordian_III.jpg/960px-Aureus_of_Gordian_III.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+              "decoding": "async",
+              "loading": "lazy",
+              "width": 960,
+              "height": 477,
+              "srcset": "https://upload.wikimedia.org/wikipedia/commons/3/31/Aureus_of_Gordian_III.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled 2x"
+            },
+            "url": "https://upload.wikimedia.org/wikipedia/commons/3/31/Aureus_of_Gordian_III.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:Aureus_of_Gordian_III.jpg",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=148699135",
+            "extmetadata": {
+              "DateTime": {
+                "value": "2024-05-25 06:00:24",
+                "source": "mediawiki-metadata",
+                "hidden": ""
+              },
+              "ObjectName": {
+                "value": "Aureus of Gordian III",
+                "source": "mediawiki-metadata"
+              },
+              "CommonsMetadataExtension": {
+                "value": 1.2,
+                "source": "extension",
+                "hidden": ""
+              },
+              "Categories": {
+                "value": "GFDL|License migration not eligible|Self-published work|CNG coins|Items with VRTS permission confirmed|Images with extracted images|Aurei of Gordianus III",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "Assessments": {
+                "value": "",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "ImageDescription": {
+                "value": "<b>Gordian III</b>. AD 238-244. AV Aureus (19mm, 4.80 g, 6h). Rome mint, 5th officina. Special emission, early AD 239. IMP CAES M ANT GORDIANVS AVG, laureate, draped, and cuirassed bust right / P M TR P II COS P P, Providentia standing left, holding globe and transverse scepter. RIC IV 23; Calicó 3213; Biaggi 1362. Good VF, some scratches.",
+                "source": "commons-desc-page"
+              },
+              "DateTimeOriginal": {
+                "value": "0239",
+                "source": "commons-desc-page"
+              },
+              "Credit": {
+                "value": "<a rel=\"nofollow\" class=\"external free\" href=\"https://www.numisbids.com/n.php?p=lot&amp;sid=2688&amp;lot=698\">https://www.numisbids.com/n.php?p=lot&amp;sid=2688&amp;lot=698</a>",
+                "source": "commons-desc-page"
+              },
+              "Artist": {
+                "value": "CNG",
+                "source": "commons-desc-page"
+              },
+              "LicenseShortName": {
+                "value": "CC BY-SA 2.5",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "UsageTerms": {
+                "value": "Creative Commons Attribution-Share Alike 2.5",
+                "source": "commons-desc-page"
+              },
+              "AttributionRequired": {
+                "value": "true",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Attribution": {
+                "value": "Classical Numismatic Group, Inc. <a rel=\"nofollow\" class=\"external free\" href=\"http://www.cngcoins.com\">http://www.cngcoins.com</a>",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "LicenseUrl": {
+                "value": "https://creativecommons.org/licenses/by-sa/2.5",
+                "source": "commons-desc-page"
+              },
+              "Copyrighted": {
+                "value": "True",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Restrictions": {
+                "value": "",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "License": {
+                "value": "cc-by-sa-2.5",
+                "source": "commons-templates",
+                "hidden": ""
+              }
+            }
+          }
+        ]
+      },
+      {
+        "pageid": 149650365,
+        "ns": 6,
+        "title": "File:Denarius of Gordian II.jpg",
+        "index": 1,
+        "imagerepository": "local",
+        "imageinfo": [
+          {
+            "size": 211045,
+            "width": 1500,
+            "height": 699,
+            "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5f/Denarius_of_Gordian_II.jpg/960px-Denarius_of_Gordian_II.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+            "thumbwidth": 960,
+            "thumbheight": 447,
+            "responsiveUrls": {
+              "2": "https://upload.wikimedia.org/wikipedia/commons/5/5f/Denarius_of_Gordian_II.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled"
+            },
+            "thumbattribs": {
+              "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5f/Denarius_of_Gordian_II.jpg/960px-Denarius_of_Gordian_II.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+              "decoding": "async",
+              "loading": "lazy",
+              "width": 960,
+              "height": 447,
+              "srcset": "https://upload.wikimedia.org/wikipedia/commons/5/5f/Denarius_of_Gordian_II.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled 2x"
+            },
+            "url": "https://upload.wikimedia.org/wikipedia/commons/5/5f/Denarius_of_Gordian_II.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:Denarius_of_Gordian_II.jpg",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=149650365",
+            "extmetadata": {
+              "DateTime": {
+                "value": "2024-06-23 16:35:32",
+                "source": "mediawiki-metadata",
+                "hidden": ""
+              },
+              "ObjectName": {
+                "value": "Denarius of Gordian II",
+                "source": "mediawiki-metadata"
+              },
+              "CommonsMetadataExtension": {
+                "value": 1.2,
+                "source": "extension",
+                "hidden": ""
+              },
+              "Categories": {
+                "value": "GFDL|License migration not eligible|Self-published work|CNG coins|Items with VRTS permission confirmed|Coins of Gordianus II",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "Assessments": {
+                "value": "",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "ImageDescription": {
+                "value": "<b>Gordian II. AD 238</b>. AR Denarius (20mm, 3.01 g, 11h). Rome mint. IMP M ANT GORDIANVS AFR AVG, laureate, draped, and cuirassed bust right / VICT ORIA AVGG, Victory advancing left, holding wreath in extended left hand and cradling palm frond in right arm. RIC IV 2; RSC 12; BMCRE 28. Near EF.",
+                "source": "commons-desc-page"
+              },
+              "DateTimeOriginal": {
+                "value": "0238",
+                "source": "commons-desc-page"
+              },
+              "Credit": {
+                "value": "<a rel=\"nofollow\" class=\"external free\" href=\"https://www.numisbids.com/n.php?p=lot&amp;sid=2688&amp;lot=692\">https://www.numisbids.com/n.php?p=lot&amp;sid=2688&amp;lot=692</a>",
+                "source": "commons-desc-page"
+              },
+              "Artist": {
+                "value": "cng",
+                "source": "commons-desc-page"
+              },
+              "LicenseShortName": {
+                "value": "CC BY-SA 2.5",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "UsageTerms": {
+                "value": "Creative Commons Attribution-Share Alike 2.5",
+                "source": "commons-desc-page"
+              },
+              "AttributionRequired": {
+                "value": "true",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Attribution": {
+                "value": "Classical Numismatic Group, Inc. <a rel=\"nofollow\" class=\"external free\" href=\"http://www.cngcoins.com\">http://www.cngcoins.com</a>",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "LicenseUrl": {
+                "value": "https://creativecommons.org/licenses/by-sa/2.5",
+                "source": "commons-desc-page"
+              },
+              "Copyrighted": {
+                "value": "True",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Restrictions": {
+                "value": "",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "License": {
+                "value": "cc-by-sa-2.5",
+                "source": "commons-templates",
+                "hidden": ""
+              }
+            }
+          }
+        ]
+      }
+    ]
+  }
+}
