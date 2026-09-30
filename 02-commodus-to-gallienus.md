@@ -24,9 +24,7 @@ Chapters IV–X, with Gallienus’s death from XI. All dates are AD.
 
 **Q:** How does Gibbon explain the growth of Commodus’s cruelty?
 
-**A:** A weak, fearful character surrendered to corrupt attendants; cruelty first obeyed others, then became a habit and finally a ruling passion.
-
-**Gibbon:** “His cruelty, which at first obeyed the dictates of others, degenerated into habit, and at length became the ruling passion of his soul.”
+**A:** “His cruelty, which at first obeyed the dictates of others, degenerated into habit, and at length became the ruling passion of his soul.”
 
 **Sources:** [Gibbon, Ch. IV, L763](sources/mueller-volumes-1-2.md#L763).
 
@@ -121,7 +119,6 @@ Chapters IV–X, with Gallienus’s death from XI. All dates are AD.
 
 ## Pertinax and the sale of the empire
 
-
 ### 10. Pertinax — an unexpected summons
 
 <!-- ID: gibbon-02-pertinax-accession -->
@@ -135,7 +132,6 @@ Chapters IV–X, with Gallienus’s death from XI. All dates are AD.
 
 **Sources:** [Gibbon, Ch. IV, L787](sources/mueller-volumes-1-2.md#L787); [Gibbon, Ch. IV, L789](sources/mueller-volumes-1-2.md#L789).
 
-
 ### 11. Pertinax — a poor republic
 
 <!-- ID: gibbon-02-pertinax-reform -->
@@ -143,14 +139,11 @@ Chapters IV–X, with Gallienus’s death from XI. All dates are AD.
 
 **Q:** What ideal of government does Gibbon illustrate through Pertinax’s reforms?
 
-**A:** **Justice and restraint before wealth**: he would govern a poor state honestly rather than fill its treasury by oppression.
+**A:** “he was better satisfied to administer a poor republic with innocence than to acquire riches by the ways of tyranny and dishonor.”
 
 **More:** He recalled innocent exiles, restored confiscated property, restrained informers, and removed oppressive taxes.
 
-**Gibbon:** “he was better satisfied to administer a poor republic with innocence than to acquire riches by the ways of tyranny and dishonor.”
-
 **Sources:** [Gibbon, Ch. IV, L797](sources/mueller-volumes-1-2.md#L797); [Gibbon, Ch. IV, L795](sources/mueller-volumes-1-2.md#L795).
-
 
 ### 12. Pertinax — virtue without protection
 
@@ -162,7 +155,6 @@ Chapters IV–X, with Gallienus’s death from XI. All dates are AD.
 **A:** In **193**, after a reign of about three months. They resented his efforts to restore discipline and end the licence of Commodus’s reign; he confronted the mutineers in person and was cut down. **Didius Julianus** followed.
 
 **Sources:** [Gibbon, Ch. IV, L801](sources/mueller-volumes-1-2.md#L801); [Gibbon, Ch. IV, L799](sources/mueller-volumes-1-2.md#L799); [Gibbon, Ch. V, L826](sources/mueller-volumes-1-2.md#L826).
-
 
 ### 13. Didius Julianus — the empire at auction
 
@@ -176,7 +168,6 @@ Chapters IV–X, with Gallienus’s death from XI. All dates are AD.
 **More:** Gibbon gives the winning offer as 6,250 drachmas to each soldier, against his rival’s 5,000.
 
 **Sources:** [Gibbon, Ch. V, L826](sources/mueller-volumes-1-2.md#L826); [Gibbon, Ch. V, L828](sources/mueller-volumes-1-2.md#L828).
-
 
 ### 14. Didius Julianus — a purchased throne
 
@@ -213,7 +204,6 @@ Chapters IV–X, with Gallienus’s death from XI. All dates are AD.
 
 **Sources:** [Gibbon, Ch. V, L836](sources/mueller-volumes-1-2.md#L836); [Gibbon, Ch. V, L834](sources/mueller-volumes-1-2.md#L834).
 
-
 ### 17. Severus — disarming the guard
 
 <!-- ID: gibbon-02-severus-guards -->
@@ -243,9 +233,7 @@ Chapters IV–X, with Gallienus’s death from XI. All dates are AD.
 
 **Q:** How does Gibbon explain the coexistence of Septimius Severus’s despotism and effective government?
 
-**A:** Once secure, he protected and improved the empire as an owner tends valuable property. Firm justice and prosperity could serve a despot’s interest without requiring humanity.
-
-**Gibbon:** “Severus considered the Roman empire as his property, and had no sooner secured the possession than he bestowed his care on the cultivation and improvement of so valuable an acquisition.”
+**A:** “Severus considered the Roman empire as his property, and had no sooner secured the possession than he bestowed his care on the cultivation and improvement of so valuable an acquisition.”
 
 **Sources:** [Gibbon, Ch. V, L858](sources/mueller-volumes-1-2.md#L858).
 
@@ -262,7 +250,6 @@ Chapters IV–X, with Gallienus’s death from XI. All dates are AD.
 
 **Sources:** [Gibbon, Ch. V, L860](sources/mueller-volumes-1-2.md#L860); [Gibbon, Ch. V, L864](sources/mueller-volumes-1-2.md#L864).
 
-
 ### 21. Severus — the disappointment of greatness
 
 <!-- ID: gibbon-02-severus-satisfaction -->
@@ -270,9 +257,9 @@ Chapters IV–X, with Gallienus’s death from XI. All dates are AD.
 
 **Q:** What disappointment does Gibbon find at the summit of Septimius Severus’s ambition?
 
-**A:** Acquiring power exercised his abilities; possessing it brought anxiety, age, and satiety. The remaining ambition was to perpetuate his family’s rule.
+**A:** “The ascent to greatness, however steep and dangerous, may entertain an active spirit with the consciousness and exercise of its own powers: but the possession of a throne could never yet afford a lasting satisfaction to an ambitious mind.”
 
-**Gibbon:** “The ascent to greatness, however steep and dangerous, may entertain an active spirit with the consciousness and exercise of its own powers: but the possession of a throne could never yet afford a lasting satisfaction to an ambitious mind.”
+**More:** His remaining ambition was to perpetuate his family’s rule.
 
 **Sources:** [Gibbon, Ch. VI, L883](sources/mueller-volumes-1-2.md#L883).
 
@@ -313,7 +300,6 @@ Chapters IV–X, with Gallienus’s death from XI. All dates are AD.
 
 **Sources:** [Gibbon, Ch. VI, L943](sources/mueller-volumes-1-2.md#L943); [Gibbon, Ch. VI, L957](sources/mueller-volumes-1-2.md#L957); [Myles Lavan: The Spread of Roman Citizenship, 14–212 CE](https://research-repository.st-andrews.ac.uk/bitstream/10023/12646/1/Lavan_2016_PandP_SpreadRomanCitizenship_RevisedAAM.pdf).
 
-
 ### 25. Caracalla — one dangerous maxim
 
 <!-- ID: gibbon-02-caracalla-army -->
@@ -321,9 +307,7 @@ Chapters IV–X, with Gallienus’s death from XI. All dates are AD.
 
 **Q:** What political maxim did Caracalla retain from his father, Septimius Severus, in Gibbon’s account?
 
-**A:** **Secure the army’s affection and treat the rest of the subjects as secondary.** Greater pay and gifts purchased military support at the expense of the empire.
-
-**Gibbon:** “To secure the affections of the army, and to esteem the rest of his subjects as of little moment.”
+**A:** “To secure the affections of the army, and to esteem the rest of his subjects as of little moment.”
 
 **Sources:** [Gibbon, Ch. VI, L903](sources/mueller-volumes-1-2.md#L903).
 
@@ -364,7 +348,6 @@ Chapters IV–X, with Gallienus’s death from XI. All dates are AD.
 
 **Sources:** [Gibbon, Ch. VI, L911](sources/mueller-volumes-1-2.md#L911); [Gibbon, Ch. VI, L913](sources/mueller-volumes-1-2.md#L913).
 
-
 ### 29. Elagabalus — the god from Emesa
 
 <!-- ID: gibbon-02-elagabalus-stone -->
@@ -386,7 +369,6 @@ Chapters IV–X, with Gallienus’s death from XI. All dates are AD.
 **A:** **Alexander, Elagabalus’s cousin and adopted heir**, gained the troops’ affection; Elagabalus grew jealous and endangered him. In **222**, the Praetorians murdered **Elagabalus and his mother**, and Alexander became emperor.
 
 **Sources:** [Gibbon, Ch. VI, L927](sources/mueller-volumes-1-2.md#L927); [Gibbon, Ch. VI, L925](sources/mueller-volumes-1-2.md#L925).
-
 
 ### 31. Alexander Severus — power behind the throne
 
@@ -425,7 +407,6 @@ Chapters IV–X, with Gallienus’s death from XI. All dates are AD.
 
 ## The crisis of 235–249
 
-
 ### 34. Succession — the useful prejudice
 
 <!-- ID: gibbon-02-succession-rule -->
@@ -446,9 +427,7 @@ Chapters IV–X, with Gallienus’s death from XI. All dates are AD.
 
 **Q:** What motive does Gibbon give for Maximinus’s cruelty?
 
-**A:** **Fear of contempt for his humble origins.** People who had helped him and people who had slighted him were equally dangerous because they knew his earlier obscurity.
-
-**Gibbon:** “But those who had spurned and those who had protected the Thracian were guilty of the same crime, the knowledge of his original obscurity.”
+**A:** **Fear of contempt for his humble origins:** “But those who had spurned and those who had protected the Thracian were guilty of the same crime, the knowledge of his original obscurity.”
 
 **Sources:** [Gibbon, Ch. VII, L992](sources/mueller-volumes-1-2.md#L992).
 
@@ -463,7 +442,6 @@ Chapters IV–X, with Gallienus’s death from XI. All dates are AD.
 
 **Sources:** [Gibbon, Ch. VII, L998](sources/mueller-volumes-1-2.md#L998); [DIR: Gordian I](https://roman-emperors.sites.luc.edu/gordo1.htm); [Gibbon, Ch. VII, L1004](sources/mueller-volumes-1-2.md#L1004).
 
-
 ### 37. The African Gordians — a brief reign
 
 <!-- ID: gibbon-02-gordians-death -->
@@ -474,7 +452,6 @@ Chapters IV–X, with Gallienus’s death from XI. All dates are AD.
 **A:** In **238**, forces loyal to Maximinus defeated the African revolt. **Gordian II died in battle; Gordian I killed himself**. The Senate continued resistance under Pupienus and Balbinus.
 
 **Sources:** [Gibbon, Ch. VII, L1010](sources/mueller-volumes-1-2.md#L1010); [DIR: Gordian I](https://roman-emperors.sites.luc.edu/gordo1.htm); [Gibbon, Ch. VII, L1012](sources/mueller-volumes-1-2.md#L1012).
-
 
 ### 38. Pupienus and Balbinus — the Senate’s choice
 
@@ -488,7 +465,6 @@ Chapters IV–X, with Gallienus’s death from XI. All dates are AD.
 **More:** Gibbon generally calls Pupienus **Maximus**. He is a different man from **Maximinus**, the emperor they opposed.
 
 **Sources:** [Gibbon, Ch. VII, L1012](sources/mueller-volumes-1-2.md#L1012); [Gibbon, Ch. VII, L1016](sources/mueller-volumes-1-2.md#L1016).
-
 
 ### 39. Maximinus — defeated by a siege
 
@@ -511,7 +487,6 @@ Chapters IV–X, with Gallienus’s death from XI. All dates are AD.
 **A:** Their mutual suspicion prevented cooperation against the Praetorians. In **238**, the guards seized and murdered both; **Gordian III** became emperor.
 
 **Sources:** [Gibbon, Ch. VII, L1028](sources/mueller-volumes-1-2.md#L1028); [Gibbon, Ch. VII, L1030](sources/mueller-volumes-1-2.md#L1030).
-
 
 ### 41. Gordian III — an able father-in-law
 
@@ -596,9 +571,7 @@ Chapters IV–X, with Gallienus’s death from XI. All dates are AD.
 
 **Q:** What links military power to justice in Gibbon’s maxim of Ardashir I, the Persian king he calls Artaxerxes?
 
-**A:** **An army requires taxes; taxes depend on agriculture; agriculture requires justice and moderation.** Oppression ultimately destroys the foundation of power.
-
-**Gibbon:** “The authority of the prince,” said Artaxerxes, “must be defended by a military force; that force can only be maintained by taxes; all taxes must, at last, fall upon agriculture; and agriculture can never flourish except under the protection of justice and moderation.”
+**A:** “The authority of the prince,” said Artaxerxes, “must be defended by a military force; that force can only be maintained by taxes; all taxes must, at last, fall upon agriculture; and agriculture can never flourish except under the protection of justice and moderation.”
 
 **Sources:** [Gibbon, Ch. VIII, L1091](sources/mueller-volumes-1-2.md#L1091).
 
@@ -609,9 +582,7 @@ Chapters IV–X, with Gallienus’s death from XI. All dates are AD.
 
 **Q:** How does Gibbon connect German poverty with political independence?
 
-**A:** A people with few possessions offers fewer means of coercion through wealth and dependence. He contrasts their independence with the richer empire’s subjection.
-
-**Gibbon:** “Their poverty secured their freedom, since our desires and our possessions are the strongest fetters of despotism.”
+**A:** “Their poverty secured their freedom, since our desires and our possessions are the strongest fetters of despotism.”
 
 **Sources:** [Gibbon, Ch. IX, L1114](sources/mueller-volumes-1-2.md#L1114).
 
@@ -668,7 +639,6 @@ Chapters IV–X, with Gallienus’s death from XI. All dates are AD.
 **More:** Gibbon calls the site **Forum Terebronii**.
 
 **Sources:** [Gibbon, Ch. X, L1175](sources/mueller-volumes-1-2.md#L1175); [Gibbon, Ch. X, L1181](sources/mueller-volumes-1-2.md#L1181); [Gibbon, Ch. X, L1183](sources/mueller-volumes-1-2.md#L1183); [DIR: Decius](https://roman-emperors.sites.luc.edu/decius.htm).
-
 
 ### 53. Gallus — buying a withdrawal
 
@@ -751,7 +721,6 @@ Chapters IV–X, with Gallienus’s death from XI. All dates are AD.
 
 **Sources:** [Gibbon, Ch. X, L1219](sources/mueller-volumes-1-2.md#L1219); [Gibbon, Ch. X, L1225](sources/mueller-volumes-1-2.md#L1225).
 
-
 ### 60. Valerian — the limits of a memorable story
 
 <!-- ID: gibbon-02-valerian-footstool -->
@@ -785,9 +754,7 @@ Chapters IV–X, with Gallienus’s death from XI. All dates are AD.
 
 **Q:** What is the point of Gibbon’s hostile portrait of Gallienus’s accomplishments?
 
-**A:** A prince may possess many talents and neglect the one office that matters. Gibbon turns the contrast between private accomplishments and public failure into an epigram.
-
-**Gibbon:** “He was a master of several curious but useless sciences, a ready orator, an elegant poet, a skillful gardener, an excellent cook, and most contemptible prince.”
+**A:** “He was a master of several curious but useless sciences, a ready orator, an elegant poet, a skillful gardener, an excellent cook, and most contemptible prince.”
 
 **Sources:** [Gibbon, Ch. X, L1227](sources/mueller-volumes-1-2.md#L1227).
 

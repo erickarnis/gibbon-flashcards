@@ -14,9 +14,12 @@
   margin: 0;
   padding: 28px 24px 44px;
   overflow-wrap: anywhere;
-  container-type: inline-size;
-  container-name: study;
 }
+/* Keep containment off the Anki body: it stops the body background from
+   painting the viewport below a short question in WebKit and Chromium. */
+html { min-height: 100%; }
+body.card { min-height: 100vh; box-sizing: border-box; }
+.gibbon-card { container-type: inline-size; container-name: study; }
 @supports (color: oklch(50% 0 0)) {
   .card { --paper: oklch(98% .005 115); --ink: oklch(28% .008 140); --muted: oklch(49% .012 140); --line: oklch(87% .008 140); --image-well: oklch(95% .008 115); --accent: oklch(46% .06 155); }
 }

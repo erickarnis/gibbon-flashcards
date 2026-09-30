@@ -11,7 +11,7 @@ Nerva to Marcus Aurelius. All dates are AD.
 
 **Q:** When, and after what overthrow, did Nerva become emperor?
 
-**A:** **AD 96**, after the assassination of **Domitian**. The Senate recognised the elderly Nerva as emperor; a palace murder had changed the master without restoring the republic.
+**A:** **AD 96**, after the assassination of **Domitian**. The Senate recognised the elderly Nerva as emperor.
 
 **Gibbon:** “They attacked the person of the tyrant without aiming their blow at the authority of the emperor.”
 
@@ -82,11 +82,9 @@ Nerva to Marcus Aurelius. All dates are AD.
 
 **Q:** What did Trajan's Column commemorate, and why does Gibbon dwell on it?
 
-**A:** His **Dacian victories**. The veteran could revisit his campaigns in marble; the peaceful citizen could borrow a share of their glory.
+**A:** His **Dacian victories**: “The veteran soldier contemplated the story of his own campaigns, and by an easy illusion of national vanity, the peaceful citizen associated himself to the honors of the triumph.”
 
 **More:** The column stood in Trajan's public forum; Gibbon gives its height as **110 feet**.
-
-**Gibbon:** “The veteran soldier contemplated the story of his own campaigns, and by an easy illusion of national vanity, the peaceful citizen associated himself to the honors of the triumph.”
 
 **Sources:** [Gibbon, Ch. II, L637](sources/mueller-opening.md#L637).
 
@@ -116,9 +114,7 @@ Nerva to Marcus Aurelius. All dates are AD.
 
 **Q:** Whom did Trajan seek to emulate in the East, and what fault does Gibbon find in that ambition?
 
-**A:** **Alexander the Great**. Trajan's love of military fame reveals the temptation of even an excellent prince to seek glory through destruction.
-
-**Gibbon:** “as long as mankind shall continue to bestow more liberal applause on their destroyers than on their benefactors, the thirst of military glory will ever be the vice of the most exalted characters.”
+**A:** **Alexander the Great**: “as long as mankind shall continue to bestow more liberal applause on their destroyers than on their benefactors, the thirst of military glory will ever be the vice of the most exalted characters.”
 
 **Sources:** [Gibbon, Ch. I, L568](sources/mueller-opening.md#L568).
 
@@ -172,11 +168,9 @@ Nerva to Marcus Aurelius. All dates are AD.
 <!-- ID: gibbon-01-hadrian-terminus -->
 <a id="gibbon-01-hadrian-terminus"></a>
 
-**Q:** What reversal of Trajan's policy prompts Gibbon's joke about the boundary god Terminus?
+**Q:** Why does Gibbon joke that the boundary god Terminus resisted Jupiter but submitted to Hadrian?
 
-**A:** Hadrian **relinquished Trajan's eastern conquests and restored the Euphrates frontier**. Rome's boundaries retreated under the emperor who preferred consolidation to conquest.
-
-**More:** **Terminus was Rome's god of boundaries**, represented by a boundary stone. In the legend, King Tarquin was clearing the Capitoline for **Jupiter's temple** when the omens forbade moving Terminus's shrine. His refusal was taken to promise that Rome's boundaries would never recede.
+**A:** **Hadrian relinquished Trajan’s eastern conquests and restored the Euphrates frontier.** In Rome’s age of kings, the legend said that omens forbade moving **Terminus’s shrine** to make room for **Jupiter’s Capitoline temple**. The boundary god’s refusal promised that Rome’s frontiers would never retreat. Hadrian made them retreat: the emperor accomplished what Jupiter could not.
 
 **Gibbon:** “But though Terminus had resisted the majesty of Jupiter, he submitted to the authority of the emperor Hadrian.”
 
@@ -266,9 +260,7 @@ Nerva to Marcus Aurelius. All dates are AD.
 
 **Q:** What act toward Hadrian's memory displays the filial duty associated with Antoninus's name, Pius?
 
-**A:** He overcame senatorial resistance to secure **Hadrian's deification**. His adoptive father's dubious reputation was sheltered by the son's dutiful persistence.
-
-**Gibbon:** “The senate doubted whether they should pronounce him a god or a tyrant; and the honors decreed to his memory were granted to the prayers of the pious Antoninus.”
+**A:** He secured **Hadrian’s deification**: “The senate doubted whether they should pronounce him a god or a tyrant; and the honors decreed to his memory were granted to the prayers of the pious Antoninus.”
 
 **Sources:** [Gibbon, Ch. III, L718](sources/mueller-opening.md#L718); [DIR: Antoninus Pius, Imperial Reign](https://roman-emperors.sites.luc.edu/tonypis.htm); [Gibbon, Ch. III, L718](sources/mueller-volumes-1-2.md#L718).
 
@@ -281,7 +273,7 @@ Nerva to Marcus Aurelius. All dates are AD.
 
 **Q:** Why does Gibbon treat the scarcity of dramatic events under Antoninus Pius as a distinction?
 
-**A:** A reign of **justice, order, and comparative peace** gives the historian fewer calamities to record. The prince's success becomes the historian's want of material.
+**A:** A reign of **justice, order, and comparative peace** gives the historian fewer calamities to record.
 
 **More:** Gibbon calls Pius a **second Numa**, after Rome's legendary peace-loving king. Pius and **Marcus Aurelius** ruled successively for **42 years, 138–180**.
 
@@ -499,9 +491,7 @@ Nerva to Marcus Aurelius. All dates are AD.
 
 **Q:** Why, in Gibbon's argument, could excellent emperors give Rome happiness without giving it security against tyranny?
 
-**A:** Its happiness depended on **the character of one man**, not on institutions capable of restraining him. The power which a virtuous ruler used for public good remained available to a vicious successor.
-
-**Gibbon:** “The ideal restraints of the senate and the laws might serve to display the virtues, but could never correct the vices, of the emperor.”
+**A:** “The ideal restraints of the senate and the laws might serve to display the virtues, but could never correct the vices, of the emperor.”
 
 **Sources:** [Gibbon, Ch. III, L730](sources/mueller-opening.md#L730).
 
@@ -529,9 +519,7 @@ Nerva to Marcus Aurelius. All dates are AD.
 
 **Q:** In Gibbon's celebrated threefold contrast, how did the people, the philosopher, and the magistrate regard the empire's religions?
 
-**A:** The people considered them **equally true**; the philosopher, **equally false**; the magistrate, **equally useful**.
-
-**Gibbon:** “The various modes of worship which prevailed in the Roman world were all considered by the people as equally true; by the philosopher, as equally false; and by the magistrate, as equally useful.”
+**A:** “The various modes of worship which prevailed in the Roman world were all considered by the people as equally true; by the philosopher, as equally false; and by the magistrate, as equally useful.”
 
 **Sources:** [Gibbon, Ch. II, L601](sources/mueller-opening.md#L601); [Gibbon, Ch. II, L601](sources/mueller-volumes-1-2.md#L601).
 

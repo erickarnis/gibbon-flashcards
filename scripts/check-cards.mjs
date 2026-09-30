@@ -54,7 +54,9 @@ for (const file of files) {
     }
     if (!sourceTexts.length && !/\*\*Sources:\*\*.*https?:\/\//.test(card))
       errors.push(`${label}: no source reference`);
-    const quoteField = card.match(/^\*\*Gibbon:\*\* (.+)$/m)?.[1];
+    const answerField = card.match(/^\*\*A:\*\* (.+)$/m)?.[1] ?? '';
+    const quoteField = card.match(/^\*\*Gibbon:\*\* (.+)$/m)?.[1]
+      ?? answerField.match(/“.+”/)?.[0];
     if (quoteField) {
       quoted++;
       for (const [, id] of foundIds) cardQuotes.set(id, {file, text: normalize(quoteField)});

@@ -1,0 +1,2 @@
+-r requirements-anki.txt
+anki==26.9.3

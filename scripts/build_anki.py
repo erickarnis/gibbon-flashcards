@@ -11,11 +11,17 @@ import tempfile
 import zipfile
 import genanki
 import markdown
+from PIL import Image, ImageOps
 
 ROOT = Path(__file__).resolve().parents[1]
 OUT = ROOT / 'dist'
 FIELDS = ['StableID', 'Question', 'Answer', 'Images', 'Gibbon', 'More', 'Sources', 'ImageCredits', 'PromptImages']
 PARENT = 'Gibbon — Decline and Fall'
+CAPTIONS = json.loads((ROOT/'anki-layout/portrait-captions.json').read_text())
+
+def portrait_caption(person):
+    kind = person.get('depiction_kind', '')
+    return CAPTIONS.get(person['id'], '' if kind == 'Ancient object; attribution per source' else kind)
 
 def stable_id(value):
     return int(hashlib.sha256(value.encode()).hexdigest()[:8], 16) & 0x7fffffff
@@ -83,19 +89,25 @@ def image_fields(selected, media, stage):
         original = ROOT / p['local_path']
         # Content-addressed names prevent a revised photo overwriting an older
         # image while notes and their scheduling retain stable identities.
-        name = 'gibbon-' + p['id'] + '-' + hashlib.sha256(original.read_bytes()).hexdigest()[:12] + original.suffix.lower()
+        compatibility = p['id'] == 'nerva'
+        name = 'gibbon-' + p['id'] + '-' + hashlib.sha256(original.read_bytes()).hexdigest()[:12] + ('-baseline-v1.jpg' if compatibility else original.suffix.lower())
         target = stage / name
         if name not in media:
-            shutil.copyfile(original, target)
+            if compatibility:
+                with Image.open(original) as source:
+                    ImageOps.exif_transpose(source).convert('RGB').save(target, 'JPEG', quality=95, progressive=False, subsampling=0)
+            else:
+                shutil.copyfile(original, target)
             media[name] = target
         img = f'<img src="{name}" alt="{esc(p["name"])}" width="{p["width"]}" height="{p["height"]}">'
-        qualification = ' · '.join(filter(None, [p.get('depiction_kind'), p.get('identity_note'), p.get('selection_note')]))
+        qualification = portrait_caption(p)
         figures.append(f'<figure><div class="image-frame">{img}</div><figcaption><strong>{esc(p["name"])}</strong><span class="depiction">{esc(qualification)}</span></figcaption><details class="picture-zoom"><summary>Enlarge</summary>{img}</details></figure>')
         license_text = esc(p.get('license') or 'Reuse rights not verified')
         if p.get('license_url'):
             license_text = f'<a href="{esc(p["license_url"])}">{license_text}</a>'
         details = ' · '.join(filter(None, [p.get(k) for k in ['credit','credit_note','restrictions','reuse_notes']]))
-        credits.append(f'<p><strong>{esc(p["name"])}</strong><br>{esc(p.get("artist") or "Creator not recorded")} · <a href="{esc(p["file_page_url"])}">Source</a> · {license_text}<br>{esc(details)}<br>Displayed without cropping or alteration.</p>')
+        modification = 'Re-encoded as a baseline JPEG for compatibility; no cropping.' if compatibility else 'Displayed without cropping or alteration.'
+        credits.append(f'<p><strong>{esc(p["name"])}</strong><br>{esc(p.get("artist") or "Creator not recorded")} · <a href="{esc(p["file_page_url"])}">Source</a> · {license_text}<br>{esc(details)}<br>{modification}</p>')
     return ''.join(figures), ''.join(credits)
 
 def build():
@@ -122,6 +134,9 @@ def build():
                 selected = select_people(fields['Q']+' '+fields['A'], file.name, people)
                 if ident == 'gibbon-01-nerva-accession':
                     selected = [p for p in selected if p['id']=='nerva']
+                if ident == 'gibbon-04-eusebius':
+                    # The chamberlain is not the bishop Eusebius of Caesarea.
+                    selected = [p for p in selected if p['id'] != 'eusebius']
                 images, credits = image_fields(selected, media, stage)
                 values = [ident, md(fields['Q']), md(fields['A']), images, md(fields.get('Gibbon','')), md(fields.get('More','')), sources(fields['Sources']), credits, '']
                 tags = re.search(r'<!-- Tags: (.*?) -->', chunk)
@@ -146,6 +161,11 @@ def verify(destination, report, expected_media):
         assert set(mapping.values()) == set(expected_media)
         for key,name in mapping.items():
             assert z.read(key)==expected_media[name].read_bytes(), name
+            with Image.open(expected_media[name]) as picture:
+                picture.load()
+                if 'gibbon-nerva-' in name:
+                    assert picture.format == 'JPEG' and picture.mode == 'RGB'
+                    assert not picture.info.get('progressive') and not picture.info.get('exif')
         db = Path(temp)/'collection.anki2'
         db.write_bytes(z.read('collection.anki2'))
         with sqlite3.connect(db) as con:

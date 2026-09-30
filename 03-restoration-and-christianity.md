@@ -52,9 +52,7 @@ Chapters XI–XVI of Mueller’s abridgment. All dates are AD. Markdown review d
 
 **Q:** What principle governs the military discipline attributed to Aurelian?
 
-**A:** Soldiers must live on their public allowance and the spoils of enemies, **not plunder the provincials they defend**. Gibbon pairs this rule with severe punishments.
-
-**Gibbon:** “their wealth should be collected from the spoils of the enemy, not from the tears of the provincials.”
+**A:** Soldiers must live on their **public allowance and the spoils of enemies**: “their wealth should be collected from the spoils of the enemy, not from the tears of the provincials.”
 
 **Sources:** [Gibbon, L1266](sources/mueller-volumes-1-2.md#L1266).
 
@@ -67,9 +65,7 @@ Chapters XI–XVI of Mueller’s abridgment. All dates are AD. Markdown review d
 
 **Q:** What did Aurelian’s fortification of Rome signify to Gibbon?
 
-**A:** Rome itself now needed walls against invasion: **defending the capital exposed the insecurity of the empire**. Aurelian began the new circuit after German incursions into Italy.
-
-**Gibbon:** “It was a great but a melancholy labor, since the defense of the capital betrayed the decline of the monarchy.”
+**A:** “It was a great but a melancholy labor, since the defense of the capital betrayed the decline of the monarchy.”
 
 **Sources:** [Gibbon, L1276](sources/mueller-volumes-1-2.md#L1276).
 
@@ -123,9 +119,9 @@ Chapters XI–XVI of Mueller’s abridgment. All dates are AD. Markdown review d
 
 **Q:** What reversal does Gibbon make memorable in Zenobia’s appearance at Aurelian’s triumph?
 
-**A:** The queen who had hoped to enter Rome in triumph **walks before her own chariot as a captive**, burdened with gold and jewels.
+**A:** “She preceded on foot the magnificent chariot in which she once hoped to enter the gates of Rome.”
 
-**Gibbon:** “She preceded on foot the magnificent chariot in which she once hoped to enter the gates of Rome.”
+**More:** Zenobia, queen of Palmyra, was displayed at Aurelian’s triumph burdened with gold and jewels.
 
 **Sources:** [Gibbon, L1302](sources/mueller-volumes-1-2.md#L1302).
 
@@ -252,9 +248,7 @@ Chapters XI–XVI of Mueller’s abridgment. All dates are AD. Markdown review d
 
 **Q:** Why does Gibbon admire the gladiators who rebelled during the celebrations of Probus’s triumph?
 
-**A:** They refused to die for the crowd’s amusement, killed their keepers, and fought until overwhelmed. Gibbon honours their **resistance to degradation**, even amid his praise of the victorious emperor.
-
-**Gibbon:** “Disdaining to shed their blood for the amusement of the populace, they killed their keepers, broke from the place of their confinement, and filled the streets of Rome with blood and confusion. After an obstinate resistance, they were overpowered and cut in pieces by the regular forces; but they obtained at least an honorable death and the satisfaction of a just revenge.”
+**A:** “Disdaining to shed their blood for the amusement of the populace, they killed their keepers, broke from the place of their confinement, and filled the streets of Rome with blood and confusion. After an obstinate resistance, they were overpowered and cut in pieces by the regular forces; but they obtained at least an honorable death and the satisfaction of a just revenge.”
 
 **Sources:** [Gibbon, L1357](sources/mueller-volumes-1-2.md#L1357); [Gibbon, Ch. XII, L1357](sources/mueller-volumes-1-2.md#L1357).
 
@@ -431,9 +425,7 @@ Chapters XI–XVI of Mueller’s abridgment. All dates are AD. Markdown review d
 
 **Q:** How does Gibbon contrast the political theatre of Augustus and Diocletian?
 
-**A:** Augustus **disguised** monarchy beneath republican forms; Diocletian **displayed** it through court ceremony, seclusion, costly dress, and prostration.
-
-**Gibbon:** “It was the aim of the one to disguise, and the object of the other to display, the unbounded power which the emperors possessed over the Roman world.”
+**A:** Of **Augustus and Diocletian**, respectively: “It was the aim of the one to disguise, and the object of the other to display, the unbounded power which the emperors possessed over the Roman world.”
 
 **Sources:** [Gibbon, L1442](sources/mueller-volumes-1-2.md#L1442).
 
@@ -472,11 +464,9 @@ Chapters XI–XVI of Mueller’s abridgment. All dates are AD. Markdown review d
 <!-- ID: gibbon-03-cabbages -->
 <a id="gibbon-03-cabbages"></a>
 
-**Q:** How does the cabbage anecdote express Diocletian’s choice after retirement?
+**Q:** How did the retired Diocletian reportedly answer his former imperial colleague Maximian’s invitation to resume power?
 
-**A:** Asked by **Maximian, his former imperial colleague** to resume power, Diocletian reportedly preferred the **cabbages he had grown at Salona**: the enjoyment of private happiness over renewed ambition.
-
-**Gibbon:** “He rejected the temptation with a smile of pity, calmly observing that if he could show Maximian the cabbages which he had planted with his own hands at Salona, he should no longer be urged to relinquish the enjoyment of happiness for the pursuit of power.”
+**A:** “He rejected the temptation with a smile of pity, calmly observing that if he could show Maximian the cabbages which he had planted with his own hands at Salona, he should no longer be urged to relinquish the enjoyment of happiness for the pursuit of power.”
 
 **Sources:** [Gibbon, L1452](sources/mueller-volumes-1-2.md#L1452).
 
@@ -487,11 +477,9 @@ Chapters XI–XVI of Mueller’s abridgment. All dates are AD. Markdown review d
 <!-- ID: gibbon-03-court-truth -->
 <a id="gibbon-03-court-truth"></a>
 
-**Q:** What danger of court government does Gibbon illustrate through Diocletian’s reflections in retirement?
+**Q:** What danger did Diocletian see in a secluded emperor’s dependence on his ministers, according to Gibbon?
 
-**A:** Ministers can **control everything the sovereign learns**, turning exalted power into dependence on those who filter the truth.
-
-**Gibbon:** “Secluded from mankind by his exalted dignity, the truth is concealed from his knowledge; he can see only with their eyes, he hears nothing but their misrepresentations.”
+**A:** “Secluded from mankind by his exalted dignity, the truth is concealed from his knowledge; he can see only with their eyes, he hears nothing but their misrepresentations.”
 
 **Sources:** [Gibbon, L1452](sources/mueller-volumes-1-2.md#L1452).
 
@@ -644,9 +632,7 @@ Chapters XI–XVI of Mueller’s abridgment. All dates are AD. Markdown review d
 
 **Q:** How does Gibbon distinguish the historian’s treatment of religion from the theologian’s?
 
-**A:** The theologian describes religion’s **divine purity**; the historian examines its **human history**, including the errors and corruption acquired among its followers.
-
-**Gibbon:** “The theologian may indulge the pleasing task of describing Religion as she descended from Heaven, arrayed in her native purity. A more melancholy duty is imposed on the historian. He must discover the inevitable mixture of error and corruption which she contracted in a long residence upon earth, among a weak and degenerate race of beings.”
+**A:** “The theologian may indulge the pleasing task of describing Religion as she descended from Heaven, arrayed in her native purity. A more melancholy duty is imposed on the historian. He must discover the inevitable mixture of error and corruption which she contracted in a long residence upon earth, among a weak and degenerate race of beings.”
 
 **Sources:** [Gibbon, L1556](sources/mueller-volumes-1-2.md#L1556).
 
@@ -795,9 +781,7 @@ Chapters XI–XVI of Mueller’s abridgment. All dates are AD. Markdown review d
 
 **Q:** How did the Roman empire help Christianity spread?
 
-**A:** Its connected territories and **roads** let missionaries travel between cities and provinces. Infrastructure built for Roman power also carried a faith that would transform it.
-
-**Gibbon:** “The public highways, which had been constructed for the use of the legions, opened an easy passage for the Christian missionaries from Damascus to Corinth, and from Italy to the extremity of Spain or Britain;”
+**A:** “The public highways, which had been constructed for the use of the legions, opened an easy passage for the Christian missionaries from Damascus to Corinth, and from Italy to the extremity of Spain or Britain;”
 
 **Sources:** [Gibbon, L1640](sources/mueller-volumes-1-2.md#L1640).
 
@@ -948,9 +932,7 @@ Chapters XI–XVI of Mueller’s abridgment. All dates are AD. Markdown review d
 
 **Q:** Why does Gibbon refuse simply to reproduce the accumulated stories of Christian martyrdom?
 
-**A:** He insists on **testing the sources before repeating their stories**, especially when an author selects events to glorify a cause.
-
-**Gibbon:** “But I cannot determine what I ought to transcribe till I am satisfied how much I ought to believe.”
+**A:** “But I cannot determine what I ought to transcribe till I am satisfied how much I ought to believe.”
 
 **Sources:** [Gibbon, L1763](sources/mueller-volumes-1-2.md#L1763).
 

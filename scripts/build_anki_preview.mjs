@@ -19,6 +19,7 @@ for (const file of fs.readdirSync('.').filter(f => /^\d.*\.md$/.test(f))) {
   }
 }
 const people = new Map(JSON.parse(fs.readFileSync('sources/portraits/manifest.json', 'utf8')).map(p => [p.id,p]));
+const captions = JSON.parse(fs.readFileSync('anki-layout/portrait-captions.json', 'utf8'));
 // Deliberate sample associations, not a proposed mapping for the whole deck.
 const samples = [
   ['gibbon-01-nerva-accession','One picture + quotation',[['nerva','Emperor from AD 96']]],
@@ -42,7 +43,7 @@ const result = samples.map(([id,label,portraits]) => {
     const p = people.get(person);
     if (!p?.local_path || !fs.existsSync(p.local_path)) throw new Error(`Missing picture: ${person}`);
     const img = `<img src="../${esc(p.local_path)}" alt="${esc(p.name)}: ${esc(p.depiction_kind)}" width="${p.width}" height="${p.height}">`;
-    const qualification = [p.depiction_kind,p.identity_note,p.selection_note].filter(Boolean).join(' · ');
+    const qualification = captions[p.id] ?? (p.depiction_kind === 'Ancient object; attribution per source' ? '' : p.depiction_kind);
     return {p, html:`<figure><div class="image-frame">${img}</div><figcaption><strong>${esc(p.name)}</strong>${esc(role)}<span class="depiction">${esc(qualification)}</span></figcaption><details class="picture-zoom"><summary>Enlarge</summary>${img}</details></figure>`};
   });
   const fields = {Question:c.Q,Answer:c.A,Gibbon:c.Gibbon,More:c.More,Sources:c.Sources,Images:selected.map(x=>x.html).join(''),ImageCredits:selected.map(({p})=>`<p><strong>${esc(p.name)}</strong><br>${esc(p.artist || 'Creator not recorded')} · <a href="${esc(p.file_page_url)}">Source</a> · ${p.license_url ? `<a href="${esc(p.license_url)}">${esc(p.license)}</a>` : esc(p.license)}<br>${esc([p.credit,p.credit_note,p.restrictions,p.reuse_notes].filter(Boolean).join(' · '))}<br>Displayed without cropping or alteration.</p>`).join('')};

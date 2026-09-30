@@ -34,6 +34,8 @@ Eric values Gibbon's literary style. Prefer his words where they make a good ans
 
 Aim for one worthwhile quotation per card when the text supplies one. Leave cards unquoted rather than force a weak passage. A quotation must earn its space beyond merely repeating the answer. Preserve enough of the sentence for its rhythm and meaning; avoid flat fragments.
 
+When a quotation already answers the question, use it directly in **A** and omit the repeating paraphrase and separate **Gibbon** field. Add only the names, dates, or context needed to make it understandable. Background essential to an allusion belongs in the visible answer before the quotation, not behind **More**. Keep portrait-selection decisions out of captions; retain only useful identification or depiction qualifications.
+
 Approved model:
 
 > The veteran soldier contemplated the story of his own campaigns, and by an easy illusion of national vanity, the peaceful citizen associated himself to the honors of the triumph.

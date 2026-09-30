@@ -26,9 +26,7 @@ Chapters XVII–XXVI, completing Volume II. All dates are AD.
 
 **Q:** In the foundation legend, why would Constantine not stop enlarging his new city?
 
-**A:** He claimed to follow an **invisible divine guide**. When attendants protested that the circuit already exceeded a great city, he would advance until that guide stopped.
-
-**Gibbon:** “I shall still advance,” replied Constantine, “till HE, the invisible guide who marches before me, thinks proper to stop.”
+**A:** “I shall still advance,” replied Constantine, “till HE, the invisible guide who marches before me, thinks proper to stop.”
 
 **Sources:** [Gibbon, Ch. XVII, L1797](sources/mueller-volumes-1-2.md#L1797).
 
@@ -39,11 +37,7 @@ Chapters XVII–XXVI, completing Volume II. All dates are AD.
 
 **Q:** How does Gibbon turn the decoration of Constantinople into a judgment on cultural decline?
 
-**A:** Constantine could **transfer the masterpieces of Greece**, but could not recreate the genius that had made them. Imperial power could collect sculpture; it could not produce another great sculptor, poet, or orator.
-
-**Gibbon:** “To revive the genius of Phidias and Lysippus surpassed indeed the power of a Roman emperor; but the immortal productions which they had bequeathed to posterity were exposed without defense to the rapacious vanity of a despot.”
-
-**More:** **Phidias and Lysippus**, named in the quotation, were celebrated Greek sculptors.
+**A:** **Phidias and Lysippus were celebrated Greek sculptors.** “To revive the genius of Phidias and Lysippus surpassed indeed the power of a Roman emperor; but the immortal productions which they had bequeathed to posterity were exposed without defense to the rapacious vanity of a despot.”
 
 **Sources:** [Gibbon, Ch. XVII, L1799](sources/mueller-volumes-1-2.md#L1799).
 
@@ -132,9 +126,7 @@ Chapters XVII–XXVI, completing Volume II. All dates are AD.
 
 **Q:** Why does Gibbon say taxation mattered more than executions to most imperial subjects?
 
-**A:** Political cruelty chiefly threatened conspicuous individuals; **taxation reached the obscure millions**, pressing hardest on those with least to spare.
-
-**Gibbon:** “The obscure millions of a great empire have much less to dread from the cruelty than from the avarice of their masters, and their humble happiness is principally affected by the grievance of excessive taxes, which, gently pressing on the wealthy, descend with accelerated weight on the meaner and more indigent classes of society.”
+**A:** “The obscure millions of a great empire have much less to dread from the cruelty than from the avarice of their masters, and their humble happiness is principally affected by the grievance of excessive taxes, which, gently pressing on the wealthy, descend with accelerated weight on the meaner and more indigent classes of society.”
 
 **Sources:** [Gibbon, Ch. XVII, L1851](sources/mueller-volumes-1-2.md#L1851).
 
@@ -253,9 +245,7 @@ Chapters XVII–XXVI, completing Volume II. All dates are AD.
 
 **Q:** How does Gibbon convey the power of Eusebius, Constantius II’s chamberlain?
 
-**A:** **Eusebius dominated access to the emperor and the palace.** Gibbon repeats a sarcasm that reverses the proper relation between monarch and servant.
-
-**Gibbon:** “Of these slaves the most distinguished was the chamberlain Eusebius, who ruled the monarch and the palace with such absolute sway that Constantius, according to the sarcasm of an impartial historian, possessed some credit with this haughty favorite.”
+**A:** “Of these slaves the most distinguished was the chamberlain Eusebius, who ruled the monarch and the palace with such absolute sway that Constantius, according to the sarcasm of an impartial historian, possessed some credit with this haughty favorite.”
 
 **Sources:** [Gibbon, Ch. XIX, L1927](sources/mueller-volumes-1-2.md#L1927).
 
@@ -316,9 +306,7 @@ Chapters XVII–XXVI, completing Volume II. All dates are AD.
 
 **Q:** What principle did Julian defend when the prosecutor Delphidius complained that denial let defendants escape?
 
-**A:** **An accusation is not proof.** Julian answered the prosecutor’s demand for easy conviction by asking how innocence could survive if mere assertion were enough.
-
-**Gibbon:** “Who will ever be found guilty,” exclaimed the vehement Delphidius, “if it be enough to deny?” “And who,” replied Julian, “will ever be innocent, if it be sufficient to affirm?”
+**A:** “Who will ever be found guilty,” exclaimed the vehement Delphidius, “if it be enough to deny?” “And who,” replied Julian, “will ever be innocent, if it be sufficient to affirm?”
 
 **Sources:** [Gibbon, Ch. XIX, L1973](sources/mueller-volumes-1-2.md#L1973).
 
@@ -425,9 +413,7 @@ Chapters XVII–XXVI, completing Volume II. All dates are AD.
 
 **Q:** What lost civic privilege does Gibbon find preserved in episcopal elections?
 
-**A:** **Choosing the magistrates one must obey.** Clergy and people participated in selecting their bishop, even after meaningful political election had disappeared from imperial government.
-
-**Gibbon:** “The freedom of election subsisted long after the legal establishment of Christianity; and the subjects of Rome enjoyed in the church the privilege which they had lost in the republic, of choosing the magistrates whom they were bound to obey.”
+**A:** “The freedom of election subsisted long after the legal establishment of Christianity; and the subjects of Rome enjoyed in the church the privilege which they had lost in the republic, of choosing the magistrates whom they were bound to obey.”
 
 **Sources:** [Gibbon, Ch. XX, L2030](sources/mueller-volumes-1-2.md#L2030).
 
@@ -588,9 +574,7 @@ Chapters XVII–XXVI, completing Volume II. All dates are AD.
 
 **Q:** What contrast does Gibbon draw between Constantius II’s informers and Julian’s reform?
 
-**A:** **The security of one ruler against the insecurity of millions.** Gibbon praises Julian’s attack on a system that bought the emperor’s peace by disturbing his subjects’ lives.
-
-**Gibbon:** “The numerous army of spies, of agents, and informers enlisted by Constantius to secure the repose of one man and to interrupt that of millions was immediately disbanded by his generous successor.”
+**A:** “The numerous army of spies, of agents, and informers enlisted by Constantius to secure the repose of one man and to interrupt that of millions was immediately disbanded by his generous successor.”
 
 **Sources:** [Gibbon, Ch. XXII, L2166](sources/mueller-volumes-1-2.md#L2166).
 
@@ -655,9 +639,7 @@ Chapters XVII–XXVI, completing Volume II. All dates are AD.
 
 **Q:** What joke did Julian’s extravagant sacrifices provoke?
 
-**A:** If he returned victorious from Persia, **there would be no horned cattle left**. His personal economy coexisted with enormous spending on sacrifices and restored temples.
-
-**Gibbon:** “a hundred oxen were frequently sacrificed by Julian on one and the same day; and it soon became a popular jest that if he should return with conquest from the Persian war, the breed of horned cattle must infallibly be extinguished.”
+**A:** “a hundred oxen were frequently sacrificed by Julian on one and the same day; and it soon became a popular jest that if he should return with conquest from the Persian war, the breed of horned cattle must infallibly be extinguished.”
 
 **Sources:** [Gibbon, Ch. XXIII, L2201](sources/mueller-volumes-1-2.md#L2201).
 
@@ -919,9 +901,7 @@ Chapters XVII–XXVI, completing Volume II. All dates are AD.
 
 **Q:** What joke did the pagan official Praetextatus make to Damasus, bishop of Rome?
 
-**A:** **Give me the bishopric of Rome, and I will become a Christian.** Gibbon uses the joke to expose the wealth and worldly ambition attached to the office.
-
-**Gibbon:** “Praetextatus was a philosophic Pagan, a man of learning, of taste, and politeness; who disguised a reproach in the form of a jest when he assured Damasus that if he could obtain the bishopric of Rome, he himself would immediately embrace the Christian religion.”
+**A:** “Praetextatus was a philosophic Pagan, a man of learning, of taste, and politeness; who disguised a reproach in the form of a jest when he assured Damasus that if he could obtain the bishopric of Rome, he himself would immediately embrace the Christian religion.”
 
 **Sources:** [Gibbon, Ch. XXV, L2325](sources/mueller-volumes-1-2.md#L2325).
 

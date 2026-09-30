@@ -11,9 +11,7 @@ Chapters I–III. Companion to the opening emperors; questions on institutions, 
 
 **Q:** Why did Augustus recommend limits to Roman expansion?
 
-**A:** Further conquest offered **diminishing rewards and increasing dangers**. Distant wars were harder to win; distant provinces were harder to hold.
-
-**Gibbon:** “in the prosecution of remote wars, the undertaking became every day more difficult, the event more doubtful, and the possession more precarious, and less beneficial.”
+**A:** “in the prosecution of remote wars, the undertaking became every day more difficult, the event more doubtful, and the possession more precarious, and less beneficial.”
 
 **Sources:** [Gibbon, Ch. I, L560](sources/mueller-volumes-1-2.md#L560).
 
@@ -26,9 +24,7 @@ Chapters I–III. Companion to the opening emperors; questions on institutions, 
 
 **Q:** What political weakness, rather than lack of courage, explains Britain's conquest in Gibbon's account?
 
-**A:** The British peoples **failed to unite**. Their separate resistance allowed Rome to defeat them in succession.
-
-**Gibbon:** “The various tribes of Britain possessed valor without conduct, and the love of freedom without the spirit of union.”
+**A:** “The various tribes of Britain possessed valor without conduct, and the love of freedom without the spirit of union.”
 
 **Sources:** [Gibbon, Ch. I, L564](sources/mueller-volumes-1-2.md#L564).
 
@@ -41,9 +37,7 @@ Chapters I–III. Companion to the opening emperors; questions on institutions, 
 
 **Q:** Why was abandoning a Roman legion's eagle more than a military disgrace?
 
-**A:** The standard carried **religious as well as military loyalty**. Losing it violated the soldier's sacred attachment to his legion and his oath of service.
-
-**Gibbon:** “The golden eagle which glittered in the front of the legion was the object of their fondest devotion; nor was it esteemed less impious than it was ignominious to abandon that sacred ensign in the hour of danger.”
+**A:** “The golden eagle which glittered in the front of the legion was the object of their fondest devotion; nor was it esteemed less impious than it was ignominious to abandon that sacred ensign in the hour of danger.”
 
 **Sources:** [Gibbon, Ch. I, L578](sources/mueller-volumes-1-2.md#L578).
 
@@ -107,9 +101,7 @@ Chapters I–III. Companion to the opening emperors; questions on institutions, 
 
 **Q:** In the proposal reported by Gibbon, why was distinctive clothing for enslaved people rejected?
 
-**A:** It might reveal **how numerous they were**, making the masters' security more precarious.
-
-**Gibbon:** “It was once proposed to discriminate the slaves by a peculiar habit; but it was justly apprehended that there might be some danger in acquainting them with their own numbers.”
+**A:** “It was once proposed to discriminate the slaves by a peculiar habit; but it was justly apprehended that there might be some danger in acquainting them with their own numbers.”
 
 **Sources:** [Gibbon, Ch. II, L629](sources/mueller-volumes-1-2.md#L629).
 
@@ -124,9 +116,7 @@ Chapters I–III. Companion to the opening emperors; questions on institutions, 
 
 **Q:** What makes Roman building especially significant to Gibbon beyond its scale and beauty?
 
-**A:** Its **public use**, often supported by private wealth: buildings and infrastructure served the community as well as displaying the patron's magnificence.
-
-**Gibbon:** “Many of those works were erected at private expense, and almost all were intended for public benefit.”
+**A:** “Many of those works were erected at private expense, and almost all were intended for public benefit.”
 
 **Sources:** [Gibbon, Ch. II, L635](sources/mueller-volumes-1-2.md#L635); [L637](sources/mueller-volumes-1-2.md#L637).
 
@@ -186,9 +176,7 @@ Chapters I–III. Companion to the opening emperors; questions on institutions, 
 
 **Q:** What contradiction does Gibbon find in Augustus's reform of the Senate?
 
-**A:** Augustus restored its **prestige while controlling its membership**. A body selected by the ruler could scarcely restrain him.
-
-**Gibbon:** “The principles of a free constitution are irrecoverably lost when the legislative power is nominated by the executive.”
+**A:** Augustus restored the Senate’s **prestige while controlling its membership**: “The principles of a free constitution are irrecoverably lost when the legislative power is nominated by the executive.”
 
 **Sources:** [Gibbon, Ch. III, L672](sources/mueller-volumes-1-2.md#L672).
 
@@ -278,9 +266,7 @@ Chapters I–III. Companion to the opening emperors; questions on institutions, 
 
 **Q:** Why does Gibbon describe the Roman world under a tyrant as a prison?
 
-**A:** Its very **size denied the victim a practical refuge**. Where rival states might shelter an exile, one master's authority reached across the Roman world.
-
-**Gibbon:** “But the empire of the Romans filled the world, and when the empire fell into the hands of a single person, the world became a safe and dreary prison for his enemies.”
+**A:** “But the empire of the Romans filled the world, and when the empire fell into the hands of a single person, the world became a safe and dreary prison for his enemies.”
 
 **Sources:** [Gibbon, Ch. III, L740](sources/mueller-volumes-1-2.md#L740).
 
